@@ -17,6 +17,14 @@ This document is an engineering spec, not §1201 research. It does not belong in
 > and they double as the §9 regression oracle. Migration steps 6–7 (§10) are
 > done; 1–5 and 8 remain. Three corrections from that work are folded into
 > §5.2, §8.3, §9, §10 and §11.
+>
+> **Tooling language — Node, not Python.** Per a later instruction, the build
+> pipeline (validate / derive / render) is implemented in **vanilla Node
+> (`.mjs`, standard library only)**, not Python. Everywhere §4, §7, §9 and §10
+> below say `*.py` or "Python", read `*.mjs` / Node. The authoritative,
+> up-to-date description of the build lives in `CLAUDE.md`, and the scripts
+> themselves in `analysis/build/`; this proposal is the original spec, kept for
+> its rationale and schemas.
 
 ---
 
