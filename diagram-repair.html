@@ -410,7 +410,7 @@
 <script src="diagram-repair-data.js"></script>
 <script>
 "use strict";
-const { CYCLES, ROWS } = window.DMCA1201_REPAIR;
+const { CYCLES, ROWS } = window.DMCA1201_REPAIR || { CYCLES: [], ROWS: [] };
 
 
 // ============================================================
@@ -559,6 +559,12 @@ function clearDetail() {
 // ============================================================
 
 function init() {
+  if (!window.DMCA1201_REPAIR) {
+    document.getElementById("matrix-body").innerHTML =
+      '<tr><td colspan="10" style="padding:16px;color:#b71c1c;">' +
+      "Could not load diagram-repair-data.js — it must sit next to this file.</td></tr>";
+    return;
+  }
   buildMatrix();
 
   document.getElementById("matrix").addEventListener("click", e => {

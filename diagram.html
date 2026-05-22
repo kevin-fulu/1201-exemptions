@@ -560,16 +560,20 @@
 (function () {
   var DATA = window.DMCA1201_DIAGRAM;
   if (!DATA) {
+    var failMsg = "Could not load <code>diagram-data.js</code> — it must sit next to this file.";
     document.getElementById("matrix-body").innerHTML =
-      '<tr><td colspan="11" style="padding:16px;color:#b71c1c;">' +
-      "Could not load <code>diagram-data.js</code> — it must sit next to this file.</td></tr>";
+      '<tr><td colspan="11" style="padding:16px;color:#b71c1c;">' + failMsg + "</td></tr>";
+    document.getElementById("details-body").innerHTML =
+      '<p style="color:#b71c1c;">' + failMsg + "</p>";
+    document.getElementById("detail-panel").innerHTML =
+      '<p class="placeholder">' + failMsg + "</p>";
     return;
   }
 
   function esc(s) {
     return String(s)
       .replace(/&/g, "&amp;").replace(/</g, "&lt;")
-      .replace(/>/g, "&gt;").replace(/"/g, "&quot;");
+      .replace(/>/g, "&gt;").replace(/"/g, "&quot;").replace(/'/g, "&#39;");
   }
 
   // ---- renderers ----
@@ -648,7 +652,7 @@
       var txt = bolds[i].replace(/<\/?b>/g, "");
       var plus = txt.match(/(\d{4})\s*\+/);
       if (plus && cycle >= +plus[1]) return true;
-      var range = txt.match(/(\d{4})\s*[–-]\s*(\d{4})/);
+      var range = txt.match(/(\d{4})\s*[–—-]\s*(\d{4})/);
       if (range && cycle >= +range[1] && cycle <= +range[2]) return true;
       var years = txt.match(/\d{4}/g) || [];
       if (years.indexOf(String(cycle)) !== -1) return true;
