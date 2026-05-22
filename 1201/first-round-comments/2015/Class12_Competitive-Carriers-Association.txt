@@ -1,0 +1,573 @@
+[PAGE 1]
+  
+1 
+   
+Long Comment Regarding a Proposed Exemption 
+Under 17 U.S.C. 1201 
+  
+[  ]   Check here if multimedia evidence is being provided in connection with this 
+comment 
+Please note that such evidence must be separately submitted on a disc or flash drive.  See the Notice of 
+Proposed Rulemaking for detailed instructions.   
+  
+Item 1. Commenter Information  
+Identify the commenting party and, if desired, provide a means for others to contact the commenter or an 
+authorized representative of the commenter by email and/or telephone.  (Please keep in mind that any 
+private, confidential, or personally identifiable information in this document will be accessible to the public.) 
+ 
+Commenting Party: Competitive Carriers Association (“CCA”)  
+ 
+CCA is the nation’s leading association for competitive wireless providers and 
+stakeholders across the United States. CCA’s membership includes more than 100 competitive 
+wireless providers ranging from small, rural carriers serving fewer than 5,000 customers to 
+regional and national providers serving millions of customers. The licensed service area of 
+CCA’s carrier members covers more than 95 percent of the nation. CCA also represents 
+approximately 200 associate members consisting of small businesses, vendors, and suppliers that 
+serve carriers of all sizes.  
+ 
+Contact: Rebecca Murphy Thompson, General Counsel  
+  C. Sean Spivey, Assistant General Counsel 
+Email:  sean.spivey@competitivecarriers.org  
+Telephone: (800) 722-1872 
+ 
+Item 2.  Proposed Class Addressed 
+Identify the proposed exemption that your comment addresses by the number and name of the class set 
+forth in the Notice of Proposed Rulemaking (e.g., “Proposed Class 7: Audiovisual works – derivative uses  
+– noncommercial remix videos”).  
+ 
+ Proposed Class 12: Unlocking—All Purpose Tablet Computers.1  As noted in the 
+NPRM, “This proposed class would allow the unlocking of all-purpose tablet computers. This 
+class would encompass devices such as the Apple iPad, Microsoft Surface, Amazon Kindle Fire, 
+and Samsung Galaxy Tab, but would exclude specialized devices such as dedicated e-book 
+                                                 
+1 CCA originally sought four separate exemptions addressing the following categories: (i) 
+wireless handsets; (ii) all-purpose tablet computers; (iii) mobile hotspots and MiFi devices; and 
+(iv) connected wearables and consumer machines (the Internet of Things).  For consistency and 
+efficiency, however, CCA reiterates its request that these exemptions, and other similar 
+exemptions, should be consolidated into a single “wireless device” exemption, as they all involve 
+computer programs used in devices that connect to a telecommunications and/or broadband 
+network.  Consumers do not distinguish among categories of connected devices, and having an 
+exemption only applicable to a subset of wireless devices is likely to cause consumer confusion 
+and frustration.  
+[PAGE 2]
+ 2 
+ 
+readers and dedicated handheld gaming devices.”2  CCA believes that all-purpose tablet 
+computers of the type and nature can be broadly defined as “mobile computers that are operated 
+with fingers or a stylus through the use of a touch screen display.”  This definition is both 
+specific enough to clearly define the class of machines to be covered by the exemption, and 
+broad enough so as to not be unduly restrictive if new technologies arise during the exemption 
+period. 
+ 
+ CCA has proposed the following exemption for Proposed Class 12:3 
+ 
+Computer programs, in the form of firmware, software, or data 
+used by firmware or software, that enable all-purpose tablet 
+computers to connect to a wireless network that offers  
+telecommunications and/or information servi ces, when 
+circumvention is initiated by the owner of the device, or by another 
+person at the direction of the owner of the device, in order to 
+connect to a wireless network that offers telecommunications 
+and/or information services, and access to the netwo rk is 
+authorized by the operator of the network. 
+ 
+ CCA believes that this exemption properly enables users to take control over the use of 
+their tablets, and permits them the choice of which network they will be connected to.  Rather 
+than relying on the presumed goodwill of wireless carriers, or the availability of unlocking codes 
+from manufacturers, with this exemption consumers will be empowered to retain their current 
+tablets when selecting the wireless service provider of their choice. 
+ 
+ Given the growing importance of data as a form of wireless communication among 
+consumers, CCA believes that the most appropriate exemption language is for devices that 
+connect to “telecommunications and/or information services.”  At present, very few wireless 
+providers offer significant numbers of voice-only plans, and the ever-increasing demand by 
+consumers for data weighs in favor of the Copyright Office clarifying the exemption in this 
+proceeding to confirm that consumers have the right to unlock their devices for the purpose of 
+connecting to wireless networks for both telecommunications and information service uses. 
+ 
+Item 3. Overview 
+Provide a brief summary of the circumvention activity sought to be exempted or opposed and why. 
+ 
+CCA proposes an exemption to circumvent software or firmware locks on a tablet that 
+prevent the tablet from accessing the wireless network of the owner’s choosing. 
+ 
+The exemption is being sought because tablet owners have a clear ownership interest in 
+the tablet itself, as well as the underlying operating system software, and should be afforded the 
+                                                 
+2 Exemption to Prohibition of Circumvention of Copyright Protection Systems for Access Control 
+Technologies, Notice of Proposed Rulemaking, Docket No. 2014-07, 79 FR 73856, 73865 (Dec. 
+12, 2014) (“NPRM”). 
+3 NPRM at 73865, fn. 46; see also CCA Tablet Unlocking Pet. at 1-2. 
+[PAGE 3]
+ 3 
+ 
+ability to make non-infringing uses of these products.  Absent an exemption, tablet owners may 
+be forced to purchase a new wireless device in order to change service providers and connect to 
+the wireless network of their choice.  This may result in substantial costs to the consumer, not 
+only in the form of the price paid for a new tablet (while their current tablet becomes obsolete), 
+but also in the form of personal information stored on the tablet, contacts, music, apps, and other 
+investments made in peripheral items. 
+ 
+CCA’s proposed exemption is not only consistent with the Copyright Office’s mandate to 
+allow circumvention where the public interest is served by permitting non-infringing use of the 
+copyrighted material, but also will promote competition and consumer choice in an increasingly 
+consolidated wireless industry.4 
+ 
+Item 4. Technological Protection Measure(s) and Method(s) of 
+Circumvention 
+Describe the TPM(s) that control access to the work and the relevant method(s) of circumvention. The 
+description should provide sufficient information to allow the Office to understand the nature of the 
+relevant technologies, as well as how they are disabled or bypassed. 
+ 
+Tablets can be hardware or software-locked using a using a variety of methods, including 
+service provider code locking, system operator code locking, band order locking and Subscriber 
+Identity Module locking or Universal Integrated Circuit Card locking.  These locking 
+mechanisms bind the device to specific wireless networks and prevent consumers from accessing 
+the wireless network of their choice.  Only by circumventing these various TPMs can a tablet 
+owner transfer the use of the tablet to a network and provider of one’s choosing. 
+ 
+While software locks can, in some instances, serve legitimate, non-copyright related 
+purposes like preventing customers from accidentally damaging the firmware on the tablet, these 
+locks are most often used to inappropriately prevent a tablet from being moved from one 
+network to another. 
+ 
+Tablets are unlocked using a variety of methods, typically by changing the variables in 
+certain tablet memory locations and updating the preferred roaming list (“PRL”) to make the 
+tablet compatible with a new network.  These variables are effectively a “blank slate” when the 
+tablet comes off the assembly line, and then are updated to make them compatible with the 
+network with which the tablet is intended to be used.  Thus, these variables are intended by the 
+copyright owner to be changed based on which network a particular tablet will be connected to.  
+In this respect, no unusual or unexpected alterations are being made to the underlying operating 
+system code – instead, anticipated changes are being made that will permit the tablet to operate. 
+                                                 
+4 The Federal Communications Commission’s recently-released Seventeenth Report on mobile 
+wireless competition found that the Herfindahl-Hirschman Index (“HHI”), a measure of market 
+concentration, averaged 3,027 across the country—more than 20% above the level at which a 
+market is considered “highly concentrated.”  The HHI numbers for the wireless industry have 
+consistently been on the rise over the last five years or more.  See Annual Report and Analysis of 
+Competitive Market Conditions With Respect to Mobile Wireless, Including Commercial Mobile 
+Services, Seventeenth Report, WT Docket No. 13-135, DA 14-1862, ¶¶ 32-33 (rel. Dec. 18, 
+2014). 
+[PAGE 4]
+ 4 
+ 
+Item 5. Asserted Noninfringing Use(s)  
+Explain the asserted noninfringing use(s) of copyrighted works said to be facilitated by the proposed 
+exemption, including all legal (statutory or doctrinal) bases for the claim that the uses are or are likely 
+noninfringing. Commenters should provide an evidentiary basis to support their contentions, including 
+discussion or refutation of specific examples of such uses and, if available, documentary and/or 
+separately submitted multimedia evidence.  
+ 
+Consumers who unlock tablets may engage in one or more of several noninfringing uses 
+of the copyrighted software or firmware that resides on their tablet and permits it to connect to 
+networks.  Typically, the circumvention of the TPM allows an owner, who has fulfilled all 
+obligations to the original provider, to operate the device on the network of a new, compatible 
+wireless provider of one’s choosing.  However, tablets may also be unlocked by charitable 
+organizations, which donate the tablets for use or re-sell them to finance charitable works, or by 
+environmental organizations that encourage the re-use or recycling of devices to keep toxic 
+chemicals out of landfills.  Noninfringing use of these copyrighted works is supported under 
+multiple legal theories, three of which are explained here.  
+ 
+Unlocking Constitutes “Fair Use” Under 17 U.S.C. Section 107 
+ 
+Tablet unlocking constitutes “fair use” under Section 107 of Title 17 of the United State 
+Code.  When most tablets are unlocked, the device owner is simply changing the variables in 
+certain memory locations and updating the PRL to make the tablet useable on a new network. 
+Carriers regularly update the PRL on their customers’ tablets, so the original author of the 
+copyrighted work intended these variables to be changed without constituting a copyright 
+violation.  Further, unlocking a tablet meets all four factors of the “fair use” test set forth in 
+Section 107: (1) the purpose of the use is to allow the lawful owner of the tablet to connect to a 
+wireless network of their choice, a reasonable and noninfringing use; (2) the copyrighted work is 
+intended to be changed in this manner and is necessary for the tablet owner to derive any 
+continued value from the copyrighted work; (3) the amount of the code used in an altered state is 
+extremely small compared to the tablet operating system as a whole; and (4) the market for and 
+value of the copyrighted work actually increases, as it allows the tablet to be transferred on the 
+secondary market more easily and to a broader array of buyers. 
+ 
+Unlocking a Tablet Does Not Create an Infringing Derivative Work 
+ 
+Unlocking a tablet does not create an infringing “derivative work.”  This is because, in 
+most instances, unlocking a tablet does not change the underlying tablet software, but rather it 
+merely changes underlying variables accessed by the program.  As discussed above, these 
+variables are intended by the software designer to be changed, and their change, therefore, does 
+not create an infringing derivative work.  Instead, the software is merely being operated by the 
+tablet owners as intended. 
+ 
+Any Derivative Work Created is Protected Under 17 U.S.C. Section 117(a)(1) 
+ 
+If, however, a derivative work is, in fact, created, it falls within the exception set forth in 
+17 U.S.C. Section 117(a)(1).  This subsection states that a derivative work may be created by the 
+owner of a copyrighted work if the “new copy or adaptation is created as an essential step in the 
+[PAGE 5]
+ 5 
+ 
+utilization of the computer program in conjunction with a machine and that it is used in no other 
+manner.”  Since the changes being made to the copyrighted work are the same ones that need to 
+be made by the underlying carrier in order for the tablet to operate properly on its wireless 
+network, such adaptations are inherently “essential step[s] in the utilization of the computer 
+program in conjunction with [the device].”  Indeed, in 2012, the Register agreed that unlocking 
+was an “essential step” in the utilization of handsets, finding again that “[m]odifications to the 
+firmware or software on the [device] may be necessary to make the device functional with 
+another service and better serve the legitimate needs of the consumer.”5 
+ 
+Relevant Case Law Demonstrates That Tablet Owners are Owners of the Underlying 
+Operating System Software for Section 117(a)(1) Exemption Purposes 
+ 
+In order to fall within the exception set forth in 17 U.S.C. Section 117(a)(1), the party 
+creating the derivative work must also be the owner of the software – that is, if a device owner is 
+a mere licensee of the software, Section 117(a)(1) protections are unavailable to him or her.6  
+Although the Supreme Court has not articulated a national framework on this issue, the two 
+leading cases on licensing vs. ownership are Krause v. Titleserv, Inc., 402 F.3d 119 (2d Cir. 2005) 
+and Vernor v. Autodesk, Inc., 621 F.3d 1102 (9th Cir. 2010).  In the 2012 Recommendation, the 
+Register concluded that the state of the law was sufficiently unclear as to make it impossible to 
+determine whether all device owners were licensees or owners of the software.7  Despite this 
+determination, the current state of the market and the terms on which much of the operating 
+system software is provided to consumers in connection with a tablet purchase make it clear that 
+tablet owners are the also the owners of the operating system software under either the Krause or 
+the Vernor tests. 
+ 
+In Krause, the Second Circuit held that ownership of a copyrighted work, as opposed to a 
+license, is indicated by balancing seven factors:  
+ 
+(1) whether substantial consideration was paid for the copy; (2) whether the copy 
+was created for the sole benefit of the purchaser; (3) whether the copy was 
+customized to serve the purchaser’s use; (4) whether the copy was stored on 
+property owned by the purchaser; (5) whether the creator reserved the right to 
+repossess the copy; (6) whether the creator agreed that the purchaser had the right 
+to possess and use the programs forever regardless of whether the relationship 
+                                                 
+5 2012 Recommendation at 93.  The same reasoning applies as to tablets.   
+6 Contrary to the arguments raised by CTIA in the 2012 proceeding, simply stating that a piece of 
+software is being provided under “license” does not make it so.  See Vernor v. Autodesk, Inc., 
+621 F.3d 1102, 1180 (9th Cir. 2010) (holding that simply labeling a software agreement as a 
+license is not “dispositive”). 
+7 2012 Recommendation at 92 (“The Register concludes that the state of the law remains unclear. 
+Although Vernor and Krause are useful guideposts in considering the status of software 
+ownership, they are controlling precedent in only two circuits and are inconsistent in their 
+approach; whether and how those standards would be applied in other circuits is unknown.”) 
+[PAGE 6]
+ 6 
+ 
+between the parties terminated; and (7) whether the purchaser was free to discard 
+or destroy the copy anytime it wished.8   
+ 
+With respect to tablets, tablet owners pay substantial consideration for the copy of the 
+software as part of the tablet price.9  The copy of the software is stored on property owned, 
+namely the physical tablet, and the software creator permits the underlying operating system 
+software to be used by the tablet owner indefinitely (and in some cases, even longer due to 
+transfer rights).  Further, the tablet owner is free to discard or destroy the copy (along with the 
+physical tablet) anytime that he or she wishes.  On balance, these Krause factors strongly favor a 
+finding of ownership of the copyrighted operating system software by the wireless device owner. 
+ 
+In Vernor, the Ninth Circuit held that “a software user is a licensee rather than an owner 
+of a copy where the copyright owner (1) specifies that the user is granted a license; (2) 
+significantly restricts the user’s ability to transfer the software; and (3) imposes notable use 
+restrictions.”10  These factors can be seen as more stringent, and it has been argued by some that 
+they favor the view that the device owner is a licensee.  Nevertheless, the test for ownership of a 
+tablet’s underlying operating system is met under the Vernor test as well.  Importantly, the 
+Vernor test is a conjunctive test, and therefore demands that all three elements be met if a 
+software user is to be considered a licensee, rather than an owner.11 
+ 
+As applied to the facts at hand, tablets do not have “notable use restrictions.”  Customers 
+are permitted to use their tablets for any lawful purpose, and as the Register stated in the 2012 
+Recommendation, “no wireless provider has taken the position that customers are unable to sell 
+devices that they no longer use, or transfer them to a spouse, child or friend.”12  Indeed, the 
+Register’s findings have been validated by the voluntary agreement recently entered into by the 
+nation’s five largest carriers.13 Accordingly, tablet operating system software fails one element of 
+the Vernor test, and on this basis alone one could conclude that an owner of a tablet is also an 
+owner of the copy of the operating system software. 
+ 
+However, there is also a second, independent basis on which to find that the tablet owner 
+is also the owner of the software copy under Vernor.  At least two significant mobile operating 
+                                                 
+8 Krause, 402 F.3d at 124. 
+9 For example, the price for an unlocked iPad Air 2 rages from $629 to $829, with the hardware 
+components of the tablet combining to form only a small portion of the cost of the device.  See 
+http://store.apple.com/us/buy-ipad/ipad-air-2/.  
+10 Vernor, 621 F.3d at 1111.   
+11 See YULE KIM, CONGRESSIONAL RESEARCH SERVICE, STATUTORY INTERPRETATION: GENERAL 
+PRINCIPLES AND RECENT TRENDS, Order Code 97-589 at 8 (updated Aug. 31, 2008) (“Ordinarily, 
+as in everyday English, use of the conjunctive ‘and’ in a list means that all of the listed 
+requirements must be satisfied . . . .”). 
+12 2012 Recommendation at 92 (quoting MetroPCS Comments at 17). 
+13 See CTIA Consumer Code of Conduct § 12. 
+[PAGE 7]
+ 7 
+ 
+system software license agreements, Apple iOS 8.114 and Windows 8.1 Pro,15 contain language 
+that run explicitly counter to the second element in the Vernor test, that the copyright owner 
+“significantly restricts the user’s ability to transfer the software.”16  Notably, iOS alone accounts 
+for nearly one-third of the tablet market, according to recent market surveys.17 
+ 
+Given the evidence above, it is clear that tablet owners should be considered owners of a 
+copy of the operating system software, and therefore entitled to the protections of Section 
+117(a)(1), and be permitted to create a derivative work in order to allow the tablet to connect to a 
+wireless network of the tablet owners choice. 
+ 
+Item 6. Asserted Adverse Effects  
+Explain whether the inability to circumvent the TPM(s) at issue has or is likely to have adverse effects on 
+the asserted noninfringing use(s), including any relevant legal (statutory or doctrinal) considerations. 
+Commenters should also address any potential alternatives that permit the asserted noninfringing use(s) 
+without the need for circumvention. Commenters should provide an evidentiary basis to support their 
+contentions, including discussion or refutation of specific examples of such uses and, if available, 
+documentary and/or separately submitted multimedia evidence.  
+ 
+The most clear, and most immediate, adverse effect that the TPMs that lock tablets have 
+is to prevent consumers from easily switching their tablets to the competing network of their 
+choice. Although carriers may unlock under certain circumstances, owners should not be 
+beholden to the carrier after completion of service agreement commitments.  As the Senate has 
+noted, there are also “circumstances in which additional avenues for unlocking may be preferable 
+over attempting to unlock through the carrier.”18  Absent an exemption, TPMs used to lock 
+                                                 
+14 See iOS Software License Agreement, Section 3 – “Transfer”, available at 
+http://images.apple.com/legal/sla/docs/iOS81.pdf (permitting device owners to “make a one-time 
+permanent transfer of all of your license rights to the iOS Software to another party in connection 
+with the transfer of ownership of your iOS Device” – that is, it explicitly allowing the transfer of 
+the software to a third party). 
+15 See Windows 8.1 Pro Microsoft Software License Agreement, “Can I transfer the software to 
+another computer or user?” available at 
+http://www.google.com.hk/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&cad=rja&uact=8&
+ved=0CB0QFjAA&url=http%3A%2F%2Fdownload.microsoft.com%2Fdownload%2F7%2F2%
+2F1%2F72103B1C-DE58-478C-BECF-
+4D846C2B4A15%2FUseTerms_Retail_Windows_8.1_Pro_update_%2528to_Windows_8_Pro_
+which_was_acquired_from_retail_or_Microsoft%2529_English.pdf&ei=FsTFVOP2NIuP8QXus
+YGoDA&usg=AFQjCNElAfxk7QlZwkt7h5LMCwb6wBNDNA (stating that “[y]ou may also 
+transfer the software (together with the license) to a computer owned by someone else,” subject 
+to certain conditions and the agreement of the third party to abide by the terms of the license.). 
+16 Vernor, 621 F.3d at 1111. 
+17 Lance Whitney, “iPad sheds more market share but still dominates,” Cnet.com, (May 1, 2014), 
+available at http://www.cnet.com/news/ipad-sheds-more-market-share-but-still-dominates/.  
+18 Senate Report 113-212, available at http://www.gpo.gov/fdsys/pkg/CRPT-
+113srpt212/html/CRPT-113srpt212.htm.  
+[PAGE 8]
+ 8 
+ 
+tablets to a particular network will foreclose the ability to exercise preferable, and in some cases, 
+the only, avenues to unlock devices. Since circumvention to connect to an alternative network 
+would be a noninfringing use of the copyrighted work, consumers should have the freedom to 
+unlock their tablets on their own or through an agent of their choosing. 
+ 
+“Voluntary” Unlocking Policies are Insufficient to Protect Consumer Interests 
+ 
+While some carriers have “voluntary” unlocking policies for tablets, the exemption 
+remains necessary in the event that incomplete or voluntary agreements to unlock devices fail to 
+provide an owner the ability to unlock a tablet. For example, original equipment manufacturers 
+(“OEMs”) are not signatories to existing voluntary agreements and are not bound by the current 
+voluntary agreement entered into by the nation’s five largest carriers.19  As NTIA noted in the 
+last triennial review, and the voluntary agreement confirms, oftentimes carriers must have the 
+necessary code or the ability to reasonably obtain it to unlock the device.20  Where a voluntary 
+agreement only requires that a carrier “initiate a request to the OEM to unlock the eligible 
+device” it is possible for the carrier to comply with the agreement in a manner that does not 
+ultimately result in the consumer’s device being unlocked.   
+ 
+This also highlights the fact that OEMs (or third-party software developers) often 
+consider themselves to be the owners of the copyrighted software, which is provided under a 
+purported license to carriers.  So, there remains the possibility that an OEM or software 
+developer may refuse to allow carriers to alter their software in any respect, which would 
+eliminate the ability of carriers to implement their voluntary unlocking promises.  In such a 
+circumstance, a consumer unlocking exemption granted in this proceeding would be the only 
+path to allowing customers to switch wireless providers with their devices in hand.   
+ 
+This circumstance is not farfetched or theoretical.  Indeed, in a recent discussion of the 
+company’s post-sale transition plan, Cincinnati Bell Wireless (“CBW”) stated that it would only 
+be allowing customers to unlock their handsets to move to another carrier if the handsets were 
+“one year old or newer.”21  Even with this significant restriction, CBW would only permit 
+customers to “transition to another provider by providing unlock codes (if available),” 
+suggesting that there are a sufficient number of circumstances in which unlock codes are not 
+available to warrant a specific disclosure.22  Although this was in the context of wireless handsets, 
+it is not a significant leap to assume that the same is or would be the case for similarly-situated 
+tablet customers.   
+ 
+                                                 
+19 See CTIA Consumer Code of Conduct § 12. 
+20 NTIA Reply Comments at 16, available at 
+http://www.copyright.gov/1201/2012/2012_NTIA_Letter.pdf; CTIA Consumer Code of Conduct 
+§ 12. 
+21 Phil Goldstein, “Cincinnati Bell customers frustrated by transition amid network shutdown,” 
+FierceWireless (Jan. 12, 2015), available at http://www.fiercewireless.com/story/cincinnati-bell-
+customers-frustrated-transition-amid-network-shutdown/2015-01-12.  
+22 Id. 
+[PAGE 9]
+ 9 
+ 
+Thus there is clear evidence that these voluntary unlocking policies do not obviate the 
+need for an exemption.  As a result, customers must have the option and the right to unlock their 
+tablets to realize their full utility, and without unwarranted interference from their original 
+wireless provider.   
+ 
+The Availability of Unlocked Tablet Options Does Not Obviate the Need for an Exemption 
+ 
+Further, the availability of unlocked tablet options in the marketplace does not displace 
+the need for a tablet unlocking exemption.  Although some, but by no means all, tablets are 
+available in an unlocked form, a consumer may not find her desired tablet as one of the unlocked 
+options.  Perhaps more importantly, a consumer may simply wish to keep his current familiar 
+device, or that is, for example, particularly well-suited to managing his disability.23  Where 
+owners are unable to unlock their current tablet to connect to their network of choice, they are 
+effectively forced to purchase a new tablet, despite having no desire to do so.  The owner may 
+then lose contacts, personal information, music, apps and other content, as well as significant 
+investments made in peripheral items like chargers, headsets, batteries and cases – all of which 
+increase the true cost of the lack of an unlocking exemption. 
+ 
+Substantial Evidence of Adverse Effects Exists, and Consumers Have No Reasonable 
+Alternatives to Circumvention 
+ 
+After the previous handset unlocking exemption was allowed to expire, Congress saw 
+sufficient current adverse effects, as well as the potential for adverse effects, to immediately 
+reinstate and expand the exemption in the “Unlocking Consumer Choice and Wireless 
+Competition Act.” Even with other voluntary unlocking policies in place, Congress saw 
+sufficient harm in the marketplace to adopt legislation.  And, in this respect, Congress was 
+performing the will of the people.  A White House petition garnered more than 114,000 
+signatures from concerned consumers who demonstrated the likely adverse effects of the 
+rejection of the unlocking exemption.24  Indeed, this consumer outcry extended not only to the 
+original exemption for wireless handsets, but to tablets as well.  As part of the “Unlocking 
+Consumer Choice and Wireless Competition Act,” Congress directed the Copyright Office to 
+expand its inquiry into other wireless devices, such as tablets, to ensure that anti-competitive 
+locking policies were not harming the market for these important consumer products as well.  
+Even with voluntary unlocking policies for tablets already in place, Congress saw sufficient harm 
+in the marketplace to adopt legislation directing the Copyright Office to undertake this new 
+examination. 
+ 
+                                                 
+23 Persons who are blind or have low vision may require tablets with special features, and those 
+tablets may not be available from all carriers.  See, e.g., “Tablet test with blind users: Overview,” 
+available at http://www.incobs.de/tests-english/items/tablettest-blind-en-overview.html.   
+24 See R. David Edelman, “It’s Time to Legalize Cell Phone Unlocking,” Official White House 
+Response to Make Unlocking Cell Phones Legal, available at 
+https://petitions.whitehouse.gov/response/its-time-legalize-cell-phone-unlocking (“White House 
+Unlocking Response”).  
+[PAGE 10]
+ 10 
+ 
+Additionally, NTIA petitioned the FCC to commence a rulemaking to require carriers to 
+unlock devices upon request.25  NTIA stated that a rule would “increase competition in the 
+mobile services market and enhance consumer welfare.”26  While the enactment of the 
+Unlocking Consumer Choice and Wireless Competition Act foreclosed the need for rulemaking, 
+not extending an exemption would have the adverse effects of decreased competition and 
+consumer welfare. 
+ 
+Even the Obama Administration, in a statement applauding Congress for passing the 
+Unlocking Consumer Choice and Wireless Competition Act, referenced steps “to ensure 
+copyright law does not undermine wireless competition,” including fixes “that make it clear: 
+neither criminal law nor technological locks should prevent customers from switching carriers 
+when they are no longer bound by a service agreement or other obligation.”27 Failure to grant an 
+exemption would reinstate criminal penalties that may prevent consumers from switching 
+carriers, a clear and immediate adverse effect. 
+ 
+No viable alternatives to circumvention have emerged over the last three years, nor is 
+CCA aware of any on the horizon.28  As a result, the Copyright Office remains consumers’ best 
+hope for a continued ability to lawfully unlock their tablets.  The Copyright Office should heed 
+the outcry from consumers, Congress and the Administration about the current and potential anti-
+consumer harms that failing to adopt a tablet unlocking exemption would bring, and adopt 
+CCA’s proposed exemption. 
+ 
+Item 7. Statutory Factors  
+Evaluate the proposed exemption in light of each of the statutory factors set forth in 17 U.S.C. 
+1201(a)(1)(C): 
+(i) the availability for use of copyrighted works;  
+Without question locks on tablets reduce the availability for use and the usability of the 
+copyrighted software operating system.  A customer who would otherwise be technically able to 
+use his or her device on a competing network is prevented from doing so by artificial locks.  
+Thus, the ability to use the copyrighted operating system software that powers the tablet is 
+substantially limited; if a customer switches networks and has a tablet that cannot be unlocked, 
+he or she is no longer able to use the copyrighted operating system. 
+                                                 
+25 NTIA, Petition for Rulemaking of the National Telecommunications and Information 
+Administration (filed Sept. 17, 2013), available at 
+http://www.ntia.doc.gov/files/ntia/publications/ntia_mobile_devices_unlocking_petition_091720
+13.pdf.   
+26 Id. at 1. 
+27 See White House Unlocking Response. 
+28 Nor have the previous exemptions adversely affected the marketplace for the accessed 
+copyrighted works.  Tablets, and the copyrighted underlying operating systems, continue to be 
+among the most popular consumer electronic devices in the country.  As tablet sales continue to 
+increase, it simply cannot be said that the market for these works is being depressed by the 
+Copyright Office’s unlocking exemption. 
+[PAGE 11]
+ 11 
+ 
+ 
+Importantly, as the Register found during the prior proceeding: 
+ 
+There is no indication that mobile . . .  firmware is sold in any way other 
+than with the [device] for which it is developed, and no indication that 
+there are alternative “formats” available that would not require 
+circumvention – that is, there is no  evidence that users of locked legacy 
+[devices] can simply install an alternative operating system that does not 
+include carrier locks. Accordingly, the first factor favors an exemption.29 
+ 
+ These facts remain as true today as they did in 2012.  CCA is unaware of mobile tablet 
+firmware being sold in any other way than bundled with the tablet for which it was developed, 
+and is aware of no other formats of such operating system software available that would not 
+require circumvention.  As such, the Register should make the same finding in this proceeding 
+that the first statutory favor favors an exemption. 
+ 
+(ii) the availability for use of works for nonprofit archival, preservation, and educational purposes;  
+An exemption permitting the unlocking of tablets increases the availability of the 
+copyrighted operating system works for use for nonprofit archival, preservation, and educational 
+purposes.  As an initial matter, a significant number of nonprofit organizations fund their 
+operations through the collection, unlocking and resale of wireless devices.  In addition, artificial 
+locks on tablet software may prevent those operating systems from being studied in the 
+classroom or archived for future study.  An exemption to the prohibition on circumvention of 
+tablet locks certainly will not negatively impact, and may in fact promote, the use of these works 
+for such purposes. 
+ 
+(iii) the impact that the prohibition on the circumvention of technological measures applied to 
+copyrighted works has on criticism, comment, news reporting, teaching, scholarship, or 
+research;  
+Similar to the use of the works for nonprofit and educational purposes, there should be no 
+concern that a tablet unlocking exemption will have any negative impact on criticism, comment, 
+news reporting, teaching, scholarship or research.  In fact, there may be positive benefits for 
+these fields that flow from an unlocking exemption.  For example, journalists can improve 
+consumer awareness by writing about the behavior of an unlocked device moving from one 
+network to another.  Similarly, this would allow industry commenters to review the performance 
+of a single tablet on multiple wireless networks. 
+ 
+(iv) the effect of circumvention of technological measures on the market for or value of copyrighted 
+works; and  
+If anything, the circumvention of tablet locks actually improves the market value of the 
+copyrighted work.  Since the operating system conveys with the wireless device, the creator of 
+the copyrighted work is actually benefited by being able to reach the widest possible audience.  
+If a tablet is locked to a particular network, it inherently has a smaller base of customers on the 
+                                                 
+29 2012 Recommendation at 97. 
+[PAGE 12]
+ 12 
+ 
+secondary market, and is therefore worth less to the original purchaser.  The operating system is 
+a large part of the value of the fully operational tablet, and customers will be willing to pay more 
+for a tablet (and the underlying operating system) that is worth more, and can be transferred 
+more easily, on the secondary market.   
+ 
+Although the Register found that the market for mobile device operating system software 
+was “unlikely to be affected by enabling consumers to alter that software for the purpose of using 
+the handset on another carrier,” this was coupled with the finding that “[t]here is nothing in the 
+record to suggest that the market for firmware has declined in the six years following the first 
+granting of an unlocking exemption.”30  CCA agrees with the Register’s prior determination.  In 
+fact, the market for firmware (and the tablets with which it is sold) has only increased since the 
+Register made that determination in 2012.  A recent CTIA survey cited by the Federal 
+Communications Commission found that “the number of connections grew … from 326.5 
+million at the end of 2012, to 335.7 million at the end of 2013 [or 3 percent].”31  Thus, it can be 
+demonstrated that the market for firmware (and the wireless devices with which it is sold) has 
+only increased since the Register made its determination in 2012.  Accordingly, the Register 
+should again draw the same conclusion, based on the same or stronger current evidence, that “the 
+fourth factor . . . favors an exemption.”32 
+ 
+(v) any other factor that may be appropriate for the Librarian to consider in evaluating the proposed 
+exemption. 
+ 
+The Librarian should consider the positive impact that an unlocking exemption will have 
+on consumer choice and competition in the wireless industry.  By allowing customers to have 
+control over their own wireless devices, and to put them on the network of their choosing, the 
+Librarian is conferring a significant social benefit.  The Librarian should empower consumers to 
+make informed choices about wireless services. 
+ 
+Item 8. Documentary Evidence  
+Commenters are encouraged to submit documentary evidence to support their arguments or illustrate 
+pertinent points concerning the proposed exemption. Any such documentary evidence should be attached 
+to the comment and uploaded through the Office’s website (though it does not count toward the 25-page 
+limit).   
+None submitted. 
+                                                 
+30 2012 Recommendation at 98. 
+31 Seventeenth Report at ¶ 20 (citing CTIA Wireless Industry Indices at 7). 
+32 2012 Recommendation at 98. 

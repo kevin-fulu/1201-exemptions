@@ -1,0 +1,90 @@
+{
+  "cycle": 2003,
+  "final_rule_file": "1201/Final Rules/2003-Final-Rule.txt",
+  "codified_text_starts_pdf_page": 8,
+  "extractor_notes": "All four codified classes appear on PDF page 8 of the 2003 Final Rule, matching the INDEX.md expected count of 4. The 2003 Final Rule is unusually compact — the entire codified Sec. 201.40(b) and the associated (c) Definitions section fit on a single PDF page. The codified prose fuses permitted-use and limitation clauses (e.g., classes (1) and (4) each contain a single complex sentence describing the work-class plus exceptions); these have been decomposed into permitted_uses[] and exclusions[]. Definitions in (c) are scoped to specific classes: (c)(1) 'Internet locations' applies to class (b)(1); (c)(2) 'Obsolete' applies to classes (b)(2) and (b)(3); (c)(3) 'Specialized format,' 'digital text,' and 'authorized entities' apply to class (b)(4). Each class record includes only the (c) definition(s) that apply to it; the full (c) chapeau quote is preserved on the most relevant class to support citation.",
+  "exemptions": [
+    {
+      "class_number": "(b)(1)",
+      "equipment_or_work": "Compilations of Internet locations blocked by commercial filtering software",
+      "permitted_uses": [
+        "Circumvention of access controls on compilations consisting of lists of Internet locations blocked by commercially marketed filtering software applications that are intended to prevent access to domains, websites or portions of websites"
+      ],
+      "exclusions": [
+        "Does not include lists of Internet locations blocked by software applications that operate exclusively to protect against damage to a computer or computer network",
+        "Does not include lists of Internet locations blocked by software applications that operate exclusively to prevent receipt of e-mail"
+      ],
+      "definitions_or_conditions": [
+        "'Internet locations' are defined to include domains, uniform resource locators (URLs), numeric IP addresses or any combination thereof"
+      ],
+      "source": {
+        "file": "1201/Final Rules/2003-Final-Rule.txt",
+        "pdf_pages": [8],
+        "txt_line_range": [1583, 1625],
+        "quote": "(1) Compilations consisting of lists of Internet locations blocked by commercially marketed filtering software applications that are intended to prevent access to domains, websites or portions of websites, but not including lists of Internet locations blocked by software applications that operate exclusively to protect against damage to a computer or computer network or lists of Internet locations blocked by software applications that operate exclusively to prevent receipt of e-mail. (c) Definitions. (1) ''Internet locations'' are defined to include domains, uniform resource locators (URLs), numeric IP addresses or any combination thereof."
+      }
+    },
+    {
+      "class_number": "(b)(2)",
+      "equipment_or_work": "Computer programs protected by obsolete malfunctioning dongles",
+      "permitted_uses": [
+        "Circumvention of access controls on computer programs protected by dongles that prevent access due to malfunction or damage and which are obsolete"
+      ],
+      "exclusions": [
+        "Limited to dongles that prevent access due to malfunction or damage",
+        "Limited to dongles that are obsolete (no longer manufactured or reasonably available in the commercial marketplace)"
+      ],
+      "definitions_or_conditions": [
+        "'Obsolete' shall mean 'no longer manufactured or reasonably available in the commercial marketplace.'"
+      ],
+      "source": {
+        "file": "1201/Final Rules/2003-Final-Rule.txt",
+        "pdf_pages": [8],
+        "txt_line_range": [1597, 1628],
+        "quote": "(2) Computer programs protected by dongles that prevent access due to malfunction or damage and which are obsolete. (2) ''Obsolete'' shall mean ''no longer manufactured or reasonably available in the commercial marketplace.''"
+      }
+    },
+    {
+      "class_number": "(b)(3)",
+      "equipment_or_work": "Computer programs and video games in obsolete formats",
+      "permitted_uses": [
+        "Circumvention of access controls on computer programs and video games distributed in formats that have become obsolete and which require the original media or hardware as a condition of access"
+      ],
+      "exclusions": [
+        "Limited to formats that have become obsolete",
+        "Limited to works that require the original media or hardware as a condition of access"
+      ],
+      "definitions_or_conditions": [
+        "A format shall be considered obsolete if the machine or system necessary to render perceptible a work stored in that format is no longer manufactured or is no longer reasonably available in the commercial marketplace",
+        "'Obsolete' shall mean 'no longer manufactured or reasonably available in the commercial marketplace.'"
+      ],
+      "source": {
+        "file": "1201/Final Rules/2003-Final-Rule.txt",
+        "pdf_pages": [8],
+        "txt_line_range": [1601, 1628],
+        "quote": "(3) Computer programs and video games distributed in formats that have become obsolete and which require the original media or hardware as a condition of access. A format shall be considered obsolete if the machine or system necessary to render perceptible a work stored in that format is no longer manufactured or is no longer reasonably available in the commercial marketplace. (2) ''Obsolete'' shall mean ''no longer manufactured or reasonably available in the commercial marketplace.''"
+      }
+    },
+    {
+      "class_number": "(b)(4)",
+      "equipment_or_work": "Literary works in ebook format with disabled read-aloud and screen-reader access",
+      "permitted_uses": [
+        "Circumvention of access controls on literary works distributed in ebook format when all existing ebook editions of the work contain access controls that prevent the enabling of the ebook's read-aloud function",
+        "Circumvention of access controls on literary works distributed in ebook format when all existing ebook editions of the work contain access controls that prevent the enabling of screen readers to render the text into a specialized format"
+      ],
+      "exclusions": [
+        "Available only when ALL existing ebook editions of the work (including digital text editions made available by authorized entities) contain such access controls — i.e., if any accessible edition exists, the exemption does not apply"
+      ],
+      "definitions_or_conditions": [
+        "Digital text editions made available by authorized entities are included within the universe of 'existing ebook editions' that must all contain the disabling access controls",
+        "'Specialized format,' 'digital text' and 'authorized entities' shall have the same meaning as in 17 U.S.C. 121"
+      ],
+      "source": {
+        "file": "1201/Final Rules/2003-Final-Rule.txt",
+        "pdf_pages": [8],
+        "txt_line_range": [1612, 1632],
+        "quote": "(4) Literary works distributed in ebook format when all existing ebook editions of the work (including digital text editions made available by authorized entities) contain access controls that prevent the enabling of the ebook's read-aloud function and that prevent the enabling of screen readers to render the text into a specialized format. (3) ''Specialized format,'' ''digital text'' and ''authorized entities'' shall have the same meaning as in 17 U.S.C. 121."
+      }
+    }
+  ]
+}

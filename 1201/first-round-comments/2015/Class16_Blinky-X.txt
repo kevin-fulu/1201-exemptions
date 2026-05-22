@@ -1,0 +1,49 @@
+[PAGE 1]
+Short Comment Regarding a Proposed Exemption
+Under 17 U.S.C. 1201
+Item 1. Commenter Information 
+Blinky X
+Item 2. Proposed Class Addressed
+Proposed Class 16: Jailbreaking—Wireless Telephone Handsets
+Item 3. Statement Regarding Proposed Exemption
+Explain why you support or oppose the relevant proposed exemption.  
+As ablind, free-lance Assistive Technology Specialist, I am submitting this correspondence in 
+support of extending the DMCA's exemption on Jailbreaking speciﬁcly pertaining to "Proposed 
+class 16."  While I could elaborate on how Jailbreaking has been a hub of innovation and 
+advances in the development and security of Apple's mobile operating system, "IOS," I sincerely 
+hope my sharing some of my experiences as a blind jailbreaker will provide you with a greater 
+insight as to why I strongly believe the exemption should be extended.
+Initially from a tactile perspective, the iPhone with its touch screen design is somewhat 
+intimidating  to a blind person.  Fortunately, once the user has become proﬁcient in the operation 
+of Apple's built-in screen reader, "V oice Over" and can navigate the device as well as a sighted 
+person can, the experience is life changing.  My iPhone has literally become, "the eyes in my 
+hands."
+When considering the high cost of these devices and the fact that Apple offers a wide variety of 
+apps designed especially for the blind, it is difﬁcult for some to understand the logic of 
+jailbreaking which essentially voids the warranty and to some extent compromises the phone's 
+integrity.
+Some have argued that an Android smart phone which also comes with a built-in screen-reader 
+"Talk Back," ease of modiﬁcation via, "rooting" and substantially cheaper price is a good 
+alternative. Unfortunately, the cheaper parts, clunkiness of Talk Back and fragmentation of its 
+OS for me makes it less than an acceptable user experience.  Additionally, most developers 
+creating apps for the blind choose to do so on IOS's more stable OS  rather than deal with the 
+fragmentation of the Android platform.
+Though I could give you dozens of examples as to why I've chosen to jailbreak my iPhone in 
+spite of the aforementioned concerns, the two major reasons are functionality and maintenance.
+An example of functionality could be found in how a blind person tells time.  In most cases this 
+involves some form of auditory feedback and is difﬁcult to do discreetly.  My jailbroken iPhone 
+however gives me the ability to tell the time by a series of vibrations and therefore allows me to 
+tell the time without drawing attention to the fact that I and doing so.  I've had this ability for 
+four years while the Apple Store has no such app to this day.
+[PAGE 2]
+Regarding maintenance, though Apple continues to make innovations, one of its drawbacks has 
+been its increased reliance on the home button which has resulted in higher incidents of 
+mechanical failure due to excessive use. Being jailbroken, I am able to activate the springboard, 
+Siri, the app switcher and the spotlight search (all requiring pressing of the home button) simply 
+by tapping sections of the touch screen rather than the button itself.  This helps to preserve the 
+life of the button by greatly reducing the need to continuously press it.
+Individually, these tweaks may appear trivial, however in my case, their combination has resulted 
+in a level of accessibility and freedom which at present is unmatched. To criminalize my ability 
+to modify a device I've paid for in order to be more independent would in my opinion be the real 
+crime. I therefore would urge you to support extending the exemptions and to seriously consider 
+the ramiﬁcations upon those like myself if you don't.

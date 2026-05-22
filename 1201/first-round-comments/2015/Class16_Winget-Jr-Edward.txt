@@ -1,0 +1,47 @@
+[PAGE 1]
+shortComment.txt
+{\rtf1\ansi\ansicpg1252\cocoartf1343\cocoasubrtf140
+{\fonttbl\f0\froman\fcharset0 Times-Roman;}
+{\colortbl;\red255\green255\blue255;}
+\vieww20080\viewh12020\viewkind0
+\deftab720
+\pard\pardeftab720
+\f0\fs24 \cf0 \expnd0\expndtw0\kerning0
+I would like to support proposed class 16 to permit jailbreaking for Wireless 
+Telephone Handsets.  From childhood I was always intrigued by computers, and I was 
+able to grow up with computers and see the effect they had on the world. Wireless 
+telephone handsets now have more computing power than my first computer, and I would
+classify them as \'93mobile computers\'94. Now phones do more than make a phone 
+call, they allow you to install software to further what this device can do. Sadly, 
+the marketplace on my \'93mobile computer\'94 has a closed ecosystem, unlike my 
+first computer which gave me the ability to write software for it freely. Writing 
+software for computers back then, I believe, is the main reason we are where we are 
+now and have advanced as far as we have. Withholding the ability to do any software 
+modification on these \'93mobile computers\'94 would be a step back from where we 
+are now. If we let laws like the DMCA stop us from modifying our own devices then I 
+truly believe the advancements forward will slow down tremendously.\
+\
+I personally have a jailbroken iPhone and I wouldn\'92t have it any other way. I can
+backup my personal contacts easily by simply grabbing my contacts database from the 
+phone, just as you would open any folder on your computer to grab a text file. For 
+me to achieve this without a jailbreak, I would need to use iTunes, or send my 
+contacts to iCloud. Most of the time I want just my contacts, and not an entire 
+backup of my phone or have my contacts sent in a cloud on the internet. It allowed 
+me to FaceTime my family when no wifi was available. I could get my old messages 
+even after the phone wasn\'92t usable. If my device is lost I have the ability to 
+not only take a photo if someone gets my device, but I can get their location as 
+well. Jailbreaking also allows me as a developer and graphic designer to be part of 
+a great community that shares the same interest in personalizing their devices. I am
+able to write software for these devices without restrictions of app verification 
+and share unique tools that the manufacture doesn\'92t have in it\'92s marketplace.\
+\
+If you don\'92t like an icon on your computer you can simply change it. If you 
+don\'92t like an icon on your \'93mobile computer\'94 you cannot change it unless 
+you jailbreak. Jailbreak tweaks let users change the entire look and feel of the 
+device, to fit them on a personal level. What would a child like their phone to look
+like, and what would an adult want their phone to look like? Sadly without a 
+jailbreak both phones look identical. Jailbreaking allows people to make these 
+modifications and has allowed me to personalize my device to my needs. I feel that 
+everyone should have this privilege.\
+}
+Page 1

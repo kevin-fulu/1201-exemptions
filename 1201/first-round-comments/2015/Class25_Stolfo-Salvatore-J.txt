@@ -1,0 +1,50 @@
+[PAGE 1]
+ 
+ 
+Short Comment Regarding a Proposed Exemption 
+Under 17 U.S.C. 1201 
+  
+Item 1. Commenter Information  
+ 
+Dr. Salvatore J. Stolfo, Professor of Computer Science, Columbia University 
+ 
+Item 2.  Proposed Class Addressed 
+ 
+Proposed Class 25: Software—Security Research  
+ 
+Item 3. Statement Regarding Proposed Exemption 
+ 
+As a computer security academic researcher and professor, I urge the Copyright Office 
+in the strongest possible terms to grant the exemption request of the Security 
+Researchers under Proposed Class 25.  The DMCA without this exemption damages 
+national security interests by creating material obstacles and even potentially prohibiting 
+critical security research.   For example, my concern that the DMCA may outlaw 
+portions of my research has caused me to alter and, in my opinion, methodologically 
+weaken the proposals that I have submitted to government funding agencies in 
+response to their calls for security research. 
+ 
+Similarly, I currently wish to pursue more research in the areas of insecure embedded 
+devices, such as the insecure routers that constitute the communication substrate of the 
+internet and government networks, however, I have been advised by attorneys that 
+some of this research may run afoul of DMCA Section 1201.  As such, I have not yet 
+pursued this research, despite its necessity and its potential to improve information 
+security of components and systems, which is clearly in the best interests of the nation 
+to secure its critical infrastructure. The DMCA is actively hurting security research and 
+making our country less safe.  It is also damaging classroom teaching of future 
+generations of students about the mechanics of computer security.  
+ 
+In response to the Copyright Office’s query regarding possible negative repercussions, 
+no negative repercussions will arise with respect to the safety or security of software 
+from granting this exemption.  Indeed, to the contrary, if the exemption is granted, 
+security researchers will be better able to defend the national security interests, critical 
+infrastructure, and economy of the United States. Security researchers already work as 
+part of teams inside the most sophisticated companies, as well as in academia and as 
+sole-proprietors/entrepreneurs.  Important security research arises from each of these 
+three settings.  
+ 
+With respect to the use of ISO 29147 and ISO 30111, the international standards 
+referenced in the Security Researchers’ proposed exemption provide a floor of 
+corporate conduct that embodies security practices already implemented at responsible 
+corporate entities. Hinging an exemption on these standards assists in creating a logical 
+balance between information security and intellectual property protection of responsible 
+corporate entities. 

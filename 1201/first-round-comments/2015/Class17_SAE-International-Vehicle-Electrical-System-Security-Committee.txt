@@ -1,0 +1,55 @@
+[PAGE 1]
+Before the 
+U.S. Copyright Office 
+Library of Congress 
+Washington, D.C. 
+In the Matter of 
+Exemption to Prohibition on ) 
+Circumvention of Copyright                             )           Docket No. 2014-7          
+Protection Systems for Access ) 
+Control Technologies ) 
+PRIVACY ACT ADVISORY STATEMENT Required by the Privacy Act of 1974 (P.L. 93-579) 
+The authority for requesting this information is 17 U.S.C. §§ 1201(a)(1) and 705. Furnishing the requested information is voluntary. 
+The principal use of the requested information is publication on the Copyright Office website and use by Copyright Office staff for 
+purposes of the rulemaking proceeding conducted under 17 U.S.C. § 1201(a)(1). NOTE: No other advisory statement will be given 
+in connection with this submission. Please keep this statement and refer to it if we communicate with you regarding this submission. 
+ 
+Short Comment Regarding a Proposed Exemption 
+Under 17 U.S.C. 1201 
+  
+Item 1. Commenter Information  
+Commenting Party:  SAE International on behalf of the SAE International Vehicle 
+Electrical System Security Committee (VESS) 
+Contact:  S. William Gouse, Director, Federal Program Development, SAE International.  
+wgouse@sae.org  1-202-434-8944 
+ 
+Item 2.  Proposed Class Addressed 
+ 
+ 
+Proposed Class 17: Jailbreaking – all-purpose mobile computing devices  
+ 
+Item 3. Statement Regarding Proposed Exemption 
+ 
+SAE International, formerly the Society of Automotive Engineers (hereinafter “SAE” or “SAE 
+International”) is a global society of more than 145,000 engineers and related technical experts in 
+the aerospace, automotive and commercial-vehicle industries.  SAE’s core competency is 
+voluntary consensus standards development, where it plays the central role in developing 
+automotive standards used in product development globally.  We would like to share pertinent 
+information about this proposal. 
+ 
+Specifically, the SAE Vehicle Electrical System Security (VESS) Committee’s scope pertains to on-
+board vehicle electrical systems that affect vehicle control or otherwise act contrary to a vehicle 
+occupant’s interests if the systems are manipulated by an attacker.  The goals of this committee 
+are (i) identify and recommend strategies and techniques related to preventing and detecting 
+adversarial breaches, and (ii) mitigating undesirable effects if a breach is achieved.  The committee 
+is currently classifying attack methods, propose preventative strategies, define levels of security by 
+criticality of system type, and identify architecture-level strategies for mitigating attacks.  
+Participants in this committee include OEMs, suppliers, academia, consulting firms, government 
+entities, and other interested parties.  As per SAE’s policy, all SAE meetings are public. 
+ 
+The SAE VESS Committee stands ready to assist the Copyright Office in providing and sharing its 
+technical expertise with respect to any future issue discussed within Proposed Class 17. 
+ 
+ 
+ 
+ 

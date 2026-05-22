@@ -1,0 +1,41 @@
+[PAGE 1]
+ 
+February 4, 2015 
+To Whom It May Concern: 
+ 
+We are writing on behalf of the Farm Hack community to request an exception to the Digital 
+Millennium Copyright Act (DMCA) for farmers and the agricultural tools and machines they 
+use to produce our food. It should not be illegal for a farmer to bypass digital locks restricting 
+access to the computers (ECU/TCU) in their equipment in order to modify and repair farm 
+machinery. We stand with a community of farmers whose right to their property is undermined 
+by the DMCA and whose right to access, understand, and fully utilize their tools should be 
+defended.  
+ 
+Farm Hack is an on­line and in­person community of farmers, engineers, and technologists 
+working to make farm tools and equipment more accessible, adaptable, and appropriate to 
+small and medium scale sustainable agriculture systems. Since its founding in 2010, Farm 
+Hack has hosted events across the country to design, document, and build Open Source, 
+universally accessible tools for resilient and sustainable agriculture. Putting full control over 
+the means of production into the hands of farmers is fundamental to our individual sovereignty 
+and our collective food security. 
+ 
+Most of the people in our community would never suspect that repairing or tinkering with their 
+tractor could be illegal. However, current law encourages manufacturers to assert control over 
+equipment by putting digital locks on the embedded software that operates our increasingly 
+sophisticated, computer­controlled devices. That same law, the DMCA, makes it illegal for 
+farmers to circumvent these digital locks—a practice which is often a necessary step in repair 
+or modification. The DMCA is meant to protect against piracy. It seeks to defend the 
+intellectual property contained in these computers in the form of software code. However, the 
+law goes too far and, therefore, infringes on a farmer’s ability to access that software for the 
+benign, necessary purposes of general repair and maintenance.   
+ 
+Please consider this request for an exception to the DMCA. Feel free to be in touch should 
+you require further information or testimony from specific farmers as to the harmful effects of 
+this law on their work.   
+ 
+Respectfully, 
+ 
+Dorn Cox 
+Farm Hack Board President 
+Daniel Grover 
+Farm Hack Network Facilitator 

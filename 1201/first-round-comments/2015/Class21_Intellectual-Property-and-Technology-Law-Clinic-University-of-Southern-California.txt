@@ -1,0 +1,1078 @@
+[PAGE 1]
+ 
+Before the 
+United States Copyright Office, 
+Library of Congress 
+ 
+         ) 
+In the Matter of     ) 
+      ) 
+Exemption to Prohibition on   )  Docket No. 2014-07 
+Circumvention of Copyright Protection  ) 
+Systems for Access Control Technologies   ) 
+              ) 
+ 
+ 
+PROPOSED CLASS #21 PROPONENTS: 
+ 
+Intellectual Property & Technology Law Clinic,  
+University of Southern California 
+ 
+ 
+ 
+Submitter Information: 
+ 
+USC Intellectual Property and 
+Technology Law Clinic 
+University of Southern California  
+Gould School of Law 
+699 Exposition Boulevard 
+Los Angeles, CA 90089 
+Phone: (213) 740-7088 
+E-mail: ipt@law.usc.edu  
+ 
+Dan D. Nabel, Esq. Interim Director 
+ With assistance from:  
+Mark Hilkert, Law Student 
+Abtin Amir, Law Student 
+Charlotte Wen, Law Student 
+Alexandria Chu, Law Student 
+ 
+ 
+ 
+ 
+ 
+[PAGE 2]
+ 
+ 
+ 
+ 
+1 
+Table of Contents 
+Long Comment Regarding a Proposed Exemption Under 17 U.S.C. 1201 ...................... 3 
+Item 1. Commenter Information ................................ ................................ ......................3 
+Item 2.  Proposed Class Addressed ................................ ................................ ................3 
+Item 2.1  Proposed Class 21: Vehicle software – diagnosis, repair, or modification.......... 3 
+Item 3.  Overview ................................ ................................ ................................ .........4 
+Item 4. Technological Protection Measure(s) and Method(s) of Circumvention .................5 
+Item 4.1 Proprietary Software that Restricts Access to the Embedded Software ............ 6 
+Item 4.2  Passwords that Restrict Access to the Embedded Software ............................... 6 
+Item 4.3 Computer Memory Modifications that Restrict Access to the Embedded 
+Software…… ............................................................................................................................. 7 
+Item 5. Asserted Noninfringing Uses ................................ ................................ ................9 
+Item 5.1 Diagnosis .............................................................................................................. 9 
+Item 5.2 Repair ................................................................................................................. 10 
+Item 5.3 Modification ...................................................................................................... 10 
+17 U.S.C. § 117 ....................................................................................................................... 11 
+17 U.S.C. § 107 ....................................................................................................................... 11 
+Item 6. Asserted Adverse Effects ................................ ................................ .................... 12 
+Item 6.1  Farmers’ Crops and Livelihoods are Put at Risk When they Cannot Effectively 
+Diagnose or Repair Their Own Agricultural Machinery. ........................................................ 12 
+Item 6.2  OEMs Are Requiring Farmers to Pay Dealers to Get Their Machines Running 
+Even After the Farmers Fix the Machines Themselves. ........................................................ 14 
+Item 6.3  OEMs Are Continuing to Strengthen Their Anti-Competitive Monopolies on 
+Repair Services. ..................................................................................................................... 14 
+Item 6.4  Farmers Are Often Unable to Take Adequate Preventative Measures to Prevent 
+Damage to Their Machines.................................................................................................... 15 
+Item 6.5 OEMs Are Preventing Farmers from Safely Increasing Engine Power to Meet 
+Their Needs............................................................................................................................ 16 
+Item 6.6 OEMs Are Preventing Farmers from Increasing Environmental Efficiency. ...... 17 
+Item 6.7  OEMs Are Preventing Farmers From Improving Accessibility for Persons with 
+Disabilities and Implementing Safety Features. .................................................................... 17 
+Item 6.8 Prices of Agricultural Equipment in Secondary Markets Are Becoming 
+Unnecessarily Inflated. .......................................................................................................... 18 
+Item 7. Statutory Factors ................................ ................................ ...............................  18 
+Item 7.1   Availability for use of copyrighted works ........................................................ 19 
+Item 7.2 Availability for use of works for nonprofit archival, preservation, and 
+educational purposes ............................................................................................................ 19 
+Item 7.3 Impact of prohibition on criticism, comment, news reporting, teaching, 
+scholarship, or research ........................................................................................................ 20 
+Item 7.4 Effect of circumvention of technological measures on the market for or value 
+of copyrighted works ............................................................................................................. 20 
+Item 8. Documentary Evidence ................................ ................................ ...................... 20 
+Item 8.1 “Exhibit 1” – Recording of Telephone Interview of John Doe ........................... 20 
+Item 8.2 “Exhibit 2” – Transcript of Telephone Interview of John Doe ........................... 21 
+Item 8.3 “Exhibit 3” – Video Interview of Jeff Buckingham ............................................. 21 
+[PAGE 3]
+ 
+ 
+ 
+ 
+2 
+Item 8.4 “Exhibit 4” – Video Interview of Paul Luiz ......................................................... 21 
+Item 8.5 “Exhibit 5” – Video Interview of Brian Talley and Paul Shamblin...................... 21 
+Item 8.6 “Exhibit 6” – Video Interview of Homero Contreras ......................................... 21 
+ 
+ 
+[PAGE 4]
+ 
+ 
+ 
+ 
+3 
+Long Comment Regarding a Proposed Exemption Under 17 
+U.S.C. 1201 
+  
+[ ✓ ]   Check here if multimedia evidence is being provided in connection with this 
+comment 
+  
+Item 1. Commenter Information  
+Submitter:  Intellectual Property & Technology Law Clinic,  
+University of  Southern California 
+E-mail Address:   ipt@law .usc.edu 
+Phone Number:   (213) 740-7088 
+Address:  USC Gould School of  Law 
+USC Intellectual Property & Technology Law Clinic 
+University of  Southern California 
+Los Angeles, CA 90087-0074  
+Item 2.  Proposed Class Addressed 
+Item 2.1  Proposed Class 21: Vehicle software – diagnosis, repair, or 
+modification   
+ 
+This proposed class would allow circumvention of TPMs protecting computer 
+programs that control the functioning of a motorized land vehicle, including personal 
+automobiles, commercial motor vehicles, and agricultural machinery, for purposes of lawful 
+diagnosis and repair, or aftermarket personalization, modification, or other improvement. 
+Under the exemption as proposed, circumvention would be allowed when undertaken by or 
+on behalf of the lawful owner of the vehicle.1 
+ 
+This petition focuses primarily on the “agricultural machinery” portion of this 
+proposed class.2 However, we incorporate by reference and join in the petition filed by the 
+                                                      
+1 The Copyright Office asked, in its Notice of Proposed Rulemaking (“NOPR”), “[w]hether a third party – 
+rather than the owner of the vehicle – may lawfully offer or engage in the proposed circumvention activities 
+with respect to that vehicle pursuant to an exemption granted under 17 U.S.C. 1201(a)(1).” The answer is: yes, 
+they may. Third parties providing services for the purpose of repairing a vehicle, which only incidentally 
+involve circumvention of TPMs, are not engaging in behavior covered by 17 USC 1201 (a)(2)(A). Such services 
+do not have “only limited commercially significant purpose or use other than to circumvent a technological 
+measure that effectively controls access.” Such persons are in the business of repairing vehicles; they are not in 
+the business of circumventing TPMs to facilitate piracy. 
+2 On November 3, 2014, we submitted two separate petitions requesting an exemption allowing farmers to 
+circumvent relevant TPMs for the purpose of diagnosing, repairing, and modifying their own farm equipment . 
+Concurrently, EFF submitted a petition requesting a similar exemption covering motorized vehicles, generally. 
+The Copyright Office, in its NOPR, combined these petitions and proposed a single, aggregated class of 
+vehicles/machinery. 
+[PAGE 5]
+ 
+ 
+ 
+ 
+4 
+Electronic Frontier Foundation (“EFF”) addressing the broader proposed class. 
+Item 3.  Overview 
+“[God said,] ‘I need somebody with arms strong enough to 
+rustle a calf and yet gentle enough to deliver his own 
+grandchild. Somebody to call hogs, tame cantankerous 
+machinery, come home hungry, have to wait lunch until his 
+wife’s done feeding visiting ladies and tell the ladies to be sure 
+and come back real soon -- and mean it.’ So God made a 
+farmer.” 
+ 
+--Paul Harvey 
+ 
+In 1978, when Paul Harvey delivered his famous “So God Made a Farmer” speech,3 
+he conceived of a God who created a farmer possessing, among many other virtues, the 
+ability to “tame cantankerous machinery.” Back then, the Digital Millennium Copyright Act 
+(“DMCA”) and the term “technological protections measures” (“TPMs”) did not yet exist. 
+But if they had, Harvey probably would have found the very idea of a farmer facing potential 
+legal liability for taming his own “cantankerous machinery” offensive. 
+ 
+Unfortunately, this has become an actual legal issue. Increasingly, original equipment 
+manufacturers (“OEMs”) of agricultural machinery4 use TPMs to prevent farmers from 
+diagnosing, repairing, and modifying their own agricultural machinery. OEMs often do this 
+by employing TPMs in the form of: (1) proprietary software, (2) passwords, and (3) 
+computer memory modifications; all of which restrict access to embedded software 
+necessary to diagnose, repair, and modify modern farm equipment.  
+ 
+Farmers can circumvent these TPMs using, among other things, custom software 
+and user-installable “modules” that apply directly into their machines. Additional means of 
+circumvention are being developed, simplified, and shared among farmers daily. But the legal 
+obstacles posed by the DMCA remain a major impediment. 
+ 
+Farmers need an exemption making it legal to circumvent these TPMs for purposes 
+of diagnosis, repair, and modification. Each of these uses, as discussed in detail below, does 
+nothing to infringe the legitimate rights of OEMs.  
+ 
+Without an exemption:  
+ 
+(1) Farmers are left at the mercy of their equipment dealer’s 
+time schedules (e.g., if a farmer must plant a crop within 
+2-3 days before rains come and the dealer can’t schedule a 
+repair visit for at least 5-6 days, this presents a very real 
+and serious problem for the farmer) and fee schedules 
+                                                      
+3 This speech was more recently popularized in the Ram pickup truck commercial entitled “Farmer” which 
+aired during Super Bowl XLVII, available at https://www.youtube.com/watch?v=AMpZ0TGjbWE. 
+4 E.g., tractors, transplanters, manure spreaders, diesel hauler trucks, etc.  
+[PAGE 6]
+ 
+ 
+ 
+ 
+5 
+(e.g., a dealer may charge a $200 minimum fee for a 
+technician to travel to a farm, plug in a computer, tell the 
+farmer that a $5 fuse needs replacing, then leave); 
+(2) Farmers often must pay their dealers to get their 
+machines running even after the farmers fix the problems 
+themselves (this problem arises from the necessity of 
+“clearing fault codes,” discussed in detail below);  
+(3) OEMs are continuing to strengthen their anti-competitive 
+monopolies on repair services; 
+(4) Farmers are often unable to take adequate preventative 
+measures to prevent damage to their machines; 
+(5) OEMs are preventing farmers from safely increasing 
+engine power to meet their needs; 
+(6) OEMs are preventing farmers from increasing 
+environmental efficiency; 
+(7) OEMs are preventing farmers from improving 
+accessibility for persons with disabilities and 
+implementing additional safety features; and 
+(8) Prices of agricultural equipment in secondary markets are 
+becoming unnecessarily inflated. 
+The Copyright Office should grant such an exemption for farmers because the 
+statutory factors articulated in 17 U.S.C. § 1201(a) weigh in favor of doing so. As discussed 
+more fully below, OEMs use TPMs to substantially inhibit farmers’ use of  the embedded 
+software on their lawfully-owned machines; and farmers have no available alternatives. 
+Additionally, the exemption would not adversely affect the market for embedded software in 
+agricultural machines in any way since such software is always coupled with the sale of  farm 
+equipment. 
+ 
+Farmers need this exemption to (1) get the maximum value out of their farm 
+equipment; and (2) efficiently adapt to the ever-changing farming conditions, market needs, 
+and government regulations that they face. 
+Item 4. Technological Protection Measure(s) and Method(s) of 
+Circumvention 
+OEMs are increasingly designing their agricultural machines to employ TPMs that 
+restrict access to internal electronic control units (“ECUs”), also known as engine control 
+modules (“ECMs”). OEMs most commonly restrict access to the machines’ ECUs by using: 
+(1) proprietary software, (2) passwords, and (3) computer memory modifications. 
+[PAGE 7]
+ 
+ 
+ 
+ 
+6 
+Item 4.1 Proprietary Software that Restricts Access to the Embedded Software 
+ 
+Description of TPM 
+ 
+OEMs restrict access to ECUs by programming them to only respond to proprietary 
+OEM software. In most cases, OEMs design ECUs to require both a compatible cable5 and a 
+computer loaded with special proprietary software in order to gain access to the embedded 
+software.6 Specifically, OEMs design their ECUs to require users to have software that can 
+pass a virtual “handshake” before accessing embedded software, even with the proper cable.7  
+ 
+Relevant method(s) of circumvention 
+ 
+OEMs generally supply compatible software to dealer technicians,8 while sometimes 
+supplying limited-functionality versions of their software to third-party service centers and 
+mechanics.9 OEMs supply only very limited versions of the software, if any at all, to 
+individual farmers who purchase new machines.10 
+ 
+Farmers without compatible software can: (1) purchase the OEM software from 
+someone who has it, (2) pay someone who has developed their own software,11 (3) find 
+people on the internet or locally who will share compatible software; or (4) develop 
+compatible software from scratch.12 Farmers who wish to develop compatible software from 
+scratch may sometimes find it to be time consuming and expensive,13 but there are 
+individuals and businesses—domestic and international—willing to share information 
+and/or sell their services to farmers.14 Some third parties—many of whom are located in 
+outside the United States—have successfully developed compatible hardware and software 
+capable of modifying ECUs and sell those products to end-users to use on their own 
+machines.15 
+Item 4.2  Passwords that Restrict Access to the Embedded Software 
+ 
+Description of TPM 
+ 
+OEMs often use passwords to prevent farmers from accessing an ECU’s embedded 
+                                                      
+5 Before using the software, users must first connect their devices to the agricultural machine’s proprietary 
+physical data ports—often referred to as Background Debug Mode (“BDM”) ports. Exhibit 2, 5:19-22 and 6:1-
+5. Individuals can easily create compatible cables by purchasing widely available data cables and physically 
+modifying one end to fit the specific BDM port. Exhibit 2, 15:24-26 and 16:1-18. 
+6 Exhibit 2, 10:9-12. 
+7 Exhibit 2, 13:12-24. 
+8 Exhibit 2, 14:7-10. 
+9 Exhibit 2, 11:5-20 and 12:1-7; Exhibit 4, timestamp 15:05 to 19:03 
+10 Exhibit 4, timestamp 15:05 to 19:03 
+11 Exhibit 2, 3:1-6 and 6:1-5 
+12 Exhibit 2, 10:13-16. 
+13 Exhibit 2, 16:19-21. 
+14 See, e.g., AgTalk available at http://talk.newagtalk.com/.  
+15 Ex. 2, 12:21-26; AP Tuning (Australia & New Zealand) http://www.aptuning.com.au/agricultural/; DTE 
+Systems (England) http://www.chiptuning.com/eng/chiptuning-products/chiptuning-tractor.html; 
+TuningFiles (England) http://www.tuningfiles.com/tractor.  
+[PAGE 8]
+ 
+ 
+ 
+ 
+7 
+software,16 including “factory passwords,” and “consumer passwords.” OEMs often use 
+“factory passwords” to prevent farmers from: (1) accessing locked functionality (such as 
+diagnostic tools and engine performance settings),17 (2) programming a new ECU (necessary 
+for replacing malfunctioning ECUs),18 (3) recovering “consumer passwords” necessary to 
+change important parameters; and (4) clearing fault codes (which often prevent machines 
+from functioning properly). By using passwords, OEMs further prevent farmers (and 
+subsequent purchasers) from changing important parameters on their machines due to the 
+difficulty, or impossibility, of obtaining passwords after the point of first sale.  
+ 
+Relevant method(s) of circumvention 
+ 
+Farmers can circumvent OEM passwords in a variety of ways, including: (1) getting 
+working passwords from other farmers or mechanics with similar machines, (2) looking for 
+working passwords that others have shared online, (3) hacking the passwords by manually 
+guessing them, or (4) using “brute force” methods which employ devices or computers that 
+attempt thousands of guess attempts per second until the correct password is discovered.19 If 
+farmers are unable to proceed with a password, they can alter the OEM software to 
+circumvent the password checking phase entirely, use third-party software, or develop their 
+own.20 
+Item 4.3 Computer Memory Modifications that Restrict Access to the 
+Embedded Software 
+ 
+Description of TPM 
+ 
+OEMs often restrict access to the embedded software on ECUs by modifying 
+computer memory on the ECU itself. OEMs can do this in at least two ways: (1) volatile 
+memory modifications, and (2) non-volatile memory modifications. 
+ 
+First, OEMs can modify the ECU’s “volatile” memory to prevent farmers from 
+utilizing an industry standard computer port known as Joint Test Action Group 
+(“JTAG”)21 and Background Debug Mode (“BDM”) ports.22 Specifically, OEMs place a 
+particular “bit” within the ECU’s volatile memory which disables the machine’s BDM 
+data port every time the machine is powered on,23 thereby preventing farmers from using 
+the port to access the machine’s embedded software. 
+                                                      
+16 As detailed in the 2010 Recommendation of the Register of Copyrights (at pp 6-7), the House Commerce Committee 
+offered the use of “password codes” to restrict authorized access to computer programs as an example of a 
+TPM. See Report of the House Committee on Commerce on the Digital Millennium Copyright Act of 1998, 
+H.R. Rep. No. 105-551, pt. 2 at 37 (1998) (“Commerce Comm. Report”). 
+17 Exhibit 4, timestamp 17:15 to 19:03 
+18 Exhibit 5, timestamp 25:50 to 27:40 
+19 Multiple examples of password circumvention could be found at: http://resources.infosecinstitute.com/10-
+popular-password-cracking-tools/  
+20 Exhibit 2, 10:9 to 12:26. 
+21 Craig Smith, The Car Hacker’s Handbook at 56–57, available at: 
+http://opengarages.org/handbook/2014_car_hackers_handbook_compressed.pdf, (“ Car Hacker’s Handbook”). 
+22 Exhibit 2, 5:19 to 6:5. 
+23 Car Hacker’s Handbook at 57. 
+[PAGE 9]
+ 
+ 
+ 
+ 
+8 
+ 
+Second, OEMs can modify the ECU’s “non-volatile” memory to similarly disable 
+BDM ports. However, because non-volatile memory configurations persist after the 
+machine is powered off, farmers are able to disable the bit so that it does not disable the 
+BDM ports upon powering back on. 
+ 
+Relevant method(s) of circumvention 
+ 
+Farmers can circumvent both volatile and non-volatile memory modifications by 
+disrupting the ECU’s electrical signals through a process called “fault injection”24 Once the 
+farmers circumvent these memory modifications, they can simply re-program (or “re-flash”) 
+the ECUs memory with a different set of instructions.25 Fault injection is often used because 
+it is the most practical means of circumvention. 
+ 
+Fault injection can be used to interrupt the ECU before it has a chance to send 
+signals that would otherwise disable the BDM port, thereby allowing the user to connect to 
+the port in its unlocked state in order to access the embedded software.26 Farmers can use 
+any of three categories of fault injection (non-invasive, semi-invasive, and invasive) 27 to 
+circumvent volatile and non-volatile memory modifications, but non-volatile memory 
+modifications sometimes require more invasive techniques.28  
+ 
+Non-invasive fault injections are effective for circumvention, and they also have 
+multiple benefits. Examples of non-invasive fault injection include clock and voltage 
+glitching.29 Some benefits of non-invasive fault injections include: not physically altering the 
+card;30 not permanently altering the card’s operation;31 the relatively low cost (generally less 
+than $3,000);32 no requirement of expensive labs or specialized microscopes;33 and no 
+requirement of specialized knowledge about a microchip’s inner workings.34 
+ 
+Semi-invasive fault injections are also effective, but more expensive than non-
+invasive ones.35 Examples of semi-invasive methods include optical, thermal, and flash fault 
+                                                      
+24 Jasper G.J. van Woudenberg, Marc F. Witteman, Federico Menarini, Practical Optical Fault Injection, pp. 91–92, 
+available at http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6076471, (“Practical Optical Fault 
+Injection”). 
+25 Exhibit 2, 6:1-5. 
+26 O. Kömmerling, Markus G. Kuhn, Design Principles for Tamper-Resistant Smartcard Processors at 7–8, available at 
+http://www.cl.cam.ac.uk/~mgk25/sc99-tamper.pdf. 
+27 Practical Optical Fault Injection at 91–92. 
+28 Car Hacker’s Handbook at 57. 
+29 Practical Optical Fault Injection at 91–92. 
+30 Practical Optical Fault Injection at 91. 
+31 Exide, Glitching for n00bs, slides available at https://recon.cx/2014/slides/REcon2014-exide-
+Glitching_For_n00bs.pdf, video available at https://www.youtube.com/watch?v=FhesP8HbpHU, (“ Glitching 
+for n00bs”). 
+32 Mohammad Tehranipoor, Fault Injection Attacks at slide 8, available at: 
+http://www.engr.uconn.edu/~tehrani/teaching/hst/07%20Fault-Injection%20Attacks.pdf, (“Fault Injection 
+Attacks”). 
+33 Glitching for n00bs at slide 6. 
+34 Fault Injection Attacks at slide 5. 
+35 Practical Optical Fault Injection at 91–93. 
+[PAGE 10]
+ 
+ 
+ 
+ 
+9 
+injection.36 These methods not only require more expertise, but their cost varies dramatically 
+depending on the security of the microcontroller.37 Non-secure microcontrollers can be 
+influenced by an $8 laser pointer, or a $30 second-hand flashgun.38 On the other hand, 
+highly secure microcontrollers can require anywhere between $50,000–$150,000 worth of 
+equipment to circumvent.39 
+ 
+Invasive fault injections are considered the least practical method out of the three,40 
+and are also the most costly and risky due to the high probability of damaging the ECU 
+during the process.41  
+Item 5. Asserted Noninfringing Uses 
+Farmers and mechanics rightly believe that the software embedded in their 
+agricultural equipment is theirs to access and modify as they see fit.42  When it comes to 
+agricultural machinery, whether it’s a tractor, loader, or anything else, farmers do not 
+distinguish between the software and the physical machine because they are purchased and 
+used as one piece of equipment.43 The machines rely on the software to operate, just as they 
+rely on tires, oil, and fuel.44 Farmers are not in the software business.45 They are just trying to 
+put the software to use to get the most value out of the machines they purchased.46 Just as 
+OEMs would not be justified in placing locks on the wheels of a tractor or the gas tank to 
+prevent access, they similarly should not be able to prevent farmers from unlocking their 
+ECUs in order to make cost-effective diagnoses, repairs or modifications.  
+ 
+Such activities do not infringe any of the OEMs’ legitimate exclusive rights. 
+Item 5.1 Diagnosis 
+ 
+Accessing diagnostic information on an agricultural machine does not implicate any 
+of the exclusive rights enumerated in Section 106 of the Copyright Act because it only 
+requires the retrieval of information.47 
+ 
+For example, if a $5 tractor fuse breaks, but the farmer cannot access the tractor’s 
+ECU to diagnose the problem, the farmer must ordinarily either pay to have the tractor 
+transported to the nearest dealer for diagnosis or pay for an authorized dealer’s 
+                                                      
+36 Practical Optical Fault Injection at 91–93. 
+37 Id. 
+38 Sergei P. Skorobogatov, Ross J. Anderson, Optical Fault Induction Attacks at 1, available at 
+https://www.cl.cam.ac.uk/~sps32/ches02-optofault.pdf. 
+39 Practical Optical Fault Injection at 94. 
+40 Id. 
+41 Id. at 91. 
+42 Exhibit 3, timestamp 9:26 to 13:02; Exhibit 4, timestamp 2:05 to 2:55; and Exhibit 5, timestamp 11:22 to 
+12:40 
+43 Exhibit 3, timestamp 10:34 to 11:42 
+44 Id. 
+45 Id. 
+46 Exhibit 3, timestamp 9:26 to 13:02; and Exhibit 4 2:05 to 2:55. 
+47 Exhibit 4, timestamp 22:47 to 23:24; and Exhibit 2, 7:14-23 
+[PAGE 11]
+ 
+ 
+ 
+ 
+10 
+representative to travel to the farm to diagnose the tractor.48 On the other hand, if the 
+farmer can gain access to the ECU without dealer assistance, the farmer could simply—and 
+immediately—diagnose his or her machine by retrieving the necessary information himself, 
+then replacing the $5 part without the unnecessary added costs and delays. Similarly, if an 
+ECU prevents a machine from functioning properly due to fault-codes produced by an 
+already-fixed problem, the act of wiping the fault codes merely involves utilizing existing 
+options within the software—not copying or rewriting. 
+ 
+In some instances, obtaining the necessary diagnostic information may also require, 
+as a preliminary concern, circumvention of the TPMs described above to create independent 
+diagnostic software compatible with existing ECU embedded software. Such circumvention 
+falls squarely within the reverse engineering exemption provided in 17 USC § 1201(f). 
+Item 5.2 Repair 
+ 
+Repairing agricultural machinery to restore it to its original specifications, may, in 
+some instances, require copying the vehicle software. However, even where a farmer must 
+copy the embedded software, the Copyright Act expressly provides that such copying does 
+not constitute infringement.49   
+Item 5.3 Modification 
+ 
+OEMs cannot anticipate all of the possible reasons that a farmer would want or need 
+to acquire a particular piece of equipment. Agricultural climates and settings differ across the 
+country, and farmers, particularly on small, family farms, often innovate and find unique 
+“do-it-yourself” fixes for their machinery to save time and money.50 Farmers must be able to 
+modify their equipment to adapt to the specific needs of their jobs and locations.51  
+ 
+Often, farmers putting on different size tires, wider axels, longer-reach arms, etc., 
+may need to modify the embedded software for a particular machine to function properly.52 
+Additionally, farmers often must modify their equipment to comply with new legal 
+regulations, such as adding the capability to track certain types of data for regulatory 
+agencies.53 Such modifications often require retrofitting new devices into older machines, 
+which requires accessing the ECU to install. This, in turn, places farmers at the mercy of 
+dealer installation fees and schedules.54 
+ 
+Even modifying settings in embedded software often involves temporarily copying it 
+                                                      
+48 Exhibit 6, timestamp 7:35 to 9:11 
+49 17 U.S.C. § 117(c)–(d); Storage Tech. Corp. v. Custom Hardware Engineering & Consulting, Inc., 421 F.3d 1307, 
+1314–15 (Fed. Cir. 2005) (a company’s circumvention of a manufacturer’s password-encrypted system for the 
+purposes of performing maintenance and repairs fell within the section 117 safe harbor and did not violate the 
+DMCA). 
+50 Exhibit 3, timestamp 3:49 to 4:48 and 11:42 to 13:02; E.g., Ex. 6 at 11:34 to 14:42 
+51 Exhibit 3, timestamp 0:23 to 1:23 
+52 Exhibit 3, timestamp 11:42 to 13:02 
+53 Exhibit 3, timestamp 13:02 to 14:32 
+54 Exhibit 3, timestamp 14:39 to 17:52 
+[PAGE 12]
+ 
+ 
+ 
+ 
+11 
+first.55 Although it is sometimes possible to directly modify settings within the software 
+embedded on the ECU’s memory chip without copying it first, some consider it too risky to 
+modify the information on the chip directly due to the volatile nature of the chips.56 In order 
+to avoid corrupting the information on the chip (and causing permanent failure), a user can 
+copy the information and move it to a separate computer where the modifications can be 
+made safely, then transfer the altered information back to the chip.57 This is because the 
+individual settings that users want to change are part of the same set of information that tells 
+the chip how to communicate with connected devices, and thus, corrupting even a portion 
+of the information may make the chip inaccessible.  
+ 
+Even so, the copying required to modify ECU settings to improve efficiency and/or 
+functionality does not infringe copyright under 17 U.S.C. §§ 117 and 107. 
+17 U.S.C. § 117 
+ 
+The Copyright Act permits a farmer to modify embedded software for the purpose 
+of improving efficiency and/or functionality as an essential step in utilizing it in conjunction 
+with the farmer’s machinery.58 
+17 U.S.C. § 107 
+ 
+Farmers can modify embedded software on ECUs to improve efficiency and/or 
+functionality as a fair use under 17 U.S.C. § 107. For example, farmers may modify their 
+machinery to fit specific, niche agricultural needs; make machinery economically and 
+environmentally efficient; adapt machinery to increase safety and improve access for workers 
+with disabilities; and find new, innovative uses for pre-existing machinery, e.g., by 
+incorporating automobile engines into agricultural machinery in custom-built machines. 59 
+Fair use law protects each of  these activities. 
+ 
+Fair use is “an equitable rule of  reason,”60 and must be decided on a case-by-case 
+basis. Nevertheless, self-reliant, “do-it-yourself ” modifications can be analyzed in an 
+overarching fair use framework. 
+ 
+The first statutory factor weighs in favor of  fair use because modifying embedded 
+software on an agricultural machine to allow for new and/or more efficient uses transforms 
+the purpose and function of  the software.61 Adapting software so that machinery can be 
+                                                      
+55 Exhibit 2, 7:8 to 8:15. 
+56 Id. 
+57 Id. 
+58 17 U.S.C. § 117(a)(1); Krause v. Titleserv, Inc., 402 F.3d 119, 126 (2d Cir. 2005) (finding that a business’ 
+“addition of new features” in computer software it lawfully owned a copy of qualified as exempt under 17 USC 
+§ 117(a)(1)). 
+59 E.g., Pat’s Tractor Crossing “handbuilt and customized tractors,” website showcasing customized tractors 
+with automobile engines and other modifications: http://www.patstractorcrossing.com/gallery/modified.html 
+(Last visited, November 3, 2014). 
+60 Harper & Row Publishers, Inc. v. Nation Enterprises, 471 U.S. 539, 560 (1985). 
+61 Cf. Authors Guild, Inc. v. HathiTrust, 755 F.3d 87, 96 (2d Cir. 2014) (“a transformative work is one that serves a 
+new and different function from the original work and is not a substitute for it.”) 
+[PAGE 13]
+ 
+ 
+ 
+ 
+12 
+used in a new and innovative way does not in any way exploit the original for its intended 
+purpose.62 Moreover, such uses are noncommercial because they simply involve modifying 
+existing software on an already-purchased vehicle. From a purely equitable perspective, 
+public policy also supports this kind of  self-reliance, particularly in light of  the growing 
+trend towards codifying a “right to repair” in this country.63 
+The second statutory factor weighs in favor of  fair use for at least two reasons. First, 
+the embedded software contains “unprotected aspects that cannot be examined without 
+copying,”64 Second, this type of embedded software acts much like an internal operating 
+system which lies “at a distance from the core” of copyright protection.65  
+ 
+The third statutory factor weighs in favor of  fair use even though the entire work is 
+copied because such copying is necessary to achieve the transformative purpose.66  
+ 
+The fourth statutory factor weighs in favor of  fair use because OEMs have no 
+market or potential market for embedded software designed for new and innovative uses 
+OEMs neither anticipated nor intended. The market for the copyrighted work, i.e., the 
+embedded software, will also not be affected since OEMs always sell the work as part of an 
+integral package, i.e., coupled with the sale of agricultural machinery. 
+ 
+On balance, all four statutory factors favor fair use. 
+ 
+Item 6. Asserted Adverse Effects  
+Item 6.1  Farmers’ Crops and Livelihoods are Put at Risk When they Cannot 
+Effectively Diagnose or Repair Their Own Agricultural Machinery. 
+ 
+Farmers need an exemption so that they can effectively repair their own agricultural 
+machinery quickly when their nearest dealer is either too far, or cannot send a technician in 
+time. Without an exemption, farmers must often send their machines to far-away 
+                                                      
+62 Cf. Sega Enterprises Ltd. v. Accolade, Inc., 977 F.2d 1510, 1523 (9th Cir. 1992), as amended (Jan. 6, 1993) (first fair 
+use factor weighed in favor of  fair use where one firm copied computer code for “a legitimate, essentially non-
+exploitative purpose,” rather than “to avoid performing its own creative work.”) 
+63 The legal trend in favor of “right to repair” legislation began with Massachusetts’ 2013 Right to Repair Law, 
+which Massachusetts voters passed by an 86 percent margin. Kyle Wiens, Forget the Cellphone Fight—We Should Be 
+Able to Unlock Everything We Own, WIRED (Mar. 18, 2013 9:30 a.m.), http://www.wired.com/2013/03/you-
+dont-own-your-cellphones-or-your-cars/. Major automakers in particular, fearing the proliferation of  varying 
+right-to-repair requirements across the 50 states, agreed to make the Massachusetts law the new national 
+standard. Christopher Jensen, Carmakers to Share Repair Data, N.Y . TIMES, Jan. 31, 2014, available at: 
+http://www.nytimes.com/2014/02/02/automobiles/carmakers-to-share-repair-data.html. The agreement 
+requires that automakers standardize diagnostic tools for new car models, beginning in the year 2018. Id. 
+64 Sony Computer Entm’t, Inc. v. Connectix Corp., 203 F.3d 596, 603 (9th Cir. 2000). 
+65 Id. 
+66 Cf. Authors Guild, Inc. v. HathiTrust, 755 F.3d 87, 98 (2d Cir. 2014) (“For some purposes, it may be necessary 
+to copy the entire copyrighted work, in which case Factor Three does not weigh against a finding of fair use.”); 
+Perfect 10, Inc. v. Amazon, Inc., 508 F.3d 1146, 1165 (9th Cir. 2007) (“even making an exact copy of a work may 
+be transformative so long as the copy serves a different function than the original work”).  
+[PAGE 14]
+ 
+ 
+ 
+ 
+13 
+dealerships, 67 or wait for a technician to travel to their farm to perform diagnostics and 
+repairs – even for minor problems such as a blown fuse.68  In addition to dealers often being 
+too far away for expedient repairs, when a farmer’s large diesel vehicles break down on the 
+side of the road, TPMs prevent farmers and their trusted mechanics from accessing the 
+system to get the vehicle moving again, and thus, require the owner to pay for expensive 
+towing services.69  Even if a farmer is able to send their tractors over a hundred miles to the 
+nearest dealership for diagnosis and repair, there is no guarantee that the turn-around time 
+will be satisfactory, because dealerships sometimes do not allow farmers to schedule service 
+appointments until the machines actually arrive at the dealerships.70   
+ 
+Smaller farms are especially susceptible to longer wait times for service because local 
+dealerships often give preferential treatment to larger, more influential, farms that send the 
+dealers more business.71  This is especially problematic because smaller farms often cannot 
+afford more than one machine for each task, and downed machines can potentially shut 
+down their entire operation.72  Self-reliance is a “huge part of the [farmer] culture” which 
+“drives cost out of the production process” by allowing farmers to make repairs and 
+modifications quickly and cheaply.73  Unfortunately, the added cost and delay in service 
+forces many smaller farms to consolidate into bigger farms in order to be able to keep their 
+machines running.74 
+ 
+Even more problematic than the distance or prohibitively expensive fees that dealers 
+charge for prompt repair services, is the problem of expedient scheduling.75  Problems often 
+arise unexpectedly, and when farmers’ machines break down at a critical time in the season, 
+and they lack access to systems required to make the repairs without their dealer technicians, 
+their crops and livelihoods are at risk.76  For example, when planter machines break down 
+before crops have been planted, and the rain is just days away, it could mean that a 
+significant amount, (if not all), of the farmer’s crop will go unplanted for that season, 
+resulting in a total loss.77  The same is true of crops that need to be harvested before they go 
+bad. Additionally, computer problems often require multiple attempts to resolve, over a 
+period of many days, and this too can lead to problems with time sensitive crops or 
+planting.78  Disputes between farmers and dealers over the cost of dealer repairs also leads to 
+further downtime, which places farmers in an unsustainable situation which is completely 
+contrary to the culture of self-reliance and ingenuity that farmer have upheld for centuries.79  
+ 
+                                                      
+67 Exhibit 4, timestamp 6:50 to 8:25 
+68 Exhibit 6, timestamp 8:24 to 9:10 
+69 Exhibit 4, timestamp 18:52 to 20:12 
+70 Exhibit 4, timestamp 6:50 to 8:34 
+71 Exhibit 3, timestamp 3:51 to 4:40 
+72 Exhibit 6, timestamp 1:07 to 2:04 
+73 Exhibit 3, timestamp 4:52 to 6:28 
+74 Exhibit 3, timestamp 3:51 to 4:40 
+75 Exhibit 3, timestamp 2:14 to 3:10 
+76 Exhibit 3, timestamp 3:10 to 3:51 
+77 Id. 
+78 Exhibit 3, timestamp 14:40 to 16:50 
+79 Exhibit 3, timestamp 4:52 to 6:28 
+[PAGE 15]
+ 
+ 
+ 
+ 
+14 
+Item 6.2  OEMs Are Requiring Farmers to Pay Dealers to Get Their Machines 
+Running Even After the Farmers Fix the Machines Themselves.  
+ 
+OEMs employ TPMs not only to prevent farmers from using diagnostic systems to 
+determine the cause of fault codes which prevent the machines from operating normally,80 
+but the lack of access to reset the codes also means that farmers must pay dealers to wipe the 
+fault codes even after the farmers fix the problem on their own.81  OEMs program their 
+ECUs to gather information from various sensors to automatically make adjustments, set off 
+warning lights, or even shut down completely depending on the fault codes created by that 
+feedback.82  OEMs also program their ECUs to keep the warning lights lit, or even prevent 
+the machine from turning back on, until a dealer wipes the fault codes from the ECU. For 
+example, it is a common problem for sensors to shut down machines if the seatbelt is not 
+fastened, 83 or when crops bump sensors out of alignment. Thus, even if farmers, or their 
+independent mechanics, are able to re-align the sensors or fix the seatbelts, they remain 
+unable to clear the fault codes to get the machines running again. 
+Item 6.3  OEMs Are Continuing to Strengthen Their Anti-Competitive 
+Monopolies on Repair Services.  
+ 
+Aside from dealer technicians, farmers have historically had many options for 
+maintenance, modifications, and repairs, including: hiring third-party independent 
+mechanics, hiring permanent in-house mechanics, or simply doing the work themselves.84  
+Farmers are also willing to hire technology savvy people who could perform the desired 
+modifications and repairs without being subject to the limited number of OEM sanctioned 
+changes offered by expensive dealers.85 Although modern machines use advanced 
+technology, even non-tech savvy farmers have found websites like YouTube as a valuable 
+resource for instructions for making quick and cost-effective modifications and repairs to 
+their own equipment.86   
+ 
+Farmers need an exemption because TPMs often force farmers to pay dealers for 
+service that third-party mechanics or famers themselves could have handled for less.87  
+Various OEMs have attempted to monopolize modifications and repair services in the 
+United States since at least 1920.88  Some OEMs only license the full-featured versions of 
+their software to independent shops in other countries, like Canada, while restricting shops 
+                                                      
+80 Exhibit 6, timestamp 8:24 to 9:10; Exhibit 4, timestamp 19:03 to 20:11 and 26:23 to 27:19; and Exhibit 5, 
+timestamp 4:10 to 5:20 
+81 Fault codes on older equipment could be erased by disconnecting the power, but new equipment stores the 
+fault codes until manually erased. See e.g. http://www.aa1car.com/library/battery_disconnect_problems.htm. 
+82 Fuel/air ratios, timing, etc., remain until fault codes are reset. 
+83 Exhibit 3, timestamp 14:43 to 15:56 
+84 Exhibit 6, timestamp 9:33 to 10:42; Exhibit 5, timestamp 12:15 to 12:40 and 21:38 to 22:35; Exhibit 3, 
+timestamp 6:27 to 7:50; and Exhibit 4, timestamp 6:50 to 8:56 
+85 Exhibit 5, timestamp 13:08 to 15:05 and 30:00 to 31:12 
+86 Exhibit 5, timestamp 14:19 to 15:00 
+87 Exhibit 4, timestamp 6:50 to 9:37; Exhibit 5, timestamp 10:14 to 10:49.  
+88 See, e.g., T.F. Cullen, Real Merchandising Methods Sell 275 Tractors in Year and a Ha lf, CHILTON 
+TRACTOR AND IMPLEMENT JOURNAL, Vol. 4, May 1, 1920 (describing “virtual monopoly” on tractor 
+service in Lake Charles Louisiana). 
+[PAGE 16]
+ 
+ 
+ 
+ 
+15 
+in the United States to software with very few features and capabilities.89  Each type of 
+machine has its own special software license required to access its systems,90 and OEMs 
+charge thousands of dollars for each license, making it so that only dealers would consider 
+the cost feasible, thus, forcing farmers to end long-standing relationships with trusted 
+independent mechanics, simply because those mechanics cannot afford the software 
+required to fix or modify the farmers’ machines. Similarly, although some OEMs grant end-
+users access to basic diagnostic systems, those systems often cannot pinpoint the problem 
+like the dealer-only systems can, nor do they allow users to actually make changes to the 
+settings like the dealers can.91  In some cases, farmers have to suffer through hours of trial-
+and-error techniques to diagnose problems that would otherwise takes seconds to complete 
+if they had access to the diagnostic systems protected by TPMs.92 Worse yet, the physical 
+design of modern machines makes trial-and-error techniques physically impossible, and thus, 
+the dealerships are becoming the only ones able to diagnose and fix problems.93  
+ 
+Farmers have historically been able to decide for themselves what machines to invest 
+in, how big a problem is, and what they want to do about it. With modern technology and 
+current TPMs, OEMs are increasingly removing these decisions from the hands of farmers 
+by taking more and more control over diagnosis, repair, and maintenance of machines.94  
+ 
+Dealer service can be prohibitively more expensive than in-house or independent 
+third-party mechanics, and TPMs put in place by OEMs force farmers to pay dealers when 
+they would otherwise be able to hire cheaper third-party mechanics, or do the work 
+themselves. Where independent mechanics generally charge by the hour, TPMs allow dealers 
+to charge flat-rate fees of $200, plus parts and additional hourly labor, just to take a look at 
+the machine, even if it turns out the problem is a simple blown fuse that the farmer could 
+have replaced himself for $5.95   
+Item 6.4  Farmers Are Often Unable to Take Adequate Preventative Measures to 
+Prevent Damage to Their Machines. 
+ 
+Farmers need an exemption in order to access to the advanced diagnostic tools built 
+in to their machines in order to take measures to prevent larger preventable problems down 
+the road.96  For example, machine operators employed by farmers sometimes try to avoid 
+responsibility for catastrophic failures of their assigned machines by being less than honest 
+about the history of warning signs, such as chronic overheating, when something goes 
+wrong.97  This leads to significantly more damage, cost, and downtime while farmers try to 
+figure out what went wrong. However, if in-house farm mechanics had access to the fault-
+code logs, (which are protected by TPMs), they could check them regularly in order to catch 
+                                                      
+89 Exhibit 4, timestamp 9:38-13:20. 
+90 Exhibit 2, 17:8-18 
+91 Exhibit 5, timestamp 4:10 to 5:24. 
+92 Exhibit 5, timestamp 18:12 to 18:23  
+93 Exhibit 5, timestamp 10:25 to 10:48. 
+94 Exhibit 5, timestamp 12:15 to 12:40, and 21:38 to 22:35 
+95 Exhibit 6, timestamp 7:35 to 9:11  
+96 Exhibit 4, timestamp 20:51 to 22:47 
+97 Exhibit 4, timestamp 20:51 to 22:47  
+[PAGE 17]
+ 
+ 
+ 
+ 
+16 
+problems before they become serious, such as chronic overheating that eventually leads to 
+catastrophic failure.98  
+ 
+An exemption would also allow farmers to make modifications or install updates to 
+their machines’ embedded software to fix or prevent problems. OEMs often develop new 
+versions of embedded software to improve performance and address known problems with 
+their machines, but restrict the ability to “flash” this new software onto machines to 
+dealers.99  Some OEMs have chosen to license the new software that they develop and sell 
+the software to end-users and independent mechanics who can perform the “flash” process 
+themselves, and users are happy to pay the nominal fee to do so.100  However, popular 
+manufactures, such as Caterpillar, explicitly refuse to license their software to even small 
+repair shops because Caterpillar considers them to be “competitors.”101  In some cases, 
+Caterpillar creates two versions of the same software; one for dealers (which allows copying 
+and modifying settings), and one for independent shops (with no ability to copy or modify 
+settings).102  Thus, the incentives behind having machines that farmers can self-repair and 
+modify to suit their needs has grown to the point where farmers make their purchase 
+decisions based on whether or not the OEMs allows users to flash new software 
+themselves.103  
+Item 6.5 OEMs Are Preventing Farmers from Safely Increasing Engine Power 
+to Meet Their Needs. 
+ 
+In addition to increasing engine efficiency, farmers need an exemption so that they 
+can increase the engine power of their agricultural machines.104  Farmers (particularly small, 
+family farmers) often need to operate their agricultural machinery for non-designed uses due 
+to the machinery’s high capital cost.105  For example, a small, family farmer may need to use 
+a tractor to both pull a manure spreader (a designed use), but also for timber harvest (a non-
+designed use).106  Farmers often cannot operate safely and effectively for such non-designed 
+uses without making significant modifications to the embedded software in their 
+machines.107   
+ 
+Just as OEMs program the ECUs of agricultural vehicles to shut down if a sensor 
+becomes slightly misaligned, OEMs also tend to program ECUs to completely shut the 
+machine down if they detect aftermarket “modules” which users can attach to modify 
+performance characteristics.108  Even when the modules are making performance 
+modifications which are not harmful to the machine, the ECU will shut down the entire 
+                                                      
+98 Exhibit 4, timestamp 9:37 to 13:27 
+99 Exhibit 5, timestamp 20:51 to 22:47 
+100 Exhibit 4, timestamp 9:37 to 13:27 
+101 Id. 
+102 Exhibit 4, timestamp 15:03 to 17:14 
+103 Exhibit 5, timestamp 15:03 to 16:34 
+104 Exhibit 2, 3:20 to 4:24; Exhibit 4, timestamp 23:17 to 24:44 
+105 Exhibit 3, timestamp 11:44 to 13:03 
+106 Exhibit 6, timestamp 3:45 to 6:33 
+107 Exhibit 4, timestamp 22:47 to 25:20; Exhibit 3, timestamp 11:42 to 13:04 
+108 Exhibit 2, 17:1 to end 
+[PAGE 18]
+ 
+ 
+ 
+ 
+17 
+machine as soon as it detects the alteration in its signals.109  Circumvention of the ECUs 
+TPMs allows modifications to the ECUs programming which will prevent it from needlessly 
+shutting the machine down due to the presence of the modules while maintaining its safety 
+features for other types of signal chances.110   
+Item 6.6 OEMs Are Preventing Farmers from Increasing Environmental 
+Efficiency. 
+ 
+Farmers need an exemption so that they can increase the environmental efficiency of 
+their machines. Third party developers and even tech savvy farmers who are able to 
+circumvent TPMs on the ECUs in their machines are able to modify them to increase the 
+efficiency of their machines while reducing fuel consumption, and thereby reducing fuel 
+costs and environmental impact.111  Without the ability to modify default factory engine 
+settings, farmers cannot make these increases in efficiency. Fuel efficiency can also be 
+increased by adjusting other settings as well.112 For example, users can set the built-in “fan 
+clutch” settings (described above) to only activate at high engine RPMs, thereby using less 
+power and consuming less power and less fuel at most operating speeds.113   
+ 
+Although online communities of developers and individual farmers exist to share 
+information and the tools necessary to allow any farmer to implement these changes in their 
+machines, (even for machines that do not have these settings built in),114 farmers cannot fully 
+(and without fear of legal liability) participate in these communities without the proposed 
+exemption.115 
+Item 6.7  OEMs Are Preventing Farmers From Improving Accessibility for 
+Persons with Disabilities and Implementing Safety Features. 
+ 
+As the Copyright Office observed in 2012, “[g]enerally, public policy favors 
+removing impediments to access for individuals with disabilities.”116 
+ 
+Farmers need an exemption so that they can easily modify their machinery to 
+improve accessibility for persons with disabilities. Farmers with arthritis, amputations, 
+balance difficulties, impaired sensory perception, etc., may have difficulty operating 
+agricultural machinery effectively without effective modifications.117 While farmers can fix 
+                                                      
+109 Id. 
+110 Exhibit 2, 9:6 to 10:3 
+111 Exhibit 2, 3:10 to 4:19. 
+112 Id. and Exhibit 4, timestamp 23:37 to 24:14 
+113 Exhibit 4, timestamp 23:37 to 24:14 
+114 Exhibit 4, timestamp 24:14 to 25:20 
+115 See e.g., ECOMODDER.COM, http://ecomodder.com/; EKOTUNING.COM 
+http://www.ekotuning.com/. 
+116 2012 Rulemaking Recommendation, p. 21, n. 90, available online at: 
+http://www.copyright.gov/1201/2012/Section_1201_Rulemaking_2012_Recommendation.pdf   
+117 See, e.g., Tractor Modifications for Saving Lives, WEST VIRGINIA AGRABILITY PROJECT, CENTER FOR 
+EXCELLENCE IN DISABILITIES, http://wvats.cedwvu.org/factsheets/tractorfact.pdf (discussing the need 
+to modify tractors for individuals with arthritis, amputations, or balance difficulties; providing modificatio n 
+examples); Timothy Prather, adaptive Controls for Tractors and Machinery, AGRABILITY PROJECT, 
+http://fyi.uwex.edu/agrability/files/2010/02/adaptivecontrols.pdf (same). 
+[PAGE 19]
+ 
+ 
+ 
+ 
+18 
+some accessibility issues through physical modifications (e.g., adding safety steps, handholds, 
+additional mirrors, etc.), other accessibility features and adaptive controls (e.g., achieving 
+vibration reduction, installation of fingertip airbrake systems, etc.) may require modification 
+of embedded software on ECUs. This problem is increasingly acute given that the average 
+age of U.S. farmers has now grown to 58.3 years.118 
+ 
+Additionally, farmers need an exemption so that they can activate or implement 
+safety features that are either inaccessible to non-dealers, or are independently created by 
+end-users.119  Just a few examples include: (1) activating a built-in setting in a large truck’s 
+ECU that electronically limits the maximum speed when an inexperienced driver is behind 
+the wheel,120 (2) re-enabling a machine that shut down due to a faulty seatbelt sensor once 
+the sensor has been fixed,121 (3) adjusting the wheel-height settings in the ECU so that the 
+speedometer reads accurately when the farmer uses taller or shorter wheels.122  All of these 
+actions require merely alterations of existing settings on the ECUs, not copying or re-
+flashing the copyrighted material within it. Similarly, if a farmer’s machine tends to overheat 
+more easily than it should, they can alter the “fan clutch” settings built in to ECUs that 
+determines when the fan will activate, depending on the engine speed.123  In some cases, the 
+settings described above do not exist in the factory settings, and having access allows users 
+to add them using third-party software.124 
+Item 6.8 Prices of Agricultural Equipment in Secondary Markets Are Becoming 
+Unnecessarily Inflated. 
+ 
+Farmers need an exemption so that they do not have to resort to purchasing older 
+machinery (and at higher-than-normal prices). “There’s an increasing number of farmers 
+placing greater value on acquiring older and simpler machines that don’t require a computer 
+to fix.”125 “[T]his trend is only intensifying.” 126  As competition for older agricultural 
+machinery increases, prices rise as a result.127 Giving farmers a right to repair their newer 
+agricultural machinery mitigates the demand for older, less-sophisticated machinery, which in 
+turn will lead to lower used-machinery prices. 
+Item 7. Statutory Factors  
+The statutory factors articulated in 17 U.S.C. § 1201(a) favor granting a DMCA 
+exemption for embedded software on vehicle ECUs. While the second and third statutory 
+factors have little bearing on embedded software in agricultural machinery, the first factor 
+weighs heavily in favor of  an exemption for at least two reasons. First, the TPMs 
+                                                      
+118 Danielle Kurtzleben, U.S. News, “The Rapidly Aging U.S. Farmer,” February 24, 2014, available online at: 
+http://www.usnews.com/news/blogs/data-mine/2014/02/24/us-farmers-are-old-and-getting-much-older  
+119 Exhibit 4, timestamp 24:27 to 25:19  
+120 Exhibit 4, timestamp 23:00 to 24:29 
+121 Exhibit 3, timestamp 14:40 to 15:51 
+122 Exhibit 4, timestamp 23:00 to 24:29 
+123 Id. 
+124 Exhibit 3, timestamp 11:44 to 13:04 
+125 Greg Peterson, Two Answers for Everything, FARM JOURNAL, September 2014 at 66. 
+126 Id.  
+127 Id. at 65–66. 
+[PAGE 20]
+ 
+ 
+ 
+ 
+19 
+substantially inhibit the farmers’ use of  the software, and second, farmers have no available 
+alternatives to protected software. The fourth factor also weighs in favor of  a new 
+exemption because the exemption would not adversely affect the market for embedded 
+software in agricultural machines in any way. 
+Item 7.1   Availability for use of copyrighted works 
+ 
+The Register has stated that the proper inquiry for this factor is “(1) whether the 
+availability of the work in protected format enhances and/or inhibits public use of particular 
+works, (2) whether the work protected is also available in other formats (and whether those 
+formats are protected by access controls), and (3) if alternative formats are available, whether 
+such formats are sufficient to accommodate noninfringing uses.”128 
+ 
+(1) Whether Availability of the Work in Protected Format Enhances/Inhibits Public Use of 
+Particular Works 
+ 
+In its restricted format, embedded software can inhibit farmers’ use of both the 
+software and their own agricultural machinery in at least four distinct ways. First, the 
+protected software can prevent farmers from making even minor adjustments necessary to 
+improve the machines’ performance—for example, adjusting the strength of cooling fans to 
+better suit current operating conditions.129 Second, the protected software prevents farmers 
+from making adjustments to tailor the machines to their own needs—for example, 
+modifications that accommodate for worker disability or unique environmental and 
+agricultural conditions.130 Third, the protected software can shut down the machinery and 
+render it inoperable in response to the triggering of certain fault codes, which farmers 
+cannot access even after they have fixed the underlying issue.131 Fourth, the protected 
+software can prevent farmers from diagnosing malfunctioning machinery altogether, leaving 
+them with no recourse but to pay dealerships or contractors exorbitant fees to identify what 
+could have been an expedient and/or inexpensive fix. 
+ 
+(2) Whether the Work is Available in Alternative Formats, Whether those Formats Have Access 
+Controls, and Whether Alternative Formats Are Sufficient to Accommodate Non-Infringing Uses 
+ 
+OEMs specifically tailor the embedded software in ECUs to the agricultural 
+machinery in which they reside. As a result, there are simply no legally available alternatives, 
+which renders the two remaining factors moot. Thus, the substantial burdens that the 
+software protections place on the agricultural public’s ability to use the software and 
+accompanying machinery, coupled with the total lack of legal alternatives, weighs in favor of 
+granting a DMCA exemption.  
+Item 7.2 Availability for use of works for nonprofit archival, preservation, and 
+educational purposes 
+ 
+                                                      
+128 2012 Recommendation at 152 (citing 2010 Recommendation at 56). 
+129 See supra Item 6.6. 
+130 See supra Items 6.5–6.7. 
+131 See supra Item 6.2. 
+[PAGE 21]
+ 
+ 
+ 
+ 
+20 
+We have not investigated any potential uses that would fall under this factor. 
+Item 7.3 Impact of prohibition on criticism, comment, news reporting, 
+teaching, scholarship, or research 
+ 
+We have not investigated any potential uses that would fall under this factor. 
+Item 7.4 Effect of circumvention of technological measures on the market for or 
+value of copyrighted works 
+ 
+The ability of farmers to circumvent TPMs on embedded software on ECUs will not 
+have adverse effects on either the market for or the value of embedded software on ECUs 
+for at least three reasons.  
+ 
+First, the exemption will not substantially affect either the OEM’s sales or 
+production of their own embedded software. OEMs will still be able to package their 
+software into machines and sell them for substantially the same price, as the embedded 
+software and the accompanying machinery will remain inseparable parts of a whole product 
+that farmers must purchase. In this regard, the only effect that an exemption would have 
+occurs after market: farmers will be allowed to replace and modify the manufacturer’s 
+software to suit their own needs. 
+ 
+Second, an exemption will encourage original aftermarket software, allowing more 
+farmers to have access to software that suits their specific needs. Currently, farmers and 
+interested third parties have minimal incentive to create new software modules for 
+agricultural machinery because installing such software would require an impermissible 
+DMCA violation, i.e., circumventing a TPM restricting access to the embedded software on 
+an ECU. An exemption would incentivize farmers and programmers to create new 
+aftermarket software modules. Again, this aftermarket software would not affect the original 
+market for embedded software, as that would still come pre-packaged with the machinery. 
+ 
+Third, an exemption will lead to an increase in both the quality and quantity of 
+available software on the market by encouraging competition and stimulating the creation of 
+new software. This, in turn, could indirectly lead to an increase in the value of embedded 
+software because manufacturers would have increased monetary incentive to create high-
+quality software. 
+ 
+Item 8. Documentary Evidence 
+Item 8.1 “Exhibit 1” – Recording of Telephone Interview of John Doe 
+ 
+John Doe owns a company in the Southeastern United States that specializes in 
+computer programming for agricultural machines, automobiles, and trucks. He has worked 
+in this field for twenty-one years. His company also develops and sells user-installable 
+modules that modify and increase the power and functionality of agricultural machines, as 
+well as automobiles and trucks. His company sells over three thousand of these modules per 
+year. He spoke to our clinic on the condition that his identity be kept anonymous. 
+[PAGE 22]
+ 
+ 
+ 
+ 
+21 
+Item 8.2 “Exhibit 2” – Transcript of Telephone Interview of John Doe 
+ 
+A PDF providing a written transcript of the interview of John Doe. 
+Item 8.3 “Exhibit 3” – Video Interview of Jeff Buckingham 
+ 
+Jeff Buckingham and his family own a cow and calf ranch in Central California. Mr. 
+Buckingham and his family also own a telecommunications business, and he has been 
+involved in telecommunications for the last thirty years. 
+Item 8.4 “Exhibit 4” – Video Interview of Paul Luiz 
+ 
+Paul is a diesel mechanic with a college certificate in diesel technology, and thirty-
+three years of hands-on experience. He has been the owner of an independent diesel 
+mechanic shop for fifteen-years in the County of Sal Luis Obispo, California. Mr. Luiz 
+works on all machines powered by diesel engines, including: commercial vehicles, 
+construction vehicles, boats, and generators. 
+Item 8.5 “Exhibit 5” – Video Interview of Brian Talley and Paul Shamblin 
+ 
+Brian Talley is the owner of Talley Farms, a family owned business that employs four 
+on-site mechanics and grows a variety of fruits and vegetables in Central California. 
+ 
+Paul Shamblin is the head mechanic at Talley Farms, and has been there for twenty-
+six years. He handles all the repair work and maintenance on the various machines and 
+equipment at the farm. 
+Item 8.6 “Exhibit 6” – Video Interview of Homero Contreras 
+ 
+Homero Contreras has owned and operated his family owned strawberry farm in 
+Central California for twenty-seven years. 

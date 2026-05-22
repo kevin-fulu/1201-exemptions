@@ -1,0 +1,48 @@
+[PAGE 1]
+  
+Short Comment Regarding a Proposed Exemption 
+Under 17 U.S.C. 1201 
+  
+Item 1. Commenter Information  
+My name is Jeffrey Philip Roddy, originally of Indianapolis, Indiana, now residing in Barrow, 
+Alaska. 
+ 
+Item 2.  Proposed Class Addressed 
+Proposed Class 16: Jailbreaking - wireless telephone handsets  
+ 
+Item 3. Statement Regarding Proposed Exemption 
+I own an iPhone simply because it's the best mobile phone platform currently available.  Apple's 
+quality craftsmanship means the older pre-owned handsets I buy and use retain their 
+functionality long enough to make it worth the meager amount I can afford to spend.  In Barrow, 
+the sun stays below the horizon for about 2 months every Winter.  Since there are no roads in or 
+out of the community, there is also no terrestrial link to the outside world.  This means that 
+although our "broadband cable internet" technically meets the definition of broadband according 
+to the United States government, for most purposes in today's world it is barely adequate.  This is 
+because all of our internet infrastructure is ultimately served by a satellite link.  The connection 
+latency of 700 milliseconds means that when you submit a request on a webpage, the server on 
+the other end does not get the input for well over half a second.  While this may not sound like a 
+long time, consider that the 2014 Measuring Broadband America Report on Fixed Broadband 
+published by the FCC found that "Across all terrestrial technologies during peak periods, latency 
+averaged 34. 9 ms.".  That means the average US household has a response time that is over 20 
+times as fast as the best choice I have.  That best option would cost me over $300.00 per month, 
+and my monthly throughput would be capped at 100 GigaBytes.  A slightly more reasonable 
+option would cost me half that, but limit my throughput to a measly 40 GigaBytes per month.  
+My actual limit is 25 GB at $100 per month.  For this reason, I use whatever tools I can get my 
+hands on to reduce my data usage.  One of these tools is a software Firewall for my iPhone, 
+which I use not only to reduce my data usage, but also to ensure my device is not passing traffic 
+to servers and services I don't recognize.  Apple may insist that their system is intrinsically safe, 
+but the jailbreaking community has proven themselves by finding and patching security holes in 
+the mobile operating system on more than one occasion, even before Apple themselves was able 
+to address the exploits.  The fact that Apple doesn't allow tweaks like iPhone FireWall in their 
+stock implemenation means the jailbreak community has to make up for it.  Another tweak I use 
+daily is the ability to quickly turn on and off my phone's flashlight without accessing the 
+graphical user interface(i.e without touching the screen).  In the dead of Winter, I always have a 
+flashlight at the ready, because I bring my phone everywhere.  Other tweaks I use regularly 
+include SSH functionality, f.lux, FolderEnhancer, NoMotion, NoSlowAnimations, CCSettings, 
+Infinifolders, and BTstack.  Many of the tweaks I've used in the past have been made features of 
+the mobile operating system.  This proves the jailbreak community is contributing to innovation 
+within the field.  Lastly, but certainly not least, I've been a computer hobbyist since my father 
+first let me sit in front of his green screen, over 25 years ago.  One of the best parts of using a 
+computer is the ability to make it do whatever you want it to, and for people using the stock 
+implementation of iOS, that is simply not an option.  I, for one, refuse to surrender that ability, 
+and so I respectfully request that you renew the DMCA exemption for Class 16 devices. 

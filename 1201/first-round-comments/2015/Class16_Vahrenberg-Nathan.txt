@@ -1,0 +1,29 @@
+[PAGE 1]
+As a long-time user of jailbroken software, I want to speak out firmly against the 
+idea of outlawing it. Jailbreaking was never about piracy or using a device for illegal 
+purposes - it's about freedom. Freedom to change a device that I have purchased and 
+owned as I see fit, to customize it to be both more visually appealing and functional. 
+From my understanding of the law in question, outlawing jailbreaking is merely a side-
+effect, and not the main intention of the law. If this is the case, then criminalizing a 
+perfectly acceptable use of personal property is not logical, and the exemption should 
+be granted. 
+I use jailbroken software to extend the functionality of iOS, and add features 
+that it is missing. With this modification, I can do anything from change the color of UI 
+elements to make the phone easier to use at night, to enable haptic feedback on key 
+presses, to so much more - all features that iOS was lacking before. This limitless 
+customization is why I have always used jailbroken phones. While I could switch to 
+another platform (e.g. Android), I choose not to for reasons including a long-standing 
+history with Apple and their other products, as well as iOS being the closest product to 
+the experience that I want. I like having iOS-unique functions such as iMessage that 
+simply aren't present on Android/Windows/etc devices. 
+Jailbreaking also allows me to write my own code and run it on my device, which 
+not only allows me to improve functionality of my device, but also gives me an 
+incredible learning experience - this exposure to software and coding was a major part 
+of my decision to learn more about Computer Science and Engineering, and ultimately 
+to choose it as a career path. Without the learning experience that I had from exploring 
+the technology that made my phone work, I don't think I would have kindled the same 
+interest in programming and development. 
+So please, grant the exception for jailbreaking. Jailbreaking is not and never will 
+be about piracy, stealing or anything illegal. Jailbreaking is about the freedom to 
+explore, customize and improve the technology that I own, and hopefully learn some 
+useful skills along the way. 

@@ -1,0 +1,43 @@
+[PAGE 1]
+Note: Please submit a separate comment for each proposed   class.
+This is a Word document that allows users to type into the spaces below. The comment should be no more than one 
+page in length (which may be single-spaced but should be in at least 12-point type). The italicized instructions on 
+this template may be deleted. 
+Short Comment Regarding a Proposed Exemption
+Under 17 U.S.C. 1201
+Item 1. Commenter Information 
+David Darling, iOS jailbreak developer. I can be reached at milodarling98@gmail.com.
+Item 2. Proposed Class Addressed
+Proposed Class 16: Jailbreaking—Wireless Telephone Handsets.
+Item 3. Statement Regarding Proposed Exemption
+Jailbreaking my iPhone has been an awesome hobby of mine for years. I have always found 
+"jailed" iOS to be very restrictive, and jailbreaking has allowed me to add and change the things 
+I want on my device. In fact, this hobby of mine has become profitable in the recent months, as I 
+have become a developer for the Cydia store. I have met many members of the rich and awesome
+jailbreak community, collaborated with numerous developers, and even joined a team of 
+developers. I now plan on majoring in computer programming in college, and becoming a 
+programmer as my career. Without jailbreaking, I never would have found this passion of mine.
+Despite the fact that I could develop on a platform more open by nature, such as Android, I chose
+iOS because I needed iOS for several reasons, such as to use iMessage and FaceTime with my 
+family, and jailbreaking made it that much more awesome, and allowed me to develop on it. I 
+also found the jailbreak community to have a very welcoming presence to new developers. There
+are very well documented tutorials to get started with iOS jailbreak develop, plenty of people to 
+chat with for tips and help, and lots of open source tweaks (jailbreak software) which helped me 
+learn how to do things. I have worked with numerous people on various projects, and am now on
+a development team with some really cool people, and we can work on projects, help each other, 
+and just have a good time!
+Jailbreaking is not about piracy or illegal activities. It's about the freedom to do what I want with 
+my device. Because of jailbreaking, you can reinvent your multitasking experience on iOS, 
+change the look of your icons, password-protect applications, or even make your phone scream 
+when you drop it! There's even a tweak in the works that allows blind people to read the news 
+more conveniently, as stock iOS doesn't fit their needs! Jailbreaking is about fun, and making the
+iPhone behave in cool and different ways. It is not about piracy. In fact, piracy is highly frowned 
+upon by the active members of the jailbreak community. Without jailbreaking, I would not have 
+met some great friends. We are a thriving community, with a convention to meet up and talk 
+about what we love. We are a bunch of people who love messing with our phones, not pirates, 
+and we want jailbreaking to stay legal.
+PRIVACY ACT ADVISORY STATEMENT Required by the Privacy Act of 1974 (P.L. 93-579)
+The authority for requesting this information is 17 U.S.C. §§ 1201(a)(1) and 705. Furnishing the requested information is voluntary. 
+The principal use of the requested information is publication on the Copyright Office website and use by Copyright Office staff for 
+purposes of the rulemaking proceeding conducted under 17 U.S.C. § 1201(a)(1). NOTE: No other advisory statement will be given 
+in connection with this submission. Please keep this statement and refer to it if we communicate with you regarding this submission.

@@ -1,0 +1,913 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<title>DMCA §1201 Repair Exemptions — By Product Category (2000–2024)</title>
+<style>
+  :root {
+    --bg: #f8f8f6;
+    --ink: #1a1a1a;
+    --muted: #5a5a5a;
+    --border: #c8c8c2;
+    --header-bg: #2a2a2a;
+    --header-ink: #f8f8f6;
+    --group-bg: #e4e4dd;
+    --group-ink: #2a2a2a;
+    --row-alt: #f0f0ec;
+    --panel-bg: #fff;
+    --accent: #1565c0;
+
+    /* Status colors */
+    --c-new: #2e7d32;
+    --c-new-ink: #fff;
+    --c-renewed: #1565c0;
+    --c-renewed-ink: #fff;
+    --c-expanded: #66bb6a;
+    --c-expanded-ink: #1a1a1a;
+    --c-narrowed: #ef6c00;
+    --c-narrowed-ink: #fff;
+    --c-carveout: #fbc02d;
+    --c-carveout-ink: #1a1a1a;
+    --c-denied: #b71c1c;
+    --c-denied-ink: #fff;
+    --c-gap: #d8d8d2;
+    --c-gap-ink: #888;
+    --c-na: #ececea;
+    --c-na-ink: #aaa;
+  }
+  * { box-sizing: border-box; }
+  html, body {
+    margin: 0; padding: 0;
+    background: var(--bg);
+    color: var(--ink);
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+    font-size: 14px;
+    line-height: 1.4;
+  }
+  .wrap { max-width: 1700px; margin: 0 auto; padding: 24px; }
+
+  h1 { font-size: 22px; margin: 0 0 6px; }
+  .subtitle { color: var(--muted); margin: 0 0 16px; font-size: 13px; }
+  .intro {
+    background: #fff;
+    border: 1px solid var(--border);
+    padding: 12px 16px;
+    margin: 0 0 16px;
+    font-size: 13px;
+    color: var(--muted);
+  }
+  .intro p { margin: 0 0 8px; }
+  .intro p:last-child { margin-bottom: 0; }
+  .intro b { color: var(--ink); }
+
+  /* Controls bar */
+  .controls {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 8px;
+    align-items: center;
+    margin: 0 0 12px;
+    padding: 10px 12px;
+    background: #fff;
+    border: 1px solid var(--border);
+  }
+  .controls .label {
+    font-size: 12px;
+    font-weight: 600;
+    color: var(--muted);
+    text-transform: uppercase;
+    letter-spacing: 0.04em;
+    margin-right: 4px;
+  }
+  .controls button {
+    background: #fff;
+    border: 1px solid var(--border);
+    padding: 5px 10px;
+    font-size: 12px;
+    font-family: inherit;
+    cursor: pointer;
+    color: var(--ink);
+    border-radius: 2px;
+  }
+  .controls button:hover { background: var(--row-alt); }
+  .controls button.active {
+    background: var(--header-bg);
+    color: var(--header-ink);
+    border-color: var(--header-bg);
+  }
+
+  /* Legend */
+  .legend {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 12px;
+    margin: 0 0 16px;
+    padding: 10px 12px;
+    background: #fff;
+    border: 1px solid var(--border);
+  }
+  .legend .item {
+    display: inline-flex;
+    align-items: center;
+    gap: 6px;
+    font-size: 12px;
+  }
+  .swatch {
+    display: inline-block;
+    width: 14px;
+    height: 14px;
+    border: 1px solid rgba(0,0,0,0.15);
+  }
+
+  /* Layout: matrix on left, detail panel on right */
+  .layout {
+    display: grid;
+    grid-template-columns: 1fr 360px;
+    gap: 16px;
+    align-items: start;
+  }
+  @media (max-width: 1100px) {
+    .layout { grid-template-columns: 1fr; }
+    .detail-panel { position: static !important; }
+  }
+
+  /* Matrix */
+  table.matrix {
+    width: 100%;
+    border-collapse: collapse;
+    background: #fff;
+    border: 1px solid var(--border);
+    font-size: 12px;
+  }
+  table.matrix thead th {
+    background: var(--header-bg);
+    color: var(--header-ink);
+    padding: 8px 6px;
+    text-align: center;
+    font-weight: 600;
+    border-right: 1px solid #444;
+    position: sticky;
+    top: 0;
+    z-index: 2;
+  }
+  table.matrix thead th.product-col {
+    width: 240px;
+    text-align: left;
+    padding-left: 10px;
+  }
+  table.matrix thead th.cycle {
+    width: 80px;
+    font-variant-numeric: tabular-nums;
+  }
+
+  table.matrix tbody td {
+    border: 1px solid var(--border);
+    padding: 0;
+    vertical-align: top;
+  }
+  table.matrix tbody tr.group-row td {
+    background: var(--group-bg);
+    color: var(--group-ink);
+    font-weight: 700;
+    text-transform: uppercase;
+    letter-spacing: 0.04em;
+    font-size: 11px;
+    padding: 8px 10px;
+    border-top: 2px solid #999;
+  }
+  table.matrix tbody tr.product-row td.product {
+    font-weight: 600;
+    color: var(--ink);
+    padding: 8px 10px;
+    line-height: 1.3;
+    background: #fff;
+    cursor: default;
+  }
+  table.matrix tbody tr.product-row td.product .desc {
+    display: block;
+    font-weight: 400;
+    font-size: 11px;
+    color: var(--muted);
+    margin-top: 2px;
+  }
+  table.matrix tbody tr.product-row:hover td.product {
+    background: var(--row-alt);
+  }
+
+  td.cell {
+    text-align: center;
+    font-variant-numeric: tabular-nums;
+    font-weight: 600;
+    font-size: 11px;
+    padding: 6px 4px;
+    line-height: 1.25;
+    cursor: pointer;
+    transition: filter 0.1s;
+    user-select: none;
+  }
+  td.cell:hover { filter: brightness(0.92); }
+  td.cell.selected {
+    outline: 3px solid #000;
+    outline-offset: -3px;
+    z-index: 1;
+    position: relative;
+  }
+  td.cell .status-label {
+    display: block;
+    font-size: 9px;
+    font-weight: 500;
+    letter-spacing: 0.02em;
+    opacity: 0.85;
+    margin-top: 1px;
+  }
+  td.cell .class-num {
+    font-size: 11px;
+    font-weight: 700;
+  }
+
+  /* Cell color classes */
+  td.cell.s-new { background: var(--c-new); color: var(--c-new-ink); }
+  td.cell.s-renewed { background: var(--c-renewed); color: var(--c-renewed-ink); }
+  td.cell.s-expanded { background: var(--c-expanded); color: var(--c-expanded-ink); }
+  td.cell.s-narrowed { background: var(--c-narrowed); color: var(--c-narrowed-ink); }
+  td.cell.s-carveout { background: var(--c-carveout); color: var(--c-carveout-ink); }
+  td.cell.s-denied { background: var(--c-denied); color: var(--c-denied-ink); }
+  td.cell.s-gap { background: var(--c-gap); color: var(--c-gap-ink); }
+  td.cell.s-na { background: var(--c-na); color: var(--c-na-ink); cursor: default; }
+
+  /* Dimming for filters */
+  body.filter-denied td.cell:not(.s-denied),
+  body.filter-granted td.cell.s-denied,
+  body.filter-granted td.cell.s-gap,
+  body.filter-granted td.cell.s-na {
+    opacity: 0.18;
+  }
+
+  /* Detail panel */
+  .detail-panel {
+    background: var(--panel-bg);
+    border: 1px solid var(--border);
+    padding: 16px;
+    position: sticky;
+    top: 12px;
+    max-height: calc(100vh - 32px);
+    overflow-y: auto;
+    font-size: 13px;
+    line-height: 1.45;
+  }
+  .detail-panel .placeholder {
+    color: var(--muted);
+    font-style: italic;
+  }
+  .detail-panel .panel-header {
+    font-size: 11px;
+    text-transform: uppercase;
+    letter-spacing: 0.06em;
+    color: var(--muted);
+    margin: 0 0 4px;
+    font-weight: 600;
+  }
+  .detail-panel h3 {
+    margin: 0 0 6px;
+    font-size: 15px;
+  }
+  .detail-panel .cycle-line {
+    color: var(--muted);
+    font-size: 12px;
+    margin: 0 0 10px;
+  }
+  .detail-panel .status-pill {
+    display: inline-block;
+    padding: 2px 8px;
+    font-size: 11px;
+    font-weight: 700;
+    text-transform: uppercase;
+    letter-spacing: 0.04em;
+    border-radius: 2px;
+    margin: 0 0 12px;
+  }
+  .detail-panel .field-label {
+    font-size: 11px;
+    text-transform: uppercase;
+    letter-spacing: 0.04em;
+    color: var(--muted);
+    margin: 10px 0 2px;
+    font-weight: 600;
+  }
+  .detail-panel .field-value {
+    margin: 0 0 4px;
+  }
+  .detail-panel .quote {
+    border-left: 3px solid var(--accent);
+    padding: 4px 0 4px 10px;
+    margin: 6px 0 4px;
+    color: var(--ink);
+    font-style: italic;
+    font-size: 12px;
+    background: #f5f8fc;
+  }
+  .detail-panel .citation {
+    font-size: 11px;
+    color: var(--muted);
+    margin: 4px 0 0;
+  }
+  .detail-panel code {
+    background: #ececea;
+    padding: 1px 5px;
+    border-radius: 2px;
+    font-size: 11px;
+  }
+  .detail-panel .close-btn {
+    float: right;
+    background: none;
+    border: none;
+    font-size: 18px;
+    cursor: pointer;
+    color: var(--muted);
+    padding: 0;
+    line-height: 1;
+  }
+  .detail-panel .close-btn:hover { color: var(--ink); }
+
+  footer {
+    margin-top: 20px;
+    font-size: 11px;
+    color: var(--muted);
+  }
+  footer p { margin: 4px 0; }
+  footer code { background: #ececea; padding: 1px 5px; border-radius: 2px; font-size: 11px; }
+</style>
+</head>
+<body>
+<div class="wrap">
+
+<h1>DMCA §1201 Repair Exemptions — By Product Category</h1>
+<p class="subtitle">Diagnosis, maintenance, &amp; repair classes (plus owner-data-access) across the nine triennial Copyright Office rulemakings, 2000–2024. Generated 2026-05-22.</p>
+
+<div class="intro">
+  <p>This diagram remaps the §1201 record to <b>product categories</b>, because the codified <code>§ 201.40</code> classes don't track product types — one legal class (e.g. "consumer devices generally" in 2021) sweeps in phones, tablets, appliances, and other consumer goods all at once. Each cell shows what happened to <i>that product category</i> in <i>that cycle</i>: granted, renewed, expanded, narrowly carved out, proposed-and-denied, or absent from the record. <b>Click a cell</b> for the codified-class number, the Register's reasoning, and a verbatim citation.</p>
+  <p><b>"Granted" requires being part of an adopted Final Rule class.</b> A product category can be "covered" without being named explicitly — e.g., tablets fall under the 2021 "consumer devices generally" class even though the text says nothing about tablets. Where that coverage required an inference, the cell flags it. Where a category was specifically <i>requested and refused</i> (commercial/industrial equipment in 2021 and 2024), it's marked red.</p>
+  <p>Authority: only the Final Rule grants exemptions. Recommendations record the analysis. Comments and petitions are proposals only.</p>
+</div>
+
+<div class="controls">
+  <span class="label">Filter:</span>
+  <button data-filter="all" class="active">All cells</button>
+  <button data-filter="granted">Granted only</button>
+  <button data-filter="denied">Denials &amp; gaps</button>
+  <span class="label" style="margin-left:24px;">Click a colored cell for details &rarr;</span>
+</div>
+
+<div class="legend">
+  <span class="item"><span class="swatch" style="background:var(--c-new)"></span>granted — new class</span>
+  <span class="item"><span class="swatch" style="background:var(--c-renewed)"></span>granted — renewed</span>
+  <span class="item"><span class="swatch" style="background:var(--c-expanded)"></span>granted — expanded scope (broader)</span>
+  <span class="item"><span class="swatch" style="background:var(--c-narrowed)"></span>granted — narrowed scope</span>
+  <span class="item"><span class="swatch" style="background:var(--c-carveout)"></span>granted — narrow carve-out</span>
+  <span class="item"><span class="swatch" style="background:var(--c-denied)"></span>proposed &amp; refused</span>
+  <span class="item"><span class="swatch" style="background:var(--c-gap)"></span>gap in scope (not in record)</span>
+  <span class="item"><span class="swatch" style="background:var(--c-na)"></span>not applicable (pre-class)</span>
+</div>
+
+<div class="layout">
+
+<table class="matrix" id="matrix">
+<thead>
+<tr>
+  <th class="product-col">Product category</th>
+  <th class="cycle">2000</th>
+  <th class="cycle">2003</th>
+  <th class="cycle">2006</th>
+  <th class="cycle">2010</th>
+  <th class="cycle">2012</th>
+  <th class="cycle">2015</th>
+  <th class="cycle">2018</th>
+  <th class="cycle">2021</th>
+  <th class="cycle">2024</th>
+</tr>
+</thead>
+<tbody id="matrix-body">
+<!-- rows injected by JS -->
+</tbody>
+</table>
+
+<aside class="detail-panel" id="detail-panel">
+  <p class="placeholder" id="placeholder">Click any colored cell in the matrix to see the codified class number, scope, the Register's reasoning, and a verbatim citation to the Final Rule or Recommendation.</p>
+  <div id="detail-content" style="display:none;"></div>
+</aside>
+
+</div>
+
+<footer>
+  <p><b>Sources.</b> Final Rules and Recommendations from the U.S. Copyright Office in <code>1201/Final Rules/</code> and <code>1201/Reg Recommendation/</code>. Page numbers refer to <code>[PAGE N]</code> markers in the <code>.txt</code> extractions (= PDF page numbers, NOT Federal Register pagination). Cross-cycle granted data in <code>analysis/exemptions-master.json</code>; denials in <code>analysis/cycle-YYYY-denials.json</code>.</p>
+  <p><b>Scope.</b> "Repair" here means classes whose adopted purpose is "diagnosis, maintenance, or repair" — vehicle/vessel, consumer-device, medical-device, food-prep-equipment, plus the 2024 vehicle/vessel owner-data-access class (repair-adjacent). Jailbreaking, unlocking, security research, and accessibility classes are NOT in this view (they appear in the companion <code>diagram.html</code>).</p>
+  <p><b>Note on inferred coverage.</b> Where a product category is covered via a broader class without being named in the rule text (e.g., tablets/PCs under "consumer devices generally"), the cell records the inference and the detail panel notes the underlying rationale. The Register's 2021 definition of "consumer devices" anchors on devices "primarily designed for use by consumers" whose software is "specifically created for a particular product to control that product's basic operations" — a framing that arguably excludes general-purpose computers (whose software is the general-purpose OS itself). The rulemaking record does not directly resolve PC/laptop status.</p>
+  <p><b>Not legal advice.</b></p>
+</footer>
+
+</div>
+
+<script>
+"use strict";
+
+// ============================================================
+// DATA: product × cycle matrix
+// Each row: { group, product, descr, cells: { CYCLE: cell } }
+// Cell statuses: new | renewed | expanded | narrowed | carveout | denied | gap | na
+// ============================================================
+
+const CYCLES = [2000, 2003, 2006, 2010, 2012, 2015, 2018, 2021, 2024];
+
+const ROWS = [
+
+// ---------- GROUP: PERSONAL COMPUTING ----------
+{ group: "Personal computing devices" },
+
+{
+  product: "Smartphones (phones)",
+  descr: "Owner / independent repair of smartphone firmware and hardware.",
+  cells: {
+    2000: na(),
+    2003: na(),
+    2006: na(),
+    2010: na(),
+    2012: na(),
+    2015: na(),
+    2018: cell("new", "b(10)", "First granted",
+      "2018 (b)(10) created an exemption for diagnosis/maintenance/repair of " +
+      "smartphones, home appliances, OR home systems. Smartphones were one of the three " +
+      "enumerated device types — the only specifically named handheld category in the original class.",
+      "The Acting Register largely concurs with NTIA's support for expanding the exemption to allow users to diagnose and repair smartphones and home appliances.",
+      "2018 Acting Register's Recommendation [PAGE 205]; codified at 2018 Final Rule § 201.40(b)(10)."),
+    2021: cell("expanded", "b(14)", "Folded into 'consumer devices'",
+      "2021 (b)(14) replaced the smartphone/home-appliance/home-system enumeration with " +
+      "'any lawfully acquired device that is primarily designed for use by consumers.' " +
+      "Smartphones remain covered, now as one species of consumer device.",
+      "When circumvention is undertaken on a lawfully acquired device or machine on which the computer program operates solely for the purpose of diagnosis, maintenance, or repair of such a device or machine. For purposes of this paragraph, a device or machine is considered lawfully acquired if it is a device or machine that is primarily designed for use by consumers …",
+      "2021 Register's Recommendation [PAGE 235]; codified at 2021 Final Rule § 201.40(b)(14)."),
+    2024: cell("renewed", "b(15)", "Renewed unchanged",
+      "2024 (b)(15) renewed the consumer-devices class. No proposal for narrower or " +
+      "broader smartphone-specific treatment was filed.",
+      "Renewed unchanged from 2021.",
+      "2024 Final Rule § 201.40(b)(15).")
+  }
+},
+
+{
+  product: "Tablets / portable all-purpose mobile computers",
+  descr: "Repair of tablets, iPads, and similar portable all-purpose mobile computing devices.",
+  cells: {
+    2000: na(),
+    2003: na(),
+    2006: na(),
+    2010: na(),
+    2012: na(),
+    2015: na(),
+    2018: cell("gap", "—", "Excluded from 2018 class",
+      "The 2018 consumer-device repair class (b)(10) was limited to smartphones, " +
+      "home appliances, and home systems. The Acting Register declined to extend it " +
+      "further despite proponent calls for broader 'software-enabled consumer device' coverage. " +
+      "Tablets fell outside the granted scope — a gap explicitly acknowledged when the 2021 record was built.",
+      "Although commenters' proposals varied in scope … they can be grouped into the following four categories: (1) removing… vehicle telematics…; (2) expanding the exemption to apply to other types of software-enabled devices, including appliances, computers, toys, and other Internet of Things devices … [the Acting Register] is recommending two separate exemptions, one related to motorized land vehicles, and one related to the repair and maintenance of additional categories of devices … [specifically] smartphones, and firmware that controls home appliances and home systems.",
+      "2018 Acting Register's Recommendation [PAGE 196–205]; gap later confirmed by iFixit & Repair Association in 2021 record."),
+    2021: cell("new", "b(14)", "Covered via consumer-devices broadening",
+      "Proponents (iFixit, Repair Association) specifically cited tablets as a key gap " +
+      "in the 2018 class. The 2021 expansion to 'consumer devices generally' brings " +
+      "tablets in. They are not named in the codified text but the Recommendation " +
+      "discusses them as a paradigmatic covered case.",
+      "iFixit and the Repair Association note that while circumventing TPMs to repair smartphones is exempt under current regulations, doing so to repair tablets is not.",
+      "2021 Register's Recommendation [PAGE 216]; codified at 2021 Final Rule § 201.40(b)(14)."),
+    2024: cell("renewed", "b(15)", "Renewed via consumer-devices class",
+      "Inherited from the 2021 broadening; no separate tablet record in 2024.",
+      "Renewed unchanged from 2021.",
+      "2024 Final Rule § 201.40(b)(15).")
+  }
+},
+
+{
+  product: "Laptops / desktops / general-purpose computers",
+  descr: "Repair of PCs running general-purpose operating systems.",
+  cells: {
+    2000: na(),
+    2003: na(),
+    2006: na(),
+    2010: na(),
+    2012: na(),
+    2015: na(),
+    2018: cell("gap", "—", "Not in record",
+      "No proposal for a §1201 repair exemption specifically targeting general-purpose " +
+      "computers was filed. Proponents framed the request around firmware-controlled devices, " +
+      "not around laptops/desktops running a general OS.",
+      null,
+      "2018 record reviewed; no PC-repair proposal identified."),
+    2021: cell("gap", "—", "Likely outside scope",
+      "The Register defined 'consumer devices' as devices whose software is " +
+      "'specifically created for a particular product to control that product's basic operations' " +
+      "— a framing that anchors on product-specific firmware. General-purpose computers, " +
+      "whose primary software IS a general-purpose OS, sit uneasily inside that definition. " +
+      "The record does not directly resolve this question.",
+      "[Consumer devices share these characteristics:] (1) 'they are consumer-grade'; (2) the 'software within the product is often specifically created for a particular product to control that product's basic operations'; (3) the software may be 'ancillary to the non-software (e.g., mechanical or electrical) components of the product' …",
+      "2021 Register's Recommendation [PAGE 235]."),
+    2024: cell("gap", "—", "Still unresolved",
+      "No record development of PC-specific repair in 2024. Status remains ambiguous — " +
+      "implicitly within consumer-grade hardware repair, but not analyzed.",
+      null,
+      "2024 record reviewed; no PC-repair proposal or analysis identified.")
+  }
+},
+
+// ---------- GROUP: HOME ----------
+{ group: "Home / household equipment" },
+
+{
+  product: "Home appliances (refrigerators, dishwashers, ovens, washers, dryers, microwaves)",
+  descr: "Repair of firmware in household appliances.",
+  cells: {
+    2000: na(), 2003: na(), 2006: na(), 2010: na(), 2012: na(), 2015: na(),
+    2018: cell("new", "b(10)", "First granted",
+      "2018 (b)(10) explicitly named 'home appliance' as one of the three enumerated " +
+      "device types eligible for repair circumvention. This was a direct response to " +
+      "DRM-locked refrigerators, dishwashers, etc.",
+      "Computer programs that control … a lawfully acquired smartphone or home appliance or home system, such as a refrigerator, thermostat, HVAC, or electrical system …",
+      "2018 Final Rule § 201.40(b)(10) [PAGE 10]."),
+    2021: cell("renewed", "b(14)", "Renewed via consumer-devices class",
+      "Subsumed into the broader 'consumer devices generally' class. The (b)(14) codified " +
+      "text retains illustrative examples — 'such as a smartphone, home appliance, or home system.'",
+      null,
+      "2021 Final Rule § 201.40(b)(14)."),
+    2024: cell("renewed", "b(15)", "Renewed unchanged", null, null,
+      "2024 Final Rule § 201.40(b)(15).")
+  }
+},
+
+{
+  product: "Home systems (HVAC, thermostats, electrical, security)",
+  descr: "Repair of building-integrated systems in residential settings.",
+  cells: {
+    2000: na(), 2003: na(), 2006: na(), 2010: na(), 2012: na(), 2015: na(),
+    2018: cell("new", "b(10)", "First granted",
+      "2018 (b)(10) explicitly named 'home system' (refrigerator, thermostat, HVAC, " +
+      "electrical system) as the third enumerated type. Note: the comma list in the " +
+      "codified text treats 'refrigerator' as a home system in the original, although " +
+      "in ordinary usage it's an appliance.",
+      "Computer programs that control … a lawfully acquired … home system, such as a refrigerator, thermostat, HVAC, or electrical system.",
+      "2018 Final Rule § 201.40(b)(10) [PAGE 10]."),
+    2021: cell("renewed", "b(14)", "Renewed via consumer-devices class", null, null,
+      "2021 Final Rule § 201.40(b)(14)."),
+    2024: cell("renewed", "b(15)", "Renewed unchanged", null, null,
+      "2024 Final Rule § 201.40(b)(15).")
+  }
+},
+
+{
+  product: "Video game consoles",
+  descr: "Repair of console hardware (PS, Xbox, Nintendo, etc.). A nine-year arc from first denial (2012) to narrow carve-out (2021).",
+  cells: {
+    2000: na(), 2003: na(), 2006: na(), 2010: na(),
+    2012: cell("denied", "—", "First request — denied (NTIA's narrow-to-repair proposal refused)",
+      "The 2012 Class 3 proposal was a broad video-game-console jailbreaking class. " +
+      "NTIA filed a letter urging the Register to narrow the class to ALLOW console repair: " +
+      "circumvention 'limited to allow videogame console owners to repair or replace hardware " +
+      "components, or to obtain unlicensed repairs when the console is out of warranty.' " +
+      "The Register REFUSED even this narrowed version, finding the record lacked any factual " +
+      "basis for a repair-only class. This was the first time §1201 game-console repair was on the table.",
+      "Although NTIA does not support the exemption as requested by the proponents, it does support an exemption that is limited to allow videogame console owners to repair or replace hardware components, or to 'obtain unlicensed repairs when the console is out of warranty or when the console and authorized replacement parts are no longer on the market.' … the Register finds that the record lacks any factual basis upon which to recommend the designation of a class, even one that is limited to repair activities, as suggested by NTIA in its letter.",
+      "2012 Register's Recommendation [PAGE 53]; class denied at PAGE 54."),
+    2015: cell("denied", "—", "Re-raised with iFixit repair record — denied again",
+      "iFixit returned in 2015 (Class 19) with substantially more detail on console repair, " +
+      "including the specific optical-drive problem: 'the optical drives are cryptographically " +
+      "linked via their serial numbers to the motherboard.' The Register acknowledged the record " +
+      "was 'somewhat more developed with respect to the issue of console repair' but still refused, " +
+      "citing available manufacturer repair channels. iFixit's optical-drive argument here is the " +
+      "same one that prevailed six years later as the 2021 (b)(14)(iii) carve-out.",
+      "Although the record in this proceeding is somewhat more developed with respect to the issue of console repair, it still does not support the need for an exemption. The major game console manufacturers appear to offer repair services for in- and out-of-warranty consoles either for free or at reasonable prices.",
+      "2015 Register's Recommendation [PAGE 204]; iFixit optical-drive testimony at [PAGE 200]."),
+    2018: na(),
+    2021: cell("carveout", "b(14)(iii)", "Narrow optical-drive-only carve-out — first console repair grant",
+      "When the consumer-devices class was broadened in 2021, opponents raised piracy " +
+      "concerns specific to game consoles. The Register granted only a narrow carve-out: " +
+      "console repair is permitted ONLY for optical-drive repair, and any circumvented " +
+      "TPMs must be restored. Console firmware repair, system-board repair, etc. remain unauthorized. " +
+      "This is essentially the iFixit optical-drive use case from the 2015 record, finally granted.",
+      "Because of the distinct record and unique issues pertaining to gaming consoles, the Register concludes that the proposal to repair console optical drives should be considered separately, as a subset of consumer devices … the recommended exemption is limited to one specific type of repair — namely, repair of optical drives.",
+      "2021 Register's Recommendation [PAGE 201]; codified at 2021 Final Rule § 201.40(b)(14)(iii)."),
+    2024: cell("renewed", "b(15)", "Carve-out retained on renewal",
+      "The narrow optical-drive carve-out continues unchanged in 2024.",
+      null,
+      "2024 Final Rule § 201.40(b)(15).")
+  }
+},
+
+// ---------- GROUP: VEHICLES & VESSELS ----------
+{ group: "Vehicles & vessels" },
+
+{
+  product: "Motorized land vehicles (cars, trucks, motorcycles, ATVs, tractors)",
+  descr: "Owner diagnosis, repair, modification of ECU and vehicle control software.",
+  cells: {
+    2000: na(), 2003: na(), 2006: na(), 2010: na(), 2012: na(),
+    2015: cell("new", "b(6)", "First granted — the right-to-repair anchor",
+      "2015 (b)(6) was the first §1201 repair-purpose class. It came with a 12-month " +
+      "delayed effective date and broad telematics/entertainment carve-outs.",
+      "Computer programs that are contained in and control the functioning of a lawfully acquired motorized land vehicle … when circumvention is a necessary step undertaken by the authorized owner of the vehicle to allow the diagnosis, repair or lawful modification of a vehicle function …",
+      "2015 Final Rule § 201.40(b)(6) [PAGE 18]."),
+    2018: cell("expanded", "b(9)", "Expanded scope",
+      "2018 dropped the 12-month delayed effective date and replaced the broad telematics/entertainment " +
+      "carve-out with a narrower 'subscription service' exclusion.",
+      null,
+      "2018 Final Rule § 201.40(b)(9); 2018 Acting Register's Recommendation."),
+    2021: cell("expanded", "b(13)", "Marine vessels added (see next row)",
+      "2021 (b)(13) extended the class to marine vessels (covered separately in this view). " +
+      "Land-vehicle scope itself was unchanged.",
+      null,
+      "2021 Final Rule § 201.40(b)(13)."),
+    2024: cell("renewed", "b(13)", "Renewed unchanged", null, null,
+      "2024 Final Rule § 201.40(b)(13).")
+  }
+},
+
+{
+  product: "Marine vessels (boats, commercial vessels, agricultural vessels)",
+  descr: "Repair of marine-vessel control software.",
+  cells: {
+    2000: na(), 2003: na(), 2006: na(), 2010: na(), 2012: na(), 2015: na(), 2018: na(),
+    2021: cell("new", "b(13)", "Added to vehicle class",
+      "Proponents argued boat owners face the same telematics-lockout problems as " +
+      "tractor owners. The Register agreed and folded marine vessels into the vehicle-repair class.",
+      "Proponents assert that users of marine vessels are adversely affected in the same manner as users of land vehicles, in particular, tractor owners.",
+      "2021 Register's Recommendation [PAGE 195]; codified at 2021 Final Rule § 201.40(b)(13)."),
+    2024: cell("renewed", "b(13)", "Renewed unchanged", null, null,
+      "2024 Final Rule § 201.40(b)(13).")
+  }
+},
+
+// ---------- GROUP: MEDICAL ----------
+{ group: "Medical equipment" },
+
+{
+  product: "Medical devices & systems (clinical / hospital / professional)",
+  descr: "Independent service organization (ISO) repair of medical imaging, monitoring, treatment equipment.",
+  cells: {
+    2000: na(), 2003: na(), 2006: na(), 2010: na(), 2012: na(), 2015: na(), 2018: na(),
+    2021: cell("new", "b(15)", "First granted",
+      "Petitioned by Summit Imaging and Transtate. The Register granted both the device-firmware " +
+      "circumvention AND access to 'related data files' (service manuals, error logs).",
+      "Computer programs that are contained in and control the functioning of a lawfully acquired medical device or system, and related data files, when circumvention is a necessary step to allow the diagnosis, maintenance, or repair of such a device or system.",
+      "2021 Final Rule § 201.40(b)(15); 2021 Register's Recommendation."),
+    2024: cell("renewed", "b(17)", "Renewed unchanged",
+      "Renewal petitions filed by TriMedx, Avante, Crothall, Metropolis, TTG. " +
+      "Opposition from AdvaMed, MITA, Philips, ACI did not displace the exemption.",
+      null,
+      "2024 Final Rule § 201.40(b)(17).")
+  }
+},
+
+// ---------- GROUP: COMMERCIAL / INDUSTRIAL ----------
+{ group: "Commercial / industrial equipment" },
+
+{
+  product: "Commercial food-preparation equipment (commercial ovens, ice machines, soft-serve, etc.)",
+  descr: "Repair of DRM-locked retail-level commercial food prep equipment — the 'McDonald's ice cream machine' use case.",
+  cells: {
+    2000: na(), 2003: na(), 2006: na(), 2010: na(), 2012: na(), 2015: na(), 2018: na(), 2021: na(),
+    2024: cell("new", "b(16)", "First granted",
+      "2024 (b)(16) — granted specifically for retail-level commercial food preparation " +
+      "equipment. The Register carved this out from the broader commercial/industrial proposal " +
+      "(see the next row) on the strength of a more developed record.",
+      "the Register recommends that the Librarian adopt an exemption for the diagnosis, maintenance, and repair of retail-level commercial food preparation equipment.",
+      "2024 Register's Recommendation [PAGE 141]; codified at 2024 Final Rule § 201.40(b)(16).")
+  }
+},
+
+{
+  product: "Other commercial / industrial / enterprise equipment (broader scope)",
+  descr: "All non-consumer, non-vehicle, non-medical, non-food-prep software-enabled equipment.",
+  cells: {
+    2000: na(), 2003: na(), 2006: na(), 2010: na(), 2012: na(), 2015: na(), 2018: na(),
+    2021: cell("denied", "—", "Proposed and refused",
+      "Proponents asked the Register to extend the consumer-devices class to commercial " +
+      "and industrial equipment (SCADA, commercial building systems, facility management, " +
+      "PBX phone systems). The Register refused on substantive grounds: the record didn't " +
+      "show the commercial/industrial use cases share the characteristics that justified " +
+      "the consumer-devices class.",
+      "It is unclear, however, that commercial and industrial devices and systems share these commonalities. Proponents offer a few examples of TPMs preventing access to SCADA and commercial building systems, but it is not apparent from the record that users of commercial and industrial systems are similarly situated to users of consumer products. From the examples provided, it appears that some of these users had adequate alternatives to circumvention.",
+      "2021 Register's Recommendation [PAGE 200]."),
+    2024: cell("denied", "—", "Proposed again and refused again",
+      "The 2024 cycle revived the proposal as Class 5 (broader scope, beyond food prep). " +
+      "The Register granted only the food-prep carve-out and declined the broader class for " +
+      "the same insufficient-record reason given in 2021.",
+      "However, she declines to recommend an exemption for a broader class of software-enabled commercial and industrial devices in the absence of a sufficient showing of adverse effects on the record presented in this rulemaking.",
+      "2024 Register's Recommendation [PAGE 141]; 2024 Final Rule [PAGE 7].")
+  }
+},
+
+// ---------- GROUP: OWNER DATA ACCESS (repair-adjacent) ----------
+{ group: "Owner data access (repair-adjacent)" },
+
+{
+  product: "Vehicle / vessel operational, diagnostic, telematics data",
+  descr: "Owner/lessee access to data the vehicle or vessel generates (telematics, diagnostics) — distinct from repair circumvention.",
+  cells: {
+    2000: na(), 2003: na(), 2006: na(), 2010: na(), 2012: na(), 2015: na(), 2018: na(), 2021: na(),
+    2024: cell("new", "b(14)", "First granted",
+      "Complementary to the vehicle-repair class. Reflects consumer/farmer pressure on " +
+      "access to vehicle-generated data — owning the data your tractor produces, not just " +
+      "the right to fix it.",
+      "Computer programs that are contained in and control the functioning of a lawfully acquired motorized land vehicle or marine vessel, such as a personal automobile or boat, commercial vehicle or vessel, or mechanized agricultural vehicle or vessel … when circumvention is a necessary step to allow an authorized owner or lessee … to access, store, and share operational data, including diagnostic and telematics data …",
+      "2024 Final Rule § 201.40(b)(14).")
+  }
+}
+
+];
+
+// ============================================================
+// Helpers for building cell data
+// ============================================================
+
+function cell(status, classNum, headline, longDesc, quote, citation) {
+  return { status, classNum, headline, longDesc, quote, citation };
+}
+function na() {
+  return { status: "na" };
+}
+
+// ============================================================
+// Render matrix
+// ============================================================
+
+const statusLabel = {
+  new: "new",
+  renewed: "renewed",
+  expanded: "expanded",
+  narrowed: "narrowed",
+  carveout: "carve-out",
+  denied: "DENIED",
+  gap: "gap",
+  na: "—"
+};
+
+const statusFullLabel = {
+  new: "Granted — first time",
+  renewed: "Granted — renewed",
+  expanded: "Granted — expanded scope",
+  narrowed: "Granted — narrowed scope",
+  carveout: "Granted — narrow carve-out",
+  denied: "Proposed and refused",
+  gap: "Gap — not in record",
+  na: "Not applicable (class did not exist)"
+};
+
+function buildMatrix() {
+  const tbody = document.getElementById("matrix-body");
+  let html = "";
+
+  for (const row of ROWS) {
+    if (row.group) {
+      html += `<tr class="group-row"><td colspan="10">${escapeHtml(row.group)}</td></tr>`;
+      continue;
+    }
+
+    html += `<tr class="product-row">`;
+    html += `<td class="product">${escapeHtml(row.product)}<span class="desc">${escapeHtml(row.descr)}</span></td>`;
+
+    for (const cycle of CYCLES) {
+      const c = row.cells[cycle];
+      if (!c) {
+        html += `<td class="cell s-na"><span class="status-label">—</span></td>`;
+        continue;
+      }
+      const classNumHtml = c.classNum && c.classNum !== "—"
+        ? `<span class="class-num">${escapeHtml(c.classNum)}</span>`
+        : "";
+      const labelHtml = `<span class="status-label">${escapeHtml(statusLabel[c.status])}</span>`;
+      const tooltipText = c.headline ? c.headline : statusFullLabel[c.status];
+
+      html += `<td class="cell s-${c.status}" `
+            + `data-product="${escapeAttr(row.product)}" `
+            + `data-cycle="${cycle}" `
+            + `data-status="${c.status}" `
+            + `title="${escapeAttr(cycle + " — " + tooltipText)}">`
+            + classNumHtml + labelHtml + `</td>`;
+    }
+
+    html += `</tr>`;
+  }
+
+  tbody.innerHTML = html;
+}
+
+function escapeHtml(s) {
+  if (s == null) return "";
+  return String(s).replace(/[&<>"']/g, ch => ({
+    "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;", "'": "&#39;"
+  })[ch]);
+}
+function escapeAttr(s) { return escapeHtml(s); }
+
+// ============================================================
+// Detail panel
+// ============================================================
+
+function findCell(product, cycle) {
+  for (const row of ROWS) {
+    if (row.group) continue;
+    if (row.product === product) return { row, cell: row.cells[cycle] };
+  }
+  return null;
+}
+
+function showDetail(product, cycle) {
+  const found = findCell(product, cycle);
+  if (!found || !found.cell || found.cell.status === "na") {
+    clearDetail();
+    return;
+  }
+  const { row, cell } = found;
+  const status = cell.status;
+
+  const colorMap = {
+    new: "var(--c-new)", renewed: "var(--c-renewed)", expanded: "var(--c-expanded)",
+    narrowed: "var(--c-narrowed)", carveout: "var(--c-carveout)",
+    denied: "var(--c-denied)", gap: "var(--c-gap)"
+  };
+  const inkMap = {
+    new: "var(--c-new-ink)", renewed: "var(--c-renewed-ink)", expanded: "var(--c-expanded-ink)",
+    narrowed: "var(--c-narrowed-ink)", carveout: "var(--c-carveout-ink)",
+    denied: "var(--c-denied-ink)", gap: "var(--c-gap-ink)"
+  };
+
+  let html = `<button class="close-btn" onclick="clearDetail()" title="Close">&times;</button>`;
+  html += `<p class="panel-header">Cycle ${cycle}</p>`;
+  html += `<h3>${escapeHtml(row.product)}</h3>`;
+  html += `<p class="cycle-line">${escapeHtml(row.descr)}</p>`;
+  html += `<span class="status-pill" style="background:${colorMap[status]};color:${inkMap[status]};">`
+       + escapeHtml(statusFullLabel[status])
+       + (cell.classNum && cell.classNum !== "—" ? ` &middot; § 201.40(${escapeHtml(cell.classNum)})` : "")
+       + `</span>`;
+
+  if (cell.headline) {
+    html += `<p class="field-label">What happened</p>`;
+    html += `<p class="field-value"><b>${escapeHtml(cell.headline)}</b></p>`;
+  }
+  if (cell.longDesc) {
+    html += `<p class="field-value">${escapeHtml(cell.longDesc)}</p>`;
+  }
+  if (cell.quote) {
+    html += `<p class="field-label">Verbatim</p>`;
+    html += `<blockquote class="quote">&ldquo;${escapeHtml(cell.quote)}&rdquo;</blockquote>`;
+  }
+  if (cell.citation) {
+    html += `<p class="citation">${escapeHtml(cell.citation)}</p>`;
+  }
+
+  const dc = document.getElementById("detail-content");
+  dc.innerHTML = html;
+  dc.style.display = "";
+  document.getElementById("placeholder").style.display = "none";
+}
+
+function clearDetail() {
+  document.getElementById("detail-content").style.display = "none";
+  document.getElementById("placeholder").style.display = "";
+  document.querySelectorAll("td.cell.selected").forEach(el => el.classList.remove("selected"));
+}
+
+// ============================================================
+// Wire up events
+// ============================================================
+
+function init() {
+  buildMatrix();
+
+  document.getElementById("matrix").addEventListener("click", e => {
+    const td = e.target.closest("td.cell");
+    if (!td) return;
+    if (td.classList.contains("s-na")) return;
+
+    document.querySelectorAll("td.cell.selected").forEach(el => el.classList.remove("selected"));
+    td.classList.add("selected");
+
+    showDetail(td.dataset.product, parseInt(td.dataset.cycle, 10));
+  });
+
+  document.querySelectorAll(".controls button[data-filter]").forEach(btn => {
+    btn.addEventListener("click", () => {
+      document.querySelectorAll(".controls button[data-filter]").forEach(b => b.classList.remove("active"));
+      btn.classList.add("active");
+      const f = btn.dataset.filter;
+      document.body.classList.remove("filter-granted", "filter-denied");
+      if (f === "granted") document.body.classList.add("filter-granted");
+      else if (f === "denied") document.body.classList.add("filter-denied");
+    });
+  });
+}
+
+if (document.readyState === "loading") {
+  document.addEventListener("DOMContentLoaded", init);
+} else {
+  init();
+}
+</script>
+
+</body>
+</html>

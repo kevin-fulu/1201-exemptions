@@ -1,0 +1,31 @@
+{
+  "cycle": 2021,
+  "final_rule_file": "1201/Final Rules/2021-Final-Rule.txt",
+  "extractor_notes": "The 2021 NPRM organized proposals into 17 numbered proposed classes (preamble PDF p. 3). Section B 'Classes Recommended for Adoption' covers Classes 1, 3, 5, 7(a)+7(b), 8, 9, 10, 11, 12, 13, 14(a)+14(b), 15, 16, 17 — all granted in whole or in part. Section C 'Classes Considered but Not Recommended' (PDF p. 10-11) lists only three full denials: Classes 2, 4, and 6. 14+3=17, all proposed classes accounted for. NOTE on partial denials: Within Class 14, the Register granted the off-premises expansion for software (14(a)) but rejected it for video games (14(b)) on noninfringing-use grounds (PDF p. 10, .txt lines 1918-1925: 'With respect to video games, the Register concluded that proponents failed to carry their burden to show that the uses are likely noninfringing'). 14(b) is NOT in Section C and is treated as a scope-denial-within-a-granted-class rather than a denied proposed class — therefore not listed below. The 21 codified subsections at § 201.40(b) are not 21 separate proposals; they reflect the Register's splitting/restructuring of the granted classes into codified rule text.",
+  "denials": [
+    {
+      "proposed_class_number": "2",
+      "topic_label": "Audiovisual Works — Texting (clips in text messages)",
+      "reason_category": "de_minimis",
+      "reason_quote": "Petitioner did not provide legal arguments or evidence in support of its petition and did not participate in the public hearings. Petitioner failed to explain how the proposed uses were noninfringing and why an exemption is necessary. ... due to the de minimis showing provided by proponents, the Register does not recommend the adoption of an exemption for proposed Class 2.",
+      "source_pdf_pages": [10, 11],
+      "later_granted_in_cycle": null
+    },
+    {
+      "proposed_class_number": "4",
+      "topic_label": "Audiovisual Works — Livestream Recording",
+      "reason_category": "procedural",
+      "reason_quote": "Petitioner did not provide legal arguments or evidence to support its petition and did not participate in the public hearings. ... NTIA recommended denying the proposed exemption. ... the Register does not recommend the adoption of an exemption for proposed Class 4.",
+      "source_pdf_pages": [11],
+      "later_granted_in_cycle": null
+    },
+    {
+      "proposed_class_number": "6",
+      "topic_label": "Audiovisual Works — Space-Shifting",
+      "reason_category": "noninfringing_use_not_shown",
+      "reason_quote": "Petitioner failed to provide legal arguments or evidence to demonstrate that space-shifting is a noninfringing use. Additionally, petitioner did not participate in the public hearings to support its petition or clarify whether the proposed exemption would extend to commercial services. ... the Register does not recommend the adoption of an exemption for proposed Class 6.",
+      "source_pdf_pages": [11],
+      "later_granted_in_cycle": null
+    }
+  ]
+}

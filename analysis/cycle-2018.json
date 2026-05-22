@@ -1,0 +1,370 @@
+{
+  "cycle": 2018,
+  "final_rule_file": "1201/Final Rules/2018-Final-Rule.txt",
+  "codified_text_starts_pdf_page": 19,
+  "extractor_notes": "Extracted by main session after content-filter blocked sub-agent. 14 codified classes (b)(1) through (b)(14). Renewal-status determinations were drawn from the Final Rule preamble Section A 'Renewal Recommendations' (PDF p. 4 onward) and Section B 'New or Expanded Designations' (PDF p. 7 onward). For classes that were renewed from 2015, renewal_status compares the 2018 codified text against the 2015 codified text in 2015-Final-Rule.txt: 'renewed_unchanged' = same substantive scope; 'renewed_expanded' = added permitted uses, removed exclusions, or broadened device/use coverage; 'renewed_narrowed' = removed permitted uses or added exclusions. INDEX.md labels and topic descriptions were verified against the codified text; no discrepancies found for 2018.",
+  "exemptions": [
+    {
+      "class_number": "(b)(1)",
+      "equipment_or_work": "Motion pictures (including TV shows and videos) — short clips for criticism/comment and educational uses",
+      "permitted_uses": [
+        "Criticism or comment: documentary filmmaking, or other films where the clip is used in parody or for biographical/historically significant nature (i)(A)",
+        "Criticism or comment: noncommercial videos (including paid-commissioned noncommercial uses) (i)(B)",
+        "Criticism or comment: nonfiction multimedia e-books (i)(C)",
+        "Educational: by college/university faculty and students, or K-12 educators and students (K-12 student must circumvent under direct supervision of an educator), including GED programs, for criticism, comment, teaching, or scholarship (ii)(A)",
+        "Educational: by MOOC faculty at accredited nonprofit institutions, in film studies / close-analysis courses, for criticism or comment, subject to enrolled-student-limit and copyright-policy safeguards (ii)(B)",
+        "Educational: by educators and participants in nonprofit digital/media-literacy programs offered by libraries, museums, and other nonprofits, in face-to-face instruction, for criticism or comment, using screen-capture only (ii)(C)"
+      ],
+      "exclusions": [
+        "Sole purpose limited to short portions for criticism, comment, or the listed educational uses",
+        "For (b)(1)(i) and (b)(1)(ii)(A) and (B), source content must be a CSS-protected DVD, AACS-protected Blu-ray, or digitally-transmitted motion picture protected by a TPM; AND person must reasonably believe non-circumventing alternatives cannot produce the required level of high-quality content — OR circumvention must be undertaken using screen-capture technology offered to the public as enabling reproduction after lawful acquisition and decryption",
+        "(b)(1)(ii)(C) (libraries/museums/nonprofits in face-to-face instruction) restricted to screen-capture only",
+        "MOOC use requires technological measures preventing further dissemination, limited transmissions to enrolled students, copyright policies, and informational materials (per 17 U.S.C. 110(2))"
+      ],
+      "definitions_or_conditions": [
+        "Motion pictures as defined in 17 U.S.C. 101",
+        "Source content must be lawfully made and acquired",
+        "Screen-capture branch requires technology offered to the public for reproducing motion pictures after content has been lawfully acquired and decrypted"
+      ],
+      "renewal_status": "renewed_expanded",
+      "renewal_status_source": {
+        "pdf_pages": [6, 7],
+        "quote": "Multiple individuals and organizations petitioned to renew the exemption consisting of multiple subparts covering use of short portions of motions pictures for various educational and derivative uses. No oppositions were filed. ... Accordingly, the Acting Register recommends renewal of this exemption, including all of its subparts, and will consider proposed expansions below in the discussion on Proposed Class 1."
+      },
+      "expansion_notes": "Compared to 2015 (b)(1): 2018 adds 'parody or for biographical or historically significant nature' to the documentary-filmmaking branch (i)(A); 2018 allows K-12 students to use full circumvention 'under the direct supervision of an educator' (2015 restricted K-12 students to screen-capture only).",
+      "source": {
+        "file": "1201/Final Rules/2018-Final-Rule.txt",
+        "pdf_pages": [19, 20],
+        "quote": "(1) Motion pictures (including television shows and videos), as defined in 17 U.S.C. 101, where the motion picture is lawfully made and acquired on a DVD protected by the Content Scramble System, on a Blu-ray disc protected by the Advanced Access Content System, or via a digital transmission protected by a technological measure, and the person engaging in circumvention under paragraph (b)(1)(i) and (b)(1)(ii)(A) and (B) of this section reasonably believes that non-circumventing alternatives are unable to produce the required level of high-quality content, or the circumvention is undertaken using screen-capture technology that appears to be offered to the public as enabling the reproduction of motion pictures after content has been lawfully acquired and decrypted, where circumvention is undertaken solely in order to make use of short portions of the motion pictures in the following instances: (i) For the purpose of criticism or comment: (A) For use in documentary filmmaking, or other films where the motion picture clip is used in parody or for its biographical or historically significant nature; (B) For use in noncommercial videos (including videos produced for a paid commission if the commissioning entity's use is noncommercial); or (C) For use in nonfiction multimedia e-books. (ii) For educational purposes: (A) By college and university faculty and students or kindergarten through twelfth-grade (K-12) educators and students (where the K-12 student is circumventing under the direct supervision of an educator), including of accredited general educational development (GED) programs, for the purpose of criticism, comment, teaching, or scholarship; (B) By faculty of massive open online courses (MOOCs) offered by accredited nonprofit educational institutions to officially enrolled students through online platforms ... ; or (C) By educators and participants in nonprofit digital and media literacy programs offered by libraries, museums, and other nonprofit entities with an educational mission, in the course of face-to-face instructional activities, for the purpose of criticism or comment, except that such users may only circumvent using screen-capture technology that appears to be offered to the public as enabling the reproduction of motion pictures after content has been lawfully acquired and decrypted."
+      }
+    },
+    {
+      "class_number": "(b)(2)",
+      "equipment_or_work": "Motion pictures — captioning and audio description by educational disability services",
+      "permitted_uses": [
+        "Circumvent CSS, AACS, or other TPM on lawfully acquired motion pictures by a disability services office or other unit of a K-12 / college / university engaged in providing accessibility services, for the purpose of adding captions and/or audio description to create an accessible version as a necessary accommodation under applicable disability law"
+      ],
+      "exclusions": [
+        "Educational institution unit must have determined, after reasonable effort, that an accessible version cannot be obtained at a fair price or in a timely manner",
+        "Accessible versions must be provided to students or educators and stored in a manner intended to reasonably prevent unauthorized further dissemination"
+      ],
+      "definitions_or_conditions": [
+        "Source content must be a CSS-protected DVD, AACS-protected Blu-ray, or digitally-transmitted motion picture protected by a TPM",
+        "Applicable disability law includes the Americans With Disabilities Act, Individuals with Disabilities Education Act, or Section 504 of the Rehabilitation Act",
+        "'Audio description' = an oral narration that provides an accurate rendering of the motion picture"
+      ],
+      "renewal_status": "new",
+      "renewal_status_source": {
+        "pdf_pages": [7],
+        "quote": "B. New or Expanded Designations of Classes ... [Proposed Class 2: Audiovisual works — accessible content]"
+      },
+      "source": {
+        "file": "1201/Final Rules/2018-Final-Rule.txt",
+        "pdf_pages": [20],
+        "quote": "(2)(i) Motion pictures (including television shows and videos), as defined in 17 U.S.C. 101, where the motion picture is lawfully acquired on a DVD protected by the Content Scramble System, on a Blu-ray disc protected by the Advanced Access Content System, or via a digital transmission protected by a technological measure, where: (A) Circumvention is undertaken by a disability services office or other unit of a kindergarten through twelfth-grade educational institution, college, or university engaged in and/or responsible for the provision of accessibility services to students, for the purpose of adding captions and/or audio description to a motion picture to create an accessible version as a necessary accommodation for a student or students with disabilities under an applicable disability law, such as the Americans With Disabilities Act, the Individuals with Disabilities Education Act, or Section 504 of the Rehabilitation Act; (B) The educational institution unit in paragraph (b)(2)(i)(A) of this section has, after a reasonable effort, determined that an accessible version cannot be obtained at a fair price or in a timely manner; and (C) The accessible versions are provided to students or educators and stored by the educational institution in a manner intended to reasonably prevent unauthorized further dissemination of a work. (ii) For purposes of this paragraph (b)(2), 'audio description' means an oral narration that provides an accurate rendering of the motion picture."
+      }
+    },
+    {
+      "class_number": "(b)(3)",
+      "equipment_or_work": "Literary works distributed electronically — accessibility",
+      "permitted_uses": [
+        "Circumvent TPMs that prevent enabling read-aloud functionality or interfere with screen readers or other applications or assistive technologies",
+        "(i) When a copy is lawfully obtained by a blind or other person with a disability (as defined in 17 U.S.C. 121), provided rights owner is remunerated for the mainstream copy",
+        "(ii) When the work is a nondramatic literary work, lawfully obtained and used by an authorized entity pursuant to 17 U.S.C. 121"
+      ],
+      "exclusions": [
+        "Rights owner must be remunerated, as appropriate, for the price of the mainstream copy (for individual-disability use)",
+        "Authorized-entity use is limited to nondramatic literary works"
+      ],
+      "definitions_or_conditions": [
+        "'Blind or other person with a disability' as defined in 17 U.S.C. 121",
+        "'Authorized entity' as used in 17 U.S.C. 121"
+      ],
+      "renewal_status": "renewed_unchanged",
+      "renewal_status_source": {
+        "pdf_pages": [4],
+        "quote": "Multiple organizations petitioned to renew the exemption for literary works distributed electronically (i.e., e-books), for use with assistive technologies for persons who are blind, visually impaired, or have print disabilities. No oppositions were filed against readoption of this exemption. ... Accordingly, the Acting Register recommends renewal of the following exemption: [text matches codified (b)(3)]"
+      },
+      "source": {
+        "file": "1201/Final Rules/2018-Final-Rule.txt",
+        "pdf_pages": [20],
+        "quote": "(3) Literary works, distributed electronically, that are protected by technological measures that either prevent the enabling of read-aloud functionality or interfere with screen readers or other applications or assistive technologies: (i) When a copy of such a work is lawfully obtained by a blind or other person with a disability, as such a person is defined in 17 U.S.C. 121; provided, however, that the rights owner is remunerated, as appropriate, for the price of the mainstream copy of the work as made available to the general public through customary channels; or (ii) When such work is a nondramatic literary work, lawfully obtained and used by an authorized entity pursuant to 17 U.S.C. 121."
+      }
+    },
+    {
+      "class_number": "(b)(4)",
+      "equipment_or_work": "Literary works — compilations of data generated by implanted medical devices (patient access to own data)",
+      "permitted_uses": [
+        "Circumvent TPMs on literary works consisting of compilations of data generated by wholly or partially implanted medical devices or their corresponding personal monitoring systems",
+        "Undertaken by a patient for the sole purpose of lawfully accessing the data generated by his or her own device or monitoring system"
+      ],
+      "exclusions": [
+        "Access must be accomplished through passive monitoring of wireless transmissions already being produced",
+        "Must not violate applicable law including HIPAA, the Computer Fraud and Abuse Act, or FDA regulations"
+      ],
+      "definitions_or_conditions": [
+        "Covered devices: medical devices wholly or partially implanted in the body, and their corresponding personal monitoring systems"
+      ],
+      "renewal_status": "renewed_unchanged",
+      "renewal_status_source": {
+        "pdf_pages": [4],
+        "quote": "Hugo Campos, member of the Coalition of Medical Device Patients and Researchers ... petitioned to renew the exemption covering access to patient data on networked medical devices. No oppositions were filed. ... Accordingly, the Acting Register recommends renewal of the following exemption: [text matches codified (b)(4)]"
+      },
+      "source": {
+        "file": "1201/Final Rules/2018-Final-Rule.txt",
+        "pdf_pages": [20],
+        "quote": "(4) Literary works consisting of compilations of data generated by medical devices that are wholly or partially implanted in the body or by their corresponding personal monitoring systems, where such circumvention is undertaken by a patient for the sole purpose of lawfully accessing the data generated by his or her own device or monitoring system and does not constitute a violation of applicable law, including without limitation the Health Insurance Portability and Accountability Act of 1996, the Computer Fraud and Abuse Act of 1986 or regulations of the Food and Drug Administration, and is accomplished through the passive monitoring of wireless transmissions that are already being produced by such device or monitoring system."
+      }
+    },
+    {
+      "class_number": "(b)(5)",
+      "equipment_or_work": "Wireless devices (cellphones, tablets, mobile hotspots, wearables) — unlocking",
+      "permitted_uses": [
+        "Circumvent computer programs that enable lawfully acquired wireless devices to connect to a wireless telecommunications network, solely to connect to a network whose operator authorizes the connection",
+        "Covered device classes: (i) wireless telephone handsets (cellphones); (ii) all-purpose tablet computers; (iii) portable mobile connectivity devices (mobile hotspots, removable wireless broadband modems, similar); (iv) wearable wireless devices designed to be worn on the body (smartwatches, fitness devices)"
+      ],
+      "exclusions": [
+        "Connection must be authorized by the operator of the network"
+      ],
+      "definitions_or_conditions": [
+        "Device must be 'lawfully acquired' (2015's 'used device' / prior-activation requirement removed in 2018)"
+      ],
+      "renewal_status": "renewed_expanded",
+      "renewal_status_source": {
+        "pdf_pages": [4],
+        "quote": "Multiple organizations petitioned to renew the exemption for computer programs that operate cellphones, tablets, mobile hotspots, or wearable devices (e.g., smartwatches), to allow connection of a used device to an alternative wireless network ('unlocking'). ... Accordingly, the Acting Register recommends renewal of this exemption and will consider proposed expansions below in the discussion on Proposed Class 5."
+      },
+      "expansion_notes": "Compared to 2015 (b)(3): 2015 required the device to be 'used' (previously lawfully acquired and activated on a carrier's network). 2018 drops the used-device requirement; any lawfully acquired wireless device of the covered classes qualifies. 2015's (ii) definition of 'used' is removed.",
+      "source": {
+        "file": "1201/Final Rules/2018-Final-Rule.txt",
+        "pdf_pages": [20],
+        "quote": "(5) Computer programs that enable the following types of lawfully acquired wireless devices to connect to a wireless telecommunications network, when circumvention is undertaken solely in order to connect to a wireless telecommunications network and such connection is authorized by the operator of such network: (i) Wireless telephone handsets (i.e., cellphones); (ii) All-purpose tablet computers; (iii) Portable mobile connectivity devices, such as mobile hotspots, removable wireless broadband modems, and similar devices; and (iv) Wearable wireless devices designed to be worn on the body, such as smartwatches or fitness devices."
+      }
+    },
+    {
+      "class_number": "(b)(6)",
+      "equipment_or_work": "Smartphones and portable all-purpose mobile computing devices — jailbreaking (+ removal of software)",
+      "permitted_uses": [
+        "Execute lawfully obtained software applications where circumvention enables interoperability of such applications with on-device programs",
+        "Permit removal of software from the smartphone or device"
+      ],
+      "exclusions": [
+        "Sole purpose limited to interoperability of applications, or removal of software"
+      ],
+      "definitions_or_conditions": [
+        "'Portable all-purpose mobile computing device' = device primarily designed to run a wide variety of programs (not consumption of a particular type of media content), equipped with an OS primarily designed for mobile use, intended to be carried or worn by an individual"
+      ],
+      "renewal_status": "renewed_unchanged",
+      "renewal_status_source": {
+        "pdf_pages": [4, 5],
+        "quote": "Multiple organizations petitioned to renew the exemptions for computer programs that operate smartphones, smart TVs, tablets, or other all-purpose mobile computing devices, to allow the device to interoperate with or to remove software applications ('jailbreaking'). ... Accordingly, the Acting Register recommends renewal of this exemption and will consider proposed expansions below in the discussion on Proposed Class 6."
+      },
+      "source": {
+        "file": "1201/Final Rules/2018-Final-Rule.txt",
+        "pdf_pages": [20],
+        "quote": "(6) Computer programs that enable smartphones and portable all-purpose mobile computing devices to execute lawfully obtained software applications, where circumvention is accomplished for the sole purpose of enabling interoperability of such applications with computer programs on the smartphone or device, or to permit removal of software from the smartphone or device. For purposes of this paragraph (b)(6), a 'portable all-purpose mobile computing device' is a device that is primarily designed to run a wide variety of programs rather than for consumption of a particular type of media content, is equipped with an operating system primarily designed for mobile use, and is intended to be carried or worn by an individual."
+      }
+    },
+    {
+      "class_number": "(b)(7)",
+      "equipment_or_work": "Smart televisions — jailbreaking (interoperability only)",
+      "permitted_uses": [
+        "Execute lawfully obtained software applications, where circumvention enables interoperability of such applications with on-device programs"
+      ],
+      "exclusions": [
+        "No 'removal of software' clause (narrower than (b)(6) by design)",
+        "Sole purpose limited to interoperability of applications"
+      ],
+      "definitions_or_conditions": [],
+      "renewal_status": "renewed_unchanged",
+      "renewal_status_source": {
+        "pdf_pages": [4, 5],
+        "quote": "[Same Section A.4 renewal recommendation as (b)(6); the smart-TV jailbreaking subpart is renewed within the broader jailbreaking exemption discussion]"
+      },
+      "source": {
+        "file": "1201/Final Rules/2018-Final-Rule.txt",
+        "pdf_pages": [20],
+        "quote": "(7) Computer programs that enable smart televisions to execute lawfully obtained software applications, where circumvention is accomplished for the sole purpose of enabling interoperability of such applications with computer programs on the smart television."
+      }
+    },
+    {
+      "class_number": "(b)(8)",
+      "equipment_or_work": "Voice assistant devices — jailbreaking (+ removal of software)",
+      "permitted_uses": [
+        "Execute lawfully obtained software applications where circumvention enables interoperability of such applications with on-device programs",
+        "Permit removal of software from the device"
+      ],
+      "exclusions": [
+        "Sole purpose limited to interoperability of applications, or removal of software",
+        "Must not be accomplished for the purpose of gaining unauthorized access to other copyrighted works"
+      ],
+      "definitions_or_conditions": [
+        "'Voice assistant device' = device primarily designed to run a wide variety of programs (not consumption of a particular type of media content), designed to take user input primarily by voice, designed to be installed in a home or office"
+      ],
+      "renewal_status": "new",
+      "renewal_status_source": {
+        "pdf_pages": [7],
+        "quote": "B. New or Expanded Designations of Classes — [Proposed Class 6 expansion granted as new voice-assistant subpart]"
+      },
+      "source": {
+        "file": "1201/Final Rules/2018-Final-Rule.txt",
+        "pdf_pages": [20],
+        "quote": "(8) Computer programs that enable voice assistant devices to execute lawfully obtained software applications, where circumvention is accomplished for the sole purpose of enabling interoperability of such applications with computer programs on the device, or to permit removal of software from the device, and is not accomplished for the purpose of gaining unauthorized access to other copyrighted works. For purposes of this paragraph (b)(8), a 'voice assistant device' is a device that is primarily designed to run a wide variety of programs rather than for consumption of a particular type of media content, is designed to take user input primarily by voice, and is designed to be installed in a home or office."
+      }
+    },
+    {
+      "class_number": "(b)(9)",
+      "equipment_or_work": "Motorized land vehicles — diagnosis, repair, lawful modification",
+      "permitted_uses": [
+        "Circumvent computer programs contained in and controlling the functioning of a lawfully acquired motorized land vehicle (personal automobile, commercial vehicle, mechanized agricultural vehicle), when circumvention is a necessary step to allow diagnosis, repair, or lawful modification of a vehicle function"
+      ],
+      "exclusions": [
+        "Excludes programs accessed through a separate subscription service",
+        "Must not violate applicable law including DOT or EPA regulations",
+        "Must not be accomplished for the purpose of gaining unauthorized access to other copyrighted works"
+      ],
+      "definitions_or_conditions": [
+        "Vehicle must be 'lawfully acquired' (2015 required this circumvention by the 'authorized owner'; 2018 dispenses with the 'authorized owner' phrasing)"
+      ],
+      "renewal_status": "renewed_expanded",
+      "renewal_status_source": {
+        "pdf_pages": [5],
+        "quote": "Multiple organizations petitioned to renew the exemption for computer programs that control motorized land vehicles ... Accordingly, the Acting Register recommends renewal of this exemption and will consider proposed expansions below in the discussion on Proposed Class 7."
+      },
+      "expansion_notes": "Compared to 2015 (b)(6): 2015 excluded 'computer programs primarily designed for the control of telematics or entertainment systems'; 2018 replaces that with a narrower exclusion for 'programs accessed through a separate subscription service'. 2015's 12-month delayed effective date is gone. 2015's 'authorized owner' requirement is replaced with 'lawfully acquired' framing. Net effect: broader scope.",
+      "source": {
+        "file": "1201/Final Rules/2018-Final-Rule.txt",
+        "pdf_pages": [20, 21],
+        "quote": "(9) Computer programs that are contained in and control the functioning of a lawfully acquired motorized land vehicle such as a personal automobile, commercial vehicle, or mechanized agricultural vehicle, except for programs accessed through a separate subscription service, when circumvention is a necessary step to allow the diagnosis, repair, or lawful modification of a vehicle function, where such circumvention does not constitute a violation of applicable law, including without limitation regulations promulgated by the Department of Transportation or the Environmental Protection Agency, and is not accomplished for the purpose of gaining unauthorized access to other copyrighted works."
+      }
+    },
+    {
+      "class_number": "(b)(10)",
+      "equipment_or_work": "Smartphones, home appliances, and home systems — diagnosis, maintenance, or repair",
+      "permitted_uses": [
+        "Circumvent computer programs contained in and controlling the functioning of a lawfully acquired smartphone or home appliance or home system (e.g., refrigerator, thermostat, HVAC, electrical system), when circumvention is a necessary step to allow diagnosis, maintenance, or repair of such a device or system"
+      ],
+      "exclusions": [
+        "Must not be accomplished for the purpose of gaining access to other copyrighted works"
+      ],
+      "definitions_or_conditions": [
+        "'Maintenance' = servicing the device or system to make it work in accordance with its original specifications and any authorized changes",
+        "'Repair' = restoring the device or system to the state of working in accordance with its original specifications and any authorized changes"
+      ],
+      "renewal_status": "new",
+      "renewal_status_source": {
+        "pdf_pages": [7],
+        "quote": "B. New or Expanded Designations of Classes — [Proposed Class 7 expansion granted as new smartphone/home-appliance/home-system repair subpart]"
+      },
+      "source": {
+        "file": "1201/Final Rules/2018-Final-Rule.txt",
+        "pdf_pages": [21],
+        "quote": "(10) Computer programs that are contained in and control the functioning of a lawfully acquired smartphone or home appliance or home system, such as a refrigerator, thermostat, HVAC, or electrical system, when circumvention is a necessary step to allow the diagnosis, maintenance, or repair of such a device or system, and is not accomplished for the purpose of gaining access to other copyrighted works. For purposes of this paragraph (b)(10): (i) The 'maintenance' of a device or system is the servicing of the device or system in order to make it work in accordance with its original specifications and any changes to those specifications authorized for that device or system; and (ii) The 'repair' of a device or system is the restoring of the device or system to the state of working in accordance with its original specifications and any changes to those specifications authorized for that device or system."
+      }
+    },
+    {
+      "class_number": "(b)(11)",
+      "equipment_or_work": "Good-faith security research (broadened — any device/machine/computer/system/network)",
+      "permitted_uses": [
+        "Circumvent computer programs on a lawfully acquired device or machine on which the program operates, solely for good-faith security research",
+        "Circumvent computer programs on a computer, computer system, or computer network on which the program operates, with authorization of the owner/operator, solely for good-faith security research"
+      ],
+      "exclusions": [
+        "Must not violate any applicable law including the Computer Fraud and Abuse Act of 1986"
+      ],
+      "definitions_or_conditions": [
+        "'Good-faith security research' = accessing a computer program solely for purposes of good-faith testing, investigation, and/or correction of a security flaw or vulnerability, where carried out in an environment designed to avoid harm to individuals or the public, and information derived is used primarily to promote the security or safety of the class of devices or machines (or users) and not used or maintained in a manner that facilitates copyright infringement"
+      ],
+      "renewal_status": "renewed_expanded",
+      "renewal_status_source": {
+        "pdf_pages": [5],
+        "quote": "Multiple organizations and security researchers petitioned to renew the exemption for purposes of good-faith security research. ... Accordingly, the Acting Register recommends renewal of this exemption and will consider proposed expansions below in the discussion on Proposed Class 10."
+      },
+      "expansion_notes": "Compared to 2015 (b)(7): 2015 limited the exemption to 3 device classes (consumer devices including voting machines; motorized land vehicles; implanted medical devices not in patient care). 2018 removes the device-class limitation entirely and adds coverage of computers, computer systems, and networks (with owner/operator authorization). 2015's 12-month delayed effective date is gone. 2015's 'controlled environment' language is replaced by 'an environment designed to avoid any harm'.",
+      "source": {
+        "file": "1201/Final Rules/2018-Final-Rule.txt",
+        "pdf_pages": [21],
+        "quote": "(11)(i) Computer programs, where the circumvention is undertaken on a lawfully acquired device or machine on which the computer program operates, or is undertaken on a computer, computer system, or computer network on which the computer program operates with the authorization of the owner or operator of such computer, computer system, or computer network, solely for the purpose of good-faith security research and does not violate any applicable law, including without limitation the Computer Fraud and Abuse Act of 1986. (ii) For purposes of this paragraph (b)(11), 'good-faith security research' means accessing a computer program solely for purposes of good-faith testing, investigation, and/or correction of a security flaw or vulnerability, where such activity is carried out in an environment designed to avoid any harm to individuals or the public, and where the information derived from the activity is used primarily to promote the security or safety of the class of devices or machines on which the computer program operates, or those who use such devices or machines, and is not used or maintained in a manner that facilitates copyright infringement."
+      }
+    },
+    {
+      "class_number": "(b)(12)",
+      "equipment_or_work": "Video games — preservation when authentication server abandoned; preservation of offline games by libraries/archives/museums",
+      "permitted_uses": [
+        "(i)(A) Permit access to a lawfully acquired complete video game (whose server-based authentication has ceased) to allow copying/modification of the program to restore access for personal, local gameplay on a PC or game console",
+        "(i)(B) Permit access for copying/modification to restore access for preservation by an eligible library/archives/museum on a PC or game console",
+        "(ii) Permit access to lawfully acquired complete games that do not require external server access for gameplay and are no longer reasonably available in the commercial marketplace, for preservation by an eligible library/archives/museum",
+        "(iii) Permit eligible library/archives/museum to operate video game consoles to the extent necessary for the preservation activities in (i)(B) or (ii)"
+      ],
+      "exclusions": [
+        "Library/archives/museum preservation must be without any purpose of direct or indirect commercial advantage",
+        "Preserved games must not be distributed or made available outside the physical premises of the eligible library/archives/museum"
+      ],
+      "definitions_or_conditions": [
+        "'Complete games' (for (i)(A) and (ii)) = games that can be played without accessing or reproducing copyrightable content stored or previously stored on an external computer server",
+        "'Complete games' (for (i)(B)) = games meeting the (A) definition, OR games consisting of both a copy intended for a PC/console and a copy of the game's code that was stored or previously stored on an external server",
+        "'Ceased to provide access' = copyright owner has affirmatively stated server support has ended (and is unavailable), OR server support has been discontinued for at least six months and has not since been restored",
+        "'Local gameplay' = gameplay on a PC or video game console, or locally connected PCs or consoles, and not through an online service or facility",
+        "'Eligible library/archives/museum' = collections are open to the public and/or routinely made available to researchers not affiliated with the institution"
+      ],
+      "renewal_status": "renewed_expanded",
+      "renewal_status_source": {
+        "pdf_pages": [5],
+        "quote": "Multiple organizations petitioned to renew the exemption for video games for which outside server support has been discontinued. ... Accordingly, the Acting Register recommends renewal of this exemption and will consider proposed expansions below in the discussion on Proposed Class 8."
+      },
+      "expansion_notes": "Compared to 2015 (b)(8): 2018 adds subpart (ii) covering preservation of complete offline games no longer reasonably available in the commercial marketplace (not gated on server-authentication failure). 2018 also expands the (i)(B) 'complete games' definition to include hybrid online/local games (PC/console copy plus stored server code) for library preservation purposes. 2015's 'local gameplay' restriction is retained for personal-use branch.",
+      "source": {
+        "file": "1201/Final Rules/2018-Final-Rule.txt",
+        "pdf_pages": [21],
+        "quote": "(12)(i) Video games in the form of computer programs embodied in physical or downloaded formats that have been lawfully acquired as complete games, when the copyright owner or its authorized representative has ceased to provide access to an external computer server necessary to facilitate an authentication process to enable gameplay, solely for the purpose of: (A) Permitting access to the video game to allow copying and modification of the computer program to restore access to the game for personal, local gameplay on a personal computer or video game console; or (B) Permitting access to the video game to allow copying and modification of the computer program to restore access to the game on a personal computer or video game console when necessary to allow preservation of the game in a playable form by an eligible library, archives, or museum, where such activities are carried out without any purpose of direct or indirect commercial advantage and the video game is not distributed or made available outside of the physical premises of the eligible library, archives, or museum. (ii) Video games in the form of computer programs embodied in physical or downloaded formats that have been lawfully acquired as complete games, that do not require access to an external computer server for gameplay, and that are no longer reasonably available in the commercial marketplace, solely for the purpose of preservation of the game in a playable form by an eligible library, archives, or museum, where such activities are carried out without any purpose of direct or indirect commercial advantage and the video game is not distributed or made available outside of the physical premises of the eligible library, archives, or museum. (iii) Computer programs used to operate video game consoles solely to the extent necessary for an eligible library, archives, or museum to engage in the preservation activities described in paragraph (b)(12)(i)(B) or (b)(12)(ii) of this section. (iv) For purposes of this paragraph (b)(12), the following definitions shall apply: [definitions for 'complete games', 'ceased to provide access', 'local gameplay', and 'eligible library/archives/museum' as listed above]"
+      }
+    },
+    {
+      "class_number": "(b)(13)",
+      "equipment_or_work": "Software preservation by libraries/archives/museums — non-game computer programs no longer commercially available",
+      "permitted_uses": [
+        "Circumvent computer programs (except video games) that have been lawfully acquired and are no longer reasonably available in the commercial marketplace, solely for lawful preservation of a computer program, or of digital materials dependent upon a computer program as a condition of access, by an eligible library/archives/museum"
+      ],
+      "exclusions": [
+        "Activities must be carried out without any purpose of direct or indirect commercial advantage",
+        "Program must not be distributed or made available outside the physical premises of the eligible library/archives/museum",
+        "Excludes video games (covered separately under (b)(12))"
+      ],
+      "definitions_or_conditions": [
+        "'Eligible' library/archives/museum requires all of: (A) collections open to the public and/or routinely made available to non-affiliated researchers; (B) public service mission; (C) trained staff or volunteers providing professional services normally associated with libraries/archives/museums; (D) collections composed of lawfully acquired and/or licensed materials; (E) implements reasonable digital security measures appropriate for the permitted activities"
+      ],
+      "renewal_status": "new",
+      "renewal_status_source": {
+        "pdf_pages": [7],
+        "quote": "B. New or Expanded Designations of Classes — [Proposed Class 8 expansion granted as new software-preservation subpart for non-game programs]"
+      },
+      "source": {
+        "file": "1201/Final Rules/2018-Final-Rule.txt",
+        "pdf_pages": [21],
+        "quote": "(13)(i) Computer programs, except video games, that have been lawfully acquired and that are no longer reasonably available in the commercial marketplace, solely for the purpose of lawful preservation of a computer program, or of digital materials dependent upon a computer program as a condition of access, by an eligible library, archives, or museum, where such activities are carried out without any purpose of direct or indirect commercial advantage and the program is not distributed or made available outside of the physical premises of the eligible library, archives, or museum. (ii) For purposes of the exemption in paragraph (b)(13)(i) of this section, a library, archives, or museum is considered 'eligible' if— (A) The collections of the library, archives, or museum are open to the public and/or are routinely made available to researchers who are not affiliated with the library, archives, or museum; (B) The library, archives, or museum has a public service mission; (C) The library, archives, or museum's trained staff or volunteers provide professional services normally associated with libraries, archives, or museums; (D) The collections of the library, archives, or museum are composed of lawfully acquired and/or licensed materials; and (E) The library, archives, or museum implements reasonable digital security measures as appropriate for the activities permitted by this paragraph (b)(13)."
+      }
+    },
+    {
+      "class_number": "(b)(14)",
+      "equipment_or_work": "3D printers — feedstock interoperability with non-manufacturer material",
+      "permitted_uses": [
+        "Circumvent computer programs that operate 3D printers employing microchip-reliant TPMs to limit the use of feedstock, solely to use alternative feedstock"
+      ],
+      "exclusions": [
+        "Not for the purpose of accessing design software, design files, or proprietary data"
+      ],
+      "definitions_or_conditions": [],
+      "renewal_status": "renewed_expanded",
+      "renewal_status_source": {
+        "pdf_pages": [5],
+        "quote": "Michael Weinberg and ORI jointly petitioned to renew the exemption for computer programs that operate 3D printers to allow use of alternative feedstock. No oppositions were filed against readoption of this exemption. ... Accordingly, the Acting Register recommends renewal of this exemption and will consider proposed expansions below in the discussion on Proposed Class 12."
+      },
+      "expansion_notes": "Compared to 2015 (b)(9): 2018 drops the proviso that excluded '3D printers that produce goods or materials for use in commerce the physical production of which is subject to legal or regulatory oversight or a related certification process, or where the circumvention is otherwise unlawful'. The 2018 codified text contains no regulated-commerce carve-out.",
+      "source": {
+        "file": "1201/Final Rules/2018-Final-Rule.txt",
+        "pdf_pages": [21, 22],
+        "quote": "(14) Computer programs that operate 3D printers that employ microchip-reliant technological measures to limit the use of feedstock, when circumvention is accomplished solely for the purpose of using alternative feedstock and not for the purpose of accessing design software, design files, or proprietary data."
+      }
+    }
+  ]
+}

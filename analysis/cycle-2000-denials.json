@@ -1,0 +1,87 @@
+{
+  "cycle": 2000,
+  "final_rule_file": "1201/Final Rules/2000-Final-Rule.txt",
+  "extractor_notes": "The 2000 cycle did not use numbered 'Class' labels for proposals; the Final Rule preamble enumerates ten denied proposals in Section III.E ('Other Exemptions Considered, But Not Recommended'), each as a numbered subsection (E.1 through E.10). proposed_class_number reflects that numbering as 'Proposal E.N'. Several denials rest on multiple grounds; reason_category captures the dominant rationale, with overlap noted where relevant.",
+  "denials": [
+    {
+      "proposed_class_number": "Proposal E.1",
+      "topic_label": "Thin copyright works (databases/compilations containing largely uncopyrightable material)",
+      "reason_category": "evidence",
+      "reason_quote": "On the record developed in this proceeding, the need for such an exemption has not been demonstrated.",
+      "source_pdf_pages": [11, 12],
+      "later_granted_in_cycle": null
+    },
+    {
+      "proposed_class_number": "Proposal E.2",
+      "topic_label": "Sole source works (works available only from a single source in protected form)",
+      "reason_category": "evidence",
+      "reason_quote": "However, there has been no evidence submitted in this rulemaking that access to works available only in a secured format is being denied or has become prohibitively difficult.",
+      "source_pdf_pages": [12],
+      "later_granted_in_cycle": null
+    },
+    {
+      "proposed_class_number": "Proposal E.3",
+      "topic_label": "Audiovisual works on DVDs (CSS / region coding / Linux playback)",
+      "reason_category": "alternatives",
+      "reason_quote": "Therefore, any harm caused by the existence of access control measures used in DVDs can be avoided by obtaining a copy of the work in analog format.",
+      "source_pdf_pages": [12, 13, 14, 15],
+      "later_granted_in_cycle": null
+    },
+    {
+      "proposed_class_number": "Proposal E.4",
+      "topic_label": "Video games in formats playable only on dedicated platforms",
+      "reason_category": "de_minimis",
+      "reason_quote": "The few comments that mentioned this issue do not rise to the level of substantial adverse affect that would warrant an exemption for video games.",
+      "source_pdf_pages": [15],
+      "later_granted_in_cycle": null
+    },
+    {
+      "proposed_class_number": "Proposal E.5",
+      "topic_label": "Computer programs and other digital works for reverse engineering",
+      "reason_category": "substantive",
+      "reason_quote": "To the extent that reverse engineering is proposed for all classes of digital works, it does not meet the criteria of a class. A 'class of works' cannot be defined simply in terms of the purpose for which circumvention is desired.",
+      "source_pdf_pages": [15, 16],
+      "later_granted_in_cycle": null
+    },
+    {
+      "proposed_class_number": "Proposal E.6",
+      "topic_label": "Broader encryption research exemption (beyond §1201(g))",
+      "reason_category": "substantive",
+      "reason_quote": "Moreover, an exemption for encryption research is not focused on a class of works.",
+      "source_pdf_pages": [16],
+      "later_granted_in_cycle": null
+    },
+    {
+      "proposed_class_number": "Proposal E.7",
+      "topic_label": "'Fair use' works (scientific databases, textbooks, scholarly journals, etc.)",
+      "reason_category": "evidence",
+      "reason_quote": "[P]roponents have failed to demonstrate how technological measures that control access to such works are preventing noninfringing uses or will in the next three years prevent such uses.",
+      "source_pdf_pages": [16, 17],
+      "later_granted_in_cycle": null
+    },
+    {
+      "proposed_class_number": "Proposal E.8",
+      "topic_label": "Material that cannot be archived or preserved",
+      "reason_category": "substantive",
+      "reason_quote": "Because materials that libraries and others desire to archive or preserve cut across all classes of works, these works do not constitute a particular class.",
+      "source_pdf_pages": [17],
+      "later_granted_in_cycle": null
+    },
+    {
+      "proposed_class_number": "Proposal E.9",
+      "topic_label": "Works lawfully acquired by users who subsequently seek noninfringing uses",
+      "reason_category": "substantive",
+      "reason_quote": "[N]one of the proposals adequately define a 'class' of the type this rulemaking allows the Librarian to exempt. As discussed above in Section III.A.3, 'a particular class of work' must be determined primarily by reference to qualities of the work itself. It cannot be defined by reference to the class of users or uses of the work.",
+      "source_pdf_pages": [17, 18],
+      "later_granted_in_cycle": null
+    },
+    {
+      "proposed_class_number": "Proposal E.10",
+      "topic_label": "Exemption for public broadcasting entities (sound recordings, musical, pictorial/graphic/sculptural works)",
+      "reason_category": "evidence",
+      "reason_quote": "There has been no allegation that public broadcasters have encountered or are about to encounter technological protection measures that prevent them from exercising their rights pursuant to sections 114 and 118.",
+      "source_pdf_pages": [18, 19],
+      "later_granted_in_cycle": null
+    }
+  ]
+}

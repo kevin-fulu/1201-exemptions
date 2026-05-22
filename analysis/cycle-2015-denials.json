@@ -1,0 +1,47 @@
+{
+  "cycle": 2015,
+  "final_rule_file": "1201/Final Rules/2015-Final-Rule.txt",
+  "extractor_notes": "Denied classes are enumerated in section 'B. Classes Considered but Not Recommended' (Final Rule pp. 17-18). Section B lists 4 numbered discussions covering 5 proposed class numbers (Classes 8 and 10 are treated jointly). The preamble (p. 3) also notes that 3 of the 44 petitions filed in response to the NOI 'sought exemptions that could not be granted as a matter of law' and were not put forward for public comment in the NPRM; those 3 are not enumerated by topic in the Final Rule and were never assigned a Proposed Class number, so they are not listed below. NPRM grouped the remaining petitions into 27 proposed classes; the 10 granted classes account for 22 proposed-class numbers (Classes 1-7 audiovisual; 9 accessibility; 11-15 wireless unlocking; 16-17 smartphone/tablet jailbreaking; 20 smart-TV jailbreaking; 21 vehicles; 22+25+27A security research; 23 abandoned video games; 26 3D printers; 27B medical devices), leaving Classes 8, 10, 18, 19, 24 as the denied set, which matches the Final Rule's Section B exactly.",
+  "denials": [
+    {
+      "proposed_class_number": "Class 8",
+      "topic_label": "Audiovisual works - space-shifting / format-shifting",
+      "reason_category": "noninfringing_use_not_shown",
+      "reason_quote": "The Register recommended against the adoption of a proposed exemption, on the ground that the law of fair use, as it stands today, does not sanction broad-based space-shifting or format-shifting.",
+      "source_pdf_pages": [17],
+      "later_granted_in_cycle": null
+    },
+    {
+      "proposed_class_number": "Class 10",
+      "topic_label": "Literary works (e-books) - space-shifting / format-shifting",
+      "reason_category": "noninfringing_use_not_shown",
+      "reason_quote": "The Register recommended against the adoption of a proposed exemption, on the ground that the law of fair use, as it stands today, does not sanction broad-based space-shifting or format-shifting.",
+      "source_pdf_pages": [17],
+      "later_granted_in_cycle": null
+    },
+    {
+      "proposed_class_number": "Class 18",
+      "topic_label": "Jailbreaking - dedicated e-book readers",
+      "reason_category": "evidence",
+      "reason_quote": "In light of the insufficiency of factual or legal support for the proposed exemption, the Register declined to recommend it.",
+      "source_pdf_pages": [17],
+      "later_granted_in_cycle": null
+    },
+    {
+      "proposed_class_number": "Class 19",
+      "topic_label": "Jailbreaking - video game consoles",
+      "reason_category": "substantive",
+      "reason_quote": "The Register concluded that the record in this rulemaking did not provide a basis for departing from her 2012 recommendation that an exemption for video game console jailbreaking should be denied... jailbreaking of video game consoles continues to be closely associated with video game piracy.",
+      "source_pdf_pages": [18],
+      "later_granted_in_cycle": null
+    },
+    {
+      "proposed_class_number": "Class 24",
+      "topic_label": "Abandoned software - Ensoniq PARIS music recording software",
+      "reason_category": "evidence",
+      "reason_quote": "No evidence or argument to support this exemption was submitted after the initial petition phase of the proceeding... In light of the incomplete record, NTIA and the Register declined to recommend granting the exemption.",
+      "source_pdf_pages": [18],
+      "later_granted_in_cycle": null
+    }
+  ]
+}

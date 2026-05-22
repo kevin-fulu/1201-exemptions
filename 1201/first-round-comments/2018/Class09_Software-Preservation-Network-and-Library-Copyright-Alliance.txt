@@ -1,0 +1,1336 @@
+[PAGE 1]
+ 
+ 
+ 
+ [   ] Check here if multimedia evidence is being provided in connection with this comment 
+ITEM A.  COMMENTER INFORMATION  
+Cyberlaw Clinic at the Berkman Klein Center for Internet and Society, Harvard Law School 
+Kendra Albert, Clinical Instructional Fellow, kalbert@cyber.harvard.edu1 
+Christopher Bavitz, WilmerHale Clinical Professor of Law, cbavitz@cyber.harvard.edu  
+ 
+On behalf of The Software Preservation Network (SPN) 
+Jessica Meyerson, Research Program Office, Educopia Institute, jessica@educopia.org  
+Brandon Butler, Director of Information Policy, UVA Library, bcb4y@virginia.edu  
+ 
+On behalf of the Library Copyright Alliance (LCA) 
+Jonathan Band, Attorney, jband@policybandwidth.com 
+ 
+The Software Preservation Network coordinates software preservation efforts to ensure long 
+term access to software. It connects and engages the legal, public policy, social science, natural 
+science, information & communication technology and cultural heritage preservation 
+communities that create and use software.  
+ 
+The Library Copyright Alliance consists of three major library associations in the United States: 
+the American Library Association, the Association of College and Research Libraries, and the 
+Association of Research Libraries. These associations represent over 100,000 libraries in the 
+United States employing more than 350,000 librarians and other personnel. An estimated 200 
+million Americans use these libraries over two billion times each year. These libraries spend 
+over $4 billion annually acquiring books and other copyrighted material.    
+ 
+I
+TEM B.  PROPOSED CLASS ADDRESSED 
+Class 9 – Computer Programs — Software Preservation 
+ 
+                                                        
+1 Primary contact. The Cyberlaw Clinic, Software Presevation Network, and the Library Copyright Alliance thank 
+students Evelyn Chang, Anderson Grossman, and Jillian Goodman for their work in the research and drafting of this 
+comment.  
+[PAGE 2]
+ 
+ 
+2 
+ 
+A proposed exemption for libraries, archives, museums, and other cultural heritage 
+institutions to circumvent technological protection measures on lawfully acquired computer 
+programs for the purposes of preserving computer programs and computer program-dependent 
+materials. 
+ 
+ITEM C.  OVERVIEW 
+Famed author George R.R. Martin has a “secret weapon” in the fight to write his A Song of Ice 
+and Fire novels (which serve as the basis for the famous HBO series “Game of Thrones”) —an 
+old DOS computer that runs the classic word processor, WordStar 4.0, which he uses to write all 
+of his rough drafts.2 Perhaps, someday, Martin’s WordStar files will become part of Texas 
+A&M’s George R.R. Martin collection, so scholars can study the original drafts in the format and 
+program in which they were first written. However, future scholars of Martin may find it harder 
+than one might anticipate to view his files. Even if copies of Wordstar continue to exist, and even 
+if a copy is available and run at an archival institution, it will only be accessible because of the 
+heroic efforts of digital preservationists.  
+ 
+Just as Martin’s dragons of Westeros have become the stuff of legend, software and materials 
+that depend on software are disappearing. Today’s digital preservation experts are unduly 
+constrained by Section 1201 in the race against digital disappearance.  
+ 
+Traditionally-analog materials—such as literary manuscripts, data repositories, and diagrams—
+are now more commonly stored as digital files, transcribed from their original physical formats 
+to protect content from the inevitable degradation of any physical storage.
+3 Alternatively, they 
+may be created as digital files—“born-digital”—due to our increased dependency on software 
+programs. In response, a significant number of archival institutions, libraries, and museums have 
+created special collections dedicated solely to the preservation of these digital materials.4  
+ 
+As software becomes the medium of production for more and more of our works, creative and 
+mundane, there has also been an increased drive to preserve software programs themselves. 
+University libraries and research institutions began developing further-specialized digital 
+archives, such as the National Software Reference Library at the National Institute of Standards 
+                                                        
+2 Lily Hay Newman, George R.R. Martin Writes on a DOS-Based Word Processor From the 1980s, SLATE: FUTURE 
+TENSE (May 14, 2014) 
+http://www.slate.com/blogs/future_tense/2014/05/14/george_r_r_martin_writes_on_dos_based_wordstar_4_0_softw
+are_from_the_1980s.html, archived at https://perma.cc/BW68-J244. Software scholar Matthew Kirschenbaum 
+writes about Martin’s use of Wordstar as part of his exploration of media archeology of software. Matthew 
+Kirschenbaum, Case Study #4 | "It Is Known": George R. R. Martin, WordStar, and Media Archaeology in the 
+Media, UNIVERSITY OF MINNESOTA PRESS BLOG (May 28, 2014) http://www.uminnpressblog.com/2014/05/case-
+study-4-it-is-known-george-r-r.html, archived at https://perma.cc/PF8K-LF4F. 
+3 Jeff Rothenberg, Ensuring the Longevity of Digital Information, 26 INT’L J. OF LEGAL INFO. 1, 2 (1998). 
+4 See, e.g., HARVARD COLLEGE LIBRARY COLLECTIONS DIGITIZATION PROGRAM, 
+http://hcl.harvard.edu/collections/digital_collections/digitization_program.cfm, archived at https://perma.cc/9BBZ-
+P9WV. Universities have also invested in shared digital preservation infrastructure like the Academic Preservation 
+Trust, http://aptrust.org/, and the Digital Preservation Network, http://dpn.org/.  
+[PAGE 3]
+ 
+ 
+3 
+ 
+and Technology5 and the Olive Archive Project at Carnegie Mellon University,6 to maintain 
+access to many software titles that transition out of commercial availability. Not only a means of 
+documenting an important aspect of our modern culture, software preservation also enables 
+future “researchers to understand how software worked, the intentions of software designers, and 
+the affordances and experiences offered to software users,”7 topics crucial to the study of 
+software history and the development of future software.  
+ 
+Existing legal alternatives, such as seeking licenses or permissions from rightsholders, have 
+proved insufficient to tackle the substantial problems of preserving software and software 
+dependent materials. Many software titles are orphan works, with the owners lost to time or the 
+rights untraceable. And, even for those that are not, there is often no longer a market for old 
+software (meaning that rightsholders have little incentive to license). The needs of digital 
+preservationists run counter to the modern software trend of new products, versions, and features 
+but are still inhibited by the DMCA’s prohibitions on circumvention.   
+ 
+In both 2003
+8 and 2006,9 the Copyright Office and the Librarian of Congress recognized the need 
+to preserve computer programs and granted a § 1201 exemption for the circumvention of 
+technological protection measures (TPMs) in hardware for archival preservation of computer 
+programs. This exemption eased the transfer of data from physical storage to digital storage, and 
+allowed many archives to extract information and software programs that may otherwise have 
+been trapped in outdated hardware. However, obtaining this data and accessing this data are very 
+different procedures. In order to open a lot of these digital files or run the ported software 
+programs, archives need to use other software—much of which is outdated, no longer 
+commercially available, or no longer licensable.10 As a result, the only way for archives to access 
+the preserved materials is to circumvent the access controls on these outdated software titles. 
+ 
+The exemption that SPN and the LCA seek is a continuation of the digital preservation effort that 
+the Copyright Office and the Librarian had recognized in 2003 and 2006, and the Library of 
+Congress has continued to promote.11 The Software Preservation Network and multiple archival 
+institutions have recognized that the value of software preservation is not in the mere storage of 
+digital information, but in providing this repository of digital information in a usable format to 
+researchers, scholars, and government agencies.12 In order to allow archives to read the digital 
+                                                        
+5 National Software Reference Library (NSRL), NIST SOFTWARE AND SYSTEMS DIVISION, 
+https://www.nist.gov/software-quality-group/national-software-reference-library-nsrl, archived at 
+https://perma.cc/QB2G-SPUK . 
+6 Olive Executable Archive, https://olivearchive.org/, archived at https://perma.cc/69AF-JT2H. 
+7 Henry Lowood, The Lures of Software Preservation,PRESERVING.EXE: TOWARD A NATIONAL STRATEGY FOR 
+SOFTWARE PRESERVATION 11, available at 
+http://www.digitalpreservation.gov/multimedia/documents/PreservingEXE_report_final101813.pdf. 
+8 Exemption to prohibition against circumvention, 37 C.F.R. § 201.40 (2003).  
+9 Exemption to prohibition against circumvention, 37 C.F.R. § 201.40 (2006).  
+10 See, e.g., Survey response by Elena Colon-Marrero, Computer History Museum (describing the programs “Bake 
+and Taste” and “#7010 Dithertizer II Driver software” as outdated and no longer commercially available).  
+11 Why Digital Preservation is Important for Everyone, LIBR. CONG., 
+http://digitalpreservation.gov/multimedia/videos/digipres.html.  
+12 Trevor Owens, Life-Saving: The National Software Reference Library, THE SIGNAL (May 4, 2012), 
+http://blogs.loc.gov/thesignal/2012/05/life-saving-the-national-software-reference-library/, archived at 
+https://perma.cc/P2HP-ZYK9.  
+[PAGE 4]
+ 
+ 
+4 
+ 
+information, as well as to preserve software for the future, we require the Librarian’s permission 
+to circumvent the TPMs in the many software titles that are needed to access digital material.  
+ 
+To aid the Copyright Office’s understanding of the proposed exemption, this comment will: (1) 
+define the scope of the proposed exemption and provide a look at the types of TPMs that we are 
+looking to circumvent; (2) identify the many adverse effects of prohibiting circumvention; (3) 
+discuss how the uses proposed under the exemption are non-infringing; and finally, (4) detail 
+how the proposed exemption aligns with the statutory factors laid out in § 1201. 
+ 
+(1) Defining “computer program” and “computer program-dependent materials” 
+ 
+For the proposed exemption, “computer program” will refer to any device program or application 
+that: (1) allows a user to interact with a device, (2) allows other programs or applications to 
+complete instructed tasks, and/or (3) otherwise allows the device to function. “Computer 
+program” includes but is not limited to: Internet browsers, operating systems, word processors, 
+video games, device drivers, spreadsheets, database viewers, media players, etc.
+13 As software is 
+the term more common in the literature, but computer program is defined in the statute, we use 
+the term “software” interchangeably with “computer program” throughout this comment. 
+ 
+Our proposed exemption also refers to “computer program-dependent materials,” meaning all 
+digital file formats where accessibility depends on a software program. We seek to allow 
+libraries, archives, and other heritage institutions to access and preserve any digital material that 
+they collect—writings, calculations, software programs, etc. The ability to read and preserve a 
+significant portion of this digital material is dependent upon the often-outdated software 
+programs used to create it, which includes system software.
+14  
+  
+These proposed definitions recognize that the problems of software preservation are broad. For 
+many archival institutions, one of the biggest problems with digital collections is the incredible 
+speed at which software is produced and becomes obsolete.15 Digital files are often proprietary, 
+tailored for very specific software programs and are inaccessible via other programs. While some 
+formats, such as PDF files, for example, are versatile—readable via Adobe Acrobat, Apple 
+Preview, or Google Chrome—many types of older file formats or specialized file formats lack 
+this versatility and cannot be converted accurately into a more universal file format.16 As a result, 
+                                                        
+13 See Matthew Kirschenbaum, Software – It’s a Thing, MEDIUM (Jul. 24, 2014), 
+https://medium.com/@mkirschenbaum/software-its-a-thing-a550448d0ed3, archived at https://perma.cc/YF4X-
+EL5J (“Software is thus best understood as a dynamic artifact: not some abstract ephemeral essence, not even just as 
+lines of written instructions or code, but as something that builds up layers of tangible history through the years, 
+something that contains stories and sub-plots and dramatis personae.”). 
+14 Id. 
+15 See, e.g., Jennifer Baker, Technology moving too fast for governments to keep up, says former Darpa chief, 
+COMPUTERWEEKLY (Apr. 28, 2016), http://www.computerweekly.com/news/450294526/Technology-moving-too-
+fast-for-governments-to-keep-up-says-former-Darpa-chief, archived at  https://perma.cc/YNG9-ZJDG.  
+16 See, e.g., Allan Hoffman, Computer Users May Learn They Cannot Access “Old” Documents, NJ.COM (Apr. 25, 
+2014), 
+http://www.nj.com/business/index.ssf/2014/04/computer_users_may_learn_they_cant_access_old_documents.html, 
+archived at  https://perma.cc/S5NP-43HE; see also Jeff Rothenberg,  Avoiding technological quicksand: finding a 
+viable technical foundation for digital preservation, COUNCIL ON LIBRARY AND INFORMATION RESOURCES, 8 
+available at https://www.clir.org/wp-content/uploads/sites/6/pub77.pdf. 
+[PAGE 5]
+ 
+ 
+5 
+ 
+when the original software program is no longer available, many dependent data files are also no 
+longer accessible.17 For archives and libraries looking to preserve the data in these specialized 
+file formats, it is imperative that they also have a working copy not only of the software program 
+used to create the files but also the system software needed to run the program.18 
+ 
+ITEM D.  TECHNOLOGICAL PROTECTION MEASURE(S) AND METHOD(S) OF CIRCUMVENTION 
+The technological protection measures that inhibit access to computer software are varied. They 
+include but are not limited to: 
+ 
+1. Product Keys. Product keys are “unique, alpha-numeric code[s]” that are required to be 
+entered upon installation of computer software.
+19 Keys may be attached either to 
+individual copies of software, or be randomly generated and required to be validated by 
+the user’s computer connecting to the Internet. Product keys may also be called serial 
+keys or license keys. 
+ 
+2. Passwords. Proprietary software developed for specialized uses may be password-
+protected. Users can be required to input a password either upon installation or execution, 
+or to access data.
+20 
+ 
+3. Online Authentication. Software may require the user’s hardware to be connected to the 
+Internet while using the software.21 Online authentication can take place at any point 
+during software runtime or execution. One form of authentication stores a portion of the 
+software’s code online.22 If the software is not connected to the Internet and 
+authenticated, the missing portion of code will render it useless.23 
+ 
+4. Bad Sector Copy Protection. Software protects against copying by rendering some 
+portions of the storage media unreadable when copied.24 
+ 
+5. Time Restrictions. Software may only run for limited time without an active subscription. 
+When support is pulled for the software, it is inaccessible without reverting the system 
+time.25 
+ 
+                                                        
+17 Id. This problem is not new, see Claire Tristram, Data Extinction, MIT TECH. REV. (Oct. 1, 2002), 
+https://www.technologyreview.com/s/401682/data-extinction/, archived at https://perma.cc/B7ZX-VPU7.  
+18 Trudy Peterson, Archival Principles and Records of the New Technology, 47 AM. ARCHIVIST 383, 386 (1984) (“A 
+software-dependent file will print out as gibberish unless it is processed on a computer that has the right software.”). 
+19 Tim Fisher, What is a Product Key, LIFEWIRE (May 21, 2017), https://www.lifewire.com/what-is-a-product-key-
+2625952, archived at https://perma.cc/2PYV-B6KT. 
+20 Survey Response by Vitorio Milano. 
+21 Survey Response by Christopher DeLaurenti, College of William and Mary. 
+22 Ian R. Kerr et al., Technical Protection Measures: Tilting at Copyright’s Windmill, 34 OTTAWA L. REV. 6, 19 
+(2002–2003). 
+23 Id. 
+24 Philip Elmer-DeWitt & Scott Brown, Computers: A Victory for the Pirates?, TIME, Oct. 20, 1986, at 86. 
+25 Survey Response by Andrew Berger, Computer History Museum. 
+[PAGE 6]
+ 
+ 
+6 
+ 
+6. CD-Checks. Software will only install or run when it detects that the CD is in the 
+computer. Similar checks are sometimes implemented in other media storage formats.26 
+ 
+7. Dongles. Dongles are a form of hardware, such as a USB stick, that must be inserted into 
+the computer to run software.27 
+ 
+ITEM E.  ASSERTED ADVERSE EFFECTS ON NONINFRINGING USES  
+(1) Adverse Effects of Prohibiting Circumvention on Software Preservation 
+ 
+Absent an exemption, significant amounts of software and software-dependent materials could 
+be lost forever. Jeff Rothenberg, in his seminal article originally published in Scientific 
+American, details how much has already been lost: 
+ 
+[Possible loss includes] hundreds of reels of tape from the Dep artment of 
+Health and Human Services; files from the National Commission o n 
+Marijuana and Drug Abuse, the P ublic Land Law Review Commission , 
+the President’s Commission on Sc hool Finance, and the National 
+Commission on Consumer Finance; the Combat Area Casualty file 
+containing POW and MIA informati on for the Vietnam war; herbici de 
+information needed to analyze the impact of Agent Orange; and m any 
+others.
+28 
+ 
+The problem is not limited to tapes. Obsolescence is common in physical storage media in as few 
+as five years.29 TPMs prevent the migration of software and software-dependent material from 
+fragile forms of media to systems designed for preservation.30 Without preservation efforts, there 
+is no guarantee that tomorrow’s software and hardware will recognize, run, and read today’s 
+digital files, let alone digital files from twenty years ago.31 Increases in the use of cloud-
+computation further removes software from physical form—orphan cloud-based software may 
+not exist on users’ hard drives to be eventually recovered.32 The number of dependencies 
+required to interpret digital data create significant preservation challenges, and increase the risk 
+of data loss. Data migration and emulation both require modification of the original software to 
+allow for installation on current hardware.33 
+ 
+                                                        
+26 Survey Response by Luke Menzies, Indiana University. 
+27 Survey Response by Christopher DeLaurenti, College of William and Mary. As discussed above, dongle-based 
+authentication mechanisms were covered by exemptions granted in the 2003 and 2006 cycles. 
+28 Jeff Rothenberg, Ensuring the Longevity of Digital Information, 26 INT’L J. OF LEGAL INFO. 1, 2 (1998) 
+29 Id. at 3. 
+30 Letter from Henry Lowood, Curator, Stanford Univ. Libraries, to Harvard Law Sch. Cyberlaw Clinic (Nov. 24, 
+2017). 
+31 Ian Sample, Google boss warns of ‘forgotten century’ with email and photos at risk, The GUARDIAN (Feb. 13, 
+2015), https://www.theguardian.com/technology/2015/feb/13/google-boss-warns-forgotten-century-email-photos-
+vint-cerf, archived at https://perma.cc/Z89D-47T4. 
+32 Id. 
+33 Letter from Henry Lowood, supra note 31. 
+[PAGE 7]
+ 
+ 
+7 
+ 
+ The vast majority of information generated is born-digital, and preservationists need to work 
+diligently to preserve and provide access to it.34 Material that appears mundane now will likely 
+have immense historical and archaeological value in the future.35 Even today’s emails will 
+eventually be an important historical record if the software exists to read them.36 Without an 
+exemption, archival efforts are stalled, and data is left stored in forms more vulnerable to 
+degradation.37  
+ 
+Many software programs that are, from an archivist’s point of view, recent history have already 
+been orphaned.
+38 Software, in itself, has important research value. Software can serve as and is 
+analyzed by scholars as a historical and current expression of daily life. For many working 
+people, software is a tool used daily— more so than many ancient tools dug up in archaeological 
+sites. Many scholars study software to understand how the design of the tool affects the design of 
+the work – and what those tools say about the place of the worker in society.39 How we encode 
+and statisticize our life in software affects our digitally-independent actions.40 Some software, 
+such as PowerPoint, is studied for how its ubiquity in public performance has shaped how 
+information is distributed and processed.41 Historical software study is made much more difficult 
+on TPM-protected software without circumvention. 
+ 
+If museums, libraries, and archives cannot circumvent the TPMs on software donated to them, 
+they will be unable to preserve the software-dependent material that is often part of the donation. 
+This software-dependent material could include an artist’s born-digital works or an architectural 
+firm’s first-draft designs, or more traditional written documents like a novel’s first draft. And 
+using modern software that claims backwards compatibility does not always work. Digital work 
+                                                        
+34 Prabin B. Dhakal & Kabita Paudyal, News Media initiative to developing digital repository from public 
+contribution: A case of SDPL Nepal, INT’L FED’N LIBR. ASS’N INSTITUTIONS (Jan. 8, 2016) at 2, available at 
+http://library.ifla.org/1503/1/090-dhakal-en.pdf. 
+35 Simon Sharwood, Digging code: Software archaeology, TECHREPUBLIC (Nov 2, 2004), 
+https://www.techrepublic.com/article/digging-code-software-archaeology/, archived at https://perma.cc/G5AV-JY8J 
+(examines commercial value to “digging” through old code); Perspectives on the Value of Software Preservation, 
+LIBR. CONGRESS, http://www.digitalpreservation.gov/meetings/documents/preservingsoftware2013/Presoft_Pres-
+Owens.pdf (last visited Dec. 1, 2017) (software has historical value as a human tool). 
+36Preserving Email Messages of Enduring Value, U. ILL., 
+https://www.uillinois.edu/cio/services/rims/about_rims/projects/preserving_email_messages_of_enduring_value/ 
+(last visited Dec 2. 2017) (follow hyperlink; then follow “Preserving Email Project Plan” hyperlink) (describing 
+program to preserve emails in part due to the University’s diminishing historical record); see also MELLON EMAIL 
+ARCHIVES TASK FORCE, http://www.emailarchivestaskforce.org/, archived at https://perma.cc/2AE6-7PFW. 
+37 Letter from Henry Lowood, supra note 31. 
+38 See e.g., Jake Widman, Great Lost Software: 16 Gone But Not Forgotten, INFORMATIONWEEK (Feb. 22, 2011) 
+https://www.informationweek.com/great-lost-software-16-gone-but-not-forgotten/d/d-id/1096238?page_number=1, 
+archived at https://perma.cc/C6XH-JJUB; see also Dan Bricklin, Copy Protection Robs The Future, 
+http://www.bricklin.com/robfuture.htm, archived at https://perma.cc/2DYV-CXKN (discussing specific example of 
+almost orphaned software VisiCalc). 
+39 See Matthew Fuller, It looks like you're writing a letter: Microsoft Word, NETTIME (Sep. 5, 2000), 
+http://www.nettime.org/Lists-Archives/nettime-l-0009/msg00040.html, archived at https://perma.cc/9NE3-UKZ4. 
+40 See Paul Dorish, No SQL: The Shifting Materialities of Database Technology, COMPUTATIONAL CULTURE (Nov. 
+9, 2014), http://computationalculture.net/no-sql-the-shifting-materialities-of-database-technology/, archived at 
+https://perma.cc/4TJK-YSC9. 
+41 See Erica Robles-Anderson and Patrik Svensson, “One Damn Slide After Another”: PowerPoint at Every 
+Occasion for Speech, COMPUTATIONAL CULTURE (Jan 15. 2016), http://computationalculture.net/one-damn-slide-
+after-another-powerpoint-at-every-occasion-for-speech/, archived at https://perma.cc/24XQ-TA84. 
+[PAGE 8]
+ 
+ 
+8 
+ 
+loaded by backwards-compatible software, if it exists, can distort the original material. 
+Backwards compatibility sometimes relies on converting the original data into a contemporary 
+file format; this can cause data loss or be impossible without access to the original software.42 
+Architectural designs may be rendered without objects no longer supported by current versions. 
+Music and visual art may be missing key components that were supported by community-created 
+plugins that are not compatible with current software.  
+ 
+Scholars, archivists, and preservationists are currently seeing their efforts rebuffed by TPMs. For 
+example, The Rhizome Net Art Anthology is unable to run Internet Explorer 6, the browser that 
+“ruled the web for the first years of the century,” without circumventing software activation.
+43 
+Other art is similarly impacted. The Philadelphia Museum of Art is unable to preserve a time-
+based media artwork because of TPMs blocking Adobe Flash.44 Preserving art in its original 
+form is fundamental to protecting artistic integrity, but without Flash, the lighting and projection 
+components of the piece are lost.45 The Electronic Literature Organization, which preserves 
+electronic literature formats such as Hypercard and Storyspace, cannot save significant portions 
+of its collection due to proprietary but obsolete software.46 
+ 
+Other software is completely inaccessible. For example, some of the Computer History 
+Museum’s donated software is time-locked – only accessible by manipulating the system clock.
+47 
+Unless the Computer History Museum is able to circumvent this TPM, they will not be able to 
+engage in the non-infringing use of modifying their lawfully-acquired copy of the program in 
+order to run it on their computers. In addition, the museum also has difficulties with Windows 
+XP, software that has a license key and must be activated after installation.48 Again, an exception 
+is required for the museum to be able to circumvent this license key so they can adapt the 
+software in order to enable its internal use. Without a circumvention of the TPM, the museum’s 
+copy of the Windows XP software would be rendered unusable, and so will any software that 
+requires XP to function.  
+ 
+Other software is stored on floppy-disks with copy protection, rendering it unusable in emulators 
+without circumventing TPMs.
+49 Researchers may be unable to preserve entire collections of 
+work from Apple because they would require circumvention.50 This is further complicated by the 
+fragile nature of the original media. The Living Computers: Museum + Labs cannot put some of 
+their software collection on display because the original floppy disks are easy to break.51 And 
+without circumvention, they cannot make copies.52 
+ 
+                                                        
+42 Survey Response by Christopher DeLaurenti, College of William and Mary. 
+43 Survey Response by Dragen Epenschied, Rhizome. 
+44 Survey Response by Elise Tanner, Philadelphia Museum of Art. 
+45 Id. 
+46 Survey Response by Dene Grigar, Electronic Literature Organization.  
+47 Survey Response by Andrew Berger, Computer History Museum. 
+48 Id. 
+49 Survey Response by Andrew Berger, Computer History Museum. 
+50 Survey Response by Elena Colon-Marrero, Computer History Museum. 
+51 Survey Response by Cynde Moya, Living Computers: Museum + Labs; Survey Response by Heath Reinhard, 
+Living Computers: Museum. 
+52 Letter from Henry Lowood, supra note 31. 
+[PAGE 9]
+ 
+ 
+9 
+ 
+Even receiving and cataloging software-dependent material poses a challenge. Even when the 
+software necessary to read the files is included in the donation and fair use permits its use, TPMs 
+can prevent discovering the nature and importance of software-dependent material. Archivists 
+may not even be able to read a file, preventing them from determining its relevance or cataloging 
+it correctly. 
+ 
+Libraries and archives efforts are stifled by legal risk, and asking copyright holders for 
+permission is not a sustainable alternative.
+53 Even when the copyright owner is known, different 
+components of a single piece of software can be owned by different parties. For example, 
+preservationists ran into problems when they realized that The Crossing, a Pulitzer-prize winning 
+web series, used a font owned by a different copyright holder. It took four years of negotiation to 
+get permission to resurrect the original work, and then additional negotiation to use the font from 
+the font copyright holder to display the work as it was originally envisioned.54  
+ 
+When the copyright holder is not known, problems securing the legal rights to circumvent TPMs 
+can be insurmountable. Stanford University Libraries attempted to contact the 934 publishers of 
+twelve to fifteen thousand software items they received in the Cabrinety collection of pre-1995 
+software, with limited success.
+55  And if the copyright owners cannot be found, and the software 
+is protected by TPMs, absent an exception, both the files and the software may be lost forever.  
+ 
+(2) Non-infringing Uses 
+ 
+The activities covered by our exemption are non-infringing, as required by 17 U.S.C. § 
+1201(a)(1)(C). The digital preservation efforts by cultural heritage institutions are covered by the 
+fair use doctrine, and some cases may fall under 17 U.S.C. § 108 and 17 U.S.C. § 117. 
+ 
+(A) Fair Use 
+ 
+Originally judicial doctrine, Congress provided statutory guidance for finding fair use according 
+to the following factors:  
+ 
+(1) the purpose and character of the use, including whether such use is of a commercial 
+nature or is for nonprofit educational purposes;  
+ 
+(2) the nature of the copyrighted work;  
+ 
+(3) the amount and substantiality of the portion used in relation to the copyrighted work 
+as a whole; and  
+ 
+                                                        
+53 David S. H. Rosenthal, Emulation & Virtualization as Preservation Strategies, ANDREW W. MELLON FOUND., 16-
+17, available at https://mellon.org/media/filer_public/0c/3e/0c3eee7d-4166-4ba6-a767-6b42e6a1c2a7/rosenthal-
+emulation-2015.pdf. 
+54 Id. See also Adrienne LaFrance, Raiders of the Lost Web, THE ATLANTIC (Oct. 14, 2015), 
+https://www.theatlantic.com/technology/archive/2015/10/raiders-of-the-lost-web/409210/, archived at 
+https://perma.cc/QB73-SWCS. 
+55 Rosenthal, supra note 54, at 17. 
+[PAGE 10]
+ 
+ 
+10 
+ 
+(4) the effect of the use upon the potential market for or value of the copyrighted work. 56  
+ 
+Although the factors weigh heavily in judicial decision-making, the list is not exhaustive, and no 
+one factor is decisive.
+57 Rather, each factor is to be considered and weighed together, “in light of 
+the purposes of copyright.”58  
+ 
+I. Purpose and Character of Use 
+ 
+Copying for preservation and archival use is prototypically fair, as it promotes the “progress of 
+Science and the useful Arts.”59 Copyright law was developed to ensure the public enjoys the 
+fruits of our country’s scientific and cultural achievements.60 Uses that “benefits the broader 
+public interest” are more likely to be fair,61 as are non-profit, non-commercial uses.62 The 
+archival institutions that would fall within this exemption, like libraries and museums, are 
+usually not-profit and engaged in non-commercial activity. 
+ 
+Preserving public access to information constitutes a public benefit and is strongly favored in the 
+fair use analysis. The legislative history of the Copyright Act makes clear that Congress intended 
+preservation to be fair use: “organizations [that] rescue and preserve this irreplaceable 
+contribution to our cultural life are to be applauded, and the making of duplicate copies for 
+purposes of archival preservation certainly falls within the scope of ‘fair use.’”
+63 Courts have 
+ruled accordingly. In Authors Guild, Inc. v. Google Inc., for example, the court held that Google 
+Books created a “significant public benefit” by preserving out-of-print books.64 Archival 
+institutions create the same valuable public benefit by preserving software. In fact, the benefit of 
+software preservation is two-fold. The public benefits from both the preservation of the software 
+as its own work and the preservation of the information contained in data formats that are, 
+without the preserved software, otherwise inaccessible.  
+ 
+In addition to the public benefit and non-commercial character of a use, courts typically consider 
+as part of the first factor calculus whether a use is “transformative,” i.e., whether it uses 
+copyrighted material “in a different manner or for a different purpose from the original.”65 
+Transformative use is not a prerequisite for a finding of fair use,66 nor even for a favorable first 
+                                                        
+56 17 U.S.C. § 107. 
+57 See Castle Rock Entm't, Inc. v. Carol Publ'g Grp., Inc., 150 F.3d 132, 145 (2d Cir. 1998); see also H.R. REP. NO. 
+94-1476, at 65 (1976). 
+58 Campbell v. Acuff-Rose Music, Inc., 510 U.S. 569, 578 (1994). 
+59 Id. at 575. (quoting U.S. CONST. art. I, § 8, cl. 8.). 
+60 U.S. CONST. art. I, § 8, cl. 8.; see also Universal City Studios, Inc. v. Sony Corp. of Am., 464 U.S 417, 429 (1984). 
+61 Blanch v. Koons, 467 F.3d 244, 253 (2d Cir. 2006). 
+62 See Sony, 464 U.S. at 451. 
+63 See H.R. REP. NO. 94–1476, at 73 (1976). 
+64 See Authors Guild, Inc. v. Google Inc., 954 F. Supp. 2d 282, 293 (S.D.N.Y. 2013), aff'd sub nom. Authors Guild v. 
+Google, Inc., 804 F.3d 202 (2d Cir. 2015); see also Field v. Google Inc., 412 F. Supp. 2d 1106, 1118 (D. Nev. 2006) 
+(finding the first factor to favor Google when Google provided “cached” versions of no longer accessible websites); 
+Sundeman v. Seajay Soc’y, Inc., 142 F.3d 194, 203 (4th Cir. 1998) (finding archives’ provision of surrogate copy to 
+researcher to avoid damage to fragile original manuscript “served the ‘public benefit’ and ‘the development of art’” 
+and thus factor one favored fair use). 
+65 Pierre N. Leval, Toward a Fair Use Standard, 103 HARV. L. REV. 1105, 1111 (1990). 
+66 Campbell, 510 U.S. at 579 (citing classroom distribution as an obvious example of non-transformative fair use). 
+[PAGE 11]
+ 
+ 
+11 
+ 
+factor outcome.67 Nevertheless, many of the uses contemplated by this exemption are 
+transformative.  
+ 
+Preservation itself serves a different purpose from the original commercial purpose of software—
+it ensures that the preserved work will be available for research in the future. Just as the search 
+engine in Authors Guild v. Google indexes but does not “read” the digitized volumes in the 
+Google Books corpus, the software preservation professional preserves but does not “use” 
+software (except to the limited extent necessary to describe and evaluate the collection). Their 
+use is in this sense “non-consumptive,” and serves the new and socially beneficial purpose of 
+ensuring that the work is protected from harm for the use of future generations.  
+ 
+In making vintage software and software-dependent material accessible for research on 
+contemporary hardware machines, archivists and other software preservation professionals 
+“create a new platform” for use of the software, affording opportunities for software use “in new 
+environments,” where original hardware is not available, activities the Ninth Circuit has found 
+transformative.
+68 Providing research access to a collection of material that originally served a 
+different commercial purpose has also been found transformative.69  
+   
+II. The Nature of the Work 
+  
+“The law generally recognizes a greater need to disseminate factual works than works of fiction 
+or fantasy.”70 Therefore, the “scope of fair use is greater with respect to factual than nonfactual 
+works.”71 Many TPM-protected software titles are primarily factual works. For instance, the 
+value of word-processing, spreadsheet, and database software comes from their functional ability 
+to represent information that is owned or created by those seeking access. Thus, the second 
+factor supports finding the existence of non-infringing uses.72  
+ 
+Furthermore, functional elements of computer programs are not protected by copyright,73 and 
+copying to gain access to those functional elements are more likely to be fair use.74 In the cases 
+covered by this exemption, observing the functionality of older software is necessary to preserve 
+access to software dependent material that would otherwise be unreadable. This is because, 
+                                                        
+67 See, e.g., Cambridge Univ. Press v. Patton, 769 F.3d 1232, 1267 (11th Cir. 2014) (finding first factor favored fair 
+use for non-profit copying for educational purposes, even when use was non-transformative). 
+68 Sony Computer Entertainment, Inc. v. Connectix Corp., 203 F.3d 596, 606 (9th Cir. 2000). 
+69 See White v. West Publ'g Corp., 29 F. Supp. 3d 396, 399 (S.D.N.Y. 2014).  
+70 Harper & Row Publishers, Inc. v. Nation Enters., 471 U.S. 539, 563 (1985). 
+71 Am. Geophysical Union v. Texaco Inc., 60 F.3d 913, 925 (2d Cir. 1994); see also Campbell, 510 U.S. at 586 
+(collecting cases where lesser protection was extended to factual works). 
+72 Sega Enters. v. Accolade, Inc., 977 F.2d 1510, 1526 (9th Cir. 1992) (finding that computer programs deserve a 
+lesser degree of copyright protection because their unprotected functional elements are not visible without copying); 
+see also Am. Geophysical Union, 60 F.3d at 925 (holding that, although copied journal articles contained a 
+significant amount of creativity, because the primary purpose of copying was to access the facts and ideas contained 
+within, the court was “precluded” from finding the articles were “within the core of copyright’s protective 
+purpose”); see also Television Digest, Inc. v. U.S. Tel. Ass'n, 841 F. Supp. 5, 10 (D.D.C. 1993) (finding that a trade 
+newsletter’s factual nature favored a finding of fair use for factor two). 
+73 See Sony Computer Entm't, Inc. v. Connectix Corp., 203 F.3d 596, 603 (9th Cir. 2000) (citing Sega Enters. v. 
+Accolade, Inc., 977 F.2d 1510 (1992)). 
+74 Id. at 604-5. 
+[PAGE 12]
+ 
+ 
+12 
+ 
+unlike the functional ideas and methods expressed in an accounting textbook, for example, the 
+functional elements of computer programs are not directly visible.75 
+ 
+Finally, many computer programs that exemption users may seek to access are “orphaned.” 
+Copyright holders may be bankrupt, dissolved, or dead. Records that could point to the original 
+copyright owner of the software could be inaccessible for the same reasons this exemption is 
+necessary. The Senate Report on the Copyright Act of 1976 recognized that the use of 
+copyrighted material that is “out of print” or otherwise unavailable is likely to fall under fair 
+use.76 Scholars77 and librarians and archivists78 have also argued that fair use should favor 
+broader use of orphan works. 
+ 
+III. The Amount and Substantiality Used 
+ 
+The primary focus of the third factor is whether the extent copied was “reasonable in relation to 
+the purpose . . . .”79 Notably, courts have concluded that “copying the entirety of a work is 
+sometimes necessary.”80 Providing access to vintage software may, in some cases, be impossible 
+without copying the whole work. Emulating only portions of code will not result in functional 
+software. Thus, because the amount exemption users would copy is reasonable in relation to the 
+purpose of the copying, the third factor favors fair use.  
+ 
+IV. The Effect on the Market for the Work 
+ 
+The copyright system is designed “[n]ot primarily for the benefit of the author, but primarily for 
+the benefit of the public.”81 The temporary monopoly Congress granted to authors serves to 
+“induce release to the public of the products of [the author’s] creative genius.”82 To serve the 
+system’s broader purpose, courts “must occasionally subordinate the copyright holder's interest 
+in a maximum financial return to the greater public interest . . . .”83 Creating and maintaining 
+copies for the purpose of archiving and scholarship do not interfere in the market for the work, 
+making the impact on the copyright holders’ interest minimal.  
+ 
+Scholars require access to vintage word processing programs, design software, and the like in 
+order to study them and the materials that depend on them, not for their original commercial 
+purposes (creating text files, 3D designs, and so on). Thus the researcher’s use of archived 
+                                                        
+75 See Sega Enters., 977 F.2d at 1526. 
+76 S. REP. NO. 94-1476, at 64 (1976); see also Triangle Publ’ns, Inc. v. Knight-Ridder Newspapers, Inc., 626 F.2d 
+1171, 1176 n.14 (5th Cir. 1980). 
+77 See generally Jennifer Urban, How Fair Use Can Help Solve the Orphan Works Problem, 27 BERKELEY TECH. 
+L.J. 1379 (2012). 
+78 See generally PATRICIA AUFDERHEIDE ET AL., STATEMENT OF BEST PRACTICES IN FAIR USE OF COLLECTIONS 
+CONTAINING ORPHAN WORKS FOR LIBRARIES, ARCHIVES, AND OTHER MEMORY INSTITUTIONS (2014), available at 
+http://cmsimpact.org/wp-content/uploads/2016/01/orphanworks-dec14.pdf. 
+79 See Campbell v. Acuff-Rose Music, Inc., 510 U.S. 569, 586 (1994). 
+80 Bill Graham Archives v. Dorling Kindersley Ltd., 448 F.3d 605, 613 (2d Cir. 2006); see also Núñez v. Caribbean 
+Int'l News Corp., 235 F.3d 18, 24 (1st Cir. 2000) (finding that copying an entire picture was reasonable because 
+copying less would be useless). 
+81 H.R. REP. NO. 60-2222, at 2227 (1909). 
+82 U.S. v. Paramount Pictures, 334 U.S. 131, 158 (1948). 
+83 Williams & Wilkins Co. v. United States, 487 F.2d 1345, 1352–53 (Ct. Cl. 1973), aff'd, 420 U.S. 376 (1975). 
+[PAGE 13]
+ 
+ 
+13 
+ 
+software does not “‘supersede[] the objects’ of the original creation.”84 Scholars studying word 
+processing software, for example, may study a wide variety of word processing applications in 
+an archival collection, but they will use their own lawfully-owned or licensed modern word 
+processing software, like Microsoft Word, to prepare their manuscript.   
+ 
+In some cases, the publisher for a work is clear and still in business, even licensing their works. 
+In this circumstance, the mere presence of a licensing market does not obviate fair use. “The goal 
+of copyright is to stimulate the creation of new works, not to furnish copyright holders with 
+control over all markets. Accordingly, the ability to license does not demand a finding against 
+fair use.”
+85  
+ 
+When a publisher has not made software available for license in a particular use, absent other 
+evidence, it can be inferred that the publisher “did not think that there would be enough such use 
+to bother making a license available.”
+86 In such cases, there is “little damage” and this factor 
+should favor fair use.87 Because the market that drives the creation of new software is the 
+creation of new functionality and design, not the preservation community, much of the software 
+that this exemption would cover is not available to license. Often the demand for old software is 
+small, and designing a licensing program to capture that market is not worth the cost.88 
+Assuming the owners are identifiable and reachable, copyright to different elements of the same 
+software may be held by different owners—making the licensing agreements necessary for the 
+creation of a market difficult or impossible to obtain. 
+ 
+In other circumstances, the copyright holder is unidentifiable. In these cases, there is no harm to 
+the copyright holder, and usually minimal harm to the market that might exist for similar 
+software. New software is created to satisfy the demand for new features, new design, and new 
+functionality. In contrast, the demands of the preservation community are naturally in the 
+opposite direction of market forces – their goal is to preserve the work as it existed at a point in 
+time. Therefore, their fair use does not interfere with the incentive to create new software—the 
+primary purpose of copyright.
+89  
+ 
+(B) 17 U.S.C. § 108(c) and (h) 
+ 
+There may be other categories of non-infringing use that the copying of software for archival 
+purposes falls into, for example, the statutory exemptions to copyright law for libraries and 
+archival institutions seeking to make limited digital or physical copies of a copyrighted work for 
+preservation purposes.90 Of course, the applicability of 17 U.S.C. § 108 does not preclude the 
+applicability of the fair use doctrine.91  
+                                                        
+84 Campbell, 510 U.S. at 579. 
+85 Cambridge Univ. Press v. Patton, 769 F.3d 1232, 1276 (11th Cir. 2014). 
+86 Id. at 1276–77. 
+87 Id. 
+88 See Authors Guild, Inc. v. HathiTrust, 755 F.3d 87, 103 (2d Cir. 2014) (finding the book market for the blind too 
+small, or non-existent for some books, to be considered in market harm analysis). 
+89 See Paramount Pictures, 334 U.S. at 158. 
+90 17 U.S.C. § 108. 
+91 17 U.S.C. § 108(f)(4). 
+[PAGE 14]
+ 
+ 
+14 
+ 
+The Copyright Office has highlighted two specific provisions—clauses (c) and (h)—and 
+requested commentary on the applicability of each clause to an analysis of copyright non-
+infringement for this proposed exemption.  
+ 
+I. 17 U.S.C. § 108(h) 
+ 
+17 U.S.C. § 108(h) is usually inapplicable to digital preservation efforts due to the time 
+restriction in the clause—libraries and archives must wait until the last 20 years of the software 
+or digital material’s copyright for this exemption clause to apply. Under the Copyright Act, any 
+work created after January 1, 1978—which includes the majority of modern software—would 
+have a valid copyright for 95 years from first publication of the work, or 70 years after the death 
+of the author (for works not made for hire).
+92  
+ 
+Libraries and archives cannot wait another 40 years to preserve legacy software from the early 
+1980s because, by then, there would be nothing left to preserve.
+93 Like analog materials, 
+software and digital materials degrade over time. In a matter of three to five years, the data 
+stored on a hard drive may be corrupted or otherwise no longer accessible.94 Software is also 
+developing and advancing at a breakneck speed, with some companies rendering software 
+products obsolete after two to three years.95 In just a few years, some software may no longer 
+even exist and all materials that are dependent on that software would no longer be accessible.96 
+WordStar, the prominent word processing program discussed above, was developed in 1978 and 
+used widely in the 1980s, but is no longer available without an emulator.97 If software 
+preservationists had not actively developed emulation programs for WordStar already, and 
+instead, waited for 17 U.S.C. § 108(h) to apply in 2053, not only would the digital files 
+dependent on WordStar be inaccessible for preservation in the meantime and likely subject to 
+data degradation, but the WordStar program itself might have been lost entirely.  
+ 
+II. 17 U.S.C. § 108(c) 
+ 
+Unlike the expansive scope of the fair use doctrine discussed above, non-infringing use under 17 
+U.S.C. § 108(c) covers only a slim subsection of the many important uses the exemption would 
+                                                        
+92 17 U.S.C. § 302. 
+93 Teresa Soleau, Preventing Digital Decay, THE IRIS: BEHIND THE SCENES AT THE GETTY (Oct. 20, 2014), 
+http://blogs.getty.edu/iris/preventing-digital-decay/, archived at https://perma.cc/AKV2-9CS5.  
+94 Simon Hill,How do you preserve your personal data forever? We ask an expert, DIGITAL TRENDS (July 12, 2015), 
+https://www.digitaltrends.com/computing/how-do-you-preserve-digital-data-forever/, archived at 
+https://perma.cc/WZ8J-CN5J (interviewing Dr. Micah Altman of MIT on longevity of data storage). 
+95 Steven J. Vaughan-Nichols, Windows 10 is making too many PCs obsolete, COMPUTERWORLD, 
+https://www.computerworld.com/article/3209977/microsoft-windows/windows-10-is-making-too-many-pcs-
+obsolete.html, archived at https://perma.cc/SCZ6-4CU7. 
+96 The 'Bit List' of Digitally Endangered Species, DIGITAL PRESERVATION COALITION, http://dpconline.org/our-
+work/bit-list, archived at https://perma.cc/8MYV-AE6M. 
+97 See Thomas J. Bergin, The Origins of Word Processing Software for Personal Computers: 1976-1985, IEEE 
+ANNALS OF THE HISTORY OF COMPUTING, Oct.–Dec. 2006, at 32–47; Matthew Kirschenbaum, Case Study #4 | "It Is 
+Known": George R. R. Martin, WordStar, and Media Archaeology in the Media, UNIVERSITY OF MINNESOTA PRESS 
+BLOG (May 28, 2014) http://www.uminnpressblog.com/2014/05/case-study-4-it-is-known-george-r-r.html, archived 
+at https://perma.cc/PF8K-LF4F. 
+[PAGE 15]
+ 
+ 
+15 
+ 
+enable. There are four elements that must be met for a use to be non-infringing under 17 U.S.C. § 
+108(c):  
+ 
+a) That the library or archival institution is duplicating a work solely for “the purpose of 
+replacement of a copy or phonorecord that is damaged, deteriorating, lost, or stolen, 
+or if the existing format in which the work is stored has become obsolete; 
+ 
+b) The library or archives has, after a reasonable effort, determined that an unused 
+replacement cannot be obtained at a fair price; and 
+ 
+c) Any such copy or phonorecord that is reproduced in digital format is not made 
+available to the public in that format outside the premises of the library or archives in 
+lawful possession of such copy.” 
+ 
+d) That no more than three copies are created.
+98 
+ 
+Congress has further defined a format to be considered “obsolete” if the “machine or device 
+necessary to render perceptible a work stored in that format is no longer manufactured or is no 
+longer reasonably available in the commercial marketplace.”
+99  
+ 
+Some preservation activities fit within the constraints of § 108(c). With respect to the first two 
+elements of 17 U.S.C. § 108(c), the need to create digital copies of files stored in outdated 
+hardware—to migrate digital data—arises precisely because of the obsolete nature of such 
+outdated hardware.
+100 For example, computers, laptops, and external disk drives commercially-
+available nowadays already have no ability to read 8-inch or 5.25-inch floppy disks—the very 
+definition of “obsolete”—and hence, libraries and archives must migrate the data into digital 
+copies to preserve the content on these disks for future access. There are no unused replacements 
+that archives can seek out because floppy disks with the exact same content are no longer 
+manufactured. Similarly, with “born-digital” material that is dependent on outdated software, 
+libraries and archives must create modified, accessible copies precisely because the software 
+used to create and access the material has become obsolete—no longer manufactured or 
+licensable, and consequently, there are also no unused replacements because the software needed 
+to create any replacement files is no longer available. 
+ 
+Some libraries and archives limit the usage of their collection to onsite usage only, ensuring that 
+all copies of the digital materials would remain within the premises of the library or the archive 
+in compliance with the third element listed above. At the Stanford University Libraries, for 
+example, users must request all materials 48 hours prior to their intended viewing time. Users 
+must then go to a physical reading room located in the archives to access the requested materials, 
+regardless of whether the material exists in paper or digital formats.
+101 In some instances, 
+libraries and archives are able to limit the number of copies of digital material that they possess 
+                                                        
+98 17 U.S.C. § 108(c) 
+99 17 U.S.C. § 108(c)(2).  
+100 Chamber of Horrors – Obsolete and Endangered Media, DIGITAL PRESERVATION MANAGEMENT, 
+http://www.dpworkshop.org/dpm-eng/oldmedia/disks.html, archived at https://perma.cc/TZ2G-G4SL. 
+101 Using our collections, STANFORD LIBRARIES, https://library.stanford.edu/spc/using-our-collections.  
+[PAGE 16]
+ 
+ 
+16 
+ 
+to the three stipulated by 17 U.S.C. § 108(c)—having just one copy of a “born-digital” VisiCalc 
+file, for example, to be read by modified software.  
+  
+Therefore, 17 U.S.C. § 108(c) may be appropriate to exempt from copyright infringement the 
+specific activities where material existing in outdated physical formats are transcribed into three 
+or fewer digital copies, or the rare instances when an archive creates just one modified copy of a 
+“born-digital” file to increase accessibility with modern software tools.  
+ 
+However, as the Copyright Office itself has said, the current language of 17 U.S.C. § 108(c) 
+clearly does not cover a huge portion of digital preservation—for example, (1) any archival 
+activity that requires modifying outdated software or making copies of digital material that may 
+incidentally create more than three temporary copies in the process of preservation, (2) any 
+archival activity that requires the storage of more than three copies of a digital material at any 
+one point in time, or (3) any preservation activities by institutions that are not considered a 
+library or an archive, such as museums. 
+ 
+During the process of modifying software or copying digital materials, procedural mechanisms 
+usually inadvertently create multiple temporary copies
+102—which, while limited in duration, may 
+nevertheless constitute “copies” that violate the three-copy rule in 17 U.S.C. § 108(c) under 
+traditional copyright case law.103 The Section 108 Study Group created by the Copyright Office 
+has also identified that “digital preservation requires the making and active management of 
+multiple copies over time, stored in multiple locations, prior to deterioration and the loss of 
+information.”104 The Copyright Office has discussed amending 17 U.S.C. § 108 for better 
+alignment with preservation in the digital age, first with the creation of the Section 108 Study 
+Group in 2008 and then recently with the release of the Section 108 Discussion Document.105 
+This indicates a working desire in Copyright Office to extend 17 U.S.C. § 108 to cover all 
+aspects of digital preservation by libraries, archives, and museums. The Copyright Office’s 
+Discussion Document includes proposed new statutory language, such as amending the three-
+copy language to allow for the “number of copies reasonably necessary”106 to create one end-use 
+copy and expanding availability to users off-premise for a limited time to reflect researchers’ 
+practical need to access digitized information from other locations.107 Additionally, proposed 
+amendments have also addressed extending Section 108 protection appropriately to include 
+museums and other cultural preservation institutions that are not considered libraries or 
+archives.108  
+ 
+                                                        
+102 See, e.g., Maira Sutton, Temporary Copies: A TPP Provision Disconnected from the Reality of the Modern 
+Computer, EFF DEEPLINKS BLOG (July 26, 2012), https://www.eff.org/deeplinks/2012/07/temporary-copies-another-
+way-tpp-profoundly-disconnected, archived at https://perma.cc/9WHA-AQJA. 
+103 See MAI Sys. Corp. v. Peak Computer, Inc., 991 F.2d 511, 518 (9th Cir. 1993); Stenograph L.L.C. v. Bossard 
+Assocs., Inc., 144 F.3d 96, 101–02 (D.C. Cir. 1998).  
+104 UNITED STATES COPYRIGHT OFF., THE SECTION 108 WORKING GROUP REPORT 44 (2008),  available at 
+http://www.section108.gov/docs/Sec108StudyGroupReport.pdf. 
+105 UNITED STATES COPYRIGHT OFF., SECTION 108 OF TITLE 17 – A DISCUSSION DOCUMENT OF THE REGISTER OF 
+COPYRIGHTS (2017), available at https://www.copyright.gov/policy/section108/discussion-document.pdf.   
+106 Id. at 25. 
+107 Id. at 26. 
+108 Id. at 17. 
+[PAGE 17]
+ 
+ 
+17 
+ 
+Although 17 U.S.C. § 108 may apply to some preservation activities, its limited scope means that 
+most institutions rely upon the fair use doctrine for other aspects of their software and digital 
+preservation efforts.109 Because of this, the Copyright Office should not to limit the scope of this 
+exemption by reading in the limitations of 17 U.S.C. § 108. 
+ 
+(C) 17 U.S.C. § 117 
+ 
+The proposed exemption also includes uses that may be non-infringing under 17 U.S.C. § 117. 
+This limitation on copyright law authorizes the making of a copy or adaptation of a computer 
+program by the lawful owner of a copy of the computer program under certain conditions.110  
+ 
+Under 17 U.S.C. § 117(a), the adaptation or copying of software by the owner of a copy of the 
+software is not an infringement provided:  
+ 
+(1) that such a new copy or adaptation is created as an essential step in the utilization of 
+the computer program in conjunction with a machine and that it is used in no other 
+manner, or  
+ 
+(2) that such new copy or adaptation is for archival purposes only and that all archival 
+copies are destroyed in the event that continued possession of the computer program 
+should cease to be rightful. 
+ 
+This statute has been interpreted to follow “the recommendations of the Commission on New 
+Technological Uses of Copyrighted Works [CONTU] with respect to clarifying the law of 
+copyright of computer software.”
+111 The CONTU Report recognized that the action of placing a 
+copyrighted work into a computer could result in the creation of a copy and subsequently 
+provided “that persons in rightful possession of copies of programs be able to use them freely 
+without fear of exposure to copyright liability.”112 
+ 
+The first exception to a copyright owner’s exclusive rights, § 117(a)(1), contemplates the 
+mismatch among programming languages and hardware, whereby “one who rightfully acquires a 
+copy of a program frequently cannot use it without adapting it to that limited extent which will 
+allow its use in the possessor's computer.”113 Thus, under § 117(a)(1) the lawful owner can 
+modify the software for internal use, “as long as the adapted program is not distributed in an 
+                                                        
+109 See Library Copyright Alliance, LCA Statement on Copyright Office Discussion Document on Section 108 of 
+Title 17, available at 
+http://www.librarycopyrightalliance.org/storage/documents/LCA_Statement_on_CO_Sec_108_Discussion_Docume
+nt.pdf (2017)(“ The Document’s proposed amendments, while salutary, would not allow libraries to perform any 
+lawful activity in which they are not already engaging under the fair use right codified in section 107.”). 
+110 17 U.S.C. § 117. 
+111 H.R. REP. NO. 96-1307 at 23 (1980), reprinted in 1980 U.S.C.C.A.N. 6460, 6482. 
+112 FINAL REPORT OF THE NATIONAL COMMISSION ON NEW TECHNOLOGICAL USES OF COPYRIGHTED WORKS 13 
+(1979) [hereinafter CONTU REPORT], available at 
+https://repository.jmls.edu/cgi/viewcontent.cgi?referer=https://www.google.com/&httpsredir=1&article=1573&cont
+ext=jitpl. 
+113 Id. 
+[PAGE 18]
+ 
+ 
+18 
+ 
+unauthorized manner.”114 In addition, “the conversion of a program from one higher-level 
+language to another to facilitate use would fall within this right.”115 
+ 
+The second exception, § 117(a)(2), permits the creation of a copy for archival purposes, where 
+the owner’s original copy of software is susceptible to “destruction or damage by mechanical or 
+electrical failure.”
+116 Some courts hold that permission is exclusive to software at risk of damage 
+by mechanical or electrical failure.117 However, other courts have interpreted the provision more 
+liberally, allowing archival copies to be made to guard against any type of risk.118 Those courts 
+argue that since Congress did not list restrictions on the purposes for which archival copies are 
+made under § 117(a)(2), an owner is allowed “to make an archival copy of that program in order 
+to guard against all types of risks, including physical and human mishap as well as mechanical 
+and electrical failure.”119  
+ 
+In Vault Corp. v. Quaid Software Ltd., a case pre-dating § 1201, the Fifth Circuit held that 
+Quaid’s product, the CopyWrite diskette with the RAMKEY feature, was capable of non-
+infringing uses under § 117(a)(2), even though it was used to circumvent the protective features 
+on Vault’s PROLOK diskettes. This protective device on Vault’s diskettes was used to prevent 
+the unauthorized copying of the software programs also located on those disks. The court 
+ultimately determined that § 117(a)(2) allowed the owner of the PROLOK diskette to copy both 
+the PROLOK program and the software program for any reason, so long as the owner only used 
+it for archival purposes and did not transfer the copy.  
+ 
+Similar to Vault, there are many uses of TPM-protected software that qualify as non-infringing 
+because they are for archival purposes under § 117(a)(2), and copies are necessary to eliminate 
+the risk that the software will be damaged or destroyed. Many software programs are located on 
+diskettes, such as Visicalc, Dig Dug, and Galaxian, which comprise just a few examples of the 
+software the Living Computers: Museum + Labs has encountered recently with TPMs.120 Here, 
+the circumvention of the TPM to replicate this software is a non-infringing use under § 117(a)(2) 
+because the museum desires to copy the software for archival purposes. It is necessary for the 
+museum create copies to preserve the software so it can put the software on display for its 
+visitors without risking that their only copies of the disks will be mishandled or destroyed.121  
+ 
+(3) Statutory Factors Support Granting an Exemption for Software Preservation 
+ 
+Because of the nature of this exemption, many of the factors required by the statute are explored 
+by the sections above. However, there are some additional reasons why the factors support the 
+grant of the exemption.  
+ 
+ 
+                                                        
+114 Aymes v. Bonelli, 47 F.3d 23, 26 (2d. Cir. 1995). 
+115 CONTU REPORT, supra note 113, at 13. 
+116 Id.  
+117 See, e.g., Atari, Inc. v. JS & A Group, Inc., 597 F.Supp. 5, 9-10 (N.D. Ill. 1983). 
+118 See Vault Corp. v. Quaid Software Ltd., 847 F.2d 255, 266–67 (5th Cir. 1988). 
+119 Id. at 267. 
+120 Survey Response by Cynde Moya, Living Computers: Museum + Labs. 
+121 Id. 
+[PAGE 19]
+ 
+ 
+19 
+ 
+(A) Software and software-dependent material will be unavailable without an exemption. 
+ 
+Because of the orphan software problem detailed above, many software items have been lost to 
+the public and many more are at risk.122 The Copyright Office recognizes that the orphan works 
+problem is “widespread and significant.”123 For software that is protected by TPMs, even fair use 
+cannot protect preservationists from taking on significant legal risk. 
+ 
+For many use cases, there are not alternatives to circumvention of TPMs. As discussed above, 
+software that is held by identifiable and available copyright owners is often not available to be 
+licensed. The legal and commercial costs of providing licensing agreements to archivists is not 
+offset by the value of capturing such a small market. When the holders of archived software 
+copyrights are willing to license their software, the transaction costs of negotiating with hundreds 
+of different publishers is beyond the already strained resources of preservation efforts.
+124 Such 
+costs will prevent the software from being licensed at all. Again, without an exemption, software 
+and software dependent-material will continue to be lost.  
+ 
+(B) The exemption is necessary and targeted towards increasing availability for use for 
+archival, preservation, and educational purposes. 
+ 
+As is perhaps obvious, the core purpose of this exemption is to allow preservationists to 
+preserve, keep running, and thus increase the availability of TPM-protected software. Allowing 
+those covered by the exemption to bypass software TPMs ensures that software and software-
+dependent material remain available for archival, preservation, research, and educational 
+purposes. 
+ 
+First, the longer that software goes unexaminable, the greater the risk of loss. This is especially 
+true for obscure software used for statistical and research purposes. Preservationists cannot 
+determine the function or type of software that exists in unknown file formats without 
+circumventing TPMs and examining software behavior. The software preservation community’s 
+limited resources logically go towards preserving known entities. Over time, obscure software 
+has an increased risk of being left behind or discarded. Unfortunately, this kind of software is 
+often tied to potentially useful research-related software-dependent material.
+125 
+ 
+Second, the study of software titles as cultural and scientific artifacts will only continue to grow. 
+As discussed above, software studies scholars use analysis of software to better understand all 
+sorts of disciplines and practices, ranging from how BASIC programming changed creative 
+                                                        
+122 See The 'Bit List' of Digitally Endangered Species, DIGITAL PRESERVATION COALITION, http://dpconline.org/our-
+work/bit-list, archived at https://perma.cc/8MYV-AE6M. 
+123 UNITED STATES COPYRIGHT OFFICE, ORPHAN WORKS AND MASS DIGITIZATION 2 (2015), available at 
+https://www.copyright.gov/orphan/reports/orphan-works2015.pdf. 
+124 Rosenthal, supra note 54, at 17. 
+125 See The 'Bit List' of Digitally Endangered Species, DIGITAL PRESERVATION COALITION, http://dpconline.org/our-
+work/bit-list, archived at https://perma.cc/8MYV-AE6M (noting that published research is endangered partially 
+because of overzealous rights management and software dependencies). 
+[PAGE 20]
+ 
+ 
+20 
+ 
+computing126 to how dance can be encoded into software.127 Opportunities to study the evolution 
+of software design, form, and function are lost when preservationists struggle to deal with 
+collections rendered still by TPMs. 
+ 
+(C) Prohibiting circumvention for software preservation impedes criticism, research, 
+teaching, and scholarship. 
+ 
+With so much of our information now born-digital or migrated to digitized formats, it becomes 
+increasingly important that researchers, scholars, critics, and teachers have all the tools needed to 
+access that information. As mentioned above in the discussion of “software-dependent 
+materials,” software is critically important to archival access to digital files, and having working 
+copies of outdated software is vital to preservationists’ ability to open older files. The special 
+investigation papers of Watergate Special Counsel Leon Jaworski, for example, were 
+inaccessible for a long period of time because the archives could not get permission to run the 
+software to read the papers.
+128 Continuing to prohibit circumvention for software preservation 
+would deprive researchers in all fields of scholarship of a huge pool of valuable information.  
+ 
+Software itself is also an important subject for scholarship because improvements in future 
+software programs depend largely on knowing about the flaws in older software and learning 
+how older software was developed. In order to understand how older software functioned and 
+analyze how software has evolved, researchers and scholars need to see how the software 
+operates. For many outdated software titles, this would require circumvention of TPMs to 
+modify the program for compatibility with emulators or current operating systems.
+129  
+ 
+Avoiding circumvention requires archives, libraries, and other cultural heritage institutions to 
+spend a lot of time tracking down and working with copyright owners and companies to gain 
+access to obscure titles, often with disappointing results. With time being crucial to keeping up 
+with software development, research cannot afford the delays around trying to locate copyright 
+owners of orphaned works or working with companies who are unwilling to spend the time to 
+draft licenses for inherited leftover software.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+                                                        
+126 See NICK MONTFORT, ET AL., 10 PRINT CHR$(205.5+RND(1)); : GOTO 10 (2012). 
+127 Scott deLahunta, Dance Becoming Data; Part One Software for Dancers, COMPUTATIONAL CULTURE: A 
+JOURNAL OF SOFTWARE STUDIES. For more examples, see also Software Studies, 
+https://monoskop.org/Software_studies.  
+128 Interview with Peter Hirtle, Fellow and Past President of the Society of American Archivists, in Cambridge, 
+Mass. (Nov. 15, 2017). 
+129 Survey Response of Dragan Espenschied, Rhizome (discussing the use of emulation to use Internet Explorer 6 on 
+Windows XP); Rosenthal, supra note 54. 
+[PAGE 21]
+ 
+ 
+21 
+ 
+(D) Circumvention of TPMs in software for archival purposes would have limited, if any, 
+impact on the market value of the programs. 
+ 
+The software that archives and libraries are looking to preserve is often comprised of titles that 
+are no longer commercially relevant.130 For the most part, the circumvention efforts would not be 
+creating any market competition because there is no market to begin with. Furthermore, the 
+institutions have already legally acquired the software—circumvention simply allows the 
+institutions to access a copy of something that already belongs to them. The archives are not 
+looking to break into software that they do not own or have a right to use.  
+ 
+In past rulemakings, rightsholders have expressed concerns about the availability of knowledge 
+of how to circumvent TPMs on other kinds of works, or that users will use the exemption to 
+avoid buying new software. Such concerns are inapposite here. It is highly unlikely that 
+circumvention techniques appropriate for software from the 1990s or the early 2000s would have 
+any effect on the more advanced technological protection measures of modern software 
+programs.
+131 Circumventing TPMs on older software would also have little impact on the market 
+for current commercially available software, simply because the speed at which technology 
+matures has left vintage software in the dust. It is unlikely, for example, that a significant number 
+of consumers would prefer to use VisiCalc over Microsoft Excel for computational usage, and 
+even more unlikely that such users would rely on archival institutions (or circumvention 
+techniques employed by them) to acquire copies for ongoing use. 
+ 
+CONCLUSION 
+Digital preservation is exactly the type of activity the Section 1201 exemption process was meant 
+to facilitate. The current ban on circumvention will have adverse effects over the next three 
+years, continuing to inhibit the preservation of deteriorating software and software-dependent 
+material objects.  The forces that drive digital preservation run in the opposite direction of the 
+market, suggesting that the market impact of the circumvention discussed in this comment will 
+be minimal, if any. As Daenerys Targaryen brought the dragons back to Westeros, digital 
+preservationists have the opportunity to revive that which may be lost. The Library of Congress, 
+through granting this exemption, can help them do just that.   
+ 
+ 
+  
+                                                        
+130 See, e.g., The quest to crack and preserve vintage Apple II software – tech podcast, THE GUARDIAN (Apr. 28, 
+2017), https://www.theguardian.com/technology/audio/2017/apr/28/apple-ii-vintage-software-1980s-tech-podcast 
+(explaining the circumvention of digital rights protection on old Apple II software which is no longer commercially 
+relevant).  
+131 See Patrick Klepek, The Anti-Piracy Tech That's Giving Hackers Fits, KOTAKU (Feb. 17, 2016), 
+https://kotaku.com/the-anti-piracy-tech-thats-tearing-video-game-hackers-a-1759518600 (discussing modern digital 
+rights management which is vastly different from historical TPMs).  
+[PAGE 22]
+ 
+ 
+22 
+ 
+USER STORIES AND STATEMENTS IN SUPPORT 
+Name of Submitter: Andrew Berger  
+Organization: Computer History Musem 
+Software Where Access is Inhibited: RealNetworks Real Developer Program CD: RealSystem 
+G2 Preview Release  
+Statement:  
+The software reads the current system time and will not install or run unless the system is set to a 
+narrow date range in 1998. I haven't worked out the exact date range, but know from experience 
+that it won't accept dates too late in 1998 (after about September). It raises the barrier to 
+installing the software because other software on the same machine may not run if the system 
+clock has been manipulated. It is also vulnerable to changes in operating system functionality, as 
+there's no guarantee that changing the system clock will remain a relatively easy thing to do.  
+ 
+In my experience, virtual machine software may not launch if the system clock has been 
+manipulated, so I would start the virtual machine software and then change the system clock(s) 
+and then install and run the software. This version of RealPlayer is no longer available, and in 
+any case this specific CD was a preview release, not the commercial release. This CD is in the 
+Computer History Museum collection under catalog number: 102685637 
+ 
+http://www.computerhistory.org/collections/catalog/102685637 
+ 
+Software Where Access is Inhibited: Windows XP  
+Statement:  
+In addition to having a license key, the software must be activated after installation. Aside from 
+being a software object in itself, we use Windows XP as a platform for running older 
+applications, as it has backwards compatibility not available in later versions of Windows. 
+ 
+We do this work locally using virtual machines and set up "clean" environments for new 
+requests. Ideally, we would be able to make a snapshot of a clean installation of XP that we 
+could reuse. However, clean installations of XP expire in 30 days if they are not activated. 
+Software Where Access is Inhibited: Visiplot/Visitrend (often bundled together)  
+Statement:  
+We have not identified the exact mechanism of the protection. The software cannot be run in an 
+emulator without circumventing the protection. There is a documented method of copying one 
+version of this title, but it does not appear to apply to other versions. The process of editing the 
+code to circumvent the copy protection on one version of the software was documented in a 
+magazine article in 1983: 
+[PAGE 23]
+ 
+ 
+23 
+ 
+https://archive.org/stream/computist-scan-
+03/issue03#page/n7/mode/1up/search/visitrend+visiplot+backing+up  
+In the Computer History Museum: 
+http://www.computerhistory.org/collections/catalog/102639390 
+http://www.computerhistory.org/collections/catalog/102690323 
+http://www.computerhistory.org/collections/catalog/102680519 (Visiplot alone) 
+ 
+On the Internet Archive: 
+https://archive.org/details/Visitrend_and_Visiplot (crashes, possibly because of copy protection) 
+https://archive.org/details/Visitrend_and_Visiplot (appears to work) 
+  
+[PAGE 24]
+ 
+ 
+24 
+ 
+Name of Submitter: Elise Tanner  
+Organization: Philadelphia Museum of Art  
+Software Where Access is Inhibited: Adobe Flash  
+Statement:  
+We do not know exactly what TPMs the software uses, or whether access will be inhibited, as we 
+have yet to begin the act of digital preservation. We are in the research phase, though, and 
+understand the nature of proprietary software and that it will affect our ability to preserve 
+software-based artworks. In the process of handling the "master" files of a software-based 
+artwork, if we reach a proprietary wall we will be unable to move forward with digital 
+preservation process. If we cannot preserve the master file (the "best quality" or version "closest 
+to artist's original creation"), it defeats the purpose of the entire process.  
+The piece I am referring to is Alfredo Jaar's "The Sound of Silence", a time-based media artwork 
+created in 2006 that involves multiple physical and virtual components in its display. An Adobe 
+Flash file controls various projection and lighting functions. Unlike other time-based pieces, 
+there is no "media" element to this piece, as it is solely exists in the software. With that said, if 
+we cannot access the software because of propriety blocks (copyright blocks), then this piece 
+will inevitably be lost to bit rot and obsolescence. Preserving the artwork means preserving the 
+software. 
+ 
+  
+[PAGE 25]
+ 
+ 
+25 
+ 
+Name of Submitter: Dragan Espenschied  
+Organization: Rhizome  
+Software Where Access is Inhibited: Internet Explorer 6 for Windows XP  
+Statement:  
+IE6 came bundled with Windows XP, which asks to be activated. It is difficult to present certain 
+artworks for Rhizome's Net Art Anthology without this incredibly popular browser, which 
+essentially ruled the web for the first years of the century. We have a sophisticated emulation 
+framework to run legacy operating systems and software, but Windows XP needs special care.  
+Essentially the second chapter of our program Net Art Anthology http://anthology.rhizome.org/ 
+is affected. 
+  
+[PAGE 26]
+ 
+ 
+26 
+ 
+Name of Submitter: Heath Reinhard 
+Organization: Living Computers Museum  
+Software Where Access is Inhibited: Battle Droids, DarkSide 
+Statement: 
+At the Living Computers Museum, we attempt to preserve and exhibit historical significant 
+artifacts from the history of computing. This includes hardware as well as software. We have a 
+vast collection of software, mostly on 5.25" and 3.5" floppy disks.  
+These disks are somewhat fragile, and our policy is to make preservation copies of our floppies 
+disks rather than allowing museum guests to handle the original media.  
+However, many of the software titles we would like to preserve and exhibit have some form or 
+another of copy protection that does not allow us to legally make copies. This endangers our 
+mission of preserving these software artifacts for present and future generations to study and 
+enjoy.  
+Additional information about our institution can be found on our website: livingcomputers.org 
+ 
+You can search our extensive collection of hardware and software artifacts here: 
+http://opac.libraryworld.com/opac/home.php 
+  
+[PAGE 27]
+ 
+ 
+27 
+ 
+ 
+Name of Submitter: Aliza Leventhal 
+Organization: SAA Design Records Section CAD/BIM Taskforce  
+Software Where Access is Inhibited: rhinosarus, grasshopper, formZ, sketchup, civil 3D, 
+AutoCAD, Revit, Lumion, VRay, Maya 
+Statement: 
+Different forms of software are protected by dongles, licensing, access to older versions by not 
+making older versions accessible, and by not making current versions backwards compatible. 
+We are losing the ability to access and experience design records in their original and dynamic 
+forms. 
+  
+[PAGE 28]
+ 
+ 
+28 
+ 
+Name of Submitter: Dene Grigar 
+Organization: Electronic Literature Organization  
+Software Where Access is Inhibited: Storyspace, HyperCard, Flash  
+Statement:  
+The software is proprietary but obsolete. We do not yet have legal option for saving the works of 
+literary art that utilized those programs for their production and dissemination.  There are 43 
+seminal works of pre-web hypertexts published by Eastgate Systems, Inc. on its proprietary 
+software program Storyspace. All but two have been migrated for access on current operating 
+systems. The rest of the works are left to remain inaccessible. Unless we can challenge the owner 
+of the software to allow access to this work, this work will continue to deteriorate. Not only 
+access to them but also their existence are both at stake. This problem is true of works produced 
+with HyperCard and more recently Flash. 
+The Electronic Literature Organization has partnered with Washington State University 
+Vancouver's Electronic Literature Lab and its library, the Electronic Cultural Textures Lab 
+(ETCL)at the University of Victoria, B.C., and Compute Canada to create the Electronic 
+Literature Archives (ELA). The next step is to set up Samvera so that the works in our seven 
+collections can be made available via download of complete files for the work we have 
+permission to share. We have submitted a grant to a foundation in support of this phase of the 
+project. The new version of the software does not allow access to works produced on the earlier 
+versions of it--save for only two works.  
+Here is a link to the Electronic Literature Lab's catalog: http://dtc-wsuv.org/ell-catalog; here is a 
+link to the lab: http://dtc-wsuv.org/wp/ell. Here is a link to the ELO's ELA project: 
+http://eliterature.org/electronic-literature-archives/ 
+  
+[PAGE 29]
+ 
+ 
+29 
+ 
+Statement of Henry Lowood 
+22 November 2017 
+ 
+I am writing as an individual in support of the DMCA exemption request submitted by the 
+Harvard Cyberlaw Clinic on behalf of the Software Preservation Network. The purpose of 
+this exemption is to allow cultural repositories (archives, libraries, museums) to legally 
+circumvent technological protection measures (TPMs) for carrying out software preservation 
+activities. My opinions do not necessarily reflect those of Stanford University, my employer. 
+ 
+Digital game preservation and archiving requires bypassing or defeating access controls 
+built into game software. 
+ 
+Preservation activities undertaken by cultural repositories are impossible to carry out, if these 
+institutions’ curatorial and technical staff cannot fully access the software that is to be 
+preserved. required to maintain these games.  This statement is true for several reasons. 
+ 
+First, current digital preservation practices are universally predicated on data migration, 
+which means the transfer of data from fragile, historical media to the robust technical 
+systems that have been designed for digital preservation.  Access to the original software and 
+to the digital assets (maps, audio files, character animations, etc.) that make up a game or 
+virtual environment is fundamentally important.  If this access is blocked by a historical 
+TPM, then there is no legal way for repositories to gain access to the original software, hence 
+preservation for purposes of scholarship, teaching and other culturally important purposes is 
+impossible. 
+ 
+Moreover, preservation without access to the software, both as data and as an executable 
+program, becomes a meaningless activity. Use of historical software requires installation on 
+contemporary hardware platforms or development of an emulation solution. Usually some 
+modification of the original software will be necessary, in either case.  Without access to the 
+original software, TPM is an obstacle for preservation or research activities. It was not the 
+intention of the software developers and publishers who created this historical software that 
+TPM would block historical study and appreciation of their work.  Circumvention of TPM 
+restrictions is necessary, if cultural repositories are ever to provide access to historically 
+important software titles. 
+ 
+The situation described above forces repositories and researchers into the uncomfortable 
+situation of considering unauthorized circumvention of copyright law to preserve or provide 
+access to game and virtual world environments, data, and software. These activities help 
+repositories to inform and support the work of researchers, students, and others who wish to 
+learn about the history of digital games, or any historical software for that matter. Without 
+circumvention of current restrictions, many kinds of preservation and research projects 
+effectively become impossible. 
+ 
+Henry Lowood 
+Curator for History of Science & Technology and Film & Media Collections 
+Stanford University 

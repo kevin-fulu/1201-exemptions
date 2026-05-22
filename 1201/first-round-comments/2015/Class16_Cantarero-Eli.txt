@@ -1,0 +1,49 @@
+[PAGE 1]
+Short Comment Regarding a Proposed Exemption
+Under 17 U.S.C. 1201
+Item 1. Commenter Information 
+I am a disabled veteran that is visually impaired. The iPhone is by far the most accessible device and 
+is issued to visually impaired veterans by the Veteran administration.
+Item 2. Proposed Class Addressed
+Software That Restricts the Use of Lawfully Obtained Software (“Jailbreaking”)
+Proposed Class 16: Jailbreaking—Wireless Telephone Handsets
+Item 3. Statement Regarding Proposed Exemption
+It has always been a little confusing to me as to why a computer that sits on your lap is open to install 
+software freely. A computer from the same company that fits in your pocket is restricted only to 
+applications that it sells. In 2012, I contacted an attorney about 17 tweaks that help me with my 
+visual impairment. I contacted Apple and they did fix the issue of the Skype keyboard not working 
+with VoiceOver a week later. Jailbreaking is about freedom. Freedom for someone like me to install 
+tweaks and add ons that help me not rely on the tiny screen as much. The developers in the 
+community are very helpful. The creator of Cydia made it compatible with VoiceOver with in two 
+weeks of me writing him. Below is a small list of tweaks that help me out daily.
+DisplayOut: Shows taps on external display. Crucial in using with Airplay mirroring. It is very difficult 
+in knowing where your finger is at when the iPhone is being projected to a big screen. 
+LittleBrother: This tweak allows the display zoom to be much bigger than default.
+Bigify+: This allows the user to set the size of the icons to a desired size.
+Aloud: Allows for the speaking of all notifications in earphones with extensive settings.
+   
+AlarmVolume: Without this, I was required to turn my volume up all the way every night before bed. I 
+forgot a few times and my alarm was so quiet that it did not wake me up. This lets you set the alarm 
+volume to a specified level.
+Controls for Spotify: This makes it so I don’t even need to take my phone out of my pocket to save a 
+song I like on the radio. I can just click the up then down volume on the remote.
+ActIf: I can skip next and previous chapters in audio books by holding the volume buttons. This means 
+that I can pause it by clicking both buttons at the same time with out the need to turn it on and use 
+VoiceOver to navigate to the next or previous icon on the screen.
+IntelliScreenX: Puts almost all of the information that one would check daily on the lock screen.
+Portrait Lock: I can choose which applications to automatically load in portrait mode.
+ 
+Smart 3G + LTE: Turns off LTE when on WiFi thus saving battery.
+Slumber: Can set timer to “stop now playing” and applies to all audio players and not just the stock 
+music app.
+[PAGE 2]
+Wake With Weather: Speaks the weather for today or anything like stocks after the alarm goes off.
+ZoomTouch Flipswitch: Enables turning zoom on or off with chosen action.
+AppButton: Much simpler app switching and closing.
+UntetheredHeySiri: Allows “asking Siri” hands free when not connected to power.
+LockSafety: This prevents powering down the device when on the lock screen. Great theft protection 
+when used in combination with a pass code. I left my iPhone five on a bus and when I realized that it 
+was gone, I called it. Who ever had it simply turned it off since it was not Jailbroken at the time. I 
+was not able to track it with find my iPhone since it was off, ATT could not do anything either and I 
+lost out $950 that day.
+                                       

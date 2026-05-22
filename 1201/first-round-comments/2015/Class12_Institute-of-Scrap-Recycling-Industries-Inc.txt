@@ -1,0 +1,1440 @@
+[PAGE 1]
+  Juelsgaard Intellectual Property  
+and Innovation Clinic 
+Mills Legal Clinic 
+Stanford Law School 
+Crown Quadrangle 
+559 Nathan Abbott Way 
+Stanford, CA 94305-8610 
+jipic@law.stanford.edu 
+650.724.1900 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Before the 
+ 
+ U.S. COPYRIGHT OFFICE  
+LIBRARY OF CONGRESS 
+ 
+In the matter of exemption to prohibition on circumvention  
+of copyright protection systems for access control technologies 
+ 
+Docket No. 2014-07  
+ 
+ 
+ 
+Submitted on Behalf of Petitioner Institute of Scrap Recycling Industries, Inc.  
+ 
+ 
+ 
+Proposed Class 12: 
+Unlocking—All-Purpose Tablet Computers 
+  
+ 
+ 
+ 
+ 
+ Joseph Dollin 
+Brian Weissenberg 
+ Certified Law Students 
+Phil Malone 
+Jef Pearlman  
+ Counsel for Petitioners 
+ 
+  
+[PAGE 2]
+Table of Contents 
+I. Commenter Information ........................................................................................................ 1 
+II. Proposed Class 12: Unlocking—All-Purpose Tablet Computers .......................................... 2 
+III. Overview of Proposed Exemption ......................................................................................... 2 
+IV. Technological Protection Measure and Methods of Circumvention ..................................... 4 
+V. Noninfringing Uses: Unlocking, Including Bulk Unlocking, Does Not Implicate any 
+Copyright Interests, Is a Fair Use Under § 107, and Is Noninfringing Under § 117 ............. 6 
+A. Accessing a Device’s Firmware to Unlock the Device Does Not Implicate § 106 
+Rights ........................................................................................................................... 6
+ 
+B. Unlocking a Mobile Device is a Fair Use Under § 107 ............................................... 7 
+C. Unlocking, Including Bulk Unlocking, Is Permitted Under 17 U.S.C. § 117 
+Because Consumers Own Their Device Software and Accessing the Software Is 
+an “Essential Step” ....................................................................................................... 9
+ 
+D. Legitimate Bulk Unlocking of Used Devices Is Equally Noninfringing and 
+Warrants Equal Coverage Under the Requested Exemption ..................................... 13
+ 
+E. Petitioner Seeks an Exemption for “Used” Devices .................................................. 14 
+F. Proposed Definition of “All-Purpose Tablet Computer” ........................................... 15 
+VI. Adverse Impact .................................................................................................................... 17 
+A. The Absence of an Unlocking Exemption Has Forced Consumers to Resell 
+Their Devices for Significantly Lower Prices, Has Reduced Consumer Choice 
+and Wireless Competition, and Has Adversely Affected Recyclers’ Ability to 
+Meet Consumer Demand and Obtain the Full Value of the Devices They Resell ..... 17
+ 
+B. Current Carrier Unlock Policies Do Not Obviate, But Rather Highlight, the 
+Need for an Exemption for Bulk Circumvention ....................................................... 19
+ 
+C. Availability of Unlocked Mobile Devices Is Not a Viable Alternative to 
+Circumvention ............................................................................................................ 22
+ 
+VII. All Relevant Statutory Factors Weigh in Favor of Granting an Exemption for Bulk 
+Unlocking ............................................................................................................................ 22 
+A. (i) The Availability for Use of Copyrighted Works ................................................... 22 
+B. (ii) The Availability for Use of Works for Nonprofit Archival, Preservation, and 
+Educational Purposes ................................................................................................. 23
+ 
+C. (iii) The Impact That the Prohibition on the Circumvention of Technological 
+Measures Applied to Copyrighted Works Has on Criticism, Comment, News 
+Reporting, Teaching, Scholarship, or Research ......................................................... 23
+ 
+D. (iv) The Effect of Circumvention of Technological Measures on the Market for 
+or Value of Copyrighted Works ................................................................................. 23
+ 
+E. (v) Such Other Factors as the Librarian Considers Appropriate ................................ 25 
+VIII. Conclusion ........................................................................................................................... 25 
+ 
+   ii 
+[PAGE 3]
+Petitioner Institute of Scrap Recycling, Inc. (“ISRI”) submits this comment in response to the 
+Copyright Office’s Notice of Proposed Rule Making1 (“NPRM”) in support of Proposed Class 12 
+and respectfully asks the Librarian of Congress to exempt this class of works from 17 U.S.C. 
+§ 1201(a)(1)’s prohibition on the circumvention of access control technologies for the period 2015-
+2018.  
+I. Commenter Information 
+ 
+Petitioner ISRI is a Washington, DC-based trade association representing more than 1,600 
+companies—ranging from small, family-owned businesses to large, multi-national corporations—
+operating at more than 3,500 facilities in the United States and 34 countries worldwide. ISRI 
+members are manufacturers and processors, brokers, and industrial consumers of scrap 
+commodities, including ferrous and nonferrous metals, paper, electronics, rubber, plastics, glass, 
+and textiles. 
+ 
+The U.S. electronics recycling industry has shown tremendous growth over the past 10 years. This 
+maturing segment of the scrap recycling industry provides a boost of approximately $19.2 billion, 
+including exports of $1.45 billion, to the U.S. economy (up from less than $1 billion in 2002) and 
+employs more than 45,000 full time employees (up from 6,000 in 2002).
+2In 2011, the U.S. 
+electronics recycling industry processed more than 4.4 million tons of used and end-of-life 
+electronics equipment.3 More than 70 percent of the collected equipment is manufactured into 
+specification grade commodities—including scrap steel, aluminum, copper, lead, circuit boards, 
+plastics, and glass. These valuable commodities are then sold to basic materials manufacturers in 
+the United States and globally as raw material feedstock for new products, such as steel, copper, 
+aluminum, plastic, and glass. 
+ 
+Electronics recyclers also repair, refurbish, and resell (recyclers) functioning electronics equipment 
+as used products into domestic and international markets. Recyclers also provide a number of 
+logistical services, like collection, storage, and transportation, as well as scrubbing hard drives of 
+sensitive personal and commercial data. While only 20-30% of the overall volume of devices 
+received by recyclers is sent for reuse, repair, and remanufacturing, the majority of revenue stems 
+from such use. According to a U.S. International Trade Commission report,
+4 in 2011, the total 
+domestic market was valued at $19.2 billion with reused technological devices, such as wireless 
+cellphones and tablets, accounting for $14.9 billion.  
+ 
+The industry is driven not only by devices originally purchased by individuals, but also by 
+equipment collected from businesses and commercial interests, comprising up to 75 percent of the 
+market on a volume basis. The electronics recycling industry is poised to meet the anticipated 
+increased demand for more used products and specification grade commodities. 
+ 
+1 Exemption to Prohibition on Circumvention of Copyright Protection Systems for Access Control Technologies, 79 
+Fed. Reg. 73,856 (Dec. 12, 2014) (to be codified at 37 C.F.R. pt. 201).  
+2 See The Scrap Recycling Industry: Electronics, ISRI, http://www.isri.org/docs/default-source/commodities/fact-sheet--
+-electronics.pdf?sfvrsn=6 (last visited Feb. 4, 2015). 
+3 Id. 
+4 Used Electronics Products: An Examination of U.S. Exports, Inv. No. 332-528, USITC Pub. 4,379 (February 2013) 
+(Final). 
+   1 
+                                                 
+[PAGE 4]
+ISRI advocates on behalf of its members on a variety of important issues directly and indirectly 
+impacting the recycling industry in Washington, DC, state capitals across the U.S., and 
+internationally.  
+ 
+Petitioner may be contacted through the above-identified counsel. 
+ 
+II. Proposed Class 12: Unlocking—All-Purpose Tablet Computers 
+ 
+Proposed Class: Computer programs, in the form of firmware or software, that enable all-purpose 
+tablet computers to connect to a wireless telecommunications network, when circumvention, 
+including individual and bulk circumvention for used devices, is initiated by the owner of any such 
+tablet, by another person at the direction of the owner, or by a provider of a commercial mobile 
+radio service or a commercial mobile data service at the direction of such owner or other person, 
+solely in order to enable such owner, family member of such owner, or subsequent owner or 
+purchaser of such tablet to connect to a wireless telecommunications network when such connection 
+is authorized by the operator of such network.
+5  
+ 
+This copyrighted work sought to be accessed, “computer programs, in the form of firmware or 
+software, that enable all-purpose tablet computers to connect to a wireless telecommunications 
+network,” is, like other computer programs, a “literary work” under 17 U.S.C. § 102. 
+ 
+III. Overview of Proposed Exemption 
+ 
+Petitioner seeks an exemption to the DMCA’s prohibition against circumvention of technological 
+measures that control access to computer programs that enable all-purpose tablet computers to 
+connect to wireless communications networks—a process commonly referred to as “unlocking.”
+6 
+These computer programs can be used, reprogrammed, adapted, or replaced in order to allow the 
+device to connect to the network of a different provider. However, mobile devices typically contain 
+a technological measure that prevents access to these programs and thereby “lock” the device onto 
+an initial provider’s network and prevent it from being connected to another network. 
+  
+Without a § 1201 exemption, owners of tablets and other mobile devices, including consumers, 
+family members, and legitimate recyclers, refurbishers, and remanufacturers (collectively, 
+“recyclers”) of used devices are substantially adversely affected in their ability to make a variety of 
+noninfringing uses of those devices and the software they contain. Recyclers are unable to engage in 
+noninfringing unlocking of devices for the benefit of consumers who are buying or selling used 
+devices; consumers are denied the ability to use their devices on the network of their choice and 
+denied the full benefit of choosing or selling used devices; consumers have more difficulty using 
+their devices when they travel; and competition between new and used devices and between 
+5 Petitioner notes that several other petitioners have included proposed class definitions. ISRI does not object to these 
+other definitions, as long as it is clear that the final definition includes the features described herein, including 
+permitting bulk unlocking and unlocking of unsubsidized devices.  
+6 This comment seeks an exemption under Proposed Class 12 for tablet computers. Petitioner is submitting a separate, 
+substantially similar comment for an exemption for wireless telephone handsets (under Proposed Class 11), given the 
+NPRM’s direction that each comment be limited to discussing one class of works. However, Petitioner believes that the 
+substance of the noninfringing uses, adverse effects, and other components of the requests for exemptions for both 
+categories of devices are substantially similar and could properly be combined in a single class and comment.  
+   2 
+                                                 
+[PAGE 5]
+networks is reduced.  While these adverse impacts have historically affected, and previous 
+rulemakings have addressed, wireless telephone handsets, increasingly tablet computers are being 
+sold that connect to wireless communications networks and are locked to a particular carrier.  The 
+need to unlock tablets, and the adverse impacts of not being able to do so, are substantially similar 
+to those for handsets. 
+ 
+In each of the last three § 1201 rulemakings, the Register has recommended and the Librarian has 
+approved exemptions for phone unlocking, though each has been increasingly narrow. After public 
+outcry regarding the very limited 2012 exemption, Congress responded by enacting the Unlocking 
+Consumer Choice and Wireless Competition Act (“Unlocking Act”),
+7 which repealed that 
+exemption, substituted the 2010 exemption, and directed the Register to consider proposals for cell 
+phone and other device unlocking—necessarily including tablet unlocking—as part of this current 
+rulemaking.8 The Unlocking Act also specified, and made permanent, that the circumvention it 
+restored, as well as future unlocking exemptions, may be initiated by “the owner of the handset or 
+device, by another person at the direction of the owner, or by a provider of commercial mobile radio 
+or data services to enable such owner or a family member to connect to a wireless network when 
+authorized by the network operator.”
+9  
+ 
+Petitioner’s requested exemption is substantially similar to that specified by Congress in the 
+Unlocking Act. Circumvention “by the owner” of a mobile device or by another “person at the 
+direction of the owner” includes by circumvention by recyclers of used devices, who are themselves 
+lawful owners of those devices. These recyclers engage in individual or bulk circumvention for the 
+purpose of unlocking those devices so they can then be connected to the wireless network chosen by 
+the recycler or by a subsequent owner. To avoid confusion on this point, the proposed class 
+requested in this comment explicitly states that the circumvention permitted includes individual and 
+bulk circumvention of used devices in order to enable the owner, and subsequent owners, to connect 
+to a network of their choice, although Petitioner believes this authority is already fully encompassed 
+by the language of the Unlocking Act. 
+ 
+In response to a 2013 “We The People” petition asking that unlocking be again made legal,
+10 the 
+White House concluded that using a mobile device on another network is “common sense, crucial 
+for protecting consumer choice, and important for ensuring we continue to have the vibrant, 
+competitive wireless market that delivers innovative products and solid service to meet consumers’ 
+needs.”
+11 More importantly, the response stressed that this common sense approach is “particularly 
+important for secondhand or other mobile devices that you might buy or receive as a gift, and want 
+to activate on the wireless network that meets your needs—even if it isn’t the one on which the 
+7 Pub. L. No. 113-144, 128 Stat. 1751 (Aug. 1, 2014); see Exemption to Prohibition on Circumvention of Copyright 
+Protection Systems for Access Control Technologies, 79 Fed. Reg. 55687 (September 17, 2014) [hereinafter NOI] at 
+55689 n.8 (“Congress enacted the Unlocking Act after public calls for a broader exemption than that provided in the 
+2012 rule.”). 
+8 Unlocking Act § 2(a); see NOI at 55688-89. 
+9 Unlocking Act §§ 2(a), (c); see NOI at 55688. 
+10 Make Unlocking Cell Phones Legal petition (January 24, 2013), available at 
+https://petitions.whitehouse.gov/petition/make-unlocking-cell-phones-legal/1g9KhZG7. 
+11 Official White House Response to “It’s Time to Legalize Cell Phone Unlocking”, available at 
+https://petitions.whitehouse.gov/response/its-time-legalize-cell-phone-unlocking. 
+   3 
+                                                 
+[PAGE 6]
+device was first activated. All consumers deserve that flexibility.”12 Congress, in passing the 
+Unlocking Act, contemplated that the exemption it restored would include bulk unlocking of used 
+devices, with the bill’s House sponsor, Rep. Goodlatte, stating, “this legislation is not intended to 
+impair unlocking related to . . . used phones by legitimate recyclers or resellers,”13 and the final 
+version of the Act removing prior language that had appeared to exclude bulk unlocking.14  
+ 
+IV. Technological Protection Measure and Methods of Circumvention 
+ 
+The Register has recognized in each of the last three rulemakings that computer programs, in the 
+form of software or firmware, that enable wireless devices to connect to a wireless 
+telecommunications network typically are protected by a technological protection measure (“TPM”) 
+or “lock.” Those basic facts have not changed and remain true today. These locks, embedded in the 
+device’s firmware or software, prevent the mobile device owner from gaining access to the settings 
+that control the networks to which the device will connect, thereby preventing the device from 
+being unlocked for the purpose of connecting to a different wireless telecommunications network 
+than the one for which the device was originally used.15 
+ 
+The wireless telecommunication network providers use various types of locks to restrict wireless 
+devices to the respective network. There are at least four commonly used device locks: 
+ 
+1. Service provider code (SPC) lock is typically used on code division multiple access 
+(CDMA) devices. The SPC is unique to the device and is generated by using the device’s 
+electronic serial number and the carrier’s algorithm. Unless the code is obtained, the user is 
+blocked from programming the device to work on another network.  
+2. System operator code (SOC) lock is assigned to a carrier. Unless the code programmed 
+into the device matches the code of the carrier, the devices remain locked and the code 
+cannot be reprogrammed for use on a different network.  
+3. Band order locking restricts devices to operate on certain frequencies.  
+4. Subscriber identity module (SIM) lock is built into the devices and restricts the devices to 
+only accept certain international mobile subscriber identities (ISMI). ISMIs can be restricted 
+by country code, network code, or device. 
+ 
+The primary purpose of these locks is to keep the wireless device locked to its original carrier and 
+prevent its owner from using it to access alternative, competing carriers’ networks. The specific 
+type of device lock in place does not alter the analysis in this comment; for any device locks 
+protected by a TPM, lawful circumvention is necessary to allow the device’s owner to unlock the 
+device and use it on another carrier. 
+ 
+12 Id. (emphasis added). 
+13 See 160 Cong. Rec., H1910 (daily ed. Feb. 25, 2014) (colloquy on House floor just before passag e of H.R. 1123) 
+(emphasis added).  
+14 Unlocking Consumer Choice and Wireless Competition Act, H.R. 1123, 113th Cong. § 2(c)(2) (2014) (“Nothing in 
+this subsection shall be construed in any rulemaking commenced on or after the date of enactment to permit the 
+unlocking of wireless handsets or other wireless devices, for the purpose of bulk resale, . . .”).  
+15 See, e.g., Exemption to Prohibition on Circumvention of Copyright Protection Systems for Access Control 
+Technologies, 75 Fed. Reg. 43,825, 43,830 (July 27, 2010) (codified at 37 C.F.R. 201.40) [hereinafter 2010 Final Rule]. 
+   4 
+                                                 
+[PAGE 7]
+The NPRM asks commenters also to describe the methods of circumvention to show their nature 
+and basic operation. First, it is important to recognize that while there are multiple ways locked 
+devices may unlocked, as described below, the circumvention methods remain fundamentally the 
+same for each. 
+ 
+Devices may be unlocked without circumvention in several ways: First, a device may be unlocked 
+with a model-specific code. By entering this code, a user can access built-in settings that control the 
+network lock and make appropriate changes to disable the lock. This type of unlocking is only 
+available in the less-common case where the device’s operating system has this functionality built 
+in and the codes for a given model are publicly available. Second, devices may be unlocked with a 
+device-specific code. This involves the cooperation of the original carrier, as the user must obtain 
+permission to unlock his or her individual device. As discussed in Section VI.B, carriers may apply 
+their own policies (or make arbitrary choices) in deciding whether to grant such permission. 
+Historically, this type of unlocking was performed by the user entering a device-specific unlocking 
+code, obtained from the carrier, into the device itself. More recently, carriers and manufacturers 
+have been shifting to “cloud locks,” in which the device contacts a server, owned by the carrier or 
+manufacturer, which provides the unlocking code directly if and only if approval has been given.
+16 
+For example, most iPhones can be unlocked by connecting the device to iTunes and receiving from 
+Apple (if it so chooses, consistent with its policies) a token to decrypt an encrypted token that 
+controls the lock on the device, thus permitting the user to connect to other networks. Finally, as 
+noted below in Section VII.B, the software on some devices simply does not have the built-in 
+capability to perform carrier unlocking. 
+  
+At a fundamental level, unlocking without using the above methods—which generally require the 
+assistance of (and are subject to interference from) the carrier or manufacturer—is the same for each 
+of the above types of locks: the device owner uses software tools to alter the settings that keep the 
+device restricting to a single carrier. Occasionally, this software does not need to circumvent any 
+TPMs in order to change the device settings. Many tablets and other devices, however, contain 
+TPMs designed to make it difficult to access these settings without carrier assistance. In these cases, 
+the tools must circumvent these TPMs in order to get access to the locking settings. This can be 
+accomplished in a number of ways.
+17 In some cases, external software can circumvent the TPM and 
+directly change the relevant setting or cause the device to run code to change the setting—usually 
+by modifying a variable or replacing a short piece of code. In others, the operating system of the 
+device must be temporarily altered to permit new software to run on the device itself and modify the 
+relevant setting; typically, the software is then returned to its original condition. In either case, the 
+software often must make use of security defects in the device in order to run software or make 
+changes that the carrier and manufacturer have not approved. But it does not matter whether the 
+device would “normally” be unlocked via a device-specific code or cloud-based permissions, or 
+even whether the device does not come with software to control the locking; for the purposes of 
+§ 1201, the circumvention process remains the same. 
+16 Separately, some manufacturers implement “device locks” that prevents access to the entire device, typically if it is 
+lost or stolen or if it is resold without being first unlocked. See, e.g., Find My iPhone Activation lock, 
+http://support.apple.com/en-us/HT201365. 
+17 Examples of third-party tools include ultraSn0w and Universal Advance Unlocker. See, e.g. , Cody Lee, Ultra Sn0w 
+Update for iOS 6.1, IDOWNLOADINGBLOG.COM (Feb. 7, 2013), http://www.idownloadblog.com/2013/02/07/ultrasn0w-
+updated-for-ios-6; Informer Technologies Inc., Universal Advance Unlocker, SOFTWARE.INFORMER.COM, 
+http://universal-advance-unlocker.software.informer.com1/. 
+   5 
+                                                 
+[PAGE 8]
+  
+V. Noninfringing Uses: Unlocking, Including Bulk Unlocking, Does Not Implicate any 
+Copyright Interests, Is a Fair Use Under § 107, and Is Noninfringing Under § 117  
+ 
+Modifying the software within a mobile device for the purpose of unlocking the device for use on 
+another carrier involves a process that generally does not infringe the copyright in any 
+copyrightable work. Unlocking also qualifies as a noninfringing fair use under 17 U.S.C. § 107. 
+Unlocking also is noninfringing under 17 U.S.C. § 117.  
+  
+A. Accessing a Device’s Firmware to Unlock the Device Does Not Implicate § 106 Rights 
+ 
+As the Register and Librarian determined in previous rulemakings, and Congress effectively 
+concurred in the Unlocking Act, using the software or firmware on a mobile device to unlock that 
+device does not infringe any rights under 17 U.S.C. § 106, and the purpose of the TPM is to lock 
+consumers into a particular network rather than to protect copyright interests. Thus, modifying the 
+locking software is not a use that infringes or implicates copyright in the first instance. Although 
+Petitioner’s comment addresses each of the issues and answers each of the questions specified in the 
+NPRM, we note that the absence of “copyright infringement or . . . an activity that in any way 
+implicates copyright infringement or the interests of the copyright holder”
+18 in unlocking should 
+alone constitute sufficient grounds for the proposed exemption without any further showing. 
+Unlocking simply is not a copyright issue and should not be a § 1201 issue. 
+ 
+As the Register correctly recognized in her 2010 recommendation: 
+ 
+[T]he primary purpose of the locks is to keep consumers bound to their existing 
+networks, rather than to protect the rights of copyright owners in their capacity as 
+copyright owners. . . . Because there appear to be no copyright-based reasons why 
+circumvention under these circumstances should not be permitted, the Register 
+recommends that the Librarian designate a class of works similar to the class 
+designated in 2006. The designated classes, both [2006 and 2009], simply reflect a 
+conclusion that unlocking a mobile phone to be used on another wireless network 
+does not ordinarily constitute copyright infringement and that Section 1201(a)(1), a 
+statute intended to protect copyright interests, should not be used to prevent mobile 
+phone owners from engaging in such noninfringing activity.
+19 
+ 
+The Librarian, in the 2006 Final Rule, reached a similar conclusion about the non-copyright 
+purposes of handset locks, technology protection measures (“TPMs”) that have “nothing 
+whatsoever to do with the interests protected by copyright,” finding that a user who unlocks a 
+wireless handset to connect is not  
+ 
+18 Exemption to Prohibition on Circumvention of Copyright Protection Systems for Access Control Technologies , 71 
+Fed. Reg. 68472, 68476 (Nov. 20, 2006) (formerly codified at 37 C.F.R. 201.40) [hereinafter 2006 Final Rule]. 
+19 Recommendation of the Register of Copyrights in RM 2008-8, Rulemaking on Exemptions from Prohibition on 
+Circumvention of Copyright Protection Systems for Access Control Technologies, 152-153 (June 11, 2010) (emphasis 
+added) [hereinafter 2010 Recommendation], available at www.copyright.gov/1201/2010/initialed- registers-
+recommendation-june-11-2010.pdf. 
+   6 
+                                                 
+[PAGE 9]
+engaging in copyright infringement or in an activity that in any way implicates 
+copyright infringement or the interests of the copyright holder [and that] the access 
+controls do not appear to actually be deployed in order to protect the interests of the 
+copyright owner or the value or integrity of the copyrighted work; rather, they are 
+used by wireless carriers to limit the ability of subscribers to switch to other carriers, 
+a business decision that has nothing whatsoever to do with the interests protected by 
+copyright.
+20 
+ 
+These conclusions reflect that software or firmware modifications necessary to unlock a device are, 
+by their nature, noninfringing. For instance, unlocking via modification of a few digits in the 
+underlying firmware to make a device operable on another network does not implicate protectable 
+work. Those functional portions of the firmware are “uncopyrightable data that the computer 
+program interacts with in order to perform a particular task . . . [and] such changes do not constitute 
+copyright infringement.”
+21 The Register in 2010 aptly characterized these digits as functional 
+variables and analogized those variables to the song “Happy Birthday”—while the name used in the 
+song, like the variables or digits, may change, the underlying, protectable song (firmware) remains 
+unchanged and continues to function.22  
+ 
+B. Unlocking a Mobile Device is a Fair Use Under § 107 
+ 
+To the extent a circumvention method implicates any § 106 rights, accessing and altering the 
+firmware on a mobile device for the purpose of switching carriers qualifies as a fair use and is 
+therefore noninfringing under 17 U.S.C. § 107. The Copyright Act requires consideration of four 
+factors to determine if a use is fair use, including: (1) the purpose and character of the use, including 
+whether such use is of a commercial nature or is for nonprofit educational purposes; (2) the nature 
+of the copyrighted work; (3) the amount and substantiality of the portion used in relation to the 
+copyrighted work as a whole; and (4) the effect of the use upon the potential market for or value of 
+the copyrighted work.
+23 All four fair use factors weigh strongly in favor of mobile device unlocking 
+being a fair use.  
+ 
+First, the purpose of the use is simply to make nominal, functional changes to the carrier locking 
+firmware or software, or to replace it, for the sole purpose of allowing a user to connect the mobile 
+device to another carrier’s network. Several courts have recognized fair use where a party copied 
+software merely to enable software and device interoperability.
+24 These courts recognize that while 
+software may have expressive (protected) content, modification of that expressive content may be 
+20 2006 Final Rule at 68476. 
+21 See 2010 Recommendation at 134. 
+22 See id. 
+23 17 U.S.C. § 107(1)-(4). 
+24 See Sega Enterprises Ltd. v. Accolade, Inc., 977 F.2d 1510, 1520 (9th Cir. 1992) (“Because . . . disassembly is the 
+only means of gaining access to those unprotected aspects of the program, and because Accolade has a legitimate 
+interest in gaining such access (in order to determine how to make its cartridges compatible with the Genesis console), 
+we agree with Accolade.”); see also Sony Computer Entm't, Inc. v. Connectix Corp., 203 F.3d 596, 602-03 (9th Cir. 
+2000) (“We conclude that, under the facts of this case and our precedent, Connectix's intermediate copying and use of 
+Sony's copyrighted BIOS was a fair use for the purpose of gaining access to the unprotected elements of Sony's 
+software.”). 
+   7 
+                                                 
+[PAGE 10]
+necessary to enable public access to the software’s functional (unprotected) content.25 Moreover, 
+such an alteration is transformative and does not “merely supersede the objects of the original 
+creation”26 because the alteration only changes certain functional portions of the original work and 
+thereafter works with, not supersedes, the original software. Such an alteration is transformative 
+because it “adds something new, with a further purpose or different character, altering the first with 
+new expression, meaning, or message.”27  
+ 
+Here, unlocking “alters the first” software, which locks the device to a particular mobile carriers, 
+“with a further purpose” of allowing the device to connect to other mobile carriers. Essentially the 
+use that is made has the opposite purpose of the original purpose, a highly transformative action. 
+Even if an unlocking method required making an exact copy of the firmware, “making an exact 
+copy of a work may be transformative so long as the copy serves a different function than the 
+original work.”
+28 Finally, while the proposed use may be related to a commercial purpose—selling 
+or recycling unlocked devices—that commercial aspect is fairly attenuated from the unlocking use 
+of the firmware or software and does not involve selling copies or derivative works of it other than 
+as a tiny component of a used device,
+29 and the public benefit of unlocking is substantial.30 
+ 
+Second, the nature of the copyrighted work is functional software. Works that have strong 
+functional or practical elements are subject to less copyright protection than more creative works.31 
+Indeed, most unlocking methods only involve the highly functional portions of the software—such 
+as carrier code variables—which are not eligible for copyright protection in the first place. With 
+regard to computer programs, “fair use doctrine preserves public access to the ideas and functional 
+elements embedded in copyrighted computer software programs.”32 
+Third, unlocking methods, such as reflashing, only interact with certain codes or variables that 
+represent a tiny component of the software stored or embedded on the tablet. To the extent an 
+unlocking method creates a derivative work of parts of the software, the changes are limited to the 
+portion of the software that prevents unlocking—while the vast remainder of the software remains 
+undisturbed and allows the device to continue functioning as intended. Moreover, even if an 
+unlocking method must create an interim copy of the software, creating such a copy is a fair use 
+because it is “‘necessary’ to gain access to the functional elements of the software itself.”
+33 This 
+factor favors fair use because “no more was taken than necessary.”34 
+ 
+25 See, e.g., Atari Games Corp. v. Nintendo of Am. Inc., 975 F.2d 832, 843 (Fed. Cir. 1992) (Any reproduction of 
+protectable expression must be strictly necessary to ascertain the bounds of protected information within the work.). 
+26 Campbell v. Acuff-Rose Music, Inc., 510 U.S. 569, 579 (1994). 
+27 Id. 
+28 Perfect 10, Inc. v. Amazon.com, Inc., 508 F.3d 1146, 1165 (9th Cir. 2007). 
+29 See Sega Enters. Ltd., 977 F.2d at 1523-1524 (“[W]e conclude that Accolade copied Sega's code for a legitimate, 
+essentially non-exploitative purpose, and that the commercial aspect of its use can best be described as of minimal 
+significance.”). 
+30 Id. at 1523 (“[W]e are free to consider the public benefit resulting from a particular use notwithstanding the fact that 
+the alleged infringer may gain commercially.”). 
+31 See id. at 1524, citing Baker v. Selden, 101 U.S. 99, 104 (1879). 
+32 Lexmark Int’l Inc. v. Static Control Components, Inc., 387 F.3d 522, 537 (6th Cir. 2004), citing Sony Computer 
+Entm't, Inc. at 603. 
+33 Sony Computer Entm't, Inc., 203 F.3d at 602-03, citing Sega Enters. Ltd., 977 F.2d at 1524-26 (amended opinion). 
+34 Authors Guild, Inc. v. HathiTrust, 755 F.3d 87, 98 (2d Cir. 2014), citing Campbell, 510 U.S. at 589. 
+   8 
+                                                 
+[PAGE 11]
+Fourth, unlocking has no negative effect on the market or value for the mobile device’s carrier 
+locking software. Quite the opposite: the ability to lawfully unlock mobile devices likely increases 
+the value of those devices (including the embedded software) because the owner gains the ability to 
+switch to a preferred carrier and because the resale value of the device increases. The modified 
+software at issue here is in no way being offered to the market of device makers such that it could 
+usurp the original market. Even if unlocking somehow threatened the carriers’ business model of 
+controlling when—and if—they will unlock mobile devices and allow consumers the choice of 
+using their devices on competing networks, “copyright law . . . does not confer such a monopoly.”
+35 
+  
+C. Unlocking, Including Bulk Unlocking, Is Permitted Under 17 U.S.C. § 117 Because 
+Consumers Own Their Device Software and Accessing the Software Is an “Essential 
+Step” 
+ 
+Even if the unlocking at issue here did implicate copyright interests and was not noninfringing fair 
+use, it would be lawful under 17 U.S.C. § 117. Specifically § 117(a)(1) permits the owner of a copy 
+of a program to make such a copy or adaptation if it is created “as an essential step in the utilization 
+of the computer program in conjunction with a machine.”
+36  
+ 
+A mobile device owner, whether they are an individual or a recycler (both of whom own the devices 
+they possess), falls within the § 117 exception when they are the owner of the copy of the software 
+within that mobile device. As the Register recognized in 2012, and as continues to be the case, at 
+least some significant portion of cellular wireless network users own the copies of the software 
+contained within their mobile devices and accessed in the course of unlocking those devices.
+37 
+While there remains no uniform legal standard for distinguishing licenses from sales of software, if 
+anything, more mobile device-owners today own their mobile software copies than in 2012. The 
+existence of a substantial subset of mobile device users who clearly own the software on their 
+devices is sufficient to again conclude, as the Register did in 2012, that § 117 permits unlocking.
+38  
+ 
+Since the most recent DMCA triennial proceeding, several district courts in different circuits have 
+adopted the Second Circuit approach from Krause v. Titleserv, Inc. and rejected the more restrictive 
+Vernor approach.
+39 Indeed, the “better view,” endorsed by Nimmer on Copyright, is the Second 
+Circuit’s common-sense observation in Krause:  
+35 Sony Computer Entm't, Inc., 203 F.3d at 607, citing Sega Enters. Ltd., 977 F.2d at 1523-1524 (“[A]n attempt to 
+monopolize the market by making it impossible for others to compete runs counter to the statutory purpose of 
+promoting creative expression and cannot constitute a strong equitable basis for resisting the invocation of the fair use 
+doctrine.”); see also Lexmark Int'l Inc., 387 F.3d at 545 (“Lexmark's market for its toner cartridges and the profitability 
+of its Prebate program may well be diminished by the SMARTEK chip, but that is not the sort of market or value that 
+copyright law protects.”). 
+36 See, e.g., 2010 Final Rule at 43831. 
+37 Recommendation of the Register of Copyrights in RM 2011-7, Rulemaking on Exemptions from Prohibition on 
+Circumvention of Copyright Protection Systems for Access Control Technologies, 93 (Oct. 28, 2012) [hereinafter 2012 
+Recommendation], available at 
+http://www.copyright.gov/1201/2012/Section_1201_Rulemaking_2012_Recommendation.pdf .  
+38 Bulk recyclers are owners in the same way as are individual consumers. 2012 Recommendation at 93 ( “in view of the 
+legal uncertainty, the record compels a finding that some subset of wireless customers —that is, anyone considered to 
+own the software on their phones under applicable precedent—is entitled to exercise the Section 117 privilege.”).  
+39 See, e.g., Princeton Payment Solutions, LLC v. ACI Worldwide, Inc., No. 1:13-CV-852, 2014 WL 4104170 at *7 
+(E.D. Va. Aug. 15, 2014) (“Although the Fourth Circuit has not announced a test for copyright ownership under § 117, 
+   9 
+                                                 
+ 
+[PAGE 12]
+ 
+[I]t seems anomalous for a user whose degree of ownership of a copy is so complete 
+that he may lawfully use it and keep it forever, or if so disposed, throw it in the trash, 
+to be nonetheless unauthorized to fix it when it develops a bug, or to make an 
+archival copy as backup security.40 
+ 
+While Krause addressed ownership in a discrete software program, the same logic applies even 
+more strongly to ownership of the copy of software in a mobile device because that software is 
+essential to the functioning of the device and there is no question that the user or recycler owns the 
+device.  
+ 
+Krause: The non-exclusive factors articulated in Krause support this common-sense observation for 
+mobile device software or firmware. These factors, noted in the Register’s 2010 Recommendation, 
+include: (1) whether substantial consideration was paid for the copy; (2) whether the copy was 
+created for the sole benefit of the purchaser; (3) whether the copy was customized to serve the 
+purchaser’s use; (4) whether the copy was stored on property owned by the purchaser; (5) whether 
+the creator reserved the right to repossess the copy; (6) whether the creator agreed that the purchaser 
+had the right to possess and use the programs forever regardless of whether the relationship between 
+the parties terminated; and (7) whether the purchaser was free to discard or destroy the copy 
+anytime it wished.
+41 
+ 
+First, purchasers of mobile devices pay considerable prices, such as in up-front and/or monthly 
+subsidy payments, to mobile carriers for ownership of their devices, which includes the underlying 
+software and firmware the devices require to be operable; no one would spend hundreds of dollars 
+for an inoperable piece of hardware.
+42 Second, each copy of the software is created for the sole 
+benefit of the owner of the mobile device on which it is stored since it is used only on that device by 
+that owner to connect to the network; that particular copy could not benefit anyone else. Third, it 
+does not appear that carriers customize software for particular owners or users of a mobile device. 
+Fourth, the copies of the software are stored on the mobile device owned by the user or recycler, not 
+on some remote server controlled by the carriers.  
+ 
+Fifth, there is no credible evidence that carriers reserve in any meaningful way the right to repossess 
+the copy of the software because purchasers remain free to—and do, by the millions—discard, 
+destroy, give away or sell their mobile device and, along with them, the copy of the software 
+embedded or stored on them. Indeed, while the boilerplate terms and conditions of some carriers 
+purport to reserve the right to revoke a user’s software license,
+43 there is no indication that any 
+carrier requires or has ever required a subsequent purchaser—before transfer—to wipe the device’s 
+software, return the device to the carrier for software extraction, or otherwise deactivate the copy of 
+the Second Circuit's reasoning in Krause v. Titleserv, Inc., is persuasive.”); ZilYen, Inc. v. Rubber Mfrs. Ass'n, 935 F. 
+Supp. 2d 211, 219 (D.D.C. 2013) (“This Court finds the Second Circuit's reasoning persuasive.”). 
+40 Melville B. Nimmer, Nimmer on Copyright, 2-8 § 8.08, citing Krause v. Titleserv, Inc., 402 F.3d 119, 123 (2d Cir. 
+2005). 
+41 2010 Recommendation at 126; Krause, 402 F.3d at 124. 
+42 While some devices may be subsidized by the carriers compared to unlocked versions, carriers recoup this subsidy 
+either through a purchaser’s (a) completion of his contract or (b) payment of early termination fees.  
+43 See, e.g., Sprint Terms & Conditions, Software License, SPRINT, 
+https://shop2.sprint.com/en/legal/os_general_terms_conditions_popup.shtml (last visited Jan. 27, 2015).  
+   10 
+                                                                                                                                                                  
+[PAGE 13]
+the software on the mobile device. Instead, millions of devices are sold or transferred without any 
+relicensing or replacement of their software whatsoever.  
+ 
+Sixth, it appears that no carrier agreement suggests that a device owner would not be able to keep 
+and use the software indefinitely. While some carriers reserve the right to terminate service to a 
+purchaser, Petitioner is not aware of any reported case or instance where, upon service termination, 
+the copy of the firmware or software on the device was requested for return, deleted, deactivated, or 
+otherwise made inoperable. Seventh, there is simply no evidence and no reason to believe that any 
+carriers actually restrict, or have ever interfered with, a purchaser’s freedom to discard or destroy 
+her device and the software on it. 
+ 
+Thus, six of the seven Krause factors support the conclusion that a device’s owner also owns the 
+software or firmware on that device. 
+ 
+Vernor: Even if the more restrictive standard articulated by the Ninth Circuit in Vernor v. Autodesk, 
+Inc.,44 were to be applied, the licenses offered by the mobile carriers do not meet the three required 
+criteria and the device owner should remain the owner of the software on that device. First, it is far 
+from clear that all U.S. carriers specify that a user is granted a license to the software in their mobile 
+device. While some major carriers’ terms of use specify that a license is granted, there are over 100 
+U.S. carriers45 that may offer different terms of use. Under any scenario, similar to the finding of 
+the Register in 2012, at least a subset of mobile device owners will own the copies of the software 
+in their devices.
+46 Second, the purported licenses do not significantly restrict the user's ability to 
+transfer the software;47 in practice purchasers remain free to sell or otherwise dispose of their 
+devices on which the software resides and millions have done so.48 Third, at least some carriers do 
+not impose “notable” use restrictions beyond general prohibitions of infringement of intellectual 
+property rights or use of their services for abusive or illegal activity.49 Such use restrictions can 
+hardly be called “notable,” especially since the remaining uses allowed are expansive.50 Indeed, just 
+as the Register noted in 2012, “none of the agreements cited appear to contain restrictions as 
+stringent as those in Vernor.”
+51  
+44 621 F.3d 1102, 1111 (9th Cir. 2010). 
+45 Derek Khana, Unlocking Petition Makes Legislative History, TECHCRUNCH (Aug. 5, 2014), 
+http://techcrunch.com/2014/08/05/unlocking-petition-makes-legislative-history; see also List of GSM and CDMA 
+Networks and Carriers in the US, http://www.ebay.com/gds/GSM-and-CDMA-Guide-/10000000009189079/g.html (last 
+visited Feb. 3, 2015). 
+46 2012 Recommendation at 93. 
+47 Id. (emphasis added). 
+48 For example, while Verizon purports to own the software copy on the devices it sells, it freely offers a program reset 
+code if a user wishes to use his non-SIM card device on another carrier. Verizon Customer Agreement, VERIZON 
+WIRELESS, 
+https://www.verizonwireless.com/b2c/globalText?textName=CUSTOMER_AGREEMENT&jspName=footer/customer
+Agreement.jsp (last visited Jan. 27, 2015). 
+49 T-Mobile Terms & Conditions, 18. * Misuse of Service or Device; 20. * Intellectual Property, T -MOBILE, 
+https://www.t-mobile.com/Templates/Popup.aspx?PAsset=Ftr_Ftr_TermsAndConditions&print=true (last visited Jan. 
+27, 2015); Sprint Terms & Conditions, Prohibited Network Uses, SPRINT, 
+https://shop2.sprint.com/en/legal/os_general_terms_conditions_popup.shtml (last visited Jan. 27, 2015). 
+50 See, e.g., Sprint Terms & Conditions, Prohibited Network Uses, SPRINT, 
+https://shop2.sprint.com/en/legal/os_general_terms_conditions_popup.shtml (last visited Jan. 27, 2015) . 
+51 2012 Recommendation at 92 fn. 504, citing 621 F.3d at 1104-05 (describing activation codes and license tracking); 
+id. at 1105 (describing “required destruction of copies of previous versions” of the software).  
+   11 
+                                                 
+[PAGE 14]
+ 
+Essential step: The second prong of § 117(a)(1) is easily satisfied by unlocking. Even if accessing 
+the software or firmware to unlock the device onto another mobile service provider were deemed to 
+require making an “adaptation,” of the copy of that software, such adaptation plainly is an “essential 
+step in the utilization of the computer program in conjunction with a machine.”52 There is no other 
+way to unlock the firmware for use with another mobile service provider besides circumventing the 
+TPM and making appropriate changes to the software to unlock the device. Thus, any temporary 
+adaptations made during the unlocking process are an “essential step” to use the computer program 
+(device software) in conjunction with a machine (the device) to unlock the device.  
+ 
+As the Register correctly concluded in 2012—for the second time:  
+ 
+[m]odifications to the firmware or software on the phone may be necessary to make 
+the device functional with another service and better serve the legitimate needs of the 
+consumer. From a copyright perspective, these individual changes benefit the 
+purchaser despite the fact that some wireless carriers would like to have complete 
+control over the device by restricting its use to their service. But this was precisely 
+the concern that was expressed in many parts of the CONTU Report – that protection 
+for computer programs had the capacity to lead to anti-competitive practices and that 
+the use of copyright in computer programs was a means to that anti-competitive 
+end.
+53 
+ 
+The conditions that warranted this conclusion continue to exist today and it remains true and 
+persuasive. 
+ 
+Thus, § 117 plainly applies to consumers or recyclers unlocking the wireless devices they own, 
+individually or in bulk. To the extent the process of unlocking makes an exact copy of the carrier 
+locking software or firmware, or simply “flips (uncopyrightable) switches” built into the software to 
+remove the carrier lock and unlock the device, the device can be resold or otherwise transferred by 
+the owner consistent with § 117(b). Further, to the extent that any adaptations made during the 
+process of unlocking are temporary—as is often the case—they are not transferred and do not 
+interfere with the device owner’s ability to lawfully resell it under that section. 
+ 
+Unlocking Act: Finally, the Unlocking Act expressly provides that circumvention of a TPM to 
+unlock a mobile device “may be initiated by the owner of any such handset or other device.”54 This 
+language demonstrates Congress’s recognition that lawful owners of a mobile device or their agents 
+have the legal right to circumvent a technological measure to unlock their device for use on the 
+carrier of their choice. The Unlocking Act makes no mention of the owner of the device’s 
+underlying software. The Act should properly be read as Congress’ determination that the unlocking 
+that Petitioner seeks here should be lawful, whatever the precise legal ownership status of software 
+and firmware on the unlocked devices.  
+ 
+52 17 U.S.C. § 117(a)(1). 
+53 2012 Recommendation at 93, citing 2010 Recommendation at 137. 
+54 Unlocking Act § 2(c)(2). 
+   12 
+                                                 
+[PAGE 15]
+D. Legitimate Bulk Unlocking of Used Devices Is Equally Noninfringing and Warrants 
+Equal Coverage Under the Requested Exemption 
+ 
+The NPRM asks commenters to address the practice and market effects of “bulk circumvention” (or 
+unlocking), and whether the exemption should address “bulk circumvention.”  
+The requested exemption should apply equally to circumvention carried out by individual owners 
+and that carried out in bulk by recyclers such as ISRI’s members.  
+ 
+Bulk unlocking is no different than individual consumer unlocking at the copyright level,
+55 but is 
+significantly different on the level of consumer benefit. Bulk unlocking allows recyclers to increase 
+the prices consumers receive when they sell their used mobile devices, removing the current price 
+disparity between locked versus unlocked devices, without burdening consumers with the 
+cumbersome, frustrating, often-unsuccessful, and sometimes-impossible task of unlocking the 
+devices themselves.56 This results in a greater variety and number of unlocked devices for 
+consumers to choose from and more devices remaining operational and available in the 
+marketplace. It also results in increased valuable competition between new and used devices and 
+between wireless networks. As the White House noted upon passage of the Unlocking Act, its goal 
+in reinstating the unlocking exemption was “to ensure copyright law does not undermine wireless 
+competition.”57  
+ 
+Treating bulk unlocking by legitimate recyclers as lawful to the same extent as individual unlocking 
+is an important means of ensuring these goals. The exemption proposed here is necessary to permit 
+recyclers to engage in bulk unlocking of lawfully acquired devices without the uncertain and 
+difficult process of trying to obtain carrier permission or requiring each individual or corporate 
+seller to navigate complex and burdensome carrier procedures or technical workarounds as 
+prerequisites to accepting the device. Without a § 1201 exemption, wireless network providers can 
+thwart these consumer benefits and restrain competition by refusing to unlock devices, unlocking 
+devices only for individuals, or imposing significant limits on how many devices can be unlocked 
+and under what circumstances.
+58  
+ 
+The Librarian of Congress explained under the 2010 determination, which approved the exemption 
+that was later reinstated by the Unlocking Act, that: 
+ 
+The type of commercial activity that would be permitted would be the resale of used 
+handsets after the owners of the handsets have used them and then given or sold 
+55 It would generally involve the same methods used to unlock a single mobile device, just on a larger scale.  
+56 Declaration of Chris Sullivan, President & Chief Executive Officer, Gazelle (attached to comment of eBay, Inc., and 
+Gazelle, Inc.) at ¶8-10 [hereinafter Sullivan Declaration].  
+57 Office of the Press Secretary, Statement from the President on Unlocking Consumer Choice and Wireless 
+Competition Act, WHITEHOUSE.GOV, http://www.whitehouse.gov/the-press-office/2014/07/25/statement-president-
+unlocking-consumer-choice-and-wireless-competition-a (last visited Jan. 27, 2015) (emphasis added). 
+58 For example, prior to October 2013, AT&T limited the total number of devices an individual could unlock to five, 
+and stipulated that an individual could not unlock more than one device in twelve months. See, e.g. , Request a Device 
+Unlock for Your AT&T Mobile Devices (Phones and Tablets), AT&T, 
+http://wayback.archive.org/web/20141118085611/ https://www.att.com/deviceunlock/client/en _US (November 18, 
+2014). Similarly, T-Mobile currently limits the number of devices that can be unlocked to two per line in twelve 
+months. See, e.g., Unlock Your Mobile Wireless Device, T-MOBILE, https://support.t-mobile.com/docs/DOC-1588 (last 
+visited Jan. 22, 2015). 
+   13 
+                                                 
+[PAGE 16]
+them to somebody else, who then resells them just as a used bookstore sells used 
+books.59  
+ 
+Recyclers must be free to circumvent wireless device carrier locks in bulk in order to most 
+efficiently buy and sell used devices, like used bookstores buy and sell books, without the 
+need to rely on carriers.  
+ 
+Congress, for its part, contemplated that the exemption it restored would include bulk 
+unlocking of used devices. In the final wording of the version of the Unlocking Act that 
+became law, negotiators removed strongly criticized language
+60 from the House bill that 
+might appear to limit bulk unlocking61 and replaced that language with a general savings 
+clause that contained no suggestion of precluding bulk unlocking by resellers.62 It is 
+essential to ensure that any new unlocking exemption permits legitimate recyclers to unlock 
+lawfully acquired wireless devices for the benefit of consumers and the recyclers businesses, 
+whether it is done individually or in bulk. 
+ 
+E. Petitioner Seeks an Exemption for “Used” Devices 
+ 
+The NPRM also asks whether the exemption should be limited to “used” tablets, and, if so, what 
+would qualify a tablet as “used.” 
+ 
+Petitioner’s member companies purchase or receive donated used tablets. They seek to prolong the 
+life of mobile devices through refurbishing, resale, or recycling. Importantly, ISRI members do not 
+purchase new, unused tablets from carriers or retailers, but rather only used tablets from prior 
+individual or corporate owners. While Petitioner’s comment seeks only an exemption for unlocking 
+of used devices, Petitioner would not oppose a broader exemption that permitted unlocking of new 
+devices under appropriate circumstances. 
+ 
+Petitioner proposes that “used” be defined for purposes of this proposed exemption as: 
+ 
+An all-purpose tablet computer that has been lawfully acquired and activated on the 
+wireless telecommunications network
+63 of a carrier. 
+ 
+The Register’s 2010 Recommendation defined “used” somewhat more narrowly, as: 
+59 2010 Final Rule at 43,831-32. 
+60 See Corynne McSherry, The Wrong Tool for the Job: Cell Phone Unlocking Bill Creates New Problems , ELECTRONIC 
+FRONTIER FOUNDATION (Feb. 23, 2014), https://www.eff.org/deeplinks/2014/02/wrong-tool-job-cell-phone-unlocking-
+bill-fixes-wrong-problem-and-creates-new-ones. 
+61 See Unlocking Consumer Choice and Wireless Competition Act, H.R. 1123 § 2(c)(2), 113th Cong. (2014) (“Nothing 
+in this subsection shall be construed in any rulemaking commenced on or after the date of enactment to permit the 
+unlocking of wireless handsets or other wireless devices, for the purpose of bulk resale, . . . ”); but see  160 Cong. Rec., 
+H1910 (daily ed. Feb. 25, 2014) (in colloquy on House floor just before passage of H.R. 1123, the bill’s sponsor Rep. 
+Goodlatte stated that “this legislation is not intended to impair unlocking related to family plans consisting of a small 
+number of handsets or of used phones by legitimate recyclers or resellers.”) (emphasis added). 
+62 Unlocking Act § (d)(1) (“Except as expressly provided herein, nothing in this Act shall be construed to alter the scope 
+of any party’s right under existing law.”). 
+63 “Wireless telecommunications network” as defined in S.517—Unlocking Consumer Choice and Wireless 
+Competition Act § (e)(2). 
+   14 
+                                                 
+[PAGE 17]
+ 
+a mobile phone that has been activated with the carrier or provider that sold the 
+phone at a subsidized price and that the person activating the phone must actually 
+have used on the carrier’s network.
+64 
+ 
+This definition, however, is too limited for current wireless device market conditions. It does not 
+include instances where a carrier has sold a device at full price rather than at a subsidized price and 
+the lawful purchaser of that device subsequently chooses to sell or give it away.
+65 This is 
+particularly true in the tablet context, where many or most devices are sold at a non-subsidized 
+rate.66 As pricing models shift but carrier locks persist, the definition of “used” devices must be 
+adapted to reflect that shift.  
+ 
+Importantly, Petitioner’s focus on unlocking of used mobile devices, and the proposed definition of 
+“used” above, eliminates any concern about device traffickers misusing the proposed exemption. 
+Traffickers purchase new, typically low cost handsets or other devices that are either subsidized or 
+prepaid,
+67 then unlock the devices and sell them in the United States and or other countries without 
+the device ever being activated on a network or the subsidy being repaid. Petitioner and its members 
+do not condone this type of activity. The definition of “used” proposed here includes the 
+requirement that a device have been “activated on the wireless network” in order to exclude this sort 
+of arbitrage from the scope of the requested exemption.68 The Register in 2010 concluded that 
+similar limitations “ensure that the designation of this class will not benefit those who . . . purchase 
+new mobile phone handsets at subsidized prices and, without actually using them on the networks of 
+the carriers who market those handsets, resell them for profit.”69  
+F. Proposed Definition of “All-Purpose Tablet Computer”  
+ 
+The Register has requested a definition for “all-purpose tablet computer,” hereinafter “tablet.” 
+There is no generally agreed-upon definition for the term, in part because, as explained below, there 
+are no definite, consistent, bright dividing lines between tablets and wireless telephone handsets on 
+one end, and between tablets and laptop computers (“laptops”) on the other end. Any definition is 
+likely to be either over-inclusive or under-inclusive. As a result, Petitioner submits that it would be 
+more appropriate for the exemptions for tablets and wireless handsets to mirror the definition 
+provided by Congress in the Unlocking Act, resulting in a single class encompassing wireless 
+devices generally
+70:  
+ 
+64 See 2010 Recommendation at 169. 
+65 See, e.g., http://www.att.com/wireless/iphone/#fbid=Bf31b70t7eQ (last visited Feb. 5, 2015). 
+66 See, e.g., http://techcrunch.com/2012/07/03/verizon-wireless-stops-subsidizing-tablets-now-selling-them-at-full-
+retail-sans-wireless-contract/  
+67 See, e.g., http://www.tracfone.com. 
+68 Petitioners also note that there is no reason for concern under this definition for devices initially sold at lower prices 
+where the full cost is subsidized through a fixed-period contract with the carrier, even where the initial owner of the 
+device chooses to sell or give it away before the expiration of the contract. While the requested exemption would allow 
+such used devices to be unlocked, the carrier would still recover the full price of the device through enforcement of its 
+contract with the initial buyer, related early termination fees, and similar mechanisms.  
+69 2010 Recommendation at 43,831-82 (emphasis added). 
+70 “Wireless telephone handsets; wireless devices ” as defined in S.517—Unlocking Consumer Choice and Wireless 
+Competition Act § (e)(3). 
+   15 
+                                                 
+[PAGE 18]
+A “wireless telephone handset” and “wireless device” mean a handset or other 
+device that operates on a wireless telecommunications network. 
+ 
+If, on the other hand, the Register insists on a separate definition, Petitioner proposes that 
+“all purpose tablet computer” be defined as: 
+ 
+A wireless device, with a pre-installed operating system designed primarily for 
+mobile devices, that is not intended exclusively for the consumption of media and 
+that operates on a wireless communication network. 
+ 
+This definition is intended to the exclude true laptop computers that do not run a mobile operating 
+system, as well as single-purpose media devices such as eBook readers (e.g., Amazon Kindle)
+71 or 
+dedicated gaming devices (e.g., PS Vista).72 
+ 
+Defining tablets separately is increasingly difficult as the historical lines between them and other 
+devices continue to blur. For example, until recently tablets and laptops could be distinguished by 
+their respective operating systems; the OS designed for and shipped with laptops or personal 
+computers were not compatible with tablets. Instead, tablets required special-purpose operating 
+systems to, for example, maximize the utility of their touch screens and account for the lack of a 
+keyboard.
+73 New operating systems have emerged, however, that are device agnostic and weaken or 
+remove this distinction because they run both on devices generally considered to be laptops and 
+devices generally considered to be tablets. Windows 8.1,74 for example, now comes preinstalled on 
+both laptops and tablets.75 Similarly, the presence of a touch screen, which used to distinguish 
+tablets from laptops, no longer does so, as laptops like the Microsoft ASUS TP500L include touch 
+screens.76 Keyboards also do not provide a consistent distinction, as some tablets include optional 
+keyboards and some laptops can operate keyboard-free. 
+ 
+Distinguishing between tablets and wireless telephone handsets is even more difficult. Originally, 
+only wireless telephone handsets had the capability to send voice calls over a cellular network. This 
+71 See https://kindle.amazon.com. 
+72 See http://www.playstation.com/en-us/explore/psvita. 
+73 Examples of mobile operating systems specifically designed for mobile devices include Apple’s iOS for the iPad 
+(https://www.apple.com/ios (last visited Jan. 28, 2015)), Android for the Google Nexus 
+(http://www.android.com/tablets (last visited Jan. 28, 2015)) or Samsung or other tablets,  or Amazon Fire OS 
+http://www.android.com/tablets (last visited Jan. 28, 2015)) for Amazon’s Kindle Fire. 
+74 See, e.g., http://windows.microsoft.com/en-us/windows/home (last visited Jan. 28, 2015). 
+75 Mark Spoonauer, Best 2-in-1s of 2015, PURCH (Feb.6, 2015) http://blog.laptopmag.com/best-2-in-1s. 
+76 See, e.g., http://www.microsoftstore.com/store/msusa/en_US/pdp/ASUS-Transformer-Book-Flip-TP500L-Signature-
+Edition-Laptop/productID.304981400 (last visited Jan. 28, 2015). Technology analysts such as Gartner and IDC 
+primarily distinguish tablet computers from other devices by their physical aspects, defining a tablet as “a device based 
+on a touchscreen display, typically multi-touch, that facilitates content entry via an on-screen keyboard,” IT Glossary, 
+GARTNER.COM, http://www.gartner.com/it-glossary/?s=media+tablet (last visited Jan. 28, 2015), or “one that sports a 7-
+inch to 12-inch display.” Erica Ogg, What Makes a Tablet a Tablet?, CNET.COM (May 28, 2010), 
+http://www.cnet.com/news/what-makes-a-tablet-a-tablet-faq (last visited Jan. 28, 2015). Both companies then refer to a 
+list of devices that qualify as tablets, for example the Apple iPad, Samsung Galaxy Tab, and Micromax Funbook. But 
+these categories also have blurred, as in the recent emergence of the category known as a “phablet,” which is “a device 
+that is essentially a tablet computer that functions like a phone,” see Margaret Rouse, Definition of “Tablet,” 
+TECHTARGET.COM (Oct. 2012), http://whatis.techtarget.com/definition/phablet (last visited Jan. 28, 2015), but that does 
+not fit easily within the definition of either. 
+   16 
+                                                 
+[PAGE 19]
+is no longer the case, as various tablets now also have this capability.77 Size is also not a reliable 
+distinction, as phones grow larger, tablets grow smaller, and crossover “phablets” grow in 
+popularity. The House Report for the Unlocking Act recognized that that wireless telephone 
+handsets and tablet computers had similar functionality,78 and the resulting Act did not seek to 
+separately define a tablet computer. Instead, the Unlocking Act uses a singular, broad definition of 
+“Wireless Telephone Handsets; Wireless Devices.”79 We recommend that the Registrar do the same 
+here.  
+ 
+VI.  Adverse Impact 
+ 
+Without a § 1201 exemption, owners of mobile devices, including consumers and legitimate 
+recyclers and remanufacturers of used devices, have been and are substantially adversely affected in 
+their ability to make what are legitimate noninfringing uses. Recyclers are unable to engage in 
+noninfringing individual or bulk unlocking of devices for the benefit of consumers who are selling 
+or buying used devices, consumers are denied the ability to use their devices on the network of their 
+choice and denied the full benefit of choosing or selling used devices, and competition between new 
+and used devices and between networks is reduced.  
+ 
+At worst, recyclers have no option but to purchase, possibly refurbish, and then resell tablets that 
+remain locked to a particular carrier, reducing consumer choice and lowering the value of the 
+devices to the seller and the recyclers. At best, recyclers, or the consumers from whom they 
+lawfully obtain used devices, are forced to depend on the whims of carriers to assist in unlocking 
+those devices or to provide unlocking codes so the devices can be used on other networks. This is a 
+highly inferior alternative to the ability to unlock in bulk, since such carrier cooperation is voluntary 
+and cannot be counted on; is uncertain, often expensive and time-consuming’ and is frequently 
+unsuccessful. The lack of an exemption allowing unlocking has thus had, and will continue to have, 
+significant adverse impacts on recyclers and consumers. 
+ 
+A. The Absence of an Unlocking Exemption Has Forced Consumers to Resell Their Devices 
+for Significantly Lower Prices, Has Reduced Consumer Choice and Wireless 
+Competition, and Has Adversely Affected Recyclers’ Ability to Meet Consumer Demand 
+and Obtain the Full Value of the Devices They Resell  
+ 
+Without an exemption allowing unlocking of wireless devices, recyclers’ only option for unlocking 
+since 2012 has been to rely on voluntary unlocking by carriers. But while some carriers provided 
+some assistance with unlocking requests when the previous exemption was in place, that 
+cooperation decreased after the Copyright Office narrowed the unlocking exemption in 2012. The 
+evidence below, though predominately focused on mobile phones, accurate reflects the way that the 
+still relatively new tablet markets are developing.  One striking example from the mobile phone 
+context is a policy change by AT&T after the last triennial. In response to the Copyright Office’s 
+decision—and public push back—AT&T noted that the decision would have “very little impact on 
+77 See, e.g., http://www.phonearena.com/news/7-tablets-with-phone-functionality-you-can-call-them-giant-
+smartphones_id59182 (last visited Jan. 28, 2015). 
+78 See John Conyers, Jr. Jerrold Nadler, Robert C. Bobby Scott, Sheila Jackson Lee on Unlocking Consumer Choice 
+and Wireless Competition Act, H.R. Rep. No. 113-356, 113th Cong., 2d Session (2014) at 8. 
+79 See Unlocking Act § 2(e)(3). 
+   17 
+                                                 
+[PAGE 20]
+AT&T customers,” but reminded the public that the Librarian did not exempt unlocking for bulk 
+recyclers.80 Then, in early October 2013, AT&T abruptly changed its unlocking policies to make it 
+even more difficult or impossible for bulk recyclers to obtain unlock codes.81 Not surprisingly, this 
+policy change reportedly caused at least one lawful reseller to close its business.82 The policy and 
+its adverse impacts have continued since 2013, as lawful recyclers continue to struggle to receive 
+unlock codes for used AT&T mobile devices.83  
+ 
+Recycler Gazelle, Inc.,84 for example, reports that, “in the fourth quarter of 2013 alone, the change 
+in the AT&T unlocking practices had a severe negative impact on Gazelle’s revenue and Net 
+Income. The lower prices being paid for our pre-owned phones led directly to lower payments being 
+made to the customers who sold us their phones.”
+85 Gazelle also reports that the prices it and its 
+competitors are able to offer to consumers selling their devices “have declined sharply, and have 
+remained significantly lower than the price Gazelle can offer for an unlocked phone, or for a phone 
+that Gazelle knows it can unlock upon the request of the selling consumer.”86 
+ 
+Another recycler, HOBI International, Inc., reports that the company previously worked with two 
+carriers to gain unlocking of mobile devices. After the 2012 exemption, one carrier refused to 
+continue unlocking HOBI’s used mobile devices for resale. Because those devices remained locked 
+to a particular carrier, HOBI found that prices for phones dropped $25 across the board, reducing 
+the price that individual owners could receive for their used phones, harming consumers and bulk 
+recyclers alike. HOBI reports one example of a deal it had secured to resell over 10,000 used, 
+lawfully acquired mobile phones; after the carrier began refusing to provide HOBI unlock codes, 
+HOBI was forced the sell the locked devices for only $85 each instead of the $125 it would have 
+received for an unlocked phone. HOBI lost roughly $400,000 on this deal alone.
+87 
+ 
+Recyclers such as ISRI member companies have worked in the past with carriers to unlock mobile 
+devices and remain willing to do so going forward.
+ 88 Their efforts to do so, however, are largely 
+unsuccessful and their customers and their business are being directly harmed as a result. Recyclers 
+uniformly report that they cannot resell a mobile device for its full value, since devices locked to 
+certain carriers are worth less. Without the ability readily to unlock those lawfully purchased 
+80 Joan Marsh, Bottom Line: We Unlock Our Customer’s Devices, ATT PUBLIC POLICY BLOG (Mar. 8, 2013), 
+http://www.attpublicpolicy.com/wireless/bottom-line-we-unlock-our-customers%E2%80%99-devices. 
+81 Sullivan Declaration at ¶ 6; Ben Lovejoy, Apparent Block on Mass Unlocking of AT&T iPhones Hits Resale Industry, 
+9TO5MAC.COM (Nov. 14, 2013), http://9to5mac.com/2013/11/14/apparent-block-on-mass-unlocking-of-att-iphones-
+hits-resale-industry. 
+82 Lovejoy, Apparent Block on Mass Unlocking of AT&T iPhones Hits Resale Industry. 
+83 Sullivan Declaration at ¶ 6. 
+84 Gazelle purchases phones and other mobile devices that, pursuant to carrier agreements with consumers, are eligible 
+for resale by that consumer. See www.gazelle.com. 
+85 Sullivan Declaration at ¶ 2. 
+86 Id. at ¶ 7. 
+87 In addition to the impact of carrier locks, manufacturer device locks such as the Apple's Find My iPhone Activation 
+lock (http://support.apple.com/en-us/HT201365) are increasingly problematic for legitimate recyclers. One recycler, 
+The Wireless Alliance (http://www.thewirelessalliance.com), reports that the number of device -locked iPhones it has 
+received recently has grown exponentially. While almost none have been reported stolen, and most are in working 
+condition, Wireless Alliance is unable to access the devices at all due to the lock and so is unable to refurbish or resell 
+them. Where sellers or donors to charitable entities or other drop off programs do not first disable the device lock, the 
+lock renders the device unusable and unable to be resold for anything other than scrap.  
+88 See, e.g., Sullivan Declaration at ¶ 7. 
+   18 
+                                                 
+[PAGE 21]
+devices, recyclers must pay less to the large portion of consumers who sell their mobile devices in a 
+locked state and must receive less when they resell those devices.  
+ 
+B. Current Carrier Unlock Policies Do Not Obviate, But Rather Highlight, the Need for an 
+Exemption for Bulk Circumvention 
+ 
+While the four major wireless carriers in 2013 adopted voluntary unlocking policies for tablets and 
+phones
+89 under pressure from the public and the FCC,90 those policies leave major obstacles to bulk 
+and individual unlocking and do not obviate the need for an unlocking exemption. American 
+wireless providers other than these four are not parties to the CTIA letter, and the large majority of 
+them do not offer unlocking services, particularly for popular mobile devices like Apple’s iPhone.91 
+Some key unlocking policies of the four major carriers include: 
+ 
+  AT&T92 T-Mobile93 Verizon94 Sprint95 
+Required 
+Delay 
+Postpaid: account 
+active for at least 
+60 days.  
+Prepaid: account 
+active for at least 6 
+months. 
+Early Upgrade: 
+must wait 14 days 
+“buyer remorse” 
+period. 
+Monthly plan: 
+active for at least 
+40 days.  
+Prepaid: active 
+for more than 1 
+year (subject to 
+some exceptions). 
+3G Prepaid 
+Phone-in-the-Box:  
+• restricted for use 
+with Verizon’s 
+Prepaid service 
+for 6 months, 
+and  
+• locked to Verizon 
+for 12 months 
+after activation. 
+ 
+Restrictions 
+on Bulk 
+Unlocking 
+ User has requested 
+no more than 2 
+mobile device 
+unlock codes per 
+line of service in 
+the last 12 months. 
+ Current or 
+former Sprint 
+customer can 
+provide the 
+phone number 
+or account 
+number for the 
+device. 
+89 See, e.g., CTIA—The Wireless Association, Letter re Carrier Unlocking Voluntary Commitment (Dec. 12, 2013) 
+[hereinafter CTIA letter], available at http://www.ctia.org/docs/default-source/fcc-filings/ctia-letter-on-unlocking.pdf. 
+90 Jon Brodkin, US Carriers Agree to Unlock Customers’ Phones After Pressure from FCC, ARS TECHNICA (Dec. 12, 
+2013), http://arstechnica.com/business/2013/12/us-carriers-agree-to-unlock-customers-phones-after-pressure-from-fcc. 
+91 Wireless Carrier Support and Features for iPhone, APPLE, http://support.apple.com/en-us/ht1937 (last visited Jan. 29, 
+2015) (see USA: “Carrier Offers Unlocking” column). 
+92 Mobile Device Unlock Support Guide, AT&T, http://www.att.com/esupport/article.jsp?sid=KB425914 (last visited 
+Jan. 22, 2015). 
+93 Unlock Your Mobile Wireless Device, T-MOBILE, https://support.t-mobile.com/docs/DOC-1588 (last visited Jan. 22, 
+2015). 
+94 Device Unlock Policy, VERIZON WIRELESS, http://www.verizonwireless.com/aboutus/commitment/safety-
+security/device-unlocking-policy.html (last visited Jan 22, 2015). 
+95 Unlock your Sprint Device, SPRINT, http://www.sprint.com/legal/unlocking_policy.html (last visited Jan. 22, 2015).  
+   19 
+                                                 
+[PAGE 22]
+  AT&T92 T-Mobile93 Verizon94 Sprint95 
+“Escape 
+Hatch” 
+“[R]eserves the 
+right to alter this 
+unlocking policy at 
+its discretion 
+without advance 
+notice.” 
+“[M]ay request 
+proof of purchase 
+or additional 
+information in its 
+discretion and 
+certain other 
+exceptions may 
+apply.” 
+ “This unlocking 
+policy is subject 
+to change at 
+Sprint's 
+discretion 
+without advance 
+notice.” 
+ 
+Other 
+Notable 
+Restrictions 
+   Sprint cannot 
+unlock many 
+devices, 
+including 
+iPhones. 
+ 
+Critically, none of these policies accommodate bulk unlocking. The CTIA letter explicitly limits the 
+carriers’ voluntary unlocking to their “customers, former customers and individual owners of 
+eligible devices.”
+96 T-Mobile effectively prohibits bulk unlocking by limiting mobile device unlock 
+codes to two devices per line per year. AT&T’s current practices, have made it much more 
+difficult—if not impossible—for bulk recyclers to obtain unlock codes for lawfully acquired 
+devices.97 Thus, rather than obviating the need for circumvention for bulk unlocking, these policies 
+increase that need. 
+ 
+Second, these policies are voluntary and presumably can be revoked or changed at any time. Some 
+carriers even include explicit disclaimers to that effect: for instance, AT&T provides that it 
+“reserves the right to alter this unlocking policy at its discretion without advance notice.”
+98 Without 
+an unlocking exemption, carriers are free to make their policies more restrictive, or to eliminate 
+them altogether, with little or no consequence, leaving Petitioners and others without the ability to 
+unlock for another three years.
+99 Indeed, the Unlocking Act demonstrates that Congress recognizes 
+that mobile device unlocking is a lawful consumer right, not an unreliable “privilege” subject to the 
+whims of each carrier. 
+ 
+Third, there is no guarantee that, even if an owner of a device meets all stated requirements, the 
+carrier will unlock the device. Each major carrier policy charted above includes an “escape hatch” 
+that likely permits the carrier to refuse to unlock a phone for any reason. For example, even if an 
+owner meets all of T-Mobile’s unlocking requirements, “T-Mobile may request proof of purchase 
+96 CTIA letter at 3 (preamble). 
+97 Id. at ¶ 6. 
+98 Consumer Device Unlock Portal, AT&T, https://www.att.com/deviceunlock (last visited Jan. 27, 2015). 
+99 For instance, Sprint’s unlocking policies were not publically available—if at all—on its “Legal/Regulatory & 
+Consumer Resources” site in 2012 and 2013, after the previous exemption was not renewed. Compare  Unlock Your 
+Sprint Device, SPRINT, http://www.sprint.com/legal/unlocking_policy.html (last visited Jan. 22, 2015)  with 
+Legal/Regulatory & Consumer Resources, ARCHIVE.ORG, 
+https://web.archive.org/web/20121027110959/http://www.sprint.com/legal/index.html (Oct. 27, 2012) and  
+Legal/Regulatory & Consumer Resources, ARCHIVE.ORG, 
+https://web.archive.org/web/20130118060816/http://www.sprint.com/legal/index.html (Jan. 18, 2013).  
+   20 
+                                                 
+[PAGE 23]
+or additional information in its discretion and certain other exceptions may apply.”100 Likewise, 
+AT&T and Sprint may unlock devices purchased by third parties, but may not—they offer no 
+guarantees.  
+ 
+Fourth, these policies are often complex, cumbersome, and unreliable to navigate in practice, 
+preventing even individual consumers from succeeding in unlocking their mobile devices. In the 
+analogous mobile phone context, Gazelle estimates that in 2014 “29 percent of customers who 
+began the process of selling a phone  to Gazelle failed to complete it because of the complexities of 
+the unlocking process.”101 As one frustrated AT&T customer put it to Gazelle, “AT&T says the 
+device IS unlocked but I am tired of the hassle.”102 “In addition to direct costs to the consumer,” 
+declares Gazelle President Chris Sullivan, “Gazelle’s extensive efforts and outreach to encourage 
+customers to complete the process and to help them to do so add to Gazelle’s costs overall, 
+unnecessarily impacting Gazelle’s ability to offer prices competitive with those offered by carriers 
+for trade-in.”
+103  
+ 
+Fifth, carrier unlocking, even when it happens, also is unpredictable and slow. While many carriers 
+advertise quick unlocking, Gazelle finds, at least in the context of phones, that actual carrier 
+unlocking times range from two to 60 days.
+104 Moreover, there is a strong presence of dissatisfied 
+customers trying unsuccessfully to unlock their devices. Gazelle estimates that “[f]orty percent of 
+customers contacting Gazelle for assistance report failure and /or belief that their phone remains 
+locked due to an error by AT&T.”105 “This is incredibly frustrating,” wrote one AT&T customer, 
+“as I followed the exact procedures outlined by AT&T and seconded by Gazelle. The phone said it 
+had been unlocked successfully. After waiting for two weeks to get it unlocked in the first place 
+from AT&T now it is for some reason still locked.”106 Likewise, one T-Mobile customer bemoaned 
+that “I’ve done everything they said, they’ve put the request through and then I got an email stating 
+they can’t process the request. The email doesn’t say why not and nor can any rep.”107 
+ 
+Finally, these policies often do not apply to certain consumers who are willing to fully repay the 
+subsidized price of their devices through paying Early Termination Fees or otherwise. Both AT&T 
+and T-Mobile appear to require certain devices to remain on the carriers’ network for a minimum 
+period of time before switching carrier networks regardless of when or how the device was paid for. 
+Once the carrier has been paid for its device subsidy, there is no reason the device should not be 
+able to be unlocked, and the consumer free to choose a new carrier—yet some policies prevent 
+exactly that. The Unlocking Act had it right: as long as customers “have complied with their 
+contracts,” the White House declared in announcing the Act, “consumers will now be able to enjoy 
+100 Unlock Your Mobile Wireless Device, T-MOBILE, https://support.t-mobile.com/docs/DOC-1588 (last visited Jan. 27, 
+2015). 
+101 Sullivan declaration at ¶ 8. 
+102 Id. at ¶ 10, #10819. 
+103 Id. at ¶ 8. 
+104 Id. at ¶ 9. 
+105 Id. at ¶ 8. 
+106 Id. at ¶ 9, #000377. 
+107 Codycarreras, Questions Regarding a T-Mobile Unlock, 
+http://www.reddit.com/r/tmobile/comments/2srixy/questions_regarding_a_tmobile_unloc k (last visited Feb. 4, 2015). 
+   21 
+                                                 
+[PAGE 24]
+the freedom of taking their mobile service -- and a phone they already own -- to the carrier that best 
+fits their needs.”108 That freedom must be maintained for both consumers and bulk recyclers. 
+ 
+C. Availability of Unlocked Mobile Devices Is Not a Viable Alternative to Circumvention  
+An increasing number of wireless devices—though far from all—are now being sold unlocked.109 
+The gradual emergence of this option, however, does not reduce or eliminate at all the need for 
+consumers and bulk recyclers to be able to lawfully unlock the millions of devices previously sold 
+that are currently locked, or the large number that will continue to be sold locked. ISRI members 
+currently receive hundreds of thousands of devices that were previously owned and are locked.  
+The fact that unlocked devices are beginning to appear on the new device market does nothing to 
+eliminate the loss of choice and value caused by the inability to unlock the millions of recent-model 
+devices that have already been sold to consumers and could be resold on the secondary market. This 
+dramatic imbalance of locked to unlocked devices will not change significantly over the next three 
+years before the next Triennial. Thus, the unlocking exemption remains essential to consumers and 
+recyclers.
+110 
+ 
+VII. All Relevant Statutory Factors Weigh in Favor of Granting an Exemption for Bulk 
+Unlocking 
+ 
+17 U.S.C. § 1201(a)(1)(C) directs the Copyright Office to evaluate the following factors when 
+considering an exemption: 
+ 
+(i) the availability for use of copyrighted works;  
+(ii) the availability for use of works for nonprofit, archival, preservation, and educational purposes;
+  
+(iii) the impact that the prohibition on the circumvention of technological measures applied to 
+copyrighted works has on criticism, comment, news reporting, teaching, scholarship, or 
+research; 
+(iv) the effect of circumvention of technological measures on the market for or value of copyrighted 
+works; and  
+(v) such other factors as the Librarian considers appropriate. 
+ 
+On balance, these factors weigh strongly in favor of granting the proposed exemption. 
+  
+A. (i) The Availability for Use of Copyrighted Works 
+ 
+The exemption would not make copyrighted works—in particular, software on a mobile device—
+less available. Mobile device manufacturers did not stop manufacturing mobile devices embedded 
+108 Answering the Public’s Call, THE WHITE HOUSE BLOG (Aug. 1, 2014 12:28 PM EST), 
+http://www.whitehouse.gov/blog/2014/08/01/answering-publics-call. 
+109 Apple, for example, was recently reported to begin selling unlocked versions of its newest mobile devices. See 
+Stephanie Mlot, Apple Now Selling Unlocked iPhone 6, 6 Plus, PCMAG (Jan. 6, 2015 9:33 AM), 
+http://www.pcmag.com/article2/0,2817,2474654,00.asp. 
+110 In the extremely unlikely event that carriers and manufacturers were to begin selling all devices unlocked, an 
+exemption would have no negative effects, as there would be no devices in need of unlocking.  
+   22 
+                                                 
+[PAGE 25]
+with this software as a result of past unlocking exemptions, and they will not do so in response to a 
+new exemption. Rather, consumers will have access to more new and used devices, which will 
+contain and use an increasing number and variety of software programs and applications. In fact, the 
+proposed exemption may actually increase lawful access to copyrighted works, since unlocking—
+especially bulk unlocking—makes more wireless devices and their software available to a broader 
+range of purchasers. Some of these purchasers might not have bought a new device or been able to 
+afford to keep using their existing device with their original carrier. Indeed, one study found that 
+overall mobile app usage recently increased 76% in one year alone.111 Likewise, use of apps on 
+mobile devices in 2014 continued to vastly surpass general Internet use on mobile devices by 86% 
+to 14%.112  
+ 
+Third, an unlocking exemption—a bulk unlocking exemption in particular—will open up access to 
+mobile software and devices for those who otherwise cannot afford newer models with additional 
+software capabilities. Petitioner’s clients regularly recycle and resell older model or legacy devices, 
+many of which remain locked by carriers. The ability to circumvent the locking mechanism on a 
+larger scale would allow Petitioner’s clients to sell more unlocked devices, effectively increasing 
+lawful access to mobile devices and their underlying mobile software.  
+ 
+B. (ii) The Availability for Use of Works for Nonprofit Archival, Preservation, and 
+Educational Purposes 
+ 
+The lack on the proposed exemption does not directly bear on the listed activities in factor (ii), but 
+the proposed exemption will not decrease availability of the underlying mobile software for 
+nonprofit archival, preservation, or educational purposes. As discussed in factors (i) and (iv), the 
+proposed exemption may actually increase lawful access to the underlying software for all purposes, 
+including those listed in factor (ii). 
+ 
+C. (iii) The Impact That the Prohibition on the Circumvention of Technological Measures 
+Applied to Copyrighted Works Has on Criticism, Comment, News Reporting, Teaching, 
+Scholarship, or Research  
+ 
+The prohibition on the proposed exemption does not directly bear on the listed activities in factor 
+(iii), except to the extent that broader device and software availability will result in more 
+engagement in the listed activities.  
+ 
+D. (iv) The Effect of Circumvention of Technological Measures on the Market for or Value 
+of Copyrighted Works  
+ 
+The proposed exemption will have no negative effect on the market for mobile software. Device 
+manufacturers are not likely to slow or halt production of mobile software or devices simply 
+because purchasers have greater flexibility to unlock their mobile devices and switch carriers. To 
+111 Simon Khalaf, Shopping, Productivity and Messaging Give Mobile Another Stunning Growth Year, FLURRY.COM 
+(Jan. 6, 2015), http://www.flurry.com/blog/flurry-insights/shopping-productivity-and-messaging-give-mobile-another-
+stunning-growth-year#.VMaPHWR4rzE. 
+112 Sarah Perez, Mobile App Usage Increases in 2014, As Mobile Web Surfing Declines, TECHCRUNCH (Apr. 4, 
+2014), http://techcrunch.com/2014/04/01/mobile-app-usage-increases-in-2014-as-mobile-web-surfing-declines. 
+ 
+   23 
+                                                 
+[PAGE 26]
+the contrary, the proposed exemption may actually increase the value and market for the underlying 
+software. This is because mobile devices—previously locked to certain carriers—will have longer 
+lifetimes as their owners can activate their devices on their preferred carrier, or additional value as 
+they can resell the used devices for higher prices. Use of a device on a new carrier or by a new 
+buyer may increase the market value of the underlying software since the owner is likely to 
+purchase more apps or other software to operate in conjunction with the underlying software.113 
+This also increases the value of other copyrighted works—namely, the additional apps.  
+ 
+Second, individuals may choose to 
+purchase more mobile devices, each 
+with embedded copyrighted 
+software, if the freedom to unlock is 
+available. This is particularly true 
+because consumers will be more 
+inclined to sell their used devices to 
+recyclers because they will receive 
+higher prices—before purchasing 
+new mobile devices. Indeed, as the 
+accompanying graph illustrates, sales 
+of tablets in the United States 
+increased by 93 million from 2010 to 
+2014 and mobile device ownership—
+including tablets and smartphones—
+has continued to increase dramatically since prior exemptions were granted.
+114 
+   
+Finally, there is no indication that the ability to lawfully unlock mobile devices under previous 
+exemptions had any adverse effect on wireless carriers or the availability of copyrighted works. 
+Wireless carrier revenues have steadily increased despite previous similar exemptions.115 CTIA 
+hails the growth of wireless services, noting that U.S. “mobile data use doubled from 2012 to 2013, 
+and will increase about 650% by 2018.”116 All told, U.S. wireless data use is set to increase by a 
+factor of 400 from 2008 to 2014.117 CTIA highlights that U.S. tablet use is predicted to increase by 
+370% by 2018.118 Moreover, sales of tablets in the United States increased from 9.7 million units in 
+2010 to roughly 40.6 million units in 2014.119 There is no reason to think the market for mobile 
+devices will not continue to grow for the foreseeable future. 
+113 Simon Khalaf, Shopping, Productivity and Messaging Give Mobile Another Stunning Growth Year , FLURRY.COM 
+(Jan. 6, 2015), http://www.flurry.com/blog/flurry-insights/shopping-productivity-and-messaging-give-mobile-another-
+stunning-growth-year#.VMaPHWR4rzE. 
+114 The State of the Mobile Industry, COMSCORE, https://www.comscore.com/Insights/Presentations-and-
+Whitepapers/2014/The-State-of-the-Mobile-Industry (Sept. 25, 2014). 
+115 Revenue of the Wireless Telecommunications Industry in the United States from 2008 to 2018,  STATISTA, 
+http://www.statista.com/forecasts/311158/us-wireless-telecommunications-carrier-industry-revenue-forecast-naics-5172 
+(July 2014). 
+116 Demand, Wireless Quick Facts, CTIA.ORG, http://www.ctia.org/your-wireless-life/how-wireless-works/wireless-
+quick-facts (last visited Jan. 27, 2015). 
+117 Id.  
+118 See id. 
+119 See Mobile Operating System U.S. Market, STATISTA 25 (Aug. 2014), http://www.statista.com/study/11519/mobile-
+operating-system-us-market-statista-dossier. 
+   24 
+                                                 
+[PAGE 27]
+ 
+E. (v) Such Other Factors as the Librarian Considers Appropriate 
+ 
+Unlocking mobile devices is about consumer choice, not copyright. The Register recognized this 
+basic truth in the past,120 as did Congress and the White House by enacting the “common sense” 
+Unlocking Act121 in response to the Register’s 2012 determination and narrower exemptions. As the 
+White House noted in endorsing the Unlocking Act, the Act—like the unlocking sought here —was 
+necessary “to ensure copyright law does not undermine wireless competition.”122 According to the 
+White House, this is a “basic consumer freedom,” and the Unlocking Act represents “another step 
+toward giving ordinary Americans more flexibility and choice, so that they can find a cell phone 
+carrier that meets their needs and their budget.”
+123 Even CTIA praised the Unlocking Act “for 
+providing consumer flexibility.”124 The Unlocking Act was one critical step forward; the Register 
+should not take two steps back.  
+ 
+Promotion of consumer choice is a factor that the Librarian should consider appropriate. The 
+proposed exemption provides that in bulk. 
+ 
+VIII. Conclusion 
+ 
+Petitioner’s members and other recyclers provide important public and economic benefits by 
+efficiently buying, refurbishing, reselling, and recycling devices that they lawfully acquired 
+individually from consumers and in bulk from organizations. In each of the last three § 1201 
+rulemakings, the exemption for device unlocking has become increasingly narrower, resulting in 
+significant adverse impacts on both consumers and recyclers. Congress and the White House 
+sharply corrected this overly narrow approach through the Unlocking Act. Granting the unlocking 
+exemption proposed here is essential and is warranted by current tablet computer market conditions 
+and the legal arguments presented in the petition. The exemption will effectuate Congress’s clear 
+intent, promote competition in the wireless device and carrier marketplaces, increase the choices 
+available to consumers, and enable recyclers to again efficiently and economically enable those 
+choices, all without negatively impacting legitimate copyright interests. 
+120 See, e.g., 2012 Recommendation at 93, citing 2010 Recommendation at 137. 
+121 Answering the Public’s Call, THE WHITE HOUSE BLOG (Aug. 1, 2014 12:28 PM EST), 
+http://www.whitehouse.gov/blog/2014/08/01/answering-publics-call. 
+122 Office of the Press Secretary, Statement from the President on Unlocking Consumer Choice and Wireless 
+Competition Act, http://www.whitehouse.gov/the-press-office/2014/07/25/statement-president-unlocking-consumer-
+choice-and-wireless-competition-a (last visited Jan. 27, 2015) (emphasis added). 
+123 Id. 
+124 See CTIA, CTIA Statement After President Obama Signed the Unlocking Consumer Choice and Wireless 
+Competition Act into Law (Aug. 1, 2014), http://www.ctia.org/resource-library/press-releases/archive/unlocking-obama 
+(last visited Feb. 6, 2015). 
+   25 
+                                                 

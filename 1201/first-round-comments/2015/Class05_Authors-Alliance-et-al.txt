@@ -1,0 +1,2176 @@
+[PAGE 1]
+ 
+Before the 
+United States Copyright Office 
+Library of Congress 
+ 
+ 
+In the Matter of  
+ 
+Exemption to Prohibition on  
+Circumvention of Copyright Protection 
+Systems for Access Control Technologies 
+ 
+) 
+) 
+) 
+) 
+) 
+) 
+) 
+ 
+ 
+ 
+Docket No. 2014-07 
+ 
+ 
+COMMENT OF 
+AUTHORS ALLIANCE 
+AMERICAN ASSOCIATION OF UNIVERSITY PROFESSORS 
+UNIVERSITY FILM AND VIDEO ASSOCIATION 
+SOCIETY FOR CINEMA AND MEDIA STUDIES 
+MARK BERGER 
+BOBETTE BUSTER  
+ 
+Submitted For: 
+Authors Alliance 
+Berkeley, CA 
+ 
+American Association of University Professors 
+Washington, DC 
+ 
+Society for Cinema and Media Studies 
+Norman, OK 
+ 
+University Film and Video Association 
+United States 
+ 
+Mark Berger 
+Berkeley, CA 
+ 
+Bobette Buster 
+Los Angeles, CA 
+ 
+Submitted By: 
+UCI Intellectual Property, Arts, and Technology 
+Clinic 
+University of California, Irvine School of Law 
+401 East Peltason Drive, Law 4800-P 
+Irvine, CA 92697 
+ 
+Jack I. Lerner, Director  
+Aleksander S. Danielyan, Mike Lee, Ranika Morales, 
+and Lauren Wong, Certified Law Students 
+ 
+Samuelson-Glushko Technology Law & Policy 
+Clinic 
+Colorado Law 
+Robert & Laura Hill Clinical Suite, 404 UCB 
+Boulder, CO 80309-0404 
+ 
+Molly McClurg and Will Kaufman, Student Attorneys 
+Blake E. Reid, Director 
+Telephone:  (303) 492-0548 
+Email:   blake.reid@colorado.edu 
+[PAGE 2]
+Comment of Multimedia E-Book Authors 
+Page 1 of 24 
+I. COMMENTER INFORMATION 
+The Authors Alliance, American Association of University Professors, Society for 
+Cinema and Media Studies, University Film and Video Association, Bobette Buster, and Mark 
+Berger (collectively, “Multimedia E-Book Author Commenters”), representing tens of thousands 
+of authors, scholars, and educators respectfully request that the Copyright Office recommend an 
+exemption to Section 1201 of the Digital Millennium Copyright Act (“DMCA”) that would grant 
+multimedia e-book authors access to motion pictures and other similar audiovisual works 
+obtained from lawfully acquired DVDs, Blu-Ray discs, and digitally transmitted video for fair 
+use purposes.   
+To contact the commenters, please contact the submitter, UCI Intellectual Property, 
+Arts, and Technology Clinic, at dmcaebooks @ law.uci.edu. 
+The Authors Alliance promotes authorship for the public good by supporting authors 
+who write to be read. Authors Alliance embraces the unprecedented potential digital networks 
+have for the creation and distribution of knowledge and culture, and provides a platform for 
+authors to discuss public and institutional policies that might promote or inhibit the broad 
+dissemination they seek. 
+The American Association of University Professors (AAUP) aims to advance 
+academic freedom and shared governance and to define fundamental professional values and 
+standards for higher education. AAUP has helped to shape American higher education by 
+developing the standards and procedures that maintain quality in education and academic 
+freedom in this country’s colleges and universities. 
+The Society for Cinema and Media Studies (SCMS) promotes a broad understanding 
+of film, television, and related media through research and teaching grounded in the 
+contemporary humanities tradition. SCMS seeks to further media study within higher education 
+and the wider cultural sphere, and to serve as a resource for scholars, teachers, administrators, 
+and the public.  
+The University Film and Video Association (UFVA) aims to develop the potentialities 
+of the motion picture and television media for purposes of instruction and communication 
+throughout the world. UFVA works primarily in educational institutions with the goal of serving, 
+encouraging, and assisting individuals who teach arts and sciences of motion picture and 
+television production techniques, history, criticism and related subjects.  
+Bobette Buster is an Adjunct Professor in the University of Southern California Peter 
+Stark Producing Program who created the first Master of Fine Arts curriculum for Feature Film 
+and Television Development. She served as Guest Faculty to Pixar, Disney Animation, Disney 
+Channel, Sony Animation, Twentieth Century Fox, the University of Milan, La Fėmis (Paris), 
+Screen Training Ireland, North By Northwest (Denmark), The Sundance Institute Latin 
+American Lab (Oaxaca) and Media Business School (Spain). 
+Mark Berger is a current Adjunct Professor in the Film & Media Department of the 
+University of California, Berkeley, where he teaches courses on film sound and short narrative 
+production. He is also a supervising rerecording sound mixer and sound editor who has won four 
+Academy Awards for some of the most innovative uses of sound in film, including Apocalypse 
+Now, The Right Stuff, Amadeus, and The English Patient. 
+[PAGE 3]
+Comment of Multimedia E-Book Authors 
+Page 2 of 24 
+ 
+ 
+ 
+ 
+II. PROPOSED CLASS: CLASS 5—AUDIOVISUAL WORKS FOR USE IN 
+MULTIMEDIA E-BOOKS 
+Audiovisual works that are lawfully made and acquired from DVDs protected by the 
+Content Scramble System and Blu-Ray discs protected by the Advanced Access Content System, 
+or, if the motion picture is not reasonably available in sufficient audiovisual quality on DVD or 
+Blu-Ray, then from digitally transmitted video protected by various encryption measures, when 
+circumvention is accomplished solely in order to incorporate portions of motion pictures into 
+new works for the purpose of fair use, and when the person engaging in circumvention 
+reasonably believes that circumvention is necessary to obtain the motion picture for multimedia 
+e-book authorship. 
+ 
+III. OVERVIEW 
+We are returning to the DMCA exemption process to secure an exemption on behalf of 
+authors seeking to exercise their fair use rights by embedding audio and video into electronic 
+books.
+1  
+Electronic books represent a significant and rapidly evolving form of authorship. Many 
+of today’s e-books have groundbreaking multimedia capabilities that fuse literary and 
+audiovisual materials. These multimedia e-books create a unique and dynamic learning 
+experience not possible with the use of mere static text and images. They are not only 
+revolutionizing the reading experience, but expanding the frontiers of modern authorship. 
+By allowing authors to embed non-static forms of content like audio and video into e-
+books, multimedia e-book technology empowers authors to express new ideas, facilitate rich 
+discussion, educate others, engage in creative expression, and share novel scholarship in a way 
+that mere prose cannot. While traditional forms of authorship restrict authors to using static text 
+and images to express their ideas, multimedia e-books enable authors to use high-quality video 
+and audio to immerse readers into their scholarship. 
+Given today’s modern technology and market factors, authors are now equipped with 
+highly accessible and easy-to-use tools to incorporate audiovisual content directly into e-books 
+for lawful fair use purposes such as criticism and commentary. Devices capable of supporting 
+                                                 
+1 “An e-book is essentially a set of digital media assets, including text and audiovisual components, which are 
+encapsulated in a file that can be viewed offline” (2012 Comment, Appendix B, Statement of Peter Brantley 
+Statement). Today, e-books and e-readers are ubiquitous in the marketplace. See Revenue from e-book sales in the 
+United States from 2008 to 2018 (in billion U.S. dollars), STATISTA.COM, 
+http://www.statista.com/statistics/190800/ebook-sales-revenue-forecast-for-the-us-market/ (last visited Feb. 4, 
+2015); Laura Hazard Owen, PwC: the U.S. consumer ebook market will be bigger than the print book market by 
+2017, GIGAOM.COM (Jun. 4, 2013, 4:01 PM), https://gigaom.com/2013/06/04/pwc-the-u-s-consumer-ebook-market-
+will-be-bigger-than-the-print-book-market-by-2017; Richard Lea, Self-publishing surging to 31% of ebook market, 
+claims report, THEGUARDIAN.COM (July 18, 2014, 11:18 AM), 
+http://www.theguardian.com/books/2014/jul/18/report-self-publishing-surging-ebook-market-amazon. 
+[PAGE 4]
+Comment of Multimedia E-Book Authors 
+Page 3 of 24 
+ 
+ 
+ 
+such embedded material are not only accessible, but ubiquitous in the United States.2 Further, a 
+plethora of widely available file formats and user-friendly publishing platforms support 
+multimedia e-book technology.  
+This innovative technology facilitates an exciting and revolutionary approach to 
+authorship across a broad range of disciplines, including art, history, film, politics, popular 
+culture, media, law, literature, sociology, and many others. This technology is also essential to 
+authors who write about current events and popular culture. As such, multimedia e-book 
+technology holds great promise that transcends well beyond academia.  
+Authors have held the right to make fair use of protected material for over 150 years, and 
+fair use is often integral to the ability to criticize, comment on, or educate others about important 
+social, political, historical, and cultural issues.3 Authors have a long track record for doing so 
+responsibly; as rightsholders themselves, authors immensely respect and understand the value of 
+copyright protection.  
+But in today’s rapidly evolving digital environment, technological protection measures 
+(“TPMs”) block authors’ access to nearly all sources of DVD-or-better quality motion picture 
+material: commercially distributed DVDs contain the Content Scramble System (“CSS”); Blu-
+Ray discs carry the Advanced Access Content System (“AACS”); and digitally transmitted video 
+employs encryption in various forms. By imposing criminal and civil liability on authors that 
+circumvent TPMs on DVD, Blu-Ray discs, and digitally transmitted video, Section 1201 of the 
+DMCA subjects authors who attempt to exercise fair use to severe criminal and civil liability. In 
+this sense, the DMCA effectively hobbles a widely recognized noninfringing use that Congress 
+and the courts have long protected.  
+During the 2012 rulemaking, the Register found that authors need to circumvent the 
+TPMs on DVD and online video services in order to make fair use in e-books.4 This remains true 
+today. But because an increasing amount of important, high-fidelity motion picture content is 
+exclusive to Blu-Ray, authors now more than ever require the ability to access Blu-Ray 
+materials. Multimedia e-books authors thus need access fixed media content from DVDs and 
+Blu-Ray discs, and digitally transmitted video content from online and cable distributions.  
+Authors cannot rely on alternatives to circumvention for relief. Tools for circumvention 
+are often incredibly expensive and thus cost-prohibitive for authors. Authors are not typically 
+well-versed in (nor should every author be expected to know how to operate) sophisticated, 
+highly specialized, and expensive technological alternatives. For example, it would create a deep 
+chilling effect to require a self-publishing author to purchase expensive equipment in order to 
+maintain audio and frame rate sync between a DVD player and external recording device simply 
+                                                 
+2 See, e.g., Kathryn Zickhur & Lee Rainie, E-Reading Rises as Device Ownership Jumps, PEW RESEARCH CENTER 
+(Jan. 16, 2014), http://www.pewinternet.org/2014/01/16/e-reading-rises-as-device-ownership-jumps (reporting that 
+“three in ten adults read an e-book last year” and “half own a tablet or e-reader”). 
+3 See, e.g., Folsom v. March, 9 F. Cas. 342 (No. 4,901), 344–45 (C.C.D. Mass. 1841) (holding that a “reviewer may 
+fairly cite largely from the original work, if his design be really and truly to use the passages for the purposes of fair 
+and reasonable criticism”). See also New Era Publications Int'l v. Carol Publ’g Grp., 904 F.2d 152, 155 (2d Cir. 
+1990); Rosemont Enterprises, Inc. v. Random House, Inc., 366 F.2d 303 (2d Cir. 1966). 
+4 Exemption to Prohibition on Circumvention of Copyright Protection Systems for Access Control Technologies, 77 
+Fed. Reg. 65,260 (Oct. 26, 2012) (codified at 37 C.F.R. § 201.40) [hereinafter 2012 Final Rule]. 
+[PAGE 5]
+Comment of Multimedia E-Book Authors 
+Page 4 of 24 
+ 
+ 
+ 
+in order to access a short clip to make fair use. Nor is clearance an acceptable alternative; 
+rightsholders often refuse to issue a license to authors who seek to criticize, comment on, or 
+educate others about the rightsholders’ works in an unflattering manner. It would be inequitable 
+and contrary to the policies of copyright law to require authors to overcome such insurmountable 
+burdens in order to escape DMCA liability and exercise their fair use rights.  
+Acknowledging these realities, the National Telecommunications and Information 
+Administration (“NTIA”) declared that a similar 2012 proposal for a multimedia e-books 
+exemption “holds great potential for educational and noninfringing uses such as comment and 
+criticism.” 5 That potential is even greater in the 2015–2018 period.  For these reasons, we 
+respectfully request that the Copyright Office recommend an exemption for e-book authors along 
+the contours set forth in this Comment.  
+ 
+IV. TECHNOLOGICAL PROTECTION MEASURES  
+As we indicated in our Petition for Exemption, multimedia e-book authors (“e-book 
+authors”) need to access motion picture material on (1) DVDs, (2) Blu-Ray discs, and 
+(3) digitally transmitted video in order to criticize or comment on important social issues or 
+history, engage in artistic or literary criticism, or publish for educational purposes. This need is 
+exacerbated in the fast developing digital age, where traditional books are increasingly being 
+replaced by multimedia e-books. However, e-book authors face numerous difficulties in trying to 
+obtain protected material locked behind technological protection measures (“TPM”). 
+ 
+A. Content Scramble System on DVDs 
+As in 2012, we propose an exemption that permits circumvention, in certain 
+circumstances, of CSS on DVDs.6 CSS employs a mix of access and use control to protect DVD 
+content from being copied, distributed, and viewed from unauthorized devices and the Register 
+has previously concluded that it qualifies as a TPM subject to the DMCA’s anti-circumvention 
+provisions.7 In general, CSS encrypts, or scrambles, the DVD content to prevent copying.8 To 
+decrypt the content, users must have a CSS-licensed hardware device, such as a DVD-ROM, 
+which contains a fixed set of “keys” that can decrypt encryption on DVDs.9 The CSS key was 
+cracked in 1999 and distributed freely on the internet.10 Because CSS provides no mechanism for 
+revoking a compromised key, and it is difficult to revoke such keys from noncompliant devices, 
+                                                 
+5 Letter from Lawrence E. Strickling, Adm’r, Nat’l Telecomm. and Info. Admin. to Maria Pallante, Register of 
+Copyrights, Library of Copyrights (Sept. 21, 2012), at 24, http://copyright.gov/1201/2012/2012_NTIA_Letter.pdf 
+[hereinafter 2012 NTIA Letter].  
+6 See 37 C.F.R. § 201.40 (2010). 
+7 See Recommendation of the Register of Copyrights, at 126 (Oct. 28, 2012) [hereinafter 2012 Recommendation]. 
+8 Gregory Kesden, Carnegie Mellon Univ., Lecture 33, Course: 15-412 Operating Systems: Design and 
+Implementation (Dec. 6, 2000), https://www.cs.cmu.edu/~dst/DeCSS/Kesden. 
+9 Id. 
+10 See DVD Copy Control Ass’n, Inc. v. Bunner, 116 Cal. App. 4th 241, 255 (Cal. Ct. App. 2004). 
+[PAGE 6]
+Comment of Multimedia E-Book Authors 
+Page 5 of 24 
+ 
+ 
+ 
+software-based CSS circumvention software has been available for many years. However, DVDs 
+are still being produced with CSS.11  
+E-book authors still need to be able to access DVDs in order to make fair use, but the 
+DMCA prohibits circumvention of CSS. In the last rulemaking, the Register recognized e-book 
+authors’ need to access DVDs and recommended an exemption covering CSS-protected DVDs.12 
+As we demonstrate below, the conditions that warranted an exemption in the last round continue 
+to exist today and will continue through the duration of the next exemption period. The proposed 
+exemption is therefore necessary to allow e-book authors to access this motion picture material 
+in order to make fair use.  
+ 
+B. Advanced Access Content System on Blu-Ray discs 
+The exemption we propose further permits circumvention, in certain circumstances, of 
+AACS on Blu-Ray discs. AACS is also a mixed access and use control, and has also been 
+previously recognized by the Register as a TPM subject to the DMCA.
+13 AACS provides each 
+individual device with a unique set of keys. If the keys are compromised, the licensor can revoke 
+the keys associated with the device and that device will cease to decrypt future titles.14 
+AACS on Blu-Ray discs qualifies as a TPM within the meaning of § 1201(a)(3) because 
+it “effectively controls access” to a work by requiring the “application of information” and a 
+process in order to gain access to the work. 
+ 
+C. Encryption Measures on Digitally Transmitted Video  
+The exemption we propose permits circumvention, in certain circumstances, of 
+technologies that restrict access to digitally transmitted video through various encryption 
+measures. A considerable amount of motion picture material is ephemeral and captured 
+exclusively on digitally transmitted video sources such as cable and online streaming. Much like 
+CSS and AACS, the protection measures found on digitally transmitted video seek to control 
+access through encryption and other mechanisms, and thus qualify as a TPM within the meaning 
+of Section 1201(a)(3) by requiring the “application of information”—namely, encryption keys—
+in order to gain access to the work.15 The Register has previously recognized that “a significant 
+number of platforms” that distribute motion pictures online use encryption measures that 
+constitute TPMs that control access to the works.16 
+                                                 
+11 See DVD COPY CONTROL ASSOCIATION, Content Scramble System (CSS), http://www.dvdcca.org/css.aspx (last 
+visited Feb. 3, 2015). 
+12 37 CFR 201.40.  
+13 2012 Recommendation at 126. 
+14 Ed Felten, AACS Decryption Code Released, FREEDOM TO TINKER (Jan. 8, 2007), https://freedom-to-
+tinker.com/blog/felten/aacs-decryption-code-released/ (last visited Feb. 3, 2015). 
+15 17 U.S.C. § 1201(a)(1)(3). 
+16 2012 Recommendation at126. 
+[PAGE 7]
+Comment of Multimedia E-Book Authors 
+Page 6 of 24 
+ 
+ 
+ 
+In general, protection measures on digitally transmitted video operate by utilizing a 
+combination of (i) client verification, which ensures that an authorized client is receiving the 
+content; (ii) encryption, which ensures that the content is delivered securely only to authorized 
+client; and (iii) access controls, which ensure that the client cannot export the content for 
+redistribution. 17 For example, Netflix content streamed to a laptop through a web browser plug-
+in is protected by both encryption and other protocols. The most popular of these are Microsoft 
+Silverlight and Adobe Flash. A client requests media usage rights from a rights server online and 
+downloads a DRM license or key so that he or she can play the content.18  
+The DRM systems that use these protocols are extremely diverse and in a state of 
+constant flux.19 For instance, even widely used online streaming protocols that update in real 
+time are becoming obsolete; Microsoft and Adobe have announced that Silverlight and Flash will 
+not be supported in the near future. 20 In addition, while most browsers are now transitioning to 
+the new Hypertext Markup Language 5 (“HTML5”) created by the World Wide Web 
+Consortium (“W3C”), the W3C as of late 2014 has decided to postpone DRM incorporation until 
+HTML5.1 is released, which is expected to occur later this year.21 Put simply, e-book authors 
+cannot predict what kind of DRM will be incorporated into HTML5. What is certain, however, is 
+that DRMs on HTML5 will likely be the most technologically sophisticated and difficult to work 
+around to obtain protected content. Moreover, HTML5’s clear focus on video functionality 
+emphasizes the industry’s focus on video and the high likelihood for further changes in TPM 
+implementation.22 
+In addition, it has recently become a common practice by some major studios to release 
+films exclusively online before making them available on fixed format. 23 Some online content is 
+only available online from limited distributors. For instance, two highly popular television series, 
+Arrested Development and Orange is the New Black, were released exclusively on Netflix for 
+streaming. Similarly, Amazon and Hulu also have their own popular exclusives. Without an 
+exemption, e-book authors will have no alternative to obtaining footage from these DTVs. E-
+book authors who work on time-sensitive subjects will suffer the most. For example, The 
+Interview, a film about the North Korean dictator, provoked a national debate over free speech. 
+E-book authors seeking to use material from the film to facilitate discussion or illustrate another 
+point needed to access the footage promptly, while the issue remained relevant. 
+                                                 
+17 See 2012 Comment at Appendix C, Statement of Eric Rescorla on Digitally Transmitted Video; see also 
+Appendix D, Podobas Statement. 
+18 See Appendix D, Podobas Statement; see also MICROSOFT.COM, Microsoft Services Agreement, 
+http://windows.microsoft.com/en-us/windows/microsoft-services-agreement (last visited Feb. 3, 2015).  
+19 See Appendix D, Podobas Statement. 
+20 See 2012 Recommendation at 126; see also Christopher Mims, HTML5 Triumphant: Silverlight, Flash 
+Discontinuing, MIT TECH. REV. (NOV. 9, 2011), http://www.technologyreview.com/view/426083/html5-triumphant-
+silverlight-flash-discontinuing. 
+21 Frederic Lardinois, W3C Declares HTML5 Standard Complete, TECH CRUNCH (Oct. 28, 2014), 
+http://techcrunch.com/2014/10/28/w3c-declares-html5-standard-done; see also Appendix D, Podobas Statement.  
+22 See Appendix D, Podobas Statement. 
+23 http://www.wsj.com/articles/SB10001424052702304887104579306440621142958 
+[PAGE 8]
+Comment of Multimedia E-Book Authors 
+Page 7 of 24 
+ 
+ 
+ 
+TPMs on digitally transmitted video are not only ubiquitous, but diverse across all 
+platforms. For example, cable set-top boxes, DVR machines, Hulu, and Netflix are often 
+protected by hardware encryption through High Definition Multimedia Interface (“HDMI”) cable 
+outputs as well as encryption and other protocols active within DVR and cable boxes.24 Many of 
+these TPMs are not fully developed yet, like HTML5. Nevertheless, as the Register has 
+previously determined, they all likely meet the statutory definition of TPMs, and authors 
+nonetheless need to access them. Absent an exemption covering digitally transmitted sources, 
+authors cannot criticize, comment on, and educate others about a range of important issues, 
+particularly those that include ephemeral content and current events affecting our society. 
+Given that these TPMS are widely diverse and constantly evolving, any one subset of 
+streaming technologies cannot be identified for purposes of this exemption because it would 
+become obsolete long before the exemption expired. It is clear, however, that all of the TPMs in 
+use today seek to control access through a combination of encryption and other mechanisms that 
+easily qualify as TPMs within the meaning of Section 1201(a)(3). 
+ 
+V. NONINFRINGING USES 
+ 
+A. Fair Use is a Paradigmatic Noninfringing Use. 
+Fair use is a quintessential noninfringing use expressly recognized by Congress,25 the 
+courts, 26 the Register,27 and the Librarian of Congress.28 The doctrine aims to protect democratic 
+ideals of free speech and academic freedom; prevent censorship; and encourage creative 
+expression.
+29 This, of course, includes fair use in multimedia e-book authorship.30 Excerpted 
+use31 of copyrighted multimedia clips in e-books, especially in e-books intended for educational 
+purposes, makes a strong case for fair use. 
+                                                 
+24 See generally Comment of International Documentary Association, Kartemquin Educational Films, Inc., National 
+Alliance for Media Arts and Culture, and Independent Filmmaker Project, at Section (VI)(C), Docket No. RM 2011-
+07 [hereinafter 2012 Comment]. 
+25 15 U.S.C. § 107 (1992).  
+26 See, e.g., Rosemont Enterprises, Inc. v. Random House, Inc., 366 F.2d 303 (2d Cir. 1966); Wright v. Warner 
+Books, Inc., 953 F.2d 731 (2d Cir. 1991); Norse v. Henry Holt and Co., 847 F. Supp. 142 (N.D. Cal. 1994); Bill 
+Graham Archives v. Dorling Kindersley Ltd., 448 F.3d 605 (2d Cir. 2006). 
+27 See, e.g., First Anticircumvention Rulemaking, 65 Fed. Reg. 64,556 (Oct. 27, 2000); Second Anticircumvention 
+Rulemaking, 68 Fed. Reg. 62,011 (Oct. 31, 2003); Third Anticircumvention Rulemaking, 71 Fed. Reg. 68,472 (Nov. 
+27, 2006); Fourth Anticircumvention Rulemaking, 75 Fed. Reg. 43,825 (July 27, 2010). 
+28 See 2012 Final Rule, supra note 6. 
+29 See generally Penelope v. Brown, 792 F. Supp. 132, 136 (D. Mass. 1992) (stating that purpose of fair use is “to 
+prevent strict enforcement of the copyright law when its enforcement would inhibit the very Progress of Science and 
+useful Arts that copyright is intended to promote.” (quoting Sony Corp. of Am. v. Universal City Studios, Inc., 464 
+U.S. 417, 477 (1984) (Blackmun, J., dissenting)) (quotation marks omitted); COPYRIGHT § 10.2.1 (Aspen 
+Publishers 2d ed. 2000) (describing fair use as “situations in which social, political, and cultural benefits of use will 
+outweigh any consequent losses to copyright proprietor”).  
+30 2012 NTIA Letter at 5; 2012 Recommendation at 125. 
+31 See generally Sofa Entertainment, Inc. v. Dodger Productions, Inc., 782 F. Supp. 2d 898 (C.D. Cal. 2010). 
+[PAGE 9]
+Comment of Multimedia E-Book Authors 
+Page 8 of 24 
+ 
+ 
+ 
+ 
+B. Authors Routinely Rely on and Responsibly Exercise Fair Use. 
+Authors’ reliance on the fair use doctrine dates back to the 19th century.32 In particular, 
+courts have acknowledged that authors have depended on the doctrine in order to make original 
+written contributions to society.33 Authors have continued to make fair use ever since by 
+criticizing, commenting on, and educating others about important social, political, historical, and 
+economic issues in our society.34 Doing so has enabled authors to contribute substantially to 
+academia, scholarship, and society as a whole.35 
+As the beginning of the 21st century marked a shift from printed to online media,36 
+authors began relying increasingly on making fair use of copyrighted material in order to publish 
+virtual works such as e-books.37 The digitization of the publishing industry is a positive 
+evolutionary step of a civilization developing exponentially quickly because it has “necessitated 
+the development and distribution of devices . . . within an industry that ha[s] not previously 
+required consumers to purchase devices to enjoy content”.38 Such digitization encourages authors 
+to create works in a new medium, which in turn reaches a broader audience. It also inspires non-
+authors to become authors for the first time—an economically and intellectually fruitful 
+endeavor for both writers and readers.  
+As we discuss in the next Part, by criminalizing circumvention of TPMs such as CSS, 
+AACS, and various encryption measures on digitally transmitted video, the DMCA serves as a 
+significant copyright hurdle that prevents multimedia e-book authorship from flourishing. The 
+process of obtaining a license or the copyright owner’s permission to use the work is frequently 
+convoluted and expensive. For many e-book authors who are looking to self-publish, this process 
+is financially insurmountable and logistically unfeasible. And even if e-book authors managed to 
+overcome problems of access and costs, rightsholders may still deny their requests for licensing. 
+After all, rightsholders, who may choose to refuse to license at their discretion, may not want to 
+be criticized or commented on in an unflattering manner. This potentiality leaves e-book authors 
+                                                 
+32 See Folsom v. March, 9 F. Cas. 342 (C.C.D. Mass. 1841). 
+33 Sony Corp., 464 U.S. at 417; Harper & Row, Publishers, Inc. v. Nation Enters., 471 U.S. 539 (1985); Campbell v. 
+Acuff-Rose Music, Inc., 510 U.S. 569 (1994). 
+34 Campbell, 510 U.S. (finding a rap crew’s parody version of Roy Orbison’s hit song to be fair use); Monster 
+Commc'ns, Inc. v. Turner Broad. Sys. Inc., 935 F. Supp. 490 (S.D.N.Y. 1996) (finding fair use where boxing 
+documentary used movie clips); Hofheinz v. AMC Productions, 147 F. Supp. 2d 127 (E.D.N.Y. 2001) (finding fair 
+use where documentary filmmaker used clips and photographs of copyrighted films); Hofheinz v. A&E Television 
+Networks, 146 F. Supp. 2d 442 (S.D.N.Y. 2001) (finding fair use of movie clip in TV biography of an actor); Wade 
+Williams Distrib., Inc. v. ABC, No. 00 Civ. 5002 (LMM), 2005 U.S. Dist. LEXIS 5730 (S.D.N.Y. Apr. 5,  
+ 2005) (finding fair use in clips of Ed Woods film in a TV commentary); Lennon v. Premise Media Corp., 556 F. 
+Supp. 2d 310 (S.D.N.Y. 2008) (finding fair use of Lennon's song in a documentary film). 
+35 See Loew's Inc. v. Columbia Broadcasting System, 131 F. Supp. 165 (S.D. Cal. 1955); Berlin v. E.C. Publications, 
+Inc., 329 F.2d 541 (2d Cir. 1964); Rosemont Enterprises, Inc., 366 F.2d. 
+36 See Niva Elkin-Koren, The Changing Nature of Books and the Uneasy Case for Copyright, 79 GEO. WASH. L. 
+REV. 1712 (2011). 
+37 Id. 
+38 Jacqueline D. Lipton, Copyright, Plagiarism, and Emerging Norms in Digital Publishing, 16 VAND. J. ENT. & 
+TECH. L. 585 (2014). 
+[PAGE 10]
+Comment of Multimedia E-Book Authors 
+Page 9 of 24 
+ 
+ 
+ 
+with no legal ways to obtain needed multimedia content. It also prohibits the very types of uses 
+that the fair use doctrine purports to protect. 
+Despite these and other hurdles, authors have taken several steps to exercise fair use 
+responsibly and in the least restrictive manner. For example, authors typically utilize best 
+practices guides on e-book publishing, often produced by publishing companies.39 Such guides 
+usually discuss copyright issues involving authors, such as obtaining a copyright license and 
+securing copyright in one’s own work. E-book authors also obtain Errors and Omissions 
+Insurance as a precaution, much like the filmmakers in Lennon v. Premise Media Corp40 and 
+hundreds of other instances have done for the protected work they were seeking to use. 
+Furthermore, as rightsholders themselves, authors have a profound and abiding interest in 
+preserving copyright protection.41 
+Many courts have permitted authors to use protected audiovisual material in their works 
+for fair use purposes, such as criticism, commentary, and education.42 For example, in Hofheinz 
+v. AMC Productions, the court held that AMC’s use of six film clips in a documentary was non-
+infringing fair use. The copyrights in question were for monster movies and related still 
+photographs. All four of the fair use factors weighed in AMC’s favor, in part because the 
+copyrighted material was used for a television documentary on the development of monster 
+movies. 43 Both the Register and the Librarian have acknowledged authors’ reliance on fair use.44 
+Put simply, fair use is integral to modern authorship. 
+As the appended statements demonstrate, and as we discuss below,45 multimedia e-book 
+authors specifically rely on making noninfringing fair use of protected material from DVDs, Blu-
+Ray discs, and digitally transmitted video. Accordingly, only an exemption that permits authors 
+to exercise their noninfringing right to make fair use of protected material from DVDs, Blu-Ray 
+discs, and digitally transmitted video will suffice to remedy the DMCA’s harms. 
+ 
+                                                 
+39 See, e.g., BOOK TANGO, http://www.booktango.com (last visited Feb. 3, 2015). 
+40 Michael Donaldson, Refuge From the Storm: A Fair Use Safe Harbor for Non-Fiction Works, 59 J. COPYRIGHT 
+SOC'Y 477, 546 (2012). 
+41 See, e.g., Comment of International Documentary Association et al., Docket No. RM 2011-07, at 25 (2011), 
+http://www.copyright.gov/1201/2011/initial/IDA_Mark_Berger.pdf (“As copyright holders themselves, filmmakers 
+rely on and respect copyright protection and thus have proposed an exemption that respects the balance of 
+interests”).  
+42 See Donaldson, supra note 38, at 494–505 (citing Hofheinz, 147 F. Supp. 2d; Hofheinz, 146 F. Supp. 2d; 
+Hofheinz v. Discovery Commc’ns, No. 00 civ. 3802 (HB), 2001 U.S. Dist. LEXIS 14752, at *1 (S.D.N.Y. Sept. 10, 
+2001); Wade Williams Distrib’n, Inc., No. 00 Civ. 5002, 2005 U.S. Dist., LEXIS 5730; Sofa Entertainment, Inc. v. 
+Dodger Productions, Inc., 782 F. Supp. 2d. 
+43 Hofheinz, 147 F. Supp. 2d at 141. 
+44 See 17 U.S.C. § 107 (2012); 2012 Recommendation at 126–27 (“Proponents . . . have shown that a significant 
+number of the proposed uses reproduce short excerpts of motion pictures for the purposes of criticism and 
+commentary. Such uses fall within the favored purposes referenced in the preamble of Section 107 and therefore are 
+likely to be fair uses.”); 2012 NTIA Letter (“Proponents advanced a proposed exemption for multimedia e-books 
+that holds great potential for educational and noninfringing uses such as comment and criticism.”). 
+45 See Part VI; Appendices B and C. 
+[PAGE 11]
+Comment of Multimedia E-Book Authors 
+Page 10 of 24 
+ 
+ 
+ 
+VI. ADVERSE EFFECTS 
+By preventing multimedia e-book authors from accessing material from DVDs, Blu-Ray 
+discs, and digitally transmitted video for criticism, commentary, and educational purposes, the 
+DMCA serves as a significant barrier that prevents multimedia e-book authorship from 
+flourishing. Previously proposed alternatives to circumvention are either unworkable or simply 
+unavailable to most authors. For many e-book authors who are looking to self-publish, highly 
+technical alternatives are both financially insurmountable and logistically unfeasible. As for 
+clearance as a potential alternative, rightsholders may still overprice, fail to respond, or simply 
+deny licenses to authors. This is especially so where an author aims to criticize or comment on 
+the rightsholder in a negative or unflattering manner.  
+These problems, taken together, show that the DMCA causes “actual instances of 
+verifiable problems occurring in the marketplace” of authors that are far “more than de 
+minimis.”
+46 As in 2012, there do not “exist sufficient alternatives to obviate the need for an 
+exemption.”47 The examples that follow—along with the statements supplied by several 
+multimedia e-book industry experts48 and filmmakers49—are illustrative of these substantial 
+adverse effects.  
+ 
+A. The DMCA Imposes Substantial Adverse Effects on Authors’ Ability to 
+Make Fair Use of Protected Material from DVDs, Blu-Ray, and Digitally 
+Transmitted Video. 
+As we discuss above, authors have long held and responsibly exercised the right to make 
+fair use—particularly in the form of criticism, commentary, and educational use.
+50 Given the 
+nature of their craft, multimedia e-book authors rely on their ability to criticize and comment on 
+copyrighted material much more than traditional authors. But to exercise this quintessential 
+noninfringing use, e-book authors need to be able to access motion picture material from DVD 
+protected by CSS, Blu-Ray discs protected by AACS, and digitally transmitted video protected 
+by various encryption measures. Because the DMCA prohibits circumvention of these TPMs, 
+and alternatives to such circumvention are expensive, impracticable, and unduly burdensome on 
+authors, the DMCA poses a substantial adverse effect on fair use in multimedia e-books that is 
+felt heavily in the marketplace. 
+ 
+i. Inability to Make Fair Use of Material on DVDs 
+As in 2012,
+51 multimedia e-book authors rely on their ability to make fair use of DVDs. 
+Yet DVDs are locked away under CSS, which the Register recognizes “is a technological 
+                                                 
+46 2012 Final Recommendation at 7-8. 
+47 2012 NTIA Letter, supra note 43, at 21. 
+48 See Appendices B and C. 
+49 Id. 
+50 See supra note 3. 
+51 See 2012 NTIA Letter, supra note 43, at 20. 
+[PAGE 12]
+Comment of Multimedia E-Book Authors 
+Page 11 of 24 
+ 
+ 
+ 
+measure that controls access to motion pictures on DVDs”.52 The DMCA thus prevents authors 
+from, or breaking CSS encryption and, by extension, ripping from DVDs. In doing so, the 
+DMCA severely hinders authors’ ability to criticize and comment on important protected 
+material from DVDs.  
+Since the Librarian granted an exemption permitting authors to circumvent CSS in certain 
+circumstances in 2012,53 authors have successfully authored numerous multimedia e-books54 and 
+begun work on new ones. Given that DVDs are still among the most common sources of motion 
+picture material, and at times, the only source,55 the DMCA’s prohibition on circumvention of 
+CSS will continue to pose a substantial adverse effect on fair use in e-book authorship during the 
+2015-2018 exemption period. 
+As an example, the Academy Award-winning sound editor Mark Berger seeks to make an 
+e-book, Listening to Movies, that will explore in detail the many uses of sound and how it relates 
+to the film’s moving images. The book will present the concepts and vocabulary necessary to 
+analyze the inner workings of a film soundtrack. The first volume will concern production and 
+post-production: script, camera, set design, directing, lighting, sound, editing, and mixing. The 
+second will focus on understanding sound: history, analysis of image and sound, genres, and 
+directors. These cannot be accomplished without actually seeing and hearing the scene as it was 
+intended to be heard.  
+In Mr. Berger’s experience, a major problem with lower-fidelity formats is that they 
+utilize compression. Compression sacrifices the video and audio image’s quality and introduces 
+artifacts such as stutters and noise. As a result, he needs at a minimum to be able to obtain 
+materials from DVD if not higher quality.   
+As another example, Jiliann Spitzmiller is a filmmaker, educator, and author. She has 
+made many documentaries and has made a few e-books on filmmaking techniques, critique, and 
+editing. In her e-books, she includes clips to highlight the filmmaking techniques being discussed 
+in her book. Currently, she only uses clips that come from her own documentaries but would like 
+to be able to use clips from other projects. She has plans to publish additional e-books in the 
+future. Because of the subject matter of her e-books, , which depends on close analysis of visual 
+elements, she seeks to use the highest quality footage possible.56 
+These examples demonstrate that these substantial adverse effects are continuous and 
+pervasive; more than de minimis; and keenly felt in the marketplace. Accordingly, only an 
+                                                 
+52 See 2012 Recommendation at 126 (“It is well established, and the record confirms, that CSS is a technological 
+measure that controls access to motion pictures on DVDs.”). 
+53 See 2012 Final Rule, supra note 6. 
+54 See, e.g., Recommendation of the Register of Copyrights (June 11, 2010) at 57 (stating, “[it is] clear that a 
+transition is currently taking place to new forms of digital distribution, such as Blu-ray discs protected by the AACS 
+system. . .”) [hereinafter 2010 Recommendation]. 
+55 2012 Recommendation at 7 (quoting 2003 Final Rule at 62,013 (internal quotation marks omitted)). 
+56 Telephone interview with Jiliann Spitzmiller, Adjunct Professor of Film at Santa Fe Community College and a 
+documentary filmmaker (Feb. 4, 2015). 
+[PAGE 13]
+Comment of Multimedia E-Book Authors 
+Page 12 of 24 
+ 
+ 
+ 
+exemption that covers CSS will suffice to restore authors’ noninfringing fair use rights 
+ 
+ii. Inability to Make Fair Use of Material on Blu-Ray Discs 
+The DMCA also causes a substantial adverse effect on e-book authors’ ability to make 
+fair use of material on Blu-Ray. As the Register has previously recognized, Blu-Ray is protected 
+by AACS, a form of access control.57  
+As NTIA recognized in 2012, many authors require the ability to access an HD source of 
+footage, such as that provided by Blu-Ray.58 While DVDs are not entirely obsolete, Blu-Ray is 
+quickly supplanting DVDs as the predominant source of motion picture material, especially high 
+fidelity material and bonus outtakes.59 Furthermore, a substantial and increasing amount of 
+motion picture material is now available exclusively on AACS-protected Blu-Ray.60 As such, e-
+book authors have a pressing need to access Blu-Ray in order to create multimedia e-books with 
+sufficient quality.  
+Professor Pamela Samuelson of UC Berkeley School of Law, for example, is a copyright 
+scholar who seeks to create a multimedia e-book that would facilitate an in-depth classroom 
+discussion closely examining whether James Bond is a copyrightable character in light of 
+significant changes to his character over time, including facial features, clothing, and culture. 
+Allowing students to take a fine-grained look at the development of James Bond’s character 
+requires, at a minimum, the use of a high quality source such as Blu-ray. High quality is essential 
+to her use for a number of reasons. For example: What kind of watch does he wear? How buffed 
+was this one as compared with that one? What age is Bond in this film as compared with that one 
+and how is it shown? How similar or different are the details of his dress, such as shoes, 
+cufflinks, and textiles? How one determines what is the essence of the character and why it 
+should be protected is not just about the overall impression one has, but it is also about fine 
+details and these details must be observed in high quality.  
+In addition, because a number of older James Bond movies are available in limited 
+quantity on DVD, Blu-Ray discs are Professor Samuelson’s only accessible option. Furthermore, 
+many film exclusives and extra feature content are exclusive to Blu-Ray. For example, a behind-
+the-scenes look at Skyfall, a 2012 James Bond film, and Being Bond, a profile of actors who 
+played Bond, are only available in a collectible Blu-Ray box set sold exclusively at Best Buy and 
+Target stores.
+61 
+                                                 
+57 2012 Recommendation at 126. (“It is well established, and the record confirms, that . . . AACS is a measure that 
+controls access to motion pictures on Blu-ray discs.) 
+58 See 2012 NTIA Letter at 21 (acknowledging educators’ need for high quality material). 
+59 See Lucas Mearian, Bye-bye Blu-ray: Video-on-demand and streaming options are gaining on you, 
+COMPUTERWORLD, http://www.computerworld.com/article/2488931/data-center/bye-bye--blu-ray--video-on-
+demand-and-streaming-options-are-gaining-on-you.html (May 2, 2014) (stating that in 2013, “about 124 million 
+Blu-ray discs were sold in the U.S., a 4.2% increase over 2012 . . . DVD sales, which have been plummeting for 
+years, dropped 13/6% last year.”) (last visited Feb. 5, 2015); see also 2012 Recommendation at 135 (attesting that 
+some footage is, and some films in their entirety are, only available on Blu-Ray). 
+60 See, e.g., 2010 Recommendation at 57 (stating that it is “clear that a transition is currently taking place to new 
+forms of digital distribution, such as Blu-ray discs protected by the AACS system”). 
+61 See generally Appendix E, Exclusive Blu-Ray and Extra Content. 
+[PAGE 14]
+Comment of Multimedia E-Book Authors 
+Page 13 of 24 
+ 
+ 
+ 
+Bobette Buster is an Adjunct Professor in the University of Southern California’s Peter 
+Stark Producing Program and an internationally known lecturer and consultant on story 
+development, who is developing a four-part e-book called Deconstructing Masters of Cinema.  
+In her statement appended to this comment at Appendix B, she explains why it is necessary that 
+she be permitted to access Blu-ray.  
+The commonly accepted viewing standard of  images on DVD is now HD or Blu-
+Ray. To use an analogy, Standard Definition is to monaural recordings in recorded 
+music, television or cinema (a technology that became obsolete in the 1960s), what 
+High-Def or Blu-Ray is to stereo re cording, moving now onto Dolby 5.1/Atmos 
+today.  Technological wonder drives the marketplace. The consumer expects, even 
+demands the highest affordable quality of  viewing and listening experience. As 
+well, the lesser format of Standard Def now scratches easily, or pixelates after 
+repeated viewings, thereby making the selling of this item dubious.   
+In my live Keynote lectures, wherein I have embedded film clips, I use Standard 
+Definition DVDs. I always have to preface my comments with, “In ideal viewing 
+circumstances, you would see the following . . .” or, “Ideally, you would hear the 
+following. . .” And then I have to desc ribe fully what the class should be 
+experiencing from the filmmaker’s original vision. 
+It is worth noting that Hollywood films are renowned for costing millions to make. 
+Each shot is labored over by a small army of highly expe rienced artisans, 
+craftspeople, and technici ans—from the cinematographer to production/art 
+designer, lighting crew, sound, costume, props—all of whom plus the story of the 
+film with their various expertises [sic]. One shot can cost literally millions of dollars 
+and take days to complete. Major beloved and talented directors take great pains 
+orchestrate these shots, while also direc ting the actors. This is what the audience 
+the world over has come to expect from this entertainment form. Why then would 
+the studios want any of this work shown at a sub-standard level in any form?
+62  
+Among other analyses, Ms. Buster seeks to profile famed cinematographer Gordon 
+Willis, who shot The Godfather series and:  
+is also known as The Prince of Darkness. Willis purposefully shoots in very low-
+light settings with one note of color—such as a bloody red rose or Kay Adams’ red 
+dress. His cinematography choices are essential for understanding the story. In 
+Standard Definition clips, it can be difficult, if not impossible after repeated uses to 
+see the correct range of dark colors such as black, brown, and red.63  
+In her statement, Ms. Buster relates numerous other uses that require the most fine-
+grained detail possible in order for her to conduct the criticism and analysis she seeks to make. 
+She has also experienced that Standard Definition files degrade over time, becoming pixillated 
+and creating other defects—another reason why DVD alone is not suitable for her use, nor many 
+others.   
+                                                 
+62 See generally Appendix B, Buster Statement. 
+63 Id. 
+[PAGE 15]
+Comment of Multimedia E-Book Authors 
+Page 14 of 24 
+ 
+ 
+ 
+These stories represent but a few examples of the type of activity that Section 1201’s 
+prohibition on circumvention is stifling. Given that Blu-Ray is the most widely available and 
+standardized format for obtaining high quality material, multimedia e-book authors such as these 
+need access to material that is exclusively available on Blu-Ray. 
+The DMCA’s prohibition on circumvention of AACS thus prohibits authors from making 
+noninfringing fair use of important copyrighted material from Blu-Ray discs and causes actual 
+instances of verifiable problems occurring in the marketplace. These instances are far “more than 
+de minimis.”64 Only an exemption, covering in part AACS on Blu-Ray discs, would suffice to 
+restore authors’ noninfringing fair use rights. 
+ 
+iii. Inability to Access Digitally Transmitted Video 
+The DMCA further causes a substantial adverse effect on e-book authors’ ability to make 
+fair use of digitally transmitted video, including cable and online distributions. Digitally 
+transmitted video sources range from cable set-top DVRs to online distributors and streaming 
+services. These sources often include many materials unavailable through other means, such as 
+news broadcasts, commercials, and other ephemeral content. As with filmmakers, more and more 
+authors have either created an e-book that included clips from a digitally transmitted video 
+source or implemented a plan to do so in order to criticize, comment on, or educate others about 
+important current events or issues.  
+The problem is that a significant and increasing amount of motion picture material is 
+available only through digitally transmitted video sources protected by encryption,
+65 which 
+deeply chill the fair uses that e-book authors wish to make. In addition, some studios and 
+producers have developed the common practice of releasing films exclusively online before 
+making them available on fixed format.66 Some online content is only available online from 
+limited distributors. For instance, two highly popular television series, Arrested Development and 
+Orange is the New Black, were released exclusively on Netflix. Similarly, Amazon and Hulu 
+also have their own popular exclusives. Without an exemption, e-book authors will have no 
+alternative to obtaining footage from these DTVs. E-book authors who work on time-sensitive 
+subjects will suffer the most. 
+The experience of Professor Steve Anderson provides an instructive example. Professor 
+Anderson is an Associate Professor of the Practice of Cinematic Arts at the University of 
+Southern California School of Cinematic Arts. He recently completed two electronic journal 
+articles for peer-reviewed journals (American Literature and The Italian Journal of Game 
+Studies) which are also part of a larger e-book project that uses short clips from dozens of 
+Hollywood films and TV shows in order to make a critical, historical argument about popular 
+                                                 
+64 2012 Recommendation at 7 (quoting 2003 Final Rule at 62,013 (internal quotation marks omitted)).  
+65 See, e.g., id. at 154 (concluding that “Proponents have established that there is a great deal of content available 
+only online. . .”). 
+66 Ben Fritz, Sales of Digital Movies Surge, WALL ST. J. (Jan. 7, 2014), available at 
+http://www.wsj.com/articles/SB10001424052702304887104579306440621142958. 
+[PAGE 16]
+Comment of Multimedia E-Book Authors 
+Page 15 of 24 
+ 
+ 
+ 
+depictions of computer and gaming technologies. Research for this work was done over the last 
+three years, with publications in 2014 and 2015. 
+In order to prepare his e-book, he has obtained content from numerous DVDs using the 
+existing exemption. Because his work emphasizes visual effects and technological details in film, 
+he often finds that he is unable to accurately portray his research through the DVD ripped 
+content alone. Steve is frequently unable to find all of the historical content he needs on DVD, 
+and finds that some content is only available streaming or on broadcast television. Because 
+Steve's scholarship is dependent on the ability to embed this content, this limitation negatively 
+impacts his work.67 
+This example, together with the others we present here and in the Appendices, constitute 
+“actual instances of verifiable problems occurring in the marketplace” that are far “more than de 
+minimis” and therefore constitute “substantial adverse effects.” 68 Importantly, both the author 
+and the public suffer as a result of the DMCA’s prohibition, as both are unable to present or 
+consume valuable criticism, comment, news reporting, teaching, scholarship, or research.  
+The DMCA’s prohibition on various encryption measures on digitally transmitted video 
+continues to pose substantial adverse effects on fair use in e-book authorship.69 The Copyright 
+Office should therefore recommend an exemption for authors who seek to make fair use of 
+copyrighted material on digitally transmitted video, including cable and online sources. Only an 
+exemption, covering in part the various encryption measures on digitally transmitted video 
+would suffice to restore authors’ lawful, noninfringing fair use rights. 
+ 
+B. Alternatives to Circumvention Remain Costly, Impracticable, Inferior, and 
+Unduly Burdensome for Multimedia E-Book Authors. 
+i. Circumvention Alternatives are often Prohibitively Expensive.  
+Alternatives to circumvention remain an out-of-reach and unrealistic option for the vast 
+majority of e-book authors. First, the technology required for these alternatives is often cost-
+prohibitive for authors.70 For many authors attempting to make fair use of copyrighted material 
+in the form of criticism and commentary, the cost to purchase tools to circumvent TPMs are 
+exorbitant and prohibitively expensive fees. This is especially true for self-published authors that 
+lack the resources to invest in highly technical circumvention alternatives.  
+Moreover, to require a self-publishing author to buy a costly visual stabilizer or digital 
+time base corrector in order to maintain audio and frame rate sync between the DVD player and 
+recording device, and purchase additional film editing software merely to access a few minutes 
+of footage, would be unfair and patently unreasonable. The NTIA has specifically acknowledged 
+that, “for educators and students, screen capture software and hardware may not be universally 
+                                                 
+67 Telephone Interview with Steve Anderson, Associate Professor of the Practice of Cinematic Arts Media Arts + 
+Practice Division (Feb. 4, 2015). 
+68 Notice of Inquiry and Request for Petitions, 79 Fed. Reg. 55,687 (Sept. 17, 2014). 
+69 2012 Recommendation at 154. 
+70 See 2012 NTIA letter at 21. 
+[PAGE 17]
+Comment of Multimedia E-Book Authors 
+Page 16 of 24 
+ 
+ 
+ 
+available due to high costs and tight budgets. . . .” 71 Similarly, multimedia e-book authors often 
+cannot afford to purchase alternatives to circumvention. 
+ 
+ii. Circumvention Alternatives are often Impracticable to Use. 
+Second, the technology required for these alternatives are impossibly difficult for authors 
+to operate.
+72 Authors who embed audio and video content into their e-books are not necessarily 
+film editors or technical experts. As an example, in 2015 a self-publishing e-book author can use 
+self-publishing e-book software such as Adobe InDesign in lieu of doing advanced video editing. 
+It would also be unreasonable to expect a self-publishing e-book author to know how to correct 
+the audio sync issues and degradation of video resolution caused by operating screen-capture 
+software.  
+While purchasing screen capture software is less costly than analog transfer machines, 
+screen capturing cannot be used without degrading the resolution and quality of the video. 
+Furthermore, it cannot capture the required video and audio elements without inserting audio 
+sync issues and creating a perceptible skipping in the video. The degradation of videos become 
+even more obvious when e-books are presented through a projector screen in education setting.73 
+These examples demonstrate that previously suggested alternatives to circumvention, 
+including analog transfer method, scan conversion, or screen capture, pose an enormous 
+challenge for multimedia e-book authors given their low likelihood of having inherent film 
+editing or technical expertise.  
+ 
+iii. Circumvention Alternatives Often Produce Footage of Inferior and 
+Quality Unsuitable for the Uses E-book Authors Seek to Make 
+Where it is possible to use an alternative to circumvention, the resulting video quality is 
+in the overwhelming majority of circumstances so degraded as to be unusable.74 This is because 
+it is not of sufficient quality to make the point the e-book author is trying to make, because it 
+does not meet distributor minimum standards, or both.75 At a minimum, many e-book authors 
+need access to at least standard-definition quality digital files. This is especially so where the 
+author’s e-book aims to comment or criticize audio and visual elements of the motion picture 
+material.  
+                                                 
+71 Id. 
+72 Id. 
+73 2012 Comment at 15; see generally Appendix B, Buster Statement. 
+74 See 2012 Recommendation at 65268 (“for certain uses—i.e.,when trying to convey a point that depends upon the 
+ability to perceive details or subtleties in a motion picture excerpt—documentary filmmakers and ebook authors 
+would likely suffer adverse effects if they were unable to incorporate higher-quality images.”); see also 2012 NTIA 
+Letter at 21. 
+75 See generally Appendix B, Buster Statement. 
+[PAGE 18]
+Comment of Multimedia E-Book Authors 
+Page 17 of 24 
+ 
+ 
+ 
+The examples we discuss in Part demonstrate the type of adverse effects on noninfringing 
+uses that the exemption process was designed to remedy.76 As such, only an exemption could 
+protect multimedia e-books authors’ ability to make fair use of the high quality material they 
+need for their works. 
+ 
+iv. Clearance Culture Remains Unduly Burdensome to Authors. 
+Finally, clearance—or licensing—continues to be an unrealistic option for e-book 
+authors.
+77 First, nearly all licenses from major studios contain provisions with language bars 
+licensees from casting the studio or the film in a negative light. In a New York Times article 
+containing an interview with Kirby Dick of This Film Is Not Yet Rated, Mr. Dick explained that 
+“projects that ruffle the feathers of the media establishment . . . face insurmountable challenges” 
+and observed that “[s]ome licensing agreements prohibit negative portrayal of copyright 
+holders.”
+78 Rightsholders are therefore unlikely to grant e-book authors a license to criticize, 
+comment on, or negatively portray their works. 
+Second, even where a rightsholder is willing to award a license to an author, the 
+rightsholder has unequal bargaining power and can charge the author an exorbitant fee, 
+burdening the type of expression that ebook authors seek to make.79  
+The NTIA’s observations in 2012 explicitly acknowledge this problem: 
+[P]roponents have introduced evidence supporting the conclusion that copyright 
+license negotiations are expensive and burdensome, especially when the licensee 
+seeks to critique the copyrighted work. Proponents note that these burdens alone 
+provide ample reason to support exemptions for documentary filmmakers, 
+consistent with the Register’s previous recommendation. Therefore, with the 
+following consideration, NTIA supports a continuation of the current exemption 
+as well as several proposed expansions [including an exemption applicable to 
+multimedia e-book authors].
+80 
+The same conditions exist today.  
+Hence, fair use is critical for e-book authors seeking to criticize, comment on, or cast in a 
+negative light certain motion picture material. To require authors to seek clearance rather than 
+circumvent in order to make fair use is anathema to the policy rationale behind the fair use 
+doctrine and subverts its constitutional importance as copyright’s “safety valve.” Absent the 
+                                                 
+76 But cf. 2012 NTIA Letter at 21 (“Generally, the technological alternatives produce low-quality videos, and 
+associated license agreements often impose significant content limitations on the final work product. . . [E]ducators 
+and students that are able to access such software and hardware may find the quality insufficient for the pedagogical 
+purpose and distracting in a classroom setting.”) (citing Comments of the Media Education Lab at the Harrington 
+School of Communication and Media at the University of Rhode Island (URI Comments) at 10-11, Docket No. RM 
+2011-7, http://www.copyright.gov/1201/2011/initial/media_edu_lab.pdf; June 4 Transcript at 32).  
+77 2012 Comment at 5; see Brantley Statement at 30; see also 2012 NTIA Letter at 21. 
+78 Elaine Dutka, No Free Samples for Documentaries: Seeking Film Clips With the Fair-Use Doctrine,  N.Y. TIMES, 
+May 28, 2006, http://www.nytimes.com/2006/05/28/movies/28dutk.html?_r=0  
+79 2012 Comment at 5.  
+802012 NTIA Letter at 21. 
+[PAGE 19]
+Comment of Multimedia E-Book Authors 
+Page 18 of 24 
+ 
+ 
+ 
+ability to make fair use, many authors would be prohibited from using copyrighted material 
+merely because the rightsholder disapproves of the authors’ message. 
+Altogether, the DMCA continues to have substantial adverse effects on e-book authors’ 
+ability to make fair use of DVDs protected by CSS, Blu-Ray discs protected by AACS, and 
+digitally transmitted video protected by various encryption measures. Alternatives to 
+circumvention of these mediums are costly, impracticable, inferior and unduly burdensome. 
+Unless the Copyright Office resolves this substantial adverse effect by recommending an 
+exemption, it will continue to have deleterious effects on the marketplace. 
+ 
+VII. SECTION 1201(A)(1)(C) STATUTORY FACTORS 
+The 1201 rulemaking process is critical to maintaining the balance that copyright law 
+seeks to strike between providing meaningful exclusive rights to rightsholders and facilitating the 
+public’s access to important works. It does so by ensuring that the statutory protection for access 
+controls does not violate the First Amendment. The Supreme Court has held that fair use is an 
+important “first amendment accommodation” “built-in” to copyright law.81 This accommodation, 
+together with the DMCA’s exemption process, is vital to e-books, specifically multimedia e-
+books, which offer valuable scholarship, educational potential, social commentary, and cultural 
+criticism. Because the DMCA’s anticircumvention rules cause substantial “adverse effect[s]” 
+well above the threshold of “more than de minimus,”82 we urge the Register to recommend our 
+proposed exemption to the Librarian of Congress. A consideration of the factors set forth at 
+Section 1201(a)(1)(C)(i)-(v) favors the exemption because the proposed class is narrowly 
+tailored to prevent harm to important purposes served by fair use while avoiding any harm 
+whatsoever against other copyright interests. 
+ 
+A. Availability of Copyrighted Works.  
+The “relevant inquiry” into the first factor includes: [1] whether the availability of the work in 
+protected format enhances and/or inhibits public use of particular works, [2] whether the work 
+protected is also available in other formats (and whether those formats are protected by access 
+controls), [] [3] if alternative formats are available, whether such formats are sufficient to 
+accommodate noninfringing uses,83 and [4] whether the format is part of a “use-facilitating” 
+business model that offers the public access to work in a variety of new ways, and whether the 
+proposed exemption would prejudice this model. 
+Without an exemption, the DMCA’s anticircumvention provision will prohibit e-book 
+authors from accessing material that is lawful to use under the fair use doctrine, but illegal to 
+obtain under Section 1201. This material is of the utmost importance to their works.  The 
+exemption would apply only to a narrowly tailored group of authors who responsibly make fair 
+use, and the exemption would institute an incremental approach that allows circumvention of 
+                                                 
+81 Eldred v. Ashcroft, 537 U.S. 186, 219 (2003). 
+82 2012 Recommendation at 7 (quoting 2003 Final Rule at 62,013).  
+83 2010 Recommendation at 56 (quoting 2006 Recommendation of the Register of Copyrights at 19-22). 
+[PAGE 20]
+Comment of Multimedia E-Book Authors 
+Page 19 of 24 
+ 
+ 
+ 
+new services only when necessary to prevent a specified harm.  
+ 
+i. The Register Considers Whether the Availability of the Work in Protected 
+Format Enhances and/or Inhibits Public Use of Particular Works. 
+The Register recognized in 2012 that the DMCA’s anticircumvention prohibition 
+prevents many e-book authors from making fair use of works in the protected formats identified 
+in the proposed class. The same true today and will continue throughout the 2015-2018 
+exemption period. As such, “the availability of the work in a protected format” actually inhibits 
+fair use of particular works.84 Our proposed exemption would resolve this problem while doing 
+no harm to the public availability of motion pictures on Blu-Ray, DVD, or digitally transmitted 
+video.  
+The Register acknowledged in 2010 that the “realities of the current marketplace” show 
+that an exemption for certain noninfringing uses will not harm digital distribution of DVDs 
+because “protected DVDs have continued to be the dominant format even though circumvention 
+tools have long been widely available online.”85 Furthermore, in 2012, the Register stated: 
+[T]he record here does not support a finding that there can be no exception to the 
+prohibition on circumvention for the purpose of facilitating noninfringing uses or 
+that the overall availability of motion pictures will suffer if such an exemption is 
+adopted. Accordingly, the first statutory factor does not weigh against properly 
+tailored exemptions to permit the fair use of protected motion picture material.86 
+This argument has only strengthened since the last rulemaking, and applies equally to Blu-ray 
+and digitally distributed video. Not a single rightsholder has come forward with even an 
+allegation of abuse, and we know of no new evidence that would undermine these conclusions. 
+ 
+ii. The Register Considers Whether the Work is Available in Alternative Formats 
+and Whether those Formats Have Access Controls. 
+The only commercial formats that authors can use to obtain materials for fair use are on 
+DVD, Blu-Ray, and digitally transmitted video.87 VHS tapes are no longer a viable alternative, as 
+the image quality is extremely poor and commercial distribution ceased in 2008.88 As the 
+Register anticipated, new forms of digital distribution have arisen—and even dominated—since 
+the last rulemaking.89 One such form of digital distribution is AACS-protected Blu-Ray. Thus, 
+we now request access to Blu-Ray because an exemption covering only DVD and digitally 
+transmitted video is no longer sufficient to reflect the realities of today’s evolving digital 
+environment. 
+                                                 
+84 Id. 
+85 Id. at 57. 
+86 2012 Recommendation at 136. 
+87 See Appendix C, Berger Statement. 
+88 2012 Recommendation at 131 (citing P7D (Joint Filmmakers) at 1). 
+89 Id. at 57. 
+[PAGE 21]
+Comment of Multimedia E-Book Authors 
+Page 20 of 24 
+ 
+ 
+ 
+While each format in the proposed class may contain material that is also available in 
+another format (e.g., on both DVD and digital transmission services), all three of the requested 
+formats are protected by a form of DRM that authors reasonably fear is covered by the DMCA.  
+In an increasing number of cases, motion picture materials are available exclusively on 
+only one of these formats, as we demonstrate at Appendix E90 Thus, there is no viable alternative 
+for accessing the specific and necessary motion picture material without circumvention. 
+ 
+iii. If Alternative Formats are Available, The Register Considers Whether 
+Alternative Formats are Sufficient to Accommodate Noninfringing Uses. 
+No alternative format to the proposed formats—Blu-Ray, DVD, and digitally transmitted 
+video—is available that will be sufficient to accommodate the noninfringing uses authors desire 
+to make. In Part VI.B., we demonstrate that various encryption measures are constantly evolving. 
+In previous rulemakings, the Register acknowledged that alternative means to circumvention are 
+impracticable, even for those who tend to possess some expertise with video technology and 
+relevant software. 91These alternative measures are even more impracticable for e-book authors 
+than for filmmakers because e-book authors generally have less financial resources and less 
+exposure to and expertise with relevant video technology. 
+Alternatives to circumvention are also impracticable due to the upgrade in technical 
+requirements and consumer expectations from SD to HD, as we explain above at Part IV.  
+ 
+iv. Whether the Format is Part of a “Use-Facilitating” Business Model that 
+Offers the Public Access to Work in a Variety of New Ways and Whether the 
+Proposed Exemption would Prejudice this Model. 
+The TPMs on Blu-ray, DVD, and digitally transmitted video are, by definition, use-
+limiting. TPMs restrict public access to copyrighted materials, particularly in the case of critical 
+reviews and commentary. Our request seeks a narrow, well-defined, and incremental class 
+limited by both use and user. Whether or not the format is actually part of a “use-facilitating 
+model,” it will encounter no prejudice from the proposed exemption.  
+Just as the 2012 exemption for multimedia e-book authors caused no harm to the public 
+availability of motion pictures, neither would our proposed exemption. The impact of the 
+exemption will be dispersed among many services and will be minimal when applied to any one 
+service, given the great variety of such services currently available and the near certainty that 
+even more will become available in the future.92 Furthermore, the incremental structure of the 
+                                                 
+90 See Appendix E, Material Available Exclusively on Blu-ray or DTV.  
+91 2010 Recommendation at 59 (stating, “It is specious to suggest that such an alternative means of copying CSS-
+protected DVDs is a reasonable substitute for circumvention.”); 2012 Recommendation at 65268 (“clip licensing 
+was not a reasonable alternative, as the scope of content offered through reasonably available licensing sources was 
+far from complete; 2012 NTIA Letter at 16. 
+92 2012 NTIA Letter at 17 (citing Filmmakers’ Comment, Section (III)(C)(iii)) 
+[PAGE 22]
+Comment of Multimedia E-Book Authors 
+Page 21 of 24 
+ 
+ 
+ 
+proposed class will ensure that filmmakers only obtain material from a digital transmission 
+service only when necessary. 
+Furthermore, studies show that TPMs have not reduced piracy.93 Rightsholders appear to 
+use TPMs to finely tuned permitted uses. For example, many videos are available on the 
+streaming service Hulu. Streaming some material is free on a computer but the same material 
+comes with a fee for use on a mobile device.
+94 In general, rightsholders appear to be using TPMs 
+to control how their material is used—despite the guarantees that fair use is supposed to provide. 
+For example, a growing number of rightsholders are successfully persuading content users to 
+sign licensing agreements in lieu of allowing fair use.  
+Thus, this exemption would allow e-book authors to use material that they should be able 
+to access under fair use, which ultimately allows the public greater access to new uses. Rather 
+than upsetting any “use-facilitating” business model, this exemption would allow the public 
+greater access to the works that are currently protected by TPMs. 
+Finally, we know of no evidence that the “use-facilitating” business model is affected by 
+whether or not TPMs are broken.  
+ 
+B. The Availability for Use of Works for Nonprofit Archival, Preservation, and 
+Educational Purposes. 
+In previous rulemakings, the Register found that this factor either is neutral or weighs in 
+favor of crafting a class that includes use in multimedia e-books because proponents successfully 
+argued that “documentary films are intrinsically educational in that they purport to tell the truth 
+or document reality, and of course, many documentary films are made specially for use in the 
+classroom setting. Additionally, documentary films are used as teaching tools at all educational 
+levels for a variety of purposes.”95  
+Multimedia e-books have a similar educational value and are intrinsically archival. Many 
+multimedia e-books are created as a teaching tool and they can be used as a reference and 
+resource. Every level of education can benefit from high-quality multimedia e-books featuring a 
+range of fair uses that will only be possible if this exemption is granted. 
+ 
+                                                 
+93 Pamela Samuelson, DRM {AND, OR, VS.} THE LAW, 46 COMM. OF THE ACM 4, 41 (April 2003); J. Alex 
+Halderman & Edward W. Felten, Lessons from the Sony CD DRM Episode, Center for Information Technology 
+Policy Department of Computer Science Princeton University, https://jhalderm.com/pub/papers/rootkit-sec06.pdf 
+(last visited Feb. 5, 2014). 
+94 See Help Center: Using Hulu.com on your phone or tablet browser, HULU, (accessed Jan. 29, 2015), 
+http://www.hulu.com/help/articles/23875521. 
+95 2010 Recommendation at 69. 
+[PAGE 23]
+Comment of Multimedia E-Book Authors 
+Page 22 of 24 
+ 
+ 
+ 
+C. The Impact that the Prohibition on the Circumvention of Technological 
+Measures Applied to Copyrighted Works has on Criticism, Comment, News 
+Reporting, Teaching, Scholarship, or Research. 
+Authors began the tradition of fair use to accomplish the purposes of criticism and 
+comment.96 Books are the quintessential repository for sustained scholarship and are the primary 
+teaching tool at all levels of education. In 2012, the Register noted that this factor “is a critical 
+consideration in relation to noncommercial videos, documentary filmmaking, multimedia e-book 
+authorship, and educational uses. Each of these proposed categories seeks to enable criticism, 
+comment, teaching, and/or scholarship. This factor therefore weighs strongly in favor of 
+appropriately tailored exemptions to foster such uses.”97  
+Since 2012, this argument has only strengthened. Multimedia e-book authors will propel 
+the fair use tradition into the twenty-first century by making use of innovative technologies to 
+provide scholarly research and arguments to readers in a manner that efficiently embeds content 
+essential to understanding the scholarship. Such material is significantly more effective and 
+dynamic than prose alone.  
+Our proposed exemption can help to facilitate a revolution in scholarship and contribute 
+to a profound change in the way people learn and the way education is approached in the United 
+States. The multimedia e-books that the proponents wish to create serve as compelling examples 
+of such critical scholarship. If granted this exemption, many other scholars will have the 
+opportunity to translate their research into multimedia e-books. 
+ 
+D. The Effect of Circumvention of Technological Measures on the Market for or 
+Value of Copyrighted Works. 
+The doctrine of fair use protects rightsholders’ interest in protecting the market for their 
+works, because the doctrine requires a “transformative use” of the original work that prevents a 
+fair use from serving as a “market substitution.”98 The Supreme Court has recognized that there 
+is “no protectable derivative market for criticism” because “the unlikelihood that creators of 
+imaginative works will license critical reviews or lampoons of their own productions removes 
+such uses from the very notion of a potential licensing market.”99 Harm cognizable under the 
+Copyright Act consists of “market substitution” effects, not “criticism that merely suppresses 
+demand.”100 Indeed, in 2012 the Register concluded that transformative uses are “unlikely to 
+affect [or supplant] the relevant markets for the original work.”101 This has not changed since the 
+doctrine of transformativeness was adopted and is not likely to change in the foreseeable future. 
+Furthermore, we are not aware of any allegations that previous exemptions pertaining to 
+DVDs have resulted in infringing uses. This confirms the logic underlying the requested 
+                                                 
+96 Folsom v. Marsh, 9 F. Cas. 342 (C.C.D. Mass. 1841) (establishing the principle of “fair use.”). 
+97 2012 Recommendation at 136 (emphasis added). 
+98 See 2012 Comment at 19 (citing Filmmakers’ Comment, Section (IV)(D) (3)(iv)). 
+99 Campbell v. Acuff-Rose Music, Inc., 114 S.Ct. 569, 592-94 (1994). 
+100 Id. 
+101 2010 Recommendation at 71; 2012 Recommendation at 136. 
+[PAGE 24]
+Comment of Multimedia E-Book Authors 
+Page 23 of 24 
+ 
+ 
+ 
+exemption: when a class is narrowly tailored to a small group of users who follow established 
+best practices in fair use, the exemption will not prejudice the market for or value of copyrighted 
+works. It is especially unlikely that fair use in this context will prejudice the market for the 
+original works, because authors like Mr. Berger, Ms. Buster, Professor Samuelson, and others 
+engage in commentary, criticism, and analysis that reveals subtle, yet powerful, techniques used 
+by authors.  
+Inclusion of copyrighted material in new works often increases the visibility of and 
+appetite for the original material by bringing it to consumers’ attention and highlighting the 
+technique and skill involved. Finally, an incremental approach further limits any risk of prejudice 
+by ensuring this small group of users makes use of the most mature format that is sufficient to 
+accommodate the particular noninfringing use. 
+ 
+E. Such Other Factors as the Librarian Considers Appropriate.  
+In considering this factor in 2010, the “Register found it relevant that the measure at issue 
+‘merged’ access and use controls, and was being used ‘predominantly for the purpose of 
+preventing reproduction and other rights of the copyright owner’ even though it was 
+characterized as an access control.”
+102 The Register found that this factor weighed in favor of the 
+Commentators, since the “effect of the access control is not to prevent unauthorized access but, 
+rather, to restrict uses of motion pictures” for “socially-beneficial noninfringing uses.”103  
+The same applies to the protection measures on the formats included in the class of works 
+requested here. AACS on Blu-Ray is similar to both CSS on DVD, various encryption measures 
+on digitally transmitted video, because each has the same purpose and effect.104 Like in 2010, the 
+TPMs at issue are not used to prevent unauthorized access or to conceal copyrighted material. 
+Rather, they are being used to manage rights and to prevent the public from engaging in lawful, 
+noninfringing, and fair uses. To the extent that TPMs are being used for anticompetitive 
+purposes, this exemption should be granted to prevent unfair business practices.  
+This proposal asks for a narrow exemption that allows for fair use in multimedia e-books. 
+It will not permit or encourage piracy or other illegal uses. Thus, this factor again weighs in 
+favor of granting the exemption. Should this exemption fail, multimedia e-book authors will be 
+prevented from engaging in their lawful right to make noninfringing fair use in their works. 
+ 
+VIII. INQUIRIES FROM THE COPYRIGHT OFFICE 
+A. “Whether the exemption should be limited to multimedia e-books containing film 
+analysis or whether a broader exemption is warranted.” 
+We strongly oppose such a limitation. E-book authorship is wide ranging and we have provided 
+examples, such as those from Pam Samuelson,105 that may not constitute film analysis but 
+                                                 
+102 See 2012 Comment at 19 (citing Filmmakers’ Comment, Section (IV)(D) (v)). 
+103 2010 Recommendation at 71. 
+104 2012 Recommendation at 126. 
+105 See discussion at Part VII.D. 
+[PAGE 25]
+Comment of Multimedia E-Book Authors 
+Page 24 of 24 
+ 
+ 
+ 
+nonetheless constitute valuable fair use. E-book authors, who vary from educators, to scholars, to 
+commentators and journalists, need an exemption that embraces more than simply film analysis. 
+ 
+B. “Whether and how the need for an exemption has increased over the last three 
+years due to ‘new authorship tools, sophisticated digital distribution networks, and 
+widespread consumer adoption of e-book readers.’” 
+We address this question above in Part III. 
+ 
+C. “Any changed circumstances in the need for an exemption over the last three 
+years, including whether any viable alternatives to circumvention have emerged 
+or evolved during this period.” 
+We address this question above in Part IV. 
+ 
+D. “Whether the previously granted exemption has had an adverse effect on the 
+marketplace for the accessed copyrighted works.” 
+We are not aware of any adverse effects, or even any allegations of such, on the marketplace for 
+the accessed works due to the current exemption. 
+[PAGE 26]
+Comment of Multimedia E-book Authors 
+TABLE OF CONTENTS 
+APPENDIX A: ABOUT THE INDIVIDUAL COMMENTERS 
+A
+PPENDIX B: STATEMENT OF BOBETTE BUSTER 
+APPENDIX C: STATEMENT OF MARK BERGER 
+APPENDIX D: STATEMENT OF ALEX PODOBAS 
+APPENDIX E: EXCLUSIVE BLUE-RAY AND EXTRA CONTENT 
+[PAGE 27]
+APPENDIX A: ABOUT THE INDIVIDUAL COMMENTERS 
+Bobette Buster is both a graduate of and Adjunct Professor in the University of Southern California Peter 
+Stark Producing Program, where she created the first MFA curriculum for Feature Film and Television 
+Development, The Art and Craft of Cinematic Storytelling. Her international lecture series, Deconstructing 
+Master Filmmakers, has positioned her on the Guest Faculty of Pixar, Disney Animation, Disney Channel, 
+Sony Animation, Twentieth Century Fox, the University of Milan, La Fėmis (Paris), Screen Training Ireland, 
+North By Northwest (Denmark), The Sundance Institute Latin American Lab (Oaxaca) and Media Business 
+School (Spain). 
+She is frequently requested to create guest lectures for diverse groups on such subjects as Story Physics, 
+The History of Hollywood Economics, Hard -Wired for Wonder, The Uses of  Enchantment, Violence in 
+Entertainment, The Purpose of Happily Ever After, Hollywood Economics 101, Epiphany, and The Ten 
+Stages of Transformation. She is the author of DO STORY: How To Tell Your Story So The World Listens 
+(Do Book Co., 2013). 
+Mark Berger is an Adjunct Professor of Film Studies at UC Berkeley, and a supervising rerecording sound 
+mixer and sound editor.  He teaches  a very popular course giving students the vocabulary, history, 
+concepts, and experience necessary for understanding a film soundtrack in real time, and a course in short 
+narrative film production. He also taught courses about film sound in various countries abroad. 
+He has received  four Academy Awards for uses of sound in film (Apocalypse Now, The Right Stuff, 
+Amadeus, and The Engl ish Patient), and is  responsible for the sound of more than 165 feature films, 
+among them in addition to the above, Godfather II with Francis Coppola, Blue Velvet with David Lynch, 
+One Flew Over the Cuckoo’s Nest with Milos Forman, Mr. Wonderful and The Ta lented Mr. Ripley with 
+Anthony Minghella, Rushmore and The Royal Tenenbaums with Wes Anderson, Serial Mom and Pecker 
+with John Waters, and Capote with Bennett Miller.  
+[PAGE 28]
+A
+ppendix B 
+Statement of Bobette Buster 
+[PAGE 29]
+1 
+I
+ am Bobette Buster, a graduate (1989) and Adj. Professor of the University of Southern 
+California’s Peter Stark Producing Program since 1992, where I created the first MFA 
+curriculum for Feature Film and Television Story Development. This course was based on my 
+seven years experience working in Hollywood as a Creative Executive for A-level talent, 
+including director Tony Scott (Top Gun, Man on Fire), writer Larry Gelbart (HBO, Emmy Best 
+Film, Barbarians At The Gate, Weapons of Mass Distraction) and producer Ray Stark. I continue 
+to consult on projects for the major Hollywood studios, and production companies worldwide. 
+Since 2000, my lecture series “Deconstructing Master Filmmakers” has been requested yearly by 
+Pixar Studios, Disney Animation, Sony Animation, Twentieth Century Fox, Catholic University 
+of Milan, La Fėmis (Paris), Screen Training Ireland, North By Northwest (Denmark). I have also 
+guest lectured for the DO LECTURES (Great Britain), the Hay Literary Festival (Wales), 
+Sydney Writers Festival, and for corporations, charities, and colleges around the world. I am also 
+the author of DO STORY: How To Tell Your Story So The World Listens (Do Book Co., 2013), 
+available on Amazon, iTunes, and in favorite bookstores. Currently, I am the writer and producer 
+of the feature documentary, MAKING WAVES: THE ART OF CINEMATIC SOUND, (projected 
+release 2016). 
+I
+ plan to write an e-book series, based on my lecture series, “Deconstructing Master 
+Filmmakers”, based on my 22 years in cinema education, so that this body of knowledge can be 
+disseminated democratically to students, filmmakers and cinemaphiles the world over. As is, I 
+can only present this lecture series—which is a Keynote Presentation featuring numerous film 
+clips—in live settings, to at most a couple hundred people a year. 
+I
+ have discovered the following impediments to my putting the series of lectures in an e-
+book format: 
+T
+he commonly accepted viewing standard of images on DVD is now HD or Blu-Ray. To 
+use an analogy, Standard Definition is to monaural recordings in recorded music, television or 
+cinema (a technology that became obsolete in the 1960s), what High-Definition or Blu-Ray is to 
+stereo recording, moving now onto Dolby 5.1/Atmos today.  Technological wonder drives the 
+marketplace. The consumer expects, even demands the highest affordable quality of viewing and 
+listening experience. As well, the lesser format of Standard Definition now scratches easily, or 
+pixelates after repeated viewings, thereby making the selling of this item dubious.   
+I
+n my live Keynote lectures, wherein I have embedded film clips, I use Standard Definition 
+DVDs. I always have to preface my comments with, “In ideal viewing circumstances, you would 
+see the following . . .” or, “Ideally, you would hear the following. . .” And then I have to describe 
+fully what the class should be experiencing from the filmmaker’s original vision. 
+I
+t is worth noting that Hollywood films are renowned for costing millions to make. Each 
+shot is labored over by a small army of highly experienced artisans, craftspeople, and 
+technicians—from the cinematographer to production/art designer, lighting crew, sound, 
+costume, props—all of whom plus the story of the film with their various expertises. One shot 
+
+[PAGE 30]
+2 
+can cost literally millions of dollars and take days to complete. Major beloved and talented 
+directors take great pains orchestrate these shots, while also directing the actors. This is what the 
+audience the world over has come to expect from this entertainment form. Why then would the 
+studios want any of this work shown at a sub-standard level in any form?  
+A
+s a professor, I can only teach live to about 200 people a year: from the University of 
+Southern California where I am an Adjunct Professor, to my international status as Visiting 
+Faculty at Catholic University in Milan, the Media Business School in Spain, La Femis in Paris, 
+and Screen Training in Ireland (among many recognized film and business schools all over the 
+world). In addition, I regularly guest lecture at Pixar Studios, Disney Animation, Disney Toons, 
+Disney Channel and Sony Animation, as well as Twentieth Century Fox. Frequently, I am asked 
+to guest lecture to corporate, charity, and religious groups about the Power of Storytelling, with 
+groups ranging anywhere from 100, 400, or 1000 people. I am often in TED-talk like settings, 
+whereby myself and the other lecturers are imparting our wisdom in 20-minutes, live before an 
+audience. Each talk is taped for later viewing on the event holder’s website. Except mine, 
+because of copyright concerns. This means that none of my lectures can be seen by anyone other 
+than in a live setting. 
+M
+y lecture series has been accessible only with the Ivory Tower experience of USC, top 
+film and business schools, and the Hollywood studios for now almost 25 years. The Studio 
+System Network daily e-newszine has now commissioned me to give a series of talks to their 
+subscribers (some 30,000+ Hollywood Insiders), in order to bring my information further to the 
+masses.  
+T
+he 4 part e-book series I am producing, “Deconstructing Master Filmmakers: The Uses of 
+Cinematic Enchantment”, requires the hiring of a graphic designer and specialist in e-book 
+layout presentation. This is a personal expense I must make as 
+no current publisher will invest in 
+ebooks with film clips. In addition, I must buy E&O insurance. My initial outlay of expense is 
+$15,000 – 25,000 for this series. I am projecting 4 books for now, selling at $9.99 each, or a 
+series at $27.99. 
+F
+or my e-book series, I am working with a literary agency with extensive experience in this 
+field. Their considerable advice is to use the Creatavist platform (www.creatavist.com). This 
+platform allows authors to embed large digital film files in a more stable, consistent way. The 
+author can then launch on the Creatavist app or on one’s own app, with unlimited outputs. This 
+means the files can be consistently overseen and managed in order to insure high-quality 
+performance. Also – and this is important for Fair Use -- I can make the sure the film content 
+shown is positioned correctly both with the surrounding text and voice-over, all laid out artfully 
+by graphic designer, so that Fair Use is maintained. The issue is the size of the digital clips per 
+book. They cannot exceed 1GB per book. Hence, the need for multiple books in the series. 
+A
+fter extensive research into the state-of-the-art e-book platforms now available, including 
+Vook, the ideal platform for an ebook of this size (1 GB minimally) appears to be the iBook, 
+distributed solely on iTunes. However, iTunes (Apple) has a somewhat opaque standard of what 
+projects they will allow distributed on their platform, and have apparently been reluctant to get 
+[PAGE 31]
+3 
+into Fair Use film clips e-book territory. So investing in a graphic designer to lay out an iBook, 
+using iAuthor, could be for naught, as iTunes may simply decide to not allow it to be published. 
+W
+ithin each of my four books, I highlight five separate films to demonstrate and illustrate 
+my points. I plan to use up to twenty clips of varying lengths. Under the overall title, 
+“Deconstructing Master Filmmakers: The Uses of Cinematic Enchantment”, this will be an on-
+going series with these initial four titles: 
+B
+ook 1: Orchestrating Emotions: How Cinema Language Works 
+Book 2: The Artform of Transformation 
+Book 3: Theme as Character 
+Book 4: The Last Emotion 
+F
+or example, in book one, I will be covering the story uses of cinematography. The 
+following points exemplify what I will be illustrating: 
+a. G
+ordon Willis, Honored Academy Award winning cinematographer for The Godfather
+series, is also known as The Prince of Darkness. Willis purposefully shoots in very low-light
+settings with one note of color—such as a bloodly red rose or Kay Adams’ red dress. His
+cinematography choices are essential for understanding the story. In Standard Definition
+clips, it can be difficult, if not impossible after repeated uses to see the correct range of dark
+colors such as black, brown, and red.
+b. R
+oger Deakins, the cinematographer for the now iconic The Shawshank Redemption
+(director: Frank Darabont; Columbia Pictures), created a two-hour color palette for all the
+scenes to be shot in shades of blue-grey. All of the prisoners wore the exact same shade of
+blue-grey in their uniforms and even the prison walls were painted to match this color. This
+was to create the feeling of “institutionalization.” When Andy Dufresne, played by Tim
+Robbins, escapes, we see him drive away in a red convertible. The color red becomes the
+color of freedom and is only used three times in the film. When the character, Red, played by
+Morgan Freeman, is finally paroled after 40 years in prison, he travels—in a red Ford pick-
+up—to a vast green field with a heavenly green oak tree. Green becomes the color of hope.
+All of these color choices are purposefully orchestrated to create the powerful emotional
+effect of the film’s cathartic ending. When I use Standard Definition clips repeatedly, these
+colors become dulled, bleached, and even pixilated. This significantly dilutes the power of
+these scenes.
+c. I
+n David Lynch’s masterful, The Elephant Man (Paramount Pictures), Freddie Francis, the
+cinematographer, created a black-and-white film showing very dark ranges of blacks-to-
+white until the Elephant Man (played by John Hurt) develops the confidence to speak for the
+first time. Then, the blacks became grey—lighter and brighter. At the film’s end, when the
+Elephant Man is dying, the film returns to the very dark blacks to emphasize the shining
+white of the pillows upon which the Elephant Man will rest his head to die. The
+cinematography directly plusses the story’s narrative theme, and can only be shown to
+explain its profound emotional impact. Again, after repeated viewings on Standard
+[PAGE 32]
+4 
+Definition, a wholly new DVD must be purchased, because the viewing experience 
+becomes be so distorted. 
+I
+n the book about Last Emotion, I seek to show the power of various plot-lines that must 
+come together to create the final emotional chord of the film: 
+a. I
+n Steven Spielberg’s ET: The Extra-Terrestrial (Universal Pictures), the final heart-
+wrenching scene of ET and Eliot’s parting is reinforced by ET’s finger lighting up and
+touching Eliot’s forehead. John Williams’ brilliant score underscores this profoundly moving
+moment. In the Standard Definition clips I have, the figure of ET becomes so shiny and
+pixilated as to be laughable while the film score pops.
+b. I
+n Tom Hooper’s The King’s Speech (Weinstein Company), the sound design is essential for
+underscoring the Duke of York’s (played by Colin Firth) difficulty with public speaking. In
+addition, the Production Designer, Eve Stewart, has created awkward physical spaces where
+the Duke of York sits uncomfortably—such as Lionel Logue’s (played by Geoffrey Rush)
+new Harley Street office, where the wallpaper has been stripped. These mottled walls reveal
+the inner life of the Duke—how exposed and ugly he feels with his very public stammer.
+Later we see the Duke walking through a low-lit cellar arguing with his brother, David, now
+King Edward VII. The Duke, overcome with stammering, hovers outside the grand room of
+partiers. These scenes are low lit with almost no ornamentation. This is used to set-up the
+overwhelmingly powerful experience of Buckingham Palace at the end of the film, when the
+Duke has now become King George VI. Now, we see him framed in white rooms with gold
+all around him. Lush, imposing wall tapestries, stately white-and-golf doors frame the King’s
+every entrance. All this reveals his King’s majesty, which has been the trajectory of the film.
+In the end, he must give the speech of a true King in order to embolden the people of his
+Empire to face another world war. And he must do this, live on radio, as he gathers the
+courage to speak without his stammer. And he succeeds. All these intricate reveals of the
+production design, lighting, sound design and cinematography are essential to illustrate in
+their cinematic fullness—i.e. using film clips, as they were intended by Tom Hooper, in order
+to immerse the audience fully into the story’s full emotional narrative experience. Again, the
+Standard Definition clip is sub-standard to show these vagaries, often causing the sound to
+pop, and the colors to dull in substandard settings or just few viewings of the same DVD.
+A
+t the DMCA Hearing, on June 4, 2012, I provided a six and one-half minute Keynote 
+Presentation of brief clips from my Cinematic Language series. Three film clips from Paramount 
+Pictures/Francis Ford Coppola’s The Godfather illustrate juxtaposition, the colliding of two 
+opposing ideas to create a wholly new idea. In this film, Coppola always stages an innocent child 
+next to a murderer to underscore the theme: how far would you go to protect your family? As I 
+stated at the DMCA hearing in 2012: 
+A
+ctually, it was D.W. Griffith who first understood this. It's the principle of 
+editing. And he got this from Charles Dickens. Basically -- how do you create a 
+big idea? You combine two colliding ideas, and that's what we call juxtaposition. 
+So in 1972, Francis Ford Coppola in the Godfather decided to do the following. 
+This little girl in white crosses over past Barzini. He's the uber villain of the 
+[PAGE 33]
+5 
+Godfather. What we're doing here is setting up a DNA in the story that every time 
+you see a mafioso, you're going to see an innocent child, the question being, how 
+far would you go to protect your family? In this world, you go as far as murder. 
+T
+hree clips from Pixar Studios/John Lasseter’s Toy Story 2, highlight the importance of 
+visual design to communicate the importance of Theme: what it is to love yourself? In this case, 
+we see the toy cowgirl, Jessie, being thrown away by her beloved owner (note: the dust under the 
+bed reveals that Jessie has been there 10–15 years). As I showed in 2012: 
+S
+o the next instance I want to show you is a turning point in Pixar's history. John 
+Lasseter had given Toy Story 1 to to another director. When he saw it, he was 
+devastated. He said it had no heart. He took it back. And Ed Catmull said, in the 
+Harvard Business Review, that it was this scene, of which we're only going to see 
+a minute out of four -and-a-half minutes, that was the turning point in Pixar's 
+history. Notice, the reflection of Jessie. She has been thrown under the bed by her 
+child. As it turns out, she will have been there perhaps 10 or 15 years. Notice the 
+dust and, as the pink is taken out from under her, we turn to a world of autumn 
+colors. There's even dust on her hat. And what we're learning here, as Bruno 
+Bettelheim said in the Uses of Enchantment, is that fair y tales very necessarily 
+psychologically prepare children for life's inevitable tragedies. In this sequence, 
+the music is so sad, it's in direct contrast to the rest of the film which is in 18 blues 
+and yellows and upbeat and fun. And what Jessie learns is  what we all have to 
+learn, that some day someone we love will throw us away. Our hearts will be 
+broken. We'll be thrown into a nursing home. We will be abandoned. This is 
+extremely important to the power of the entire film. And once they understood 
+this, Ed Catmull said, that transformed Pixar's history, and they now have the 
+greatest track record of blockbusters in history. But they forget you. And this is 
+Woody's journey. At the very end of the film, he has to say to --  he's standing on 
+the threshold of a window 8 looking out at Andy, knowing he's going to grow up 
+and go away to college. And Buzz says, well, what do you  think about that? And 
+he says, I'm going to cherish every day as long as it lasts. I'm going to love anyway. 
+Such is the power of cinematic story-telling. 
+F
+inally, three clips from Universal Pictures/Steven Spielberg’s Schindler’s List illustrate 
+the importance of The Power of Rhymes, cinema’s fundamental storytelling tool that reveals 
+emotional transformation, as well as the Big Idea. In Schindler’s List, we see the theme: What 
+are the uses of Industrialization? Again, as I stated in 2012: 
+A
+nd, finally, I'd like to talk about a concept called the power of rhymes. This is 
+extremely important in cinema story -telling. In Steven Spielberg's tour de force 
+film, Schindler's List, we have the concept of, what is the power of 
+industrialization? Notice, this is a master shot, all in one sequence. As the camera 
+dollies in and out, the lighting, Cartier-Bresson-like lighting, high key whites and 
+darks. Notice, we can see the steam coming out of this, and we are watching in 
+real time as a pot is made, and it's astonishing; it's wonderful, isn't it? And we are 
+on the same wavelength as this man here who is -- who would have had a destiny 
+[PAGE 34]
+6 
+ 
+going to Auschwitz, but Schindler hired him just to bring him into his -- because 
+he was cheaper -- to be in the factory. Now, this last shot we just saw, that's eight 
+8 seconds long. That is the fulcrum of the story. It proves that Schindler is going 
+to be a huge success. He's got millions of pots and pans. He's going to make a lot 
+of money with the SS. And, guess what? It shows the volume of industrialization. 
+And then, in our final shot here, this is the shot we call the rule of threes that leads 
+us to the emotional horror of Schindler's List. Because guess 16 who else had this 
+idea of industrialization? Hitler. So in a rhyming shot of dollying, going in and 
+out, very painstakingly with the same lighting gray scale we see how deliberate 
+and intentional the process was for Hitler and the SS to eliminate an entire 6 
+million race of people. Its volume, industrialization. And what happens in cinema 
+is all about the orchestration of emotions. What you want to do is take people from 
+the opposite emotion first, which in this case was delight and wonder -- and now, 
+as we're facing this and taking it in, we are waking up and going, oh, my God. And 
+what we are on is the same wavelength as the jewelry appraisers we are about to 
+meet -- and I want you to notice they're all wearing the gold Star of David. They're 
+Jewish men working for the SS. And, finally, one man wakes up. We are on his 
+wavelength. We are waking up to the horror of industrialization. And in this scene, 
+which is a classic Spielberg scene, he makes it very clear now -- this is 50 minutes 
+into the story -- what this film is about. And finally it climaxes -- because cinema 
+is the art form of transformation -- in this. I saw a documentary shortly after World 
+War II in which an SS  officer said very matter -of-factly, you know, that the job 
+of killing millions of people, it's a messy business, and the big problem is 
+management because the men on the front line go crazy. So it's a management 
+issue. You need to separate them from the problem. Hence the gas ovens. He said 
+it very matter-of-factly. So what we need to do is, in the madness of this situation, 
+you start asking, what should I have 6 done? It's overwhelming. And in this case -
+- listen to this line of dialogue. Party, Auschwitz in one sentence. That's 
+juxtaposition, and that's horrifying. What could one person do? And so what 
+Spielberg does -- what he's foreshadowed is he shows a little girl with a red coat, 
+and she's now dead. We had seen her once before alive. She is Schindler's 
+conscience, and at this moment he wakes  up. In this scene, we go from madness 
+to enlightenment. And that's was cinema does best. 
+ 
+It should be noted that reading these concepts herein is nowhere near as demonstrative, 
+enlightening, and entertaining as the actual experience of seeing the clips along with my lecture. 
+My lecture visually demonstrates what an e-book could provide for the learning experience of 
+potentially thousands of e-readers as opposed to around 200 people live per year. 
+ 
+Sincerely, 
+  
+  
+Bobette Buster 
+ 
+
+[PAGE 35]
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Appendix C 
+Statement of Mark Berger 
+[PAGE 36]
+1 
+ 
+FEBRUARY 5, 2015 
+ 
+I am an Adjunct Professor of Film Studies at UC Berkeley, and a supervising rerecording sound 
+mixer and sound editor.  I have won four Academy Awards for uses of sound in film 
+(Apocalypse Now, The Right Stuff, Amadeus, and The English Patient). I have been responsible 
+for the sound of more than 165 feature films, among them in addition to the above, Godfather II 
+with Francis Coppola, Blue Velvet with David Lynch, One Flew Over the Cuckoo’s Nest with 
+Milos Forman, Mr. Wonderful and The Talented Mr. Ripley with Anthony Minghella, Rushmore 
+and The Royal Tenenbaums with Wes Anderson, Serial Mom and Pecker with John Waters, and 
+Capote with Bennett Miller. My craft is about subtlety, not the sheer power of loud soundtracks.  
+ 
+I have been an Adjunct Professor of Film Studies at UC Berkeley for the past 15 years, teaching 
+a very popular course giving students the vocabulary, history, concepts, and experience 
+necessary for understanding a film soundtrack in real time, and a course in short narrative film 
+production. I have also taught courses about film sound in Ireland, Chile, Argentina, Brazil, 
+Canada, Israel, Spain, The Republic of Georgia, and Iceland. 
+ 
+I am developing an E-book series Listening to Movies will explore in detail the many uses of 
+sound and how it relates to the film’s moving images. Moviegoers are very sophisticated 
+visually, expecting ever more elaborate and stunning visual effects and rapid cutting techniques. 
+However, there is an almost equal naiveté about the workings of film sound. The E-book series 
+Listening to Movies is intended to reveal a new dimension to understanding movies, by exploring 
+in detail the many uses of sound and how they relate to the images. I will present the concepts 
+and vocabulary necessary to analyze the inner workings of a film soundtrack. The first book will 
+concern production and post-production:  script, camera, set design, directing, lighting, sound, 
+editing, and mixing.  The second will focus on understanding sound: history, analysis of image 
+and sound, genres, and directors. 
+ 
+My analytical approach is based on how film soundtracks are constructed in the industry. A 
+soundtrack is divided into Dialogue, Music, and Effects. Many film clips are used to illustrate 
+vocabulary and concepts in each area. For example, I want to demonstrate how the use of 
+background dialogue can subtly influence the emotional development of a scene. This is 
+perfectly illustrated by a short clip from Citizen Kane, where the sonic environment of a scene in 
+a newsroom is established from the beginning as busy and bustling, where all the reporters in the 
+background are typing and talking on the telephone. As an argument between Kane and a 
+supporter heats up, the reporters stop their activity and start to listen to the heated discussion. 
+This is all conveyed by a change in the background dialogue, without any shots showing the 
+pause in activity. The tension of the argument is thus increased solely by the use of background 
+dialogue.  
+As descriptive as these words are, they cannot approach the usefulness of actually seeing and 
+hearing the scene as it was intended to be heard. The importance of “show me, don't tell me” 
+cannot be overemphasized. It is said that “A picture is worth a thousand words”, but I would 
+maintain that no quantity of words can be worth the actual experience of standing in front of the 
+Mona Lisa, or listening to a Beethoven symphony. Sounds and images affect us differently when 
+experienced through hearing or seeing, as opposed to imagined while reading. A verbal 
+[PAGE 37]
+2 
+ 
+description of sounds relating to images has minimal value when compared to experiencing the 
+real thing. 
+There is an appropriate quote, variously attributed to Clara Schumann, Frank Zappa, Elvis 
+Costello, Thelonius Monk,  and Miles Davis, among others: “Writing about music is like dancing 
+about architecture.” Which is to say that each art form has to be experienced through its own 
+sense modality. Music has to be heard, and you have to be in a building to experience it, and film 
+has to be seen and heard to be best understood. 
+Film editors and sound designers always start with the highest resolution and fidelity format and 
+then use that as a basis for creating content for release in other formats.  For example, in sound, 
+they may start in 5.1 format, then remix to 35mm Dolby stereo, and then to mono.   
+A major problem with lower-fidelity formats is that they utilize increasing degrees of 
+compression.  Compression sacrifices the video and audio quality. In other words, the higher the 
+compression ratio, the more unwanted artifacts are introduced into the image and sound. 
+Artifacts can manifest as strange or jerky movement on the screen, non-continuous variation of 
+contrast, like seeing bands of colors in a sunset (instead of a smoothly colored sky), smearing of 
+the image when the camera pans, or distortion, loud snaps, repeating sections, or dropouts in the 
+sound. 
+ 
+For all the above reasons, it is essential that, when developing my e-book, I need to be able to 
+access the highest-quality source material available. 
+[PAGE 38]
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Appendix D 
+Statement of Alex Podobas 
+[PAGE 39]
+1 
+ 
+STATEMENT OF ALEX PODOBAS 
+ 
+FEBRUARY 4, 2015 
+ 
+Biography 
+ 
+Alex M. Podobas is a senior information security analyst for the UCLA Information 
+Security Office and Juris Doctor candidate at the University of California, Irvine School 
+of Law. He specializes in analyzing web applications and networks for security 
+vulnerabilities, developing applications to parse “Big Data” sets to analyze anomalous 
+security events, and reviewing web applications, databases, and other cloud-related 
+technologies for compliance with federal and state data privacy statutes. 
+ 
+This statement presents his analysis alone and does not represent in any way the opinions 
+of the University of California, Los Angeles or any other organization or person.  
+ 
+  
+ 
+Introduction 
+ 
+The number of software tools and services specifically built to deliver media content 
+online has risen as the Internet has increasingly become a distribution system for video 
+streaming. The combination of technologies that combine high-performance data 
+streaming with security are designed to empower content holders to distribute, but retain 
+control, over their intellectual property. Encryption measures are routinely integrated into 
+online distribution platforms to protect digital video files during storage and transmission.  
+ 
+ 
+ 
+1. How online distribution systems work 
+ 
+At a basic level, online video streaming involves four discrete steps:  
+ 
+(1) A user (the “client”) visits a source that hosts video content. This may be a web 
+application like Netflix, a software application like iTunes, or a webpage with 
+embedded video content (such as a YouTube video); 
+(2) The source sends a request to itself or, more typically, a media server that requests 
+a specific media file; 
+(3) The media server opens a connection directly with the client device or streams the 
+file back through the requesting web server 
+(4) The client’s device decodes and plays the file. The client is responsible for 
+managing the playback quality and, if requested, decrypting video content from 
+the server. Examples of the client’s device software include Apple’s QuickTime 
+player or Google’s YouTube mobile application.  
+ 
+[PAGE 40]
+Statement of Alex Podobas 
+The methods by which the video is streamed in step 3 can employ a wide variety of 
+protocols. RTP (real-time transfer protocol), RTSP (real-time streaming protocol), or 
+RTCP (real-time transport control protocol), or HTTP live-streaming protocol are 
+common technical choices used to transfer video content for client playback. Encryption 
+can potentially occur in two places: first, in “transit,” second, in “storage.” The former 
+most typically refers to any network responsible transporting data between an end or 
+intermediate source to the client. The latter pertains to where the data is held after it 
+reaches the client and is occasionally referred to “data in rest.”1 
+ 
+ 
+2. Encryption mechanisms used in online distribution systems vary across 
+platform, device, browser, and provider. 
+ 
+Developers and institutions have vast choice in selecting differing technical protocols to 
+stream online video and in encrypting streamed content. Examples of several popular 
+platforms are illustrated in this section. The diversity of options illustrates that online 
+video distribution systems perform a similar task, but differ widely in technical 
+implementation across operating system platforms and software applications used to 
+facilitate video playback. 
+ 
+ 
+2.1: iTunes 
+ 
+Apple’s developer tools make HTTP streaming available for third-party applications on 
+its iOS and iTunes platforms. This technology provides delivery of video content to a 
+customer’s device and features media file encryption in both storage and transmission. 
+ 
+First, each media file (in this case, videos) may be individually encrypted in storage. 
+Playing an encrypted video file on the client-side device (such as a customer’s Apple 
+iPad tablet) is completed by accessing decryption keys. Apple’s API provides three 
+methods for developers to decrypt protected content: 1) a static key; 2) a randomly 
+generated key for the entire file; or 3) a randomly generated key for segments of the 
+video file. 
+ 
+Second, Apple employs industry-standard protections to encrypt content in transmission 
+over HTTPS. Each client-side device connects to the upstream video provider over a 
+connection protected by SSL (secure socket layer) that implements an AES 128-bit 
+encrypted file using 16-octet keys. This prevents streamed content from being intercepted 
+with “Man-In-The-Middle” attacks because the client connects to a server it trusts, with 
+the server identified by a trusted SSL certificate. 
+ 
+2.2: HTML5 video and MediaSource Extensions 
+ 
+The HTML Working Group (a collaboration of major technology companies seeking to 
+define standards for web-based technologies) supports HTML5 as the standard for online 
+1 https://www.owasp.org/index.php/Cryptographic_Storage_Cheat_Sheet  
+  2 
+                                                        
+[PAGE 41]
+Statement of Alex Podobas 
+video playback. HTML5 is a standard for embedding video onto web pages or client 
+applications using the <video> tag. It finds support in Internet Explorer 9.0+, Firefox 
+3.5+, Safari 3.0+, Chrome 3.0+, Opera 10.5+, iPhone 1.0+, and Android 2.0+.   HTML5 
+does have encryption capabilities, but the standard is still being developed by the World 
+Wide Web Consortium (W3C).
+2   
+ 
+2.3: Netflix and HTML5 Video 
+ 
+In 2013, Netflix announced that the company’s technical mechanism to securely stream 
+video content, Microsoft Silverlight, would be replaced by a newer solution in light of 
+Microsoft’s decision to end-of-life the Silverlight software in 2015. In the future, Netflix 
+will employ HTML5 streaming video for playback to replace Silverlight for all use cases. 
+As of January 31st, 2015, Netflix still offers video streaming with either Silverlight or 
+HTML 5 video. 
+ 
+In conjunction with its migration to HTML5, Netflix announced a new encryption 
+technology named “Message Secure Layer” (hereafter “MSL”) in October, 2014. Netflix 
+makes the MSL source code freely available on GitHub under an Apache 2.0 license. As 
+of January 31, 2015, the MSL project and source code are both hosted 
+at: https://github.com/Netflix/msl
+. MSL seeks to protect streaming content from 
+fundamental security issues associated with the SSL/TLS protocols discovered within the 
+past 5 years as well as to provide faster performance and content delivery.  
+ 
+MSL is a security architecture developed by Netflix and used by the company to encrypt 
+its digitally delivered videos to customers. It is not a distinct software application. 
+Instead, different software applications (including Netflix) utilize MSL to permit 
+different client devices (e.g. – Netflix on the Google Chrome web browser) to integrate 
+with different authentication services (e.g. – a Netflix user account or DRM license) to 
+encrypt the contents of delivered data (e.g. - Netflix streaming video). Therefore, MSL is 
+best regarded as a messaging protocol that provides encryption protections that can be 
+used to transport data between two or more communicating entities 
+ 
+MSL was developed and is deployed by Netflix to implement the following, broad 
+security objectives:
+3 
+ 
+• Integrity protection. Messages in transit are protected from tampering. 
+• Encryption. Message data is protected from inspection 
+• Authentication: Messages can be trusted to come from a specific device and user 
+• Non-replayable. Messages containing non-idempotent data can be non-replayable. 
+ 
+Communications secured by MSL (such as Netflix streaming video) utilize the JavaScript 
+API named “Web Crypto” to for performing basic cryptographic operations in web 
+applications, such as hashing, signature generation and verification, and encryption and 
+2 http://arstechnica.com/business/2013/05/drm-in-html5-is-a-victory-for-the-open-web-not-a-defeat/ 
+3 http://techblog.netflix.com/2014/10/message-security-layer-modern-take-on.html 
+  3 
+                                                        
+[PAGE 42]
+Statement of Alex Podobas 
+decryption. 
+ 
+A typical MSL message consists of a header and one or more application 
+payload chunks. Each chunk is individually protected which allows the 
+sender and recipient to process application data as it is transmitted. A 
+message stream may remain open indefinitely, allowing large time gaps 
+between chunks if desired. Each MSL message is associated with an entity 
+(One of the participants in a MSL communication). Cryptographic keys 
+associated with the entity are used to authenticate the entity and integrity 
+protect the message.   Data, whether confidential or not, is typically 
+encrypted during transport using cryptographic keys associated with the 
+entity, but non-confidential data may also be transmitted without 
+encryption. Messages are optionally associated with a user by including 
+data that can be used to authenticate the user. Messages are optionally 
+protected against replay through the use of a non-replayable ID 
+synchronized between the communicating entities.”
+4  
+ 
+ 
+ 
+3. Encryption mechanisms in online distribution systems are constantly changing. 
+ 
+In recent years, online video distributors have been implementing a categorical shift from 
+Adobe’s Flash Player to HTML5-based video. Driven in part by widespread support for 
+common web standards between different software platforms, cloud-based architectures, 
+web browsers, and other client applications, the shift to support and prefer HTML5 video 
+illustrates how fundamental shifts can be rapidly achieved for consumers. Furthermore, 
+some technology companies have developed their own, in-house solutions for more 
+discrete control over security and performance in digital content distribution. Netflix was 
+built upon online video streaming, and elected to create the MSL architecture and 
+cryptographic library for its own purposes. YouTube abruptly announced on January 27
+th, 
+2015 that HTML5 video and support for MediaSource Extensions will be its default 
+video choice.5 These innovations exemplify a continuous uncertainty as to which 
+technical protocols will be used or even available from year to year. 
+ 
+Online distribution systems for video are varied in the choice of technology related to 
+streaming and content protection protocols. However, the examples above illustrate 
+common implementations that individually represent the same goal of online video 
+delivery.  
+ 
+ 
+ 
+4 https://github.com/Netflix/msl/wiki 
+5 http://youtube-eng.blogspot.jp/2015/01/youtube-now-defaults-to-html5_27.html 
+  4 
+                                                        
+[PAGE 43]
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Appendix E 
+Exclusive Blu-ray and Extra Content 
+[PAGE 44]
+1 
+ 
+A. Exclusive Blu-Ray and Extra Content 
+ 
+Below is a list of films only available on Blu-ray and descriptions of extra contents exclusive to 
+Blu-ray (e.g., director’s commentary, interviews, blogs, deleted scenes, and behind-the-scenes 
+footage). The list is not exhaustive, but illustrative of the amount of extra content available on 
+Blu-ray compared to DVD. 
+Title Year Exclusive Content Description (if available) 
+Beat the Devil 2008 Only available on Blu-ray 
+ 
+(http://www.blu-ray.com/movies/movies.php?studioid=64) 
+Eye on Extreme 
+Monster Trucks 
+ Only available on Blu-ray 
+ 
+(http://www.blu-ray.com/movies/movies.php?studioid=64) 
+Eye on Extreme 
+Professional Bull 
+Riding 
+2008 Only available on Blu-ray 
+ 
+(http://www.blu-ray.com/movies/movies.php?studioid=64) 
+Jack & The 
+Beanstalk 
+2008 Only available on Blu-ray 
+ 
+(http://www.blu-ray.com/movies/movies.php?studioid=64) 
+Marvel'S Guardians 
+Of The Galaxy  
+2014 Audio commentary, visual effects, deleted and extended 
+scenes, exclusive trailer, gag reel, and documentary. 
+ 
+(http://www.blu-ray.com/movies/Guardians-of-the-Galaxy-
+3D-Blu-ray/79118/) 
+Terminator 
+Anthology  
+2013 Visual effects and music, audio commentary, deleted scenes, 
+trailers, downloadable content through BD-Live (Blu-ray 
+online feature). 
+ 
+(http://www.blu-ray.com/movies/The-Terminator-Anthology-
+Blu-ray/51917/) 
+The Resident Evil 
+Collection 
+2012 Alternate ending, behind the scenes footage, deleted scenes, 
+filmmaker and cast commentaries, music video, outtakes, and 
+zombie special effects make-up. 
+ 
+(http://www.bestbuy.com/site/resident-evil-blu-ray-disc-5-
+disc-boxed-set/7025116.p?id=2625859&skuId=7025116) 
+Harry Potter 
+Hogwarts Collection 
+2014 Deleted scenes, making of Harry Potter documentary, 
+extended scenes, and interviews. 
+ 
+(http://www.blu-ray.com/movies/Harry-Potter-Hogwarts-
+Collection-Blu-ray/92712/) 
+Bond 50: The 
+Complete 23 Film 
+Collection with 
+Skyfall 
+2013 The World of Bond montage; Being Bond, analysis of actors 
+who played James Bond, Videoblogs 
+ 
+(http://www.blu-ray.com/movies/Bond-50-Blu-ray/81677/) 
+[PAGE 45]
+2 
+ 
+Fight Club 10th 
+Anniversary Edition 
+2009 Audio commentaries, interactive search function, scene audio 
+remix, footage of Mel Gibson, behind the scenes, deleted and 
+alternate scenes, publicity material, and art gallery. 
+ 
+(http://www.blu-ray.com/movies/Fight-Club-Blu-ray/5587/) 
+Gone with the Wind 
+70th Anniversary 
+Collector’s Edition  
+2009 Audio commentary, documentaries, featurettes, vintage 
+footage, a book, and soundtrack CD. 
+ 
+(http://www.blu-ray.com/movies/Gone-with-the-Wind-Blu-
+ray/758/) 
+Zodiac Director’s 
+Cut  
+2014 Director and actor commentaries, documentary on the history 
+of the production, visual effects, computer-generated three 
+scenes, and trailers. 
+ 
+(http://www.blu-ray.com/movies/Zodiac-Blu-ray/458/) 
+Blade Runner 5-Disc 
+Complete Collector’s 
+Edition 
+2007 Audio commentaries, documentaries, deleted scenes, alternate 
+scenes, vintage featurettes, theatrical trailers, and screen tests. 
+ 
+(http://www.blu-ray.com/movies/Blade-Runner-Blu-ray/545/) 
+Sleeping Beauty 50th 
+Anniversary 
+Platinum Edition 
+2014 Audio commentary, song selection, interviews, music video, 
+games and activities, alternate opening, deleted songs, art 
+galleries, cut material, and promotional goodies. 
+ 
+(http://www.blu-ray.com/movies/Sleeping-Beauty-Blu-
+ray/555/) 
+Frozen, Collector’s 
+Edition 
+ 2014 Documentary of the film’s history and eventual production, 
+behind the scenes, deleted scenes, music videos, animated 
+short, and original teaser trailer. 
+ 
+(http://www.blu-ray.com/movies/Frozen-Blu-ray/56784/) 
+The Wizard of Oz 
+70th Anniversary 
+Collector’s Edition  
+2009 Audio commentary, documentaries, deleted scenes, original 
+song recordings, still galleries, actor biographies, storybook, 
+4K digital restoration sample, various music tracks in different 
+formats, radio show, radio promo, and trailers. 
+ 
+(http://www.blu-ray.com/movies/The-Wizard-of-Oz-Blu-
+ray/6366/) 
+*Any Pixar Title Varies Documentaries, featurettes, short films, and interactive 
+content. 
+ 
+(http://www.soundandvision.com/content/100-best-blu-ray-
+discs-best-extras ) 
+Sin City 2014 Behind the scenes, interviews with actors and director, 15-
+minute film school education, and hyper-screen version of the 
+movie in green. 
+ 
+[PAGE 46]
+3 
+ 
+(http://www.soundandvision.com/content/100-best-blu-ray-
+discs-best-extras) 
+Star Trek: The 
+Compendium 
+2014 Gag reels, behind the scenes, the cast and crew interviews, 
+trailers, prank scenes, audio commentaries, and documentaries. 
+ 
+(http://www.blu-ray.com/movies/Star-Trek-The-Compendium-
+Blu-ray/107044/) 
+ 
+* This list is not exhaustive. Major retailers like Target, Best Buy, Walmart, and Amazon each 
+have some exclusive distribution rights for new Blu-ray releases. 
+  
+[PAGE 47]
+4 
+ 
+B. Exclusive Digitally Transmitted Videos 
+ 
+Below is a list of original network programs currently only available on digital cable and satellite 
+television as of February 6, 2015. The list is not exhaustive but illustrative of diverse shows 
+produced by major networks. Some shows that will be subsequently released on DVD and Blu-
+ray are generally released four to six months after the season finale.
+1  
+ 
+Title Genre Network Year 
+Release
+d 
+Content Source 
+Game of Thrones Drama HBO 2011 http://www.hbo.com/#/game-of-
+thrones 
+True Detective Drama HBO 2014 http://www.hbo.com/true-
+detective#/ 
+The Leftovers Drama HBO 2014 http://www.hbo.com/the-
+leftovers#/ 
+The Comeback Comedy HBO 2014 http://www.hbo.com/the-
+comeback#/ 
+Girls Comedy HBO 2012 http://www.hbo.com/girls#/ 
+Veep Comedy HBO 2013 http://www.hbo.com/veep#/ 
+Getting On Comedy HBO 2013 http://www.hbo.com/getting-on#/ 
+Looking Comedy HBO 2014 http://www.hbo.com/looking#/ 
+Silicon Valley Comedy HBO 2014 http://www.hbo.com/silicon-
+valley#/ 
+Togetherness Comedy HBO 2015 http://www.hbo.com/togetherness#/ 
+Hard Knocks Sports 
+Documentary 
+HBO 2001 http://www.hbo.com/hard-knocks#/ 
+Real Time With Bill 
+Maher 
+Unscripted HBO 2003 http://www.hbo.com/real-time-
+with-bill-maher#/ 
+Last Week Tonight 
+with John Oliver 
+Unscripted HBO 2014 http://www.hbo.com/last-week-
+tonight-with-john-oliver#/ 
+Vice Unscripted HBO 2013 http://www.hbo.com/vice#/ 
+HBO World 
+Championship Boxing  
+Unscripted HBO 1973 http://www.hbo.com/boxing#/ 
+Real Sports with 
+Bryant Gumbel 
+Unscripted HBO 1995 http://www.hbo.com/real-sports-
+with-bryant-gumbel#/ 
+Boxing After Dark Unscripted HBO 1996 http://www.hbo.com/boxing#/ 
+24/7 Unscripted HBO 2007 http://www.hbo.com/sports#/ 
+Masterclass Unscripted HBO 2010 http://www.hbo.com/documentaries/master-
+class#/ 
+The Fight Game with 
+Jim Lampley 
+Unscripted HBO 2012 http://www.hbo.com/the-fight-
+game-with-jim-lampley#/ 
+     
+Homeland Drama Showtime 2011 http://www.sho.com/sho/homeland/
+home 
+1 E.g., Jen Chaney, An Ever-Shorter Leap From Theater to DVD, The Washington Post, (February 3, 2015), 
+http://www.washingtonpost.com/wp-dyn/articles/A26877-2005Mar11.html; e.g., http://www.blu-
+ray.com/movies/releasedates.php. 
+                                                 
+[PAGE 48]
+5 
+ 
+Ray Donovan Drama Showtime 2013 http://www.sho.com/sho/ray-
+donovan/home 
+Masters of Sex Drama Showtime 2013 http://www.sho.com/sho/masters-
+of-sex/home 
+Penny Dreadful Drama Showtime 2014 http://www.sho.com/sho/penny-
+dreadful/home 
+The Affair Drama Showtime 2014 http://www.sho.com/sho/the-
+affair/home 
+Shameless Comedy Showtime 2011 http://www.sho.com/sho/shameless
+/home 
+Nurse Jackie Comedy Showtime 2009 http://www.sho.com/sho/nurse-
+jackie/home 
+Episodes Comedy Showtime 2011 http://www.sho.com/sho/episodes/h
+ome 
+Web Therapy Comedy Showtime 2011 http://www.sho.com/sho/web-
+therapy/home 
+House of Lies Comedy Showtime 2012 http://www.sho.com/sho/house-of-
+lies/home 
+The Green Room with 
+Paul Provenza 
+Talk Show Showtime 2010 http://www.sho.com/sho/the-green-
+room-with-paul-provenza/home 
+Inside Comedy Talk Show Showtime 2012 http://www.sho.com/sho/inside-
+comedy/home 
+Showtime Boxing Sports Showtime 1986 http://www.sho.com/sho/sports/ho
+me 
+ShoBox: The New 
+Generation 
+Sports Showtime 2001 http://www.sho.com/sho/schedules/
+titles/134845/the-new-
+generation#/index 
+The Franchise Sports Showtime 2011 http://www.sho.com/sho/the-
+franchise/home 
+All Access Sports Showtime 2011 http://www.sho.com/sho/all-
+access/home 
+Jim Rome on 
+Showtime 
+Sports Showtime 2012 http://www.sho.com/sho/jim-rome-
+on-showtime/home 
+60 Minutes Sports Sports Showtime 2012 http://www.sho.com/sho/60-
+minutes-sports/home 
+Polyamory: Married 
+& Dating 
+Documentary Showtime 2012 http://www.sho.com/sho/polyamor
+y-married-and-dating/home 
+Oliver Stone’s Untold 
+History of the United 
+States 
+Documentary Showtime 2012 http://www.sho.com/sho/oliver-
+stones-untold-history-of-the-
+united-states/home 
+Gigolos  Documentary Showtime 2011 http://www.sho.com/sho/gigolos/ho
+me 
+Time of Death  Documentary Showtime 2013 http://www.sho.com/sho/time-of-
+death/home 
+     
+Da Vinci's Demons  Drama Starz 2013 http://www.starz.com/originals/dav
+incisdemons 
+Black Sails Drama Starz 2014 http://www.starz.com/originals/bla
+cksails 
+Power Drama Starz 2014 http://www.starz.com/originals/po
+wer 
+Outlander Drama Starz 2014 http://www.starz.com/originals/outl
+ander 
+[PAGE 49]
+6 
+ 
+The Missing  Drama Starz 2014 http://www.starz.com/originals/the
+missing 
+Survivor's Remorse Comedy Starz 2014 http://www.starz.com/originals/sur
+vivorsremorse 
+Starz Inside  Unscripted Starz 2007 http://www.starz.com/titles/starzins
+idecomicsonscreen/1666 
+The Chair Unscripted Starz 2014 http://www.starz.com/originals/the
+chair 
+     
+American Horror 
+Story 
+Drama FX 2011 http://www.fxnetworks.com/shows/
+american-horror-story/about 
+The Americans  Drama FX 2013 http://www.fxnetworks.com/shows/
+the-americans/about 
+Fargo  Drama FX 2014 http://www.fxnetworks.com/shows/
+fargo/about 
+Tyrant  Drama FX 2014 http://www.fxnetworks.com/shows/
+tyrant/about 
+The Strain Drama FX 2014 http://www.fxnetworks.com/shows/
+the-strain/about 
+Louie Sitcom FX 2010 http://www.fxnetworks.com/shows/
+louie/about 
+Married Sitcom FX 2014 http://www.fxnetworks.com/shows/
+married/about 
+Archer Animation FX 2009 http://www.fxnetworks.com/shows/
+archer/about 
+     
+Strike Back  
+ 
+Drama Cinemax 2011 http://www.cinemax.com/strike-
+back/ 
+Banshee Drama Cinemax 2013 http://www.cinemax.com/banshee/ 
+Knick Drama Cinemax 2014 http://www.cinemax.com/the-
+knick/ 
+     
+Mad Men Drama AMC 2007 http://www.amctv.com/shows/mad-
+men 
+The Walking Dead  Drama AMC 2010 http://www.amctv.com/shows/the-
+walking-dead 
+Hell on Wheels  Drama AMC 2011 http://www.amctv.com/shows/hell-
+on-wheels 
+TURИ: Washington's 
+Spies  
+Drama AMC 2014 http://www.amctv.com/shows/turn 
+Halt and Catch Fire  Drama AMC 2014 http://www.amctv.com/shows/halt-
+and-catch-fire 
+Talking Dead  Unscripted AMC 2011 http://www.amctv.com/shows/talki
+ng-dead 
+Comic Book Men  Unscripted AMC 2012 http://www.amctv.com/shows/comi
+c-book-men 
+ 

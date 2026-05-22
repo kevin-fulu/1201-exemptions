@@ -1,0 +1,527 @@
+[PAGE 1]
+  
+1 
+ 
+Long Comment Regarding a Proposed Exemption 
+Under 17 U.S.C. 1201 
+  
+  
+Item 1. Commenter Information  
+ 
+eBay Inc., 2145 Hamilton Avenue, San Jose, CA 95125 
+Gazelle, Inc., 300 A Street, Boston, MA 02210 
+ 
+Of Counsel: 
+Robert S. Schwartz 
+Constantine Cannon LLP 
+1001 Pennsylvania Avenue, N.W. 
+Suite 1300N 
+Washington, D.C. 20004 
+202 204-3508 
+rschwartz@constantinecannon.com
+   
+ 
+Item 2.  Proposed Class Addressed 
+ 
+Proposed Class 11: Unlocking – wireless telephone handsets. 
+ 
+Item 3. Overview 
+ 
+Gazelle and eBay are the leading legitimate “reseller” and “reseller marketplace,” respectively, 
+of wireless telephone handsets.  Our businesses rely, directly or indirectly, on the purchase from 
+consumers of telephone handsets that are sold as “locked” to a specific carrier network and that 
+according to the terms on which their consumer owners acquired them are eligible to be 
+“unlocked” so that they may be re-sold and connected to a different network.  As resellers and 
+reseller marketplaces we support each of the petitions filed in this class and in particular support 
+the relief requested by the Institute of Scrap Recycling Industries (“ISRI”), which specifically 
+addresses the issue of “bulk unlocking.”   
+ 
+As is documented herein, commercially significant numbers of consumers owning eligible 
+phones experience difficulty and/or failure in attempting to unlock them or to follow carriers’ 
+processes for unlocking them.  Most locked phones cannot be resold for the same price as an 
+unlocked phone, hence the prices that resellers have offered and presently offer to consumers for 
+most locked eligible phones have been and are substantially lower than the prices offered to the 
+same consumers for the same eligible phones when they are or can be unlocked.  We support the 
+petitions for exemption to allow a reseller to unlock an eligible phone on behalf of a selling 
+consumer, or on behalf of a reseller as its rightful owner, so as to be able to re-insert the phone 
+into the stream of lawful domestic and international commerce.  This is consistent with the 
+Office’s current treatment of phones, as established by the Unlocking Consumer Choice and 
+Wireless Competition Act (P.L. 113-144, “Unlocking Act”) but would clarify that the exemption 
+covers phones in the hands of legitimate sellers as well as phones in hands of purchasers.  We 
+endorse renewal of the unlocking exemption on this basis. 
+[PAGE 2]
+2 
+ 
+Item 4. Technological Protecti on Measure(s) and Method(s) of 
+Circumvention 
+Handsets are not locked to protect access to any copyrighted content or computer program or 
+system.  Indeed, some carriers sell the same model phones without locking them in the first 
+place.1  Rather, the “locking” consists of a code comprising or requiring a “secret handshake” 
+whose only purpose is to assure that, for the period in which the owner commits to use the phone 
+on the carrier’s system in exchange for acquisition at a discounted price, the owner or a 
+subsequent owner cannot use the phone on any other carrier’s system.  Once this period has 
+expired, the handset becomes contractually eligible for unlocking, but the unlock code is 
+available only from the carrier to whose system the phone is locked.  Circumvention would 
+consist of effectively applying such a code without the authority of that carrier. 
+ 
+Item 5. Asserted Noninfringing Use(s)  
+ 
+According to precedent, circumvention of an “unlock code” so that a phone can be used 
+on a competing network involves neither infringement of copyright nor violation of DMCA 
+Section 1201.  In the leading case of Lexmark Intern. v. Static Control Components,2 the Sixth 
+Circuit held that a computer program preventing the use of unauthorized printer cartridges “is not 
+generally entitled to protection when used necessarily as a lock-out device.”  Lexmark at 544.  
+The court observed further that even if protectable, copying of the program for purposes of 
+circumvention may well be a fair use because the infringement did not appear to impact “the 
+market for the copyrighted work itself.”  The court went on to hold that circumvention of a 
+lockout code of such nature is also not a violation of DMCA Section 1201: 
+ 
+Nowhere in its deliberations over the DMCA did Congress express an interest in 
+creating liability for the circumvention of technological measures designed to 
+prevent consumers from using consumer goods while leaving the copyrightable 
+content of a work unprotected.  Id. at 549. 
+ 
+The court referred as well to the testimony of Professor Jane Ginsburg in a prior Rulemaking 
+Hearing: 
+ 
+Section 1201(a) does not “cover[] the circumvention of a technological measure 
+that controls access to a work not protected under [the Copyright] title. And if 
+we're talking about ball point pen cartridges, printer cartridges, garage doors and 
+so forth, we're talking about works not protected under this title.”  Id. 
+ 
+The holdings to this effect in Lexmark and in Chamberlain Group v. Skylink 
+Technologies
+3 have been commonly accepted as authoritative and were unanimously endorsed in 
+                                                 
+1 For example, whereas AT&T will sell an iPhone as locked, Verizon sells the same iPhone as 
+unlocked.  The only difference this makes in a phone’s operation or security is whether or not the 
+phone will operate on a competitive carrier’s system.   
+2 387 F. 3d 522 (6th Cir. 2004, hereinafter “Lexmark”). 
+3 381 F. 3d 1178 (Fed. Cir. 2004). 
+[PAGE 3]
+3 
+ 
+the Sept. 17, 2014 House Judiciary “IP” Subcommittee hearing on Section 1201.4  All 
+participating Committee members and every witness to address the subject said that to claim 
+circumvention under Section 1201for functional access to industrial objects is an “abuse” of the 
+DMCA.  Rep. Marino, in an opening statement on behalf of Subcommittee Chairman Coble, said: 
+ 
+Some have raised concerns about how the DMCA has been used by companies 
+for purposes other than protecting copyrighted content.  Fortunately, courts have 
+generally gotten it right in determining when digital locks are used for protecting 
+content and when they are used to protect anti-competitive behavior. As everyone 
+knows, Mr. Coble has not been a fan of those who abuse the legal system using 
+our Nation’s intellectual property laws whether they are copyright, patent or 
+trademark laws. And I concur with him. So we’d like to hear more about ways to 
+ensure that Chapter 12 is used to protect copyrighted works rather than printer 
+cartridges and garage door openers as has been attempted before.
+5 
+ 
+Judiciary Committee Ranking Member Conyers added: 
+ 
+For example, some critics contend that copyright owners use Section 1201, as a 
+tool to stifle competition and repeatedly cite the laser printer cartridge 
+replacement and garage door opener cases in support of their contention. 
+Fortunately, courts in both these cases ruled against the companies who had 
+attempted to use Chapter 12 to inhibit competition.
+6   
+ 
+Judiciary Committee Chairman Goodlatte observed in his own statement for the record: 
+ 
+As someone who was very active in negotiating all of the DMCA, I am not sure 
+that anyone involved in the drafting would have anticipated some of the TPM 
+uses that have been litigated in court. Such as replacement printer toner cartridges 
+and garage door openers.
+7 
+ 
+eBay and Gazelle are aware that in the last triennial proceeding the Office dismissed as 
+unnecessary a petition seeking an exemption for access to literary works in the public domain: 
+“Because public domain works are not ‘protected under [Title 17],’ the prohibition on 
+circumvention does not apply to such works … . In such a case, it is lawful to circumvent the 
+technological protection measure and there is no need for an exemption.”
+8  We would not oppose, 
+as an alternative to grant of these petitions, a recommendation of dismissal if made by the Office 
+on explicitly the same basis – that circumvention in this case does not apply.  
+                                                 
+4 Chapter 12 of Title 17:  Hearing Before the Subcomm. On Courts, Intellectual Property, and 
+the Internet of the H. Comm. on the Judiciary, 113th Cong. (2014). 
+5 Id.at 1 - 2. 
+6 Id. at 4. 
+7 Id. at 64.  See also Rep. Farenthold at 77 – 78. 
+8 Section 1201 Rulemaking: Fifth Triennial Proceeding to Determine Exemptions to the 
+Prohibition on Circumvention, Recommendation of the Register of Copyrights at 13 – 15 and n. 
+66, citing similar outcomes in 2010 and 2003 Final Rules. (Oct. 2012).   
+[PAGE 4]
+4 
+ 
+Item 6. Asserted Adverse Effects  
+ 
+In the attached Declarations, eBay and Gazelle document that the inability to unlock Eligible 
+Phones has depressed both the market for them and the prices that can be offered to consumers.  
+The Declaration of Chris Sullivan, CEO of Gazelle, establishes: 
+ 
+• A reseller must offer a consumer a price for many locked eligible phones that is 
+significantly inferior to the price the reseller can offer for the same phone if it has been 
+unlocked, or if the reseller is assured of being able to unlock it on behalf of either the 
+seller or himself. 
+ 
+• Substantial numbers of consumers are not willing or able to complete the unlock process 
+offered by AT&T, at all or in a commercially relevant period.  
+ 
+• When AT&T ceased providing such codes to resellers, the market value of locked 
+eligible AT&T phones in the hands of consumers declined sharply relative to the value of 
+unlocked phones. 
+ 
+• The only alternative to applying an unlock code or circumventing the lock is to trade in 
+the phone to a carrier, thus depriving the consumer of lawful competition for the purchase 
+of her eligible handset. 
+ 
+Answers to Questions Posed in NPRM
+ 
+ 
+In its Notice of Proposed Rulemaking (“NPRM”) the Copyright Office posed these questions as 
+to the “unlocking” exemptions generally, and as to class 11 in particular: 
+ 
+Whether and in the context of the Unlocking Act “an owner of a device at issue … also owns the 
+firmware and/or software that runs the devices for purposes of 17 U.S.C. 117 ….” 
+ 
+The circumstance addressed by Section 117 is that a program is essential to using a work, rather 
+than to not using it.  Our position is that it should not matter whether the consumer or reseller 
+owner of an eligible phone is also deemed the owner of the software that operates that phone, 
+because, per Lexmark, a lock program is not a protected expressive work.  However, if the 
+Register concludes that lock computer programs are nevertheless protected programs essential to 
+the operation of an eligible phone, Section 117 would give any owner of an eligible phone the 
+right to copy that program in the process of unlocking it.  Similarly, the right to unlock a phone 
+so that it may be bought or sold for connection to a network is a right of “maintenance or repair” 
+because the lock code is impeding the phone’s ordinary and lawful function.   
+ 
+Networks to Which Proposed Unlocking Exemptions Would Apply 
+ 
+As is noted in the attached Declarations, much of the value of the sales price that can be paid by 
+a carrier or a reseller to a consumer for an eligible phone depends on the ability to resell it for 
+connection to overseas networks.  Nothing in the Unlocking Act or in the exemption requests 
+would restrict the connection of eligible phones to domestic networks only, and to do so would 
+[PAGE 5]
+5 
+ 
+severely degrade the prices that can be paid to consumers, not only by resellers or reseller 
+marketplaces, but also by carriers, who also unlock and sell substantial numbers of phones taken 
+in trade for connection to overseas networks.  Accordingly, any limitation or specification of the 
+networks to which an unlocked phone can be connected would be anticompetitive and would 
+neither protect nor achieve any public benefit.   
+ 
+Current Unlocking Policies of Carriers and Whether Adherence To CTIA Unlock Guidelines 
+Obviates Need for Exemption 
+ 
+As is documented below, the conduct establishing the most profound need for an exemption was 
+initiated by AT&T approximately two months before the adoption of the CTIA Guidelines and 
+has persisted to this date.  We are not in a position to judge whether the conduct is in violation of 
+those guidelines but assume it is not.  In addition to AT&T, T-Mobile and Sprint also sell locked 
+phones to which the guidelines apparently would apply.  To date, any application of the 
+referenced guidelines has not ameliorated the need for an exemption. 
+ 
+The Extent To Which Unlocked Mobile Phones Are Available For Purchase 
+ 
+A consumer owning an eligible locked phone and wishing to sell it to a reseller or through  a 
+reseller marketplace does not have the option of purchasing an unlocked phone in order to help 
+complete the transaction to sell her locked one – so no such alternative option exists.  (The 
+consumer may as part of a new service inducement trade-in the locked phone to a carrier for an 
+unlocked one, which transfers to the carrier, rather than solves, the suppression of resale device 
+competition.) 
+ 
+Whether the Exemption Should Be Limited To “Used” Handsets 
+ 
+While “used” handsets are by far the most common example of “eligible” phones there are some 
+circumstances in which there is lawful commerce in eligible phones that have not been used.  
+The extent to which commerce in both new and used phones may be unlawful due to theft or 
+fraud is being addressed pursuant to the work of a Federal Communications Commission 
+Technical Advisory Committee in which we have participated.  Hence we believe that the 
+recommendations of the Register need not address what constitutes an “eligible” phone. 
+ 
+Whether the Exemption Should Address “Bulk” Circumvention 
+ 
+In these Comments we  have established that (1) consumers’ obtaining full value for the phones 
+that they own must involve unlocking on behalf of a consumer as seller of a phone, so should not 
+be limited to the consumer as a buyer wishing to connect a phone; (2) consumers cannot easily or 
+reliably manage the process of unlocking as provided by carriers, leading to a depression in 
+prices offered to consumers, and (3) the value to consumers as offered by carriers as well as by 
+resellers and reseller marketplaces depends substantially on the ability to re-sell the phones in 
+wholesale quantities on legitimate international markets.  The only way to address these facts, so 
+as to allow consumers to receive full value for an owned eligible phone, is for the exemption to 
+cover unlocking by a reseller, (a) at the selling consumer’s request, or (b) unlocking “in bulk” – 
+i.e., unlocking of eligible the phones by the reseller, as the owner of each eligible phone. 
+[PAGE 6]
+6 
+ 
+ 
+Any Changed Circumstances In The Need For An Exemption Over The Last Three Years, 
+Including The Emergence of Viable Alternatives. 
+ 
+As is indicated in the attached, the need for a “bulk unlock” exemption arose within the last three 
+years and persists. 
+ 
+Whether The Previously Granted Exemption Has Had An Adverse Effect On The Marketplace 
+For The Accessed Copyrighted Works 
+ 
+In the FCC Technical Advisory Committee’s review of security and theft issues pertaining to 
+mobile handsets, it has not been suggested that unlocking a phone from a carrier network has 
+made any computer program available for copying for commercial exploitation.  As in Lexmark, 
+the locking applied to mobile handsets denies access to phones, not works.  Hence, grant of an 
+exemption cannot have any adverse effect on the marketplace for works. 
+ 
+Item 7. Statutory Factors  
+ 
+“Statutory factors” (i) – (iv) listed in this Item refer to and assume access to an expressive work, 
+which, as set forth above, is not the case with respect to locking codes for telephone handsets.  
+Unlocking an eligible phone has no impact on the value of any copyrighted work.  It does, 
+however, enhance the value of the handset, which likely contains copyrighted works not 
+involved in locking or unlocking and which remain unaffected.  
+ 
+Item 8. Documentary Evidence  
+ 
+Declarations are attached. 
+  
+[PAGE 7]
+7 
+ 
+Declaration of Chris Sullivan, President & Chief Executive Officer, Gazelle 
+1. I am the President and CEO of Gazelle, Inc. (“Gazelle”).  I have knowledge of these facts as 
+a result of Gazelle’s business records and analyses as reported directly to me.  The subject of 
+this declaration is the harm experienced by customers and potential customers of Gazelle as a 
+direct result of (1) consumers’ difficulty in unlocking mobile phones that, pursuant to the 
+consumer’s carrier agreement, are eligible for unlocking (“eligible phones”), and (2) 
+Gazelle’s present inability to unlock eligible phones on behalf of those phones’ legitimate 
+sellers who are or would be our customers.   
+ 
+2. Gazelle is a small but growing company and a pioneer and innovator in the business of 
+offering to purchase phones and other mobile devices that, pursuant to carrier agreements 
+with consumers, are eligible for resale by that consumer.
+9  Because the iPhone was the first 
+popular “smart phone” and was offered first and exclusively by AT&T, Gazelle’s service to 
+consumers has been driven largely by commerce in eligible AT&T iPhones.  From 2010 to 
+October 2013 Gazelle’s annual revenue grew from approximately $20 million to more than 
+$100 million. Gazelle’s growth and its opportunity to offer value to customers for eligible 
+phones were thereafter impacted and limited by a change in AT&T’s unlocking practices for 
+eligible phones that occurred on or about October 1, 2013.  In the fourth quarter of 2013 
+alone, the change in the AT&T unlocking practices had a severe negative impact on 
+Gazelle’s revenue and Net Income.  The lower prices being paid for our pre-owned phones 
+led directly to lower payments being made to the customers who sold those phones to 
+Gazelle. 
+ 
+3. In 2014 Gazelle accepted nearly a half million smartphones in trade from individual 
+consumers. Of those device received, 74 percent were locked. 
+ 
+4. The ability of Gazelle to obtain market value for a used device is greatly affected by whether 
+the product remains locked to a specific carrier network.  In part because much of the market 
+for eligible iPhones, particularly AT&T phones, is overseas, Gazelle cannot obtain as high a 
+price for resale of a locked phone as it can for resale of the same phone when it has been or 
+can be unlocked.  Thus Gazelle cannot make as valuable an offer to a consumer for an 
+eligible locked AT&T phone as it can for that phone when it is unlocked or when Gazelle is 
+confident that it can unlock that phone, or have it unlocked, on behalf of the phone’s 
+legitimate seller.  Accordingly, Gazelle’s business model demonstrates that there are as 
+legitimate reasons for unlocking eligible phones on behalf of a consumer seller who has 
+previously connected the phone to a network, as there are for unlocking the phone on behalf 
+of a buyer who intends to connect it to a network. 
+ 
+5. Gazelle has also been a pioneer in assuring the eligibility of acquired phones.  Gazelle works 
+with and relies upon data from Recipero, the leading service in providing provenance 
+assurance.
+10  Through Recipero, Gazelle has access to the same data on which carriers rely in 
+                                                 
+9 Gazelle’s history and growth are detailed at https://www.gazelle.com/our_story, the accuracy of which I hereby 
+affirm. 
+10 Gazelle announced its partnership with Recipero in deploying Recipero’s CheckMEND service in 2012.  Id.  See, 
+http://www.recipero.com/checkmend.  
+[PAGE 8]
+8 
+ 
+determining that a phone is not lost or stolen.  Gazelle performs the same checks that carriers 
+do before finalizing an acquisition of a phone and putting it back into the stream of domestic 
+or international commerce, and would rely on AT&T’s own determination of whether a 
+phone is “eligible” for unlocking.  Gazelle also works directly with some carriers such as T-
+Mobile to determine whether a phone is still subject to financing and therefore not eligible to 
+be sold to Gazelle.  We would be happy to incorporate a similar check process with AT&T to 
+exclude financed phones from being sold to us. 
+ 
+6. From the inception of Gazelle’s business in iPhones in 2008, AT&T routinely provided the 
+codes necessary to unlock their phones to a variety of re-furbishers and re-sellers, allowing 
+wholesalers who purchased phones from Gazelle to unlock those phones by having AT&T 
+compare the phones’ “IMEI” numbers with AT&T’s own records.  On about October 1, 2013, 
+however, AT&T ceased providing these unlock codes to Gazelle’s wholesale customers.  
+Gazelle immediately requested and continues to request of AT&T that AT&T resume its 
+prior practice, or agree to a system whereby Gazelle, upon an appropriate request and 
+certification by the individual selling the phone to Gazelle, would obtain unlocking codes 
+directly from AT&T.  Gazelle offered to assume the financial risk for any phone determined 
+by AT&T not to be eligible.  AT&T however continues to refuse to furnish unlocking codes 
+to Gazelle or to its customers under these or any other circumstances. 
+ 
+7. As a direct and immediate result of AT&T’s ceasing to provide unlocking codes for eligible 
+phones to Gazelle or to its wholesale customers, the prices that Gazelle and its competitors 
+have been able to offer to consumers for eligible phones have declined sharply, and have 
+remained significantly lower than the price Gazelle can offer for an unlocked phone, or for a 
+phone that Gazelle knows it can unlock upon the request of the selling consumer.  Gazelle’s 
+current online offers for consumer phones, showing the current differential between the 
+offers for locked and unlocked AT&T iPhones, are available to anyone at 
+www.gazelle.com.11     
+ 
+8. Although Gazelle has taken every possible step to assist its selling consumers in having their 
+phones unlocked by AT&T through its on-line process, and although Gazelle has consistently 
+tested, developed, and improved its ability to assist consumers through this process and tried 
+to assure customers that the process is not difficult, fully 46 percent of Gazelle’s customers 
+sell their eligible AT&T phones to Gazelle in “locked” condition and accept the lower offer 
+for their phone.   
+ 
+a. Ten percent of the Gazelle customers who attempt to unlock phones contact Gazelle 
+for assistance. 
+ 
+b. Forty percent of customers contacting Gazelle for assistance report failure and /or 
+belief that their phone remains locked due to an error by AT&T. 
+ 
+                                                
+ 
+11 Based on Gazelle research, payments to consumers in 2014 for locked AT&T phones averaged  72% of  payments 
+for the same unlocked phone for the iPhone 4, and 81% for the iPhone 4S.  In a highly competitive market these 
+differences are substantial and significant.  Gazelle has not been obliged to offer price differentials on products other 
+than AT&T iPhones.   
+[PAGE 9]
+9 
+ 
+c. Gazelle estimates that in 2014 fully 29 percent of customers who began the process of 
+selling a phone to Gazelle failed to complete it because of the complexities of the 
+unlocking process.  
+ 
+d. In addition to direct costs to the consumer, Gazelle’s extensive efforts and outreach to 
+encourage customers to complete the process and to help them to do so add to 
+Gazelle’s costs overall, unnecessarily impacting Gazelle’s ability to offer prices 
+competitive with those offered by carriers for trade-in. 
+ 
+9. Although Gazelle does all it can to encourage its customers that they can perform the AT&T 
+unlock process for eligible phones, and to assist them in doing so, the frustration experienced 
+by customers arises from built-in waiting periods, ambiguities, unclear choices, and 
+complexities such as finding and furnishing code numbers.  The waiting periods can range 
+from 2 to 60 days.  As a final step, a complex iTunes procedure is required, in which the 
+consumer must have the latest iTunes version, back up the device, transfer and sync content 
+to a computer, disable the Activation Lock, and Restore the phone.  The self-unlock process 
+requires that the customer must physically retain the phone and wait, even though she has 
+bought a new one; customers buying a new AT&T iPhone must wait a minimum of 14 days 
+before AT&T will unlock their old phone.  It makes a carrier’s trade-in process, where the 
+carrier rather than the customer assumes these burdens, relatively more attractive than 
+attempting to recover full value through an open-market sale to a legitimate reseller. 
+ 
+10. Examples of consumer frustration as received by Gazelle and maintained in Gazelle’s 
+business records illustrate consumer confusion and frustration: 
+ 
+#000377 
+Hello, This is incredibly frustrating as I followed the exact procedures outlined by AT&T and 
+seconded by Gazelle.  The phone said it had been unlocked successfully.  After waiting for two 
+weeks to get it unlocked in the first place from AT&T now it is for some reason still locked.  In 
+addition, even if I could go through the process again, how do I do that now that you have the 
+phone?  Please help! Thank you and have a great day. 
+ 
+#000745 
+I called AT&T for the past 3 days. The problem was they never took us off the family plan-when 
+we originally signed up we had three lines to include myself and our two sons. Our oldest son 
+went into the military 10 years ago and it took us 5 years to get them to realize we were not using 
+three lines. The last 2 times I have gotten a new phone I have only received a new phone and yet 
+this last call at 1215 I finally drilled it into their head that we only had one line. Therefore, we 
+would not be completely cutting our service with them But what really upset me was the fact that 
+he told me that the phone will not be unlocked until the 12th. I had to hand the phone to my 
+husband I was so upset. My husband was livid! Our second son left for the Navy 5 years ago. 
+Most customer service reps are at least apologetic about the mistakes. His attitude was "Oh 
+well." The Case number is [omitted for this Declaration] 
+ 
+  
+[PAGE 10]
+10 
+ 
+50483 
+I just received an email saying they couldn't unlock the phone? Can you tell me if that is correct? 
+Since the att email I forwarded said I could unlock it- this is confusing me- I don't like att- thanks 
+ 
+2421 
+I contacted support at Gazelle and let them know I had a glitch with ATT. They claim the phone 
+is not an ATT phone but I have had it has ALWAYS been an ATT iphone. Support said if we 
+could straighten it out they would stick to the original quote. I'm currently trying to get a hold of 
+ATT support to clear this matter. They already unlocked our other iphone!  
+ 
+#19845 
+I have sent my iPhone 4 to gazelle. I sent a unlock form to ATT which they accepted. ATT sent 
+me instructions to connect my phone to iTunes to backup/restore phone. Since I don't have it 
+anymore, what do I do? 
+ 
+#00419 
+When I initially got a quote to sell my phones back to Gazelle I was unable to unlock my phone 
+with AT&T.  I didn't want to wait on getting the quote so I priced it for a locked phone.  Now 
+thanks to the extension on returning the box, I've been able to wait out the 14 days since getting a 
+new phone and was able to unlock the old one.  Can the offer be adjusted to $25 more for each 
+phone since they are now unlocked? 
+ 
+#10819 
+AT&T says the device IS unlocked but I am tired of the hassle. 
+*** 
+Under penalty of perjury I affirm that this Declaration accurately reflects my knowledge 
+as President & CEO of Gazelle, Inc. 
+ 
+ 
+ 
+       / s/Chris Sullivan 
+       C h r i s  S u l l i v a n  
+       President & CEO, Gazelle, Inc. 
+  
+[PAGE 11]
+11 
+ 
+Declaration of Tod Cohen, Vice President and Deputy General Counsel, eBay Inc. 
+ 
+My name is Tod Cohen, and I am the Vice President and Deputy General Counsel of eBay Inc. 
+(“eBay”).  With 155 million active buyers globally, eBay is one of the world's largest online 
+marketplaces, where practically anyone can buy and sell practically anything. Founded in 1995, 
+eBay connects a diverse and passionate community of individual buyers and sellers, as well as 
+small businesses.  Their collective impact on ecommerce is staggering, and more than 700 
+million items are listed on eBay.    
+ 
+According to the Copyright Office, the goal of the current rulemaking proceeding is “to 
+determine whether there are particular classes of works as to which users are, or are likely to be, 
+adversely affected in their ability to make noninfringing uses due to the prohibition on 
+circumvention of access controls.”  This determination thus depends on the presence of two 
+things: adversely affected users and noninfringing uses.  Noninfringing uses were addressed in 
+Item 5 above; this declaration addresses the adversely affected users.   
+ 
+eBay’s “Cell Phone and Smartphone” category is hugely popular with our users and our platform 
+enables the sale of millions of these devices annually.  Unlocked phones are an important 
+segment for our users within this market.  Our customers – both buyers and sellers – benefit by 
+the availability of unlocked phones in the marketplace (or, conversely, would be affected 
+adversely without an exemption).  Customers on the seller side of the transaction benefit by 
+being able to list and sell unlocked phones.  Customers on the buyer side of the transaction create 
+this demand for several reasons.  First, many of our purchasers buy unlocked phones so that they 
+are not burdened by the restrictions associated with a long-term contract with a single carrier.  
+These customers are willing to buy unlocked phones so they can choose less expensive plans 
+from competing carriers.  Second, many purchasers visit ebay.com in order to replace a phone 
+that has been lost or damaged.  Without this option, these customers – if not insured – remain 
+bound to the replacement terms of their contract, which typically restrict user choice and impose 
+additional costs far above an unlocked phone.  Third, many purchasers who travel abroad need to 
+buy an unlocked phone in order avoid outrageously expensive roaming charges from their carrier.  
+With an unlocked phone, these customers can avoid such charges by buying a SIM card in the 
+destination country and paying significantly lower local rates.   
+ 
+Additionally, we are concerned that a failure to renew the exemption will create unnecessary 
+legal burdens for many of our users.  eBay’s Verified Rights Owners (VeRO) program is the 
+most advanced and successful notice and takedown program of its kind, and is designed to 
+receive 17 U.S.C. § 512 (DMCA) notices as well as other notices of infringement.  Currently, 
+there are over 40,000 official participants in the program.  We are concerned that in the absence 
+of the requested exemption, wireless providers will submit DMCA notices through VeRO or 
+initiate other legal action in an effort to remove certain cell phones from the eBay platform – to 
+the detriment of our users.   
+ 
+  
+[PAGE 12]
+12 
+ 
+eBay urges the Copyright Office to maintain the exemption for Proposed Class 11.  It is our 
+belief that renewing the exemption will continue to foster competition in the marketplace, 
+continue to create opportunities for sellers, and benefit consumers without adversely impacting 
+copyrighted works in any way.   
+ 
+Tod Cohen 
+Vice President and Deputy General Counsel 
+eBay Inc. 

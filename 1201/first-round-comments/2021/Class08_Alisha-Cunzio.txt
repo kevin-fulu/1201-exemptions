@@ -1,0 +1,66 @@
+[PAGE 1]
+12/15/2020 Regulations.gov Beta
+https://beta.regulations.gov/comment/COLC-2020-0010-0134 1/2
+Docket (/docket/COLC-2020-0010) / Document (COLC-2020-0010-0075) (/document/COLC-2020-0010-0075)
+/ Comment
+An official website of the United States Government. 
+ PUBLIC SUBMISSION
+Class 08_InitialComments_Alisha Cunzio
+Posted by the U.S. Copyright Office on Dec 15, 2020
+View More Comments  (/document/COLC-2020-0010-0075/comment)
+ 
+70  Share 
+Comment
+Under the Class 8 exemptions found in the final rulings for the seventh triennial proceedings, class (ii)
+indicates that “video games in the form of computer programs embodied in physical or downloaded formats
+that have been lawfully acquired as complete games, that do not require access to an external computer
+server for gameplay, and that are no longer reasonably available in the commercial marketplace, solely for
+the purpose of preservation of the game in a playable form by an eligible library, archives, or museum,
+where such activities are carried out without any purpose of direct or indirect commercial advantage and the
+video game is not distributed or made available outside of the physical premises of the eligible library,
+archives, or museum.” 
+However, the stipulation that games must “no longer reasonably available in the commercial marketplace” is
+unclear in what qualifies as reasonable availability in the commercial marketplace. As such, I would like to
+propose the following clarifications for this stipulation: 
+• Remakes – defined as “a video game closely adapted from an earlier title characterized by updated or
+changed assets, significantly altered text or plot, and/or major changes to gameplay” – do not constitute a
+renewal of the original copyright of the title and therefore do no qualify as reasonable availability; 
+• Remasters and re-releases – defined as “changing the quality of the sound or of the image, or both, of
+previously created recordings, either audiophonic, cinematic, or videographic” – qualify as reasonable
+availability so long as the new release maintains a faithful reproduction of the original gameplay, plot points,
+and general experience; 
+• Ports – defined as “adaptation of the original software to achieve playability on a different console or
+hardware” – qualify as reasonably available so long as the new release maintains a faithful reproduction of
+the original gameplay, plot points, and general experience; 
+• Marketplace pricing must not exceed the original price – adjusted for inflation – of the title unless
+significant additions have been made; 
+• Access to new listings must not be inhibited by a subscription fee or recurring payment model. 
+• Duplications/copies possessed by eligible institutions are not liable for copyright violation if a relevant
+remaster, re-release, or port is released after the institution has had their own duplications/copies available
+for public access. 
+[PAGE 2]
+12/15/2020 Regulations.gov Beta
+https://beta.regulations.gov/comment/COLC-2020-0010-0134 2/2
+These clarifications will better allow eligible institutions to determine the viability of legal duplication in order
+to provide continued access to video game titles that are no longer in circulation. The unspecific language
+of the current stipulations leaves institutions – many of which do not have the means to argue copyright
+violations in court, even if just – at risk of spurious claims and, potentially, will lead to reluctance to duplicate
+titles at risk of being lost due to electronic degradation.
+Comment ID
+COLC-2020-0010-0134
+Tracking Number
+kil-4ufy-jsov
+Comment Details Submitter Info
+Submitter Name
+Alisha Cunzio
+About
+(/about) 
+Agencies
+(/agencies) 
+Learn
+(/learn) 
+FAQ
+(/faq)
+Privacy & Security Notice (/privacy-notice) |  User Notice (/user-notice) |
+Accessibility Statement (/accessibility) |  Developers (https://open.gsa.gov/api/regulationsgov/)
+Support (/support) Provide Site Feedback

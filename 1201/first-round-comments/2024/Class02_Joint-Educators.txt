@@ -1,0 +1,948 @@
+[PAGE 1]
+  
+ 
+[   ] Check here if multimedia evidence is being provided in connection with this comment. 
+ITEM A.  COMMENTER INFORMATION  
+This Comment is submitted on behalf of Peter Decherney, Professor of Cinema and 
+Media Studies and English, University of Pennsylvania; Sarah Banet-Weiser, Ph.D., Professor 
+and Dean, Annenberg School for Communication, University of Pennsylvania; Nate Harrison, 
+Ph.D., Dean of Academic Affairs and Professor of the Practice, Media Arts, School of the 
+Museum of Fine Arts at Tufts University; Lauren van Haaften-Schick, Ph.D. Student in History 
+of Art, Department of History of Art and Visual Studies, Cornell University; Shiv Gaglani, Ed 
+Tech Entrepreneur and Medical Student; and the Society for Cinema and Media Studies (SCMS) 
+hereinafter known as “Joint Educators.” 
+  
+Represented by:  
+Glushko-Samuelson Intellectual Property Law Clinic   
+Professor Victoria Phillips, Director  
+Jill Crosby, Student Attorney 
+Kristin Rheins, Student Attorney 
+ 
+Parties interested in contacting Peter Decherney should reach him at decherney@sas.upenn.edu 
+(215.746.3156). 
+ 
+ITEM B.  PROPOSED CLASS ADDRESSED 
+Proposed Class 2: Audiovisual Works— Online Learning 
+ITEM C.  OVERVIEW 
+Under 17 U.S.C. § 1201, the Joint Educators propose to add an exemption to allow 
+educators and preparers of online learning materials offered by qualified educational entities to 
+use short, high-quality excerpts of motion pictures and television shows. This exemption 
+advances educational purposes because these excerpts will contribute to students’ learning 
+through criticism, comment, illustration, and explanation. The Joint Educators’ proposed 
+exemption is analogous to existing 1201 exemptions in its educational goals, use, and TPMs 
+employed, but this separate class of innovative, nontraditional educational entities, specifically 
+for-profit, nonaccredited learning programs, is distinct in the educators and students it represents. 
+Currently, Massive Open Online Courses (“MOOCs”), K-12 schools, and universities have an 
+exemption to use short, high-quality motion picture excerpts to teach. The utilization of the 
+UNITED STATES COPYRIGHT OFFICE 
+Long Comment RegaTding a PToposed 
+Exemption UndeT 17 U.S.C. § 1201 
+Pri vacy Act Advisory Statemen t: Required by the Privacy Act of 1974 (P.L. 93-579) 
+The authority for requesting this information is 17 U.S.C. §§ 1201(a)(l) and 705. Furnishing the requested information is voluntary. The principal use of the requested informatio n is publication on the 
+Copyright Office website and use by Copyright Office staff for purposes of the rulemaking proceeding conducted under 17 U.S.C. § 1201 (a)( 1 ). NOTE: No other advisory statement will be given in connection 
+with this submission. Please keep this statement and refer to it if we communicate with you regarding this submission. 
+U.S. Copyright Office Library of Congress 101 Independence Avenue SE Washington, DC 20557-6400 copyright.gov 
+LONG COMMENT REGARDING A PROPOSED EXEMPTION UNDER 17 U.S.C. § 1201 REV: 10/2023 
+[PAGE 2]
+ 
+ 
+2 
+ 
+audiovisual clips by these exempted entities serves as concrete evidence that shows how other 
+legitimate educational entities could thrive in a similar manner. 
+In the Eighth Triennial Rulemaking, the Register found that the Joint Educators’ 
+inclusion of these online learning platforms in their proposed exemption “lack[ed] support to 
+expand its existing exemption to for-profit and/or unaccredited educational companies or 
+organizations,” because “it would seemingly encompass any online video that could be 
+characterized as an educational experience.”1 For this reason, the Register found the balancing of 
+factors one and four slightly tipping against fair use. However, the Register’s analysis 
+misconstrued the proposed exemption’s educational uses. The Joint Educators hope to clarify 
+that the proposed exemption should only apply to “educational entities that employ educators or 
+demonstrate that they themselves are educators that provide or develop content” regardless of 
+whether they are accredited or of a for-profit status, and this limitation is in accordance with the 
+guidelines suggested by the National Telecommunications and Information Administration 
+(NTIA) in its letter supporting the Joint Educators’ proposed exemption in the previous 
+rulemaking.2 As detailed more below, the NTIA identified clear requirements for the types of 
+qualified educational entities who would be eligible to use the proposed exemption. The Joint 
+Educators believe the inclusion of these additional safeguards will ensure that the uses requested 
+are truly for educational criticism, comment, illustration, and explanation by qualified online 
+providers and will easily qualify as fair use under the four factors of Section 107 of the 
+Copyright Act. The educational entities will also limit these online learning materials, to the 
+extent technologically feasible, to registered learners of the online learning platform, institute 
+copyright policies, and provide copyright information to educators and preparers of online 
+learning materials, learners, and relevant staff members. These additional safeguards will allow 
+for the extension of this vital exemption to a broader scope of legitimate educational entities and 
+help to level the education playing field.3 
+ 
+The educational ecosystem has also continued to change dramatically in the past three 
+years as the digital migration has taken firm hold in this field now. Learning plans offered by 
+these nontraditional online educational entities are increasingly sought after by students of all 
+ages and backgrounds. The pandemic accelerated a trend in online learning that was already 
+present. Due to their flexible, personalized, practical skill approaches, students of all 
+backgrounds and ages are seeking an education from these nontraditional educational entities. 
+Further, employers now recognize the productive value of these certificate programs, bootcamps, 
+and professional development courses. Nontraditional educational entity registered students 
+include adults continuing their education to reskill, K-12 children supplementing their learning 
+or being homeschooled, and young adults looking to receive a much more affordable and job-
+ready education. In addition to the increasing prevalence, there are proven psychological benefits 
+from incorporating motion picture excerpts into learning plans. High-quality audiovisual clips 
+can increase learning retention and student engagement by providing compelling visual stimulus. 
+Every year that students are denied these benefits, they are adversely impacted by this restriction. 
+ 
+1 Section 1201 Rulemaking: Eight Triennial Proceeding, Recommendation of the Register of Copyrights, 59 (2021). 
+2 Exemptions to Permit Circumvention of Access Controls on Copyrighted Works, NTIA, 10, 11 (October 1, 2021), 
+https://www.govinfo.gov/content/pkg/FR-2021-10-28/pdf/2021-23311.pdf. 
+3 Id. 
+[PAGE 3]
+ 
+ 
+3 
+ 
+With the noninfringing nature and meeting of the 1201 statutory factors by the Joint 
+Educators’ proposed exemption, the U.S. Copyright Office possesses the authority to address the 
+adverse effects impacting qualified but nontraditional educational entities in their ability to make 
+noninfringing uses of short excerpts of motion pictures for educational purposes. The Copyright 
+Office has an important role to play in the ongoing federal and state effort to advance educational 
+and digital equity for the students and educators currently left behind with restricted access to 
+high-quality pedagogy and educational materials. Efforts to advance equity are being carried out 
+across administrative agencies and branches of government, and the Copyright Office can 
+support these efforts with this exemption. The Joint Educators urge the Register to implement the 
+proposed exemption for qualified nontraditional educational entities regardless of their status as a 
+for-profit or their educational accreditation to use short, high-quality excerpts of motion pictures 
+for the transformative educational purpose of criticism, comment, illustration, and explanation. 
+ITEM D.  TECHNOLOGICAL PROTECTION MEASURE(S) AND METHOD(S) OF CIRCUMVENTION 
+There are numerous technological protection measures (TPMs) that control access to 
+copyrighted audiovisual works. As described in the Joint Educators’ comments in the previous 
+rulemakings, the TPMs employed vary based on whether they are protecting copyrighted content 
+on digital video discs (DVDs), Blu-Ray Discs, or streaming platforms.4 With current multimedia 
+trends, audiovisual works are now most viewed through video streaming platforms, such as 
+Netflix, Hulu, Amazon Prime Video, etc.5 
+DVDs may employ Analog Protection System (APS) scrambling, Content Scramble 
+System (CSS) encryption, or disc corruption. Of course, APS scrambling has become irrelevant 
+with the move towards digital rather than analog videos.6 In terms of CSS encryption, an 
+authentication process occurs between the DVD drive and the DVD player software where the 
+player uses a key to decrypt the video data.7 Meanwhile, disc corruption installs a scheme where 
+portions of DVD discs are mangled in a manner that renders them unreadable, and copying the 
+disc sequentially causes corrupted areas to skip and get stuck.8 
+Blu-Ray discs use Advanced Access Content System (AACS) encryption as a first level 
+TPM. The AACS system uses keys that can be revoked if it is determined they are 
+compromised.9 As a second level of protection, BD-Plus or Cinavia is used. BD-Plus further 
+mangles stream files with instructions on how to repair the mangled files on the disc.10 
+Meanwhile, Cinavia protection involves steganography or watermarking where a special 
+encrypted data signal is placed within an audio channel in an audio track, which the video player 
+ 
+4 Learning Center, Miraizon, http://www.miraizon.com/support/info_copyprotection.html (last visited Nov. 28, 
+2023). 
+5 Id. 
+6 Id. 
+7 Id. 
+8 Id. 
+9 Id. 
+10 Id. 
+[PAGE 4]
+ 
+ 
+4 
+ 
+detects to verify whether playback should be allowed.11 Generally, online streaming platforms 
+use protected streaming as a TPM. This measure uses encryption to protect audiovisual works. 
+Concerning the relevant methods of circumvention to gain access to a copyrighted work, 
+technical programs are widely available online to disable TPMs. These decryption programs 
+rewrite the protected work in a manner that preserves the video data, frame, and resolution. The 
+Joint Educators’ proposed exemption acknowledges that TPMs are necessary to protect 
+copyrighted audiovisual works. The Joint Educators’ petition proposed employing the same TPM 
+policy granted in the exemption for MOOCs to use motion pictures for educational uses.12 
+The educational entity will limit these online learning materials, to the extent  
+technologically feasible, to registered learners of their online learning platform, institute 
+copyright policies, and provide copyright information to educators and preparers of 
+online learning materials, learners, and relevant staff members, and to the extent 
+technologically feasible, will work to reasonably prevent unauthorized further 
+dissemination of the materials in accessible form to others.  
+Ultimately, this TPM policy will effectively limit illegal uses of copyrighted audiovisual 
+works as it has done with current exemptions.  
+ITEM E.  ASSERTED ADVERSE EFFECTS ON NONINFRINGING USES  
+THE PROPOSED EXEMPTION WILL ENSURE THAT NO EDUCATORS OR 
+STUDENTS ARE LEFT BEHIND 
+As stated in their petition,13 the Joint Educators propose to add an exemption under 17 
+U.S.C. § 1201 that would allow all online educators and preparers of online learning materials 
+offered by qualified educational entities to use short excerpts of motion pictures, which includes 
+television shows and videos. The purpose of this exemption would be for criticism, comment, 
+illustration, and explanation in offerings to registered students of online learning platforms when 
+the use of the excerpt constitutes transformative fair use and contributes significantly to learning. 
+With the inclusion of movies and television shows in learning materials, this proposed class of 
+audiovisual works for online learning includes works protected by copyright.  
+This proposed exemption builds off existing 1201 educational exemptions in its goals, yet 
+the separate proposed class is distinct in the educators and students it represents. Currently, 
+within the realm of motion picture copyright exemptions for educational purposes, there is an 
+exemption for college and university faculty, students, or employees acting at the direction of 
+faculty, or K-12 educators and students to use motion pictures for educational purposes.9 
+Additionally, there is an exemption for faculty and employees acting at the direction of faculty in 
+MOOCs to use motion pictures for educational uses.10 The Joint Educators propose to expand 
+motion pictures used for educational purposes in online learning beyond the non-profit or 
+accredited educational institutions to include online learning platforms offered by qualified 
+ 
+11 Id. 
+12 37 CFR 201.40(b)(1)(ii)(B)). 
+13 Joint Educators, Petition for New Exemption Under 17 U.S.C. § 1201 9th Triennial Rulemaking (Aug. 25, 2023), 
+https://www.copyright.gov/1201/2024/petitions/proposed/New-Pet-Joint-Educators.pdf.  
+[PAGE 5]
+ 
+ 
+5 
+ 
+educational entities that offer supplemental education, upskilling, retraining, recharging, and 
+lifelong learning regardless of their status as a for-profit or their educational accreditation. 
+The proposed exemption has the very same goal as the renewed educational exemptions 
+in providing students access to high-quality audiovisual learning materials. However, the 
+DMCA’s statutory prohibition on circumvention still stands in the way of achieving complete 
+educational and digital equity across all educational entities. The proposed exemption can 
+achieve this universal goal in promoting equal access and high-quality educational materials 
+across the United States and close the gap for the educators and students currently left behind. 
+The Joint Educators’ proposal would also promote innovation in the nontraditional online 
+educational field allowing qualified educational entities, such as 2U, LinkedIn Learning, 
+Skillshare, Udemy, etc., to utilize motion picture excerpts for legitimate educational purposes. 
+These online education providers design various programs to teach students of all ages and 
+educational backgrounds across a wide array of subject areas and skillsets. The programs include 
+learning plans, which may be formatted as certificate programs, bootcamps, or training and 
+development courses. 
+Participation in a certificate program, accredited or nonaccredited, helps students develop 
+or strengthen career skills in a specific subject.14 Certificate programs cover countless skills 
+across subject areas such as business, marketing, language learning, film, data science, etc. 
+Regardless of whether students possess prior education, they will benefit from a certificate 
+program because they are taught technical skills that prepare them for practical skills at either a 
+beginner or advanced level.15  A certificate notation on a resume signals to employers that the 
+job candidate has the on-demand, applicable skills for a role. Meanwhile, bootcamps teach 
+students skills at a fast pace, and they are typically aimed at teaching computing and other 
+technical skills. Bootcamps tend to focus on a single computer area like cybersecurity or a 
+coding language like Python.16 Like certificate programs, bootcamps teach students job-related 
+skills through practical learning. Due to the confidence in the relevant, high-demand skills taught 
+to students, bootcamps often offer a tuition-back guarantee for students that do not land a job 
+after the program’s completion.17 Beyond certificate programs and bootcamps, there are general 
+learning and development courses, which are sometimes called microdegrees or nanodegrees. 
+These courses provide educational videos for students seeking personal and professional growth 
+and for businesses looking to create custom online training courses to upskill their employees. 
+These courses support and advance students’ careers as continuous professional development is 
+now desired by employers in the modern workforce.  
+The nontraditional educational entities described above are adversely affected in their 
+ability to make noninfringing uses of short excerpts of motion pictures, yet these entities account 
+for a crucial and growing part of the education sector.  Students’ driving motive to acquire an 
+education is to increase their prospects for securing and succeeding at a job, and these 
+ 
+14 What Are Certificate Programs? A 2023 Guide, Coursera (Nov. 9, 2023), 
+https://www.coursera.org/articles/certificate-programs.  
+15 Id. 
+16 Michelle Jones et al., What Is A Bootcamp? Getting Into Tech Without A Degree, FORBES (Aug. 15, 2023, 11:57 
+AM), https://www.forbes.com/advisor/education/what-is-a-bootcamp/.  
+17 Id. 
+[PAGE 6]
+ 
+ 
+6 
+ 
+nontraditional learning paths appeal to students and employers because they provide practical 
+skills.18 Major companies like Accenture, IBM, Google, and Bank of America are not requiring 
+college degrees for numerous entry-level jobs to remove a paper ceiling, which will build a 
+diverse workforce and address talent gaps that are plaguing industries.19 The role that this class 
+of online educators and preparers of online learning materials plays in the education sector is 
+meaningful, and the proposed exemption would ensure that these nontraditional educational 
+entities are no longer adversely affected. 
+EDUCATIONAL EQUITY IS HINDERED BY THE STATUTORY PROHIBITION ON 
+CIRCUMVENTING ACCESS CONTROLS 
+Beyond the meaningful role that these innovative, nontraditional educational entities play 
+in providing students with practical skills, the demand for the online learning opportunities 
+described above has skyrocketed. The COVID-19 pandemic drove educators and students to 
+online learning; although, the pandemic simply accelerated a trend that was already there. In 
+2012, 25% of United States college students took at least one distance learning course.20 This 
+number rose to 36% by 2019 according to NCES.21 The trend in online education is predicted to 
+continue growing. For instance, 2U has expanded to 76 million people globally in its learner 
+network.22 Also, the eighth annual Changing Landscape of Online Education (CHLOE) report 
+indicates an increased demand for online and hybrid learning along with a decrease in demand 
+for face-to-face courses.23 With more students increasingly turning to online learning, it is time 
+to treat all educational entities equally. 
+In recognizing the need for the Joint Educator’s proposed exemption, the students of 
+these educational entities are the central consideration. The students suffer consequences when 
+nontraditional educational entities are adversely affected in their ability to make noninfringing 
+uses of high-quality motion pictures excerpts. Educational innovations enable students of any 
+age, educational level, and circumstance to learn. These are the same students who would 
+otherwise not be able to receive a degree from a traditional institution, but are empowered by 
+certificate programs, bootcamps, or training and development courses. 
+In addition to the practical skills that nontraditional educational entities teach, numerous 
+characteristics of these learning programs help to expand education to underserved students. 
+First, the cost of these online learning programs is significantly less expensive than a traditional 
+ 
+18 Michael T. Nietzel, New Coursera Survey: Industry Certificates Hold Strong Appeal For College Students And 
+Employers, FORBES (Sept. 27, 2022, 7:44 AM), https://www.forbes.com/sites/michaeltnietzel/2022/09/27/new-
+coursera-survey-industry-certificates-hold-strong-appeal-for-college-students-and-employers/?sh=7d71db6f2e29.  
+19 Id.  
+20 Ilana Hamilton & Veronica Beagle, By The Numbers: The Rise Of Online Learning In The U.S., FORBES (May 
+24, 2023, 1:31 PM), https://www.forbes.com/advisor/education/student-resources/online-learning-stats/.  
+21 Id. 
+22 2U Releases 2022 Transparency & Outcomes Report, 2U (July 27, 2023), https://2u.com/latest/2022-
+transparency-outcomes-report/.  
+23 Quality Matters & Eduventures Research, CHLOE 8: Student Demand Moves Higher Ed Toward a Multi-Modal 
+Future (Aug. 15, 2023), https://www.qualitymatters.org/qa-resources/resource-center/articles-resources/CHLOE-8-
+report-2023.  
+[PAGE 7]
+ 
+ 
+7 
+ 
+degree. Certificate programs can cost anywhere from $50 a month to $6,000 for the program.24 
+In comparison, in 2023-2024, the average estimated budgets (tuition and fees, housing and food, 
+and allowances for books and supplies, transportation and other personal expenses) for full-time 
+undergraduate students range from $19,860 for public two-year in-district students and $28,840 
+for public four-year in-state students to $46,730 for public four-year out-of-state students and 
+$60,420 for private nonprofit four-year students.25 Another consideration for traditional degree 
+programs at colleges and universities is that it is difficult for students who must work a full-time 
+job to attend. The nontraditional educational entities’ learning programs are typically much more 
+flexible in offering a variety of paces and asynchronous learning options. Furthermore, these 
+programs provide flexibility to learn at your own pace and in just a few weeks or months rather 
+than years.26 The cost, flexibility, time, and practical skills taught through these learning 
+programs enable marginalized groups to seek an education and career advancement regardless of 
+their location, employment, education, and income status. 
+As these learning programs become a more viable and increasingly sought replacement 
+for college and university degrees,27 young adults can consider nontraditional education routes. 
+Students considering a pivot to a different career or advancement in their current role can greatly 
+benefit from what these online educational entities have to offer. For example, Skillshare, a 
+learning community for creators, found that 60% of individuals identifying as creative 
+professionals are looking to switch companies or careers in light of the current economy.28 
+Professionals today must continue to learn new skills for both job retention and career 
+advancement. These nontraditional educational entities are designed to enable the life-long 
+learning approach, which is already required in certain professions like law and medicine and are 
+becoming increasingly necessary in other technological sectors as well.29 Skill sets for jobs have 
+changed approximately 25% since 2017, which is expected to double by 2027, and 89% of 
+learning and development proponents believe proactively building skills will support the 
+navigation of this work evolution.30 With the new wave of automation and generative artificial 
+intelligence, jobs are threatened as skill gaps widen and reskilling is made imperative.31 Life-
+long learning and reskilling are now more necessary than ever before, and these nontraditional 
+educational entities are a large part of the solution.  
+In consideration of automation and artificial intelligence, nontraditional educational 
+entities can improve learning capabilities for students by personalizing learning experiences. 
+ 
+24 What Are Certificate Programs? A 2023 Guide, Coursera (Nov. 9, 2023), 
+https://www.coursera.org/articles/certificate-programs. 
+25 Trends in College Pricing and Student Aid 2023, CollegeBoard (Nov. 2023), 
+https://research.collegeboard.org/media/pdf/Trends%20Report%202023%20Updated.pdf.  
+26 See What Are Certificate Programs? A 2023 Guide, supra note 24. 
+27 See Nietzel, supra note 18. 
+28 2023 Trendshare, Shillshare (2023), https://www.skillshare.com/blog/wp-content/uploads/2023/02/Skillshare-
+Trendshare-Report-2023.pdf.  
+29 Bernard Marr, The Top 5 Education Trends In 2023, FORBES (Feb. 17, 2023, 2:26 AM), 
+https://www.forbes.com/sites/bernardmarr/2023/02/17/the-top-5-education-trends-in-2023/?sh=6ce19da64d39.  
+30 2023 Workplace Learning Report, LinkedIn Learning (2023), 
+https://learning.linkedin.com/content/dam/me/learning/en-us/pdfs/workplace-learning-report/LinkedIn-
+Learning_Workplace-Learning-Report-2023-EN.pdf.  
+31 Jorge Tamayo et al., Reskilling in the Age of AI, Harvard Business Review (Sept.-Oct. 2023), 
+https://hbr.org/2023/09/reskilling-in-the-age-of-ai.  
+[PAGE 8]
+ 
+ 
+8 
+ 
+Through data-driven insights and algorithms, online educational entities can adapt to each 
+learner’s pace, preferences, and strengths to enhance engagement and boost retention rates by 
+catering to individual needs.32 This customization helps break down barriers for any student in 
+pursuit of an education.  
+Primary and secondary students also utilize these online educational entities. Students use 
+these learning programs alongside their college or high school curriculum.33 With the flexibility, 
+interactive nature, and personalization of these nontraditional educational entities, primary and 
+secondary students can benefit from these entities in ways that they cannot in traditional 
+classrooms. Examples of these innovative educational entities that are geared towards pre-
+kindergarten, primary, secondary, and homeschooling students include ABCmouse and Create & 
+Learn in addition to the platforms previously mentioned. Additionally, ensuring that young 
+learners have equal access to high-quality audiovisual learning materials has never been more 
+necessary in light of the national teacher crisis. Administrators say that to deal with the staffing 
+shortfalls, they are relying again this year on long-term substitute teachers, hiring emergency 
+certified teachers with no teaching qualifications or experience, bringing in teachers from 
+overseas, and increasing class sizes.34 With the increase in edtech, nontraditional educational 
+entities are one of the solutions to this crisis as students, parents, and schools turn to these 
+platforms.  
+Recognizing the value of what these platforms have to offer, colleges and universities 
+have already partnered with these nontraditional educational entities. Through a partnership, 2U 
+will launch 50 new degree programs with six universities.35 Traditional higher education 
+institutions and their career services departments are recognizing and promoting the value of 
+these innovative educational entities as well. The educational landscape is evolving. As 
+innovation continues, these nontraditional educational entities are becoming more prominent 
+learning institutions. Education is a right that students of all ages and backgrounds should have 
+access to. The DMCA’s statutory prohibition on circumventing access controls adversely 
+impacts these educational entities uses of short excerpts of motion pictures to provide access to 
+quality educational materials in achievement of equity across the United States education sector. 
+ 
+ 
+32 Aaleen F, Revolutionizing Education: The Power of EdTech and Online Learning Platforms, MEDIUM (Aug. 11, 
+2023), https://medium.com/@aaleen.f01/revolutionizing-education-the-power-of-edtech-and-online-learning-
+platforms-6e9e6fc55f82.  
+33 Cory Stieg, 7 Ways Students Use Codeacademy to Get Ahead in Class (& Life), Codecademy (Sept. 5, 2023), 
+https://www.codecademy.com/resources/blog/learn-to-code-on-your-own-in-
+college/#:~:text=Lots%20of%20our%20learners%20use,and%20start%20gaining%20practical%20experience. See 
+also High School Camps Powered by 2U, 2U, https://bootcamps.2u.com/highschool/ (last visited Nov. 19, 2023). 
+34 Shannon Pettypiece, From ’crisis‘ to ’catastrophe,’ schools scramble once again to find teachers, NBC News 
+(Aug. 13, 2023, 7:00 AM), https://www.nbcnews.com/politics/economics/crisis-catastrophe-schools-scramble-find-
+teachers-rcna98083.  
+35 2U Signs 50 New Online Degrees with Six University Partners, 2U (Nov. 10, 2023), https://investor.2u.com/news-
+and-events/press-releases/news-details/2023/2U-Signs-50-New-Online-Degrees-with-Six-University-
+Partners/default.aspx.  
+[PAGE 9]
+ 
+ 
+9 
+ 
+THE QUALITY OF EDUCATIONAL MATERIALS IS HINDERED BY THE 
+STATUTORY PROHIBITION ON CIRCUMVENTING ACCESS CONTROLS 
+The Joint Educators’ proposed exemption directly impacts the quality of educational 
+materials provided by the nontraditional educational entities. Most importantly, none of the 
+benefits of using motion picture excerpts can be reaped if they are not of the highest quality. 
+Screen capture is a technology that enables encrypted works to be used without a license. 
+However, screen capture has a reduced image resolution, jumbled audio synchronization, and 
+frame incoherence. Screen capture is not a suitable alternative for high-quality motion picture 
+excerpts due to the degraded picture quality, distorted image and audio, and dropped frames. 
+Providing screen capture to nontraditional educational entities would widen the learning gap 
+amongst students and further exacerbate inequalities. Opponents have previously argued that 
+screen capture is an adequate alternative to circumvention since high-quality images are not 
+necessary for analysis in learning programs. This assumption fails to register the dramatic shift in 
+educational practice that has taken place since the advent of the Internet.36 Low quality screen 
+captures defeat the purpose of the Joint Educators’ proposed exemption entirely. Learners are 
+accustomed to high video quality in their lives outside of education with the prevalence of 
+streaming services and social media. The connections, analysis, and comprehension of students 
+is decreased with the poor quality of screen captures. High-quality motion picture excerpts are 
+necessary to improve students’ ability to learn across disciplines, as described below. 
+First, high-quality motion picture excerpts are necessary parts of curricula given the 
+increasingly digital society students now face. Being literate in our society requires that students 
+can read and analyze audiovisual media.37 Regardless of the context, exposure to videos in 
+learning plans ensures students can digest audiovisual clips, which play a crucial role in modern 
+media. The benefits of using high-quality motion picture excerpts to teach can enhance learning 
+and retention while providing students with necessary perspectives and skills to succeed in both 
+their professional and personal lives. 
+Second, high-quality motion picture excerpts promote student engagement.38 
+Incorporating a television show or motion picture into a lesson quickly peaks students’ interest, 
+especially when pulled from popular media. Educational materials that are both engaging and 
+interesting to students grab their attention and increase their willingness to learn. Watching these 
+clips can improve retention according to psychology. For instance, “two presentations of the 
+same information should lead to better retention than a single presentation.”39 This variability in 
+the information encoded through multiple modalities, such as viewing a video clip and reading a 
+text, should enhance retention.40 Additionally, visual depiction of learning material can facilitate 
+ 
+36 Lyndon Seitz, How Did the Internet Change the Way We Learn?, Broadband Search (Dec. 4, 2023), 
+https://www.broadbandsearch.net/blog/how-internet-changed-learning-education. 
+37 Jon Goodspeed, Support students’ learning, and find the best video streaming sites for schools and classrooms, 
+Common Sense Media (Nov. 10, 2022), https://www.commonsense.org/education/articles/teachers-essential-guide-
+to-showing-movies-and-videos-in-the-classroom. 
+38 Id. 
+39 Andrew C. Butler et al., Using Popular Films to Enhance Classroom Learning: The Good, the Bad, and the 
+Interesting, Psychological Science 20(9), p. 1162 (2009), http://psychnet.wustl.edu/memory/wp-
+content/uploads/2018/04/Butler-et-al-2009_PsychSci.pdf.  
+40 Id.  
+[PAGE 10]
+ 
+ 
+10 
+ 
+dual coding, which is the psychological concept that visual information in addition to verbal 
+information leads to better retention.41  
+Evidence supports the benefits of using high-quality motion picture excerpts to teach. 
+Two experiments showed that when the information depicted in a film was consistent with the 
+information read within text, “watching the film clip increased correct recall by about 50% 
+relative to reading the text alone.”42 Considering that repeatedly reading information-dense 
+passages provides limited retention improvement after a single reading, the use of high-quality 
+films in this study showed increased learning likely due to encoding variability and dual 
+coding.43 There can be concerns as to whether the film is historically accurate, especially when 
+used in history lessons; however, this study overall demonstrated that popular films could 
+increase learning and interest, and educators can mitigate effects from misinformation present in 
+films when showing them in the classroom.44 
+High-quality audiovisual clips can also be used to present perspectives that would be 
+difficult to convey through a different medium. Films can present multiple perspectives to 
+students and enable them to gain an understanding of and empathize with the experiences of 
+individuals and communities far removed from their reality.45 Students will be able to make 
+much better connections to individuals depicted on a screen rather than through text. When 
+teaching human rights, film depicts experiences of survivors and underscores the human capacity 
+for resilience, which can have a memorable impact on students where other teaching mechanisms 
+would struggle to do so.46 High-quality audiovisual clips can provide a first-hand depiction of an 
+experience rather than reading a second-hand account through text. Movies, television shows, 
+and videos can facilitate the sharing of diverse stories and highlight experiences and perspective 
+of individuals from under-represented groups.47 Ultimately, including high-quality television 
+shows and film clips will further equity initiatives. 
+The benefits of high-quality motion picture clips extend across subject areas. Petitioner 
+Peter Decherney has long used short motion picture excerpts to facilitate the comment and 
+criticism of films as these clips are a crucial component of the multimedia criticism field’s 
+existence. Beyond multimedia interpretation and analysis, the audiovisual clips can be used in 
+history and human rights courses as explained above. Additionally, motion picture excerpts are 
+essential in language learning programs. A study indicated that movies are a valuable source of 
+input for English language learning as watching improves English oral skills and vocabulary 
+acquisition.48 Learners imitated native speakers in movies and learned how to pronounce English 
+ 
+41 Id. 
+42 Id. at 1166. 
+43 Id.  
+44 Id. at 1167. 
+45 Noam Schimmel, Using films to encourage reflection and critical thinking in your teaching, Time Higher 
+Education (Oct. 15, 2021), https://www.timeshighereducation.com/campus/using-films-encourage-reflection-and-
+critical-thinking-your-teaching.  
+46 Id.  
+47 Goodspeed, supra note 37. 
+48 Norwati Roslim et al., Exploring Movies for Language Teaching and Learning at the Tertiary Level, Asian 
+Journal of University Education 17(3), p. 278-79 (July 2021), https://files.eric.ed.gov/fulltext/EJ1309430.pdf.  
+[PAGE 11]
+ 
+ 
+11 
+ 
+words, and most importantly, the students enjoyed using movies to learn English and felt 
+motivated.49  
+The Joint Educators’ exemption can improve language learning clips with high-quality 
+motion picture excerpts. Udemy, a for-profit, nonaccredited online educational entity, currently 
+has a lesson entitled “Learn English with Movie Clips,” which is intended to help students learn 
+English from the real-world context of a movie scene.50 Although, when watching a preview of 
+the course, only a still from the movie is provided and then the script of a scene is read rather 
+than a motion picture excerpt being played.51 Providing only a screenshot of the movie clearly 
+limits the effectiveness of the course and adversely impacts students trying to learn English 
+pronunciation, accents, and gestures within the culture. A high-quality audiovisual clip could 
+achieve the intended objective of this course since students could hear and watch a conversation 
+carried out in English and additionally learn from the actors’ body language. 
+The extent to which movies can be utilized to learn is limitless. In another example, high-
+quality motion picture excerpts can also be used to teach the art of storytelling as demonstrated 
+by the course entitled “Storytelling” that is facilitated by the MOOC Khan Academy.52 In Unit 2, 
+high-quality motion picture excerpts are utilized to highlight the importance of storytelling as 
+explained by the directors, storyboard artists, and animators at Pixar.53 This unit “Pixar in a Box: 
+the art of storytelling” includes clips from well-known Pixar movies as the practitioners explain 
+how, for instance, in the introduction, to use personal experiences to make a story come to life.54 
+Beyond these important subject matters, motion picture excerpts can be utilized to learn 
+about psychology. For instance, the children’s advocacy group Common Sense provides a lesson 
+plan for teachers looking to explain social psychology concepts to students.55 Clips from the 
+miniseries Maid can be used to teach about the United States social welfare system. Meanwhile, 
+clips from the popular television show Succession can be used to teach about corporate 
+compliance. Law school classes often utilize the proverbial expert testimony scene from My 
+Cousin Vinny to teach about the rules of evidence. These are only a few examples in which high-
+quality motion picture excerpts can contribute to students’ learning as the list is endless. 
+As demonstrated below, MOOCs, K-12 schools, and universities possess a fair use 
+exemption to use these copyrighted motion picture clips for educational purposes. The Joint 
+Educators offer these covered entities’ uses as real-word examples. For-profit, nonaccredited 
+entities’ use of such motion picture excerpts in learning programs would be used in the same 
+manner as MOOCs, K-12 schools, and universities in advancing student learning. Most of the 
+ 
+49 Id.  
+50 See Zahed Besharati, Learn English with Movie Clips, Udemy (Nov. 2023), 
+https://www.udemy.com/course/learn-english-with-movie-clips/.  
+51 Id. 
+52 Storytelling, Khan Academy, https://www.khanacademy.org/humanities/hass-storytelling/storytelling-pixar-in-a-
+box/ah-piab-we-are-all-storytellers/v/storytelling-introb (last visited Dec. 12, 2023). 
+53 Id. 
+54 Id. 
+55 See Christine Elgersma, Inside Out and SEL: A Movie Guide and Lesson Plan for Your Classroom, Common 
+Sense (July 7, 2023), https://www.commonsense.org/education/articles/inside-out-and-sel-a-movie-guide-and-
+lesson-plan-for-your-classroom.  
+[PAGE 12]
+ 
+ 
+12 
+ 
+uses by these remaining educational entities can only be hypothetical as copyright laws currently 
+stand in the way of these educators and students.  
+The use of copyrighted motion picture excerpts by these educational entities is currently 
+illegal. Those who run these educational entities must grapple with the adversity they already 
+face in light of their wages, limited time, and difficult jobs, especially in the face of the national 
+teacher shortage, to also overcome the complex process of getting copyright permission or a 
+license to use the audiovisual clips. Educators would have to navigate the lengthy legal process 
+to identify the permission they need, identify and locate the copyright owner, and then negotiate 
+permissions to license.56 This is not a feasible pursuit for teachers creating a learning plan to 
+follow. The statutory prohibition on circumventing access controls clearly hinders the quality of 
+educational materials teachers can present to students by putting unnecessary blocks in front of 
+nontraditional educators.  
+THE USES BY QUALIFIED EDUCTIONAL ENTITIES ARE NONINFRINGING 
+UNDER 17 U.S.C. § 107 
+The Joint Educator’s proposed exemption is consistent with the requirements of fair use 
+under the Copyright Act. Section 107 permits the use of copyrighted work “for purposes such as 
+criticism, comment, news reporting, teaching, scholarship, or research.”57 The Librarian upheld 
+the Joint Educator’s two renewals for MOOCs, K-12 schools, and colleges and universities in the 
+Eighth Triennial Rulemaking, noting that the use of motion picture excerpts falls within the 
+bounds of fair use.58 Also, the current Notice of Proposed Rulemaking (NPRM) acknowledged 
+that both of these exemptions still fulfill fair use requirements with the Copyright Office’s 
+recommendation of renewal.59 These renewals have been repeatedly determined to be 
+noninfringing.  
+Both of these existing exemptions have allowed non-profit or accredited educational 
+institutions to expand learning boundaries by incorporating short excerpts of motion pictures into 
+course curriculum. The Joint Educators seek an analogous allowance for qualified but 
+nontraditional educational entities regardless of their status as a for-profit or their educational 
+accreditation. These nontraditional educational entities currently would need to pay licensing 
+fees to utilize copyrighted motion picture excerpts in learning plans. The current market for short 
+clip for educational purposes seems to still be essentially nonexistent if an educator does not 
+want to use the entire film. More importantly, these educators could currently face criminal 
+sanctions if they implement such material in their courses without permission even though it 
+qualifies as fair use. All educational entities should possess an equal right to the fair use of short, 
+high-quality excerpts of motion pictures, so all teachers can effectively educate students of all 
+backgrounds and ages.  
+ 
+56 How To Get Copyright Permission or a License?, Copyright Alliance, 
+https://copyrightalliance.org/faqs/copyright-permission-or-license/ (last visited Nov. 28, 2023). 
+57 17 U.S.C. § 107. 
+58 Exemption to Prohibition on Circumvention of Copyright Protection Systems for Access Control Technologies, 
+86 Fed. Reg. 59,627, 59,529 (Oct. 28, 2021). 
+59 Exemptions to Permit Circumvention of Access Controls on Copyrighted Works, 88 Fed. Reg. 72,013, 72,017 
+(Oct. 19, 2023) (to be codified at 37 C.F.R. pt. 201). 
+[PAGE 13]
+ 
+ 
+13 
+ 
+An examination of the four factors of fair use indicates that the educational uses of the 
+Joint Educator’s proposed exemption are noninfringing fair uses. Under § 107 of the Copyright 
+Act, courts evaluate four factors on a case-by-case basis to determine whether a use constitutes 
+fair use: (1) the purpose and character of the use, including whether such use is of a commercial 
+nature or is for non-profit educational purposes; (2) the nature of the copyrighted work; (3) the 
+amount and substantiality of the portion used in relation to the copyrighted work as a whole; and 
+(4) the effect of the use upon the potential market for or value of the copyrighted work.60 
+The first factor weighs in favor of a fair use finding. The proposed class of uses is strictly 
+for educational purposes by qualified educational entities as suggested by the NTIA, which is 
+one of the acceptable fair use examples listed in the preamble of § 107. Any use permitted under 
+this exemption would be solely for the purpose of educating learners that fall outside the bounds 
+of accredited, non-profit educational spaces. Rather than utilizing the copyrighted works for their 
+original entertainment purpose, these educators use motion picture excerpts to teach students 
+through tailored learning plans and discussions. In Campbell v. Acuff-Rose Music, Inc., the 
+Supreme Court ruled that the more transformative the use, the more likely a court is to find for 
+fair use, regardless of commercial nature.61 Educators regularly repurpose motion picture 
+excerpts into educational tools in a fashion that is highly transformative.62 Moreover, the 
+collateral commercial benefit of some of these nontraditional educational entities covered by this 
+proposed exemption does not create a bar to fair use as many of the activities covered in the 
+preamble of § 107 have a for-profit basis.63 The Register acknowledges that fair use is valid in 
+commercial contexts if transformative. 
+The Register has expressed concern and denied the Joint Educators’ exemption in 
+previous filings because it believes the exemption to be over-broad by including for-profit 
+educators.64 The commercial nature of any of these qualified for-profit educational entities does 
+not undermine their legitimacy or their entitlement to fair use protections. The qualified 
+educational entity will limit these only learning materials, to the extent technologically feasible, 
+to registered learners of their online learning platform, institute copyright policies, and provide 
+copyright information to educators and preparers of online learning materials, learners, and 
+relevant staff members. Further, these entities will work to reasonably prevent unauthorized 
+further dissemination of the materials in accessible forms to others. 
+Second, the nature of these copyrighted works lends themselves to fair use. Films and 
+television shows are created for mass audiences’ entertainment both across the United States and 
+abroad. The specific educational uses requested by the Joint Educators advance the goal of 
+ 
+60 17 U.S.C. § 107. 
+61 See generally Campbell v. Acuff-Rose Music, Inc., 510 U.S. 569, 580 (1994) 
+62 Id. at 580 (stating that the key purpose of the first factor in a fair use assessment is to determine whether the new 
+work merely “supersede[s] the objects” of the original creation, or instead adds something new, with a further 
+purpose of different character). 
+63 Id. at 569 (“The language of the statute makes clear that the commercial or nonprofit educational purpose of a 
+work is only one element of the first factor enquiry into its purpose and character.... If, indeed, commerciality 
+carried presumptive force against a finding of fairness, the presumption would swallow nearly all of the illustrative 
+uses listed in the preamble paragraph of § 107, including news reporting, comment, criticism, teaching, scholarship, 
+and research, since these activities “are generally conducted for profit in this country.”). 
+64 Exemptions to Permit Circumvention of Access Controls on Copyrighted Works, supra note 2. 
+[PAGE 14]
+ 
+ 
+14 
+ 
+promoting educational equity. These motion picture excerpts can be transformed to be an 
+effective learning tool because the engaging and appealing nature of television and film can 
+illustrate difficult concepts for students in ways that a slide deck, oral lecture, or textbook cannot. 
+For example, watching clips of a nature documentary can provide the highest quality visual 
+imagery for a biology course attempting to explain abstract concepts like animal evolution or 
+photosynthesis. Transformative uses like this may seem inconsequential, but they are invaluable 
+to students and educators. 
+The third statutory factor also weighs in favor of fair use. The Joint Educators only 
+request an exemption for the nontraditional educational entities to incorporate short excerpts of 
+motion pictures for educational purposes. These excerpts would be used for criticism, comment, 
+illustration, and explanation in offerings to registered students of the nontraditional educational 
+entities when the use of the excerpt would contribute significantly to learning. Any incorporation 
+and use of the motion picture excerpts would be appropriately concise and limited to the extent 
+necessary for the aforementioned purposes. 
+Finally, the last factor is most contentious for copyright owners but still weighs in favor 
+of fair use. The Copyright Office has already acknowledged that the use of motion picture 
+excerpts for educational purposes by K-12 schools, universities, and MOOCs has a minimal 
+effect on the content market at best.65 Also, the use of motion picture excerpts for educational 
+purposes does not substitute for the entire work in the marketplace.66 It is a stretch to argue that 
+the use of very short motion picture excerpts by qualified educators in online learning for 
+educational purposes usurps or even harms the market for films and television shows for 
+entertainment.  
+In the Eighth Triennial Rulemaking, the NTIA communicated its view on each of the 
+proposed exemptions from the DMCA’s prohibition against circumvention because the NTIA, as 
+contemplated by Congress, can contribute its subject matter expertise.67 Overall, the NTIA’s 
+letter addresses the difficulty of creating precise language that protects content providers from 
+being taken advantage of and supports the Copyright Office in doing so.68 Regardless, the NTIA 
+“believes the established safeguards articulated in the MOOC exemption provides good 
+guidance.”69 The Joint Educator’s proposed exemption limits the use of copyrighted clips to 
+short excerpts of motion pictures for educational purposes, fulfilling the fourth fair use factor.  
+With the suggestion that these educational entities within the Joint Educators’ proposed 
+exemption should be required to acquire an accreditation or become a nonprofit to take 
+advantage of the exemption, the NTIA responded that “it would be sufficient to qualify for this 
+exemption if the entity is registered with their state or local jurisdiction as an entity, for-profit or 
+ 
+65 Exemption to Prohibition on Circumvention of Copyright Protection Systems for Access Control Technologies, 
+83 Fed. Reg. 54,010, 54,010 (Oct. 26, 2018). 
+66 See Campbell, 510 U.S. at 591 (‘‘cognizable market harm’’ is limited to ‘‘market substitution’’). 
+67 See Exemptions to Permit Circumvention of Access Controls on Copyrighted Works, supra note 2; See, e.g., H.R. 
+Rep. No. 105–551, pt. 2, at 23 (July 22, 1998) (noting NTIA’s “expertise in the area of telecommunications and 
+information services and technologies”); 144 Cong. Rec. E2136–02 (Oct. 12, 1998) (in which the Chair of the House 
+Commerce Committee “consider[ed] it vital for the Register to consult closely” with NTIA).  
+68 Letter from Evelyn L. Remaley, Assistant Sec‘y of Com. for Commc‘n and Info., NTIA, to Shira Perlmutter, Reg. 
+of Copyrights and Dir. of U.S. Copyright Off., 11 (Oct. 1, 2021). 
+69 Id. 
+[PAGE 15]
+ 
+ 
+15 
+ 
+not-for-profit, with an educational purpose or mission,” especially in consideration of the 
+expanded opportunities for new small business and online learning opportunities.70 In terms of 
+technological protection methods articulated, the NTIA believed the safeguards articulated in the 
+MOOC exemption provided good guidance as the “institutional and technological limitations 
+continue to be appropriate to prevent infringing uses of the short clips created for this 
+exemption.”71 The Joint Educators endorses these requirements and clarifies that qualified 
+educational entities should meet these standards. 
+With these educational registration and mission safeguards and all four statutory factors 
+leaning towards a fair use finding, the use of short motion picture excerpts for educational 
+purposes by these qualified educational entities for criticism and comments should be deemed a 
+non-infringing transformative use. 
+THE PROPOSED EXEMPTION MEETS THE §1201(a)(1)(C) STATUTORY FACTORS  
+The Joint Educator’s proposed exemption meets the statutory factors enumerated in 
+§1201(a)(1)(C). Accordingly, and as requested, below is a general analysis of the statutory 
+factors, which are more thoroughly explored and evidenced in the sections above. 
+(i) The availability of the copyrighted works: 
+The Joint Educator’s proposed exemption is not premised upon a general lack of 
+availability of copyrighted works but rather the unavailability of works made inaccessible by 
+TPMs for specific educational uses that would benefit students of nontraditional educational 
+entities. As online learning grows, the digital content that can be used for effective learning 
+measures also increases. For example, online learning platforms may use clips from the public 
+domain, DVDs, and various streaming services. Despite current availability, the DMCA’s 
+prohibition on circumventing TPMs on copyrighted works prevents nontraditional educational 
+entities from equitable access to digital sources. 
+(ii) the availability for use of works for nonprofit archival, preservation, and 
+educational purposes: 
+As discussed in detail above, the Joint Educators continue to petition for this exemption 
+to promote students’ ability to learn and the continued innovation of education. The use of 
+motion picture excerpts is a proven tool for educational success. Combining film clips with 
+learning programs has positive impacts on learning progress. High-quality motion picture 
+excerpts encourage student engagement with popular and relatable media content. More 
+importantly, not all students learn the same way. Further, students are far more likely to learn 
+best when they take in information through multiple modalities.72 Using multiple modalities to 
+explore a particular subject engages different senses, which can deepen students’ understanding. 
+Presenting learning material through the various contexts of multiple modalities increases 
+learning retention and recall. Additionally, allowing all educational entities to use decrypted film 
+ 
+70 Exemptions to Permit Circumvention of Access Controls on Copyrighted Works, supra note 2. 
+71 Id. at 12. 
+72 Youki Terada, The Science of Drawing and Memory, Edutopia (Mar. 14, 2019), 
+https://www.edutopia.org/article/science-drawing-and-memory. 
+[PAGE 16]
+ 
+ 
+16 
+ 
+clips supports dual coding theories. Dual coding increases retention when a visual depiction of 
+material taught is presented with verbal or text presentations. 
+(iii) the impact that the prohibition on the circumvention of technological measures 
+applied to copyrighted works has on criticism, comment, news reporting, teaching, 
+scholarship, or research: 
+As described in the sections above, the inability of the nontraditional educational entities 
+to legally circumvent TPMs significantly undermines their ability to provide students with a 
+quality educational experience. Adding motion picture excerpts to courses that currently do not 
+have access without licensing agreements will promote engaging and effective learning 
+experiences for students of all backgrounds and ages. A large portion of the population is turning 
+toward online learning or using alternative learning methods to augment traditional education. 
+These educators and students will always remain at a disadvantage if the Copyright Office does 
+not install this exemption to close the gaps that exist in the American education system. 
+(iv)  the effect of circumvention of technological measures on the market for or value of 
+copyrighted works:  
+Allowing educators to circumvent technological measures to access film clips would be 
+strictly limited to minimize any potential effect on the market or value of copyrighted works. The 
+Joint Educator’s proposed exemption requires that all educational entities requesting access to 
+copyrighted material limit their sharing to registered learners, implement copyright policies, 
+provide clear copyright information, and work to reasonably prevent unauthorized sharing of 
+such materials. Also, the TPM policy instituted in the proposed exemption is the same policy as 
+the MOOC exemption. 
+These motion picture excerpts are meant only for the limited purpose of educating 
+students by emphasizing or illustrating a specific concept as part of an enhanced learning 
+experience. Because the clips being used are short in duration and not meant to replace the 
+experience of viewing the work in its entirety, the incorporated clips should actually encourage 
+students to purchase streaming subscriptions or rent the larger works, which would undoubtedly 
+increase the market value of the copyrighted works excerpted. Overall, the limitations imposed 
+regarding an institution’s accreditation or for-profit status harm presently excluded educators and 
+students far more than they benefit copyright holders. 
+(v) such other factors as the Librarian considers appropriate:  
+The TEACH Act may be a relevant consideration for the Librarian, but it can ultimately 
+be determined to not apply to the 1201 exemption pertaining to online education. 
+Copyright law has always sat at the intersection between creators and consumers, serving 
+as the arbiter of how creative works should be distributed among the public. With this 
+responsibility comes the need to adapt the law to new technological demands and methods of 
+digital dissemination. The Technology, Education and Copyright Harmonization Act of 2002, 
+colloquially known as the TEACH Act, was formulated to address the challenges that online 
+educators faced when they sought to make copies of creative works to use in their lessons, 
+[PAGE 17]
+ 
+ 
+17 
+ 
+similar to the ways face-to-face teachers were doing with photos, tapes, and other recordings.73 
+The TEACH Act was undoubtedly a remedy for a pressing problem, one that has only grown and 
+changed as online learning has become commonplace in the United States. However, the 
+dimensions of online learning have shifted dramatically, and students’ needs have far outgrown 
+the confines of the statute. 
+Further, the Act authorizes online educational entities to digitize works for online 
+education, but only to the extent that they are allowed to use those works in Section 110(2) of the 
+Copyright Act.74 Thus, the material allowed by the Act remains significantly limited by 
+antiquated restraints. The TEACH Act revolutionized the impact that copyrighted materials have 
+on different classroom settings, but this occurred over twenty years ago and must be adapted to 
+suit its initial purpose: equity among students and educators. 
+The NTIA noted that the TEACH Act is an important, but dated, resource for the 
+Copyright Office to consider. The NTIA argued that the TEACH Act “can be instructive, but this 
+exemption process is designed to be flexible and innovative,” and therefore does not need to 
+work within the confines of a statue that “may be dated or irrelevant to the circumstances at 
+hand.”75 Further, the NTIA acknowledged the need for an exemption that is “appropriately 
+inclusive” while affording copyright owners adequate protections against infringement for their 
+works.76 In an effort to strike an ideal balance, the Joint Educators endorse the NTIA 
+recommendation that the exemption be limited to “educational entities that employ educators or 
+demonstrate that they themselves are educators that provide or develop content whether or not 
+they are accredited or are for-profit or not-for-profit.”77  
+The legislative history of the TEACH Act does more than suggest the Internet had 
+already and would continue to revolutionize educational practices in years to come. In 2002, the 
+internet was still in its relative infancy. In his report to the Committee on the Judiciary on the 
+Teach Act, Senator Hatch and the Senate Judiciary Committee expressed a desire for the United 
+States to remain competitive by expanding education beyond a traditional brick-and-mortar 
+building and normalizing learning at all ages and for all trades.78 If all educational entities do not 
+have access to the same materials to make their lessons vibrant and effective, the most 
+disadvantaged students will fall further behind than they already are. Granting the Joint 
+Educator’s exemption carries forth the spirit of the TEACH Act into the modern era of 
+education. 
+Also, as detailed in the section below, the Copyright Office has a role to play in 
+advancing educational and digital equity. 
+ 
+73 Technology, Education and Copyright Harmonization (”TEACH”) Act: Hearing Before the Senate Committee on 
+the Judiciary, 107 Cong. 1 (2001) (Statement of Marybeth Peters). 
+74 Id. 
+75 Exemptions to Permit Circumvention of Access Controls on Copyrighted Works, supra note 2. 
+76 Id. at 11. 
+77 Id.  
+78 (Committee on the Judiciary Report on Technology, Education and Copyright Harmonization Act of 2001) S. 
+Rep. No. 107-31, at 4 (2001). 
+[PAGE 18]
+ 
+ 
+18 
+ 
+THE PROPOSED EXEMPTION WILL PLAY A CRUCIAL ROLE IN BROADER 
+GOVERNMENT EFFORTS TO ADVANCE DIGITAL EQUITY 
+The Copyright Office has a role to play in advancing the public interest through copyright 
+law. In balancing the monetary interests of creators with the responsibility to enable adversely 
+impacted users to make noninfringing uses of high-quality motion picture excerpts, it is essential 
+to also consider the need for copyright law to keep up with technological advancements and 
+educational needs. Most importantly, the adverse effects resulting from the prohibition on 
+circumventing access controls for motion pictures hinder both educational equity and digital 
+equity. The Joint Educators’ proposed exemption builds off existing 1201 exemptions to allow 
+nontraditional educational entities to use motion pictures excerpts for educational purposes.79 
+Enabling the remaining qualified online educators and preparers of online learning materials to 
+use short excerpts of motion pictures for educational purposes would ensure the goal of equity 
+across educational and digital contexts is fully promoted. The actions and filings by other 
+agencies and previous legislation can provide background information on the prevalence of 
+equity considerations and the need to evolve with technological advancements. 
+The NTIA communicated its view on each of the proposed exemptions from the 
+DMCA’s prohibition against circumvention in the last triennial rulemaking. As the Joint 
+Educators’ proposed exemption stands to address technological advancement, the NTIA’s 
+comments are a highly relevant consideration. In their analysis of the Joint Educators’ proposed 
+exemption, the NTIA recognized that “without the exemption it is likely that innovation in online 
+learning will be hampered,” so the NTIA recommended granting the expansion of the exemption 
+to include online educators with some modifications.80 The NTIA found that the Joint Educators 
+demonstrated “these for-profit online educational entities should be treated equally with not-for-
+profit educational entities.”81 The NTIA argued “this change will permit greater access to quality 
+content to more learners as more and more content is accessed virtually” while repairing the 
+disparity created by the current exemptions since permitting the new group to take short clips of 
+audiovisual works will enhance learning in these online environments in exactly the same way.82  
+The NTIA recommended the exemption for online educational entities should contain 
+minimal changes to strike the right balance and drawing from the existing MOOC exemption: 
+By educators and preparers of online learning materials offered by educational entities to 
+registered learners of online learning platforms when use of the film and media excerpts 
+will contribute significantly to learning, including for the purpose of criticism, comment, 
+illustration and explanation, where the online provider will limit these online learning 
+materials, to the extent technologically feasible, to registered learners of the online 
+learning platform, institute copyright policies, and provide copyright information to 
+educators and preparers of online learning materials, learners, and relevant staff 
+members, and the online provider, to the extent technologically feasible, will work to 
+ 
+79 See 37 CFR 201.40(b)(1)(ii)(A)); 37 CFR 201.40(b)(1)(ii)(B)). 
+80 Id. at 8, 9. 
+81 Id. at 10. 
+82 Id. 
+[PAGE 19]
+ 
+ 
+19 
+ 
+reasonably prevent unauthorized further dissemination of online learning materials in 
+accessible form to others, including after the registration period ends.83 
+The Joint Educators wholeheartedly support the NTIA’s suggestions concerning the 
+proposed exemption. Additionally, it is important to note the NTIA recognized “that screen 
+capture seldom provides the clip quality required for the users of this exemption.”84 Overall, the 
+NTIA draws meaningful conclusions about the Joint Educators’ filing for this proposed 
+exemption in the last rulemaking proceeding, especially as the NTIA has subject matter expertise 
+in technology initiatives. With the additional evidence provided above in this rulemaking, the 
+Joint Educators emphasize the proposed exemption will advance educational and digital equity.  
+Beyond the NTIA’s filing on this proposed exemption, initiatives by this executive 
+agency provides perspective on the landscape of educational and digital inequities persisting 
+across the United States and how they are being addressed across the government. As established 
+in the Infrastructure Investment and Jobs Act, the NTIA is leading the Broadband Equity, 
+Access, and Deployment (BEAD) Program, which will provide $42.45 billion in funding to build 
+equitable access to universal, reliable, affordable, and high-speed Internet coverage throughout 
+the United States.85 The BEAD program will help close the digital divide as Broadband Now 
+reports that 42 million Americans have no access to broadband technology, which includes 
+everything from WiFi and satellite to fiber-optic cables.86 BEAD is just one of many initiatives 
+led by the NTIA as the department also leads the Tribal Broadband Connectivity Program 
+(TBCP), the Broadband Infrastructure Program (BIP), Connecting Minority Communities 
+(CMC) Program, Enabling Middle Mile Broadband Infrastructure Program, and Digital Equity 
+Act Programs. With all these programs geared toward increasing broadband access, the digital 
+divide will improve. The increased access to the internet may result in even more students using 
+the online educational entities for learning, and the proposed exemption will ensure that the 
+educational materials are of the highest quality. 
+The Federal Communications Commission (FCC) also plays a major role in advancing 
+digital equity. On November 15, 2023, the FCC approved rules to prevent and eliminate digital 
+discrimination of access to broadband services as required by the Infrastructure Investment and 
+Jobs Act.87 With these digital equity efforts passed by Congress and carried out by the federal 
+agencies, ensuring equal access is a top priority; although, the executive branch is the initiator of 
+these efforts as Executive Order 13985 of January 20, 2021 entitled Advancing Racial Equity 
+and Support for Underserved Communities Through the Federal Government was implemented 
+by the Biden-Harris Administration with the goal of embedding a focus on equity into the fabric 
+ 
+83 Id. at 13.  
+84 Id. at 16. 
+85 See Infrastructure Investment and Jobs Act of 2021, Division F, Title I, Section 60102, Public Law 117-58, 135 
+Stat. 429 (Nov. 15, 2021). 
+86 Natalie Campisi & Korrena Bailie, Millions Of Americans Are Still Missing Out On Broadband Access And 
+Leaving Money On The Table-Here's Why, FORBES (May 26, 2023, 1:58 PM), 
+https://www.forbes.com/advisor/personal-finance/millions-lack-broadband-access/.  
+87 Task Force to Prevent Digital Discrimination, FCC, https://www.fcc.gov/task-force-prevent-digital-
+discrimination (last visited Nov. 19, 2023).  
+[PAGE 20]
+ 
+ 
+20 
+ 
+of federal policymaking.88 The Administration reaffirmed this continued commitment when 
+President Biden signed a new Executive Order on February 16, 2023, entitled Further Advancing 
+Racial Equity and Support for Underserved Communities Through the Federal Government.89 
+Delivering equity means ensuring “all can participate, prosper, and reach their full potential.”90 
+The Joint Educators believe their proposed exemption furthers this goal because the online 
+educational entities will no longer be inhibited by the DMCA’s statutory prohibition on 
+circumventing access controls, so these educators and students currently left behind can access 
+quality audiovisual learning materials through high-quality short motion picture excerpts. 
+Ultimately, the equity initiatives across the federal government and state governments 
+demonstrate that advancing equitable access to education is a worthy objective for the Copyright 
+Office.  
+ 
+CONCLUSION  
+The Joint Educators ask that the Librarian implement the circumvention exemption for 
+the described nontraditional but qualified educational entities. Remote learning has the potential 
+to bridge the massive gaps that exist in the United States education system. However, if for-
+profit, nonaccredited educational entities do not have access to the use of high-quality motion 
+picture excerpts that their accredited, non-profit counterparts do, students using the 
+nontraditional educational entities will be at a stark disadvantage. The Joint Educators urge the 
+Copyright Office to follow other federal agencies in leveling the educational playing field and 
+promoting digital equity across all American populations. As alternative learning methods 
+become more mainstream, it is increasingly important that educators have free and efficient ways 
+of accessing high-quality motion picture excerpts to educate populations often left behind. 
+ 
+ 
+88 FACT SHEET: President Biden Signs Executive Order to Strengthen Racial Equity and Support for Underserved 
+Communities Across the Federal Government, White House (Feb. 16, 2023), https://www.whitehouse.gov/briefing-
+room/statements-releases/2023/02/16/fact-sheet-president-biden-signs-executive-order-to-strengthen-racial-equity-
+and-support-for-underserved-communities-across-the-federal-government/. 
+89 Id. 
+90 Id.  

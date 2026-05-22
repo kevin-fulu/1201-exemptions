@@ -1,0 +1,41 @@
+[PAGE 1]
+Short Comment Regarding a Proposed Exemption (Under 17 U.S.C. 1201) 
+Item 1. Commenter Information 
+Jay Freeman (saurik); +1 (805) 895­7209; saurik@saurik.com; SaurikIT, LLC (Member) 
+Mailing Only: 8605 Santa Monica Boulevard #21162; West Hollywood, CA 90069, USA 
+Item 2. Proposed Class Addressed 
+Proposed Class 27: Software – networked medical devices 
+Item 3. Statement Regarding Proposed Exemption 
+ 
+According to the CDC, nearly 10% of Americans have some form of diabetes, an autoimmune 
+disorder wherein your body destroys the parts of your pancreas that regulate blood glucose. 
+In the past decade of my life, I have come to know and care about not one, not two, but five 
+people with type 1 diabetes, a form of diabetes currently considered to be largely genetic, and 
+for which we do not know of any prevention or cure. 3 million Americans have type 1 diabetes. 
+ 
+Before the 1920s, a diagnosis of type 1 diabetes was a death sentence. Today, we mitigate 
+the effects of this disease by having the patient manually regulate their blood glucose level, 
+using a combination of two tools: a blood glucose meter and injectable insulin (the hormone 
+produced by the pancreas that triggers the movement of glucose from the blood to cells). 
+ 
+In order to better mimic the natural pancreas, many patients (including now all five of the 
+people I know particularly well with this disease) have come to use an "insulin pump", which 
+continuously injects insulin into the bloodstream over a long period of time. These pumps are 
+expensive, and are often attached to blood glucose meters, with which they communicate. 
+ 
+Over the past five years, most of these devices have been equipped with Bluetooth, and now 
+can communicate with a computer to transfer their information history into databases that can 
+be used to provide statistics on how well the patient is progressing. This can be invaluable to 
+the patient's adaptation to the disease. However, this software is often an "afterthought". 
+ 
+Even more bothersome, the content is a silo, separated from information obtained from 
+unrelated devices that would inherently be developed by other manufacturers. It would be 
+very useful to be able to aggregate and correlate this information in order to build reports. 
+ 
+Sometimes, even simple things can be very relevant: being able to see your child's glucose 
+level as measured by a continuous glucose monitor right on the screen of your cell phone. 
+This is something that is very easy to do, and does not have any medical consequence (as 
+might a closed­loop glucose delivery system, the "holy grail" of this kind of hacking), but is 
+something that becomes a transformative work from the perspective of these closed devices. 
+ 
+http://www.wired.com/2014/12/diabetes­patients­hacking­together­diy­bionic­pancreases/ 

@@ -1,0 +1,73 @@
+# Phase 4 Verification Report
+Date: 2026-05-22
+
+## Summary
+- 13 claims checked, 13 confirmed, 0 flagged.
+- No corrections to `exemptions-master.json` are required from this audit; the consolidated file's substance-matching across cycles is faithful to the codified §201.40(b) text.
+
+## Verification details
+
+### Claim 1: wireless-unlocking 2012 narrowing (90-day window)
+STATUS: CONFIRMED
+Evidence: 2012-Final-Rule.txt [PAGE 19] (b)(3): "Computer programs, in the form of firmware or software, that enable a wireless telephone handset originally acquired from the operator of a wireless telecommunications network or retailer **no later than ninety days after the effective date of this exemption** to connect to a different wireless telecommunications network, **if the operator of the wireless communications network to which the handset is locked has failed to unlock it within a reasonable period of time** following a request by the owner..."
+
+### Claim 2: wireless-unlocking 2018 drop of "used device" requirement
+STATUS: CONFIRMED
+Evidence (a) — 2015-Final-Rule.txt [PAGE 20] (b)(3): codified text explicitly requires "and **the device is a used device**"; subsection (3)(ii) defines "used" as "previously been lawfully acquired and activated on the wireless telecommunications network of a wireless carrier."
+Evidence (b) — 2018-Final-Rule.txt [PAGE 20] (b)(5): introductory text reads only "Computer programs that enable the following types of **lawfully acquired** wireless devices to connect..." — the "used device" requirement is absent; no "used" definition subsection.
+
+### Claim 3: wireless-unlocking 2021 simplification (device-class enumeration dropped)
+STATUS: CONFIRMED
+Evidence: 2021-Final-Rule.txt [PAGE 13] (b)(8): "Computer programs that enable **wireless devices** to connect to a wireless telecommunications network, when circumvention is undertaken solely in order to connect to a wireless telecommunications network and such connection is authorized by the operator of such network." — no enumeration of cellphones/tablets/hotspots/wearables.
+
+### Claim 4: smartphone-jailbreaking 2015 expansion
+STATUS: CONFIRMED
+Evidence (a) — 2012-Final-Rule.txt [PAGE 19] (b)(2) covered only "**wireless telephone handsets**" with no removal-of-software language.
+Evidence (b) — 2015-Final-Rule.txt [PAGE 20] (b)(4): "Computer programs that enable smartphones **and portable all-purpose mobile computing devices** to execute lawfully obtained software applications, where circumvention is accomplished for the sole purpose of enabling interoperability of such applications with computer programs on the smartphone or device, **or to permit removal of software from the smartphone or device**." Both expansions present.
+
+### Claim 5: smart-tv-jailbreaking 2021 streaming-device expansion
+STATUS: CONFIRMED
+Evidence: 2021-Final-Rule.txt [PAGE 13] (b)(10): "For purposes of this paragraph (b)(10), 'smart televisions' includes both internet-enabled televisions, **as well as devices that are physically separate from a television and whose primary purpose is to run software applications that stream authorized video from the internet for display on a screen**." (2018 (b)(7), [PAGE 20], lacks this definitional sentence — it just says "smart televisions" with no expansion.)
+
+### Claim 6: vehicle-repair 2018 vs 2015 changes
+STATUS: CONFIRMED
+Evidence (a) — 12-month delay dropped: 2015-Final-Rule.txt [PAGE 20-21] (b)(6) ended with "...provided, however, that such circumvention is initiated **no earlier than 12 months after the effective date of this regulation**." 2018-Final-Rule.txt [PAGE 20-21] (b)(9) has no such proviso; grep for "12 months" in 2018-Final-Rule.txt returns zero matches.
+Evidence (b) — Telematics/entertainment exclusion replaced by subscription-service exclusion: 2015 (b)(6) excluded "computer programs primarily designed for the control of **telematics or entertainment systems** for such vehicle"; 2018 (b)(9) instead excludes only "programs **accessed through a separate subscription service**."
+
+### Claim 7: security-research 2021 CFAA precondition removed
+STATUS: CONFIRMED
+Evidence: 2018-Final-Rule.txt [PAGE 21] (b)(11)(i) included as an operative condition that the research "**does not violate any applicable law, including without limitation the Computer Fraud and Abuse Act of 1986**." In 2021-Final-Rule.txt [PAGE 13-14] (b)(16)(i), that CFAA-non-violation precondition is gone; instead, (b)(16)(iii) reads: "Good-faith security research that qualifies for the exemption under paragraph (b)(16)(i) of this section **may nevertheless incur liability under other applicable laws, including without limitation the Computer Fraud and Abuse Act of 1986**, ... and eligibility for that exemption is **not a safe harbor from, or defense to, liability under other applicable laws**."
+
+### Claim 8: medical-device-data 2021 expansions
+STATUS: CONFIRMED
+Evidence: 2018-Final-Rule.txt [PAGE 20] (b)(4) covered only "data generated by medical devices that are **wholly or partially implanted in the body**" and was "**accomplished through the passive monitoring of wireless transmissions** that are already being produced." 2021-Final-Rule.txt [PAGE 13] (b)(7) reads: "Literary works consisting of compilations of data generated by **medical devices** or by their personal corresponding monitoring systems, where such circumvention is undertaken **by or on behalf of a patient** for the sole purpose of lawfully accessing data generated by a patient's own medical device or monitoring system." Implantation requirement and passive-monitoring restriction are both removed; "by or on behalf of" replaces the patient-only formulation.
+
+### Claim 9: 3D-printer-feedstock 2018 and 2021 expansions
+STATUS: CONFIRMED
+Evidence: 2015-Final-Rule.txt [PAGE 20-21] (b)(9): excluded "any computer program on a 3D printer that produces goods or materials for use in commerce the physical production of which is subject to legal or regulatory oversight or a related certification process, or where the circumvention is otherwise unlawful." 2018-Final-Rule.txt [PAGE 21-22] (b)(14) drops that regulated-commerce proviso entirely but still says "**microchip-reliant technological measures to limit the use of feedstock**." 2021-Final-Rule.txt [PAGE 14] (b)(19): "Computer programs that operate 3D printers that employ **technological measures to limit the use of material**" — "microchip-reliant" is gone, and "feedstock" has been replaced by "material."
+
+### Claim 10: video-games-accessibility-input non-renewal in 2024
+STATUS: CONFIRMED
+Evidence: Greps of 2024-Final-Rule.txt for "accessibility input," "physical disability," "input methods," "standard keyboard," and "standard mouse" return only ONE preamble hit (footnote 21 around [PAGE 2]) and zero codified-text hits. That footnote explains: "**A renewal petition was not filed for the exemption permitting circumvention of video games in the form of computer programs for the purpose of allowing an individual with a physical disability to use alternative software or hardware input methods.** See 37 CFR 201.40(b)(21) (2023); 88 FR 72013, 72015 n.19." Note: this resolves the Phase 4 question flagged in `cycle-2024.json` — the class was not opposed or denied; **no renewal petition was filed**. The master file's `evolution_notes` for `video-games-accessibility-input` should be updated to reflect this finding (see Recommended corrections).
+
+### Claim 11: 2018 codified class count = 14
+STATUS: CONFIRMED
+Evidence: 2018-Final-Rule.txt §201.40(b) classes are numbered (1) through (14): (1) motion-picture clips [PAGE 19], (2) motion-picture captioning [PAGE 20], (3) literary-works accessibility, (4) medical-device data, (5) wireless unlocking, (6) smartphone jailbreaking, (7) smart-TV jailbreaking, (8) voice-assistant jailbreaking, (9) vehicle repair, (10) smartphone/home-appliance repair, (11) security research [PAGE 21], (12) video-game preservation, (13) software preservation by LAMs, (14) 3D-printer feedstock [PAGE 21-22]. Codified section ends after (14) at line 4438 (just before "(c) Persons who may initiate circumvention").
+
+### Claim 12: 2021 codified class count = 21
+STATUS: CONFIRMED
+Evidence: 2021-Final-Rule.txt §201.40(b) classes are numbered (1) through (21), ending with (21) at [PAGE 14] "Video games in the form of computer programs, embodied in lawfully acquired physical or downloaded formats, and operated on a general-purpose computer, where circumvention is undertaken solely for the purpose of allowing an individual with a physical disability to use software or hardware input methods other than a standard keyboard or mouse." Codified section closes with "* * * * *" immediately after.
+
+### Claim 13: 2024 codified class count = 22
+STATUS: CONFIRMED
+Evidence: 2024-Final-Rule.txt §201.40(b) classes are numbered (1) through (22), ending with (22) at [PAGE 14] "Computer programs, solely for the purpose of investigating a potential infringement of free and open source computer programs..." (the FOSS-license-investigation class). Codified section closes with "* * * * *" immediately after, signed October 18, 2024 by Carla D. Hayden.
+
+## Recommended corrections (if any)
+
+One minor refinement (not a substance-matching error, but resolves a flagged unknown):
+
+1. In `/Users/kevinoreilly/code/myproject/analysis/exemptions-master.json`, the `video-games-accessibility-input` exemption (id `video-games-accessibility-input`) has a 2024 `notes` field that reads: "Flagged in cycle-2024.json for Phase 4 verification — the 2024 codified text contains no corresponding class. Phase 4 should check the 2024 Final Rule preamble for whether this class was denied renewal or simply not petitioned." Phase 4 has now confirmed that **no renewal petition was filed** (per 2024-Final-Rule.txt [PAGE 2] footnote 21). The notes field should be updated to: "**No renewal petition was filed** for this exemption in the 2024 cycle (per 2024 Final Rule [PAGE 2] footnote 21). The class therefore lapsed without opposition or denial."
+
+   Correspondingly, the `evolution_notes` field for this exemption (currently: "Single-cycle exemption (2021 only) at present. Did NOT carry forward into 2024 — Phase 4 verification needed to determine whether renewal was opposed, denied, or simply not petitioned.") should be updated to remove the "verification needed" language and replace it with: "Single-cycle exemption (2021 only) at present. Did NOT carry forward into 2024 because no renewal petition was filed in the 2024 cycle (2024 Final Rule [PAGE 2] n.21)."
+
+No other corrections needed; all 12 other substantive cross-cycle matching claims are correctly stated.

@@ -1,0 +1,285 @@
+[PAGE 1]
+This is a Word document that allows users to type into the spaces below. The comment may be single-spaced, but 
+should be in at least 12-point type. The italicized instructions on this template may be deleted.  
+ 
+ 
+Please submit a separate comment for each proposed class. 
+NOTE: This form must be used in all three rounds of comments by all commenters not 
+submitting short-form comments directly through regulations.gov, whether the commenter is 
+supporting, opposing, or merely providing pertinent information about a proposed exemption. 
+When commenting on a proposed expansion to an existing exemption, you should focus your 
+comments only on those issues relevant to the proposed expansion.  
+[   ] Check here if multimedia evidence is being provided in connection with this comment 
+ 
+ITEM A.  COMMENTER INFORMATION  
+Public Knowledge is a nonprofit organization that is dedicated to preserving the openness of the Internet 
+and the public’s access to knowledge, promoting creativity through balanced intellectual property rights, 
+and upholding and protecting the rights of consumers to use innovative technology lawfully. Public 
+Knowledge advocates on behalf of the public interest for a balanced copyright system, particularly with 
+respect to the public's right to repair.  
+iFixit is an international, open-source, online repair manual for everything. iFixit represents a global 
+community of makers, fixers, refurbishers, tinkerers, and repair professionals. In 2020, iFixit helped over 
+110 million people repair everything from mobile phones to cars and tractors. Renewal and expansion of 
+these exemptions is necessary to preserve ownership rights and maintain a consumer’s right to repair. 
+Representatives: 
+Meredith Rose, Senior Policy Counsel  
+Public Knowledge  
+1818 N Street NW Suite 410  
+Washington, DC 20036  
+Email: mrose@publicknowledge.org 
+Kyle Wiens, CEO  
+Kerry Sheehan, U.S. Policy Lead  
+iFixit  
+1330 Monterey St. 
+San Luis Obispo, CA 93401  
+Email: kyle@ifixit.com; kerry@ifixit.com 
+ 
+
+[PAGE 2]
+ 
+ 
+2 
+ 
+ITEM B.  PROPOSED CLASS ADDRESSED 
+Class 12: Computer Programs—Repair. 
+ 
+ITEM C.  OVERVIEW 
+Video game consoles--like cars, 3D printers, and other software-embedded devices--rely on numerous 
+discrete physical components. When these components break, they must be repaired or replaced in order 
+for the console to work properly. However, console manufacturers such as Sony and Microsoft are 
+increasingly using TPMs to digitally “lock” components to one another in order to prevent independent 
+and DIY repair. 
+The most common point of failure by far in the recent console generations is the drive for external media 
+storage (including optical discs or game cards). Replacing a damaged optical drive is, by itself, relatively 
+straightforward. However, manufacturers have begun using TPMs to “marry” motherboards to their 
+original optical drives. In short, motherboards will only accept the same physical drive with which the 
+console was originally shipped; the motherboard will reject any replacement drive, even of the same make 
+and model. In some newer units, attaching a new (otherwise compatible) drive will cause the console to 
+“brick” itself and cease functioning entirely.1 The same general process applies to a motherboard that is 
+damaged and in need of replacing, as the TPMs must be bypassed for the new board to accept the existing 
+optical drive. Depending on the type of damage, repairing an optical drive may require either purely 
+digital or physical circumvention.  
+Since the 2018 hearings, repair services for game consoles have become substantially less available; one 
+of the three major console manufacturers has discontinued repair services for pre-2016 consoles with 
+TPM-locked drives. Owners of affected consoles have no repair option except to circumvent the 
+manufacturer’s TPMs. Moreover, evidence and common sense suggests that as consoles “age out” of 
+market popularity, and are discontinued, more such incidents will occur.  
+As the Copyright Office has noted, “section 1201 was not intended to facilitate manufacturers’ use of 
+TPMs ... to achieve a lock‐in effect under which consumers are effectively limited to repair services 
+offered by the manufacturer.”2 However, the absence of an exemption for game console repair has 
+generated substantial uncertainty for both console owners and independent repair shops, and has curtailed 
+online repair resources’ ability to explain the necessary process to users looking to fix the consoles they 
+own. If these consoles can’t be fixed and pressed into continued service, they also can’t be resold to users 
+who may not be able to afford a brand-new console, donated to charities including hospitals and youth 
+shelters,3 or preserved for archival use and study. We therefore request that the Copyright Office 
+recommend an exemption for diagnosis, maintenance, and repair of video game consoles.  
+ 
+ 
+1 Kyle Wiens, Copyright Law is Bricking Your Game Console. Time To Fix That., Wired (Dec 11, 2020), 
+https://www.wired.com/story/copyright-law-is-bricking-your-game-console-time-to-fix-that/ (“Not only does a 
+broken drive mean you can’t play your favorite discs, but on most Xbox and PlayStation models, a faulty DVD or 
+Blu-ray drive will cause the whole console to stop working, even if the owner mostly plays downloaded, digital 
+games.”) 
+2 Copyright Office, Section 1201 of Title 17: A Report of the Register of Copyrights 92 (June 2017), 
+https://www.copyright.gov/policy/1201/section-1201-full-report.pdf (hereinafter 1201 Report).  
+3 Richard Atkin, Fairbanks Residents Could Donate Their Old Video Consoles To Good Cause, Webcenter 
+Fairbanks (Nov. 27, 2020) https://www.webcenterfairbanks.com/2020/11/28/fairbanks-residents-could-donate-their-
+old-video-game-consoles-to-good-cause/  
+
+[PAGE 3]
+ 
+ 
+3 
+ 
+ITEM D.  TECHNOLOGICAL PROTECTION MEASURE(S) AND METHOD(S) OF CIRCUMVENTION 
+There are two primary methods of circumvention by which repairers can “divorce” an optical drive from 
+its motherboard in order to replace one or both components. First, an owner can use software to “flash” 
+the motherboard and digitally reset its ability to accept new optical drives. Second, the owner can engage 
+in a lengthy physical process of removing the small circuit board (known as the “daughter board”) 
+attached to the old optical drive, then de-soldering, transferring, re-soldering, and reinstalling it onto the 
+new, functioning drive. However, in addition to being complex, skilled work with a high risk of 
+permanent damage to the equipment, such techniques are useful only when both the motherboard and 
+daughterboard are undamaged and functioning. 
+ 
+ITEM E.  ASSERTED ADVERSE EFFECTS ON NONINFRINGING USES  
+The proposed class would allow users to circumvent TPMs for the purposes of diagnosis, maintenance, 
+and repair of physical components within the console.  
+The TPM at issue is designed to restrict interoperation between firmware in both the motherboard and 
+optical drive to only pre-paired (and thus “authorized”) drives. Much like access-control firmware in 
+previously granted repair exemptions, the console code is “functional, rather than creative, in nature”4; 
+however, for the purposes of this proceeding--and in light of the record’s silence on this point over the 
+previous three rounds--we proceed under the assumption that the code is protected, however thinly, by 
+copyright.   
+ 
+Fair Use 
+The use of the underlying software is a clear fair use under 17 USC § 107, as well as in light of the 
+Office’s positions with regard to previously granted exemptions.  
+First factor: the purpose and character of the use, including whether such use is of a commercial nature 
+or is for nonprofit educational purposes. Repair of a software-enabled good “may be a favored purpose 
+when directed at preserving the functionality of a device.”5 Even when the specific method of using the 
+software “is not considered transformative--because [it] will still be used for its intended purpose--that is 
+not in and of itself dispositive.”6 Moreover, the act of repair is fundamentally noncommercial and 
+personal, designed to allow for continued personal use of a device.  
+Second factor: the nature of the copyrighted work. The software controlling access between a 
+motherboard and optical drive is functional, rather than creative, and crucial to the console’s core 
+functionality.  
+ 
+4  Copyright Office, Section 1201 Rulemaking: Sixth Triennial Proceeding to Determine Exemptions to the 
+Prohibition on Circumventions, Recommendation of the Register of Copyrights 214 (Oct. 2015), 
+https://cdn.loc.gov/copyright/1201/2015/registers-recommendation.pdf (hereinafter 2015 Recommendations). 
+5  Copyright Office, Section 1201 Rulemaking: Seventh Triennial Proceeding to Determine Exemptions to the 
+Prohibition on Circumventions, Recommendation of the Acting Register of Copyrights 196 (Oct. 2018), 
+https://cdn.loc.gov/copyright/1201/2018/2018_Section_1201_Acting_Registers_Recommendation.pdf (hereinafter 
+2018 Recommendations), citing Copyright Office, Software-Enabled Consumer Products: A Report of the Register 
+of Copyrights 40 (Dec. 2016), https://www.copyright.gov/policy/software/software-full-report.pdf.  
+6  2015 Recommendations at 214.  
+
+[PAGE 4]
+ 
+ 
+4 
+ 
+Third factor: the amount and substantiality of the portion used in relation to the copyrighted work as a 
+whole. The amount of code accessed in the course of repairs is proportionally small; however, the 
+Register has previously found that, when used to facilitate repair or interoperability, copying even an 
+entire program "does not necessarily defeat fair use."7 
+Fourth factor: the effect of the use upon the potential market for or value of the copyrighted work. The 
+software pairing optical drives and motherboards has no independent market value, and no known market 
+for such software exists.8 
+ 
+Diminished repair availability 
+The circumvention prohibition has created new harms in the past three years, as official repair services 
+have been discontinued for a number of popular consoles with TPM-locked hardware. Moreover, market 
+and development trends indicate that the rate of these harms is likely to increase, not decrease, over the 
+coming years.  
+The Copyright Office has, since 2012, wrestled repeatedly with the issue of whether to grant an 
+exemption even when licensed repair services exist. For many of these categories--including vehicle 
+telematics, vehicle entertainment systems, home appliances, and smartphones--the Copyright Office has 
+found that the existence of manufacturer repairs is not dispositive to determining whether an exemption is 
+warranted. The Office correctly noted that official repair options “may be less accessible...and/or 
+substantially more costly,”9 and that “there are times where manufacturer-authorized repair channels are 
+insufficient to address widespread consumer problems in a timely manner or to address the issue at all.”10 
+In some cases, manufacturer-provided repair services exist, but are “less accessible” both than they were 
+three years ago, and as compared to independent repair services.11 For example, in the previous three 
+years,12 Microsoft stopped offering repair services for any console released prior to the 2016 XBox One 
+S. In 2019, Microsoft officials articulated a policy of no longer repairing consoles not in active 
+production.13 This decision eliminated repair services for two Microsoft consoles with TPM-locked 
+optical drives--the XBox 360 (initially released in 2006) and the XBox One (initially released in 2013). 
+Users must now seek out other options for repair and maintenance, either via independent repair shops or 
+ 
+7 Id. 
+8 The market most likely to be affected--official repair services--is small, entirely subsidiary to the main 
+manufacturers’ core business of developing and producing consoles, and almost certain to be unaffected. There is 
+substantial evidence as well that the use of TPMs is not linked to whether or not a manufacturer offers official repair 
+services. Nintendo, which has never TPM locked its components, nevertheless offers the most robust official repair 
+program of any console manufacturer. Moreover, the impact on a producer’s business model alone (in this case, 
+ancillary repair services) is not sufficient to defeat the need for an exemption, especially where the core purpose of 
+the TPMs at issue is to restrict downstream repair and maintenance options. 
+9 2018 Recommendations at 213-14 (emphasis added).  
+10 Id. at 221. 
+11 It is also worth noting that, while there are only three sources of “official” console repair, there are approximately 
+potentially thousands of independent shops capable of performing these repairs. 
+12 This decision, despite its significant impact, appears to have been made without a public announcement or any 
+real fanfare. However, taking Microsoft’s assertions in the 2018 rulemaking as accurate, the policy appears to have 
+arisen sometime in late 2019.  
+13 XBF Eladio M (Microsoft Agent), Comment to Microsoft Xbox One Service Repair, Microsoft Community (Oct 
+18, 2019, 7:51 PM), https://answers.microsoft.com/en-us/xbox/forum/xba_gapp/microsoft-xbox-one-service-
+repair/42137fe9-1f3b-4ea7-ae5c-de86ff93ddeb. 
+
+[PAGE 5]
+ 
+ 
+5 
+ 
+by DIY methods. Moreover, Microsoft discontinued yet another console with TPM-locked optical drive, 
+the XBox One X (released in 2016), in September of 2020. While Microsoft’s website listed these 
+consoles as repair-eligible as of mid-December 2020, the aforementioned policy indicates that this is a 
+short-term state of affairs.14 
+   
+Five statutory factors 
+1. Availability for use of copyrighted works  
+As noted previously, the “work” at issue is a relatively miniscule line of code that approves or denies 
+communication between the motherboard and optical drive. Without an exemption, access to and 
+availability of that code is decreased. However, the more salient consideration in a repair exemption is 
+whether or not the availability of related “works”--functioning console code (and thus a functioning 
+console), as well as secondary games and programs enjoyed by console users--definitionally shrinks. A 
+growing number of consoles with TPM-locked parts are no longer covered by official repair policies, at 
+any price; absent an exemption, these consoles will remain broken and unrepairable. 
+It is also worth noting that, with one notable exception,15 the decision on whether or not to offer repair 
+services (and at what price) is purely internal to the manufacturer. Microsoft reduced its repair offerings 
+sometime in 2019, without fanfare; it is likely that two recently-discontinued console models will lose 
+repair eligibility in the coming weeks or months. New console models are generally introduced every 1.5-
+3 years, with older consoles discontinued at approximately the same rate. If anything, the rate of service 
+unavailability absent an exemption is likely to increase as consoles obsolesce out of arbitrarily-defined 
+repair eligibility.  
+2. Availability for use of works for nonprofit archival, preservation, and educational purposes; and  
+3. Impact on criticism, comment, news reporting, teaching, scholarship, or research 
+While the proposed exemption covers repair and not preservation, video game consoles pose unique 
+preservation challenges that strongly support the need for a repair exemption. The development and 
+production cycle for video game consoles is exceptionally fast, with new models being released every 2-3 
+years, and new “generations” approximately every 7 years. Their market shelf life is short; models have 
+an average production lifespan of just over 6 years, and one manufacturer will often release 3-4 variations 
+on its base console within one generation. A console released in 2010 (such as the PlayStation 3 Slim) is, 
+ten years later, two generations obsolete and four years discontinued.  
+The lifespan of a gaming console is comparatively ephemeral, with a very narrow window between 
+market introduction and “antique” status. In short, having consoles available for long-term preservation, 
+scholarship, and research necessarily requires a robust ability to repair and maintain what amount to 
+ephemeral devices. 
+ 
+ 
+14 Notably, the other two major console manufacturers--Sony and Nintendo--offer a mixed, though much more 
+robust, bag of repair services. Nintendo does not use TPM locks on its hardware as a general rule, and also offers 
+repair services for any console (stationary or handheld) dating back to the 2004 Nintendo DS. Sony, while offering a 
+much narrower window (only selected systems, with the oldest dating back to 2006), currently offers repair service 
+for all consoles which have TPM locked hardware. 
+15 Cal Civ Code § 1793.03.  
+[PAGE 6]
+ 
+ 
+6 
+ 
+4. The effect of circumvention on the market for or value of copyrighted works 
+As noted above, there is no independent market for the software in question, and no evidence that a 
+continued prohibition on circumventing will substantially impact the market for (or availability of) 
+manufacturer-provided repair services. If anything, a repair exemption will increase the market for related 
+copyrighted works, such as games for discontinued or older consoles which would otherwise be rendered 
+non-functional. 
+5. Such other factors as the Librarian considers appropriate. 
+The current uncertainty about console repair produces a number of negative externalities as well. Aside 
+from the aggregate economic impact to consumers that the lack of a clear repair exemption provides, the 
+ecological impacts of the e-waste generated by discarded electronics (including consoles) are massive. 
+2019 saw a large increase in the amount of e-waste created by the electronics industry, with 
+approximately 80% of e-waste globally ending up in landfills or otherwise improperly recycled.16 Small 
+IT products like game consoles, laptops, and cell phones accounted for approximately 4.7 million metric 
+tons of e-waste in 2019.17 Gaming consoles that cannot be repaired often end up in these waste streams 
+where their plastic parts and heavy metals pose a particular e-waste problem.18 These consoles are 
+distributed globally in regions where manufacturers do not have authorized service networks. Making 
+sure users, not just manufacturers, can repair their devices, including their game consoles, legally is an 
+important part of stemming the flow of toxic e-waste.19 
+ 
+DOCUMENTARY EVIDENCE 
+None attached. 
+ 
+16 Forti V., Baldé C.P., Kuehr R., Bel G.,  p. 23, The Global E-waste Monitor 2020: Quantities, 
+flows and the circular economy potential. United Nations University (UNU)/United Nations Institute for Training 
+and Research (UNITAR) – co-hosted SCYCLE Programme, International Telecommunication Union (ITU) & 
+International Solid Waste Association (ISWA), Bonn/Geneva/Rotterdam. 
+17 Id. 
+18 Ceclia D’Anastasio, Next-Gen Gaming is an Environmental Nightmare, Motherboard (Oct. 15, 2020) (“As 
+specialty electronics, consoles are notoriously difficult to recycle. With parts soldered onto circuit boards, 
+consumers can’t really upgrade them when their specs are out of vogue, like, say, when a new generation launches. 
+So a lot of the time they end up in landfills, where their chemicals and plastics are introduced into the 
+environment—the fate of single-use electronics.") https://www.wired.com/story/xbox-playstation-cloud-gaming-
+environment-nightmare/ ; See also Greenpeace, Leading Game Console Manufacturers Fail Greenpeace’s Green 
+Electronics Test, Greenpeace news (July 6, 2010) (“The game consoles market is one of the fastest growing in 
+consumer electronics with over 60 million sold and 14 percent growth last year. They not only contain hazardous 
+chemicals but also contribute to the fastest growing type of waste – e-waste.”) 
+https://www.greenpeace.org/usa/news/leading-game-console-manufactu/  
+19  Matthew Gault, The World Economic Forum Tells Davos: Electronics Are 'the Fastest-Growing Waste Stream in 
+the World, Motherboard (Jan. 29, 2019) (quoting U.S. PIRG’s Nathan Proctor, ““The obvious conclusion [is] that 
+our relationship with consumer electronics is out of whack,” Proctor said. “Repair is a critical part of fixing our 
+relationship with these products, and is more efficient than recycling. People must be empowered to repair their own 
+stuff. We have way too much waste in the world to only have the companies that manufacture products repair them. 
+This has always been how devices were maintained until quite recently.””) 
+https://www.vice.com/en/article/8xynba/world-economic-forum-at-davos-electronics-are-the-fastest-growing-waste-
+stream-in-the-world  

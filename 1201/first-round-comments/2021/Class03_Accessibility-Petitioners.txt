@@ -1,0 +1,1546 @@
+[PAGE 1]
+ 
+ 
+Item A. Commenter Information  
+Association of Transcribers and Speech-to-Text Providers  
+Alison Nelson Chabot, President  
+info@atspnetwork.org 
+The Association of Transcribers and Speech-to-Text Providers (ATSP) is a non-
+profit organization devoted to advancing the delivery of real-time speech-to-text 
+services to deaf or hard-of-hearing people. 
+Represented by: 
+Samuelson-Glushko Technology Law & Policy Clinic at Colorado Law  
+Scott A. Goodstein, Dakotah Hamilton, and Rachel Hersch, Student Attorneys 
+Blake E. Reid, Director 
+blake.reid@colorado.edu  
+Association on Higher Education and Disability  
+Stephan Smith, Executive Director  
+stephan@ahead.org 
+The Association on Higher Education and Disability (AHEAD) is the leading 
+professional membership association for individuals committed to equity for 
+persons with disabilities in higher education. Since 1977, AHEAD has offered an 
+unparalleled member experience to disability resource professionals, student affairs 
+personnel, ADA coordinators, diversity officers, AT/IT staff, faculty and other 
+instructional personnel, and colleagues who are invested in creating welcoming 
+higher education experiences for disabled individuals.  
+Library Copyright Alliance 
+The Library Copyright Alliance (LCA) consists of three major library associations—
+the American Library Association (ALA), the Association of College and Research 
+Libraries (ACRL), and the Association of Research Libraries (ARL)—that 
+collectively represent over 100,000 libraries in the United States. Libraries provide 
+services to visually impaired people, both inside and outside of educational 
+settings, in particular by converting works into formats accessible to the print 
+disabled.  
+Represented by: 
+Jonathan Band, policybandwidth  
+jband@policybandwidth.com
+  
+  
+[PAGE 2]
+ 
+ 
+2 
+ 
+ 
+Table of Contents 
+Item A. Commenter Information ........................................................................ 1 
+Item B. Proposed Class Addressed: Proposed Class 3: Audiovisual Works—
+Accessibility ............................................................................................ 3 
+Item C. Overview ................................................................................................ 4 
+Item D. Technological Protection Measure(s) and Method(s) of 
+Circumvention ........................................................................................ 7 
+Item E. Asserted Adverse Effects on Noninfringing Uses ................................... 8 
+ The proposed class continues to include copyrighted motion pictures............... 9 
+ Section 1201(a)(1) continues to adversely affect the ability of disability 
+services professionals to make works accessible to people with disabilities. ...... 9 
+i. EIUs must be lawfully able to remediate resources for faculty and staff. ... 10 
+ii. EIUs must be able to proactively remediate resources for students, 
+faculty, and staff with disabilities. ............................................................ 11 
+iii. The exemption must require that “accessible versions” be of sufficient 
+quality. ..................................................................................................... 12 
+iv. The exemption must qualify the commercial availability requirement to 
+clarify the contours of the terms “reasonable effort” and “fair price.” ....... 13 
+v. EIUs must be able to reuse remediated resources. .................................... 14 
+ Making videos accessible through the provision of captions and 
+descriptions remains a quintessentially noninfringing fair use. ....................... 15 
+ Section 1201’s statutory factors weigh in favor of the proposed 
+modifications. .................................................................................................  19 
+i. Allowing the remediation of videos for faculty and staff would satisfy 
+the statutory factors. ................................................................................. 20
+ 
+ii. Clarifying that the exemption allows disability services professionals to 
+proactively remediate videos would satisfy the statutory factors. ............. 22 
+iii. Clarifying that “accessible versions” are only accessible if they are of 
+sufficient quality would satisfy the statutory factors. ................................ 23 
+iv. Qualifying the commercial availability requirement to clarify the terms 
+“reasonable effort” and “fair price” would satisfy the statutory factors. .... 25
+ 
+v. Clarifying that EIUs can reuse remediated resources would satisfy the 
+statutory factors. ....................................................................................... 26
+ 
+Item F. Documentary Evidence ......................................................................... 28 
+ Statement of Jason Kapcala, Assistant Director of Captioning and 
+Interpreting at West Virginia University .......................................................... 28
+ 
+ Statement of Anonymous Disability Services Professional ............................... 31 
+ Statement of Gretchen Rumsey-Richardson, Deaf and Hard-of-Hearing 
+Services Manager at a Higher Education Institution ........................................ 32 
+[PAGE 3]
+ 
+ 
+3 
+ 
+ 
+Item B. Proposed Class Addressed: 
+Proposed Class 3: Audiovisual Works—Accessibility  
+The Copyright Office initiated the eighth triennial rulemaking to consider 
+exemptions from the anticircumvention provisions of the Digital Millennium 
+Copyright Act (DMCA) on June 22, 2020 by issuing a Notice of Inquiry and Request 
+for Petitions.1 In response, the above-signed petitioners filed a petition2 to renew 
+the existing exemption for disability services professionals to circumvent 
+technological protection measures (TPMs) on audiovisual works for “the of purpose 
+of adding captions and/or audio description to a motion picture to create an 
+accessible version” under Rule 201.40(b)(2).3 The Copyright Office issued a Notice 
+of Proposed Rulemaking (NPRM) for this proceeding on October 15, 2020.4 In the 
+NPRM, the Office announced that “[b]ased on the information provided in the 
+renewal petition and the lack of opposition, the Office believes that the conditions 
+that led to adoption of this exemption are likely to continue during the next 
+triennial period” and that “the Office intends to recommend renewal of this 
+exemption.”
+5  
+The current exemption applies to: 
+(2)(i) Motion pictures (including television shows and 
+videos), as defined in 17 U.S.C. 101, where the motion 
+picture is lawfully acquired on  a DVD protected by the 
+Content Scramble System, on a Blu -ray disc protected by 
+the Advanced Access Content System, or via a digital 
+transmission protected by a technological measure, where: 
+(A) Circumvention is undertaken by a disability services 
+office or other unit of a kindergarten through twelfth-grade 
+educational institution, college, or university engaged in 
+and/or responsible for the provision of accessibility services 
+to students, for the purpose of adding captions and/or audio 
+                                                      
+1 Exemptions to Permit Circumvention of Access Controls on Copyrighted Works, 
+85 Fed. Reg. 37,399 (Jun. 22, 2020) (2020 NOI). 
+https://www.govinfo.gov/content/pkg/FR-2020-06-22/pdf/2020-12911.pdf
+ . 
+2 Petition for Renewal of ATSP, AHEAD, & LCA (July 22, 2020), 
+https://www.copyright.gov/1201/2021/petitions/renewal/Renewal%20Pet.%20-
+%20Captioning%20-%20ATSP%20et%20al.pdf.  
+3 37 C.F.R § 201.40(b)(2)(i)(A). 
+4 2020 Notice of Proposed Rulemaking, 85 Fed. Reg. 65,293 (Oct. 15, 2020) (2020 
+NPRM), https://www.govinfo.gov/content/pkg/FR-2020-10-15/pdf/2020-
+22893.pdf. 
+5 Id at 65,298. 
+
+[PAGE 4]
+ 
+ 
+4 
+ 
+description to a mot ion picture to create an accessible 
+version as a necessary accommodation for a student or 
+students with disabilities under an applicable disability law, 
+such as the Americans With Disabilities Act, the Individuals 
+with Disabilities Education Act, or Sectio n 504 of the 
+Rehabilitation Act; 
+(B) The educational institution unit in paragraph 
+(b)(2)(i)(A) of this section has, after a reasonable effort, 
+determined that an accessible version cannot be obtained at 
+a fair price or in a timely manner; and 
+(C) The acce ssible versions are provided to students or 
+educators and stored by the educational institution in a 
+manner intended to reasonably prevent unauthorized 
+further dissemination of a work.
+6 
+The above-signed organizations then filed a petition to modify the existing 
+exemption in several distinct ways described in Item C.7  
+Item C. Overview 
+The existing disability services exemption has been widely used and 
+appreciated by disability services professionals that must circumvent technological 
+measures protecting audiovisual works to provide remediated versions for students 
+at educational institutions.8 A significant proportion of the apprehension and lack 
+of clarity surrounding the unique intersection of copyright law and disability law 
+has been addressed by the existing exemption. 
+Nevertheless, there is still work to be done to ensure that disability services 
+professionals can do their jobs to improve accessibility for students, faculty, and 
+staff with disabilities who depend on their work.
+9 Disability services professionals 
+have identified five specific improvements that would further empower them to 
+make works accessible for people with disabilities in educational contexts: 
+                                                      
+6 37 C.F.R § 201.40(b)(2)(i). 
+7 Petition for Modification of ATSP, AHEAD & LCA (“Modification Petition”) (Sept. 
+8, 2020), 
+https://www.copyright.gov/1201/2021/petitions/proposed/New%20Pet.%20-
+%20Association%20of%20Transcribers%20and%20Speech-to-
+Text%20Providers%20et%20al.pdf. The Office sought comment on this petition. 
+2020 NPRM, 85 Fed. Reg. at 65,304. 
+8 See discussion infra, Item F.1 (Statement of Jason Kapcala). 
+9 See discussion infra, Item F.3 (Statement of Gretchen Rumsey-Richardson). 
+ 
+
+[PAGE 5]
+ 
+ 
+5 
+ 
+1. Remediation for Faculty and Staff. Expand the language of subsection 
+201.40(b)(2)(i)(A) of the existing exemption10 to allow for the remediation of 
+motion pictures for faculty and staff with disabilities in Educational Institution 
+Units (EIUs) in addition to the exemption’s current allowance of remediation 
+for students with disabilities. 
+2. Proactive Remediation. Clarify that the exemption allows for the proactive 
+remediation of motion pictures by EIUs in addition to remediation in response 
+to an accommodation request. 
+3. “Accessible Versions” of Sufficient Quality. Clarify that “accessible versions” 
+that satisfy limiting the application of the exemption under subsection 
+201.40(b)(2)(i)(B)
+11 must be of sufficient quality. 
+4. Qualifying the Commercial Availability Requirement. Qualify the 
+“reasonable effort” and “fair price” terms to clarify that under subsection 
+201.40(b)(2)(i)(B), an EIU has met the “reasonable effort” requirement when 
+the publisher has not included an accessible version of audiovisual materials 
+included with a purchased textbook.12 
+5. Reuse of Remediated Works. Clarify that the reuse of previously remediated 
+works is permissible. 
+The final exemption, as amended, would read: 
+(i) Motion pictures (including television shows and videos), 
+as defined in 17 U.S.C. 101, where the motion picture is 
+lawfully acquired on a DVD protected by the Content 
+Scramble System, on a Blu -ray disc protected by the 
+Advanced Access Content System, or via a digital 
+transmission protected by a technological measure, where: 
+(A) Circumvention is undertaken by a disability services 
+office or other unit of a kindergarten through twelfth-grade 
+educational institution, college, or university engaged in 
+and/or responsible for the provision of accessibility services 
+for the purpose of adding captions and/or audio description 
+to a motion picture to create an accessible version f or 
+students, faculty, or staff with disabilities; 
+(B) The educational institution unit in paragraph 
+(b)(2)(i)(A) of this section has, after a reasonable effort, 
+determined that an accessible version of sufficient quality 
+cannot be obtained at a fair market  price or in a timely 
+manner, including where a copyright holder has not 
+                                                      
+10 37 C.F.R § 201.40(b)(2)(i)(A). 
+11 37 C.F.R § 201.40(b)(2)(i)(B).  
+12 Id. 
+
+[PAGE 6]
+ 
+ 
+6 
+ 
+included an accessible version of a motion picture included 
+with a digital textbook; and 
+(C) The accessible versions are provided to students or 
+educators and stored by the educationa l institution in a 
+manner intended to reasonably prevent unauthorized 
+further dissemination of a work, except  for storage that 
+allows for future reuse of the material by students, faculty, 
+or staff with disabilities pursuant to subparagraphs (A) and 
+(B). 
+(ii) For purposes of this paragraph (b)(2), “audio 
+description” means an oral narration that provides an 
+accurate rendering of the motion picture. 
+The proposed exemption language above would work to mitigate the adverse 
+effects of the anticircumvention provisions of the DMCA on people with disabilities 
+and, as recommended by NTIA in 2018, “increase clarity by removing requirements 
+that overly complicate exemptions.”
+13 NTIA recommended exemptions that are “as 
+clear and simple in formulation as possible . . . so that potential users of 
+exemptions can properly understand the options and limitations.”14  
+NTIA also recommended that the Office adopt a “more structured” approach to 
+applications for exemptions by laying out the “class of work, groups of 
+beneficiaries, and types of circumvention permitted” to “improve readability” and 
+streamline the process for managing applications for renewal or expansions during 
+each rulemaking.
+15 Under this potential new framing of the exemptions, our 
+proposed modifications would result in the following language:  
+Class:  Motion pictures (including television shows and videos) distributed via 
+DVD, Blu-ray disc, or digital transmission 
+Use:  Adding captions and/or audio description—an oral narration that provides 
+an accurate rendering—to create an accessible version for students, faculty, 
+or staff with disabilities 
+Users:  A disability services office or other unit of a kindergarten through twelfth-
+grade educational institution, college, or university engaged in and/or 
+responsible for the provision of accessibility services 
+ 
+  
+                                                      
+13 See Recommendations of the National Telecommunications and Information 
+Administration to the Register of Copyrights at 3 (2018 NTIA Recommendation), 
+https://www.ntia.doc.gov/files/ntia/publications/ntia_dmca_consultation_092520
+18.pdf. 
+14 Id. at 4 
+15 Id. 
+
+[PAGE 7]
+ 
+ 
+7 
+ 
+Limitations: 
+• A user must determine that an accessible version of sufficient quality cannot 
+be obtained at a fair market price or in a timely manner, including where a 
+copyright holder has not included an accessible  version of a motion picture 
+included with a digital textbook; and 
+• A work m ust be provided to students or educators and stored by the 
+educational institution in a manner intended to reasonably prevent 
+unauthorized further dissemination of the work, except for storage that 
+allows for future reuse of the material by students, faculty, or staff consistent 
+with the permissible use. 
+Item D. Technological Protection Measure(s) and Method(s) of Circumvention 
+Disability services professionals deal primarily with two types of videos: those 
+delivered via fixed media, such as Digital Versatile Discs (DVDs), and videos 
+delivered via online streaming services. These two video sources are controlled by 
+content creators and distributors using TPMs. While the TPMs used for videos 
+delivered via fixed media and videos delivered via online streaming services vary in 
+a technical sense, both types of videos are circumvented for the noninfringing 
+accessibility purposes encompassed by the exemption. These TPMs are substantially 
+the same as the TPMs that were in use and considered during the last triennial 
+review when the Acting Register recommended the existing exemption,
+16 and the 
+same as those considered by the Register in announcing the Office’s intent to 
+recommend renewal of the exemption in this triennial review.17  
+Video Delivered via Fixed Media: When a DVD or Blu-ray disc is provided to 
+disability services professionals for remediation, the disability services professionals 
+will likely encounter either the Content Scramble System (CSS) in the case of DVDs 
+or the Advanced Access Content System (AACS) in the case of Blue-ray discs.
+18 
+According to the Register’s 2015 Recommendation, “[t]he vast majority of DVDs 
+use the Content Scramble System (“CSS”) to encrypt audiovisual works on DVDs 
+using a fixed set of decryption keys.”19 Additionally, “Blu-ray discs are protected 
+primarily by the Advanced Access Content System (“AACS”), which allows vendors 
+                                                      
+16 See Recommendation of the Acting Register of Copyrights at 92-93 (Oct. 2018) 
+(2018 Recommendation), 
+https://cdn.loc.gov/copyright/1201/2018/2018_Section_1201_Acting_Registers_R
+ecommendation.pdf. 
+17 2020 NPRM, 85 Fed. Reg. at 65,298.  
+18 Recommendation of the Register of Copyrights at 29 (Oct. 8, 2015) (2015 
+Recommendation), https://www.copyright.gov/1201/2015/registers-
+recommendation.pdf. 
+19 Id. 
+ 
+
+[PAGE 8]
+ 
+ 
+8 
+ 
+to revoke compromised keys and distribute new keys.”20 Just as the 2018 Comment 
+supporting the existing exemption explained, the specific method used for 
+circumvention will depend on how sophisticated the person doing the 
+circumvention is.21  
+Video Delivered via Online Streaming: While disability services professionals 
+must still circumvent TPMs concerning fixed media, a significant number of videos 
+that must be remediated come from online streaming sources.22 As the Office has 
+previously explained, “access controls used by online streaming services vary 
+widely” and often rely on various “encryption and other protocols” to protect 
+streamed content.23  
+Item E. Asserted Adverse Effects on Noninfringing Uses  
+The NPRM encourages commenters to focus on the following elements to 
+demonstrate that proposed modifications to existing exemptions satisfy the 
+requirements for the exemption to be granted under Section 1201:  
+1. The proposed class includes at least some works protected by copyright; 
+2. The proposed uses are noninfringing under title 17; 
+3. Users are adversely affected in their ability to make such noninfringing uses 
+and users are likely to be adversely affected in their ability to make such 
+noninfringing uses during the next three years; and 
+4. The statutory prohibition on circumventing access controls is the cause of the 
+adverse effects.
+24 
+The exemption, as modified by the proposed changes, would continue to 
+include copyrighted motion pictures. The uses contemplated by the proposed 
+exemption, which would continue to center on accessibility of motion pictures for 
+students with disabilities, would continue to be noninfringing. The users adversely 
+affected in their ability to make noninfringing uses are disability services 
+professionals at K-12 educational institutions, and they will continue to be 
+adversely affected in their ability to make noninfringing accessibility uses during 
+the next three years. Lastly, 1201(a)(1)’s prohibition on circumventing access 
+controls continues to cause these adverse effects. 
+                                                      
+20 Id. 
+21 Long Comment of ATSP, et al. at 7 (Dec. 18, 2017) (2018 Comment), 
+https://cdn.loc.gov/copyright/1201/2018/comments-121817/class2/class-02-
+initialcomments-atsp-et-al.pdf.  
+22 See discussion infra, Item F.1 (Statement of Jason Kapcala). 
+23 2015 Recommendation at 29. 
+24 2020 NPRM at 65,294. 
+ 
+
+[PAGE 9]
+ 
+ 
+9 
+ 
+ The proposed class continues to include copyrighted motion pictures. 
+The existing exemption, as amended by the proposed modifications, would 
+continue to include copyrighted motion pictures, just like the exemption granted in 
+2018. The Register’s 2018 Recommendation of the exemption stated that “[t]here 
+[was] no dispute that at least some of these works [were] protected by 
+copyright.”25 Nothing about the proposed modifications would change the focus of 
+the class on copyrighted motion pictures. Accordingly, the proposed class continues 
+to include at least some works protected by copyright. 
+ Section 1201(a)(1) continues to adversely affect the ability of disability 
+services professionals to make works accessible to people with disabilities. 
+Disability services professionals in educational institution units (EIUs) are 
+adversely affected by Section 1201(a)(1)(A)’s prohibition on circumvention in their 
+ability to make noninfringing uses of a class of copyrighted works and are likely to 
+be adversely affected in the next three years. In particular, the prohibition 
+continues to complicate EIUs’ ability to comply with disability law.26 Under 
+disability law, EIUs are required to provide individuals with disabilities with access 
+to resources on par with their typical peers. EIUs often must circumvent TPMs on 
+copyrighted works to create remediated versions. Although Congress, the courts, 
+and the Office have recognized this type of remediation as non-infringing fair use,
+27 
+Thus, the prohibition adversely affects EIUs by impeding EIUs ability to make 
+noninfringing uses of copyrighted works.  
+Governing disability law prevents EIUs from discriminating against students, 
+faculty, and staff with disabilities by denying these individuals reasonable and 
+necessary accommodations. As the above-signed organizations explained in 2018, 
+nearly all EIUs continue to be required to make copyrighted works available to 
+their students under the Americans with Disabilities Act, Section 504 of the 
+Rehabilitation Act, and the Individuals with Disabilities Education Act (IDEA).
+28 
+These requirements extend to ensuring accessibility for the faculty and staff they 
+employ under Title I of the ADA, which prohibits employers from discriminating 
+against employees with disabilities.
+29 
+In 2018, the Acting Register highlighted the need for EIUs to be able to provide 
+its students, faculty, and staff with disabilities with access to materials, which is 
+archetypal fair use and necessitated by disability law. The Acting Register noted 
+that “the prohibition on circumvention [was] adversely affecting the ability of 
+                                                      
+25 2018 Recommendation at 95. 
+26 See id. at 97. 
+27 See discussion infra, Item E.3 
+28 2018 Comment at 8-9. 
+29 See 42 U.S.C. § 12112(a). 
+ 
+
+[PAGE 10]
+ 
+ 
+10 
+ 
+educational institutions to offer accessible formats of motion pictures on an equal 
+basis in conformance with their legal responsibilities.”30 The 2020 NPRM reaffirms 
+this proposition in recommending renewal of the exemption.31  
+Though the current exemption has provided important relief for EIUs, EIUs 
+continue encountering the prohibition’s adverse effects, which subsequently hinders 
+students, faculty, and staff with disabilities’ access to accommodations. EIUs 
+continue to struggle to timely provide remediated materials of sufficient quality to 
+students, faculty, and staff—a struggle that has only intensified under COVID -19.32 
+Thus, the exemption must be modified to enable EIUs to provide its students, 
+faculty, and staff with access to sufficiently remediated materials in a timely 
+fashion. Accordingly, the exemption must be altered by: 
+• Enabling remediation for faculty and staff in addition to students; 
+• Enabling proactive remediation; 
+• Qualifying “accessible versions” as versions of “sufficient quality”; 
+• Qualifying the commercial availability requirement to clarify the contours of 
+the “reasonable effort” and “fair price” terms; and  
+• Enabling reuse of remediated materials. 
+i. EIUs must be lawfully able to remediate resources for faculty and staff. 
+The prohibition adversely affects EIUs’ ability to make noninfringing uses by 
+prohibiting EIUs from circumventing TPMs to remediate resources for faculty and 
+staff. EIUs are currently prohibited from engaging in this noninfringing fair use 
+because the current exemption only allows for remediation of video “as a necessary 
+accommodation for a student or students with disabilities.”33 
+EIUs’ inability to circumvent TPMs for faculty and staff adversely affects EIUs 
+ability to comply with the Americans with Disabilities Act. Title I mandates that 
+educational institutions remediate materials for faculty and staff if necessary.34 Yet, 
+                                                      
+30 2018 Recommendation at 107. 
+31 2020 NPRM, 85 Fed. Reg. at 65,298. 
+32 See discussion infra, Item F.1 (Statement of Jason Kapcala). 
+33 37 C.F.R § 201.40(b)(2)(i)(A) (emphasis added). 
+34 See 42 U.S.C. § 12112(b)(5)(A) (discrimination against employees with disability 
+includes “not making reasonable accommodations to the known physical or mental 
+limitations of an otherwise qualified individual with a disability who is an applicant 
+or employee”); 42 U.S.C. § 12111(9)(B) (“The term ‘reasonable accommodation’ 
+may include—(B)  . . . acquisition or modification of equipment or devices, 
+appropriate adjustment or modifications of examinations, training materials or 
+policies, the provision of qualified readers or interpreters, and other similar 
+accommodations for individuals with disabilities.”). 
+ 
+
+[PAGE 11]
+ 
+ 
+11 
+ 
+faculty and staff currently fall outside the scope of the current exemption. 
+Accordingly, this apparent prohibition on circumvention is adversely affecting the 
+ability of educational institutions to offer accessible formats of motion pictures on 
+an equal basis in conformance with their legal responsibilities. 
+ii. EIUs must be able to proactively remediate resources for students, 
+faculty, and staff with disabilities.  
+The prohibition also adversely affects EIUs’ ability to proactively remediate 
+resources into accessible formats. This effect is because it is unclear whether the 
+current exemption extends to proactive remediation, or rather is limited to reactive 
+responses to accommodation requests.  
+The current exemption limits eligibility to remediation undertaken as “a 
+necessary accommodation . . . under an applicable disability law.”35 
+“Accommodation” is a term of art among disability services professions that 
+typically implies an accommodation request by a student that an EIU acts upon 
+only after receiving it.
+36  
+The inclusion of the term “necessary accommodation” has led EIUs to question 
+whether they can make use of the current exemption proactively. EIUs increasingly 
+aim to proactively remediate materials to ensure that students, faculty, and staff 
+with disabilities receive their remediated materials in a timely manner. For 
+example, some EIUs seek to remediate materials that are commonly used in large 
+classes that are likely to be the subject of future accommodation requests.
+37 
+Proactive remediation eliminates the turnaround time that students, faculty, and 
+staff with disabilities must wait to receive accessible materials after submitting an 
+accommodation request.38 Proactive remediation is so important that it is an 
+affirmative policy of some educational institutions.39 
+A failure to proactively remediate may in turn violate disability law. Students, 
+faculty, and staff with disabilities rely on remediated materials to engage in their 
+education and employment equal to that of their typical peers. Accordingly, 
+students with disabilities are effectively “excluded from participation in . . . the 
+                                                      
+35 37 C.F.R § 201.40(b)(2)(i)(A). 
+36 See, e.g., Barbara Palmer & Wendy Ulibarri, Colorado Options: A Handbook of 
+Post-Secondary Education Services for Students with Disabilities, Colorado 
+Department of Education Exceptional Student Leadership Unit, Eighth Edition 
+(2014), https://www.cde.state.co.us/cdesped/options (“The student has an 
+obligation to self-identify that she or he has a disability and that she or he needs 
+accommodation.”). 
+37 See discussion infra, Item F.1 (Statement of Jason Kapcala). 
+38 Id. 
+39 See discussion infra, Item F.2 (Statement of Anonymous Disability Services 
+Professional). 
+ 
+
+[PAGE 12]
+ 
+ 
+12 
+ 
+services, programs, or activities” of their educational institution until they receive 
+their remediated materials.40 Likewise, until faculty and staff receive their 
+remediated materials, they are effectively “limit[ed] . . . in a way that adversely 
+affects [the employee’s] opportunities.”41 
+Obtaining remediated materials of sufficient quality takes time, and EIUs are 
+overburdened and understaffed, particularly during the pandemic.42 EIUs thus 
+struggle to provide individuals with their accommodated materials within an 
+appropriate time to enable students, faculty, and staff complete participation in 
+school and employment.43 Modifying the exemption to endorse the proposition that 
+EIUs can proactively remediate materials would ensure students, faculty, and staff 
+receive their remediated materials as soon as possible—a disability law mandate . 
+iii. The exemption must require that “accessible versions” be of sufficient 
+quality. 
+The prohibition also adversely affects EIUs’ ability to provide students, faculty, 
+and staff with disabilities with accessible versions of sufficient quality. EIUs have 
+raised questions about whether the “accessible version” limitation in the existing 
+exemption precludes eligibility for the exemption when an EIU is able to locate 
+with reasonable effort a version of a video, but that version has captions or 
+descriptions with insufficient quality, in the EIU’s judgment, to facilitate equal 
+access to the video. 
+The current exemption’s use of the term “accessible” does not specify what 
+level of “accessibil[ity]” in an existing version of a video is sufficient to limit the 
+application of the exemption.44 Accordingly, EIUs have encountered confusion 
+about whether they can circumvent to remediate videos that are captioned or 
+described but with errors that require further remediation. 
+To comply with disability law, EIUs must have sufficient leeway under 
+copyright law to remediate a video when a captioned or described version is 
+already available but not of sufficient quality to facilitate access. Aside from 
+compliance with Section 504 of the Rehabilitation Act, the IDEA, and the ADA, 
+many EIUs adhere to specific quality standards for captions and descriptions, such 
+as the Federal Communications Commission’s closed captioning quality standards 
+                                                      
+40 See 42 U.S.C. § 12132; 28 C.F.R. § 35.130(a). 
+41 42 U.S.C. § 12112(b)(1). 
+42 See discussion infra, Item F.2 (Statement of Anonymous Disability Services 
+Professional). 
+43 Id. 
+44 See 37 C.F.R. § 201.40(b)(2)(i)(B).  
+ 
+
+[PAGE 13]
+ 
+ 
+13 
+ 
+requirements.45 Accordingly, EIUs must provide their students, faculty, and staff 
+with remediated versions of sufficient quality to provide these individuals with 
+equal access to materials, and to comply with disability and communications law. 
+The Acting Register supported this proposition in 2018, noting that “the 
+passage of the ADA, IDEA, and Section 504 demonstrate Congress’s desire to 
+provide meaningful access to students with other types of disabilities.”46 The Office 
+has recognized the spirit of disability laws: people with disabilities require 
+meaningful access to educational and training resources. If a student, faculty, or 
+staff member with a disability is able to “access” a version of an educational or 
+training resource but the quality of that version’s captions and/or descriptions are 
+so deficient that the version is an inadequate accommodation, the person is being 
+denied meaningful access. Accordingly, the exemption should be modified to limit 
+its application only where an accessible version of sufficient quality can be obtained 
+with a reasonable effort. 
+iv. The exemption must qualify the commercial availability requirement 
+to clarify the contours of the terms “reasonable effort” and “fair 
+price.” 
+The prohibition also adversely affects EIUs’ ability to protect themselves against 
+discriminatory practices by publishers in furnishing accessible versions of videos 
+included with digital textbooks. Because the scope of the exemption’s “reasonable 
+effort” requirement is unclear, fears have arisen that publishers may have latitude 
+to deny the application of the exemption by offering to make an accessible version 
+of videos included in a textbook available, but at a price higher than the market 
+rate that the EIU would pay to caption or describe the video itself or at an 
+untenably later date. 
+In particular, Rule 201.40(b)(2)(i)(B) allows circumvention only after an EIU 
+“has, after a reasonable effort, determined that an accessible version cannot be 
+obtained at a fair price or in a timely manner.”
+47 However, this limitation on the 
+exemption contemplates a market search of mass market offerings like 
+“Amazon.com or Netflix,”
+48 and does not provide guidance on how a market search 
+might occur when an EIU has an ongoing relationship with the video’s copyright 
+holder, as may be the case with an inaccessible video included with a textbook that 
+a student with disabilities has purchased as a bundle. 
+                                                      
+45 See 47 C.F.R. § 79.1(j)(2); see also Recommendation of the Federal 
+Communications Commission Disability Advisory Committee (Oct. 14, 2020), 
+https://www.fcc.gov/file/19830/download (laying out preliminary 
+recommendations on quality for audio description). 
+46 2018 Recommendation at 97.  
+47 37 C.F.R. § 201.40(b)(2)(i)(B). 
+48 2018 Recommendation at 110. 
+
+[PAGE 14]
+ 
+ 
+14 
+ 
+As a result, questions have arisen about what an EIU must do to satisfy 
+this “reasonable effort” obligation when no accessible version of a video included 
+with a textbook exists, but upon request a publisher offers to generate an accessible 
+version of the video at extra cost beyond the cost of the textbook itself. While an 
+EIU could pay the additional cost, doing so would effectively allow the publisher a 
+windfall, at the EIU’s expense, for price discriminating against students, faculty, 
+and staff with disabilities on the basis of accessibility, and potentially delay the 
+delivery of captions.  
+Thus, the exemption should be modified to specify that “accessible versions” 
+must exist at the time an EIU undertakes the “reasonable effort” and be available at 
+no additional cost beyond the cost of the inaccessible version of the work. 
+Qualifying the “reasonable effort” requirement in this manner would motivate 
+publishers to make their original works sufficiently accessible and reduce 
+turnaround time for the remediation of single-source works by allowing disability 
+services professionals to begin remediation upon receipt of materials and 
+confirmation that they lack sufficient accessibility features. 
+v. EIUs must be able to reuse remediated resources. 
+Lastly, the prohibition on circumvention adversely affects EIUs’ ability to make 
+noninfringing uses because disability services professionals are unsure if they can 
+reuse remediated materials. The current exemption does not explicitly address 
+reuse, but requires EIUs to “store” their accessible versions “in a manner intended 
+to reasonably prevent unauthorized further dissemination of a work.”
+49 
+EIUs have questioned whether retaining and reusing remediated resources for 
+future accommodation requests—for example, if different students with disabilities 
+are in the same professor’s class over the course of multiple semesters—is allowed 
+under the terms of the exemption. While some institutions have enacted their own 
+policies affirmatively allowing for reuse of remediated works,50 the exemption does 
+not clarify whether this act is officially sanctioned by the Office.51 
+This practice forces EIUs to unnecessarily incur the cost of repeating 
+remediation work each time a resource is requested in a future term.52 
+Consequently, students have faced unnecessary delays and complications, and EIUs 
+have wasted resources performing duplicative remediation that has already been 
+completed.
+53 Reuse of remediated materials would ensure faster and more efficient 
+                                                      
+49 See 37 C.F.R. § 201.40(b)(2)(i)(C). 
+50 See discussion infra, Item F.2 (Statement of Anonymous Disability Services 
+Professional). 
+51 See discussion infra, Item F.1 (Statement of Jason Kapcala). 
+52 See discussion infra, Item F.1 (Statement of Jason Kapcala). 
+53 See discussion infra, Item F.1 (Statement of Jason Kapcala) & Item F.3 
+(Statement of Gretchen Rumsey-Richardson). 
+
+[PAGE 15]
+ 
+ 
+15 
+ 
+remediation and delivery of accessible materials to students, faculty, and staff with 
+disabilities and reduces the amount of time they spend excluded from participation 
+in school and/or work. Thus, reuse of remediated works alleviates the prohibitions 
+adverse effects on EIUs ability to comply with disability law. 
+ Making videos accessible through the provision of captions and 
+descriptions remains a quintessentially noninfringing fair use. 
+As the Acting Register concluded in 2018 and as the Register reaffirmed in the 
+2020 NPRM in announcing her intent to recommend renewal of the 
+recommendation, making videos accessible for faculty, staff, and students with 
+disabilities in educational contexts remains a quintessentially noninfringing fair 
+use.54 The proposed modifications do not alter this core purpose of the exemption 
+or the Register used in 2018. Accordingly, the Library and the Office should again 
+conclude that the exemption, as amended by the proposed modifications, is 
+noninfringing. 
+Congress and the courts have all but confirmed that making copyrighted works 
+accessible to people with disabilities is a noninfringing use.55 As the above-
+referenced organizations’ 2018 comment on the initial exemption explained: 
+[T]he legislative history of the 1976 Copyright Act makes 
+clear that converting works into formats that are accessible 
+to people with sensory disabilities is a quintessential 
+example of fair use. The House Committee Reports 
+explicitly states:  
+“Another special instance illustrating the application of the 
+fair use doctrine pertains to making copies or phonorecords 
+of works in special forms for blind persons. These special 
+forms. . . are not usually made  by the publishers for 
+commercial distribution. . . the mak ing of a single copy or 
+phonorecord as a free service for a blind person would 
+properly be considered a fair use under section 107.”  
+The courts have affirmed Congress’s “commitment to 
+ameliorating the hardships faced by” people with sensory 
+disabilities. In Sony v. Universal City Studios , the Supreme 
+Court stated that “[m]aking a copy of a copyrighted work 
+for the convenience of  people with sensory disabilities is 
+expressly identified by the House Committee Report as an 
+example of fair use, with no suggestion that anything more 
+than a purpose to entertain or to inform need motivate the 
+copying.” 
+                                                      
+54 2018 Recommendation at 101; 2020 NPRM, 85 Fed. Reg. at 65,298. 
+55 2018 Comment at 9-10. 
+
+[PAGE 16]
+ 
+ 
+16 
+ 
+In Authors Guild, Inc. v. HathiTrust, the Second Circuit 
+likewise affirmed that conversion of inaccessible 
+copyrighted works into accessible digital formats for use by 
+people who are blind, visually impaired, or print disabled is 
+a fair use. As the HathiTrust court held, “the doctrine of fair 
+use allows [the] provi[sion of] full digital access to 
+copyrighted works to [the] print -disabled.” Copyright 
+jurisprudence has  established that making digital works 
+accessible to the print-disabled is non infringing fair use on 
+grounds that are equally applicable to making motion 
+pictures accessible to people who are blind, visually 
+impaired, deaf or hard of hearing, through the provision of 
+closed captions and audio description.
+56 
+In 2018, the Acting Register echoed Congress and the Courts in agreeing that 
+accessibility uses are typically noninfringing and fair.57 Specifically, the Acting 
+Register in 2018 concluded that “[c]iting the legislative history of the 1976 
+Copyright Act, the Chafee Amendment, the HathiTrust decision, and other existing 
+disability laws, [the disability services] exemption proponents offer[ed] credible 
+support for their claim that converting motion pictures into accessible formats for 
+students with disabilities by adding captions and/or audio description [was] a 
+noninfringing fair use.”
+58 The Register reaffirmed this position in announcing her 
+intent to recommend renewal of the exemption in the 2020 NPRM.59 
+The proposed modifications to the exemption fall within the scope of the 
+Register’s 2018 fair use analysis. The proposed modifications do not meaningfully 
+expand the uses for which circumvention can be undertaken, but rather add 
+modest qualifiers that would ensure the exemption aligns with anti-discriminatory 
+spirit and letter of the 1976 Copyright Act, the Chafee Amendment, the HathiTrust 
+decision, and other existing disability laws. Analyzing the exemption under the 
+familiar four-factor fair use test confirms this conclusion.60 
+Purpose and Character. The purpose and character of the proposed 
+modifications continue to weigh in favor of fair use. The modifications do not alter 
+the core nature of the uses at issue, but merely when and how such uses will occur. 
+Accordingly, the Acting Register’s 2018 conclusion—that the purpose and character 
+of the existing exemption weighs in favor of fair use—is equally appropriate here. 61 
+                                                      
+56 Id. at 9-10 (internal citations and footnotes omitted). 
+57 2018 Recommendation at 101. 
+58 Id. 
+59 2020 NPRM, 85 Fed. Reg. at 65,298. 
+60 See 17 U.S.C. § 107. 
+61 See 2018 Recommendation at 97-98. 
+ 
+
+[PAGE 17]
+ 
+ 
+17 
+ 
+The Register reaffirmed this position in announcing her intent to recommend 
+renewal of the exemption in the 2020 NPRM.62 
+Petitioners’ proposed modifications reiterate and strengthen the exemption’s 
+purpose. Each modification works to remove one of the many barriers clouding an 
+EIUs ability to prevent discrimination against students, faculty, and staff with 
+disabilities. The purpose of these modifications is to further access that will provide 
+tangible benefits to people with disabilities in educational contexts. Accordingly, 
+the purpose and character of the modifications to the exemption weigh in favor of 
+fair use.  
+Nature of the Works: The proposed modifications likewise do not alter the 
+nature of the copyrighted works being used from the previous exemption. Thus, the 
+analysis for this second factor is the same. 
+As the above-signed organizations’ 2018 comment explained, “the proposed 
+exemption would cover access to motion pictures, which come in many formats and 
+genres.”
+63 In the words of the HathiTrust court, “[t]his does not preclude a finding 
+of fair use, however, given [the] analysis of the other factors.”64 The Acting 
+Register’s recommendation in 2018 echoes this conclusion.65 The Register again 
+reaffirmed this position in announcing her intent to recommend renewal of the 
+exemption in the 2020 NPRM.
+66 
+Amount and Substantiality: Likewise, the proposed modifications do not alter 
+the amount and substantiality of the works used from the 2018 exemption.67 EIU 
+professionals will continue to “use only what is necessary to convert motion 
+pictures into an accessible format[—] a partial replication of the original 
+copyrighted work. Adding captions and audio description to a video utilizes only 
+the aural and visual components of that video, respectively.”68 The Acting Register 
+stated in 2018 that this amount would “not weigh against a finding of fair use.’”69 
+The proposed modifications to the exemption do not seek to permit the use of 
+any additional portions of a video than were contemplated in the original 
+exemption. As such, the amount copied is “reasonable in relation to the purpose of 
+the copying.”70 The third factor thus weighs in favor of fair use, consistent with the 
+                                                      
+62 2020 NPRM, 85 Fed. Reg. at 65,298. 
+63 2018 Comment at 11. 
+64 Authors Guild v. HathiTrust, 755 F.3d 87, 102. (2d Cir. 2014). 
+65 2018 Recommendation at 101. 
+66 2020 NPRM, 85 Fed. Reg. at 65,298. 
+67 See 2018 Comment at 11. 
+68 Id. 
+69 2018 Recommendation, at 98-99 (quoting HathiTrust, 755 F.3d at 98). 
+70 See Campbell v. Acuff-Rose Music, Inc., 510 U.S. 569, 586 (1994). 
+ 
+
+[PAGE 18]
+ 
+ 
+18 
+ 
+Acting Register’s recommendation in 201871 and the Register’s announcement of 
+her intent to renew the exemption in the 2020 NPRM.72 
+Effect on the Market: The proposed modifications to the exemption would not 
+adversely affect the market or value of copyrighted works. The modifications would 
+not expand the type of accessibility uses permitted under the exemption, nor would 
+they meaningfully impact any aspect of the meager market for accessible versions 
+of videos used in educational contexts. The modifications merely seek to enable 
+EIUs to provide individuals with remediated materials only when remediated works 
+of sufficient quality are, as is often the case, unavailable in the market. Accordingly, 
+the fourth factor weighs in favor of fair use. 
+The Register’s 2018 Recommendation found the fourth factor weighed in favor 
+of fair use for the Exemption for two key reasons: 
+1. “[T]hat the overall market ha[d] not yet adequately met the needs of 
+individuals with disabilities by retroactively offering catalog videos in 
+accessible formats, and that in some cases, new works [were] not being issued 
+in accessible formats;” and  
+2. “[T]hat the accessible versions would be created from authorized versions of 
+motion pictures and would typically be disseminated through a password-
+protected mechanism providing accessible materials—as is traditionally done 
+by disability service professionals when—thereby reducing the likelihood of 
+negatively affecting the market for the copyrighted motion pictures.”
+73 
+The Register’s announcement of her intent to recommend renewal of the 
+exemption in the 2020 NPRM affirms that the market does not yet adequately meet 
+the need for accessible versions of motion pictures.74 Thus, because the market for 
+accessible works utilized by educational institutions has remained stagnant and 
+EIUs continue to restrict access to remediated works, the adverse market effects 
+continue to weigh in favor of fair use.  
+Until and unless the market for accessible works meets the demand for these 
+accessible works, the proposed modifications to the exemption will be necessary to 
+ensure fair use. This reality is underscored by the maintenance of the requirement 
+of a reasonable market check, subject to the proposed qualification of the 
+                                                      
+71 See 2018 Recommendation at 101. 
+72 2020 NPRM, 85 Fed. Reg. at 65,298. 
+73 2018 Recommendation, at 100-01 (footnotes omitted). 
+74 2020 NPRM, at 298 (“the Office believes that the conditions that led to adoption 
+of this exemption are likely to continue during the next triennial period.”). 
+ 
+
+[PAGE 19]
+ 
+ 
+19 
+ 
+commercial availability requirement to clarify the contours of the terms “reasonable 
+effort” and “fair price.”75  
+As the Register noted, “[w]hen an accessible version is not available in the 
+marketplace, the proposed use is less likely to interfere with the primary or 
+derivative markets for the motion picture.”76 Disability services professionals 
+continue to lament the lack of sufficiently acceptable remediated versions of 
+requested material on the open market,
+77 even though many disability services 
+professionals prefer materials that are “born” accessible in many circumstances 
+because remediation is timely and costly. But as the 2020 Notice of Proposed 
+Rulemaking confirms, the market does not fully serve the need for accessible videos 
+in educational contexts.
+78 Accordingly, the Register’s 2018 determination—that the 
+fourth factor weighs in favor of fair use79—is applicable here, too.  
+ Section 1201’s statutory factors weigh in favor of the proposed 
+modifications.  
+Under Section 1201(a)(1)(C), the Librarian examines five factors in 
+considering whether to grant an exemption: 
+1. The availability for use of copyrighted works; 
+2. The availability for use of works for nonprofit archival, preservation, and 
+educational purposes;  
+3. The impact that the prohibition on the circumvention of technological 
+measures applied to copyrighted works has on criticism, comment, news 
+reporting, teaching, scholarship, or research; 
+                                                      
+75 See discussion supra, Item E.2.iv. A publisher willing to include a remediated 
+version of a video with the purchase of a textbook at a reasonable market price 
+would meet the demand, for example, while a publisher willing to provide the 
+remediated version only after negotiations with an EIU professional for an 
+additional price would not. A protracted negotiation process would be inefficient 
+and time-consuming, and would therefore impede EIUs’ ability to provide students, 
+faculty, and staff with disabilities with their remediated works as quickly as 
+possible to prevent further discrimination. If a publisher wishes to provide a 
+remediated work of sufficient quality after the fact, the publisher may place it on 
+the open market at that point. 
+76 2018 Recommendation, at 100. 
+77 See discussion infra, Item F.1 (Statement of Jason Kapcala) & Item F.3 
+(Statement of Gretchen Rumsey-Richardson). 
+78 2020 NPRM, at 65,298 (“[T]he Office believes that the conditions that led to 
+adoption of the exemption are likely to continue during the next triennial period.”) 
+79 2018 Recommendation at 100-101. 
+ 
+
+[PAGE 20]
+ 
+ 
+20 
+ 
+4. The effect of circumvention of technological measures on the market for or 
+value of copyrighted works;  
+5. Such other factors as the Librarian considers appropriate.80 
+The Office has consistently found that the Section 1201(a)(1)(C) statutory 
+factors weigh in favor of accessibility-related exemptions for assistive 
+technologies.81 Likewise, the statutory factors weigh in favor of each of the 
+proposed expansions and revisions to the exemption for motion pictures: allowing 
+remediation for faculty and staff with disabilities; clarifying that the exemption 
+allows disability services professionals to proactively remediate videos; clarifying 
+that “accessible versions” are only accessible if they are of sufficient quality; 
+qualifying the commercial availability requirement to clarify the contours or the 
+terms “reasonable effort” and “fair price;” and clarifying that EIUs can reuse stored 
+accessible versions of videos. 
+i. Allowing the remediation of videos for faculty and staff would satisfy 
+the statutory factors.
+  
+Availability for Use of Copyrighted Works. In the 2020 NPRM, the Office 
+recommended a streamlined renewal of Section 201.40(b)(2)(i)(A), noting that 
+“[n]o oppositions were filed against readoption of this exemption” and that “[t]he 
+petition demonstrated the continuing need and justification for the exemption.”82 
+The Office recommended streamlined renewals for exemptions only after 
+determining “that, due to a lack of legal, marketplace, or technological changes, the 
+factors that led the Office to recommend adoption of the exemption in the prior 
+rulemaking will continue into the forthcoming triennial period.”
+83 Because faculty 
+and staff with disabilities require access to the same resources as students with 
+disabilities—for compara ble reasons—the first factor favors both the baseline 
+exemption and the proposed expansion. 
+The remediation for faculty and staff expansion is consistent with this analysis 
+because faculty and staff rely on the same educational resources that are made 
+                                                      
+80 17 U.S.C. § 1201(a)(1)(C).  
+81 See 2018 Recommendation at 104 (finding that all of the statutory factors favor 
+an exemption for disability services); 2015 Recommendation at 135-36 (finding 
+that all of the statutory factors strongly favor an exemption to facilitate assistive 
+technologies); Recommendation of the Register of Copyrights at 22 (Oct. 12, 
+2012), (“2012 Recommendation”) 
+https://cdn.loc.gov/copyright/1201/2012/Section_1201_Rulemaking_2012_Reco
+mmendation.pdf (finding that all of the statutory factors favored an exemption for 
+assistive technologies). 
+82 2020 NPRM, 58 Fed. Reg. at 65,298. 
+83 See id. at 65,294. 
+ 
+
+[PAGE 21]
+ 
+ 
+21 
+ 
+accessible to students via the baseline exemption. Allowing faculty and staff 
+meaningful access to these resources is necessary for EIUs to be able to fulfill their 
+educational and research goals. Expanding the exemption to include faculty and 
+staff would ensure that faculty and staff who are blind, visually impaired, deaf, or 
+hard of hearing are afforded equal access to the materials used in the educational 
+environment that are utilized by nondisabled faculty and staff. 
+Availability for Use of Works for Nonprofit Archival, Preservation, and 
+Educational Purposes. Although referencing a slightly different context, the Office 
+acknowledged in the 2020 NPRM that “educators and students continue to rely on 
+excerpts from digital media for class presentations and coursework.”
+84 Given the 
+commonplace use of videos in the educational setting, motion picture materials—
+including excerpts from digital media—must necessarily be made accessible to 
+students, faculty, and staff with disabilities. Faculty and staff with disabilities 
+require meaningful access to educational and training resources in order for EIUs to 
+accomplish their educational purposes. As such, this factor favors both the baseline 
+exemption and the proposed expansion. Expanding the exemption to include 
+faculty and staff would increase availability of educational and training resources 
+with meaningful access for faculty and staff with disabilities.
+ 
+Impact on Criticism, Comment, News Reporting, Teaching, Scholarship, or 
+Research. This factor favors the proposed expansion to the exemption for 
+substantially the same reasons stated for the first two factors.85 Faculty and staff 
+with disabilities require meaningful access to educational and training resources for 
+teaching, scholarship, and research purposes. Expanding the exemption is 
+necessary to provide them with this meaningful access. 
+Effect on the Market for or Value of Copyrighted Works. As discussed in the 
+context of fair use,
+86 expanding the exemption to include faculty and staff with 
+disabilities would have a negligible effect on the market value for motion pictures.  
+In the 2018 triennial rulemaking, the Acting Register emphasized a need for 
+the exemption to “take into account and further incentivize the marketplace 
+offerings, including by requiring a reasonable market check for usable copies, while 
+balancing the legitimate needs of disability services offices to create accessible 
+versions.”
+87 By requiring a reasonable market check for the exemption, the Acting 
+Register sought to “prevent copies being made of works already available in 
+accessible formats, while supporting the motion picture industry’s effort to further 
+expand the availability of accessible versions in the marketplace.”
+88 Because the 
+exemption would continue to require a reasonable market check even if it includes 
+                                                      
+84 Id. at 65,295. 
+85 See discussion supra, Item E.4.i & ii. 
+86 See discussion supra, Item E.3. 
+87 2018 Recommendation at 106. 
+88 Id. at 110. 
+
+[PAGE 22]
+ 
+ 
+22 
+ 
+faculty and staff with disabilities, this modification would not have a meaningfully 
+different effect on the market than the existing exemption. 
+Other Factors. The Office should consider that drawing a distinction between 
+“students with disabilities” and faculty and staff with disabilities is arbitrary and 
+would contradict the overarching logic of the exemption. The Acting Register 
+recommended in 2018 that the exemption be available “for units of an educational 
+institution engaged in and/or responsible for the provision of accessible options.”89 
+The Acting Register in 2018 noted that the proposed petition language was 
+intended to enable the work of “disability services offices, organizations that 
+support people with disabilities, libraries, and other units at educational institutions 
+that are responsible for fulfilling those institutions’ legal and ethical obligations to 
+make works accessible to people with disabilities.”90  
+As previously discussed, EIUs are obligated under disability laws to make 
+accessibility accommodations for employees with disabilities.91 The exclusion of 
+faculty and staff with disabilities from the existing exemption was an oversight that 
+should be clarified by expressly covering faculty and staff with disabilities. 
+ii. Clarifying that the exemption allows disability services professionals 
+to proactively remediate videos would satisfy the statutory factors. 
+Availability for Use of Copyrighted Works. Much like how the first statutory 
+factor favors the baseline exemption,92 the first statutory factor also favors altering 
+the current exemption language as necessary to make clear that EIUs can create 
+accessible versions proactively. Allowing for proactive remediation would create 
+greater availability of accessible copyrighted works and resources for people with 
+disabilities. 
+Currently, people with disabilities are being forced to wait for their 
+accommodation requests to be completed by disability services offices, even as 
+courses are simultaneously progressing.
+93 This forces people with disabilities into a 
+position of playing catch-up throughout the semester as they wait for their 
+accessible content, all while juggling their ongoing educational responsibilities.94 
+Allowing disability services offices to make captions and audio descriptions for 
+people with disabilities without requiring that they first submit formal 
+                                                      
+89 Id. at 107. 
+90 Id. (emphasis added). 
+91 See discussion supra, Item E.2.i. 
+92 See discussion supra, Item E.4.i. 
+93 See discussion infra, Item F.1 (Statement of Jason Kapcala) & Item F.3 
+(Statement of Gretchen Rumsey-Richardson). 
+94 See discussion infra, Item F.3 (Statement of Gretchen Rumsey-Richardson). 
+ 
+
+[PAGE 23]
+ 
+ 
+23 
+ 
+accommodation requests would make these necessary resources available sooner, 
+thereby improving their availability. 
+Availability for Use of Works for Nonprofit Archival, Preservation, and 
+Educational Purposes. Altering the current exemption language to make clear that 
+EIUs can create accessible versions proactively would create greater availability for 
+meaningful access of content for educational purposes. The 2020 NPRM affirmed 
+both that there is a need for the accessibility exemption going forward and that this 
+need is “likely to increase significantly in light of the ongoing COVID–19 pandemic 
+as many educational institutions shift to online learning and the use of digital 
+multimedia by faculty increases.”
+95 As such, it is imperative that unnecessary 
+delays—such as the requirement for formal accommodation requests before 
+disability services offices make captions and audio descriptions—be eliminated so 
+that people with disabilities are not hindered in receiving meaningful access to 
+resources for educational purposes. 
+Impact on Criticism, Comment, News Reporting, Teaching, Scholarship, or 
+Research. This factor favors the proposed expansion to the exemption for 
+substantially the same reasons stated in the first two factors.
+96 People with 
+disabilities require meaningful access to educational and training resources for 
+teaching, scholarship, and research purposes. To provide them with this meaningful 
+access, it is critical to modify the current exemption language so as to make clear 
+that EIUs can create accessible versions proactively. 
+Effect on the Market for or Value of Copyrighted Works. As discussed in the 
+context of fair use,
+97 revising the exemption’s language to make clear that EIUs can 
+create accessible versions proactively would have a negligible effect on the market 
+value for motion pictures. Given that the exemption would still require a 
+reasonable market check before disability services offices could proactively make 
+content accessible,
+98 the revised language would not have a negative impact on the 
+market. Proactive remediation would only become necessary if disability services 
+offices determined, after a reasonable market check, that there is no accessible 
+version of the content. 
+iii. Clarifying that “accessible versions” are only accessible if they are of 
+sufficient quality would satisfy the statutory factors. 
+Availability for Use of Copyrighted Works. The Register affirmed in the 2020 
+NPRM that this factor favors the baseline exemption.
+99 Revising the exemption’s 
+                                                      
+95 2020 NPRM, 85 Fed. Reg. at 65,298. 
+96 See discussion supra, Item E.4.ii. 
+97 See discussion supra, Item E.3. 
+98 See 37 C.F.R. § 201.40(b)(2)(i)(B). 
+99 See discussion supra, Item E.4.i. 
+ 
+
+[PAGE 24]
+ 
+ 
+24 
+ 
+language to clarify that “accessible versions” are not accessible unless they are of 
+sufficient quality is consistent with this analysis. 
+The Acting Register recognized in 2018 that “[a]n exception to promote 
+accessibility ‘is not merely a matter of convenience, but is instead intended to 
+enable individuals [with disabilities] to have meaningful access to the same content 
+that individuals without such impairments are able to perceive.’”
+100 Clarifying the 
+exemption’s language would create greater availability of resources with 
+meaningful access for people with disabilities, as it would allow disability services 
+professionals to proceed in efforts to make accessible content without fear of 
+liability when captioned or audio described versions of a video technically exist but 
+are of such haphazard quality that they are functionally inaccessible for people with 
+disabilities.
+101  
+Availability for Use of Works for Nonprofit Archival, Preservation, and 
+Educational Purposes. For substantially the same reasons previously discussed 
+regarding access to resources for educational purposes,102 this factor supports both 
+the baseline exemption and the proposed addition of clarifying language. The same 
+factors that justified an exemption to grant people with disabilities meaningful 
+access to resources are still present, and therefore justify clarifying ambiguous 
+language so as to ensure that people with disabilities still have meaningful access. 
+Impact on Criticism, Comment, News Reporting, Teaching, Scholarship, or 
+Research. This factor favors clarifying the exemption’s ambiguous language for 
+substantially the same reasons stated with respect to the first two factors.
+103 People 
+with disabilities require meaningful access to educational and training resources for 
+teaching, scholarship, and research purposes. To provide them with this meaningful 
+access, it is necessary to alter the current exemption language so as to make clear 
+that educational and training content is only considered an “accessible version” 
+when it is of sufficient quality.
+ 
+Effect on the Market for or Value of Copyrighted Works. Revising the exemption’s 
+language to make clear that only versions of sufficient quality are considered 
+“accessible” would have a negligible effect on the market value for videos. Given 
+that the exemption would still require a reasonable market check before disability 
+services offices could circumvent TPMs,
+104 the revised language would not have a 
+negative impact on the market. In circumstances where there are already existing 
+versions of educational or training resources but they are functionally inaccessible 
+due to their poor quality, then people with disabilities are unable to access these 
+                                                      
+100 2018 Recommendation at 104 (internal citations omitted). 
+101 See discussion supra, Item E.2.iii. 
+102 See discussion supra, Item E.4.i. 
+103 See discussion supra, Item E.4.iii. 
+104 See 37 C.F.R. § 201.40(b)(2)(i)(B). 
+ 
+
+[PAGE 25]
+ 
+ 
+25 
+ 
+versions on equal terms.105 As a result, the remediation of these works does not 
+impact a cognizable market. 
+Other Factors. Revising the exemption’s language such that “sufficient quality” 
+is required for content to be considered “accessible” is a simple and common-sense 
+way to ensure that people with disabilities are truly receiving the meaningful access 
+to which they are entitled. The baseline exemption itself was created under the 
+assumption that it would allow people with disabilities to receive captions and 
+audio descriptions sufficient to facilitate access to their educational and training 
+content.106 The Office has historically supported exemptions that provide 
+meaningful access of resources for people with disabilities.107 Furthermore, by 
+passing several laws specifically centered around providing people with disabilities 
+meaningful access to opportunities and resources, Congress has clearly shown its 
+strong support for meaningful disability accessibility as well.
+108 Revising the 
+exemption’s language to resolve its current ambiguity is both rational and 
+necessary in order to fulfill the baseline exemption’s intended purpose and secure 
+meaningful access for people with disabilities.
+ 
+iv. Qualifying the commercial availability requirement to clarify the terms 
+“reasonable effort” and “fair price” would satisfy the statutory factors. 
+Availability for Use of Copyrighted Works. In its current form, the exemption’s 
+ambiguous “reasonable effort” and “fair price” requirements raise the possibility 
+that publishers can insist on extra payment to remediate videos included with 
+textbooks.109 Though publishers may make remediated versions of these works 
+available to disability services professionals and thereby obviate the need for 
+circumvention, disability services professionals and the students, faculty, and staff 
+that they serve should not have to pay a higher price for these works than their 
+non-disabled counterparts. As such, the first factor favors modifying the exemption 
+to clarify that a disability services professional has met the “reasonable effort” 
+requirement when the publisher has not included an accessible version of the 
+materials with a purchased textbook. 
+                                                      
+105 See discussion supra, Item E.2.iii. 
+106 See 2018 Recommendation at 107 (“[T]he Acting Register concludes that the 
+prohibition on circumvention is adversely affecting the ability of educational 
+institutions to offer accessible formats of motion pictures on an equal basis in 
+conformance with their legal responsibilities.”). 
+107 See id. (“The Acting Register is sensitive to the need to ensure that access 
+controls do not prevent students with disabilities from gaining meaningful access to 
+motion pictures distributed in electronic formats.”). 
+108 See discussion supra, Item E.2. 
+109 See discussion infra, Item F.1 (Statement of Jason Kapcala). 
+ 
+
+[PAGE 26]
+ 
+ 
+26 
+ 
+Availability for Use of Works for Nonprofit Archival, Preservation, and 
+Educational Purposes. Revising the language in the existing exemption to qualify the 
+commercial availability requirement would self-evidently serve an educational 
+purpose. Revising the exemption’s language would allow for greater availability of 
+accessible resources for people with disabilities to use for educational purposes, as 
+well as discouraging publishers from acting in bad faith by refusing to provide 
+remediated versions of works unless paid extra cost. 
+Impact on Criticism, Comment, News Reporting, Teaching, Scholarship, or 
+Research. Through the passage of the ADA, Section 504, and IDEA, Congress has 
+evinced a clear intent that educational resources be made accessible for people 
+with disabilities.110 Notably, the 2018 rulemaking recommendation highlighted 
+that the ADA is imbued with “principles against imposing unnecessary costs to 
+improve accessibility for people with disabilities.”111 As such, the third factor favors 
+revising the exemption to include language clarifying that an EIU has met the 
+“reasonable effort” requirement when the publisher has not included an accessible 
+version of the materials with a purchased textbook. 
+Effect on the Market for or Value of Copyrighted Works. In its current form, the 
+ambiguous language in the “reasonable effort” requirement may serve as an 
+incentive for publishers to withhold accessible versions of motion pictures from the 
+market.112 By not providing accessible versions of content at the outset, publishers 
+can tack on additional profits by demanding additional fees for generating 
+accessible versions.113 The fourth factor favors revising the exemption to include 
+language clarifying that an EIU has met the “reasonable effort” requirement when 
+the publisher has not included an accessible version of the materials with a 
+purchased textbook. 
+v. Clarifying that EIUs can reuse remediated resources would satisfy the 
+statutory factors. 
+Availability for Use of Copyrighted Works. In its current form, the ambiguous 
+language in Rule 201.40(b)(2)(i)(C)114 has left disability services offices uncertain 
+of whether they are allowed to store accessible versions of videos created such that 
+they may be used for future accommodation requests. In the 2018 rulemaking 
+recommendation, the Acting Register explained that the accessible versions should 
+                                                      
+110 See discussion supra, Item E.2. 
+111 2018 Recommendation at 103. 
+112 See discussion infra, Item F.1 (Statement of Jason Kapcala). 
+113 See discussion infra, Item F.1 (Statement of Jason Kapcala). 
+114 37 C.F.R. § 201.40(b)(2)(i)(C). 
+ 
+
+[PAGE 27]
+ 
+ 
+27 
+ 
+be stored “by the educational institution in a manner that reasonably prevents” 
+unauthorized dissemination of the work.115  
+Given that courses often utilize the same videos each time that they are taught, 
+certain videos may require accessible versions in multiple semesters. However, 
+some EIUs are currently disposing of accessible versions at the end of semesters, 
+and then creating accessible versions of the same videos in subsequent 
+semesters.116 Revising the language to clarify that EIUs can reuse stored accessible 
+versions would still comport with the Acting Register’s intentions, as the accessible 
+versions would only be distributed to people with disabilities who need 
+accommodations. 
+Availability for Use of Works for Nonprofit Archival, Preservation, and 
+Educational Purposes. For substantially the same reasons as the first factor, the 
+second factor favors revising the language in the exemption to clarify that EIUs can 
+reuse accessible versions of educational resources for educational purposes. 
+Impact on Criticism, Comment, News Reporting, Teaching, Scholarship, or 
+Research. The prohibition on the circumvention of technological measures applied 
+to copyrighted works impacts teaching by limiting the tools available for teachers 
+when teaching individuals with disabilities. As a result, students face unnecessary 
+delays and complications while waiting for an accessible version to be created, and 
+EIUs incur the cost of creating subsequent accessible versions of videos that they 
+had already made accessible before.117 The third factor thereby favors revising the 
+exemption to add clarifying language making clear that an EIU can reuse stored 
+accessible versions. 
+Effect on the Market for or Value of Copyrighted Works. Revising the exemption 
+to clarify the exemption’s ambiguous language would have a negligible effect on 
+the market for and value of motion pictures. People with disabilities are entitled to 
+accessible versions of educational resources as per the ADA, Section 504, and the 
+IDEA.
+118 As such, providing accessible versions of videos in the educational context 
+to people with disabilities is non-infringing fair use, even if those accessible 
+versions were created in a previous semester. Furthermore, disability service offices 
+will remain bound by the exemption’s reasonable market check requirement to 
+search for accessible versions before circumvention can take place.
+119 Thus, any 
+accessible versions already in existence will be located during the course of the 
+reasonable market check. 
+  
+                                                      
+115 2018 Recommendation at 110. 
+116 See discussion infra, Item F.1 (Statement of Jason Kapcala) 
+117 See discussion infra, Item F.1 (Statement of Jason Kapcala) & Item F.3 
+(Statement of Gretchen Rumsey-Richardson). 
+118 See discussion supra, Item E.2. 
+119 See 37 C.F.R. § 201.40(b)(2)(i)(B). 
+
+[PAGE 28]
+ 
+ 
+28 
+ 
+* * * 
+For the foregoing reasons, Section 1201 imposes adverse effects on the ability 
+of disability services professionals to make works accessible to people with 
+disabilities. As such, the Office should recommend, and the Librarian should accept, 
+expanding the language in the current exemption for motion pictures to address 
+the need for remediation for faculty and staff, proactive remediation, “accessible 
+versions” of sufficient quality, qualifying the commercial availability requirement, 
+and reuse of remediated materials. 
+Item F. Documentary Evidence 
+ Statement of Jason Kapcala, Assistant Director of Captioning and 
+Interpreting at West Virginia University 
+The current exemption to Section 1201 of the DMCA is crucial for providing 
+closed captioning accommodations for students with disabilities. However, much is 
+left to interpretation when it comes to proactively making media accessible for 
+unidentified students with disabilities and other stakeholders. More colleges and 
+universities are adopting ethical principles of Universal Design which make 
+accessibility a standard practice in all classrooms. We know, based on studies 
+conducted by the Office of Communications, that 80% of people who use 
+captioning regularly do not identify as deaf or hard of hearing, while 41% of videos 
+are incomprehensible to them without captioning. We also project that only about 
+1/3 of students with disabilities on our campus request accommodations. That does 
+not obviate our responsibility to provide equal access for the other 2/3 who choose 
+not to self-identify. 
+Like many colleges and universities, we require that online courses pass a 
+Quality Matters screening to ensure that content is fully accessible and adherent to 
+the international standard of accessibility, the Web Content Accessibility 
+Guidelines, WCAG 2.1. As a matter of compliance with these standards, videos 
+must have closed captioning, irrespective of whether a formal request has been 
+made by someone with a disability. As the exemption is currently written, it is 
+unclear if a school, wishing to ensure or mandate that all video content shown in 
+class be shown with effective captioning, can take proactive steps to create 
+captions. 
+Additionally, it is unclear if a school, having created closed captions for a class, 
+may securely store that captioned media for reuse in future classes. Most 
+introductory courses use a standard curriculum across all sections. This curriculum 
+is used semester after semester, and the video content infrequently changes. Every 
+semester, we have students enrolled in these courses who are deaf and hard of 
+hearing. The commonsense approach would be to caption these videos once, store 
+the captions, and reuse them, rather than recreating the same captions over and 
+over, which is costly and time-consuming, and which could result in unnecessary 
+delays that expose the University to liability. With an increase in the number of 
+[PAGE 29]
+ 
+ 
+29 
+ 
+high-profile Department of Justice Office of Civil Rights complaints being filed over 
+inaccessible media, this is not merely a speculative concern. A more efficient 
+approach would be to ensure that accessible media is shown in every section, every 
+semester, as a standard practice. 
+Captioning remains a time-consuming process. According to a survey 
+conducted by our office, it takes a trained transcriber approximately seven hours to 
+create a captioned version of a one-hour video. Having media proactively captioned 
+also means that, at the beginning of a semester, when students are changing their 
+schedules, adding and dropping classes before the final deadline, disability service 
+offices would be better equipped to provide accessible media content in a timely 
+manner. 
+Quality remains another important consideration. We have developed in-house 
+Closed Captioning Quality Guidelines, based on the National Association of the 
+Deaf’s Described and Captioned Media Program Captioning Key, to ensure that all 
+captioned media meets a standard necessary for effective accommodation in a 
+higher education classroom. These guidelines cover not only caption accuracy but 
+also matters such as punctuation, speaker identifiers, non-verbals, line breaking, 
+timing, visual contrast, and caption placement/orientation. This is especially 
+important for native sign language users for whom English is a second language. 
+We have yet to encounter a machine-generated or autogenerated caption program 
+that has been able to meet these standards. For example, during recent testing of a 
+new machine-generated captioning product to determine its suitability to the 
+higher-education classroom, we discovered that the product continually took the 
+spoken phrase, “These captions are terrible” and captioned them as “These captions 
+are bearable.” Obviously, that changes the entire meaning of the content, and could 
+have severe ramifications for a student in an academic classroom. We encounter 
+similar issues with the auto-captioning provided for the video content available to 
+millions of hearing individuals already on YouTube. Most auto-captions don’t even 
+come close to meeting our standards and are largely unusable. As written, the 
+exemption is unclear if a school may establish quality standards and create new 
+captions if/when it finds that existing captions are insufficient. 
+Finally, just this past semester, we encountered a situation in an advanced 
+Forensics class where an online textbook included video content that was not 
+captioned. We reached out to the publisher, and they were willing to create a 
+captioned version (albeit with some delay, as they did not have any captioning 
+experts on staff). Had this delay persisted, we would have liked the option to 
+caption the media ourselves in order to provide the content to the student in a 
+reasonable time frame. A question has been raised as to whether offices like ours 
+would be willing to pay for a publisher to remediate existing media content to 
+make it accessible at extra cost. This feels like an opportunistic request to profit off 
+the need for accessibility and accommodation. If a student has already purchased 
+the textbook or supplemental material, then there should be no additional charge 
+to make that material accessible. 
+[PAGE 30]
+ 
+ 
+30 
+ 
+In closing, it is worth noting that the current COVID-19 pandemic has only 
+intensified captioning needs, with more students requesting accommodation and 
+more classes moving online. At the time of this writing, the demand for media 
+captioning here has gone up 849% compared to pre-pandemic semesters. There is 
+currently a nationwide shortage of speech-to-text service providers, resulting in 
+increased turn-around times for captioning requests and new concerns that caption 
+quality could suffer. The need to meet demand, to respond proactively to the call 
+for accessibility, to create and reuse captions efficiently, to promote timely delivery, 
+and to ensure caption quality and accuracy, is more important now than ever 
+before. 
+  
+[PAGE 31]
+ 
+ 
+31 
+ 
+ Statement of Anonymous Disability Services Professional 
+I am a disability services professional and I work at a medium sized institution. 
+My job responsibilities include serving a significant number of deaf and hard of 
+hearing students in the student population.  
+Remediation for Faculty and Staff: We have a lot of deaf and hard of hearing 
+staff at our institution. While another department handles requests for 
+employment-related requests, my department captions and describes videos for 
+faculty intending to use video in class—including in circumstances where the 
+faculty member has a disability. To request captions, the faculty member logs onto 
+our website and checks a box stating the video is for a credit-bearing course and 
+they have to enter in the course number—then we caption  it. There has been a 
+significant uptake this year in captioning requests—about four times as much —as a 
+result of the virtual learning requirements of the pandemic. 
+Proactive Remediation: With the number of deaf or hard of hearing students 
+that attend my school, we must proactively remediate inaccessible video. Generally, 
+the faculty submit a request for any videos they intend to use in their class to be 
+captioned. There is a blanket mandate under our university’s policy that all videos 
+need to be captioned. It would not be possible to caption at the volume that we do 
+if we had to wait for a student accommodation request before remediating 
+classroom materials. 
+Qualifying the Commercial Availability Requirement: The policies at my 
+school regarding accessibility would prevent the kinds of circumstances where a 
+publisher will only provide an accessible version at extra cost. The faculty know 
+that they can only use audiovisual works that are either already captioned or can 
+be captioned by my office; the Provost sends out a notice to all faculty members 
+that all of their material must be captioned. 
+Reuse of Remediated Resources: Our library stores the DVDs that have been 
+remediated—we have a separate server that holds that content and it is shared 
+across the faculty. The DVDs themselves are set to be available for a limited time, 
+and they are no longer shared with the faculty member when the faculty member is 
+supposed to be done using them in their class. Instructors request the use of DVD 
+content whenever necessary. We keep captioned videos and reuse them via our 
+library system. Faculty have their own libraries on our server and this is where they 
+store their classroom videos. Faculty members can log into their server, place files, 
+add metadata, and stream. The streams are obfuscated. This is a streaming solution 
+that is integrated so as to limit access. However, many courses use the same 
+content semester after semester, so it would be inefficient to re-remediate every 
+classroom every semester. 
+* * * 
+The current exemption was a good first step towards helping students with 
+disabilities have access to necessary resources for their classes. However, three 
+years have shown that the exemption has some flaws that still need to be fixed. 
+ 
+[PAGE 32]
+ 
+ 
+32 
+ 
+ 
+ Statement of Gretchen Rumsey-Richardson, Deaf and Hard-of-Hearing 
+Services Manager at a Higher Education Institution120 
+I have worked in the field of Deaf and hard-of-hearing equal communication 
+access services for over 15 years and equitable access is extremely important to me. 
+I am continually aware of situations where, despite best efforts on the part of 
+service providers, many D/deaf and hard-of-hearing students still do not have 
+equitable access to their education for a variety of reasons. There are institutional 
+barriers to the timely captioning of content already and laws related to captioning 
+present further barriers in making that content accessible.  How will our society 
+ever evolve to be more inclusive, accessible, and equitable if there are laws 
+that prevent us from making it so?
+ 
+It is possible for content and the environment to be accessible from the start by 
+following universal design principles. In this way, a student with disabilities does 
+not have to go through extra effort to have access to the material, and they would 
+have access at the same time as their non-disabled peers. This is true equity.
+ 
+But we do not live in a world that is universally designed, and so students with 
+disabilities at most colleges and universities must go through a litany of steps 
+before they have equitable access: they must see a doctor to get documentation of 
+their disabilities so that they can receive accommodations; they have to meet with 
+the disability service office to explain the barriers they’re facing due to their 
+disabilities; they must request the accommodations they want to use in each class 
+they take; they have to check in regularly with their disability services 
+representative and their instructors regarding their accommodations; they have to 
+reach out when a remediated video is not displaying correctly, etc. This is in 
+addition to the work all students must do. I think it’s possible to live in a world 
+where some, if not all, of these extra steps are reduced or eliminated, and in return, 
+we will have more participation from a diverse population of individuals, which 
+will only benefit academia and society as a whole. 
+ 
+Disability services is inherently very reactive, always scrambling to remediate 
+content so that students have equitable access to the content. The captioning 
+process generally takes at least three times the length of the video, sometimes more 
+depending on the audio quality, accents, terminology, etc. Further, as our 
+university has turned to remote learning due to the COVID-19 pandemic, 
+captioning requests have dramatically increased and most classes have anywhere 
+from 3 to 12 videos per week. Being able to proactively caption content would 
+eliminate, or at the very least reduce, the delay the student with disabilities 
+experiences in receiving their accessible content.  Whenever possible, students with 
+                                                      
+120 This statement represents Ms. Rumsey-Richardson’s personal views and not 
+necessarily those of her employers. 
+
+[PAGE 33]
+ 
+ 
+33 
+ 
+disabilities should have equitable access to the content at the same time as their 
+non-disabled peers, and proactively captioning would help achieve that. 
+The first step I take when I receive a captioning request is to search for 
+previously captioned versions. However, it is not uncommon for captions to be 
+lacking, inaccurate, or not following captioning standards and best practices. On 
+several occasions I have had to edit closed captions due to inaccuracies and a 
+complete lack of atmospherics. Oftentimes, supposed “closed captions” are actually 
+just subtitles, as they do not include explanations of non-verbal sounds. While I do 
+want to ensure content is compliant, my main concern is that it is equitable to the 
+students I was hired to specifically serve. Subtitles are not equitable for students 
+who are D/deaf or hard-of-hearing; they need actual closed captions.
+121 
+A lack of clarity in the law prohibits the storage of captioned content, which 
+generates more work, causes delays in getting the D/deaf or hard-of-hearing 
+student their accessible material, and is yet another structural barrier that impedes 
+equitable access.  Instructors tend to reuse content in their courses, especially 
+lower-level general graduation requirement courses. Because of this, service 
+providers often re-caption the same videos quarter after quarter.  This wastes time 
+and resources. We are regularly faced with more captioning requests than a small 
+team can coordinate or caption in-house in a work week, and re-captioning videos 
+is inefficient.
+ 
+People who are D/deaf or hard-of-hearing must constantly transverse an 
+inaccessible world and it is exhausting to have to work so much harder than their 
+peers. While I work tirelessly to address the barriers posed by inaccessible content, 
+it is doubly frustrating that structural barriers ultimately limit genuine efforts 
+towards creating a system of equity. Reforms to Section 1201 would help facilitate 
+progress towards accessibility and equity, which is long overdue. 
+                                                      
+121 National Deaf Center, Why Captions Provide Equal Access, 
+https://www.nationaldeafcenter.org/sites/default/files/Why%20Captions%20Prov
+ide%20Equal%20Access.pdf (last visited Dec. 14, 2020). 

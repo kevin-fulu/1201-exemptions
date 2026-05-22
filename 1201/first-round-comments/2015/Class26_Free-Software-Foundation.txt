@@ -1,0 +1,36 @@
+[PAGE 1]
+Short Comment Regarding a Proposed Exemption Under 17 U.S.C. 1201
+Item 1. Commenter Information
+Joshua Gay & Donald Robertson, III
+Free Software Foundation, Inc.
+51 Franklin Street, Fifth Floor
+Boston, MA 02110-1335
+licensing@fsf.org
+This comment is ﬁled by the Free Software Foundation, a charitable corporation founded in 1985. The
+Foundation is the largest single contributor to the GNU operating system (used widely today in its GNU/Linux
+variant). The Foundation’s GNU General Public License is the most widely used free software license, covering
+major components of the GNU operating system and tens of thousands of other computer programs used on
+hundreds of millions of computers around the world.
+Item 2. Proposed Class Addressed
+Proposed Class 26: Software—3D Printers
+Item 3. Statement Regarding Proposed Exemption
+The GNU/Linux operating system has become one of the most widely used operating systems on the planet.
+The GNU System and the kernel Linux are called free software, because users are free to study, share and
+improve the software. Those who promote free software believe that controlling ones own computing should
+be a universal right.
+Digital restrictions interfere with the ability to enjoy these freedoms. Circumventing such restrictions for any
+non-infringing use should not come with the threat of legal sanction. The process of continually applying
+for exemptions under 17 U.S.C. 1201 is onerous and instead any circumvention for a non-infringing purpose
+should be permitted.
+However, where exemptions are used to safeguard the public from these laws, it must be the case that
+exemptions should cover the sharing and distribution of software and instructions for circumventing access
+controls technologies. Without this, exemptions are near useless, since it would require everyone who wants
+to act within their scope to write their own software to do so.
+3D printing technology makes use of additive processes in which successive layers of material are laid down
+under computer control. 3D printers are able to handle a wide variety of materials. Popular consumer 3D
+printers often use plastics. However, scientists and researchers also make use of 3D printers to do “bioprinting,”
+which make print layers of cell patterns to form a 3D printed construct in which the cell function and viability
+remain preserved. Access control mechanisms should not be used to restrict how a person makes use of
+such machinery or what materials can be fed into them. If such access controls are used in such technology,
+circumvention of such access controls is essential for a user to be able to make use of and control ones machine.
+1

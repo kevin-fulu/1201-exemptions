@@ -1,0 +1,232 @@
+{
+  "cycle": 2015,
+  "final_rule_file": "1201/Final Rules/2015-Final-Rule.txt",
+  "codified_text_starts_pdf_page": 18,
+  "extractor_notes": "Extracted by main session after sub-agent content-filter blocks. INDEX.md mislabels (b)(9) as 'Computer programs in machines no longer supported'; the actual (b)(9) is the 3D-printers feedstock class. Total codified classes = 10, matching INDEX.md's listed count but with the label correction noted.",
+  "exemptions": [
+    {
+      "class_number": "(b)(1)",
+      "equipment_or_work": "Motion pictures (including television shows and videos)",
+      "permitted_uses": [
+        "Make use of short portions for criticism or comment in documentary filmmaking (i)",
+        "Make use of short portions for criticism or comment in noncommercial videos including paid-commissioned noncommercial uses (ii)",
+        "Make use of short portions for criticism or comment in nonfiction multimedia e-books offering film analysis (iii)",
+        "Make use of short portions for criticism or comment by college/university faculty and students for educational purposes (iv)",
+        "Make use of short portions for criticism or comment by MOOC faculty at accredited nonprofit institutions for educational purposes, subject to enrolled-student limits and copyright safeguards (v)",
+        "Make use of short portions for criticism or comment by K-12 educators (including GED) for educational purposes (vi)",
+        "Make use of short portions for criticism or comment by K-12 students (including GED) for educational purposes, using screen-capture only (vii)",
+        "Make use of short portions for criticism or comment by educators and participants in nonprofit digital/media-literacy programs, in face-to-face instruction, using screen-capture only (viii)"
+      ],
+      "exclusions": [
+        "Sole purpose limited to short portions for criticism or comment (not general copying)",
+        "For DVD/Blu-ray/digital-transmission sources, person must reasonably believe screen-capture or other non-circumventing alternatives cannot produce the required quality",
+        "Sources limited to CSS-protected DVDs, AACS-protected Blu-ray, or digitally-transmitted motion pictures protected by a TPM (for (B)-branch uses)",
+        "K-12 student use (vii) and digital/media-literacy use (viii) restricted to screen-capture only (no full circumvention)",
+        "MOOC use (v) requires technological measures preventing further dissemination and limiting transmissions to officially enrolled students"
+      ],
+      "definitions_or_conditions": [
+        "Motion pictures as defined in 17 U.S.C. 101",
+        "Source content must be 'lawfully acquired and decrypted' before screen-capture",
+        "MOOCs must comply with 17 U.S.C. 110(2)-style conditions including copyright policies and informational materials"
+      ],
+      "source": {
+        "file": "1201/Final Rules/2015-Final-Rule.txt",
+        "pdf_pages": [18, 19],
+        "txt_line_range": [3799, 3990],
+        "quote": "(1) Motion pictures (including television shows and videos), as defined in 17 U.S.C. 101, where circumvention is undertaken solely in order to make use of short portions of the motion pictures for the purpose of criticism or comment in the following instances: (i) For use in documentary filmmaking, (A) Where the circumvention is undertaken using screen-capture technology that appears to be offered to the public as enabling the reproduction of motion pictures after content has been lawfully acquired and decrypted, or (B) Where the motion picture is lawfully made and acquired on a DVD protected by the Content Scramble System, on a Blu-ray disc protected by the Advanced Access Control System, or via a digital transmission protected by a technological measure, and where the person engaging in circumvention reasonably believes that screen-capture software or other non-circumventing alternatives are unable to produce the required level of high-quality content; (ii) For use in noncommercial videos (including videos produced for a paid commission if the commissioning entity's use is noncommercial), (A) [screen-capture branch], or (B) [DVD/Blu-ray/digital-transmission branch]; (iii) For use in nonfiction multimedia e-books offering film analysis, (A) ..., or (B) ...; (iv) By college and university faculty and students, for educational purposes, (A) ..., or (B) In film studies or other courses requiring close analysis of film and media excerpts ...; (v) By faculty of massive open online courses (MOOCs) offered by accredited nonprofit educational institutions to officially enrolled students through online platforms ... (A) ..., or (B) ...; (vi) By kindergarten through twelfth-grade educators, including of accredited general educational development (GED) programs, for educational purposes, (A) ..., or (B) ...; (vii) By kindergarten through twelfth-grade students, including those in accredited general educational development (GED) programs, for educational purposes, where the circumvention is undertaken using screen-capture technology ...; and (viii) By educators and participants in nonprofit digital and media literacy programs offered by libraries, museums and other nonprofit entities with an educational mission, in the course of face-to-face instructional activities for educational purposes, where the circumvention is undertaken using screen-capture technology ..."
+      }
+    },
+    {
+      "class_number": "(b)(2)",
+      "equipment_or_work": "Literary works distributed electronically (accessibility)",
+      "permitted_uses": [
+        "Circumvent TPMs that prevent read-aloud functionality or interfere with screen readers or other assistive technologies",
+        "When lawfully obtained by a blind or other person with a disability as defined in 17 U.S.C. 121, provided rights owner is remunerated for the mainstream copy",
+        "When the work is a nondramatic literary work lawfully obtained and used by an authorized entity pursuant to 17 U.S.C. 121"
+      ],
+      "exclusions": [
+        "Rights owner must be remunerated, as appropriate, for the price of the mainstream copy of the work (for individual-disability use)",
+        "Authorized-entity use limited to nondramatic literary works"
+      ],
+      "definitions_or_conditions": [
+        "'Blind or other person with a disability' defined by reference to 17 U.S.C. 121",
+        "'Authorized entity' as used in 17 U.S.C. 121"
+      ],
+      "source": {
+        "file": "1201/Final Rules/2015-Final-Rule.txt",
+        "pdf_pages": [19],
+        "txt_line_range": [3991, 4011],
+        "quote": "(2) Literary works, distributed electronically, that are protected by technological measures that either prevent the enabling of read-aloud functionality or interfere with screen readers or other applications or assistive technologies, (i) When a copy of such a work is lawfully obtained by a blind or other person with a disability, as such a person is defined in 17 U.S.C. 121; provided, however, that the rights owner is remunerated, as appropriate, for the price of the mainstream copy of the work as made available to the general public through customary channels, or (ii) When such work is a nondramatic literary work, lawfully obtained and used by an authorized entity pursuant to 17 U.S.C. 121."
+      }
+    },
+    {
+      "class_number": "(b)(3)",
+      "equipment_or_work": "Wireless devices (handsets, tablets, mobile hotspots/modems, wearables) — unlocking, used devices only",
+      "permitted_uses": [
+        "Circumvent programs that enable wireless devices to connect to a wireless telecommunications network, solely to connect to a network whose operator authorizes the connection",
+        "Covered device classes: wireless telephone handsets (cellphones); all-purpose tablet computers; portable mobile connectivity devices (mobile hotspots, removable wireless broadband modems); wearable wireless devices designed to be worn (smartwatches, fitness devices)"
+      ],
+      "exclusions": [
+        "Device must be 'used' — previously lawfully acquired and activated on a wireless carrier's network",
+        "Circumvention only to connect to a network where the operator authorizes the connection"
+      ],
+      "definitions_or_conditions": [
+        "'Used device' = device that has previously been lawfully acquired and activated on the wireless telecommunications network of a wireless carrier"
+      ],
+      "source": {
+        "file": "1201/Final Rules/2015-Final-Rule.txt",
+        "pdf_pages": [19, 20],
+        "txt_line_range": [4012, 4041],
+        "quote": "(3)(i) Computer programs that enable the following types of wireless devices to connect to a wireless telecommunications network, when circumvention is undertaken solely in order to connect to a wireless telecommunications network and such connection is authorized by the operator of such network, and the device is a used device: (A) Wireless telephone handsets (i.e., cellphones); (B) All-purpose tablet computers; (C) Portable mobile connectivity devices, such as mobile hotspots, removable wireless broadband modems, and similar devices; and (D) Wearable wireless devices designed to be worn on the body, such as smartwatches or fitness devices. (ii) A device is considered 'used' for purposes of this exemption when it has previously been lawfully acquired and activated on the wireless telecommunications network of a wireless carrier."
+      }
+    },
+    {
+      "class_number": "(b)(4)",
+      "equipment_or_work": "Smartphones and portable all-purpose mobile computing devices — jailbreaking",
+      "permitted_uses": [
+        "Execute lawfully obtained software applications, where circumvention enables interoperability of such applications with on-device programs",
+        "Permit removal of software from the smartphone or device"
+      ],
+      "exclusions": [
+        "Circumvention only for the stated purposes (interoperability or software removal)"
+      ],
+      "definitions_or_conditions": [
+        "'Portable all-purpose mobile computing device' = device primarily designed to run a wide variety of programs rather than for consumption of a particular type of media content, equipped with an OS primarily designed for mobile use, intended to be carried or worn"
+      ],
+      "source": {
+        "file": "1201/Final Rules/2015-Final-Rule.txt",
+        "pdf_pages": [20],
+        "txt_line_range": [4042, 4061],
+        "quote": "(4) Computer programs that enable smartphones and portable all-purpose mobile computing devices to execute lawfully obtained software applications, where circumvention is accomplished for the sole purpose of enabling interoperability of such applications with computer programs on the smartphone or device, or to permit removal of software from the smartphone or device. For purposes of this exemption, a 'portable all-purpose mobile computing device' is a device that is primarily designed to run a wide variety of programs rather than for consumption of a particular type of media content, is equipped with an operating system primarily designed for mobile use, and is intended to be carried or worn by an individual."
+      }
+    },
+    {
+      "class_number": "(b)(5)",
+      "equipment_or_work": "Smart televisions — jailbreaking (interoperability only)",
+      "permitted_uses": [
+        "Execute lawfully obtained software applications, where circumvention enables interoperability of such applications with on-device programs"
+      ],
+      "exclusions": [
+        "No 'removal of software' clause — narrower than (b)(4) by design",
+        "Circumvention only for interoperability of applications"
+      ],
+      "definitions_or_conditions": [],
+      "source": {
+        "file": "1201/Final Rules/2015-Final-Rule.txt",
+        "pdf_pages": [20],
+        "txt_line_range": [4062, 4068],
+        "quote": "(5) Computer programs that enable smart televisions to execute lawfully obtained software applications, where circumvention is accomplished for the sole purpose of enabling interoperability of such applications with computer programs on the smart television."
+      }
+    },
+    {
+      "class_number": "(b)(6)",
+      "equipment_or_work": "Motorized land vehicles — diagnosis, repair, lawful modification",
+      "permitted_uses": [
+        "Circumvent programs contained in and controlling the functioning of a motorized land vehicle (personal automobile, commercial motor vehicle, mechanized agricultural vehicle) for diagnosis, repair, or lawful modification of a vehicle function",
+        "Must be undertaken by the authorized owner of the vehicle"
+      ],
+      "exclusions": [
+        "Excludes computer programs primarily designed for control of telematics or entertainment systems",
+        "Cannot violate applicable law including DOT or EPA regulations",
+        "Delayed effective date: circumvention not authorized earlier than 12 months after rule's effective date"
+      ],
+      "definitions_or_conditions": [
+        "Must be the 'authorized owner' of the vehicle"
+      ],
+      "source": {
+        "file": "1201/Final Rules/2015-Final-Rule.txt",
+        "pdf_pages": [20],
+        "txt_line_range": [4069, 4090],
+        "quote": "(6) Computer programs that are contained in and control the functioning of a motorized land vehicle such as a personal automobile, commercial motor vehicle or mechanized agricultural vehicle, except for computer programs primarily designed for the control of telematics or entertainment systems for such vehicle, when circumvention is a necessary step undertaken by the authorized owner of the vehicle to allow the diagnosis, repair or lawful modification of a vehicle function; and where such circumvention does not constitute a violation of applicable law, including without limitation regulations promulgated by the Department of Transportation or the Environmental Protection Agency; and provided, however, that such circumvention is initiated no earlier than 12 months after the effective date of this regulation."
+      }
+    },
+    {
+      "class_number": "(b)(7)",
+      "equipment_or_work": "Good-faith security research on lawfully acquired devices/machines",
+      "permitted_uses": [
+        "Circumvent computer programs on lawfully acquired devices/machines solely for good-faith security research",
+        "Eligible device classes: (A) devices primarily designed for use by individual consumers (including voting machines); (B) motorized land vehicles; (C) implantable medical devices or their personal monitoring systems, not currently in patient care"
+      ],
+      "exclusions": [
+        "Must not violate any applicable law including the Computer Fraud and Abuse Act",
+        "Delayed effective date: 12 months after rule effective date (except for voting machines)",
+        "Research must be conducted in a controlled environment designed to avoid harm",
+        "Information derived must be used primarily to promote security/safety, not to facilitate copyright infringement"
+      ],
+      "definitions_or_conditions": [
+        "'Good-faith security research' = accessing a computer program solely for purposes of good-faith testing, investigation and/or correction of a security flaw or vulnerability, where such activity is carried out in a controlled environment designed to avoid any harm to individuals or the public, and where the information derived is used primarily to promote the security or safety of the class of devices or machines, or those who use them, and is not used or maintained in a manner that facilitates copyright infringement"
+      ],
+      "source": {
+        "file": "1201/Final Rules/2015-Final-Rule.txt",
+        "pdf_pages": [20],
+        "txt_line_range": [4091, 4134],
+        "quote": "(7)(i) Computer programs, where the circumvention is undertaken on a lawfully acquired device or machine on which the computer program operates solely for the purpose of good-faith security research and does not violate any applicable law, including without limitation the Computer Fraud and Abuse Act of 1986, as amended and codified in title 18, United States Code; and provided, however, that, except as to voting machines, such circumvention is initiated no earlier than 12 months after the effective date of this regulation, and the device or machine is one of the following: (A) A device or machine primarily designed for use by individual consumers (including voting machines); (B) A motorized land vehicle; or (C) A medical device designed for whole or partial implantation in patients or a corresponding personal monitoring system, that is not and will not be used by patients or for patient care. (ii) For purposes of this exemption, 'good-faith security research' means accessing a computer program solely for purposes of good-faith testing, investigation and/or correction of a security flaw or vulnerability, where such activity is carried out in a controlled environment designed to avoid any harm to individuals or the public, and where the information derived from the activity is used primarily to promote the security or safety of the class of devices or machines on which the computer program operates, or those who use such devices or machines, and is not used or maintained in a manner that facilitates copyright infringement."
+      }
+    },
+    {
+      "class_number": "(b)(8)",
+      "equipment_or_work": "Video games — preservation when authentication server abandoned (local play)",
+      "permitted_uses": [
+        "Permit access to a video game (lawfully acquired as a complete game) to allow copying/modification of the computer program to restore access for personal gameplay on a personal computer or video game console, when the copyright owner has ceased to provide server access for authentication",
+        "Permit access for copying/modification to restore access for preservation by an eligible library/archives/museum on a personal computer or video game console",
+        "Permit eligible library/archives/museum to operate video game consoles to the extent necessary for preservation activities"
+      ],
+      "exclusions": [
+        "Library/archives/museum preservation must be without direct or indirect commercial advantage",
+        "Preserved games must not be distributed or made available outside the physical premises of the eligible library/archives/museum"
+      ],
+      "definitions_or_conditions": [
+        "'Complete games' = video games that can be played by users without accessing or reproducing copyrightable content stored or previously stored on an external computer server",
+        "'Ceased to provide access' = copyright owner has affirmatively stated server support has ended and is unavailable, OR server support has been discontinued for at least six months and not restored",
+        "'Local gameplay' = gameplay conducted on a personal computer or video game console, or locally connected machines, and not through an online service",
+        "'Eligible library/archives/museum' = collections are open to the public and/or routinely made available to researchers not affiliated with the institution"
+      ],
+      "source": {
+        "file": "1201/Final Rules/2015-Final-Rule.txt",
+        "pdf_pages": [20],
+        "txt_line_range": [4135, 4205],
+        "quote": "(8)(i) Video games in the form of computer programs embodied in physical or downloaded formats that have been lawfully acquired as complete games, when the copyright owner or its authorized representative has ceased to provide access to an external computer server necessary to facilitate an authentication process to enable local gameplay, solely for the purpose of: (A) Permitting access to the video game to allow copying and modification of the computer program to restore access to the game for personal gameplay on a personal computer or video game console; or (B) Permitting access to the video game to allow copying and modification of the computer program to restore access to the game on a personal computer or video game console when necessary to allow preservation of the game in a playable form by an eligible library, archives or museum, where such activities are carried out without any purpose of direct or indirect commercial advantage and the video game is not distributed or made available outside of the physical premises of the eligible library, archives or museum. (ii) Computer programs used to operate video game consoles solely to the extent necessary for an eligible library, archives or museum to engage in the preservation activities described in paragraph (i)(B). (iii) For purposes of the exemptions in paragraphs (i) and (ii), the following definitions shall apply: (A) 'Complete games' means video games that can be played by users without accessing or reproducing copyrightable content stored or previously stored on an external computer server. (B) 'Ceased to provide access' means that the copyright owner or its authorized representative has either issued an affirmative statement indicating that external server support for the video game has ended and such support is in fact no longer available or, alternatively, server support has been discontinued for a period of at least six months; provided, however, that server support has not since been restored. (C) 'Local gameplay' means gameplay conducted on a personal computer or video game console, or locally connected personal computers or consoles, and not through an online service or facility. (D) A library, archives or museum is considered 'eligible' when the collections of the library, archives or museum are open to the public and/or are routinely made available to researchers who are not affiliated with the library, archives or museum."
+      }
+    },
+    {
+      "class_number": "(b)(9)",
+      "equipment_or_work": "3D printers — circumvent microchip-reliant feedstock TPMs",
+      "permitted_uses": [
+        "Circumvent computer programs that operate 3D printers employing microchip-reliant TPMs to limit feedstock, solely to use alternative feedstock"
+      ],
+      "exclusions": [
+        "Not for accessing design software, design files, or proprietary data",
+        "Excludes any computer program on a 3D printer that produces goods or materials for use in commerce whose physical production is subject to legal/regulatory oversight or certification",
+        "Cannot otherwise be unlawful circumvention"
+      ],
+      "definitions_or_conditions": [],
+      "source": {
+        "file": "1201/Final Rules/2015-Final-Rule.txt",
+        "pdf_pages": [20],
+        "txt_line_range": [4206, 4222],
+        "quote": "(9) Computer programs that operate 3D printers that employ microchip-reliant technological measures to limit the use of feedstock, when circumvention is accomplished solely for the purpose of using alternative feedstock and not for the purpose of accessing design software, design files or proprietary data; provided, however, that the exemption shall not extend to any computer program on a 3D printer that produces goods or materials for use in commerce the physical production of which is subject to legal or regulatory oversight or a related certification process, or where the circumvention is otherwise unlawful."
+      }
+    },
+    {
+      "class_number": "(b)(10)",
+      "equipment_or_work": "Compilations of data generated by implanted medical devices or personal monitoring systems — patient access to own data",
+      "permitted_uses": [
+        "Circumvent TPMs on literary works consisting of compilations of medical-device data, by a patient, solely to lawfully access data generated by his or her own device or monitoring system"
+      ],
+      "exclusions": [
+        "Access must be through passive monitoring of wireless transmissions already being produced by the device or system",
+        "Cannot violate HIPAA, the Computer Fraud and Abuse Act, or FDA regulations"
+      ],
+      "definitions_or_conditions": [
+        "Covered devices: wholly or partially implanted medical devices and their corresponding personal monitoring systems",
+        "Access limited to passive monitoring of transmissions already being produced"
+      ],
+      "source": {
+        "file": "1201/Final Rules/2015-Final-Rule.txt",
+        "pdf_pages": [20, 21],
+        "txt_line_range": [4223, 4247],
+        "quote": "(10) Literary works consisting of compilations of data generated by medical devices that are wholly or partially implanted in the body or by their corresponding personal monitoring systems, where such circumvention is undertaken by a patient for the sole purpose of lawfully accessing the data generated by his or her own device or monitoring system and does not constitute a violation of applicable law, including without limitation the Health Insurance Portability and Accountability Act of 1996, the Computer Fraud and Abuse Act of 1986 or regulations of the Food and Drug Administration, and is accomplished through the passive monitoring of wireless transmissions that are already being produced by such device or monitoring system."
+      }
+    }
+  ]
+}

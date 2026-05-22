@@ -1,0 +1,31 @@
+{
+  "cycle": 2018,
+  "final_rule_file": "1201/Final Rules/2018-Final-Rule.txt",
+  "extractor_notes": "The 2018 Final Rule preamble numbered 12 Proposed Classes. Nine were recommended for grant (Proposed Classes 1, 2, 5, 6, 7, 8, 9, 10, 12) and codified as the 14 subparts of Sec. 201.40(b) (some proposed classes were split into multiple codified subclasses on grant). Three proposed classes were not recommended and appear in the Final Rule's 'Classes the Acting Register Did Not Recommend' section (PDF pp. 17-19): Proposed Class 3 (Space-Shifting), Proposed Class 4 (HDCP/HDMI), and Proposed Class 11 (Avionics).",
+  "denials": [
+    {
+      "proposed_class_number": "3",
+      "topic_label": "Audiovisual Works - Space-Shifting",
+      "reason_category": "noninfringing_use_not_shown",
+      "reason_quote": "In light of the lack of record and in the absence of clear supporting precedent, the Acting Register found no basis to depart from the fair use analysis and ultimate conclusion reached in the 2015 proceeding, where the Register was unable to determine that the proposed uses were noninfringing.",
+      "source_pdf_pages": [17, 18],
+      "later_granted_in_cycle": null
+    },
+    {
+      "proposed_class_number": "4",
+      "topic_label": "Audiovisual Works - HDCP/HDMI",
+      "reason_category": "evidence",
+      "reason_quote": "The record lacked the requisite detail and legal support for the Acting Register to conclude that the proposed uses are or are not likely to be noninfringing; the Acting Register also concluded that the proposed exemption was overly broad and that the request was an individual case of de minimis impact.",
+      "source_pdf_pages": [18, 19],
+      "later_granted_in_cycle": null
+    },
+    {
+      "proposed_class_number": "11",
+      "topic_label": "Computer Programs - Avionics",
+      "reason_category": "not_copyrightable",
+      "reason_quote": "The Acting Register found that the record suggested that the data collected by aircrafts at issue consist of facts, which are not copyrightable... proponents have not alleged that the data or data compilations they are seeking to access are copyrightable, and thus subject to the prohibition on circumvention.",
+      "source_pdf_pages": [19],
+      "later_granted_in_cycle": null
+    }
+  ]
+}

@@ -1,0 +1,1030 @@
+[PAGE 1]
+BEFORE THE COPYRIGHT OFFICE  
+LIBRARY OF CONGRESS, Washington, D.C. 
+In the matter of Exemption to Prohibition on Circumvention of 
+Copyright Protection Systems for Access Control Technologies. 
+Docket No. 
+2014-07 
+ 
+COMMENTS OF NEW MEDIA RIGHTS 
+ New Media Rights submits the following comments in  response to the Notice of Inquiry of 
+Exemption to the Prohibition on Circumvention of Copyright Protection Systems for Access Control 
+Technologies. 1 In its Notice, the Copyright Office seeks comments on all proposed exemptions 
+submitted before February 6, 2014.  These comments address the proposed exemptions requested by 
+the Electronic Frontier Foundation (“EFF”) and the International Documentary Association (“IDA”). 
+I.  Commenting Party 
+New Media Rights (NMR) is an independently funded program of California Western School 
+of Law.  NMR provides expertise and advocacy on media, communications, and internet law as it 
+applies to independent creators and internet users.  NMR offers pro bono legal services to creators 
+including artists, filmmakers, podcasters, citizen journalists, bloggers, open source software projects, 
+as well as non-profit organizations. Further information regarding NMR’s mission and activities can be 
+obtained at http://www.newmediarights.org. 
+II.  Comments 
+These comments will provide specific support for key exemptions our creator and consumer clients 
+rely upon.  However, we must first acknowledge the need for a broader exemption of all otherwise 
+lawful activities under Section 1201(a)(1).   
+One thing remains constant in the DMCA Anti-Circumvention exemption proceedings: an enormous 
+output of time and energy by legal clinics, nonprofits, and others every three years in pursuit of broad 
+range of worthy, but narrow exemptions.  The commonality in the arguments made for the exemptions 
+is that the circumvention should be exempted from violating federal law under the Anti-Circumvention 
+provisions because the uses targeted are not otherwise unlawful.  We maintain that an elegant way to 
+improve the provisions, and allow otherwise lawful uses without requiring such a tremendous use of 
+resources, is to simply exempt all uses that are otherwise lawful.  Specifically, if a use is deemed a fair 
+use, anti-circumvention should simply not be applicable to the use, and should not be available as a 
+cause of action. 
+                                                           
+1 Exemption to Prohibition on Circumvention of Copyright Protection Systems for Access Control Technologies, 79 Fed. 
+Reg. 180, 55687 (Sept. 17, 2014) (to be codified at 37 C.F.R. pt. 201). 
+[PAGE 2]
+NMR requests that the Copyright Office look systematically to  find ways, either through regulation 
+or proposed legislation, to provide broad exemptions to Section 1201(a)(1) that protect otherwise 
+lawful uses of content such as uses made in fair use.  
+An exemption or exception that allowed for circumvention of TPMs for any reuse that falls under 
+fair use, would be very efficient because there would be a stable rule of law that does not change every 
+three years.  Such a broader exemption would also provide certainty because people would know that 
+they could circumvent TPMs for reuse as long as their reuse constituted fair use; those people would 
+not have to determine if they were included in one of many narrow class of exemptions.  Video 
+creators, for example, would know that circumvention of TPMs is legal as long as the resulting video 
+falls under fair use. Video creators would not have to wait three years to determine whether certain 
+activity is legal, and whether their particular use is the type excused by narrow exemptions.  Instead, 
+they would know what type of conduct is permitted, and permitted conduct would not be subject to 
+change over time. As long as one circumvents TPMs for a noninfringing purpose, such as fair use, the 
+circumvention should be legal. A broader exemption would ensure that anti-circumvention don’t 
+needlessly include people who have otherwise not violated the law. 
+With the need for a broad exemption to Section 1201(a)(1) addressed, NMR now presents its specific 
+arguments and evidence specifically supporting four of the proposed exemptions.  Our comments in 
+support of the proposed class 6, 7, 16, and 17 exemptions follow.  
+A.  Proposed Class 7: An exemption to Title 17, Section 1201(a)(1) of the United States Code is 
+necessary for remix video creators to meaningfully engage in non-infringing reuse by 
+extracting content from DVDs, Blu-ray discs, and online distribution services without 
+unintentionally triggering allegations that their actions are prohibited by federal Copyright 
+law. 
+Proposed Class  7 includes “lawfully made and acquired audiovisual works for the sole purpose of 
+extracting clips for inclusion in noncommercial videos that do not infringe copyright. This exemption 
+has been requested for audiovisual material made available on DVDs protected by CSS (Content 
+Scrambling System), Blu-ray discs protected by AACS (Advanced Access Content System), and TPM-
+protected online distribution services.”  
+In contemporary American society, videos that utilize content from DVDs, Blu-ray discs, and online 
+distribution services are quite common.  Many Americans view these videos on a variety of online 
+services such as YouTube and Vimeo.  Often these videos, remixes, and vids 2 (remix videos), contain 
+copyrighted audiovisual material.  However, many times the video creator transforms the copyrighted 
+material to serve an important purpose like noncommercial commentary, criticism of popular culture, 
+political speech, or another legal purpose.   These non-commercial remix videos are not only protected 
+by the law through fair use, but are important mediums through which creators communicate a 
+                                                           
+2 Remixing is defined as the “taking [of] material . . . such as songs, texts, or images and remixing it into [its] own artistic 
+creation” as defined by The Pew Internet and American Life Project on Remix. “Vids” are a combination of clips from one 
+or more sources combined with music, usually these remix videos comment on the works in question. 
+[PAGE 3]
+message with the public. 3  This class of remix videos helps promote dissemination of knowledge,  
+access to information, and cultural introspection, each very important functions that maintain a well-
+informed public and a healthy public debate.  However, without the proposed exemptions, the 
+Prohibition on Circumvention of Copyright Protection Systems for Access Control Technologies 
+would prohibit this otherwise legal and valuable content.  Section 1201(a)(1) burdens those seeking to 
+make fair use of works because creators who engage in reuse covered by fair use may still be liable, or 
+fear being liable, for circumventing technological protection measures (TPMs), even though the reuse 
+does not infringe on another’s copyright.  Section 1201(a)(1), without the proposed exemption, 
+effectively punishes creators based on the method of access to work, despite the fact that the use of that 
+work is otherwise legal.   
+The Copyright Office should adopt the proposed exemptions to avoid harmfully chilling otherwise 
+legal speech, as well as undermining the purposes of the Copyright Act and Article 1, Section 8 of the 
+Constitution. 4  Section 1201(a)(1), without the proposed exemption, will deter video creators who plan 
+to reuse video clips for lawful purposes.  Those creators will fear liability under the statute and will be 
+less likely to access lawfully obtained video clips for remix videos that are protected by fair use. Thus, 
+strict adherence to Section 1201(a)(1) has a significant negative impact on the ability of internet users, 
+and video creators who share online, to obtain clips from DVDs, Blu-ray discs, and online distribution 
+services in order to create works that would otherwise be protected by fair use.  
+Section 1201(a)(1), without the proposed exemption, will have an adverse impact on video creators 
+because those creators will not be able to access a wide variety of video clips for fair use purposes.  
+Therefore, NMR agrees with and supports the Proposed Class 7 exemption to the Section 1201(a)(1) 
+anti-circumvention laws for the following specific reasons. 
+First, the proposed exemption is for a very limited, narrow use.  The exemption only applies to use 
+that is noncommercial and noninfringing, such as fair use that utilizes transformative reuse for 
+noncommercial purposes.  Second, due to the exemption’s narrow scope, copyright owners may still 
+pursue individuals who infringe on the copyright holder’s rights.  If a copyright holder believes that a 
+video creator’s reuse does not fall under fair use, the copyright holder may still seek legal remedies 
+against the alleged infringer. Third, creators who reuse DVD or Blu-ray content for fair use must 
+utilize high quality video content in order to effectively communicate their message.  Those creators 
+should not have to compromise their artistic messages by settling for low quality content.  Fourth, 
+creators who reuse content from online distribution services must have access to such content because 
+that content may either not currently be available on DVD or Blu-ray or may never be available on 
+DVD or Blu-ray.  Fifth, creators who reuse content from online distribution services usually address 
+time sensitive issues and cannot wait for the content to become available on DVD or Blu-ray. Finally, 
+                                                           
+3 See, e.g., Arica Institute, Inc. v. Palmer , 970 F.2d 1067 (2 nd  Cir. 1992).  “The ‘fair use’ exception applies where the 
+Copyright Act’s goal of encouraging creative and original work would be better served by allowing the use than by 
+preventing it.”  Id. at 1077. 
+4 See 17 USC § 107 (2014).  17 USC § 107 states that reuse of copyrighted material for criticism, comment, news reporting, 
+teaching, scholarship, or research is not an infringement of copyright.  Id.  See also, U.S. Const. Art. 1 Sec. 8 Cl. 3.  
+[PAGE 4]
+many of these video creators usually lack access to legal counsel and are thus susceptible to 
+intimidation by copyright holders who have legal counsel available. 
+1.  The proposed exemption is limited to uses that do not infringe copyright and it is intended 
+to afford creators the opportunity to fully assert a fair use defense in a legal proceeding 
+before such a defense becomes moot due to Section 1201(a)(1)’s imposition of liability for 
+circumventing TPMs. 
+The proposed exemption should be adopted because it protects a very narrow use that is already 
+protected under the Copyright Act – fair use. This exemption is designed to protect remix videos that 
+further social commentary, criticism, news reporting, teaching, and scholarship.  These remix videos 
+represent uses that Title 17, Section 107 of the United States Code mandates are protected under fair 
+use.   Such reuse of media obtained from DVDs, Blu-ray discs, and online distribution services allow 
+the creator to convey their message to educate the public. Thus, these remix videos are included in the 
+exact class of works that Section 107 aims to protect.  
+ Creators who reuse video content for these purposes also engage in transformative reuse because 
+the remixed videos add to the original work with a new message or expression. Creators often reuse 
+video clips from videos and films that were designed to entertain.  However, the remixed videos 
+convey a different message that informs the public and criticizes or comments on the underlying work.  
+The remixed videos are protected by fair use because the videos commonly criticize the original work, 
+thus making the purpose and character of the reuse transformative. 5 
+There are a broad variety of non-commercial, noninfringing remix videos that convey the creator’s 
+message to the public by using copyrighted video content in a transformative manner.  Take, for 
+example, Anita Sarkeesian who creates and produces Feminist Frequency, an online web series that 
+analyzes popular culture from a feminist perspective.  Ms. Sarkeesian transforms clips that are legally 
+obtained from DVDs into fair use remix videos.  Ms. Sarkeesian confirmed that, “increasingly, video is 
+the medium which the younger generations engage with . . . [it] is a much more compelling and 
+engaging experience than reading books, articles, and essays.”  Ms. Sarkeesian’s work relies heavily 
+on access to video clips from DVDs.  Her remix videos convey educational messages to the public and 
+critique contemporary society; the videos fall under fair use.  Without the proposed exemption, her 
+educational message and fair use criticism would be severely hindered due to Section 1201(a)(1).  
+Freedom of speech and expression is an essential part of American society.  Indeed, the remix and 
+reuse of content is becoming less of a subculture and more of a common way that internet users 
+interact with the culture around them.  Creators need this exemption in order to assert a fair use 
+defense to defend otherwise lawful speech.  Otherwise, much of the criticism and speech that creators 
+such as Ms. Sarkeesian engage in would be muted. 
+                                                           
+5 See, e.g. Campbell v. Acuff-Rose Music, Inc., 510 U.S. 569 (1994).  “The central purpose of [a fair use inquiry] is to see . . . 
+whether the new work merely ‘supersede[s] the objects’ of the original creation. . . or instead adds something new, with a 
+further purpose or different character, altering the first with new expression, meaning, or message; it asks, in other 
+words, whether and to what extent the new work is ‘transformative.’” Id. at 579 (alteration added). 
+[PAGE 5]
+Also consider Sue Wilson, an Emmy award winning journalist who directed the media reform 
+documentary “Broadcast Blues.”  Ms. Wilson specifically makes “videos to comment on how Radio 
+and TV are misleading the public.” She hopes to “expose lies in the media” and has stated that as a 
+“documentarian and media critic, it is important to be able to use examples of the media to make a 
+point of how they are behaving. Without these clips, [the criticism] means nothing.” As one can see 
+from the perspective of creators such as Ms. Wilson, Ms. Sarkeesian, using clips from DVDs, Blu-ray, 
+and online distribution sources is essential for creators to express themselves and share their 
+perspectives.  
+Without the proposed exemption, Ms. Sarkeesian, Ms. Wilson, and other creators could not 
+produce and distribute content that is legal but for the liability imposed under Section 1201(a)(1).    
+Section 1201(a)(1) trumps a fair use defense and threatens to hold video creators liable for producing 
+and distributing works that are protected under fair use.  Such a result will adversely impact creators’ 
+noninfringing uses of copyrighted materials by discouraging artists from engaging in projects that 
+utilize content for fair use purposes.  Ms. Sarkeesian and Ms. Wilson represent a growing community 
+of video creators and everyday internet users who rely on this exemption for their projects, and for 
+basic communication with their fellow citizens.  This exemption encourages fair use and free 
+expression because it avoids condemning behavior that is otherwise permitted by copyright law and the 
+Constitution. 
+2.  Many remix videos may not exist if the proposed exemption is not adopted 
+Large media companies already pursue many remix video creators for otherwise legal remix 
+videos. 6  Anti-circumvention just adds to the challenge of standing up in these David and Goliath 
+scenarios.  Strict adherence to Section 1201(a)(1), without the proposed exemption, would trump a 
+remix video creator’s fair use defense in these situations because the creator would face liability for 
+circumvention, regardless of whether the creator’s reuse constituted fair use. Thus, large media 
+companies could rely on anti-circumvention to force creators to take down fair use videos.  Without 
+the proposed exemption, many remix videos would not even exist because video creators’ fair use 
+defense would be rendered moot due to Section 1201(a)(1). Thus, the creators would have to take 
+down their remix videos or may never even create those videos. 
+Jonathan Mcintosh’s remix video, Buffy v. Edward , and his battle with Lionsgate Entertainment 
+illustrate the importance of this exemption.  Mr. Mcintosh reused audiovisual media from the Twilight  
+franchise and the television show Buffy the Vampire Slayer  to create a remix video that critiqued pop 
+culture’s representation of gender roles.  Mr. Mcintosh’s remix video is as clear as fair use can get; 
+used the world over as an example of fair use, it has been presented in favor of anti-circumvention 
+exemptions and the Register of Copyrights  has even recognized the video as supporting illustrating the 
+                                                           
+6 See e.g. Joe Mullin, “Buffy vs Edward” remix is back online, but no fallout for Lionsgate, ars technica, 
+http://arstechnica.com/tech-policy/2013/01/buffy-vs-edward-remix-is-back-online-but-no-fallout-for-lionsgate/  (Jan. 
+2013). 
+[PAGE 6]
+need for access to high quality video in noncommercial video.7  In order to access video clips to create 
+Buffy v. Edward , Mr. Mcintosh had to circumvent CSS systems on DVDs.  Without this exemption, 
+Mr. Mcintosh’s remix video would not exist.  Even though the final video constituted fair use, the 
+video would not exist because Mr. Mcintosh would never have been able to access the content required 
+to make the video.  This exemption is necessary to ensure that video creators can continue to produce 
+noncommercial, transformative remix videos, such as Buffy v. Edward .  Section 1201(a)(1), without 
+the proposed exemption, will adversely affect many video creators because those creators will not be 
+able to access content for their remix videos and thus will not be able to create those videos and 
+communicate with the public. 
+3.  The proposed exemption does not modify existing fair use law and does not affect a 
+copyright holder’s ability to pursue those who infringe the holder’s copyright 
+Granting the proposed exemption will not prevent copyright holders from pursuing individuals who 
+infringe on the holder’s copyright.  If a copyright holder can prove that an individual infringed on their 
+copyright, then the holder may still seek all available legal remedies against the infringer.  Copyright 
+holders may still utilize DMCA takedown notices, cease and desist letters, and the legal process to 
+pursue alleged copyright infringers.  This exemption does not propose a defense to copyright 
+infringement.  This exemption only applies to content that has been reused legally ; the proposed 
+exemption merely seeks to make the process  for obtaining that content legal. 
+For example, suppose that the proposed exemption is granted and an individual circumvents a 
+DVD’s CSS but then uses the video content for a purpose that infringes the owner’s copyright.  That 
+individual may upload the entire video in a way that is not transformative or distribute physical copies 
+of the content. In this situation, the copyright holder would be able to sue the individual for copyright 
+infringement and the exemption would not apply.  The copyright holder would still have a legal 
+remedy and thus this exemption would not hinder the copyright holder’s property rights. 
+This exemption merely seeks to legalize the process for obtaining content where reuse of the 
+content will be legal.  This exemption does not limit a copyright holder’s rights against infringers and 
+does not create an exemption to copyright infringement.  
+4.  This exemption is necessary so that video creators who produce non-commercial, 
+noninfringing remix videos have access to high quality content. 
+Remix video creators require high quality video content to effectively convey their messages to 
+their audiences.  High quality content leads to more effective communication and more effective 
+communication better informs the public.  Low quality content, however, creates difficulties for video 
+creators and spoils the creators’ ideas.  In contemporary American society, high definition video 
+content is not only preferred by audiences, it is expected.  A creator’s ability to communicate their 
+                                                           
+7 See Recommendation of the Register of Copyrights, October 2012, 133. “[T]he Register is able to perceive that Buffy vs 
+Edward and other noncommercial videos would suffer significantly because of blurring and the loss of detail in characters’ 
+expression and sense of depth.” 
+[PAGE 7]
+message depends on the quality of the video content that the creator uses.  This exemption, if adopted, 
+will avoid limiting video creators to inferior quality content and thus inferior communication.   
+Rick Bowman, a documentary film maker, explained the importance of using high quality media in 
+his videos.  Mr. Bowman stated that quality is, “[v]ery important . . . in today’s market people are used 
+to Hi-Def and the higher the resolution on the big screen the better it will look.  My understanding is 
+that at this past years American Film Market event in Los Angeles, distributors didn’t want to look at 
+any films unless they had been filmed in 4k.” 8  As Mr. Bowman’s comments explain, many people will 
+not view a video unless the video utilizes high quality content.  Audiences may never view a creator’s 
+videos unless the creator can access high quality audiovisual content. 
+Michael Singh, a documentary filmmaker who created the critically acclaimed film Valentino’s 
+Ghost , and has worked on a variety of other film and video projects, also noted the importance of high 
+quality content.  In creating the film, Mr. Singh reused a wide variety of copyrighted material from 
+movies, television, news reports, and more.  On the importance of the reused content’s quality, Mr. 
+Singh stated that “[t]he higher the quality of the reused media, the more credible our analysts seem to 
+be.  And credibility is everything.”  The filmmaker noted that access to high quality content was 
+critical for his project’s success.   
+To illustrate the direct impact of lower quality content, Mr. Singh noted that he could not obtain 
+high quality content for all portions of his project and the work suffered because of lower quality 
+content.  Mr. Singh stated that, “[i]n some instances, we were unable to procure the needed quality, 
+those sections are glaringly conspicuous.”  Mr. Singh’s comments display the importance of high 
+quality content to filmmakers.  Filmmakers require high quality content to bolster the film’s credibility 
+and keep audiences focused on the film’s message.  Mr. Singh’s comments prove that filmmakers 
+suffer adverse effects when they have to use lower quality content in their films.  Lower quality 
+content damages the film’s credibility and causes audiences to lose interest in the film. Thus, without 
+access to high quality content, films become less effective means of spreading the creator’s message.   
+Filmmaker Jon Monday, who uses clips from DVDs and Blu-ray discs to create his remix videos, 
+also understands the importance of high quality video content.  After receiving a question regarding the 
+importance of quality to him and his audience, he stated, “[quality] is extremely important, as the video 
+quality directly translates to the ‘watch-ability’ of the final product. American consumers are very 
+quality conscious and will pay more attention to well produced documentaries, which include high 
+quality video.”  Because content quality is strongly tied to potential viewership, high quality content is 
+a necessity for video creators to convey their message to the public.   
+Remix video creators need the ability to bypass DVD and Blu-ray encryption and TPMs protecting 
+online distribution services in order to avoid using lower quality content.  Creators may obtain video 
+through other means that do not implicate Section 1201(a)(1), but these other means are inferior to 
+accessing the DVDs, Blu-ray discs, and high quality versions of online videos.  For example, a creator 
+                                                           
+8 4k refers to a common name for ultra-high-definition television.  Content that has horizontal resolution on the order of 
+4,000 pixels is 4k.  See Scott Alexander, 4K TV and Ultra HD: Everything you need to know, techradar, 
+http://www.techradar.com/us/news/television/ultra-hd-everything-you-need-to-know-about-4k-tv-1048954  (Jan. 2015). 
+[PAGE 8]
+could legally access a DVD and use a video camera to record the screen, or some other method of 
+screen capturing. However, these alternative methods yield lower quality content than bypassing CSS, 
+AACS, and other TPMs that protect online distribution services.  An exemption that allows video 
+creators to circumvent CSS, AACS, and TPMs that protect online distribution services will provide the 
+creators with consistent access to high quality content.   
+The creators NMR works with require the highest content quality. One of NMR’s clients, remix 
+artist Jonathan Mcintosh, whose work was discussed earlier, notes that access to high quality content 
+on DVDs is very important to the remix artist community and to his work in particular. Mr. Mcintosh 
+noted that many video remix artists crop and zoom video footage in order to focus on specific portions 
+of a scene.  For some artists, cropping and zooming is a necessity because the artist will use the 
+cropping and zooming to focus on parts of a scene that were not focused on in the original work. For 
+example, in his remix video Buffy v. Edward , Mr. Mcintosh used crops and zooms to cut out all 
+characters, except Edward, from the original Twilight film.  Mr. Mcintosh also used crops and zooms 
+to accentuate expressions on characters’ faces from Buffy the Vampire Slayer  which gave those scenes 
+a different meaning than the original.  The crops and zooms transformed the original video content in 
+order to create a new narrative for the remix video. Through the use of crops and zooms, Mr. Mcintosh 
+created a new story; the remix video portrayed more one-on-one interaction between the two central 
+characters, Edward and Buffy.   
+Effective use of crops and zooms, such as Mr. Mcintosh used in Buffy v. Edward , is very difficult 
+to achieve without high quality video content.  Mr. Mcintosh explained that the creators need a big 
+enough picture of high enough quality in order to crop and zoom effectively.  Without high quality 
+content, the ultimate image becomes blurry and pixelated, detracting from the remix video’s quality.  
+Subpar quality will hinder the artist’s message to the audience.  That problem could be avoided by 
+allowing video creators to bypass CSS, AACS, and other TPMs to access high quality content. 
+Adopting the proposed exemption will ensure that remix video creators do not have to resort to 
+inferior screen capturing methods to access video content.  While screen recording and other screen 
+capturing technology provide remix video creators with alternative methods of obtaining content, those 
+methods are inferior to circumvention. For example, Martin Leduc, a remix artist client of NMR who  
+uses clips from DVDs, stated that “[w]hen I rip a video . . . I always try to get byte-to-byte copies of 
+the original files rather than using a ‘screen capture’ program because copying the files directly helps 
+me avoid degrading the quality of my video source.”  While screen capture technology provides access 
+to video content without circumventing TPMs, it is inferior to circumvention because screen capturing 
+yields lower quality content compared to circumvention.  
+As Mr. Leduc and Mr. Mcintosh’s comments above show, screen capture technology is not 
+acceptable for the vast majority of remix video creators.  Many remix video creators cannot effectively 
+use content acquired via screen capturing due to that content’s low quality.  Remix video creators 
+require high quality content to meaningfully incorporate the content into their videos and thus convey 
+an effective message. For example, in Buffy v. Edward , Mr. Mcintosh used cropping and zooming 
+techniques to create a new narrative between the characters that commented on the underlying works.  
+He could not have cropped and zoomed effectively without high quality content because the images 
+[PAGE 9]
+would have become too pixelated; that result would have distracted audiences and distorted the video’s 
+narrative.  Mr. Mcintosh could not have made such an effective video if screen capture technology was 
+his only option to access content.  Circumventing CSS technology on DVDs allowed Mr. Mcintosh to 
+access high quality content that he could crop and zoom to create his remix video.  The Copyright 
+Office should adopt the proposed exemption because it will allow remix video creators to have 
+consistent access to high quality content and the creators will not have to resort to using lower quality 
+content obtained from screen capturing methods.  
+Also, while fair use is decided on a number of specific factors, the quality of the media being 
+reused has little to no effect on whether the reuse falls under fair use. Limiting reuse of copyrighted 
+material to low quality content will have an adverse effect on video creators whose remix videos fall 
+under fair use. Forcing video creators to use low quality content rather than high quality content 
+impairs the creators’ ability to comment on society and express their ideas, and condemns them to 
+second-class status in both the quality of their work, and the interest and attention of audiences.  
+Audiences demand high quality work, and low quality content makes an audience less likely to watch a 
+remix video. 9 Such a result would defeat the purpose of creating these remix videos in the first place. 
+Artists such as Mr. Monday, Mr. Leduc, Mr. Mcintosh, Mr. Singh, and many more, will be 
+adversely impacted by the TPMs that protect DVDs, Blu-ray discs, and online distribution services 
+without the proposed exemption.  Without the proposed exemption, video creators will be forced to use 
+lower quality content because federal law will prohibit circumventing TPMs that guard high quality 
+content on DVDs, Blu-ray discs, and online distribution services.  Lower quality content will prevent 
+the artists from conveying an effective message to their audience because the poor quality will detract 
+from the remix videos’ purpose or audiences may simply not watch the remix videos due to poor 
+quality.  Without the proposed exemption, video creators will have to choose between bypassing TPMs 
+to obtain high quality content (which will violate federal law) and using low quality content.  Forcing 
+creators to make such a Hobson’s choice and ultimately forego using high quality content limits free 
+expression and public discourse.  Indeed, the Register of Copyrights once recognized that high quality 
+content is necessary for valuable commentary and criticism when it noted that it was “able to conclude 
+that diminished quality likely would impair the criticism and comment contained in noncommercial 
+videos.” 10  We encourage the Copyright Office to find similarly in this proceeding. 
+5.  Video creators who utilize content from online distribution services need to bypass TPMs 
+protecting the online media because that content is either not currently available on DVD 
+or Blu-ray or may never be available on DVD or Blu-ray. 
+                                                           
+9 See Robert Andrews, Growing Demand for Video Quality Tests Networks: Akami’s Michel, Beet.tv, 
+http://www.beet.tv/2014/09/ibcakamai.html (Sept. 15, 2014).  Akami product marketing director Kurt Michel stated that 
+“demands of audiences are going to increase, expecting broadcast-levels of quality.”  Id.  See also  Ovum, Consumer Trend 
+Research: Quality, Connection, and Context in TV Viewing , Ovum.com, http://apps.avid.com/ovum-report2/assets/Ovum-
+Consumer-Research-Report.pdf  (July 2013).  “In a rapidly evolving market where significant time and effort goes into 
+developing new ways to approach audiences, the strongest driver of audience engagement is still high-quality content 
+with outstanding image and audio rendering.” Id. at 3. 
+ 
+10  Recommendation of the Register of Copyrights, October 2012, 133. 
+[PAGE 10]
+Certain content is simply not available on DVD or Blu-ray format.  Creators are thus forced to 
+choose between accessing the content from a different source (such as online distribution services) and 
+not using the desired content at all. Many video creators utilize content from online distribution 
+services such as Youtube.com, Netflix, and Amazon Instant Video. As long as creators use the content 
+for legal purposes, the source from which the creator obtains the content should not hinder the creator 
+from using desired content.   
+This exemption will grant video creators access to a larger spectrum of media for reuse in their 
+remix videos.  Video creators will not be limited to content that is only available on DVDs or Blu-ray 
+discs.  Thus, creators will bolster their messages with a wider array of media and their messages to the 
+audience will be more credible and stimulating.  Limiting video creators to access media that is only 
+available on DVDs or Blu-ray discs will curb the creators’ ability to effectively communicate with the 
+public. 
+ 
+ 
+6.  Even if the desired content will be available on DVD or Blu-ray in the future, many issues 
+addressed in remix videos are time sensitive and creators cannot wait for the content to 
+become available on DVD or Blu-ray. 
+Many video creators address current issues in their remix videos.  These remix videos are relevant 
+to audiences because of current events; creators need access to certain content as soon as possible.  The 
+remix videos become less relevant if the creators must wait for the content to become available on 
+DVDs or Blu-ray discs before reusing the content.  If the creator has to wait, even for a relatively 
+minimal amount of time, the remix video’s message may become irrelevant.  Such a result will 
+adversely impact the creator’s ability to communicate their message effectively. 
+Pop culture critic Anita Sarkeesian has expressed the importance of timely access to content.  She 
+stated that, “[i]t is of the upmost importance that I can access video clips of current events, whether it 
+be news footage or movies still screening in theaters. If I am making a video about a current screening 
+film, I need access footage of that film in order to provide evidence for my argument.”  Ms. Sarkeesian 
+also noted that if she had to wait until certain content became available on DVD or Blu-ray, “[she] 
+would lose [her] audience since the film is no longer current, interesting, or compelling to [her] 
+potential viewers.”   
+Ms. Sarkeesian’s comments signify the need that many video creators have to current video 
+content.  Without current video content, many of these creators cannot convey an effective, relevant 
+message to the audience.  An exemption that allows creators to access material from non-DVD or non-
+Blu-ray sources will help those creators access video content in a timely manner. 
+Martin Leduc also discussed the importance of timely access to video content.  Mr. Leduc stated 
+that, “[s]ometimes my online remixes respond to very specific events that are being covered in the 
+media.  In these cases I need to get my clips in as timely a manner as possible so I can contribute to the 
+[PAGE 11]
+discussion about these events while they are still taking place.”  Mr. Leduc’s comments reinforce the 
+importance of timely access to video content.  Many artists discuss current events through remix 
+videos.  Without access to content at the time that the artist creates a remix video, the communication 
+between the artists and the audiences suffers.   
+Timely access to video content is especially important for political commentary.  Political 
+commentary is not only protected by fair use, but is regarded as one of the most valuable forms of 
+expression. 11   Supreme Court Justice Hugo Black once wrote that, “[w]hatever differences may exist 
+about interpretations of the First Amendment, there is practically universal agreement that a major 
+purpose of that Amendment was to protect the free discussion of governmental affairs.” 12     Creators 
+who use political content for fair use purposes should not be hindered due to inability to circumvent 
+TPMs on online distribution sources. 
+NMR client filmmaker Jon Monday expressed the importance of having access to current video 
+content for political speech.  He stated that video clips of current events “directly relate to the objective 
+of putting out documentaries that address timely issues. If a bill is pending before Congress, or a vote 
+before Americans, getting timely video to illustrate the issue is at least as critical as the issue itself.”  
+Artists such as Mr. Monday create remix videos to convey a message about current political events to 
+the public; these artists therefore need to access media relating to politics as soon as possible.  Without 
+current video materials, these artists are unable to make effective commentary.  
+Many artists create remix videos relating to current events and thus require timely access to video 
+content.  Without the proposed exemption, such artists will be adversely impacted because they will 
+have to wait for content to become available on DVDs or Blu-ray discs before reusing the content.  
+The artists’ remix videos will become less relevant if the artists have to wait for access to content.  
+Moreover, the value of the cultural and political conversation and introspection these remix videos 
+offer will be lost. These artists, and our cultural and political conversation as a whole, should not be 
+burdened by having to wait for access to certain content.  The proposed exemption will help avoid that 
+problem by allowing artists to access audiovisual content from online distribution sources that is 
+available on DVDs or Blu-ray discs for fair use purposes. 
+7.  Creators who reuse content for noncommercial purposes usually do not have access to 
+legal counsel and thus must face a lawsuit from the copyright holder unless they adhere to 
+the copyright holder’s demands. 
+Remix video creators who reuse content from DVDs, Blu-ray discs, and online distribution 
+services usually do not have access to legal counsel.  Therefore, those creators may not know whether 
+their actions for obtaining content comply with Section 1201(a)(1).  Creators who rely on fair use may 
+be completely unaware that they are violating federal law when they circumvent TPMs.  Those 
+creators assume that as long as their reuse falls under fair use, then they may be free from liability.  
+                                                           
+11  See Mills v. State of Alabama , 384 U.S. 214 (1966). 
+12  Id. at 218. 
+[PAGE 12]
+Without the proposed exemption, creators will be unknowingly and unwillingly violating copyright 
+law. 
+The few creators who are aware of the anti-circumvention measures do not have access to legal 
+advice that would help them understand copyright law for their benefit.  Without an understanding of 
+copyright law or access to legal counsel, these creators may face liability under 1201(a)(1), attempt to 
+evade liability by using lower quality content, or may not post  any remix videos at all.  Any three of 
+those outcomes will have obvious adverse effects on free speech in the video creator community, as 
+well as cultural and political conversation throughout our society.  
+B.  Proposed Class 6: An exemption to Title 17, Section 1201(a)(1) of the United States Code is 
+necessary for documentary filmmakers to meaningfully engage in non-infringing reuse by 
+extracting content from DVDs, Blu-ray discs, and online distribution services without 
+unintentionally triggering allegations that their actions are prohibited by federal copyright 
+law. 
+Proposed Class 6  includes “[l]awfully made and acquired motion pictures for filmmaking purposes.  
+This exemption has been requested for audiovisual material made available in all formats, including 
+DVDs protected by CSS, Blu-ray discs protected by AACS, and TPM-protected online distribution 
+services . . . for purposes of facilitating uses of motion picture excerpts in documentary films.” 
+Documentary filmmakers analyze current events, discuss history, and comment on and criticize 
+popular culture. 13   Documentary filmmakers reuse copyrighted material from motion pictures in their 
+films,14   but often transform this copyrighted motion picture material in ways that are excused under 
+fair use.  However, the Prohibition on Circumvention of Copyright Protection Systems for Access 
+Control Technologies prohibits that otherwise legal and valuable reuse.  Section 1201(a)(1) burdens 
+the goals of fair use because filmmakers who, similar to video creators under Class 7, engage in 
+otherwise fair use of motion picture material may be liable, or fear being liable, for circumventing 
+technological protection measures (TPMs) even though the reuse does not infringe on another’s 
+copyright.  Section 1201(a)(1), without the proposed exemption, will deter documentary filmmakers 
+from engaging in fair use and spreading their messages to the public. 
+As mentioned previously at the beginning of Section II, NMR acknowledges the need for a broader 
+exemption of all otherwise lawful activities under Section 1201(a)(1).  In addition to that proposed 
+broader exemption, NMR also acknowledges the need for a broader exemption in the context of 
+documentary films.  NMR encourages the Copyright Office to pass a inclusive exemption that covers 
+                                                           
+13  A documentary filmmaker can be defined as one who produces non-fiction films that comment on and criticize society.  
+See In the Matter of Exemption to Prohibition on Circumvention of Copyright Protection Systems for Access Control 
+Technologies, Docket No. RM 2011-07, Comment of International Documentary Association, Kartemquin Educational 
+Films, Inc., National Alliance for Media Arts and Culture, and Independent Filmmaker Project , 1 (2011). Documentary 
+filmmakers frequently provide unexplored perspectives on current issues and history. Id. at 35.  These perspectives 
+further and develop public discussion. Id .  These filmmakers accomplish those services through a combination of pictures, 
+video, and sound. Id. 
+14  Motion pictures are “audiovisual works consisting of a series of related images which, when shown in succession, 
+impact an impression of motion, together with accompanying sounds, if any.” 17 USC § 101 (2014). 
+[PAGE 13]
+any filmmaker who reuses copyrighted motion picture media for non-infringing purposes. NMR 
+requests that the Copyright Office look systematically to find ways, either through regulation or 
+proposed legislation, to provide broad exemptions to Section 1201(a)(1) that protect otherwise lawful 
+uses of content such as uses made in fair use.  
+While one may find some guidance for how to define a documentary filmmaker, the definitions are 
+often confusing.  The definitions become especially ambiguous when one considers the “non-fiction” 
+component of defining a documentary filmmaker.  Many definitions use the word “non-fiction” to 
+define a documentary filmmaker. 15  However, in current society, determining whether a particular work 
+is fiction or non-fiction can sometimes be difficult. Where is the line between “fiction” and “non-
+fiction”?  A work that reuses media from fictional motion pictures but makes a comment on the real 
+world might be placed in either category. 16   Would the creator of such a work be considered a 
+documentary filmmaker?  The difficulty associated with defining “fiction” and “non-fiction” supports 
+adopting a broader exemption that eliminates such ambiguity and confusion. A broader exemption 
+would promote clarity and extend the benefits of the proposed exemption to more people who engage 
+in non-infringing reuse of copyrighted material.  
+Many filmmakers create fictional and nonfictional films that are highly transformative and thus fall 
+under fair use.  Those filmmakers should be able to circumvent TPMs to access needed content 
+regardless of what genre their films fall under.  As long as creators participating in either genre reuse 
+content for non-infringing purposes, such as fair use, then the creators should be able to circumvent 
+TPMs. A distinction between whether a work is classified as fiction or nonfiction, even or whether the 
+filmmaker is making a commercial or non-commercial use, should not limit a filmmaker’s access to 
+media.   
+With the need for an inclusive exemption to Section 1201(a)(1) that doesn’t addressed, NMR now 
+presents its specific arguments and evidence specifically supporting the proposed exemption for 
+documentary filmmakers.  First, the uses by the documentary filmmakers will be non-infringing.  
+NMR supports an exemption that allows documentary filmmakers who seek to make fair use in 
+filmmaking of copyrighted motion pictures to circumvent TPMs that protect DVDs, Blu-ray discs, and 
+digitally transmitted video.  Second, filmmakers need access to high quality content, which may be 
+unavailable without circumventing TPMs, in order to communicate their message to their audience.  
+Finally, this exemption is necessary to protect filmmakers who would be exempt under Proposed Class 
+7 (Audiovisual Works – Derivative Uses – Noncommercial Remix Videos) but for the fact that they 
+receive compensation for their work. 
+ 
+                                                           
+15  See definitions, supra  note 18. 
+16  Take, for example, Jonathan Mcintosh, an independent video creator.  Mr. Mcintosh created a video titled Buffy v. 
+Edward which reused media from two fictional sources: the Twilight franchise (fictional movies) and Buffy the Vampire 
+Slayer (a fictional television show).  However, in Buffy v. Edward , Mr. Mcintosh utilized that fictional media to comment 
+on how American popular culture portrayed gender roles.  Was Mr. Mcintosh’s video fiction or non-fiction?  This example 
+illustrates the difficulty in providing an accurate definition of whether a work is fiction or non-fiction.  That definition of 
+fiction or non-fiction bears heavily on whether a filmmaker is a “documentary filmmaker.” 
+[PAGE 14]
+1.  The proposed exemption is limited to uses that do not infringe copyright and it is intended 
+to afford documentary filmmakers the opportunity to fully assert a fair use defense in a 
+legal proceeding before such a defense becomes moot due to Section 1201(a)(1)’s 
+imposition of liability for circumventing TPMs. 
+The proposed exemption is designed to protect documentary filmmakers who seek to make fair use 
+in filmmaking of copyrighted motion pictures protected by CSS, AACS, and TPMs that protect 
+digitally transmitted motion pictures.  The support for this exemption is similar to the support provided 
+for remix video creators in section A, subsection 1.  Just like that proposed exemption, this exemption 
+covers those who seek to bypass TPMs in order to reuse copyrighted material for non-infringing 
+purposes, such as fair use. This exemption is designed to protect documentary films that comment on 
+other films, criticize other films, inform the audience about certain topics in films, and comment on 
+and criticize society.  These documentary films represent uses that Title 17, Section 107 of the United 
+States Code mandates are protected under fair use. 17   Documentary filmmakers reuse clips from 
+motion pictures that were designed to entertain audiences. However, the documentary uses the original 
+motion picture to convey an entirely new message that informs the public and criticizes or comments 
+on the underlying work. Because documentary filmmakers reuse the original motion picture media to 
+comment on the underlying work, the documentaries add to the original work with a new message, 
+often making the documentaries’ uses transformative.   
+A documentary filmmaker’s most effective means of communicating with the public is often 
+accomplished through reuse of copyrighted motion picture clips for fair use purposes. Similar to a 
+journalist’s need to quote in written news articles, a documentary filmmaker requires access to actual 
+motion pictures in order to provide evidence for the film’s argument and message.  A documentary 
+filmmaker who provides evidence for their message with actual video content conveys a much more 
+effective message. Without access to copyrighted video content, the filmmaker’s argument loses 
+credibility. 
+Take, for example, Valentino’s Ghost , a documentary film created by Michael Singh.  According to 
+Mr. Singh, Valentino’s Ghost “ provides evidence of Hollywood filmmakers’ bigotry and 
+Islamophobia, amongst other things, by offering film excerpts as proof.”  The film transformed 
+copyrighted material into evidence used to criticize the underlying work, an obvious example of fair 
+use. Mr. Singh explained that Valentino’s Ghost  “reuses a wide variety of copyrighted media. . . . 
+These excerpts illustrate and clarify the arguments that the documentary’s several analysts develop 
+over the course of the film.”  Mr. Singh’s film conveyed a commentary on Hollywood films to educate 
+the public on cultural issues.  Without the proposed exemption, his cultural commentary and fair use 
+criticism would have been severely hindered due to Section 1201(a)(1); he would not have been able to 
+access the content he required to make a credible and effective argument.  
+                                                           
+17  17 USC § 107 (2014).  “[T]he fair use of a copyrighted work . . . for purposes such as criticism, comment, news reporting, 
+teaching . . . scholarship, or research, is not an infringement of copyright.” Id. 
+ 
+[PAGE 15]
+Mr. Singh noted that, “[i]f we had to ask studios for permission to use excerpts from their films . . . 
+they would have never have granted it. We would have gotten nowhere.”  The filmmaker thus had to 
+circumvent CSS systems on DVDs in order to access the required media.  He noted that, “[w]e took to 
+using [various software] because they provided us with the best available copies of the media we were 
+analyzing. Without those programs, the film would not have gotten off the ground.”    Mr. Singh could 
+not have created Valentino’s Ghost without this exemption because while the film obviously 
+constituted fair use, he would have been barred from accessing vital motion picture clips due to 
+Section 1201(a)(1). Also, Section 1201(a)(1) would trump any fair use defense raised by Mr. Singh 
+because he would be liable for circumvention regardless of the fact that he created the film for a 
+noninfringing purpose. Without the proposed exemption, Section 1201(a)(1) curbs free expression and 
+undermines the goals of fair use by prohibiting video creators from accessing media for otherwise legal 
+purposes. 
+The proposed exemption is necessary so that documentary filmmakers, such as Mr. Singh, can 
+continue to access motion picture media for fair use in their documentaries.  Without this exemption, 
+documentary filmmakers would not be able to access certain motion pictures and thus would not be 
+able to criticize or comment on the motion pictures.  That result would prevent documentary 
+filmmakers from communicating with the public, thus harmfully chilling freedom of expression.  Strict 
+adherence to Section 1201(a)(1), without the proposed exemption, also defeats any fair use defense 
+raised by a documentary filmmaker.  The proposed exemption is necessary to support the goals and 
+purposes of fair use. 
+2.  This exemption is necessary so that documentary filmmakers have access to high quality 
+content 
+Just like the remix video creators mentioned in section A, documentary filmmakers also require 
+high quality motion picture media to effectively convey their messages to their audiences. High quality 
+content allows documentary filmmakers to communicate with their audiences effectively.  Low quality 
+content, however, creates difficulties for documentary filmmakers and deters audiences from viewing 
+documentaries.  In contemporary American society, high definition video content is not only preferred 
+by audiences, it is expected. 18  A documentary filmmaker’s ability to communicate their message 
+effectively depends on the quality of the video content that the filmmaker uses.  This exemption, if 
+adopted, will avoid limiting documentary filmmakers to inferior quality content and thus inferior 
+communication. 
+Rick Bowman, whose work is discussed in section A, explained the importance of using high 
+quality media in his films.  Mr. Bowman stated that quality is, “[v]ery important . . . in today’s market 
+                                                           
+18  See Robert Andrews, Growing Demand for Video Quality Tests Networks: Akami’s Michel, Beet.tv, 
+http://www.beet.tv/2014/09/ibcakamai.html (Sept. 15, 2014).  Akami product marketing director Kurt Michel stated that 
+“demands of audiences are going to increase, expecting broadcast-levels of quality.”  Id.  See also Ovum, Consumer Trend 
+Research: Quality, Connection, and Context in TV Viewing, Ovum.com, http://apps.avid.com/ovum-report2/assets/Ovum-
+Consumer-Research-Report.pdf (July 2013).  “In a rapidly evolving market where significant time and effort goes into 
+developing new ways to approach audiences, the strongest driver of audience engagement is still high-quality content 
+with outstanding image and audio rendering.” Id. at 3. 
+[PAGE 16]
+people are used to Hi-Def and the higher the resolution on the big screen the better it will look.  My 
+understanding is that at this past year’s American Film Market event in Los Angeles, distributors 
+didn’t want to look at any films unless they had been filmed in 4k.” 19   As Mr. Bowman’s comments 
+explain, many people will not view a video unless the video utilizes high quality content.  Without 
+access to high quality content, many artists will never have the chance to communicate their message 
+with the public. 
+Another NMR client who works as a filmmaker explained the importance of high quality content in 
+films in a similar context.  When asked how important it was to access high quality content, the 
+filmmaker responded, “[v]ery, but sometimes I’m forced to make concessions on quality as a trade-off 
+for access.”  This filmmaker’s statements illustrate a problem that many documentary filmmakers will 
+face without the proposed exemption. Nowhere is this need more acute than with expanding 
+exemptions to Blu-Ray.  Without the exemption, documentary filmmakers will not be able to access 
+certain content and thus will have to forego using that content.  Many documentary filmmakers will 
+not be able to communicate their intended message with the public, which limits the filmmakers’ 
+ability to express themselves.  Thus, the proposed exemption is necessary to allow communication 
+between documentary filmmakers and the public. 
+Michael Singh, a documentary filmmaker whose work was discussed earlier, also noted the 
+importance of high quality content.  Mr. Singh reused a wide variety of copyrighted material from 
+motion pictures while working on Valentino’s Ghost .  On the importance of the reused content’s 
+quality, Mr. Singh stated that “[t]he higher the quality of the reused media, the more credible our 
+analysts seem to be.  And credibility is everything.”  Mr. Singh also acknowledged the adverse effects 
+related to poor quality content when he noted that, “[p]oor quality media excerpts not only provide less 
+detail and less information, they can also undermine the audience’s confidence in the documentary, 
+and even pull them out of the film.” As Mr. Singh’s comments show, access to high quality content is 
+critical to a film’s success.  High quality content makes the film more credible and ensures that 
+audiences will actually watch the film. 
+To illustrate the direct impact of lower quality content, Mr. Singh notes that he could not obtain 
+high quality content for all portions of his project and the work suffered because of lower quality 
+content.  Mr. Singh stated that, “[i]n some instances, we were unable to procure the needed quality, 
+those sections are glaringly conspicuous.”  Mr. Singh’s comments display the importance of high 
+quality content to filmmakers.  Filmmakers require high quality content to bolster the film’s credibility 
+and keep audience’s focused on the film’s message.  Mr. Singh’s comments prove that filmmakers 
+suffer adverse effects when they have to use lower quality content in their films.  Lower quality 
+content damages the film’s credibility and causes audiences to lose interest in the film. Thus, without 
+access to high quality content, films become less effective means of spreading the creator’s message.  
+Strict adherence to Section 1201(a)(1), without this exemption, will prevent many documentary 
+                                                           
+19  4k refers to a common name for ultra-high-definition television.  Content that has horizontal resolution on the order of 
+4,000 pixels is 4k. 
+[PAGE 17]
+filmmakers from accessing high quality content and thus those filmmakers will not be able to 
+communicate their otherwise lawful message effectively with their audiences. 
+Artists such as Mr. Bowman, Mr. Singh, and many more, will be adversely impacted by the TPMs 
+that protect DVDs, Blu-ray discs, and online distribution services without the proposed exemption.  
+Without the proposed exemption, documentary filmmakers will be forced to use low quality content 
+because federal law will prohibit circumventing TPMs that guard high quality content on DVDs, Blu-
+ray discs, and online distribution services.  Lower quality content will prevent the filmmakers from 
+conveying an effective message to their audience because the poor quality will detract from the 
+documentaries’ credibility or audiences may simply not watch the documentaries due to poor quality.  
+Without the proposed exemption, documentary filmmakers also may have to choose between 
+bypassing TPMs to obtain high quality content (which will violate federal law) and using low quality 
+content.  Documentary filmmakers should not be forced to make such a choice.  Instead, the proposed 
+exemption should allow documentary filmmakers to bypass TPMs for fair use purposes which will 
+allow the filmmakers to access high quality motion picture content. 
+3.  This exemption is needed to protect documentary filmmakers who receive compensation 
+for their work 
+This proposed exemption is very similar to the proposed exemption for remix video creators in 
+Section A.  The exemption covers people who need to bypass TPMs in order to reuse copyrighted 
+material for non-infringing purposes, such as fair use.  One of the only differences between this 
+exemption and the proposed Class 7 exemption involves compensation. This exemption is important 
+because it will protect individuals reusing content who wouldn’t qualify under Class 7 (Audiovisual 
+Works – Derivative Uses – Noncommercial Remix Videos) simply because of the fact that they 
+receive some form of compensation for making films.  Filmmakers who receive compensation for their 
+work still have important messages to communicate with the public and should be able to circumvent 
+TPMs to communicate those messages.  The fact that these people receive compensation should not 
+prohibit them from being exempt from Section 1201(a)(1). Indeed, these filmmakers still engage in fair 
+use and not exempting them would make otherwise legal uses illegal, severely limiting speech.   
+If documentary filmmakers are not allowed to bypass TPMs simply because they receive 
+compensation for their work, then the filmmakers’ freedom of expression will be limited and the public 
+will lack access to important sources of criticism and commentary.  Many filmmakers lack the means 
+to create films for free; they often produce films as a passion, as well as to make a living.  Many films 
+have limited but important audiences, and being able to recoup some if not all the costs associated with 
+making films is critical.  Without adopting the proposed exemption, some films will simply not be 
+made, and those that are still produced will have to do so in a less effective manner.  The filmmakers 
+will lack access to content protected by CSS, AACS, and other TPMs protecting digital media sources. 
+Thus, the films will not be able to comment on or criticize certain motion picture media and the 
+filmmakers’ films will lose credibility and effectiveness.   We recommend approval of Class 7 because 
+the fact that a filmmaker simply receives some compensation for creating films should not limit their 
+ability to access and legally reuse content through circumvention.   
+[PAGE 18]
+C.     Proposed Class 16: Renewing the jailbreaking exemption for wireless telephone 
+handsets 
+Proposed Class 16 would permit “the jailbreaking of wireless telephone handsets to allow the 
+devices to run lawfully acquired software that is otherwise prevented from running, or to remove 
+unwanted preinstalled software from the device.”   
+The exemption in Proposed Class 16 should be renewed for wireless telephone handsets so that 
+consumers may jailbreak their smartphone devices.  The ability to jailbreak is essential for competition 
+and innovation.  According to a Pew Internet Project study, in 2014 58% of American adults owned a 
+smartphone. 
+20   That percentage represents a 23% increase from 35% in 2011. 21  Another study, 
+conducted by The Nielsen Company, concluded that 71% of all Americans own smartphones in 
+2014. 22  That percentage represents a 28% increase from 43% in 2011. 23  These two studies show that 
+more and more Americans are using smartphones every year. Smartphone manufacturers have 
+attempted to limit the use of these devices by blocking otherwise legal, independently created software 
+applications, known as apps, which have not been approved by the device manufacturer, the operating 
+system maker, or the wireless carrier. Consumers have been able to work around these restrictions by 
+jailbreaking, or rooting, their devices.  
+ Jailbreaking has allowed consumers to engage in otherwise legal activity that is blocked by the 
+device manufacturer, operating system maker, or wireless carrier.  Jailbreaking has given consumers an 
+alternative marketplace to purchase apps, allowed consumers to gain a better understanding of how 
+their devices work, and encouraged growth and development in the smartphone market.  The increased 
+competition and innovation that results from jailbreaking has helped combat censorship and given 
+consumers the ability to exercise self-help.  The exemption proposed in Class 16 is a narrow 
+exemption that would not have an effect on copyright owners’ ability to pursue copyright 
+infringement.  NMR urges the Copyright Office to renew the jailbreaking exemption for wireless 
+telephone handsets. 
+1.  Jailbreaking provides consumer protection since it fosters increased competition that 
+leads to more choice, less censorship, and pressure for official app stores to improve their 
+systems. 
+Jailbreaking on both iOS and Android, Apple and Google’s mobile operating systems respectively, 
+has led to increased competition.  There was no Apple App Store in 2007, the year when iOS and the 
+                                                           
+20  Mobile Technology Fact Sheet , PEW RESEARCH CENTER , http://www.pewinternet.org/fact-sheets/mobile-technology-fact-
+sheet/ (Jan. 2014).   
+21  Aaron Smith, Smartphone Adoption and Usage , PEW RESEARCH CENTER , 
+http://www.pewinternet.org/2011/07/11/smartphone-adoption-and-usage/  (July 2011). 
+22  Mobile Millennials: Over 85% of Generation Y Owns Smartphones, NIELSEN , 
+http://www.nielsen.com/us/en/insights/news/2014/mobile-millennials-over-85-percent-of-generation-y-owns-
+smartphones.html (Sept. 2014). 
+23  Generation App 62% of Mobile Users 25-34 Own Smartphones , NIELSEN , 
+http://www.nielsen.com/us/en/insights/news/2011/generation-app-62-of-mobile-users-25-34-own-smartphones.html 
+(Nov. 2011). 
+[PAGE 19]
+iPhone first came out.  Consumers could only download additional apps onto their phones by 
+jailbreaking.  Jailbreaking methods were being distributed online by August 2007, only two months 
+after the iPhone was released. 24  Consumers did not have access to the Apple App Store until it was 
+launched in July 2008, a year after Apple released the iPhone. 25    
+Today, jailbreaking on iOS allows for an app store such as Cydia to exist. Cydia is only available 
+on jailbroken iOS devices. 26   This alternative app store hosts a wide range of apps that are not available 
+in the official Apple App Store for a variety of reasons, including Apple’s strict approval process.  The 
+Apple approval process has been criticized by numerous developers as being unpredictable, unclear, 
+and subjective. 27   The competition provided by Cydia allows consumers to access many otherwise 
+legal applications that were rejected by Apple and encourages Apple to continuously improve its own 
+App Store to compete with Cydia.  On a more basic level, Cydia represents users’ right to install 
+otherwise legal software of their choice on the devices they buy. 
+ Take, for example, the app Frash, available only o n Cydia, which provides iOS users with the 
+ability to view Adobe Flash content.  Apple made a business decision to block flash from their iOS 
+devices. That decision was motivated by Apple’s desire to adopt the HTML 5 standard and control the 
+user experience on iOS.  That decision frustrated a portion of the iOS user base because it prevented 
+iOS users from accessing certain material online; Flash based online games and flash videos were 
+unavailable on iOS devices. 28   The jailbreaking community allowed consumers to make their own 
+decisions about using Flash on their devices, and gave consumers the ability to access otherwise legal 
+content that was delivered via Flash technology.   
+ Jailbreaking Android phones, commonly referred to as rooting, also allows for increased 
+competition and user choice.  The process of rooting an Android phone allows a user to install 
+applications that are not available in the Android Market, a process referred to as sideloading. 29   This 
+process allows consumers to access applications that are not in the mainstream market place because 
+Google has not approved such apps.  Consumers can also access apps that are not available in the 
+Android Market because the cell phone service provider decided to block them.  For instance, Verizon 
+blocked the app Google Wallet on the Samsung Galaxy Nexus. 30   Google Wallet is an application that 
+allows users to use their phone to pay at certain locations.  Some believed that Verizon blocked this 
+application because of the company’s plans for designing a similar payment system in the future. 31   
+                                                           
+24  Timeline, THE I PHONE W IKI , http://theiphonewiki.com/wiki/index.php?title=Timeline  (Jan. 2012). 
+25  Josh Smith, iOS and iPhone Timeline: From iPhone to iOS 5 in 5 years , GOTTA B E M OBILE , 
+http://www.gottabemobile.com/2011/06/03/ios-and-iphone-timeline-from-iphone-to-ios-5-in-5-years/  (July 2011). 
+26  Jay Freeman, Welcome to Cydia , CYDIA , https://cydia.saurik.com/  (last accessed Jan. 28, 2015). 
+27  Jim Dalrymple, iPhone app developer quits over approval process , CNET, http://news.cnet.com/8301-13579_3-
+10398624-37.html  (Nov. 2009). 
+28  Andy, No Flash Support in iPhone OS: What is the Reason Behind it? Will it matter in the Future?, IPHONE HACKS , 
+http://www.iphonehacks.com/2010/01/no-flash-support-in-iphone-os.html (Jan. 2010). 
+29  Blake Stimac, How to sideload an app onto your Android phone or tablet , GREENBOT , 
+http://www.greenbot.com/article/2452614/how-to-sideload-an-app-onto-your-android-phone-or-tablet.html (July 2014). 
+30  Verizon Wireless nixes Google Waller in new phone , ASSOCIATED PRESS , 
+http://www.crainsnewyork.com/article/20111206/TECHNOLOGY/111209935#  (Dec. 2011). 
+31  Id. 
+[PAGE 20]
+Indeed, Verizon has since developed Softcard (formally called ISIS), its own app that allows 
+smartphone users to pay for purchases at certain locations.32   Verizon stated that it blocked Google 
+Wallet because that app used a secure element. 33   However, Softcard also utilizes a secure element.34   
+Since the secure element used by Softcard is very similar to the secure element technology used by 
+Google Wallet, it is difficult for Verizon to argue that its behavior towards Google Wallet was due to 
+potential harm to Verizon’s network or customers, rather than simply a move to use its gatekeeper role 
+to get an advantage over competitors in that space.35    
+ Alternative marketplaces also provide a safety val ve to censorship by Operating System (OS) 
+makers, wireless carriers, and device manufacturers who use their gatekeeping power to control what 
+apps and services consumers can access.  In the past, Apple has denied apps such as iSinglePayer that 
+advocated for a single payer health care system because the app carried a strong political message. 36  In 
+the case of the iSinglePayer, Apple later reversed the decision after the story started circulating on the 
+internet, but not every developer receives the same attention.  Apple has denied several politically 
+themed apps in the past, such as Obama Trampoline and MyShoe (an app where the user could throw a 
+shoe at President Bush). 37   Apple rejected another politically themed app, FreedomTime, which 
+provided a clock that counted down to the end of President Bush’s term, because the content violated 
+the Community Standards. 38  The Community Standard Apple cited stated, “Applications must not 
+contain any obscene, pornographic, offensive or defamatory content or materials of any kind (text, 
+graphics, images, photographs, etc.), or other content or materials that in Apple’s reasonable judgment 
+may be found objectionable by iPhone or iPod touch users.” 39  Developers are forced to guess what will 
+be seen as objectionable to “Apple’s reasonable judgment.”  Apple rejects apps after the developers 
+have already invested time and money into the app.  That process deters developers from being 
+creative, app developers will “play it safe” because rejected apps equate to lost time and profit.   
+ Also, Apple’s method of screening apps to determin e what content is appropriate has been 
+inconsistent.  For example, Gizmodo reported on Feb. 3, 2012 that a scientific article on the penis had 
+been rejected, while an article titled “50 kinky sex moves” had been cleared. 40   Magazines released 
+through iBooks contained both articles and both articles were marketed for ages 12+.  Apple stated that 
+                                                           
+32  Verizon, http://www.verizonwireless.com/wcms/consumer/products/softcard.html (last accessed Feb. 4, 2015). 
+33  Jay Klimek, Verizon refuses to change its stance on Google Wallet , PHANDROID , 
+http://phandroid.com/2013/04/30/verizon-blocking-google-wallet/  (Apr. 2013). A secure element is a tamper-resistant 
+platform that can securely host applications and their confidential and cryptographic data.  GlobalPlatform made simple 
+guide: Secure Element , GLOBAL PLATFORM , http://www.globalplatform.org/mediaguideSE.asp  (Last accessed Feb. 4, 2015).  
+34  Klimek, supra note 31. 
+35  Id. 
+36  iSinglePayer IPhone App censored by Apple , LAMBDA JIVE , http://lambdajive.wordpress.com/2009/09/26/isinglepayer-
+iphone-app-censored-by-apple/  (Sept. 2009). 
+37  JR Raphael, 10 iPhone Apps That Didn’t Make Apple’s App Store , PCW ORLD , 
+http://www.pcworld.com/article/159887/rejected_10_iphone_apps_that_didnt_make_apples_app_store.html (Feb. 
+2009). 
+38  Freedom Time rejected by Apple for App Store , JUGGLEWARE D EVELOPERS ’ B LOG , 
+http://www.juggleware.com/blog/2008/09/freedomtime- rejected-by-apple-for-app-store/  (Sept. 2008). 
+39  Id. 
+40  Jesus Diaz, Apple Censors: Kinky Sex and G-Spots Fine for 12 Year Olds, But Penis Bad , GIZMODO , 
+http://gizmodo.com/5882034/apple-censors-science-magazines-article-about-penises (Feb. 2012). 
+[PAGE 21]
+it rejected the scientific article because that material did not correspond to the age group listed, 12+.  
+Following this logic, Apple apparently believes that a scientific article on male anatomy requires a 
+higher age restriction than an article about kinky sex positions.  The inconsistency in App Store 
+approval leads to exclusion of otherwise legal apps, and confusion among developers as to what 
+content Apple will find appropriate. 41    
+ 
+The alternative marketplaces enabled by jailbreaking give consumers an option to access otherwise 
+legal services and applications that the OS makers and wireless carriers choose to block for business 
+and political reasons.  These alternative marketplaces are only available through jailbreaking and 
+provide a safety valve to anti-competitive and speech restrictive actions by gatekeepers including OS 
+makers, wireless carriers, and device manufacturers. 
+2.  Jailbreaking leads to increased innovation that provides consumers with new technology 
+and methods of self-help. 
+The ability for consumers to jailbreak has led to greater innovation, leading to greater consumer 
+control over the wireless devices they use.  OS Makers and device manufacturers exercise control over 
+the apps and services we can access on our device in two ways: control of the application stores (like 
+the Apple App Store and the Android Market) and device development.  
+Jailbreaking allows for faster innovation that provides new technologies and methods of self-help 
+to consumers because these applications do not require the same delay in approval.  Specifically, the 
+ability to install non-Apple approved apps has allowed people to address their concerns regarding the 
+software and functioning of their smartphones.  For example, when Apple first released the iPhone in 
+2007, users had no way to disable SMS preview, which automatically displayed a preview of the actual 
+content of a text message on the screen when it was received.  An application to fix this problem 
+arrived almost instantly in the jailbreaking community, but that feature was not included in iOS until 
+the firmware update in 2009. 
+42  Apple’s delay in addressing this privacy concern frustrated many 
+iPhone users.  Apple had made a design decision to allow the text message to preview. Without this 
+exemption, users would have been forced to sit back and wait for Apple to correct the problem.  
+Jailbreaking allows for users to take a proactive approach to solving these problems.  Jailbreaking also 
+pressures Apple to address concerns with its devices based on user experience and competition.  The 
+official Apple App Store is not sufficient to apply this pressure because Apple controls the app 
+approval process. 
+The Apple App Store’s policies often deny apps that change the user experience.  The App Store 
+bars many apps available through Cydia because of App Store policies intended to maintain a specific 
+user experience.  The app DisplayOut allows mirroring of applications over HDMI for those apps that 
+                                                           
+41  Id. 
+42  Sebastian, Hide SMS Preview in iPhone OS 3.0 , ID OWNLOAD B LOG , http://www.idownloadblog.com/2009/06/25/hide-sms-
+preview/ (Jun 2009). 
+[PAGE 22]
+fail to support mirroring natively. 43   Apple barred DisplayOut from the App Store because the app 
+needed to run actively in the background.  Apple originally did not allow any multitasking or 
+background apps. 44   Apple has loosened this policy and now allows some multitasking, but still has 
+restrictions on background activity. 45  Jailbreaking allows consumers to decide if they want to allow 
+apps to run in the background, rather than being forced to accept Apple’s decision. 
+ There are also numerous apps available on Cydia th at allow users to customize the home 
+screen, such as Winterboard and Dreamboard.  One of the most popular apps on Cydia is SBSettings. 46  
+SBSettings adds a pop up window of the most popular settings, like brightness and Bluetooth, allowing 
+users to change these settings without going through the full list of settings. Apps like this are barred 
+from the App Store because they change the user experience.  These apps give consumers greater 
+control over their devices and encourage technological advancement. 
+Many apps available on Cydia in 2015 also allow users to customize their devices and provide an 
+easier, more enjoyable user experience.  For example, the iOS newsstand app cannot be deleted or be 
+placed out of sight in a folder. 47  However, the app NoNewsIsGoodNews allows users to hide that app, 
+avoiding frustration from always looking at an unused app. 48   Cydia also allows users to download 
+iFile, an iOS file manager. 49  iFile allows a user to view the files on the smartphone and organize them, 
+similar to folders on personal computers. 50   When a user taps a key on their smartphone, the app 
+Octopus Keyboard will bring up predictions for what word the user is typing. 51   If the user sees the 
+word that he is looking for, then he can swipe that word to select it. 52  
+ Jailbreaking also allows consumers to learn how th eir devices work. Smartphones are no longer 
+mysterious black boxes to most Americans.  Consumers want to know how their devices work and 
+what information their devices are recording.  In 2011, many consumers discovered a program called 
+Carrier IQ, a spyware program that recorded location, key presses, web history and other information, 
+on their smart phones, both Android and iOS. 53  Manufacturers included this program on both Android 
+and iPhone devices. 54  The only way to remove Carrier IQ was to jailbreak, or root, the phone.   
+Jailbreaking also allows consumers to download apps that provide for better monitoring of 
+performance statistics, real signal levels (dB on the cell antenna), and battery conditions of their 
+                                                           
+43  Mirroring refers to an iOS device’s display being duplicated onto another monitor.   
+44  Apple to allow third party iPhone Apps to run in the Background?, IPHONE HACKS , 
+http://www.iphonehacks.com/2009/05/apple-to-allow-third-party-iphone-apps-to-run-in-the-background.html (May 
+2009). 
+45  Apple, http://support.apple.com/en-us/HT202070  (Last accessed Feb. 4, 2015) 
+46  Will Shanklin, The best jailbreak apps in Cydia , GIZMAG , http://www.gizmag.com/best-cydia-apps/26065/  (Feb. 2013). 
+47  Id. 
+48  Id. 
+49  Id. 
+50  Id. 
+51  Id. 
+52  Id. 
+53  Elinor Mills, Android researcher: Carrier IQ ‘diagnostic’ tool really a rootkit spy , CNET, http://news.cnet.com/8301-
+27080_3-57326974-245/android-researcher-carrier-iq-diagnostic-tool-really-a-rootkit-spy/? (Nov. 2011). 
+54  Id. 
+[PAGE 23]
+device.  For examples, the app Battery Logger Plus, available for jailbroken iPhones, provides 
+consumers with additional information of their battery usage. 55    
+In addition to new features and performance monitoring, jailbreaking gives users the ability to 
+ensure the security of their wireless devices and gain more understanding and control over how their 
+phones function.  Smartphones are often tied to two year contracts.  Unfortunately, these two year 
+contracts do not provide two years of operating system updates.  For example, for Android devices, the 
+cell phone service provider has the responsibility of providing operating system software updates.  
+Often, the service provider will not continue to update Android for all the phone models, even if the 
+phone manufacturers provide updates.  The less popular phone models are abandoned, leaving 
+consumers vulnerable to security flaws. 56  Jordan Kahn created a chart which illustrates that a vast 
+number of Android-based phones under contract had operating systems that were four or more versions 
+behind the current version. 57  Jailbreaking and rooting a phone allows the consumer to continue to 
+improve their phone and ensure security throughout the device’s lifetime. 
+Jailbreaking also provides users with alternative security options for securing and accessing their 
+smartphone.  For example, the app Stride replaces the iPhone’s “slide to unlock,” “Touch ID,” or 
+“Enter Passcode” requirements for access with custom unlock gestures. 58   Stride allows the user to 
+create a pattern by sliding their thumb across the screen. That pattern then becomes the new way to 
+access the smartphone – the user will be able to slide their thumb across the screen, in a pattern that 
+only the user knows, to access the device.  
+ Jailbreaking allows consumers to truly own their d evices. Without jailbreaking, consumers 
+would be subject to a monopoly that would lead to censorship and stagnation of technology.  Wireless 
+telephone handsets are quickly becoming a tool just as powerful and useful as personal computers, 
+with additional benefits due to their mobility. Consumers using these devices should receive the same 
+freedom of software choice that users have enjoyed for years with PCs.  Allowing people to jailbreak 
+wireless telephone handsets increases innovation and competition and benefits the American 
+consumer. 
+D. Proposed Class 17: Extending the Jailbreaking Exemption to All-Purpose Mobile 
+Computing Devices, Specifically Tablets 
+Proposed Class 17 would permit “the jailbreaking of all-purpose mobile computing devices to 
+allow the devices to run lawfully acquired software that is otherwise prevented from running, or to 
+                                                           
+55  Golam Mostafa, Track Battery Usage Levels of Your iPhone With BatteryLogger Plus , THE TECH JOURNAL , 
+http://thetechjournal.com/electronics/iphone/track-battery-usage-levels-of-your-iphone-with-batterylogger-plus.xhtml 
+(Feb. 2011). 
+56  Robin Wauters, Charted: Android Fragmentation , TECH CRUNCH , http://techcrunch.com/2011/10/27/charted-android-
+fragmentation/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+Techcrunch+%28TechCrunch% 
+29  (Oct. 2011). 
+57  Jordan Kahn, Updated report graphs Apple’s dedication to supporting older iPhones vs. Android , 9TO 5M AC APPLE 
+INTELLIGENCE , http://9to5mac.com/2013/12/03/updated-report-graphs-apples-dedication-to-supporting-older-iphones-vs-
+android/  (Dec. 2013). 
+58  Will Shanklin, The best jailbreak apps in Cydia , GIZMAG , http://www.gizmag.com/best-cydia-apps/26065/  (Feb. 2013). 
+[PAGE 24]
+remove unwanted preinstalled software from the device.  The category “all-purpose mobile computing 
+device” includes all-purpose non-phone devices (such as Apple iPod touch) and all-purpose tablets 
+(such as the Apple iPad or the Google Nexus).” 
+The Copyright Office has already recognized the need that many consumers have to jailbreak their 
+wireless telephone handsets. 59   Wireless telephone handsets and all-purpose mobile computing devices, 
+especially tablets, exhibit more and more similarities as time progresses and technology improves.  
+Many all-purpose mobile computing devices are capable of carrying out the exact same functions as 
+wireless telephone handsets.  Many consumers are able to access the same data and use the same 
+applications on both wireless telephone handsets and all-purpose mobile computing devices.   Thus, 
+the need to jailbreak wireless telephone handsets also exists for all-purpose mobile computing devices. 
+Therefore, NMR supports an extension of the jailbreaking exemption to all-purpose mobile computing 
+devices. 
+1.  All-purpose mobile computing devices and wireless telephone handsets are functionally 
+almost the same, and consumers deserve and demand the ability to jailbreak both.   
+Recent technological advances have made wireless telephone handsets and all-purpose mobile 
+computing devices remarkably similar.  Aesthetically, manufacturers are building bigger wireless 
+telephone handsets that look a lot like tablets.  For example, the iPhone 6 Plus offers a 5.5 inch display, 
+while similarly capable devices like the newest iPod Touch and the iPad mini 3 offer 4-inch and 7.9 
+inch display respectively.60  The similarities continue with devices like the, the Amazon Fire phone (4.7 
+inch screen 61 ) and the Amazon Fire HD 6 tablet (6 inch screen 62 ) the Amazon Fire HD 6 tablet offers a 
+6 inch screen.  Lou Hattersley, a writer for Macworld, noted that “as iPads get smaller and iPhones get 
+bigger, we’re reaching a point where potential buyers of the two ranges could start to overlap.” 63  
+Overall, smartphones are growing larger and tablet type devices are growing smaller, making the two 
+types of devices look very similar. Indeed, many smartphones are so big that they do not fit in average 
+pants pockets 64 , and some clothing designers have increased pants pocket sizes in order to 
+accommodate the larger smartphones. 65    
+Tablets and smartphones do not only look similar to one another, the two types of devices act 
+similar to one another as well. Functionally, these two types of devices carry out many of the same 
+tasks, such as moving data over the 4G wireless tech LTE. 66   LTE allows a user to use a tablet for 
+                                                           
+59  Exemption to Prohibition on Circumvention of Copyright Protection Systems for Access Control Technologies, 77 Fed. 
+Reg. 208, 55687 (Oct. 26, 2012) (to be codified at 37 C.F.R. pt. 201). 
+60  Lou Hattersley, iPhone6/iPhone 6 Plus vs iPad mini 3 comparison: When to buy a big iPhone, and when to buy a small 
+iPad , MACWORLD , http://www.macworld.co.uk/review/iphone/iphone-6-plus-vs-ipad-mini-3-review-3586185/  (Nov. 2014). 
+61  Fire Phone Specifications , AMAZON , https://developer.amazon.com/appsandservices/solutions/devices/fire-
+phone/docs/fire-phone-specifications  (last accessed Feb. 5 2015). 
+62  Amazon Fire HD 6 , PCMAG , http://www.pcmag.com/article2/0%2c2817%2c2469747%2c 00.asp?tab=Specs  (last accessed 
+Feb. 5 2015). 
+63  Id. 
+64  Jeremy A. Kaplan, Smartphones have outgrown the average pants pocket, designer says , FOX NEWS , 
+http://www.foxnews.com/tech/2013/04/25/smartphones- have-outgrown-average-pants-pocket/  (April 2013). 
+65  Id. 
+66  Mat Honan, Never Buy a Phone Again , WIRED , http://www.wired.com/2015/01/phones-are-tablets/  (Jan. 2015). 
+[PAGE 25]
+many functions that are traditionally associated with wireless telephone handsets. 67  Consumers can 
+now use a tablet to send and receive calls with Skype, send text messages with services such as 
+WhatsApp, and make calls from a user’s existing mobile number via Google Voice. 68  One app, Line2, 
+gives a consumer an additional phone number which allows the user to make and receive phone calls, 
+text messages, and voice mail. 69   Also, T-Mobile now allows users to make calls over WiFi. 70    These 
+similarities in aesthetics and functionality have led one commentator to observe that “[t]ablets and 
+phones have essentially converged in form and function.” 71    
+Due to the remarkable similarities between wireless telephone handsets and all-purpose mobile 
+computing devices, the Copyright Office should extend the jailbreaking exemption to cover all-
+purpose mobile computing devices.  Consumers who own all-purpose mobile computing devices wish 
+to access apps that may not be approved for the Apple App Store,  Google Play, or other markets, learn 
+more about their devices, monitor their device’s performance, and so on.  Today, wireless telephone 
+handsets and all-purpose mobile computing devices are so similar, that a consumer could really use 
+either device for the exact same functions.  Therefore, the jailbreaking exemption should be extended 
+to cover all-purpose mobile computing devices. 
+ 
+III.  Conclusion  
+For the forgoing reasons, we encourage the librarian of the Copyright Office to enact the 
+proposed exemptions in Classes 6, 7, 16, and 17 to Section 1201(a)(1).  In addition, we encourage the 
+Copyright Office in the future to seek regulatory and legislative fixes that will exempt all 
+circumvention for purposes of fair use. 
+Respectfully Submitted, 
+ 
+________________________________________ 
+Art Neill, Patrick McManus, Teri Karobonik 
+New Media Rights 
+1855 1 
+st  Ave., Suite 102 
+San Diego, CA 92101 
+art@newmediarights.org  
+www.newmediarights.org 
+                                                           
+67  See Daniel P. Dern, Making Phone Calls Using Tablets And Other Mobile Devices And Apps, CORPORATE TECH D ECISIONS , 
+http://www.corporatetechdecisions.com/article/making_phone_calls_using_tablets_and_other_mobile_devices_and_ap 
+ps  (April 2014), and Honan, supra note 70. 
+68  Honan, supra note 70.  
+69 Dern, supra note 71.  
+70  T-Mobile, http://www.t-mobile.com/offer/wifi-calling-wifi-
+extenders.html?cmpid=ADV_PB_GsISrzG2&002=2202007&00 4=14686016777&005=253980587233&006=47154397937& 
+007=Search&008=&025=c&026=&gclid=CjwKEAiAo8emBRCX_O qU4qek6y8SJACzgf8fubhvb_lpw1jiN5CTUGjr_SnkJFVcMHv 
+aOH4fGtS1SBoC5s7w_wcB  (last accessed Feb. 4, 2015). 
+71  Id. 

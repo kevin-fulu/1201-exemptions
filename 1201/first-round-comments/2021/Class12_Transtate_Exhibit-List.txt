@@ -1,0 +1,59 @@
+[PAGE 1]
+US_Active\116182020\V-1 
+EXHIBIT LIST 
+Exhibit  Brief Description 
+Exhibit 1 Declaration of Robert A. Wheeler  
+Exhibit 2 Avante Diagnostic Imaging Website  
+exemplary medical devices are (link to the specific ones) 
+Exhibit 3 Declaration of Michael Spencer 
+Exhibit 4 Final Exhibit to Letters for Right to Repair 
+Exhibit 5 Declaration of Kevin Melvin 
+Exhibit 6 Declaration of John Kahler 
+Exhibit 7 Declaration of Abigail Lane-Savage 
+Exhibit 8 Declaration of E. Stuart Grogan 
+Exhibit 9 Philips Med. Sys. Nederland B.V. et al. v. TEC Holdings, Inc. et al., Case No: 3:20-cv-
+00021-MOC-DCK (W.D.N.C.) (Only the relevant portions included.) 
+Exhibit10 Philips Med. Sys. Puerto Rico, Inc., et al. v. Alpha Biomedical and Diagnostic Corp., 
+Case No: 3:19-cv-01488-CCC (D.P.R.) (Only the relevant portions included.) 
+Exhibit 11 Philips N. Am. LLC et al v. 626 Holdings, Inc. et al., Case No: 9:19-cv-81263 RS (S.D. 
+Fla.) (Only the relevant portions included.) 
+Exhibit 12 Philips, et al. v. Zetta Med. Techs. LLC, et al., C.A. No. 17-3425 (N.D. Ill.) (Only the 
+relevant portions included.) 
+Exhibit 13 Philips N. Am. LLC v. KPI Healthcare Inc., C.A. No. 19-1765 (C.D. Cal.) (Only the 
+relevant portions included.) 
+Exhibit 14 Philips N. Am. LLC et al. v. Summit Imaging Inc., et al., Case No.: 2:19-cv-01745-JLR 
+(W.D.W.) (Only the relevant portions included.) 
+Exhibit 15 Declaration of Sterling Peloso  
+Exhibit 16 Dongle cloning  
+- https://www.donglify.net/
+- https://www.academia.edu/39403989/ 
+How_to_clone_a_USB_key_and_make_a_back_up_ of_a_Dongle_Step_by_step_guide
+- http://dongleduplicate.nsys.by/
+Exhibit 17 Passcode generating 
+Exhibit 18 Medical Equipment Maintenance Report - Forecast to 2023 (publically available pages 
+only) 
+Exhibit 19 www.CMS.gov Hospital Outpatient Quality Reporting Program 
+Exhibit 20 Rona Bahreini, et al., Influential factors on medical maintenance management in search 
+of the framework, J. of Quality in Maintenance Engineering, Vol. 25, Issue 1 (June 12, 
+2018) 
+Exhibit 21 Lauren Goode, Right-to-Repair Groups Fire Shots at Medical Device Manufacturers, 
+Wired, available at https://www.wired.com/story/right-to-repair-medical-equipment-
+ifixit/ (May 19, 2020) 
+Exhibit 22 FDA Report on the Quality, Safety, and Effectiveness of Servicing of Medical Devices, 
+Published May 15, 2018, available at https://www.fda.gov/media/113431/download
+[PAGE 2]
+US_Active\116182020\V-1 
+Exhibit 23 Tao Ai, et al., Correlation of Chest CT and RT-PCR Testing for Coronavirus Disease 
+2019 (COVID-19) in China: A Report of 1014 Cases, 296 Radiology E32-E40 (Aug 
+2020) 
+Exhibit 24 Youxin Wang, et al., Combination of CT and RT-PCR in screening and diagnosis of 
+COVID-19, 10 J. Global Health 1-3 (June 2020) 
+Exhibit 25 U.S. Copyright Office, Software-Enabled Consumer Products (2016) “Software Study” 
+Exhibit 26 Section 1201 of Title 17-A Report of the Registrar of Copyrights (June 2017) “2017 
+Report” 
+Exhibit 27 Conor Hale, FDA Passes On Setting New Regulations For Medical Device Servicing, 
+Fierce Biotech 
+Exhibit 28 Guidance Document--Information Disclosure by Manufacturers to Assemblers for 
+Diagnostic X-ray Systems - Guidance for Industry and FDA Staff (September 2003) 
+Exhibit 29 Section 1201 Rulemaking: Seventh Triennial Proceeding to Determine Exemptions to the 
+Prohibition on Circumvention (“2018 Recommendation”) 

@@ -1,0 +1,55 @@
+{
+  "cycle": 2012,
+  "final_rule_file": "1201/Final Rules/2012-Final-Rule.txt",
+  "extractor_notes": "The 2012 NPRM organized petitions into 10 proposed classes (per Recommendation TOC, PDF p. 3). The Final Rule's Section III designates 8 granted classes (codified at 37 C.F.R. 201.40(b)(1)-(8)), and Section IV ('Classes Considered But Not Recommended', PDF pp. 12-18) names 4 outright-denied classes: Proposed Class 1 (public-domain literary works), Class 3 (video game consoles), Class 4 (personal computing devices, i.e., the broad PC/tablet/secure-boot proposal), and Class 10 (DVD/other-media space shifting). The denials list below captures all 4. Two additional partial denials within otherwise-granted classes are recorded: (a) Proposed Class 5 was granted for smartphones but the request to extend the jailbreaking exemption to 'tablets' was denied (Final Rule PDF p. 5; Recommendation PDF pp. 110-114) - the Register found the 'tablet' category 'broad and ill-defined'; (b) Proposed Classes 7 & 8 were granted for noncommercial videos, documentary films, multimedia ebooks, and certain educational uses, but the proposal to extend short-clip circumvention to 'fictional filmmakers' was denied (Final Rule PDF pp. 8-9; Recommendation PDF pp. 130-131). Proposed Class 9 (captioning/descriptive audio) was substantively narrowed but is treated as granted (codified at b(8)) - the broader proposed uses (creation, improvement, and rendering of captions/descriptive audio) were not directly grouped in the 'classes not recommended' section, so they are not listed here as separate denials. PDF page numbers below reference the [PAGE N] markers in the .txt extraction; the codified rule begins at PDF p. 19.",
+  "denials": [
+    {
+      "proposed_class_number": "1",
+      "topic_label": "Public-domain literary works – digital access",
+      "reason_category": "other",
+      "reason_quote": "The Register concluded that the requested exemption to access public domain works was beyond the scope of the rulemaking proceeding and declined to recommend its adoption.",
+      "source_pdf_pages": [12, 13],
+      "later_granted_in_cycle": null
+    },
+    {
+      "proposed_class_number": "3",
+      "topic_label": "Video game console jailbreaking – software interoperability",
+      "reason_category": "evidence",
+      "reason_quote": "Because the Register determined that the evidentiary record failed to support a finding that the inability to circumvent access controls on video game consoles has, or over the course of the next three years likely would have, a substantial adverse impact on the ability to make noninfringing uses, the Register declined to recommend the proposed class.",
+      "source_pdf_pages": [13, 14, 15],
+      "later_granted_in_cycle": null
+    },
+    {
+      "proposed_class_number": "4",
+      "topic_label": "Personal computing devices – software interoperability (broad PC/tablet/secure-boot)",
+      "reason_category": "evidence",
+      "reason_quote": "Proponents had relied heavily on speculation and failed to present specific and compelling evidence in support of a focused exemption. The Register therefore declined to recommend the adoption of the proposed class.",
+      "source_pdf_pages": [15, 16, 17],
+      "later_granted_in_cycle": null
+    },
+    {
+      "proposed_class_number": "5 (tablet portion only)",
+      "topic_label": "Tablet jailbreaking (extension of smartphone class to tablets)",
+      "reason_category": "other",
+      "reason_quote": "The Register determined that the record lacked a sufficient basis to develop an appropriate definition for the 'tablet' category of devices, a necessary predicate to extending the exemption beyond smartphones.",
+      "source_pdf_pages": [4, 5],
+      "later_granted_in_cycle": 2015
+    },
+    {
+      "proposed_class_number": "7 & 8 (fictional-filmmaker portion only)",
+      "topic_label": "Motion picture short clips for fictional filmmakers",
+      "reason_category": "noninfringing_use_not_shown",
+      "reason_quote": "The Register therefore concluded, on the record before her, that fictional filmmakers had failed to establish that the uses in which they sought to engage were likely to be noninfringing.",
+      "source_pdf_pages": [8, 9],
+      "later_granted_in_cycle": null
+    },
+    {
+      "proposed_class_number": "10",
+      "topic_label": "Motion pictures and other works – space shifting",
+      "reason_category": "noninfringing_use_not_shown",
+      "reason_quote": "The Register concluded that proponents had failed to establish that the prohibition on circumvention is imposing an adverse impact on noninfringing uses and declined to recommend the requested exemptions for space shifting.",
+      "source_pdf_pages": [17, 18],
+      "later_granted_in_cycle": null
+    }
+  ]
+}

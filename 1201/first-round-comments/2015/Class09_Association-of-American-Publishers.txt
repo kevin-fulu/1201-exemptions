@@ -1,0 +1,49 @@
+[PAGE 1]
+ 
+ 
+Short Comment Regarding a Proposed Section 1201 Exemption 
+  
+Item 1. Commenter Information  
+ 
+As the principal national trade association of the U.S. book publishing industry, AAP represents 
+some 400 member companies and organizations that include most of the major commercial book 
+and journal publishers in the United States, as well as many small and non-profit publishers, 
+university presses and scholarly societies. AAP members publish hardcover and paperback books 
+and journals in every field of human interest. In addition to publishing print materials, many 
+AAP members are producing e-books as well as computer programs, databases, Web sites and a 
+variety of multimedia works for use in online and other digital formats. 
+ 
+Item 2.  Proposed Class Addressed 
+ 
+ Proposed Class 9: Literary Works Distributed Electronically – Assistive Technologies 
+ 
+“This proposed class would allow circumvention of access controls on lawfully made and 
+acquired literary works distributed electronically for purposes of accessibility for persons who 
+are print disabled. This exemption has been requested for literary works distributed electronically, 
+including e-books, digital textbooks, and PDF articles.” 
+ 
+Item 3. Statement Regarding Proposed Exemption 
+ 
+In prior proceedings, the Register of Copyrights and/or the Librarian of Congress have been 
+notably flexible and generous in applying the rules on proponents’ evidentiary burdens in order 
+to grant and renew successively broader versions of exemptions that authorize circumvention of 
+access controls which restrict the use of assistive technologies to make non-infringing uses of 
+literary works distributed electronically.  In particular, they have granted the renewal requests 
+notwithstanding the absence of evidence demonstrating that a previously-granted exemption for 
+this class of works has actually been used to provide a remedy for the identified problems it was 
+supposed to address.  However, AAP acknowledges that these determinations were also based 
+upon the consideration of changing market conditions which, despite the proliferation of mobile 
+devices used to read such works, do not yet offer inherent accessibility across such platforms or 
+in the commercially-available versions of such works for consumers with print disabilities. 
+ 
+Insofar as the pending Class 9 proposal seeks to renew the current exemption (adopted in 2012) 
+without revision, AAP does not object to granting that proposal, despite our disagreement with 
+the 2012 rulemaking decision to eliminate the requirement in previous versions of the exemption 
+that circumvention was permitted only if all existing e-book editions of the work (including 
+digital text editions made available by authorized entities under Section 121 of the Copyright Act) 
+contained restrictive access controls. AAP urges the Register and the Librarian to ensure that any 
+continued relaxation of the evidentiary rules deemed necessary to reach this result doesn’t extend 
+beyond their consideration of this proposed class, and to remain open to narrowing or rejecting 
+such an exemption in the future as market conditions – including the implementation of ePub3 
+and HTML5 standards – limit the variability of accessibility capabilities across such devices and 
+increase the commercial availability of accessible versions of such works in the marketplace.   

@@ -1,0 +1,841 @@
+[PAGE 1]
+[   ] Check here if multimedia evidence is being provided in connection with this comment
+ITEM A. PETITIONER INFORMATION 
+Transtate Equipment Company, Inc. d/b/a Avante Diagnostic Imaging 
+1040 Derita Rd. 
+Suite A 
+Concord, NC 28027 
+Robert Andrew Wheeler, President 
+Telephone: 800-710-9996 
+Of counsel: 
+Dentons US LLP 
+233 South Wacker Drive, Suite 5900 
+Chicago, IL 60606 
+Telephone: 312-867-2578 
+david.metzger@dentons.com
+taaj.reaves@dentons.com
+ITEM B. PROPOSED CLASS ADDRESSED
+Class 12: Computer Programs—Repair, and, in particular, the subset of Electronic Servicing 
+Materials for Diagnosis, Maintenance, Repair of Medical Equipment 
+The Librarian of Congress is requested to exempt from the anti-circumvention provision of the 
+Digital Millennium Copyright Act (17 U.S.C. § 1201) (“DMCA”), the circumvention of 
+technological measures (also referred to herein as technological protective measures (“TPMs”))1
+undertaken by or on behalf of the owners or lessees of the medical systems and devices, for the 
+purpose of accessing and using medical equipment servicing materials in the form of computer 
+programs and data files (including databases and manuals) which are necessary for servicing 
+1 In using the terms “technological protective measure” and “TPM,” Petitioner does not admit or concede that the 
+technological measures discussed herein meet the definition of a “technological measure” that “effectively controls 
+access to a protected work,” as defined in 17 USC § 1201(a)(3)(B). 
+[PAGE 2]
+2 
+(diagnosis, repair, and maintenance) of the medical devices and systems, thereby ensuring proper 
+operation and compliance with manufacturer and governmental specifications; and where such 
+circumvention does not constitute a violation of any other applicable law. 
+This exemption will allow owners and lessees of medical systems and medical devices, and their 
+authorized agents, to access and use the servicing materials and perform servicing activities that 
+are essential to the repair, diagnosis, and maintenance of their own medical equipment, without 
+the threat of legal action should the need arise to actually or allegedly circumvent a TPM.  This 
+exemption will also alleviate the unintended consequences of the application of copyright law 
+enacted for developers of software applications for stand-alone computers, to specialty medical 
+equipment integrated with software. 
+ITEM C. OVERVIEW
+Petitioner Transtate Equipment Company (d/b/a Avante Diagnostic Imaging) (“Petitioner”) is a 
+member of the Avante Health Solutions group of companies (https://avantehs.com) that, among 
+other things, (a) provide high quality refurbished medical devices and systems (also referred to 
+herein as “medical equipment” or “equipment”); (b) provide post warranty repair, diagnosis, 
+and maintenance of medical systems and devices (“servicing activities”); and (c)  sells new and 
+used parts, all manufactured by Original Equipment Manufacturers (“OEMs” or 
+“manufacturers”).  Petitioner focuses on ionizing radiation emitter medical imaging systems, 
+namely catheterization and angioplasty X-ray systems and computed tomography systems.  
+Petitioner has several sister companies, including Dre Medical, Inc. d/b/a Avante Medical 
+Surgical, Pacific Medical, Inc. d/b/a Avante Patient Monitoring, Global Medical Imaging, Inc. 
+d/b/a Avante Ultrasound, and Oncology Services International, Inc. d/b/a Avante Oncology 
+Services.2  Petitioner and its sister companies are independent service organizations (“ISOs”).3
+Petitioner’s sister company, Avante Medical Surgical, focuses on surgical equipment including 
+C-Arm fluoroscopy devices, anesthesia machines, and electrosurgical units.4  Sister company 
+Avante Patient Monitoring focuses on monitoring systems including patient monitors, telemetry 
+systems, gas analyzers, and fetal monitors.  Sister company Avante Ultrasound focuses on 
+ultrasound machines.  Sister company Avante Oncology Services focuses on linear accelerators 
+and CT simulators.5
+Exemplary medical equipment are shown below. 
+2 See Wheeler Declaration, attached hereto as Exhibit 1, at ¶ 5; see also (https://avantehs.com/), attached hereto as 
+Exhibit 2.   
+3 ISOs are entities, other than the manufacturer or healthcare establishments, that, among other things, maintain, 
+restore, refurbish, or repair a finished device after distribution, for purposes of returning it to the safety and 
+performance specifications established by the manufacturer and to meet its original intended use;  see also Wheeler 
+Decl. at ¶ 5.                                                                                                                  
+4 See Spencer Declaration, attached hereto as Exhibit 3, at ¶ 1.   
+5 Wheeler Decl. at ¶ 5.  
+[PAGE 3]
+3 
+GE Innova 3100 Cath/Angio System Philips Intellivue MP70 Patient Monitor 
+Puritan Bennett 840 Ventilator Siemens SOMATOM Perspective CT Scanner 
+
+[PAGE 4]
+4 
+Petitioner realizes that it likely will be the only ISO or one of very few ISOs to provide 
+comments with respect to the medical device servicing issues.  However, the limited number of 
+ISO Petitioners should not be taken as a lack of interest in this exemption or the desire of others 
+for the requested exemption.  On the contrary, this issue is of widespread concern among 
+medical technicians.6  The ISOs in the medical equipment servicing market are small compared 
+to the OEMs, and operate under the fear of retaliation in the form of access restrictions and slow 
+deliveries of, or refusal to deliver parts, in addition to the ongoing threat imposed by the DMCA.    
+In addition, two of the larger ISOs enjoy a high level of cooperation from the OEMs, and, 
+presumably, do not want that relationship jeopardized, and thus are not getting involved.  These 
+unique circumstances should be better understood by way of the following explanation. 
+In the past, medical devices and systems were composed only of mechanical and electrical parts, 
+i.e., hardware.  For example, X-ray machines initially were analog devices and consisted of an 
+X-ray tube to radiate X-rays and film for capturing an image.  Later, film was replaced by digital 
+image capturing devices, making the X-ray machines digital rather than analog.  The 
+specifications and other information relating to the functions of these older analog medical 
+devices and systems were provided in hard copy manuals.  The devices and systems could be 
+serviced by technicians with access to the manuals, as well as with the relevant mechanical and 
+electrical knowledge, experience, and tools.7
+However, hardware components have since been replaced by computing processors and 
+software.  As computers developed, computerized functions have become incorporated into the 
+medical equipment.  For example, stand-alone computers were used to control the digital image 
+capturing devices in X-ray systems.  Subsequently, more and more functions have become 
+controlled or performed by computers, and the computers have become integrated into the 
+devices such that the devices and the computers (i.e., the “hardware”) and the software are 
+inseparable.  Now large sophisticated systems such as MRI and catheterization and angioplasty 
+X-ray systems (often referred to as “cath lab” systems) are completely controlled by specially 
+programmed computers integrated into the systems.8
+As a result, today, medical devices and systems are, for all intents and purposes, specialized 
+computers, although some use software running in common operating system environments such 
+as Linux or Microsoft Windows®.  The devices and systems often also include software specific 
+to the medical devices, that is to say, the software from one OEM for one type of device likely 
+cannot be used on the similar device from another OEM.  Further, the devices are integrated to 
+such a degree that the devices will not function without the software, and servicing of the devices 
+often is not possible without use of the installed software and data files.  Indeed, to properly 
+diagnose faults and errors in the operation of a device, it is often necessary to access error logs to 
+decipher the causes of errors, and this requires access to certain software.9
+6 See, e.g. Exhibit 4 (Add final exhibit to Letters for Right to Repair).  
+7 Wheeler Decl. at ¶ 9. 
+8 Wheeler Decl. at ¶ 10.
+9 Wheeler Decl. at ¶¶ 14, 33;  see also Melvin Declaration, attached hereto as Exhibit 5, at ¶ 5; see also Kahler 
+Declaration, attached hereto as Exhibit 6, at ¶¶ 6-14; see also Lane-Savage Declaration, attached hereto as Exhibit 7, 
+at ¶ 5; see also Grogan Declaration attached hereto as Exhibit 8, at ¶ 6. 
+[PAGE 5]
+5 
+Also, manuals and other service information documents often are provided by OEMs via 
+electronic media, sometimes as data files installed on the medical systems or devices.  Hence, 
+servicing activities require access to and use of computer programs or modules thereof, 
+electronic data files, including databases, and electronic manuals (collectively also referred to 
+herein as, “electronic service materials”).10
+While this switch to reliance on software conceptually does not pose an issue, OEMs 
+overwhelmingly equip modern medical systems and devices with TPMs such as encryption, 
+embedded software, and challenge-response mechanisms, involving access codes, passwords, 
+keys, or digital signatures.  These TPMs prevent or hinder medical equipment owners, lessees, 
+and their agents from repairing, diagnosing, and maintaining the medical systems and devices 
+they own or lease by restricting or denying access to necessary electronic service materials 
+installed in the medical equipment or otherwise provided via electronic media.11
+Additionally, electronic servicing materials, although not stored within the medical systems or 
+devices, may be stored on other electronic media where access is prevented or hindered by 
+TPMs, e.g., encryption.12
+The OEMs use the TPMs and the anti-circumvention provision of the DMCA to deter owners, 
+lessee, and their ISO agents from accessing the necessary software by threatening and filing 
+lawsuits.  The TPMs are alleged to be “technological measures,” the circumvention of which is 
+allegedly prohibited by the DMCA.  While ISOs deny these allegations, the owner and lessee 
+medical centers and ISOs are attuned to these threats.  Indeed, as detailed below, the owners and 
+lessees, while wanting to hire ISOs to service their medical equipment, refrain from doing so.  
+What makes the DMCA anti-circumvention provision so atrocious is its application to the mere 
+“access” to protected works regardless whether the works are actually used or are comingled 
+with unprotectable works.13  Wily, OEMs place data files, including error logs, configuration 
+files, and other unprotected works, behind the same TPMs.14  This results in  unprotected works 
+being inaccessible because, in order to access the unprotected works, one must also access 
+protected works (as defined in the DMCA) and therefore risk violating or being accused of 
+violating the DMCA.  Thus, by co-mingling protected and unprotected works, OEMs are able to 
+prevent access to unprotected works as well and thwart even the most basic servicing of the 
+medical equipment.15
+The anti-circumvention restrictions of the DMCA have been aggressively invoked by OEMs in 
+various assertions and lawsuits to prevent access to such computer software and data files, with 
+Philips being particularly aggressive.  See, e.g.,  Philips Med. Sys. Nederland B.V. et al. v. TEC 
+Holdings, Inc. et al., Case No: 3:20-cv-00021-MOC-DCK (W.D.N.C.) (Count V at 48-54)16; 
+10  Wheeler Decl. at ¶ 17;  see also Melvin Decl. at ¶ 3. 
+11 Wheeler Decl. at ¶ 33;  see also Spencer Decl. at 5; see also Melvin Decl. at ¶ 5; see also Lane-Savage Decl. at ¶ 
+10. 
+12 Melvin Decl. at ¶ 11; see also Kahler Decl. at ¶ 7. 
+13 Petitioner does not admit that any particular work is “protected” as that term is used in the DMCA, or that any 
+particular work enjoys enforceable rights.
+14 Wheeler Decl. at ¶ 20; see also Grogan Decl. at ¶ 6; see also Lane-Savage Decl. at ¶ 5. 
+15  Wheeler Decl. at ¶ 20; see also Lane-Savage Decl. at ¶ 3; see also Melvin Decl. at ¶ 4. 
+16 Exhibit 9 
+[PAGE 6]
+6 
+Philips Med. Sys. Puerto Rico, Inc., et al v. Alpha Biomedical and Diagnostic Corp., Case No: 
+3:19-cv-01488-CCC (D.P.R.) (Third Cause of Action at 25-26)17; Philips N. Am. LLC et al v. 
+626 Holdings, Inc. et al., Case No: 9:19-cv-81263 RS (S.D. Fla.) (Count VI at 22-25)18; Philips, 
+et al. v. Zetta Med. Techs. LLC, et al, C.A. No. 17-3425 (N.D. Ill.) (Count III at 18-19)19; Philips 
+N. Am. LLC v. KPI Healthcare Inc., C.A. No. 8:19-cv-1765 (C.D. Cal.) (Fourth Cause of Action 
+at 28-30)20, and Philips N. Am. LLC et al. v. Summit Imaging Inc. et al., Case No: 2:19-cv-
+01745-JLR (W.D. Wash.) (First Cause of Action at ¶¶ 77-106).21  Such frequent invocations of 
+the anti-circumvention provisions of the DMCA show just how acute the issue presented by this 
+petition is.  Without the exemption, the OEMs will continue to prevent or unduly hinder lawful 
+servicing activities by owners, lessees, and their ISO agents on medical systems and devices by 
+threatening or taking legal action. 
+As noted below, servicing activities can legitimately be performed by owners (including 
+refurbishers such as Petitioner), lessees, and their ISO agents, and do not need to be performed 
+by OEMs.  But, again, to perform these activities, it is necessary to access the computer 
+software, data files, and electronic service materials necessary for performing these servicing 
+activities.22
+Additionally, many owners have older equipment that OEMs no longer support because the 
+OEMs have deemed the equipment to have reached end of commercial life, and hence the 
+equipment is considered obsolete.  As a result, the OEMs do not provide renewed access codes 
+and keys; or the access codes and keys are obsolete, damaged, or malfunctioning, so that they 
+cannot be disabled and, therefore, owners are prevented from accessing the computer software 
+and data files needed for servicing activities.  However, with proper servicing by owners or 
+ISOs, such systems can still function well and continue to be used, thus saving healthcare 
+providers significant sums of money.23
+In order to ensure that the critical servicing activities required for medical equipment continues, 
+an exemption from the anti-circumvention provision of the DMCA is needed to eliminate an 
+unintended impediment to the servicing of medical equipment.  This will allow owners, lessees 
+and ISOs hired by owners and lessees, to diagnose, repair, and maintain medical systems and 
+devices that employ TPMs to deny or restrict access to the computer software, or modules 
+thereof,24 data files, and manuals used for controlling operation or functions of the medical 
+equipment, or which store information pertaining to the medical equipment, but which are 
+necessary for conducting servicing activities.25 The proposed exemption will enable timely and 
+17 Exhibit 10 
+18 Exhibit 11 
+19 Exhibit 12 
+20 Exhibit 13 
+21 Exhibit 14 
+22 Melvin Decl. at ¶ 8; see also Kahler Decl. at ¶ 7; see also Grogan Decl. at ¶ 5.
+23 Wheeler Decl. at ¶ 30; see also Kahler Decl. at ¶ 16; see also Melvin Decl. at ¶ 8; see also Lane-Savage Decl. at ¶ 
+15. 
+24  Some medical systems, such as medical imaging systems, are controlled by software packages only a portion of 
+which are necessary for performing servicing activities.  This portion can comprise one or more discrete applications 
+or one or more modules of a larger integrated computer program.  The one or more modules may be invocable by a 
+larger already running computer program, or as branches within an already running integrated program. 
+25  That the computer software and data files used for servicing activities are copyright protected works currently is 
+in dispute in various courts.  See, e.g., Philips Medical Systems Nederland B.V. et al. v. TEC Holdings, Inc. et al., 
+[PAGE 7]
+7 
+efficient diagnosis and maintenance of medical systems and devices to improve their 
+functionality, and to ensure compliance with manufacturer and regulatory specifications.  
+This exemption builds on the following previously-granted exemptions: 
+ The 2018 exemption for “Computer programs that are contained in and control the 
+functioning of a lawfully acquired motorized land vehicle such as a personal automobile, 
+commercial vehicle, or mechanized agricultural vehicle, except for programs accessed 
+through a separate subscription service, when circumvention is a necessary step to allow 
+the diagnosis, repair, or lawful modification of a vehicle function, where such 
+circumvention does not constitute a violation of applicable law, including without 
+limitation regulations promulgated by the Department of Transportation or the 
+Environmental Protection Agency, and is not accomplished for the purpose of gaining 
+unauthorized access to other copyrighted works.” 
+ The 2018 exemption for “Computer programs that are contained in and control the 
+functioning of a lawfully acquired smartphone or home appliance or home system, such 
+as a refrigerator, thermostat, HVAC, or electrical system, when circumvention is a 
+necessary step to allow the diagnosis, maintenance, or repair of such a device or system, 
+and is not accomplished for the purpose of gaining access to other copyrighted works.” 
+ The 2015 exemption for “Computer programs that are contained in and control the 
+functioning of a motorized land vehicle such as a personal automobile, commercial 
+motor vehicle or mechanized agricultural vehicle, except for computer programs 
+primarily designed for the control of telematics or entertainment systems for such 
+vehicle, when circumvention is a necessary step undertaken by the authorized owner of 
+the vehicle to allow the diagnosis, repair or lawful modification of a vehicle function; 
+and where such circumvention does not constitute a violation of applicable law, 
+including without limitation regulations promulgated by the Department of 
+Transportation or the Environmental Protection Agency; and provided, however, that 
+such circumvention is initiated no earlier than 12 months after the effective date of this 
+regulation.” 
+ITEM D. TECHNOLOGICAL PROTECTION MEASURE(S) AND METHOD(S) OF CIRCUMVENTION26
+Nearly all OEMs that restrict or deny owners and ISOs access to these necessary computer 
+software, data files and manuals use challenge-response TPMs, involving access codes, 
+passwords, keys, digital signatures, or encryption.  These TPMs are implemented under the guise 
+that the computer software and data files contain propriety information.  Below are several 
+examples of the TPMs OEMs employ.  
+3:20-cv-00021-MOC-DCK (W.D.N.C.) (alleging Defendants, including Petitioner, infringed Plaintiff’s copyrighted 
+works by servicing its X-ray systems, and violated the DMCA anti-circumvention provisions by bypassing TPMs to 
+gain  unauthorized access to Plaintiff's alleged copyrighted works).   
+26 Just as in fn. 1 Petitioner does not admit that the technological measures discussed herein meet the definition of a 
+“technological measure” that “effectively controls access to a protected work,” as defined in 17 USC § 
+1201(a)(3)(B), Petitioner does admit that any particular method of circumvention discussed herein constitutes a 
+prohibited circumvention under the DMCA. 
+[PAGE 8]
+8 
+Philips imaging systems employ a Field System Framework that provides multiple levels of 
+access to a system.  Philips imaging systems employ an access key dongle (“Access Key”), in the 
+form of a flash drive, that attaches to a computer port and, allegedly, must be present to run 
+software and to identify the access level of a user.  The Access Key must be “recharged” through 
+Philips every 30 days.  When a user attaches his or her Access Key to a system, the software 
+provides the user with access only to the computer software and data files that Philips, in its sole 
+discretion, allows.  Philips alone controls the active status of an Access Key and, thus, controls at 
+will when an Access Key will work.27  However, the limited subset of computer software, data 
+files, and manuals to which Philips provides access to owners and ISOs does not allow Petitioner 
+and other ISOs to perform the full gamut of authorized servicing activities necessary to ensure 
+that a given medical system can operate safely and conforms to manufacturing and regulatory 
+specifications.  
+Notably, even AIAT material (discussed below), which the FDA mandates must be freely 
+available to ISOs such as Petitioner, requires access via the Field System Framework.  And, to 
+obtain a key to obtain the lowest level of access to this information, one must first register with 
+Philips.General Electric (“GE”) also uses a dongle in the form of a flash drive on which is stored 
+a passcode or license key.28  Like the Philips dongles, a GE dongle contains a license key which 
+is read by the servicing software to determine if access is to be permitted, and to what degree 
+access is permitted.  
+Siemens provides a 256-bit passcode in the form of a hexadecimal string that is entered into the 
+servicing software system that then determines if access is permitted, and to what level.29
+Other OEMs, including Nihon Koden, Spacelabs, and Welch Alynn do not provide software 
+access to parties who are not employees of customers, for monitors and modules.30
+Dräger and Penlon also manufacture certain medical equipment that require access codes in the 
+form of passwords to access the software embedded in the machines.31
+Several ultrasound devices from various OEMs, including GE, Philips, Siemens, Toshiba, and 
+Samsung, restrict or limit access to embedded servicing software with the use of TPMs. 
+Examples of the ultrasound devices that use TPMs to restrict or limit access to software include 
+the Logiq E9, Vivid E9, Vivid E95, Logiq E10, Vivid IQ, Loqiq E, Logiq I, Vivid I, Vivid E, 
+Voluson I, Voluson E, Voluson S Series, Voluson E6/8, and Voluson E10 Series from GE; the 
+Epiq, Affiniti, CX50, iU22, iE33, HD- Series, and Volcano IVUS models from Philips; all of the 
+S – Series models, the SC2000, and New Sequoia models from Siemens, and the Aplio300/500 
+and i800 models from Toshiba.32
+These TPMs can be bypassed in several ways, some of which are discussed below. 
+27 See, e.g., Philips Med. Sys. Nederland B.V. et al. v. TEC Holdings, Inc. et al., Case No: 3:20-cv-00021-MOC-
+DCK (W.D.N.C.), Second Amended Complaint, ¶¶ 43-47.  See also Lane-Savage Decl. at ¶ 11.   
+28 Wheeler Decl. at ¶¶ 21, 25; Spencer Decl. at ¶ 5. 
+29 Wheeler Decl. at ¶ 21. 
+30 See Peloso Declaration, attached hereto as Exhibit 15, at ¶ 15.
+31 Spencer Decl. at ¶ 5. 
+32 Peloso Decl. at ¶ 3-4. 
+[PAGE 9]
+9 
+Presumably without implicating the anti-trafficking provisions of the DMCA, dongles can be 
+cloned.  The Internet has many sites that explain how to do so or that offer do it for a fee.33
+Also without implicating the anti-trafficking provisions of the DMCA, as noted above, the 
+servicing software on many, if not all large OEM machines runs in an operating system such as 
+Microsoft Windows® or Unix.  The servicing software is run under a special user account.  It is 
+possible to access the user account management of the operating system using the administrator 
+account and simply “blank out” the password for the special user account (i.e., set it to null), 
+thereby eliminating the need for a password altogether.34
+Yet further without implicating the anti-trafficking provisions of the DMCA, time consuming, 
+brute force passcode tools can be used to determine a passcode that will unlock access.  Such 
+tools are available via the Internet.35
+And yet further without implicating the anti-trafficking provisions of the DMCA, a dongle or 
+passcode can be obtained from an alternative source such as borrowed either from some medical 
+provider clients or a co-worker.   
+Petitioner also notes that there are websites that advertise that they can generate passcodes.  
+These sites appear to have reverse engineered the passcode generating algorithms.  See, e.g., 
+www.service-password.com (offering service passwords for use with CT and MRI scanners 
+manufactured by Siemens, Philips, GE, Toshiba, and Ultrasonix).36  A purchaser’s purchase and 
+use of such a passcode would seem to not implicate the anti-trafficking provisions of the DMCA.  
+Petitioner does not offer an opinion herein.   
+And, an imperfect action that might be undertaken in the face of lack of access to the electronic 
+service materials, is to rely on experience and device behavior.37  The resulting diagnosis, while 
+informed by experience, is of course, just a guess. 
+ITEM E. ASSERTED ADVERSE EFFECTS ON NONINFRINGING USES 
+The adverse effects of the DMCA anti-circumvention provision are varied.  Those affected 
+include medical equipment owners and lessees, ISOs, hospital patients, and taxpayers.38
+Without circumvention, owners and lessees are forced to pay inflated prices for OEM service 
+calls and sufficient access.  The cost for such access runs $20,000.00 to 25,000.00 USD per year 
+per device, or $2,500.00 to $5,000.00 USD per event and device.  OEMs typically charge 30% to 
+50% more for service calls than ISOs.39  Without the competition of ISOs, OEMs will see no 
+33 See, e.g., https://www.donglify.net/.  See, also, the results of a simple search at Exhibit 16. 
+34 See, e.g., https://www.raymond.cc/blog/change-xp-administrator-password-without-knowing-it/; see also, 
+https://answers.microsoft.com/en-us/windows/forum/windows_10-security-winpc/how-to-change-local-standard-
+account-password/e226df9a-f9df-4ae4-bed3-f529cfe7a7f3; see also, https://www.cyberciti.biz/faq/linux-set-change-
+password-how-to/; see also, https://www.howtogeek.com/howto/windows-vista/change-your-forgotten-windows-
+password-with-the-linux-system-rescue-cd/.
+35 See, e.g., https://www.softwaretestinghelp.com/password-cracker-tools/
+36 Exhibit 17.
+37 Peloso Decl. at ¶8; Lane-Savage Decl. at ¶22.
+38 See, e.g., Peloso Decl. at ¶¶  9-10; see also Lane-Savage Decl. at ¶ 21; see also Kahler Decl. at ¶ 10. 
+39 Melvin Decl. at ¶ 6 . 
+[PAGE 10]
+10 
+reason to lower their prices or provide prompter service.  Further, without sufficient access by 
+owner in-house service departments, troubleshooting or diagnosis of machine faults can take  
+days or weeks instead of hours, preventing more rapid  service.40
+Without circumvention, ISOs are being driven out of the medical equipment servicing market 
+altogether.  The OEMs enjoy a large a share of the servicing market, and that share continues to 
+grow.41  OEMs can and do refuse to provide ISOs with sufficient access to electronic service 
+software and materials, which often are the only tools that can be used to service the equipment.  
+Taxpayers and patients are affected because the costs for the access keys and higher service 
+charges by OEMs are then passed on to them as part of the overhead covered by the medical 
+provider’s fees.42
+Patients surely are also severely affected by delayed servicing caused by an inability of owners 
+and ISOs to troubleshoot malfunctioning equipment.43   Long service times caused by the need to 
+wait for an OEM to send a technician with a key, lead to rescheduling of procedures and 
+appointments.  Consequently, patients’ frustration with rescheduling due to unnecessary and 
+avoidable delays are expressed in patient reporting, which is reported to the Centers for Medicare 
+& Medicaid Services (CMS) through the Hospital Outpatient Quality Reporting Program 
+(“Hospital OQR Program”) under a mandate by the Tax Relief and Health Care Act of 2016.44
+Under the Hospital OQR Program, hospitals have a financial incentive high patient reporting.  
+Additionally, the TPMs are used to block access to unprotected works such as configuration 
+files, service logs, error logs, and the like.45  For example, as discussed below in Section 1 (“Fair 
+Use”), purely functional materials such as service and error logs and configuration files are 
+placed behind the TPMs.46  Thus, the TPMs adversely prevent access to and use of unprotected 
+works which should be freely available to the owners and lessees of medical equipment. 
+Patient safety also is affected.  The longer necessary medical equipment remains out of service, 
+the longer patients are denied the benefit of that equipment. 47  In facilities where there is little or 
+no redundancy of equipment, for example a smaller rural hospital or clinic, surely that can 
+translate into a lack of medical services dependent on that equipment.  Delayed medical services 
+in turn can lead to exasperated illness or even death.  Also, rather than waiting for a delayed 
+40 Melvin Decl. at ¶ 7; see also, Lane-Savage Decl. at ¶¶ 13-14.
+41 See, e.g., Medical Equipment Maintenance Market Report - Forecast to 2023 available at
+https://www.marketsandmarkets.com/Market-Reports/medical-equipment-maintenance-market-69695102.html
+(defining, describing, and forecasting the medical equipment repair market size based on device type, service type, 
+service provider, end user, and region; stating that the medical equipment maintenance market is project to reach 
+USD 74.49 billion by 2023 from USD 28.97 billion in 2018 and noting that OEMs are “expected to dominate 
+market”) provided herein as Exhibit 18.   
+42 Kahler Decl. at ¶ 16; see also Lane-Savage Decl. at ¶ 21
+43 Lane-Savage Decl. at ¶¶ 15-16; see, e.g., Peloso Decl. at ¶ 10.
+44 See, e.g., https://www.cms.gov/Medicare/Quality-Initiatives-Patient-Assessment-
+Instruments/HospitalQualityInits/HospitalOutpatientQualityReportingProgram provided hereto as Exhibit 19; see 
+also Lane-Savage at ¶ 23. 
+45 Peloso Decl. at ¶ 5; see also, Melvin Decl. at ¶ 5; see also Grogan Decl. at ¶ 6; see also Kahler Decl. at ¶ 6; see 
+also Lane-Savage Decl. at ¶ 5. 
+46 Wheeler Decl. at ¶¶ 14, 33;  see also Melvin Decl. at ¶ 5; see also Kahler Decl. at ¶¶ 6-14; see also Lane-Savage 
+Decl. at ¶ 5; see also Grogan Decl. at ¶ 6. 
+47 Lane-Savage Decl. at ¶ 17.
+[PAGE 11]
+11 
+troubleshooting of the medical equipment (when a clinical technician could instead readily 
+access the error logs), medical personnel are prone to retry use of the equipment to confirm that 
+the equipment is malfunctioning. 48  Thus, for example, if an error occurs partway through an X-
+ray scan, the patient might get rescanned, thereby being subjected to extra X-ray dosing.49
+In that regard, restrictions placed on the repair of medical devices is a risk to public safety.50
+Particularly at the height of the COVID-19 pandemic, repair and maintenance issues have 
+increased on essential medical devices like ventilators.51  Providing access to repair medical 
+equipment safely and efficiently is a matter of life and death.52
+More specifically, medical systems and devices play a pivotal role in the screening and diagnosis 
+of COVID-19.  For example, reverse-transcription polymerase chain reaction (RT-PCR), which 
+is an essential tool for medical laboratories, and chest computerized tomography (CT) are used 
+as diagnostic tests for COVID-19.53  Additionally, chest X-ray machines are integral to the 
+treatment of COVID-19 positive patients and the study of the long-term effects.  Given the 
+ubiquitous nature of COVID-19, there exists a need for hospitals, medical schools, and other 
+medical providers to allow unfettered diagnosis, repair, and maintenance of these life-saving 
+tools without having to wait for the limited resources of the OEMs.54
+In an area where properly functioning machines can literally be a matter of life and death to 
+patients, hospital and other machine owners need as many quality options as possible to keep the 
+machines functioning properly.  Petitioner’s business model as an ISO, as well as the business 
+models of other ISOs, is dependent upon the ability to quickly and efficiently respond to service 
+requests from these owners and lessees, which significantly enhances patient safety.55  As noted 
+48 Kahler Decl. at ¶ 13. 
+49 Id.
+50 See, e.g., Rona Bahreini, Leila Doshmangir, and Ali Imani, Influential factors on medical maintenance 
+management In search of a framework, Journal of Quality in Maintenance Engineering, Volume 25, Issue 1 (June 
+12, 2018) (“Lack of proper maintenance of medical equipment leads to equipment downtime, reduces the level of 
+device performance, and wastes costs and resources . . .  If preventive maintenance [on a medical device] is not well 
+monitored in a hospital, patients’ lives are in grave danger”) provided herein as Exhibit 20; see also Lane-Savage 
+Decl. at ¶ 15-18; see also Peloso Decl. at ¶ 10 
+51 See, e.g., Lauren Goode, Right-to-Repair Groups Fire Shots at Medical Device Manufacturers, Wired, available at
+https://www.wired.com/story/right-to-repair-medical-equipment-ifixit/ (May 19, 2020) (“COVID-19 has exposed 
+not only our biological vulnerabilities but also our structural, society, and political shortcomings.  Producing, 
+procuring, and distributing all kinds of medical equipment is a complicated labyrinth outside of a pandemic; within 
+the context of a global pandemic, every move or maneuver has the potential for more dire consequences.”) provided 
+herein as Exhibit 21; see also Lane-Savage Decl. at ¶ 18. 
+52 See FDA Report on the Quality, Safety, and Effectiveness of Servicing of Medical Devices, Published May 15, 
+2018, available at https://www.fda.gov/media/113431/download (“The continued availability of third party entities 
+to service and repair medical devices is critical to the functioning of the U.S. healthcare system.”) provided herein as 
+Exhibit 22; see also ¶ Peloso Decl. at ¶ 16-17. 
+53 See Tao Ai, et al., Correlation of Chest CT and RT-PCR Testing for Coronavirus Disease 2019 (COVID-19) in 
+China: A Report of 1014 Cases, 296 Radiology E32-E40 (Aug. 2020); see also Youxin Wang, et al., Combination of 
+CT and RT-PCR in screening and diagnosis of COVID-19, 10 J. Global Health 1-3 (June 2020) provided herein as 
+Exhibits 23-24, respectively.
+54 Peloso Decl. at ¶¶ 16-18; see also Lane-Savage Decl. at ¶ 15; see also Melvin Decl. at ¶ 7; see also Kahler Decl. 
+at ¶ 15. 
+55 See FDA Report on the Quality, Safety, and Effectiveness of Servicing of Medical Devices, Published May 15, 
+2018, available at https://www.fda.gov/media/113431/download (provided herein as Exhibit 25); see also Peloso 
+Decl. at ¶¶ 11-13. 
+[PAGE 12]
+12 
+above, without the exemption, OEMs will continue to hamper, if not outright prohibit, the 
+legitimate service and maintenance activities of medical equipment, devices, and imaging 
+systems by owners, lessees, and ISOs.  And, even if certain limited access is provided by OEMs, 
+it is provided at undue expense in time and money and is lacking essential information and 
+capabilities required for proper maintenance.  In short, failure to provide this exemption will 
+continue to allow OEMs to improperly harm legitimate competition and cause unnecessary death 
+or injury to countless patients by using TPMs to block access to portions of customer-owned 
+medical devices needed to repair and maintain such devices in the field. 
+The Copyright Office’s Earlier Policy Studies 
+In two policy studies, the Copyright Office previously considered the core issues this petition 
+raises.  In 2016, the Copyright Office considered the issues in connection with software enabled 
+consumer products.  See, U.S. Copyright Office, Software-Enabled Consumer Products (2016), 
+https://www.copyright.gov/policy/software/software-ful-report.pdf (“Software Study”).  In 
+2017, the Registrar considered the issues in connection with its policy review of Section 1201.  
+Section 1201 of Title 17-A Report of the Registrar of Copyrights (June 2017), 
+https://www.copyright.gov/policy/1201/section-1201-full-report.pdf (“1201 Report”). 
+In the Software Study, the Office considered how to allow repair of and tinkering with consumer 
+products with software.  The Office recognized that repair activities are often protected from 
+infringement claims by multiple copyright law provisions, including the fair use doctrine and 
+Section 117.56
+In the 1201 Report, the Office examined statutory exemptions to permit circumvention to fix 
+obsolete, damaged, or malfunctioning TPMs, to engage in diagnosis, maintenance, and repair of 
+a device protected by a TPM, noting that software has become central to the repair of many 
+devices.57  The 1201 Report noted The Repair Ass’n & iFixit comments that the “‘use of 
+electronic locks that prevent repair’ are really ‘about protecting the competitive position of the 
+manufacturers for repair services’ and outside the purpose of copyright.”58  . The Office 
+concluded that: 
+... a properly-tailored exemption for repair activities could alleviate concerns 
+regarding section 1201’s effect on consumers’ ability to engage in legitimate 
+activities that did not previously implicate copyright law, without creating a 
+material risk of harm to the market for or value of copyrighted works.  As 
+discussed above, virtually all agree that section 1201 was not intended to facilitate 
+manufacturers’ use of TPMs to facilitate product tying or to achieve a lock-in 
+effect under which consumers are effectively limited to repair services offered by 
+the manufacturer.59
+56 See Software Study at 33, 39-41, which is provided herein as Exhibit 26. 
+57 See 1201 Study at 88.   
+58 Id. at 89 
+59 Id. at 92.
+[PAGE 13]
+13 
+Other Policy Considerations 
+ISOs like Petitioner and OEMs are required to comply with safety or regulatory requirements set 
+by the Food and Drug Administration (“FDA”).60
+The FDA’s authority to regulate the servicing of medical devices by any entity, including ISOs, 
+is grounded in the agency’s authority to regulate medical devices and radiation-emitting 
+electronic products under the Federal Food, Drug, and Cosmetic Act (“FD&C”).  Notably, the 
+FDA has concluded that third-party service providers such as Petitioner and other ISOs “provide 
+high quality, safe, and effective servicing of medical devices.”  See, FDA Report on the Quality, 
+Safety, and Effectiveness of Servicing of Medical Devices, Published May 15, 2018, available at
+https://www.fda.gov/media/113431/download.  See also, Conor Hale, FDA Passes On Setting 
+New Regulations For Medical Device Servicing, Fierce Biotech, (Published May 17, 2018; Last 
+Accessed July 20, 2020) available at https://www.fiercebiotech.com/medtech/fda-passes-setting-
+new-regulations-for-medical-device-servicing) (describing the FDA’s decision not to require 
+formal regulatory action, including obligatory registration and reporting of adverse events, of 
+third party service providers of medical devices despite the Medical Imaging and Technology 
+Alliances’ urging Congress to pass legislation that would require the same).61
+The FDA specifically recognizes and provides for third party servicing of medical imaging 
+devices.  The FDA refers to this as AIAT (assembly, installation, adjustment, and testing) 
+servicing activities of medical imaging equipment.62  Per the FDA, “assembly” refers to fitting 
+together the parts or pieces of a component or system; “installation” refers to setting up for use 
+by verifying that proper assembly and adjustments were made to assure compliance with federal 
+performance specification; “adjustment” refers to bringing various component parts up to a true 
+or more effective relative position for performance purposes; and “testing” refers to critical 
+examination, observation, or observation of such conditions and operations through procedures 
+provided by the manufacturer that will prove the unit meets specifications.63
+Manufacturers of ionizing radiation emitting medical imaging systems are subject to information 
+disclosure obligations by the FDA so that AIAT servicers or other interested parties may obtain, 
+upon request, information regarding the assembly, installation, adjustment, and testing of a 
+medical imaging system to ensure it meets federal performance standards.  To that end, the FDA 
+requires at 21 C.F.R. § 1020.30(g) that: 
+Manufacturers of components listed in paragraph (a)(1) of this section shall 
+provide to assemblers subject to paragraph (d) of this section and, upon request, to 
+others at a cost not to exceed the cost of publication and distribution, instructions 
+60  The FDA is required to protect the public health from unnecessary exposure to electronic product radiation by, 
+among other things, requiring that electronic products meet performance standards.  See Section 532 of the Federal 
+Food, Drug, and Cosmetic Act, 21 U.S.C. §360ii.  The standards for ionizing radiation emitting devices are set forth 
+at 21 C.F.R. § 1020.  The standards for ionizing radiation emitting medical imaging devices are set forth at 21 
+C.F.R. §§ 1020.30-1020.33. 
+61 Attached herein as Exhibit 27. 
+62 See 21 C.F.R. § 1020.
+63 See Guidance Document--Information Disclosure by Manufacturers to Assemblers for Diagnostic X-ray Systems - 
+Guidance for Industry and FDA Staff (September 2003), available at https://www.fda.gov/regulatory-
+information/search-fda-guidance-documents/information-disclosure-manufacturers-assemblers-diagnostic-x-ray-
+systems-guidance-industry-and-fda.  Attached herein as Exhibit 28. 
+[PAGE 14]
+14 
+for assembly, installation, adjustment, and testing of such components adequate to 
+assure that the products will comply with applicable provisions of this section and 
+§§ 1020.31 [Radiographic equipment], 1020.32 [Fluoroscopic equipment], and 
+1020.33 [Computed tomography (CT) equipment], when assembled, installed, 
+adjusted, and tested as directed.  Such instructions shall include specifications of 
+other components compatible with that to be installed when compliance of the 
+system or subsystem depends on their compatibility.  Such specifications may 
+describe pertinent physical characteristics of the components and/or may list by 
+manufacturer model number the components which are compatible. 
+Bundling of AIAT information with allegedly other proprietary software does not relieve an 
+OEM from having to readily disclose the AIAT information.  The aforementioned FDA 
+Guidelines are quite explicit on this point: “Some manufacturers bundle AIAT information 
+covered by § 1020.30(g) with other types of proprietary software; in some instances the 
+proprietary software cannot be deleted from the bundled information.  Nothing in § 1020.30 
+prohibits bundling software information or programs; however, the practice does not relieve 
+manufacturers of their responsibilities under the performance standard to provide AIAT 
+documentation or the AIAT software at cost.”  Moreover, the FDA regulations further provide 
+that “[t]he owner of a diagnostic X-ray system who uses the system in a professional or 
+commercial capacity may modify the system, provided the modification does not result in the 
+failure of the system or component to comply with the applicable requirements of this section or 
+of 1020.31, 1020.32, or 1020.33.”64  However, as noted above, the OEMs still place the 
+unprotected AIAT material behind TPMs, thereby forcing owners, lessees, and ISOs to go 
+through cumbersome, time consuming and unnecessarily expensive procedures to gain access to 
+this information.  Further, OEMs often fail or refuse to classify all relevant software and 
+information as AIAT information. 
+The Proposed Exemption is for Noninfringing Uses65
+The execution of computer programs and access to related data files and manuals by owners of 
+medical systems and devices, or those acting at their behest, such as ISOs, for the purpose of 
+diagnosing, repairing, or maintaining their systems and devices, does not constitute copyright 
+infringement for at least three reasons.  First, such activities constitute fair use under 17 U.S.C. § 
+107.  Second, such activities are exempted from infringement as an essential step in the 
+utilization of a computer program in conjunction with a machine under 17 U.S.C. §117 (a)(1).  
+Third, such activities are exempted as permitted machine maintenance and repair under 17 
+U.S.C. § 117(c). 
+1. Fair Use 
+The Copyright Act sets forth four factors to consider when determining whether a use of a 
+copyrighted work is noninfringing fair use.66  : 
+64 See 21 C.F.R. § 1020.30(q)(2).   
+65 Petitioner is engaged in litigation with Philips and the arguments expressed herein should not be construed or 
+interpreted as limiting arguments that may be applicable to that litigation depending on the specific facts and laws at 
+issue in the pending action(s).   
+66 See 17 U.S.C. § 107 
+[PAGE 15]
+15 
+(1) the purpose and character of the use, including whether such use is of a 
+commercial nature or is for nonprofit educational purposes; 
+(2) the nature of the copyrighted work; 
+(3) the amount and substantiality of the portion used in relation to the copyrighted work 
+as a whole; and 
+(4) the effect of the use upon the potential market for or value of the copyrighted work. 
+In prior and current exemptions, the Librarian has recognized the fair use of computer programs 
+for the diagnosis, repair, and modification of motorized land vehicles both in 2015 and 2018 for 
+many of the same reasons Petitioner relies upon.  In 2018, the Librarian also recognized the fair 
+use of computer programs for the maintenance and repair of appliances:67
+(9) Computer programs that are contained in and control the functioning of a 
+lawfully acquired motorized land vehicle such as a personal automobile, 
+commercial vehicle, or mechanized agricultural vehicle, except for programs 
+accessed through a separate subscription service, when circumvention is a 
+necessary step to allow the diagnosis, repair, or lawful modification of a vehicle 
+function, where such circumvention does not constitute a violation of applicable 
+law, including without limitation regulations promulgated by the Department of 
+Transportation or the Environmental Protection Agency, and is not accomplished 
+for the purpose of gaining unauthorized access to other copyrighted works. 
+(10) Computer programs that are contained in and control the functioning of a 
+lawfully acquired smartphone or home appliance or home system, such as a 
+refrigerator, thermostat, HVAC, or electrical system, when circumvention is a 
+necessary step to allow the diagnosis, maintenance, or repair of such a device or 
+system, and is not accomplished for the purpose of gaining access to other 
+copyrighted works.  For purposes of this paragraph (b)(10): 
+(i) The “maintenance” of a device or system is the servicing of the device 
+or system in order to make it work in accordance with its original 
+specifications and any changes to those specifications authorized for that 
+device or system; and 
+(ii) The “repair” of a device or system is the restoring of the device or 
+system to the state of working in accordance with its original 
+specifications and any changes to those specifications authorized for that 
+device or system. 
+The 2015 Recommendation of the Registrar of Copyrights for Rule Making: Sixth Triennial 
+Proceeding to Determine Exemptions on the Prohibition on Circumvention (Oct. 2015) (“2015 
+Recommendation”) and the 2018 Recommendation of the Acting Registrar of Copyrights for 
+Rule Making: Seventh Triennial Proceeding to Determine Exemptions on the Prohibition on 
+67 See 37 C.F.R. § 201.40(b)(9) & (10)
+[PAGE 16]
+16 
+Circumvention (Oct. 2018) (“2018 Recommendation”)68 contain extensive discussions of these 
+factors in the contexts of ECUs for land motor vehicles and software for appliances and other 
+devices. 
+The 2018 Recommendation is particularly instructive. 
+With respect to the first factor, the purpose and character of the use of the 
+computer programs and data files by or on behalf of an owner is clear.  The 
+computer programs and data files are used to either (i) assemble and install their 
+new systems and devices, or (ii) repair and maintain their existing systems and 
+devices. 
+From page 203 of the 2018 Recommendation (footnotes omitted): 
+In analyzing the first fair use factor, the Acting Register notes that the Copyright 
+Office’ Software Study observed that, because the fundamental purpose of repair 
+is to restore the functionality of a device so that it may be used, “repair supports—
+rather than displaces—the purpose of the embedded programs.”  Applying similar 
+logic, the 2015 rulemaking concluded that the first factor favored an exemption 
+for vehicle repair because the activities were personal, noncommercial, and would 
+“enhance the intended use” of the vehicle programs.  Moreover, the Office’s 
+Section 1201 Report observed an emerging “general understanding that bona fide 
+repair and maintenance activities are typically noninfringing.”  Because 
+proponents express the same desire to engage in these bona fide repair activities 
+with respect to other devices, the Acting Register concludes that this factor favors 
+proponents. 
+With respect to medical systems and devices generally, it is equally true that “repair supports—
+rather than displaces—the purpose of the embedded programs.”  The systems and devices 
+continue to be useful after repair and provide the intended functions in a safe and reliable 
+manner.  Further, it ensures patient and medical personnel safety and well-being.  Indeed, it can 
+be the difference between life and death for some individuals. 
+With respect to diagnostic X-ray systems in particular, as noted above, those systems are subject 
+to information disclosure obligations so that AIAT servicers or other interested parties may 
+obtain, upon request, information regarding the assembly, installation, adjustment, and testing of 
+an X-ray system to ensure it meets federal performance standards.69  In its guidance for 
+compliance with this rule, the FDA requires that when OEMs supply the AIAT information in 
+the system software, that software must be made available to those performing AIAT servicing 
+activities.  Moreover, the federal regulations further provide that “[t]he owner of a diagnostic X-
+ray system who uses the system in a professional or commercial capacity may modify the 
+system, provided the modification does not result in the failure of the system or component to 
+comply with the applicable requirements of this section or of 1020.31, 1020.32, or 1020.33.”70
+Thus, the first factor weighs in favor of fair use. 
+68 Attached herein as Exhibit 29. 
+69 21 C.F.R. § 1020.30(g).   
+70 21 C.F.R. § 1020.30(q)(2).
+[PAGE 17]
+17 
+Regarding the second factor, the nature of the computer programs and data files involved is that 
+they are entirely functional or essentially functional works used to control operation of the 
+systems and the diagnosis, repair, and maintenance of the systems.  They are used to support 
+operation, mechanical, and electronic processes of the medical systems.  If computer programs 
+and data files are expressive at all, the expressiveness is de minimis.  For example, error logs are 
+computer files containing lists of noted faults that occur during use of a medical device.  Event 
+logs are lists of other non-fault events, such as tasks computer calls and internet connections, to 
+name two.  Configuration files simply have set up the configuration of the machine at a very base 
+level.  For the sake of argument, while such files do not express any human creativity or, to the 
+extent thin copyright protection may be warranted, the equipment owner, such as a hospital, 
+owns these automatically generated files.71  The equipment owner requires access to such 
+programs and files for maintenance and repair.  There is no conceptual difference between these 
+types of computer programs and data files and those used, e.g., in modern-day land-based 
+vehicles or appliances.  The manuals are technical and contain data, namely information of the 
+functions of the systems or devices and the operating specifications.  These are not novels or 
+highly creative works.  The creativity, if any, is de minimis.  Thus, the second factor weighs in 
+favor of fair use for the same reasons the Office articulated in the 2018 Recommendation. 
+Regarding the third factor, it is necessary, i.e., required, to execute the computer programs and 
+access the data files during servicing activities to understand system or device performance and, 
+in several instances, update the data files such as service logs.  As noted above, the machines are, 
+for all intents and purposes, specialized computers in which the software is inseparable from the 
+hardware and the machines cannot function without the computer programs and data files.  The 
+servicing computer programs and data files involved can be but a small portion of the entire 
+software package used to operate and service the medical imaging system and are integrated into 
+the machine.  For instance, the software on a Philips Allura system comprises various modules 
+used to control different portions of the system or to perform different functions, only some of 
+which are involved in the servicing activities.  In the Allura software, the Field Service 
+Framework and associated service logs are invoked for servicing of an X-ray diagnostic system.  
+Simply put, no “copies” of the Allura code—or even portions of the code—are ever made other 
+than what is necessarily executed when using the particular customer-owned machine.  
+Moreover, any “copies” of service logs should not constitute infringement.   
+Further, manuals are needed to understand the manufacturers specifications for the systems and 
+devices, and to correctly identify replacement parts.  With this understanding, an owner or its 
+agent can ensure the medical system or device is operating safely and in compliance with the 
+specifications.  Thus, the third factor also weighs in favor of a finding of fair use. 
+Regarding the fourth factor, the effect of the use upon the potential market for or value of the 
+copyrighted work is minimal.72  The computer programs and data files are necessary for the 
+71 See Lexmark International, Inc. v. Static Control Components, Inc., 3877 F.3d 522, 536 (6th Cir. 2004) 
+(configuration files and lock-out codes generally “fall on the functional-side rather than the original-expression side 
+of the copyright line”); Sony Comput. Entm’t, Inc. v. Connectix Cor., 203 F.3d 596,603 (9th Cir. 2000) (“[T]he fair 
+use doctrine preserves public access to the ideas and functional elements embedded in copyright computer software 
+programs.”) 
+72 Although OEMs will argue that their investments in computer software enable them to better serve customers, this 
+is not so.  According to the FDA Report conducted in 2018, twenty-nine complaints alleged inadequate servicing by 
+OEMs in addition to others that complained about OEMs not providing service manuals, not providing critical 
+[PAGE 18]
+18 
+operation and control of the medical equipment, including the basic servicing of the equipment, 
+and are sold together with the equipment in which they are employed.  They have no other use.  
+Thus, the OEMs must include them or make them available to enable operation, control, and 
+servicing of medical equipment.  Although OEMs might sell or make available updates to their 
+software, there is no independent market for the computer programs and data files outside of the 
+purchase of new equipment because the software is not of any value outside of use on this 
+equipment.73
+The electronic manuals merely provide technical information.  They too have no value or use 
+other than to provide information for the servicing of the systems and devices.  Moreover, 
+manuals used to be provided freely by OEMs and thus have a demonstrated neutral effect on the 
+market. 
+The value to OEMs is in the TPMs that restrict access to the computer programs and data files.  
+The value is not in the computer programs or data files themselves.  That is to say, the computer 
+programs and data files must be included for anyone to operate or perform any servicing 
+activities on the systems and devices, given the replacement of electrical and mechanical parts by 
+software-based components.  There is no need to otherwise copy or access the computer 
+programs and data files.  But, as recognized in the 1201 Study, the TPMs allow the OEMs to 
+maintain a monopoly or near monopoly on the servicing of the systems and devices they sell 
+because they can control the equipment even after its sale.   
+Because the use by ISOs does not affect the market for or value of the computer programs and 
+data files involved, the fourth factor also weighs in favor of a finding of fair use. 
+2. Use is an Essential Step under 17 U.S.C. § 117(a)(1) 
+Congress exempted from infringement certain executions of computer programs in connection 
+with the repair and maintenance of machines. 
+Title 17 U.S.C. §117 (a)(1) provides: 
+(a)(1) Notwithstanding the provisions of section 106, it is not an infringement for 
+the owner of a copy of a computer program to make or authorize the making of 
+another copy or adaptation of that computer program provided that such a new 
+copy or adaptation is created as an essential step in the utilization of the computer 
+program in conjunction with a machine and that it is used in no other manner. 
+Access, use and/or adaptation of the computer programs and data files embedded in medical 
+equipment is undeniably an essential step in the servicing and repair activities associated with the 
+medical equipment and in maintaining the usefulness of the systems and devices.  As mentioned 
+above, the software is integrated into and is inseparable from the machines if the machines are to 
+operate.  Owners, including refurbishers like Petitioner, pay substantial consideration in 
+replacement parts, providing poor technician training, knowingly falsifying service records and device serial 
+numbers, and conducting repairs using broken replacement parts. See FDA Report on the Quality, Safety, and 
+Effectiveness of Servicing of Medical Devices, Published May 15, 2018, available at
+https://www.fda.gov/media/113431/download.
+73 Wheeler Decl. at ¶ 35.   
+[PAGE 19]
+19 
+exchange for ownership of medical equipment (i.e., hardware) that invariably includes—due to 
+the complex nature of modern medical systems—software embedded within the equipment.  The 
+equipment is useless without the software embedded by the OEMs.  Some OEMs attempt to only 
+“license” the embedded software.  However, there is no alternative to the software as it is 
+tailored to the equipment, and there are no market alternatives.  But licenses are only for the 
+intellectual property rights.  The copies of the software are included as part of the purchase of the 
+machines.  Accordingly, the equipment owners are “owners” of copies of computer programs 
+copies of which are “created as an essential step in the use of the computer program in 
+conjunction with a machine,” and “used in no other manner.” 74  To conduct repair and 
+maintenance of the medical equipment they own, hospitals and other medical care providers, and 
+ISOs like Petitioner, use the computer software embedded in the medical equipment as an 
+essential step in the utilization of the equipment in order to repair, diagnose, and maintain the 
+equipment.  Thus, use of the servicing computer programs and data files is exempt from 
+infringement under Section 117. 
+Petitioner and ISOs like it are lawful possessors of diagnostic medical equipment, and the right 
+of possession to the hardware they own is perpetual.  That some OEMs may claim they only 
+“license” the software is not relevant.75  Licensing is a concept relating only to intellectual 
+property rights.  Thus, the “licensing” is only relevant to how an OEM attempts to control use of 
+the software.  It does not control who owns the copy of the software on a machine, which is 
+included in purchase of the machine.  Additionally, and because use of the software is an 
+essential step in the use of the machine, as explained above, Section 117 provides an exception 
+as to any controls attempted by the licensing terms.  
+74 See, e.g., Krause v. Titleserv, Inc., 402 F.3d 119 (2nd Cir. 2005) (holding company's modification of copyrighted 
+computer programs created for it by former consultant, after consultant declined to turn over source code, was 
+“essential step” in their utilization, within meaning of Copyright Act's safe harbor provision; modifications, which 
+fixed bugs, allowed company to add new client information, adapted program so it would function on company's 
+new system, and added new features, were necessary if company was to make use of programs on its machines); 
+Universal Instruments Corp. v. Micro Sys. Eng'g, Inc., 924 F.3d 32 (2nd Cir. 2019) (holding that modifications 
+made by licensee, a medical device company, to server software customized by software developer for licensee's 
+multi-phased test handling system project that allowed existing server software to interact with additional systems in 
+manner intended when source code was developed for licensee was essential step in utilization of computer 
+programs in conjunction with machine). 
+75 See e.g., Raymond Nimmer, The Law of Computer Technology § 1.18[1] p. 1–103 (1992) (“Ownership of a copy 
+should be determined based on the actual character, rather than the label, of the transaction by which the user 
+obtained possession. Merely labeling a transaction as a lease or license does not control. If a transaction involves a 
+single payment giving the buyer an unlimited period in which it has a right to possession, the transaction is a sale. In 
+this situation, the buyer owns the copy regardless of the label the parties use for the contract. Course of dealing and 
+trade usage may be relevant, since they establish the expectations and intent of the parties. The pertinent issue is 
+whether, as in a lease, the user may be required to return the copy to the vendor after the expiration of a particular 
+period. If not, the transaction conveyed not only possession, but also transferred ownership of the copy.”); Compare, 
+e.g., Philips Med. Sys. Nederland B.V. et al. v. TEC Holdings, Inc. et al., Case No: 3:20-cv-00021-MOC-DCK 
+(W.D.N.C.), Second Amended Complaint, ¶ 33 (alleging that when Philips sells medical equipment, “the agreement  
+establishes that the presence of Proprietary Service Materials will not give the customer any right or title to such 
+property or any license or other rights to access or use such property”).
+[PAGE 20]
+20 
+3. Hardware Maintenance and Repair 17 U.S.C. § 117(c). 
+Congress exempted from infringement certain executions of computer programs in connection 
+with the repair and maintenance of machines. 
+Title 17 U.S.C. §117 (c) provides: 
+(c) Machine Maintenance or Repair.—Notwithstanding the provisions of section 
+106, it is not an infringement for the owner or lessee of a machine to make or 
+authorize the making of a copy of a computer program if such copy is made solely 
+by virtue of the activation of a machine that lawfully contains an authorized copy 
+of the computer program, for purposes only of maintenance or repair of that 
+machine, if— 
+(1) such new copy is used in no other manner and is destroyed 
+immediately after the maintenance or repair is completed; and 
+(2) with respect to any computer program or part thereof that is not 
+necessary for that machine to be activated, such program or part thereof is 
+not accessed or used other than to make such new copy by virtue of the 
+activation of the machine. 
+To perform the servicing activities, it is necessary to activate the central controlling computer to 
+operate the various components of the medical system or device, and simply to obtain diagnosis 
+information.  When performing the servicing activities, the diagnostic and testing modules are 
+used to diagnose the operating conditions and to determine if the system or device is performing 
+according to specifications.  Data files such as event logs and error logs may be opened to 
+diagnose system or device issues, confirm operating information, or to otherwise update 
+servicing information for proper record keeping.  Configuration files may be reviewed for proper 
+configuration of the machines. 
+Following a servicing activity, except for any updated data reflecting servicing information, the 
+computer programs and data files are left in their original condition.  There are no copies to be 
+destroyed.  However, deactivation or reactivation of the medical imaging systems will 
+automatically “destroy” any “new” copy of the modules and data files.  Thus, use of the 
+servicing computer programs and data files is exempt from infringement under Section 117. 
+ISOs Working at the Direction of the Owners and Lessees Should Not be Excluded From 
+the Exemption 
+In its 2018 Recommendation for making the  exemptions for land vehicles and appliances noted 
+above, the Copyright Office specifically declined to exclude third party assistance and declined 
+to include language that the circumvention  be “undertaken by the authorized owner.”76  The 
+proposed exemption for servicing materials for medical devices is similarly fashioned and will 
+enable owners and lessees who do not have the ability to service their medical equipment or 
+skills and equipment to circumvent TPMs.  This would be in concert with the Office’s 2018 
+76 Section 1201 Rulemaking: Seventh Triennial Proceeding to Determine Exemptions to the Prohibition on 
+Circumvention (“2018 Recommendation”) at 224-225. 
+[PAGE 21]
+21 
+position that in future rulemakings it would “seek to avoid recommending unduly narrow 
+definitions of exemption beneficiaries.”77  Further, the proposed exemption is easily understood 
+that it would apply to the extent it does not implicate the anti-trafficking provisions Section 
+1201(a)(2) as it would be limited to circumvention where such circumvention does not constitute 
+a violation of any other applicable law. 
+Conclusion  
+For all of the reasons set forth above, the Librarian should determine that the non-infringing uses 
+described above are, and are likely to be, adversely affected by the anti-circumvention 
+prohibitions of Section 1201(a), and therefore approve the proposed exemptions for the period 
+2021-2024. 
+DOCUMENTARY EVIDENCE
+Copies of the Exhibits referred to in this comment, including declarations, are attached hereto. 
+77 Section 1201 Report at 62.

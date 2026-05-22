@@ -1,0 +1,98 @@
+[PAGE 1]
+Hacking Policy Council comments – Ninth Triennial Proceeding, Class 4
+December 21, 2023
+Item A. Commenter Information.
+The Hacking Policy Council is a group of experts dedicated to advancing good faith security research,
+penetration testing, independent repair for security, and vulnerability disclosure and management.1 In
+this proceeding, the Hacking Policy Council is represented by Harley Geiger, Counsel, Venable LLP .
+Item B. Proposed Class Addressed.
+Our comment supports the petition for a newly proposed exemption for Class 4: Computer
+Programs–Generative AI Research.2
+Item C. Overview.
+The Hacking Policy Council (HPC) supports the proposed exemption for generative artificial intelligence
+(AI) research under Section 1201 of the Digital Millennium Copyright Act (DMCA). 3 The exemption for
+generative AI research should not be limited to a narrow definition of “bias,” but should encompass
+3 Copyright Office, Notice of proposed rulemaking, Exemptions to Permit Circumvention of Access Controls on Copyrighted
+Works, 88 F.R. 72013, 72025, Oct. 19, 2023.
+2 Jonathan Weiss, Petition for New Exemption Under 17 USC 1201, Copyright Office,9th Triennial Rulemaking,
+https://www.copyright.gov/1201/2024/petitions/proposed/New-Pet-Jonathan-Weiss.pdf (last accessed Dec. 12, 2023).
+1 Hacking Policy Council, https://hackingpolicycouncil.org, (last accessed Dec. 21, 2023).
+UNITED STATES COPYRIGHT OFFICE 
+Long Comment Regarding a Proposed 
+Exemption Under 17 U.S.C. § 1201 
+< HP[ ) 
+HACKinG POLICY councIL 
+Privacy Act Advisory Statement: Requir ed by the Privacy Act of 1974 (P.L. 93-579) 
+The auth ority for requesting th is informa tion is 17 U. S.C. §§ 120l (a)(l ) and 705. Furn ishing the requested i nformation is volun tary. The principa l use of the requested informatio n is publication on the 
+Copyright Office website and use by Copyright Office staff for purposes of the rulemaking proceeding co nducted under I 7 U.S.C. § I 201 (a)(l ). NOT E: No other advisory statement will be given in connection 
+with this submission. Please keep th is statement and refer to it if we communi cate with you regarding this subm ission. 
+U.S. Copyright Office Library of Congress 101 Independence Avenue SE Washington , DC 20557-6400 copyright .gov 
+LONG COMMENT REGARDING A PROPOSED EXEMPTION UNDER 17 U.S.C. § 1201 REV: 10/2023 
+[PAGE 2]
+discrimination,andotherharmfulorundesirableoutputsinAIsystems.
+4
+ThisismoreconsistentwithindustrypracticesforAIredteaming, aswellasthenationalprioritiesarticulatedinExecutiveOrder14110.
+5
+Byidentifyinganddisclosingflawssothattheycanbecorrected,AIalignmentresearchandAIredteamingarebeneficialpracticestohelpensurethesafety, trustworthiness,andfairnessofgenerativeAIsystems.However, the17U.S.C.1201(a)(1)(A)prohibitiononcircumventionoftechnologicalmeasuresthatcontrolaccesstocomputerprogramscanrestrictindependentAIalignmentresearchifpermissionofthecomputerprogramcopyrightholderisrequiredtoconductsuchresearch.
+HPCencouragestheRegisterofCopyrightstoclarifythatsomeformsofresearchpertainingtoAIbiasandmisalignmentarealreadyexemptunderthegood-faithsecurityresearchexemption.
+6
+Forexample,iftheresearchedbiasormisalignmentrisksharmtoconfidentiality, integrity, oravailabilityofinformation,orthephysicalsafetyoftheusersofthemachinesonwhichtheAIsystemoperates,orotherwisecanbecategorizedasasecurityvulnerabilityfinding, suchresearchmayqualifyforthegood-faithsecurityresearchexemption.
+However, itisappropriatetoestablishanexemptiontoprotectresearchwheretheresearchedbiasormisalignmentmaynotdirectlyaffectsecurityorsafety(forexample,manipulatingagenerativeAIsystemtoengageinracialorgenderdiscrimination,ortoproducesyntheticchildsexualabusematerial).HPCfurtherencouragestheRegisterofCopyrightstoconsideradaptingthegood-faithsecurityresearchexemption,incombinationwithdefinitionsinExecutiveOrder14110,toestablishanexemptionforgood-faithAIalignmentresearch,suchas:
+(i)ComputerPrograms,wherethecircumventionisundertakenonalawfullyacquireddeviceormachineonwhichanAIsystemoperates,orisundertakenonacomputer, computersystem,orcomputernetworkonwhichanAIsystemoperateswiththeauthorizationoftheowneroroperatorofsuchcomputer, computersystem,orcomputernetwork,solelyforthepurposeofgood-faithAIalignmentresearch.
+7
+(ii)Forpurposesofparagraph(i),theterm“artificialintelligence”or“AI”hasthemeaningsetforthin15U.S.C.9401(3):amachine-basedsystemthatcan,foragivensetofhuman-definedobjectives,makepredictions,recommendations,ordecisionsinfluencingrealorvirtualenvironments.
+8
+8
+SeeWhiteHouse, ExecutiveOrderontheSafe, Secure, andTrustworthyDevelopmentandUseofArtificial Intelligence,Section3(b), Oct. 30, 2023,www.whitehouse.gov/briefing-room/presidential-actions/2023/10/30/executive-order-on-the-safe-secure-and-trustworthy-development-and-use-of-artificial-intelligence.
+7
+Id. at201.40(b)(16)(i).
+6
+37CFR201.40(b)(16).
+5
+HackingPolicyCouncil, AI redteaming-Legal clarityandprotectionsneeded, Dec. 12, 2023,https://assets-global.website-files.com/62713397a014368302d4ddf5/6579fcd1b821fdc1e507a6d0_Hacking-Policy-Council-statement-on-AI-red-teaming-protections-20231212.pdf.
+4
+“AI riskmanagementcallsforaddressingmanyothertypesofrisks[.]”NIST, Artificial IntelligenceRiskManagementFramework, AI RisksandTrustworthiness, pgs. 12, 39, Jan. 2023, https://nvlpubs.nist.gov/nistpubs/ai/NIST.AI.100-1.pdf.
+2
+[PAGE 3]
+(iii)Forpurposesofparagraph(i),theterm“AIsystem”meansanydatasystem,software,hardware,application,tool,orutilitythatoperatesinwholeorinpartusingAI.
+9
+(iv)Forpurposesofparagraph(i),“good-faithAIalignmentresearch”meansaccessingacomputerprogramsolelyforpurposesofgood-faithtestingorinvestigation,ofbiased,discriminatory, orharmfuloutputsinanAIsystem,wheresuchactivityiscarriedoutinanenvironmentdesignedtoavoidanyharmtoindividualsorthepublic,andwheretheinformationderivedfromtheactivityisusedprimarilytopromotethetrustworthinessoftheAIsystem,andisnotusedormaintainedinamannerthatfacilitatescopyrightinfringement.
+10
+(v)Good-faithAIalignmentresearchthatqualifiesfortheexemptionofthissectionmayneverthelessincurliabilityunderotherapplicablelaws,includingwithoutlimitationtheComputerFraudandAbuseActof1986,asamendedandcodifiedintitle18,UnitedStatesCode,andeligibilityforthatexemptionisnotasafeharborfrom,ordefenseto, liabilityunderotherapplicablelaws.
+11
+ItemD. TechnologicalProtectionMeasuresandMethodsofCircumvention.
+SeveralgenerativeAIalignmenttestingmethodsmaybecharacterizedasinvolvingcircumventionoftechnologicalprotectionmeasurestoaffectsystembehavior. Forexample,thecopyrightowneroftheAIsystemmayrequireauseraccount,thetermsofwhichprohibitbypassinganyprotectivemeasuresorsafetymitigationsasaconditionforpermissiontologinandusethesystem.Bycreatinganaccounttoaccessthesystem,anAIalignmentresearchermaybeagreeingnottoperformresearch.SuchconductwaswelldocumentedintheSandvigv. BarrproceedingsinthecontextofresearchonalgorithmicracialdiscriminationandtheComputerFraudandAbuseAct.
+12
+CommonAIalignmentresearchtechniquesincludebypassingguardrailprogramsorpredefinedrulesthattheAIsystemdevelopershaveestablishedtoalignthesystemwithhumanvalues,safeguarduserinteractions,preventharmfulorinaccuratesystemoutputs,andprotectagainstdataextraction.
+13
+Arangeofattacksmaybeusedtobypassguardrails.Forexample,“jailbreakprompts”aredeliberatelycraftedinputstobypasscontentsafeguardsandmanipulategenerativeAIintocreatingharmfuloutput,suchasbydirectingtheAIsystemtoignorepreviousinstructions,orbyescalatinguserprivilegesonthesystem.
+14
+GenerativeAIresearchersmayalsocircumventautomaticblocksonsomeinputs,aswellasratelimitsthatrestrictthevolumeorfrequencyofinputstoanAIsystem.
+14
+XinueShenet. al, “DoAnythingNow”: CharacterizingandEvaluatingIn-The-WildJailbreakPromptsonLargeLanguageModels, pgs. 1-3, 6Aug. 7, 2023, https://arxiv.org/pdf/2308.03825.pdf.
+13
+Daniel Kanget. al, ExploitingProgrammaticBehaviorofLLMs: Dual-UseThroughStandardSecurityAttacks, Feb. 11, 2023,https://arxiv.org/abs/2302.05733. SeealsoAgamShah, GoogleAddsGuardrailstoKeepAI inCheck, DarkReading, May23,2023, https://www.darkreading.com/cybersecurity-analytics/google-adds-guardrails-to-keep-ai-in-check.
+12
+Sandvigv. Barr, No. CV16-1368(JDB), 2020WL1494065(D.D.C. Mar. 27, 2020). TheUnitedStatesSupremeCourtcitedthismatterinVanBurenv. UnitedStates, 141S. Ct. 1648(2021).
+11
+Id. at201.40(b)(16)(iii).
+10
+See37CFR201.40(b)(16)(ii).
+9
+Id. atSection3(e).
+3
+[PAGE 4]
+ItemE.AssertedAdverseEffectsonNoninfringingUses.
+WhiletheLibrarianhasestablishedanexemptionfrom17U.S.C.1201(a)(1)(A)forindependentsecurityresearchperformed“solelyforpurposesofgood-faithtesting, investigation,and/orcorrectionofasecurityflaworvulnerability,”thisexemptionislimitedtosecurityandsafety.
+15
+Asaresult,theexemptionmaynotapplytocircumventingsoftwareaccesscontrolsforAIalignmentresearchforsomenon-securityorsafetypurposesthatarestillkeyfortheunderlyingtrustworthinessoftheAIsystem.Enablingindependent,goodfaithAIalignmentresearchwouldhelpembracediverseperspectives,promoteimpartialresults,andpromoteacollaborativecultureofethicalAIdevelopment,consistentwiththebroadergoalsoftheUnitedStatesasarticulatedinmultiplepolicyinitiatives.Aswithsecurityresearch,limitinglegalprotectionsforAIalignmentresearchtosourcesthathavereceivedauthorizationfromthesystemownerwouldreducetheindependence,volume,anddiversityoftesting.
+Good-faithresearchintogenerativeAIbiasandmisalignmentisfairuseandisnotperformedforthepurposeofinfringing, orenablingotherstoinfringe,uponcopyright.AIalignmentresearchservesasociallybeneficialpurposebyevaluatingandtestingAIsystemsforalgorithmicflawsthatcouldcauseharm,alertingstakeholderstotheseflawssothattheycanbemitigated,andcontributingtotheadvancementofcomputerscienceandthecreationofbetterfunctioningAIsystems.AIalignmentresearchcanalsoleadtotheproductionofnewcreativeworkssuchasscientificpublications,presentations,andeducationalmaterialthatdiscusstheresearch.TheusesofAIalignmentresearcharegenerallytransformative–providinginformationaboutcomputerprograms’susceptibilitytobiasandmisalignment–ratherthanmerelysupersedingtheoriginalcopyrightedwork.
+Theproposedclassfocusesonfunctionalcode,ratherthanexpressiveorimaginativework,byresearchingthealgorithmicoutputofcomputerprograms.InmostinstancesofgenerativeAIalignmentresearch,itwillnotbenecessaryordesirabletoreproducemorethansmallordeminimisportionsofthecopyrightedAIsysteminordertodemonstratethevalidityoftheresearch.Inaddition,itisnotuncommonforgenerativeAIsystemvendorstoassignownershiprightstotheuserforuserinputandrelatedsystemoutput,whichwouldreduceinfringementconcernswheretheresearchreproducestheinputandoutput.
+GenerativeAIalignmentresearchishighlyunlikelytosupplantthemarketforcomputerprogramsorgenerativeAIsystems.TheresearchandthecreativeworksproducedbytheresearchareofawhollydifferentnaturethantheAIsystemssubjecttotheresearch.Perthelanguageproposedabove,andconsistentwiththegood-faithsecurityresearchexemption,theresearchwouldbeperformedonlawfullyobtainedcopiesofthecomputerprogram.Inaddition,wheregenerativeAIalignmentresearchleadstocorrectionsofflaws,resultinginmoretrustworthyalgorithmsandAIsystems,thevalueoftheoriginalworkwouldbestrengthened.
+* * *
+15
+37CFR201.40(b)(16). 4
+[PAGE 5]
+AstheprevalenceofAIsystemscontinuestogrow, sodoestheimportanceoftestingforalignmentwithethicalprinciples.ExtendingprotectionsforAIresearchandredteamingunderDMCASection1201notonlyfostersresponsibledevelopment,butalsopromotestransparency, accountability, andtrust.Byaddressingpotentiallegalgapsanduncertainties,wecanestablishframeworksthatimproveandpreserveAIalignment,ultimatelysafeguardingbothtechnologicaladvancementsandsocietalinterests.
+Thankyouforyourconsideration.Ifwecanbeofadditionalassistance,pleasecontactHarleyGeiger,coordinatoroftheHackingPolicyCouncil,athgeiger@venable.com.
+5

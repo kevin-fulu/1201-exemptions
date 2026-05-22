@@ -1,0 +1,119 @@
+[PAGE 1]
+ 
+ 
+December 21, 2023 
+ 
+Proposed Class: Class 7 (Computer Programs–Vehicle Operational 
+Data) 
+The Specialty Equipment Market Association (SEMA) respectfully 
+supports MEMA’s new exemption petition for Class 7, Computer 
+Programs – Vehicle Operational Data that would allow for 
+“circumvention of technological protection measures on computer 
+programs that are contained in and control the functioning of a 
+lawfully acquired motorized land vehicle or marine vessel such as a 
+personal automobile or boat, commercial vehicle or vessel, or 
+mechanized agricultural vehicle or vessel to allow lawful vehicle 
+owners and lessees, or those acting on their behalf, to access, store, 
+and share vehicle operational data, including diagnostic and 
+telematics data.” 
+Formed in 1963, SEMA is a non-profit trade association representing 
+over 7,000 mostly small businesses nationwide that manufacture, 
+distribute, and retail specialty parts and accessories for motor 
+vehicles. The specialty automotive aftermarket industry supports over 
+1.3 million jobs across the U.S. and contributes over $336 billion to 
+the American economy each year through the production and sale of 
+performance, functional, restoration, and styling-enhancement 
+products for use on passenger cars, trucks, SUVs, and special interest 
+collector vehicles. 
+ 
+MEMA’s petition for Computer Programs – Vehicle Operational Data 
+would create a necessary extension of an existing DMCA exemption 
+for Computer Programs - Repair of Motorized, Land Vehicles, Marine 
+Vessels, or Mechanized Agricultural Vehicles or Vessels. This 
+exemption was created in 2015 for lawful vehicle owner(s) and was 
+expanded in 2018 to both cover third-party service providers and 
+remove the limitation prohibiting circumvention of technological 
+protection measures (TPMs) to access computer programs primarily 
+designed to control vehicle telematics and entertainment systems. 
+The copyright office renewed this exemption in 2021 and is again 
+recommending that it be renewed in the ninth triennial review of 
+Section 1201 exemptions.  
+ 
+SEMA supports the proposed Class 7 exemption for circumvention of 
+technological protection measures on computer programs to allow 
+vehicle owners and lessees, or those acting on their behalf, to access, 
+store, and share vehicle operational data, including diagnostic and 
+telematics data. In recent years, motor vehicles, which are 
+increasingly software-defined vehicles, require integration of vehicle 
+computer systems, including integrated software that controls the 
+Chairman of the Board 
+• Kyle Fickler 
+Chair-Elect 
+* Melanie White 
+Immediate Past Chairman 
+& Secretary 
+• James Lawrence 
+Treasurer 
+* Tim McCarthy 
+Board of Directors 
+Rich Butler 
+Lindsay Hubley 
+Norris Marshall 
+Larry Montante 
+Kim Pendergast 
+Brian Reese 
+Kathryn Reinhardt 
+Marcus Umlauff 
+Ted Wentz Ill 
+Steve Whipple 
+President and CEO 
+Mike Spagnola 
+General Counsel 
+David P. Goch 
+* Executive Committee 
+1575 S. Valley Vista Dr. 
+Diamond Bar, CA 91765-3914 
+909-610-2030 
+E-mail: sema@sema.org 
+Website: www.sema.org 
+[PAGE 2]
+ 
+ 
+parts and operation of the vehicle. Modern vehicles are generating massive amounts of 
+information that has the potential to improve vehicle repair and service, safety, and 
+customization. However, vehicle owners are not currently able to benefit from the telematic 
+data that they create when driving their vehicle(s). 
+ 
+Despite the changing nature of the technology in motor vehicles, millions of Americans continue 
+to work on and fix their own vehicles. Accordingly, it is necessary that they are able to review 
+their vehicle’s  performance data in order to diagnose any problems that may arise and 
+ensure that their vehicle is operating safely. For people who do not have the time, knowledge, 
+and ability to work on their own vehicles, it is critical that their repairer of choice has access 
+to this information and is protected from copyright infringement for accessing a vehicle’s 
+operational data. 
+While the electronic control unit (ECU) and vehicle software are copyrightable, data is 
+generally a fact and not an expression, and as such is not subject to copyright.  The data 
+that a vehicle owner generates when they drive their vehicle is theirs and should not be 
+subject to copyright infringement when accessed by the vehicle’s owner or their designee. 
+The data that a vehicle generates is created both after the technology on a vehicle is 
+copyrighted and the vehicle is sold.  
+ 
+It is important that this exemption is granted to ensure vehicle owners and their designees 
+can download, copy, and use the non-copyrightable data that is stored on the ECU and 
+other copyrightable works in their vehicles. This exemption is critical to maintaining 
+consumer choice by ensuring that vehicle owners can decide who works on their vehicles 
+and the parts that are used.  Without this exemption, vehicle owners will have fewer 
+vehicle repair and service options, resulting in higher prices to repair and maintain their 
+vehicles. 
+ 
+With the continued advancements in driver assistance technology, it is critical that there is 
+an exemption to ensure consumers and their third-party service providers are not locked 
+out of obtaining access to vehicle operational data, including diagnostic and telematics 
+data. This would help to ensure that vehicles with driver assistance technology can 
+continue to be repaired or modified by vehicle owners and their designated service 
+providers who need to access vehicle operational data to ensure that repairs can be made 
+safely and keep the vehicle in compliance with Federal Motor Vehicle Safety Standards. 
+ 
+SEMA appreciates this opportunity to support the exemption request for Class 7, Computer 
+Programs – Vehicle Operational Data.  
+ 

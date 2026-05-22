@@ -1,0 +1,152 @@
+{
+  "cycle": 2010,
+  "final_rule_file": "1201/Final Rules/2010-Final-Rule.txt",
+  "codified_text_starts_pdf_page": 15,
+  "extractor_notes": "Six granted classes were extracted, matching INDEX.md's expected count of 6 for this cycle. Note a drafting inconsistency in the codified text: the (b) chapeau states that the prohibition 'shall not apply to persons who engage in noninfringing uses of the following five classes of copyrighted works,' but the enumerated list actually contains six classes ((b)(1) through (b)(6)). This is a known anomaly in the 2010 codified text and is not an extraction error. The 2010 codified text is a transition style: class (b)(1) (DVD/CSS) uses heavily nested conditional clauses with three enumerated downstream user categories; (b)(2) and (b)(3) (wireless handsets) use 'where/when circumvention is accomplished/initiated solely in order to...' framing; (b)(4) (video game security testing) uses 'when circumvention is accomplished solely for the purpose of...' with two enumerated post-conditions; (b)(5) (obsolete dongles) embeds the definition of 'obsolete' in the class itself; (b)(6) (ebook read-aloud/screen reader) fuses class definition and triggering condition into a single sentence. All classes appear on PDF page 15. The whole § 201.40(b) text in this cycle fits on one PDF page.",
+  "exemptions": [
+    {
+      "class_number": "(b)(1)",
+      "equipment_or_work": "Motion pictures on DVDs protected by the Content Scrambling System (CSS)",
+      "permitted_uses": [
+        "Circumvention of CSS on lawfully made and acquired DVDs to incorporate short portions of motion pictures into new works for the purpose of criticism or comment, for educational uses by college and university professors and by college and university film and media studies students",
+        "Circumvention of CSS on lawfully made and acquired DVDs to incorporate short portions of motion pictures into new works for the purpose of criticism or comment, for documentary filmmaking",
+        "Circumvention of CSS on lawfully made and acquired DVDs to incorporate short portions of motion pictures into new works for the purpose of criticism or comment, for noncommercial videos"
+      ],
+      "exclusions": [
+        "Limited to DVDs that are 'lawfully made and acquired' — exemption does not reach pirated or unlawfully obtained copies",
+        "Limited to DVDs 'protected by the Content Scrambling System' — does not cover other DVD protection schemes or non-DVD motion picture formats",
+        "Only 'short portions' of motion pictures may be incorporated — does not authorize copying of whole films",
+        "Circumvention must be 'solely in order to accomplish the incorporation of short portions of motion pictures into new works' — circumvention for purposes other than producing a new work is not covered",
+        "The new work must be 'for the purpose of criticism or comment' — other transformative or non-transformative uses are not covered",
+        "Available only to the three enumerated user categories (educational uses by college/university professors and film/media studies students; documentary filmmaking; noncommercial videos) — other users (e.g., K-12 educators, commercial non-documentary filmmakers) are not covered"
+      ],
+      "definitions_or_conditions": [
+        "The person engaging in circumvention must 'believe[] and ha[ve] reasonable grounds for believing that circumvention is necessary to fulfill the purpose of the use' — a subjective good-faith belief plus an objective reasonableness component",
+        "'Educational uses' in (b)(1)(i) are limited to college and university professors and to college and university film and media studies students",
+        "The codified text does not define 'short portions,' 'documentary filmmaking,' or 'noncommercial videos'"
+      ],
+      "source": {
+        "file": "1201/Final Rules/2010-Final-Rule.txt",
+        "pdf_pages": [15],
+        "txt_line_range": [2982, 3001],
+        "quote": "(1) Motion pictures on DVDs that are lawfully made and acquired and that are protected by the Content Scrambling System when circumvention is accomplished solely in order to accomplish the incorporation of short portions of motion pictures into new works for the purpose of criticism or comment, and where the person engaging in circumvention believes and has reasonable grounds for believing that circumvention is necessary to fulfill the purpose of the use in the following instances: (i) Educational uses by college and university professors and by college and university film and media studies students; (ii) Documentary filmmaking; (iii) Noncommercial videos."
+      }
+    },
+    {
+      "class_number": "(b)(2)",
+      "equipment_or_work": "Computer programs that enable wireless telephone handsets to execute software applications (smartphone 'jailbreaking')",
+      "permitted_uses": [
+        "Circumvention of access controls on computer programs that enable wireless telephone handsets to execute software applications, for the sole purpose of enabling interoperability of lawfully obtained applications with computer programs on the telephone handset"
+      ],
+      "exclusions": [
+        "Circumvention must be 'for the sole purpose of enabling interoperability' — circumvention for any other purpose is not covered",
+        "The applications whose interoperability is enabled must have been 'lawfully obtained' — pirated or unlawfully obtained applications are not covered",
+        "Limited to 'wireless telephone handsets' — does not extend to other devices (e.g., tablets, media players, game consoles)"
+      ],
+      "definitions_or_conditions": [
+        "The class is defined as the computer programs on the handset that enable the handset 'to execute software applications' — i.e., the handset's operating-system/firmware layer that gates application execution",
+        "Interoperability must be between the lawfully obtained application and 'computer programs on the telephone handset' — the codified text does not further define 'interoperability'"
+      ],
+      "source": {
+        "file": "1201/Final Rules/2010-Final-Rule.txt",
+        "pdf_pages": [15],
+        "txt_line_range": [3002, 3009],
+        "quote": "(2) Computer programs that enable wireless telephone handsets to execute software applications, where circumvention is accomplished for the sole purpose of enabling interoperability of such applications, when they have been lawfully obtained, with computer programs on the telephone handset."
+      }
+    },
+    {
+      "class_number": "(b)(3)",
+      "equipment_or_work": "Computer programs (firmware or software) that enable used wireless telephone handsets to connect to a wireless telecommunications network (handset 'unlocking')",
+      "permitted_uses": [
+        "Circumvention of firmware or software on a used wireless telephone handset, by the owner of the copy of the computer program, solely in order to connect to a wireless telecommunications network where access to that network is authorized by the operator of the network"
+      ],
+      "exclusions": [
+        "Limited to 'used' wireless telephone handsets — does not cover new handsets",
+        "Circumvention must be 'initiated by the owner of the copy of the computer program' — circumvention initiated by a non-owner (e.g., a bulk re-seller who is not the owner of the copy) is not covered",
+        "Circumvention must be 'solely in order to connect to a wireless telecommunications network' — circumvention for other purposes is not covered",
+        "Access to the destination network must be 'authorized by the operator of the network' — unlocking to connect to networks where the user lacks authorization is not covered"
+      ],
+      "definitions_or_conditions": [
+        "The class covers computer programs 'in the form of firmware or software' — both implementations are within scope",
+        "The program must be one that 'enable[s] used wireless telephone handsets to connect to a wireless telecommunications network' — i.e., the carrier-lock/network-connection layer of the handset",
+        "The codified text does not define 'used,' 'wireless telecommunications network,' or 'operator of the network'"
+      ],
+      "source": {
+        "file": "1201/Final Rules/2010-Final-Rule.txt",
+        "pdf_pages": [15],
+        "txt_line_range": [3010, 3020],
+        "quote": "(3) Computer programs, in the form of firmware or software, that enable used wireless telephone handsets to connect to a wireless telecommunications network, when circumvention is initiated by the owner of the copy of the computer program solely in order to connect to a wireless telecommunications network and access to the network is authorized by the operator of the network."
+      }
+    },
+    {
+      "class_number": "(b)(4)",
+      "equipment_or_work": "Video games accessible on personal computers and protected by access-control technological protection measures (security research)",
+      "permitted_uses": [
+        "Circumvention of technological protection measures controlling access to video games accessible on personal computers, solely for the purpose of good faith testing for, investigating, or correcting security flaws or vulnerabilities in the games"
+      ],
+      "exclusions": [
+        "Limited to video games 'accessible on personal computers' — does not cover console games, mobile games, or arcade games",
+        "Limited to TPMs 'that control access to lawfully obtained works' — does not authorize circumvention of TPMs on pirated copies",
+        "Circumvention must be 'solely for the purpose of good faith testing for, investigating, or correcting security flaws or vulnerabilities' — circumvention for other purposes (including non-security research) is not covered",
+        "Excluded if the information derived from the security testing is not 'used primarily to promote the security of the owner or operator of a computer, computer system, or computer network' — research aimed at other ends is outside the exemption",
+        "Excluded if the information derived from the security testing is 'used or maintained in a manner that … facilitate[s] copyright infringement or a violation of applicable law'"
+      ],
+      "definitions_or_conditions": [
+        "The video games must be 'lawfully obtained' — the codified TPM-language requires that the TPM controls access to 'lawfully obtained works'",
+        "Two cumulative use/maintenance conditions on the resulting information are imposed by (b)(4)(i) and (b)(4)(ii): the information must be used primarily to promote security, and it must not be used or maintained so as to facilitate copyright infringement or other legal violations",
+        "The codified text does not define 'good faith,' 'security flaws or vulnerabilities,' 'personal computers,' or 'applicable law'"
+      ],
+      "source": {
+        "file": "1201/Final Rules/2010-Final-Rule.txt",
+        "pdf_pages": [15],
+        "txt_line_range": [3021, 3039],
+        "quote": "(4) Video games accessible on personal computers and protected by technological protection measures that control access to lawfully obtained works, when circumvention is accomplished solely for the purpose of good faith testing for, investigating, or correcting security flaws or vulnerabilities, if: (i) The information derived from the security testing is used primarily to promote the security of the owner or operator of a computer, computer system, or computer network; and (ii) The information derived from the security testing is used or maintained in a manner that does not facilitate copyright infringement or a violation of applicable law."
+      }
+    },
+    {
+      "class_number": "(b)(5)",
+      "equipment_or_work": "Computer programs protected by obsolete dongles that prevent access due to malfunction or damage",
+      "permitted_uses": [
+        "Circumvention of dongle-based access controls on a computer program where the dongle prevents access due to malfunction or damage and is obsolete"
+      ],
+      "exclusions": [
+        "Limited to computer programs whose access is gated by 'dongles' — other forms of access control on computer programs are not covered",
+        "The dongle must 'prevent access due to malfunction or damage' — circumvention of a functioning, undamaged dongle is not covered",
+        "The dongle must additionally be 'obsolete,' as defined in the codified text — circumvention of a non-obsolete malfunctioning dongle is not covered"
+      ],
+      "definitions_or_conditions": [
+        "A dongle is 'considered obsolete if it is no longer manufactured or if a replacement or repair is no longer reasonably available in the commercial marketplace' — the codified text provides both prongs as alternative paths to obsolescence",
+        "Both the malfunction/damage prong and the obsolescence prong must be satisfied (the class refers to dongles 'that prevent access due to malfunction or damage and which are obsolete')"
+      ],
+      "source": {
+        "file": "1201/Final Rules/2010-Final-Rule.txt",
+        "pdf_pages": [15],
+        "txt_line_range": [3040, 3047],
+        "quote": "(5) Computer programs protected by dongles that prevent access due to malfunction or damage and which are obsolete. A dongle shall be considered obsolete if it is no longer manufactured or if a replacement or repair is no longer reasonably available in the commercial marketplace."
+      }
+    },
+    {
+      "class_number": "(b)(6)",
+      "equipment_or_work": "Literary works distributed in ebook format with access controls preventing read-aloud or screen-reader use",
+      "permitted_uses": [
+        "Circumvention of access controls on a literary work distributed in ebook format, where all existing ebook editions of the work (including digital text editions made available by authorized entities) contain access controls that prevent enabling of the book's read-aloud function or of screen readers that render the text into a specialized format"
+      ],
+      "exclusions": [
+        "Limited to 'literary works distributed in ebook format' — does not cover non-ebook literary works or non-literary works",
+        "Available only when 'all existing ebook editions of the work … contain access controls' that prevent the relevant functions — if any ebook edition (including digital text editions from authorized entities) is accessible, the exemption does not apply to that work",
+        "The relevant access controls are those preventing 'the enabling either of the book's read-aloud function or of screen readers that render the text into a specialized format' — access controls preventing other uses are not the basis for this exemption"
+      ],
+      "definitions_or_conditions": [
+        "'Authorized entities' (in the parenthetical 'digital text editions made available by authorized entities') is not defined in the codified text",
+        "The disjunctive 'either … or' covers two distinct accessibility functions: (a) the book's built-in read-aloud function and (b) third-party screen readers that render text into a specialized format",
+        "The 'all existing ebook editions' clause makes this an availability-conditioned exemption: the exemption turns on the state of the market for accessible editions of the particular work"
+      ],
+      "source": {
+        "file": "1201/Final Rules/2010-Final-Rule.txt",
+        "pdf_pages": [15],
+        "txt_line_range": [3048, 3056],
+        "quote": "(6) Literary works distributed in ebook format when all existing ebook editions of the work (including digital text editions made available by authorized entities) contain access controls that prevent the enabling either of the book's read–aloud function or of screen readers that render the text into a specialized format."
+      }
+    }
+  ]
+}

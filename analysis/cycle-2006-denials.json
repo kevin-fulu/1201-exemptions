@@ -1,0 +1,111 @@
+{
+  "cycle": 2006,
+  "final_rule_file": "1201/Final Rules/2006-Final-Rule.txt",
+  "extractor_notes": "Denials are enumerated in Section III.B 'Other Exemptions Considered, But Not Recommended' (PDF pp. 6-8). The Final Rule lists 11 categories of denied proposals. NOTE on smartphone jailbreaking: the task brief flagged this, but neither the 2006 Final Rule nor the 2006 Register's Recommendation contains the words 'jailbreak', 'iPhone', or 'smartphone'. The cellphone-related class in 2006 was the GRANTED carrier-unlocking class (class 5); no jailbreaking-style class to install third-party apps was proposed in 2006. That issue first appears in the 2010 cycle. The premise that jailbreaking was 'reportedly proposed in 2006 and DENIED' is not supported by the archive. One sub-proposal was denied as a procedural matter within an otherwise GRANTED class: an expansion of the dongle class requested for the first time at the hearing was rejected as untimely (PDF p. 4); that sub-proposal is included below for completeness. Similarly, the Internet Archive's second proposed class (obsolete operating systems/hardware) was not granted, on the substantive ground that it does not involve access controls so no exemption was needed (PDF pp. 3-4); included below.",
+  "denials": [
+    {
+      "proposed_class_number": "B.1",
+      "topic_label": "Censorware blocked-site lists (renewal)",
+      "reason_category": "evidence",
+      "reason_quote": "proponents in the current rulemaking proceeding made no attempt to make any factual showing whatsoever, choosing instead to rest on the record from three years ago... the absence of any quantification of the current scope of the problem along with the absence of any demonstration that the existing exemption has offered any assistance to noninfringing users leaves a record that provides no basis to justify a recommendation for renewal of the exemption.",
+      "source_pdf_pages": [6, 7],
+      "later_granted_in_cycle": null
+    },
+    {
+      "proposed_class_number": "B.2",
+      "topic_label": "Space-shifting of audiovisual and musical works",
+      "reason_category": "noninfringing_use_not_shown",
+      "reason_quote": "these commenters uniformly failed to cite legal precedent that establishes that such space-shifting is, in fact, a noninfringing use. The Register concludes that the reproduction of those works onto new devices is an infringement of the exclusive reproduction right unless some exemption or defense is applicable.",
+      "source_pdf_pages": [7],
+      "later_granted_in_cycle": null
+    },
+    {
+      "proposed_class_number": "B.3",
+      "topic_label": "CSS-protected DVDs unplayable on Linux",
+      "reason_category": "alternatives",
+      "reason_quote": "Due to these alternative options for access and use by consumers, there is no reason to conclude that the availability for use of the works on DVDs is adversely affected by the prohibition. An exemption is not warranted simply because some uses are unavailable in the particular manner that a user seeks to make the use, when other options are available.",
+      "source_pdf_pages": [7],
+      "later_granted_in_cycle": null
+    },
+    {
+      "proposed_class_number": "B.4",
+      "topic_label": "Region-coded DVDs",
+      "reason_category": "de_minimis",
+      "reason_quote": "Region coding imposes, at most, an inconvenience rather than actual or likely harm, because there are numerous options available to individuals seeking access to content from other regions... In light of the de minimis showing made in support of the proposed exemption, the Register recommends rejection of this proposed class.",
+      "source_pdf_pages": [7],
+      "later_granted_in_cycle": null
+    },
+    {
+      "proposed_class_number": "B.5",
+      "topic_label": "Computer programs restricted to a particular platform/OS",
+      "reason_category": "evidence",
+      "reason_quote": "The brief comments submitted on this issue failed to present sufficient evidence from which to conclude that technological measures that control access to works are interfering with the ability of users of copyrighted works to make noninfringing uses. No exemption can be recommended in this case because insufficient information has been presented to understand the nature of the problem or even the relevance of section 1201(a)(1).",
+      "source_pdf_pages": [7],
+      "later_granted_in_cycle": null
+    },
+    {
+      "proposed_class_number": "B.6",
+      "topic_label": "Computer games/software copy protections (SecuROM, StarForce)",
+      "reason_category": "evidence",
+      "reason_quote": "The commenter did not present any evidence that the adverse effect articulated is the result of an access control. There is not sufficient evidence in the record to understand the problem adequately, to know whether the prohibition is the cause of the problem, or to know whether an exemption is warranted.",
+      "source_pdf_pages": [8],
+      "later_granted_in_cycle": null
+    },
+    {
+      "proposed_class_number": "B.7",
+      "topic_label": "Library-distributed audiobooks in electronic audio format",
+      "reason_category": "substantive",
+      "reason_quote": "the commenter did not identify any technological measures that control access to the literary content of the digital books, nor does it explain how such measures are creating problems for users. His complaint appeared to be about software incompatibility... it appears that the technology in question is the type of use-facilitating technology the DMCA was enacted to encourage.",
+      "source_pdf_pages": [8],
+      "later_granted_in_cycle": null
+    },
+    {
+      "proposed_class_number": "B.8",
+      "topic_label": "All works / all fair use works",
+      "reason_category": "procedural",
+      "reason_quote": "These commenters have not articulated a sufficient class or provided sufficient evidence of adverse effects by the prohibition on noninfringing uses that would allow the articulation of a cognizable class.",
+      "source_pdf_pages": [8],
+      "later_granted_in_cycle": null
+    },
+    {
+      "proposed_class_number": "B.9",
+      "topic_label": "Works protected by access controls preventing back-up copies",
+      "reason_category": "noninfringing_use_not_shown",
+      "reason_quote": "the proponents offered no legal arguments in support of the proposition that the making of backup copies is noninfringing, and the Register is aware of no authority (apart from section 117 of the Copyright Act, which relates to computer programs) in support of that notion. Nor did proponents offer facts that would warrant a conclusion that media such as DVDs and CDs are so susceptible to damage and deterioration that the practice of making preventive backup copies should be noninfringing.",
+      "source_pdf_pages": [8],
+      "later_granted_in_cycle": null
+    },
+    {
+      "proposed_class_number": "B.10",
+      "topic_label": "Audiovisual works and sound recordings protected by a broadcast flag",
+      "reason_category": "substantive",
+      "reason_quote": "there is currently no broadcast flag mandate for either television or radio broadcasts and whether such a mandate will exist within the next three years is a matter of speculation... The Register cannot recommend an exemption based upon speculation about a legal regime that may or may not be imposed in the next three years.",
+      "source_pdf_pages": [8],
+      "later_granted_in_cycle": null
+    },
+    {
+      "proposed_class_number": "B.11",
+      "topic_label": "Miscellaneous one-page proposals (EULAs, satellite TV, user-created content, digital broadcast time-shifting, etc.)",
+      "reason_category": "evidence",
+      "reason_quote": "A number of individual comments, each of one page or less, were submitted that do not fall into any of the categories noted above. In each case, the proponent failed to provide information that would justify an exemption... None of these comments presented sufficient facts or justification to warrant an exemption.",
+      "source_pdf_pages": [8],
+      "later_granted_in_cycle": null
+    },
+    {
+      "proposed_class_number": "A.2-secondary",
+      "topic_label": "Computer programs/video games requiring obsolete OS or hardware (Internet Archive's 2nd proposed class)",
+      "reason_category": "substantive",
+      "reason_quote": "The Register cannot recommend adoption of an exemption for this proposed class because it does not involve access controls and, therefore, no exemption is needed... The fact that the creators of the computer programs and video games in question designed them to run on particular operating systems or particular hardware does not make the operating system or hardware 'technological measures that control access to works.'",
+      "source_pdf_pages": [3, 4],
+      "later_granted_in_cycle": null
+    },
+    {
+      "proposed_class_number": "A.3-expansion",
+      "topic_label": "Expanded dongle class (incompatibilities / obsolete OS or hardware)",
+      "reason_category": "procedural",
+      "reason_quote": "At the hearing on the proposed class of computer programs protected by dongles, that proponent asked, for the first time, that the class of works be expanded... That request was untimely. The purpose of the hearing, at a relatively late stage of the proceedings, is not to accept new proposals for exemptions or to entertain requests for expanded versions of exemptions that were proposed in a timely manner.",
+      "source_pdf_pages": [4],
+      "later_granted_in_cycle": null
+    }
+  ]
+}

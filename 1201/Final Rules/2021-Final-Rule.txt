@@ -1,0 +1,3174 @@
+[PAGE 1]
+59627 Federal Register / Vol. 86, No. 206 / Thursday, October 28, 2021 / Rules and Regulations 
+1 Staff of H. Comm. on the Judiciary, 105th Cong., 
+Section-by-Section Analysis of H.R. 2281 as Passed 
+by the United States House of Representatives on 
+August 4, 1998, at 6 (Comm. Print 1998). 
+2 17 U.S.C. 1201(a)(3)(A). 
+3 17 U.S.C. 1201(a)(3)(B). 
+4 See H.R. Rep. No. 105–551, pt. 2, at 36 (1998). 
+5 See 17 U.S.C. 1201(a)(1). 
+6 17 U.S.C. 1201(a)(1)(C). 
+7 Id. 
+8 17 U.S.C. 1201(a)(2). 
+9 17 U.S.C. 1201(b). 
+10 See 17 U.S.C. 1201(a)(1)(E) (‘‘Neither the 
+exception under subparagraph (B) from the 
+applicability of the prohibition contained in 
+subparagraph (A), nor any determination made in 
+a rulemaking conducted under subparagraph (C), 
+may be used as a defense in any action to enforce 
+any provision of this title other than this 
+paragraph.’’). 
+in its place the citation ‘‘34 CFR 
+668.23(b)’’. 
+■ b. In the parenthetical OMB control 
+number at the end of the section, 
+removing the words ‘‘control number 
+1840–0688’’ and adding in their place 
+the words ‘‘control number 1845–0039’’. 
+■ c. Removing the parenthetical 
+authority citation at the end of the 
+section 
+PART 691 [Removed and Reserved] 
+■ 18. Under the authority of 20 U.S.C. 
+1221e–3, part 691 is removed and 
+reserved. 
+[FR Doc. 2021–23423 Filed 10–27–21; 8:45 am] 
+BILLING CODE 4000–01–P 
+LIBRARY OF CONGRESS 
+Copyright Office 
+37 CFR Part 201 
+[Docket No. 2020–11] 
+Exemption to Prohibition on 
+Circumvention of Copyright Protection 
+Systems for Access Control 
+Technologies 
+AGENCY: U.S. Copyright Office, Library 
+of Congress. 
+ACTION: Final rule. 
+SUMMARY: In this final rule, the Librarian 
+of Congress adopts exemptions to the 
+provision of the Digital Millennium 
+Copyright Act (‘‘DMCA’’) that prohibits 
+circumvention of technological 
+measures that control access to 
+copyrighted works. As required under 
+the statute, the Register of Copyrights, 
+following a public proceeding, 
+submitted a recommendation 
+concerning proposed exemptions to the 
+Librarian of Congress (‘‘Register’s 
+Recommendation’’). After careful 
+consideration, the Librarian adopts final 
+regulations based upon the Register’s 
+Recommendation. 
+DATES: Effective October 28, 2021. 
+FOR FURTHER INFORMATION CONTACT : 
+Kevin R. Amer, Acting General Counsel 
+and Associate Register of Copyrights, by 
+email at kamer@copyright.gov, or Mark 
+Gray, Attorney-Advisor, by email at 
+mgray@copyright.gov. Each can be 
+contacted by telephone by calling (202) 
+707–8350. 
+SUPPLEMENTARY INFORMATION: The 
+Librarian of Congress, pursuant to 
+section 1201(a)(1) of title 17, United 
+States Code, has determined in this 
+eighth triennial rulemaking proceeding 
+that the prohibition against 
+circumvention of technological 
+measures that effectively control access 
+to copyrighted works shall not apply for 
+the next three years to persons who 
+engage in certain noninfringing uses of 
+certain classes of such works. This 
+determination is based upon the 
+Register’s Recommendation. 
+The below discussion summarizes the 
+rulemaking proceeding and the 
+Register’s recommendations, announces 
+the Librarian’s determination, and 
+publishes the regulatory text specifying 
+the exempted classes of works. A more 
+complete discussion of the rulemaking 
+process, the evidentiary record, and the 
+Register’s analysis with respect to each 
+proposed exemption can be found in the 
+Register’s Recommendation, which is 
+posted at www.copyright.gov/1201/ 
+2021/. 
+I. Background 
+A. Statutory Requirements 
+Congress enacted the DMCA in 1998 
+to implement certain provisions of the 
+WIPO Copyright and WIPO 
+Performances and Phonograms Treaties. 
+Among other things, title I of the DMCA, 
+which added a new chapter 12 to title 
+17 of the U.S. Code, prohibits 
+circumvention of technological 
+measures employed by or on behalf of 
+copyright owners to protect access to 
+their works. In enacting this aspect of 
+the law, Congress observed that 
+technological protection measures 
+(‘‘TPMs’’) can ‘‘support new ways of 
+disseminating copyrighted materials to 
+users, and . . . safeguard the 
+availability of legitimate uses of those 
+materials by individuals.’’
+1 
+Section 1201(a)(1) provides in 
+pertinent part that ‘‘[n]o person shall 
+circumvent a technological measure that 
+effectively controls access to a work 
+protected under [title 17].’’ Under the 
+statute, to ‘‘circumvent a technological 
+measure’’ means ‘‘to descramble a 
+scrambled work, to decrypt an 
+encrypted work, or otherwise to avoid, 
+bypass, remove, deactivate, or impair a 
+technological measure, without the 
+authority of the copyright owner.’’
+2 A 
+technological measure that ‘‘effectively 
+controls access to a work’’ is one that 
+‘‘in the ordinary course of its operation, 
+requires the application of information, 
+or a process or a treatment, with the 
+authority of the copyright owner, to gain 
+access to the work.’’
+3 
+Section 1201(a)(1) also includes what 
+Congress characterized as a ‘‘fail-safe’’ 
+mechanism,4 which requires the 
+Librarian of Congress, following a 
+rulemaking proceeding, to exempt any 
+class from the prohibition for a three- 
+year period if she has determined that 
+noninfringing uses by persons who are 
+users of copyrighted works in that class 
+are, or are likely to be, adversely 
+affected by the prohibition against 
+circumvention during that period.
+5 The 
+Librarian’s determination to grant an 
+exemption is based upon the 
+recommendation of the Register of 
+Copyrights, who conducts the 
+rulemaking proceeding.
+6 The Register 
+consults with the Assistant Secretary for 
+Communications and Information of the 
+Department of Commerce, who oversees 
+the National Telecommunications and 
+Information Administration (‘‘NTIA’’), 
+in the course of formulating her 
+recommendations.
+7 
+Exemptions adopted by rule under 
+section 1201(a)(1) apply only to the 
+conduct of circumventing a 
+technological measure that controls 
+access to a copyrighted work. Other 
+parts of section 1201 address the 
+manufacture and provision of—or 
+‘‘trafficking’’ in—products and services 
+designed for purposes of circumvention. 
+Section 1201(a)(2) bars trafficking in 
+products and services that are used to 
+circumvent technological measures that 
+control access to copyrighted works (for 
+example, a password needed to open a 
+media file),
+8 while section 1201(b) bars 
+trafficking in products and services used 
+to circumvent technological measures 
+that protect the exclusive rights of the 
+copyright owner (for example, 
+technology that prevents the work from 
+being reproduced).
+9 The Librarian has 
+no authority to adopt exemptions for the 
+anti-trafficking prohibitions contained 
+in section 1201(a)(2) or (b).
+10 
+The statute contains certain 
+permanent exemptions to permit 
+specified uses. These include section 
+1201(d), which exempts certain 
+activities of nonprofit libraries, archives, 
+and educational institutions; section 
+1201(e), which exempts ‘‘lawfully 
+authorized investigative, protective, 
+information security, or intelligence 
+activity’’ of a state or the federal 
+VerDate Sep<11>2014 16:25 Oct 27, 2021 Jkt 256001 PO 00000 Frm 00019 Fmt 4700 Sfmt 4700 E:\FR\FM\28OCR1.SGM 28OCR1jspears on DSK121TN23PROD with RULES1
+
+[PAGE 2]
+59628 Federal Register / Vol. 86, No. 206 / Thursday, October 28, 2021 / Rules and Regulations 
+11 Register of Copyrights, Section 1201 
+Rulemaking: Eighth Triennial Proceeding to 
+Determine Exemptions to the Prohibition on 
+Circumvention, Recommendation of the Register of 
+Copyrights (Oct. 2021), https://cdn.loc.gov/ 
+copyright/1201/2021/2021_Section_1201_Registers_
+Recommendation.pdf (Register’s 
+Recommendation’’). 
+12 Register’s Recommendation at section II.C; U.S. 
+Copyright Office, Section 1201 of Title 17 111–12 
+(2017), https://www.copyright.gov/policy/1201/ 
+section-1201-full-report.pdf (‘‘Section 1201 
+Report’’). 
+13 Section 1201 Report at 111–12; accord Register 
+of Copyrights, Section 1201 Rulemaking: Seventh 
+Triennial Proceeding to Determine Exemptions to 
+the Prohibition on Circumvention, 
+Recommendation of the Register of Copyrights 
+12–13 (Oct. 2018). References to the Register’s 
+recommendations in prior rulemakings are cited by 
+the year of publication followed by 
+‘‘Recommendation’’ (e.g., ‘‘2018 
+Recommendation’’). Prior Recommendations are 
+available on the Copyright Office website at https:// 
+www.copyright.gov/1201/. 
+14 Section 1201 Report at 112. 
+15 17 U.S.C. 1201(a)(1)(B). 
+16 2006 Recommendation at 19. 
+17 Exemptions to Permit Circumvention of Access 
+Controls on Copyrighted Works, 85 FR 37399 (June 
+22, 2020). 
+18 Exemptions to Permit Circumvention of Access 
+Controls on Copyrighted Works, 85 FR 37399, 
+37400–02 (June 22, 2020); Exemptions to Permit 
+Circumvention of Access Controls on Copyrighted 
+Works, 85 FR 65293, 65294–95 (Oct. 15, 2020). 
+19 Exemptions to Permit Circumvention of Access 
+Controls on Copyrighted Works, 85 FR 37399, 
+37401–02 (June 22, 2020); Exemptions to Permit 
+Circumvention of Access Controls on Copyrighted 
+Works, 85 FR 65293, 65295 (Oct. 15, 2020). 
+20 Register’s Recommendation at III.D & IV. 
+21 The submissions received in response to the 
+NOI are available at https://www.copyright.gov/ 
+1201/2021/. References to these submissions are by 
+party and class name (abbreviated where 
+appropriate) followed by ‘‘Renewal Pet.,’’ ‘‘Renewal 
+Comment,’’ or party name and class number 
+followed by ‘‘Pet.,’’ ‘‘Initial,’’ ‘‘Opp’n,’’ or ‘‘Reply’’ 
+for comments submitted in the first, second, or 
+third round, as applicable. 
+22 Exemptions to Permit Circumvention of Access 
+Controls on Copyrighted Works, 85 FR 65293, 
+65293 (Oct. 15, 2020). 
+government; section 1201(f), which 
+exempts certain ‘‘reverse engineering’’ 
+activities to facilitate interoperability; 
+section 1201(g), which exempts certain 
+types of research into encryption 
+technologies; section 1201(h), which 
+exempts certain activities to prevent the 
+‘‘access of minors to material on the 
+internet’’; section 1201(i), which 
+exempts certain activities ‘‘solely for the 
+purpose of preventing the collection or 
+dissemination of personally identifying 
+information’’; and section 1201(j), 
+which exempts certain acts of ‘‘security 
+testing’’ of computers and computer 
+systems. 
+B. Rulemaking Standards 
+In adopting the DMCA, Congress 
+imposed legal and evidentiary 
+requirements for the section 1201 
+rulemaking proceeding, as discussed in 
+greater detail in the Register’s 
+Recommendation
+11 and the Copyright 
+Office’s 2017 policy study on section 
+1201.
+12 The Register will recommend 
+granting an exemption only ‘‘when the 
+preponderance of the evidence in the 
+record shows that the conditions for 
+granting an exemption have been 
+met.’’
+13 The evidence must show ‘‘that 
+it is more likely than not that users of 
+a copyrighted work will, in the 
+succeeding three-year period, be 
+adversely affected by the prohibition on 
+circumvention in their ability to make 
+noninfringing uses of a particular class 
+of copyrighted works.’’
+14 
+The Librarian must assess whether the 
+implementation of access controls 
+impairs the ability of individuals to 
+make noninfringing uses of copyrighted 
+works within the meaning of section 
+1201(a)(1). To aid in this process, the 
+Register develops a comprehensive 
+administrative record using information 
+submitted by interested members of the 
+public, and makes recommendations to 
+the Librarian concerning whether 
+exemptions are warranted based on that 
+record. 
+To establish the need for an 
+exemption, proponents must show, at a 
+minimum, (1) that uses affected by the 
+prohibition on circumvention are or are 
+likely to be noninfringing; and (2) that 
+as a result of a technological measure 
+controlling access to a copyrighted 
+work, the prohibition is causing, or in 
+the next three years is likely to cause, 
+an adverse impact on those uses. In 
+addition, the Librarian must examine 
+the statutory factors listed in section 
+1201(a)(1): (1) The availability for use of 
+copyrighted works; (2) the availability 
+for use of works for nonprofit archival, 
+preservation, and educational purposes; 
+(3) the impact that the prohibition on 
+the circumvention of technological 
+measures applied to copyrighted works 
+has on criticism, comment, news 
+reporting, teaching, scholarship, or 
+research; (4) the effect of circumvention 
+of technological measures on the market 
+for or value of copyrighted works; and 
+(5) such other factors as the Librarian 
+considers appropriate. 
+Finally, section 1201(a)(1) specifies 
+that any exemption adopted as part of 
+this rulemaking must be defined based 
+on ‘‘a particular class of works.’’
+15 
+Among other things, the determination 
+of the appropriate scope of a ‘‘class of 
+works’’ recommended for exemption 
+may take into account the adverse 
+effects an exemption may have on the 
+market for or value of copyrighted 
+works. Accordingly, ‘‘it can be 
+appropriate to refine a class by reference 
+to the use or user in order to remedy the 
+adverse effect of the prohibition and to 
+limit the adverse consequences of an 
+exemption.’’
+16 
+II. History of the Eighth Triennial 
+Proceeding 
+The Office initiated the eighth 
+triennial rulemaking proceeding 
+through a Notice of Inquiry (‘‘NOI’’) on 
+June 22, 2020.
+17 The NOI requested 
+petitions for renewal of exemptions 
+adopted in the 2018 rulemaking, 
+petitions in opposition to renewal, and 
+any petitions for new exemptions, 
+including proposals to expand a current 
+exemption. The Office received twenty- 
+six petitions for new exemptions, 
+including thirteen comments seeking to 
+expand certain current exemptions. 
+As in the prior rulemaking, the Office 
+employed a streamlined process for 
+renewing existing exemptions in this 
+proceeding, detailing the renewal 
+process in its public notices.
+18 
+Streamlined renewal is based upon a 
+determination that, due to a lack of 
+legal, marketplace, or technological 
+changes, the factors that led the Register 
+to recommend adoption of the 
+exemption in the prior rulemaking are 
+expected to continue into the 
+forthcoming triennial period.
+19 That is, 
+the same material facts and 
+circumstances underlying the 
+previously-adopted regulatory 
+exemption may be relied on to renew 
+the exemption. Because the statute 
+requires that exemptions be adopted 
+upon a new determination concerning 
+the next three-year period, the fact that 
+the Librarian previously adopted an 
+exemption creates no presumption that 
+readoption is appropriate. 
+The Register’s Recommendation 
+provides a detailed description of the 
+process the Office used to create a 
+record for each renewal petition.
+20 In 
+brief, the Office first solicited renewal 
+petitions as well as comments from 
+participants opposing the readoption of 
+the exemption. The Office received 
+thirty-two renewal petitions and fifteen 
+comments in response to those 
+petitions. Seven comments supported 
+renewal of a current exemption, and 
+eight comments raised discrete concerns 
+with specific petitions, but did not 
+oppose readoption of the relevant 
+exemption.
+21 
+On October 15, 2020, the Office 
+issued its notice of proposed rulemaking 
+(‘‘NPRM’’) identifying the existing 
+exemptions for which the Register 
+intended to recommend renewal, and 
+outlined the proposed classes for new 
+exemptions, for which three rounds of 
+public comments were initiated.
+22 
+Those proposals were organized into 
+seventeen classes of works. Six of the 
+seventeen proposed exemptions sought 
+VerDate Sep<11>2014 16:25 Oct 27, 2021 Jkt 256001 PO 00000 Frm 00020 Fmt 4700 Sfmt 4700 E:\FR\FM\28OCR1.SGM 28OCR1jspears on DSK121TN23PROD with RULES1
+
+[PAGE 3]
+59629 Federal Register / Vol. 86, No. 206 / Thursday, October 28, 2021 / Rules and Regulations 
+23 Participants’ post-hearing letter responses are 
+available at https://www.copyright.gov/1201/2021/ 
+post-hearing/. 
+24 All ex parte letters in the eighth triennial 
+rulemaking can be found at https://
+www.copyright.gov/1201/2021/ex-parte- 
+communications.html. 
+25 Exemptions to Permit Circumvention of Access 
+Controls on Copyrighted Works, 85 FR 65293, 
+65295 (Oct. 15, 2020); see also Exemptions to 
+Permit Circumvention of Access Controls on 
+Copyrighted Works, 85 FR 37399, 37402 (June 22, 
+2020) (describing ‘‘meaningful opposition’’ 
+standard). 
+26 See 37 CFR 201.40(b)(1). In the 2018 
+rulemaking, this recommended regulatory language 
+was the result of consideration of one proposed 
+class of works that grouped together five petitions. 
+See 2018 Recommendation at 31–34. 
+27 The Register’s analysis and conclusions for this 
+subpart, including citations to the record and 
+relevant legal authority, can be found in the 
+Register’s Recommendation at IV.A.1. 
+28 The individuals and organizations include 
+Peter Decherney, Katherine Sender, John L. Jackson, 
+Int’l Commc’n Ass’n, Soc’y for Cinema and Media 
+Studies, Console-ing Passions, Library Copyright 
+All., and Am. Ass’n of Univ. Professors. 
+29 Joint Educators AV Educ. Renewal Pet. at 3. 
+30 The Register’s analysis and conclusions for this 
+subpart, including citations to the record and 
+relevant legal authority, can be found in the 
+Register’s Recommendation at IV.A.2. 
+31 The Register’s analysis and conclusions for this 
+subpart, including citations to the record and 
+relevant legal authority, can be found in the 
+Register’s Recommendation at IV.A.3. 
+32 The Register’s analysis and conclusions for this 
+subpart, including citations to the record and 
+relevant legal authority, can be found in the 
+Register’s Recommendation at IV.A.4. 
+expansions of existing exemptions, 
+seven proposed entirely new 
+exemptions, and four contained a 
+combination of both expansions and 
+new exemptions. The Office then held 
+seven days of public hearings in which 
+it heard testimony from numerous 
+participants. After the hearings, the 
+Office issued written questions to 
+hearing participants regarding certain 
+proposed classes.
+23 Finally, the Office 
+held several ex parte meetings with 
+participants concerning ten proposed 
+classes.
+24 
+As required by section 1201(a)(1), the 
+Register consulted with NTIA during 
+this rulemaking. NTIA provided input at 
+various stages and participated in the 
+virtual public hearings. NTIA formally 
+communicated its views on each of the 
+proposed exemptions to the Register on 
+October 1, 2021. The Office addresses 
+NTIA’s substantive views on the 
+proposed classes below. NTIA’s 
+recommendations can be viewed at 
+https://cdn.loc.gov/copyright/1201/ 
+2021/2021_NTIA_DMCA_Letter.pdf. 
+III. Summary of Register’s 
+Recommendation 
+A. Renewal Recommendations 
+As set forth in the NPRM, the Register 
+received petitions to renew each of the 
+exemptions adopted pursuant to the 
+seventh triennial rulemaking. Eight 
+comments in response to renewal 
+petitions raised discrete concerns with 
+specific petitions, but none opposed the 
+verbatim readoption of an existing 
+regulatory exemption or disputed the 
+reliability of the previously analyzed 
+administrative record.
+25 The Register 
+recommends renewal of these 
+exemptions based on the information 
+provided in the renewal petitions and 
+the lack of meaningful opposition, 
+finding that the conditions that led to 
+adoption of the exemptions are likely to 
+continue during the next triennial 
+period. The existing exemptions, and 
+the bases for the recommendation to 
+readopt each exemption in accordance 
+with the streamlined renewal process, 
+are discussed in detail in the 
+Recommendation and summarized 
+briefly below. Where noted, these 
+exemptions serve as a baseline in 
+considering requests for expansion. 
+1. Audiovisual Works—Educational and 
+Derivative Uses 
+Multiple individuals and 
+organizations petitioned to renew the 
+exemption covering the use of short 
+portions of motion pictures for various 
+educational and derivative uses.
+26 The 
+Office did not receive meaningful 
+opposition to readoption of these 
+exemptions. Petitions to renew the 
+various subparts of the exemption are 
+discussed below. The existing 
+exemption and its various subparts 
+collectively serve as the baseline in 
+assessing whether to recommend any 
+expansions in Class 1. 
+a. Audiovisual Works—Criticism and 
+Comment, Teaching, or Scholarship— 
+Universities and K–12 Educational 
+Institutions.
+27 
+Multiple individuals and 
+organizations petitioned to renew the 
+exemption for motion pictures for 
+educational purposes by college and 
+university or K–12 faculty and students. 
+The Office did not receive substantive 
+opposition to readoption of this 
+exemption. The petitions demonstrated 
+that educators and students continue to 
+rely on excerpts from digital media for 
+class presentations and coursework. For 
+example, a collective of individuals and 
+organizations provided several 
+examples of professors using DVD clips 
+in the classroom. A group of individual 
+educators and educational 
+organizations
+28 broadly suggested that 
+the ‘‘entire field’’ of video essays or 
+multimedia criticism ‘‘could not have 
+existed in the United States without fair 
+use and the 1201 educational 
+exemption.’’
+29 Petitioners demonstrated 
+personal knowledge and experience 
+with regard to this exemption based on 
+their representation of thousands of 
+digital and literacy educators and/or 
+members supporting educators and 
+students, combined with past 
+participation in the section 1201 
+triennial rulemaking. The Register finds 
+that petitioners demonstrated a 
+continuing need and justification for the 
+exemption. 
+b. Audiovisual Works—Criticism and 
+Comment—Massive Open Online 
+Courses (‘‘MOOCs’’).
+30 
+A collective of individuals and 
+organizations and Brigham Young 
+University (‘‘BYU’’) petitioned to renew 
+the exemption for educational uses of 
+motion pictures in MOOCs. The Office 
+did not receive meaningful opposition 
+to readoption of this exemption. The 
+petitions demonstrated the continuing 
+need and justification for the 
+exemption, stating that instructors 
+continue to rely on the exemption to 
+develop, provide, and improve MOOCs, 
+as well as to increase the number of 
+(and therefore access to) MOOCs in the 
+field of film and media studies. 
+c. Audiovisual Works—Criticism and 
+Comment—Digital and Media Literacy 
+Programs
+31 
+Library Copyright Alliance (‘‘LCA’’) 
+and Renee Hobbs petitioned to renew 
+the exemption for motion pictures for 
+educational uses in nonprofit digital 
+and media literacy programs offered by 
+libraries, museums, and other 
+organizations. No oppositions were filed 
+against readoption of this exemption. 
+The petition stated that librarians across 
+the country have relied on the current 
+exemption and will continue to do so 
+for their digital and media literacy 
+programs, thereby demonstrating the 
+continuing need and justification for the 
+exemption. 
+d. Audiovisual Works—Criticism and 
+Comment—Multimedia E-books
+32 
+Multiple petitioners jointly sought to 
+renew the exemption for the use of 
+motion picture excerpts in nonfiction 
+multimedia e-books. The Office did not 
+receive meaningful opposition to 
+readoption of this exemption. The 
+petition demonstrated the continuing 
+need and justification for the 
+exemption. In addition, the petitioners 
+demonstrated personal knowledge 
+through Bobette Buster’s continued 
+work on an e-book series based on her 
+lecture series, ‘‘Deconstructing Master 
+Filmmakers: The Uses of Cinematic 
+Enchantment,’’ which ‘‘relies on the 
+VerDate Sep<11>2014 16:25 Oct 27, 2021 Jkt 256001 PO 00000 Frm 00021 Fmt 4700 Sfmt 4700 E:\FR\FM\28OCR1.SGM 28OCR1jspears on DSK121TN23PROD with RULES1
+
+[PAGE 4]
+59630 Federal Register / Vol. 86, No. 206 / Thursday, October 28, 2021 / Rules and Regulations 
+33 Bobette Buster, Authors All. & Am. Ass’n of 
+Univ. Professors Nonfiction Multimedia E-Books 
+Renewal Pet. at 3. 
+34 The Register’s analysis and conclusions for this 
+subpart, including citations to the record and 
+relevant legal authority, can be found in the 
+Register’s Recommendation at IV.A.5. 
+35 The Register’s analysis and conclusions for this 
+subpart, including citations to the record and 
+relevant legal authority, can be found in the 
+Register’s Recommendation at IV.A.6. 
+36 OTW Noncommercial Videos Renewal Pet. at 3. 
+37 The Register’s analysis and conclusions for this 
+class, including citations to the record and relevant 
+legal authority, can be found in the Register’s 
+Recommendation at IV.B. 
+38 BYU Captioning Renewal Pet. at 3. 
+39 Accessibility Petitioners Captioning Renewal 
+Pet. at 3. 
+40 The Register’s analysis and conclusions for this 
+class, including citations to the record and relevant 
+legal authority, can be found in the Register’s 
+Recommendation at IV.C. 
+41 The Register’s analysis and conclusions for this 
+class, including citations to the record and relevant 
+legal authority, can be found in the Register’s 
+Recommendation at IV.D. 
+42 The Register’s analysis and conclusions for this 
+class, including citations to the record and relevant 
+legal authority, can be found in the Register’s 
+Recommendation at IV.E. 
+43 Competitive Carriers Ass’n Unlocking Renewal 
+Pet.; Inst. of Scrap Recycling Indus., Inc. Unlocking 
+Renewal Pet. 
+44 ISRI Unlocking Renewal Pet. at 3. 
+45 The Register’s analysis and conclusions for this 
+class, including citations to the record and relevant 
+legal authority, can be found in the Register’s 
+Recommendation at IV.F. 
+availability of high-resolution video not 
+available without circumvention of 
+TPMs.’’
+33 
+e. Audiovisual Works—Criticism and 
+Comment—Filmmaking
+34 
+Multiple organizations petitioned to 
+renew the exemption for motion 
+pictures for uses in documentary films 
+or other films where the use is a parody 
+or based on the work’s biographical or 
+historically significant nature. The 
+Office did not receive meaningful 
+opposition to readoption of this 
+exemption. Petitioners stated that they 
+personally know many filmmakers who 
+have found it necessary to rely on this 
+exemption and will continue to do so. 
+The petitions summarized the 
+continuing need and justification for the 
+exemption. 
+f. Audiovisual Works—Criticism and 
+Comment—Noncommercial Videos
+35 
+Two organizations petitioned to 
+renew the exemption for motion 
+pictures for uses in noncommercial 
+videos. The Office did not receive 
+meaningful opposition to readoption of 
+this exemption. Petitioners stated that 
+they had personal knowledge that video 
+creators have relied on this exemption 
+and anticipate needing to continue to 
+use the exemption in the future. The 
+Organization for Transformative Works 
+(‘‘OTW’’) included an account from an 
+academic who stated that footage ripped 
+from DVDs and Blu-ray is preferred for 
+‘‘vidders’’ (noncommercial remix artists) 
+because ‘‘it is high quality enough to 
+bear up under the transformations that 
+vidders make to it.’’
+36 The petitions 
+therefore demonstrated the continuing 
+need and justification for the 
+exemption. 
+2. Audiovisual Works—Accessibility
+37 
+Multiple organizations petitioned to 
+renew the exemption for motion 
+pictures for the provision of captioning 
+and/or audio description by disability 
+services offices or similar units at 
+educational institutions for students 
+with disabilities. No oppositions were 
+filed in connection with readoption of 
+this exemption. The petitions 
+demonstrated the continuing need and 
+justification for the exemption, and the 
+petitioners demonstrated personal 
+knowledge and experience as to the 
+exemption. For example, BYU asserted 
+that its disability services offices 
+‘‘sometimes need to create accessible 
+versions of motion pictures’’ to 
+accommodate its students with 
+disabilities.
+38 The petitions stated that 
+there is a need for the exemption going 
+forward; indeed, one group of 
+petitioners stated that ‘‘the need is 
+likely to increase significantly in light of 
+the ongoing COVID–19 pandemic as 
+many educational institutions shift to 
+online learning and the use of digital 
+multimedia by faculty increases.’’
+39 
+This existing exemption serves as the 
+baseline in assessing whether to 
+recommend any expansions in Class 3. 
+3. Literary Works Distributed 
+Electronically—Accessibility
+40 
+Multiple organizations petitioned to 
+renew the exemption for literary works 
+distributed electronically (i.e., e-books), 
+for use with assistive technologies for 
+persons who are blind, visually 
+impaired, or have print disabilities. No 
+oppositions were filed against 
+readoption of this exemption. The 
+petitions demonstrated the continuing 
+need and justification for the 
+exemption, stating that individuals who 
+are blind, visually impaired, or print 
+disabled have difficulty obtaining 
+accessible e-book content because TPMs 
+interfere with the use of assistive 
+technologies. Petitioners noted that their 
+members frequently cite accessibility of 
+e-books as a top priority. Finally, 
+petitioners demonstrated personal 
+knowledge and experience with regard 
+to the assistive technology exemption 
+because they are all organizations that 
+advocate for the blind, visually 
+impaired, and print disabled. This 
+existing exemption serves as the 
+baseline in assessing whether to 
+recommend any expansions in Class 8. 
+4. Literary Works—Medical Device 
+Data
+41 
+Hugo Campos petitioned to renew the 
+exemption covering access to patient 
+data on networked medical devices. No 
+oppositions were filed against 
+readoption of this exemption, and 
+Consumer Reports submitted a comment 
+in support of the renewal petition. Mr. 
+Campos’s petition demonstrated the 
+continuing need and justification for the 
+exemption, stating that patients 
+continue to need access to data output 
+from their medical devices to manage 
+their health. Mr. Campos demonstrated 
+personal knowledge and experience 
+with regard to this exemption, as he is 
+a patient needing access to the data 
+output from his medical device and a 
+member of a coalition whose members 
+research the effectiveness of networked 
+medical devices. This existing 
+exemption serves as the baseline in 
+assessing whether to recommend any 
+expansions in Class 9. 
+5. Computer Programs—Unlocking
+42 
+Multiple organizations petitioned to 
+renew the exemption for computer 
+programs that operate cellphones, 
+tablets, mobile hotspots, or wearable 
+devices (e.g., smartwatches) to allow 
+connection of a new or used device to 
+an alternative wireless network 
+(‘‘unlocking’’).
+43 No oppositions were 
+filed against readoption of this 
+exemption, and Consumer Reports 
+submitted a comment in support of the 
+renewal petition. The petitions 
+demonstrated the continuing need and 
+justification for the exemption, stating 
+that consumers of the enumerated 
+products continue to need to be able to 
+unlock the devices so they can switch 
+network providers. For example, the 
+Institute of Scrap Recycling Industries, 
+Inc. (‘‘ISRI’’) stated that its members 
+continue to purchase or acquire donated 
+cell phones, tablets, and other wireless 
+devices and try to reuse them, but that 
+wireless carriers lock devices to prevent 
+them from being used on other 
+carriers.
+44 In addition, petitioners 
+demonstrated personal knowledge and 
+experience with regard to this 
+exemption. This existing exemption 
+serves as the baseline in assessing 
+whether to recommend any expansions 
+in Class 10. 
+6. Computer Programs—Jailbreaking
+45 
+Multiple organizations petitioned to 
+renew the exemptions for computer 
+programs that operate smartphones, 
+VerDate Sep<11>2014 16:25 Oct 27, 2021 Jkt 256001 PO 00000 Frm 00022 Fmt 4700 Sfmt 4700 E:\FR\FM\28OCR1.SGM 28OCR1jspears on DSK121TN23PROD with RULES1
+
+[PAGE 5]
+59631 Federal Register / Vol. 86, No. 206 / Thursday, October 28, 2021 / Rules and Regulations 
+46 SFC Jailbreaking Renewal Pet. at 3. 
+47 The Register’s analysis and conclusions for this 
+class, including citations to the record and relevant 
+legal authority, can be found in the Register’s 
+Recommendation at IV.G. 
+48 MEMA Vehicle Repair Renewal Pet. at 3. 
+49 ACA Vehicle Repair Renewal Pet. at 3. 
+50 The Register’s analysis and conclusions for this 
+class, including citations to the record and relevant 
+legal authority, can be found in the Register’s 
+Recommendation at IV.H. 
+51 EFF Device Repair Renewal Pet. at 3; EFF, 
+Repair Ass’n & iFixit Device Repair Renewal Pet. at 
+3. 
+52 The Register’s analysis and conclusions for this 
+class, including citations to the record and relevant 
+legal authority, can be found in the Register’s 
+Recommendation at IV.I. 
+53 J. Alex Halderman, CDT & ACM Security 
+Research Renewal Pet. at 4. 
+54 MEMA Security Research Renewal Pet. at 3. 
+55 The Register’s analysis and conclusions for this 
+class, including citations to the record and relevant 
+legal authority, can be found in the Register’s 
+Recommendation at IV.J. 
+56 SPN & LCA Software Preservation Renewal Pet. 
+at 3. 
+tablets and other portable all-purpose 
+mobile computing devices, smart TVs, 
+or voice assistant devices to allow the 
+device to interoperate with or to remove 
+software applications (‘‘jailbreaking’’). 
+No oppositions were filed against 
+readoption of this exemption, and 
+Consumer Reports submitted a comment 
+in support of the renewal petition. The 
+petitions demonstrated the continuing 
+need and justification for the 
+exemption, and that petitioners have 
+personal knowledge and experience 
+with regard to this exemption. For 
+example, regarding smart TVs 
+specifically, the Software Freedom 
+Conservancy (‘‘SFC’’) asserted that it has 
+‘‘reviewed the policies and product 
+offerings of major Smart TV 
+manufacturers (Sony, LG, Samsung, etc.) 
+and they are substantially the same as 
+those examined during the earlier 
+rulemaking process.’’
+46 The petitions 
+stated that, absent an exemption, TPMs 
+applied to the enumerated products 
+would have an adverse effect on 
+noninfringing uses, such as being able to 
+install third-party applications on a 
+smartphone or download third-party 
+software on a smart TV to enable 
+interoperability. This existing 
+exemption serves as the baseline in 
+assessing whether to recommend any 
+expansions in Class 11. 
+7. Computer Programs—Repair of 
+Motorized Land Vehicles
+47 
+Multiple organizations petitioned to 
+renew the exemption for computer 
+programs that control motorized land 
+vehicles, including farm equipment, for 
+purposes of diagnosis, repair, or 
+modification of a vehicle function. The 
+Office did not receive meaningful 
+opposition to readoption of this 
+exemption, and Consumer Reports 
+submitted a comment in support of the 
+renewal petition. The petitions 
+demonstrated the continuing need and 
+justification for the exemption. For 
+example, the Motor & Equipment 
+Manufacturers Association (‘‘MEMA’’) 
+stated that over the past three years, its 
+membership ‘‘has seen firsthand that the 
+exemption is helping protect consumer 
+choice and a competitive market, while 
+mitigating risks to intellectual property 
+and vehicle safety.’’
+48 Similarly, the 
+Auto Care Association (‘‘ACA’’) stated 
+that ‘‘[u]nless this exemption is 
+renewed, the software measures 
+manufacturers deploy for the purpose of 
+controlling access to vehicle software 
+will prevent Auto Care members from 
+lawfully assisting consumers in the 
+maintenance, repair, and upgrade of 
+their vehicles.’’
+49 The petitioners 
+demonstrated personal knowledge and 
+experience with regard to this 
+exemption; each either represents or 
+gathered information from individuals 
+or businesses that perform vehicle 
+service and repair. This existing 
+exemption, as well as the existing 
+exemption pertaining to repair of 
+smartphones, home appliances, and 
+home systems, serve as the baseline in 
+assessing whether to recommend any 
+expansions in Class 12. 
+8. Computer Programs—Repair of 
+Smartphones, Home Appliances, and 
+Home Systems
+50 
+Multiple organizations petitioned to 
+renew the exemption for computer 
+programs that control smartphones, 
+home appliances, or home systems, for 
+diagnosis, maintenance, or repair of the 
+device or system. The Office did not 
+receive meaningful opposition to 
+readoption of this exemption, and 
+Consumer Reports submitted a comment 
+in support of the renewal petition. The 
+petitions demonstrated the continuing 
+need and justification for the 
+exemption. For example, the Electronic 
+Frontier Foundation (‘‘EFF’’), the Repair 
+Association, and iFixit asserted that 
+‘‘[m]anufacturers of these devices 
+continue to implement [TPMs] that 
+inhibit lawful repairs, maintenance, and 
+diagnostics, and they show no sign of 
+changing course.’’
+51 This existing 
+exemption, as well as the existing 
+exemption pertaining to repair of 
+motorized land vehicles, serve as the 
+baseline in assessing whether to 
+recommend any expansions in Class 12. 
+9. Computer Programs—Security 
+Research
+52 
+Multiple organizations and security 
+researchers petitioned to renew the 
+exemption permitting circumvention for 
+purposes of good-faith security research. 
+No oppositions were filed against 
+readoption of this exemption, and 
+Consumer Reports submitted a comment 
+in support of the renewal petition. The 
+petitioners demonstrated the continuing 
+need and justification for the 
+exemption, as well as personal 
+knowledge and experience with regard 
+to this exemption. For example, J. Alex 
+Halderman, the Center for Democracy 
+and Technology (‘‘CDT’’), and the U.S. 
+Technology Policy Committee of the 
+Association for Computing Machinery 
+(‘‘ACM’’) highlighted the need to find 
+and detect vulnerabilities in voting 
+machines and other election systems in 
+response to increasing aggressiveness on 
+the part of threat actors, including other 
+nation states.
+53 MEMA stated that its 
+membership ‘‘experienced firsthand that 
+the exemption is helping encourage 
+innovation in the automotive industry 
+while mitigating risks to intellectual 
+property and vehicle safety,’’ and 
+opined that the current exemption 
+strikes an ‘‘appropriate balance.’’
+54 This 
+existing exemption serves as the 
+baseline in assessing whether to 
+recommend any expansions in Class 13. 
+10. Computer Programs—Software 
+Preservation
+55 
+The Software Preservation Network 
+(‘‘SPN’’) and LCA petitioned to renew 
+the exemption for computer programs, 
+other than video games, for the 
+preservation of computer programs and 
+computer program-dependent materials 
+by libraries, archives, and museums. No 
+oppositions were filed against 
+readoption of this exemption. The 
+petition stated that libraries, archives, 
+and museums continue to need the 
+exemption to preserve and curate 
+software and materials dependent on 
+software. For example, the petition 
+explained that researchers at the 
+University of Virginia designed a project 
+in order to access a collection of 
+drawings and plans from a local 
+Charlottesville architecture firm, and 
+that without the exemption, the 
+outdated Computer Aided Design 
+software used to create many of the 
+designs ‘‘may have remained 
+inaccessible to researchers, rendering 
+the designs themselves inaccessible, 
+too.’’
+56 In addition, petitioners 
+demonstrated personal knowledge and 
+experience with regard to this 
+exemption through past participation in 
+the section 1201 triennial rulemaking 
+relating to access controls on software, 
+and/or representing major library 
+associations with members who have 
+relied on this exemption. This existing 
+VerDate Sep<11>2014 16:25 Oct 27, 2021 Jkt 256001 PO 00000 Frm 00023 Fmt 4700 Sfmt 4700 E:\FR\FM\28OCR1.SGM 28OCR1jspears on DSK121TN23PROD with RULES1
+
+[PAGE 6]
+59632 Federal Register / Vol. 86, No. 206 / Thursday, October 28, 2021 / Rules and Regulations 
+57 The Register’s analysis and conclusions for this 
+class, including citations to the record and relevant 
+legal authority, can be found in the Register’s 
+Recommendation at IV.K. 
+58 SPN & LCA Abandoned Video Game Renewal 
+Pet. at 3. 
+59 The Register’s analysis and conclusions for this 
+class, including citations to the record and relevant 
+legal authority, can be found in the Register’s 
+Recommendation at IV.L. 
+60 The Register’s analysis and conclusions for 
+these classes, including citations to the record and 
+relevant legal authority, can be found in the 
+Register’s Recommendation at V.A. 
+61 The Register’s analysis and conclusions for this 
+class, including citations to the record and relevant 
+legal authority, can be found in the Register’s 
+Recommendation at V.C. 
+exemption, as well as the exemption 
+pertaining to video game preservation, 
+serve as the baseline in assessing 
+whether to recommend any expansions 
+in Class 14. 
+11. Computer Programs—Video Game 
+Preservation
+57 
+SPN and LCA petitioned to renew the 
+exemption for preservation of video 
+games for which outside server support 
+has been discontinued. No oppositions 
+were filed against readoption of this 
+exemption, and Consumer Reports 
+submitted a comment in support of the 
+renewal petition. The petition stated 
+that libraries, archives, and museums 
+continue to need the exemption to 
+preserve and curate video games in 
+playable form. For example, the petition 
+highlighted Georgia Tech University 
+Library’s Computing Lab, retroTECH, 
+which has made a significant collection 
+of recovered video game consoles 
+accessible for research and teaching 
+uses pursuant to the exemption.
+58 
+Petitioners demonstrated personal 
+knowledge and experience with regard 
+to this exemption through past 
+participation in the section 1201 
+triennial rulemaking, and/or through 
+their representation of members who 
+have relied on this exemption. This 
+existing exemption, as well as the above 
+exemption pertaining to software 
+preservation, serve as the baseline in 
+assessing whether to recommend any 
+expansions in Class 14. 
+12. Computer Programs—3D Printers
+59 
+Michael Weinberg petitioned to renew 
+the exemption for computer programs 
+that operate 3D printers to allow use of 
+alternative feedstock. No oppositions 
+were filed against readoption of this 
+exemption. The petition demonstrated 
+the continuing need and justification for 
+the exemption, and petitioner 
+demonstrated personal knowledge and 
+experience regarding the exemption. 
+Specifically, Mr. Weinberg declared that 
+he is a member of the 3D printing 
+community and previously participated 
+in the section 1201 triennial 
+rulemaking. In addition, the petition 
+stated that manufacturers of 3D printers 
+continue to limit the types of materials 
+that may be used with the devices. This 
+existing exemption serves as the 
+baseline in assessing whether to 
+recommend any expansions in Class 15. 
+B. New or Expanded Designations of 
+Classes 
+Based upon the record in this 
+proceeding regarding proposed 
+expansions to existing exemptions or 
+newly proposed exemptions, the 
+Register recommends that the Librarian 
+determine that the following classes of 
+works be exempt from the prohibition 
+against circumvention of technological 
+measures set forth in section 1201(a)(1): 
+1. Proposed Class 1: Audiovisual 
+Works—Criticism and Comment
+60 
+Proposed Class 1 sought to expand the 
+existing exemption that permits 
+circumvention of access controls 
+protecting excerpts of motion pictures 
+on DVDs, Blu-ray discs, and digitally 
+transmitted video for the purposes of 
+criticism and comment, including for 
+educational purposes by certain users. 
+Three different petitions were filed in 
+this class. OTW’s proposed exemption 
+sought to eliminate multiple limitations, 
+including the requirement that a user 
+consider whether screen capture 
+technology is a viable alternative before 
+circumvention. BYU’s proposed 
+exemption would permit circumvention 
+by college or university employees or 
+students or by K–12 educators or 
+students acting under the direct 
+supervision of an educator, and would 
+significantly alter the language of the 
+current exemption regarding the 
+purpose of the circumvention. A group 
+of individual educators and educational 
+organizations (‘‘Joint Educators’’) 
+proposed an exemption that would 
+permit circumvention by ‘‘educators 
+and preparers of online learning 
+materials’’ to be used on online learning 
+platforms. All three proposals sought to 
+remove the reference to screen capture 
+from the existing exemption. OTW and 
+Joint Educators’ proposals sought to use 
+short portions of motion pictures; the 
+BYU proposal sought use of full-length 
+works. The proposals addressed several 
+uses of motion pictures that proponents 
+contended are noninfringing and that 
+they argued are adversely affected by 
+TPMs. NTIA supported the proposed 
+exemption, but proposed some 
+amendments to the text. 
+Opponents argued that the proposed 
+changes were unwarranted or 
+unnecessary. The Motion Picture 
+Association, the Alliance for Recorded 
+Music, and the Entertainment Software 
+Association (collectively, ‘‘Joint 
+Creators’’) and the DVD Copy Control 
+Association (‘‘DVD CCA’’) and the 
+Advanced Access Content System 
+Licensing Administrator, LLC (‘‘AACS 
+LA’’) argued that screen capture 
+technology has improved and remains 
+an adequate alternative in some 
+circumstances. Joint Creators also 
+argued that the Joint Educators’ 
+proposal to expand the exemption to 
+‘‘educators and preparers of online 
+learning materials’’ could permit 
+circumvention by businesses and 
+threaten the market for licensed clips. 
+DVD CCA and AACS LA contended that 
+expanding the exemption to cover 
+employees of a qualifying MOOC was 
+unnecessary for online educators to 
+prepare materials. 
+For the reasons detailed in the 
+Register’s Recommendation, the Register 
+recommended expanding the exemption 
+to permit employees of colleges and 
+universities to circumvent at the 
+direction of a faculty member for the 
+purpose of teaching a course, and also 
+to cover similar uses by both faculty and 
+employees acting at the direction of 
+faculty members of accredited nonprofit 
+educational institutions for the purposes 
+of offering MOOCs. The Register further 
+recommended retaining the screen 
+capture provision in the exemption to 
+anticipate the possibility that screen 
+capture technology could be found to 
+involve circumvention. The Register 
+concluded that the exemption should 
+not be expanded or amended to cover 
+copying for the purpose of performing 
+full-length motion pictures for 
+educational purposes; to replace the 
+phrase ‘‘short portions’’ with 
+‘‘reasonable and limited portions’’; to 
+enable circumvention by for-profit and/ 
+or unaccredited educational companies 
+and organizations; or to cover the 
+broadly defined ‘‘educators and 
+preparers of online learning materials’’ 
+of ‘‘online learning platforms.’’ 
+2. Proposed Class 3: Audiovisual 
+Works—Accessibility
+61 
+Class 3 proponents sought to expand 
+several provisions of the current 
+exemption for adding captions or audio 
+description to motion pictures for the 
+benefit of students with disabilities. 
+Proponents requested expanding the 
+exemption to include faculty and staff 
+with disabilities at educational 
+institutions as beneficiaries, explicitly 
+permitting reuse of previously 
+remediated materials, allowing for 
+proactive remediation in advance of a 
+VerDate Sep<11>2014 16:25 Oct 27, 2021 Jkt 256001 PO 00000 Frm 00024 Fmt 4700 Sfmt 4700 E:\FR\FM\28OCR1.SGM 28OCR1jspears on DSK121TN23PROD with RULES1
+
+[PAGE 7]
+59633 Federal Register / Vol. 86, No. 206 / Thursday, October 28, 2021 / Rules and Regulations 
+62 The Register’s analysis and conclusions for this 
+class, including citations to the record and relevant 
+legal authority, can be found in the Register’s 
+Recommendation at V.E. 
+63 Space-shifting occurs when a work is 
+transferred from one storage medium to another, 
+such as from a DVD to a computer hard drive. See 
+2015 Recommendation at 107. 
+64 The Register’s analysis and conclusions for this 
+class, including citations to the record and relevant 
+legal authority, can be found in the Register’s 
+Recommendation at V.G. 
+65 The Register’s analysis and conclusions for 
+these classes, including citations to the record and 
+relevant legal authority, can be found in the 
+Register’s Recommendation at V.H. 
+specific request for accessible material, 
+and clarifying the market-check 
+requirement to encompass only works 
+on the market that are of ‘‘sufficient 
+quality.’’ Joint Creators and DVD CCA & 
+AACS LA filed oppositions. NTIA 
+supported the proposed exemption. 
+For the reasons discussed in the 
+Register’s Recommendation, the Register 
+concluded that expanding the 
+exemption to faculty and staff with 
+disabilities, allowing reuse of previously 
+remediated material, and permitting 
+proactive remediation are likely fair 
+uses because they are directed towards 
+adding captions or audio descriptions in 
+compliance with disability law, the 
+same purpose found fair in the 
+Register’s 2018 Recommendation. 
+Additionally, the Register concluded 
+that proponents had provided sufficient 
+evidence that they would be adversely 
+affected if the exemption were not 
+expanded. 
+3. Proposed Class 5: Audiovisual 
+Works—Preservation and 
+Replacement
+62 
+Class 5 proponents sought to permit 
+circumvention of TPMs on motion 
+pictures (including television shows 
+and videos) stored on DVDs or Blu-ray 
+discs that are no longer reasonably 
+available in the marketplace to enable 
+libraries, archives, and museums to 
+make preservation and replacement 
+copies of those works. The proposed 
+exemption would permit qualifying 
+institutions to make copies of discs that 
+are damaged or deteriorating, as well as 
+discs that have not yet begun to 
+deteriorate; to make physical or digital 
+copies of the motion pictures; and to 
+make any digital copies available 
+outside the premises of the institution. 
+NTIA supported the proposed 
+exemption. 
+Joint Creators and DVD CCA and 
+AACS LA opposed the exemption, 
+arguing that it would enable institutions 
+to space-shift
+63 their film collections 
+and launch online streaming services. 
+Opponents contended that, should an 
+exemption be granted, it should apply 
+only to damaged or deteriorating discs; 
+it should prohibit off-premises access to 
+the copied works; and the market check 
+should include a requirement that 
+institutions determine if the motion 
+picture is available for streaming 
+through a licensed source. 
+For the reasons detailed in the 
+Register’s Recommendation, the Register 
+concluded that it was likely to be a fair 
+use for qualifying institutions to copy 
+motion pictures from discs that are 
+damaged or deteriorating if the motion 
+pictures on those discs are not 
+reasonably available in the marketplace 
+for purchase or streaming. The Register 
+concluded that proponents had not 
+demonstrated that providing off- 
+premises access to the replacement 
+copies of motion pictures is likely to be 
+noninfringing. The Register concluded 
+that proponents had provided 
+substantial evidence that granting the 
+exemption would benefit preservation, 
+education, and scholarship by making 
+available motion pictures that might 
+otherwise be lost to history and that the 
+exemption is unlikely to adversely affect 
+the market for or value of the motion 
+pictures. 
+4. Proposed Classes 7(a): Motion 
+Pictures and 7(b): Literary Works—Text 
+and Data Mining
+64 
+Authors Alliance, the American 
+Association of University Professors, 
+and LCA jointly filed a petition 
+proposing Classes 7(a) and 7(b), seeking 
+to permit circumvention of TPMs on 
+motion pictures and literary works 
+stored on DVDs or Blu-ray discs or made 
+available for digital download to enable 
+researchers to perform text and data 
+mining (‘‘TDM’’) techniques for the 
+purpose of scholarly research and 
+teaching. Proponents argued that 
+copying literary works and motion 
+pictures to create large collections on 
+which to perform TDM research is a fair 
+use, and that requirements to use 
+security measures to protect the corpora 
+from public access or further 
+distribution should afford qualifying 
+institutions flexibility to tailor the 
+measures to the size and content of the 
+corpus. NTIA supported the proposed 
+exemptions. 
+Joint Creators and DVD CCA and 
+AACS LA opposed the proposed 
+exemption for class 7(a), and the 
+American Association for Publishers 
+(‘‘AAP’’) and the Software and 
+Information Industry Association 
+opposed the proposed exemption for 
+class 7(b). They argued that TDM 
+research would interfere with the 
+licensing market for collections of 
+literary works and motion pictures and 
+that researchers’ ability to view the 
+entirety of the works in a corpus would 
+create a risk of substitutional use. They 
+also argued that any exemption must 
+require specific, robust security 
+measures. 
+As discussed in greater detail in the 
+Register’s Recommendation, the Register 
+found that the prohibition on 
+circumvention adversely affects 
+researchers’ ability to conduct TDM 
+research projects, which are likely to be 
+noninfringing with the addition of 
+several limitations. Most importantly, 
+the Register recommended requiring the 
+institution of higher education storing 
+or hosting a corpus of copyrighted 
+works to implement either security 
+measures that have been agreed upon by 
+copyright owners and institutions of 
+higher education, or, in the absence of 
+such measures, those measures that the 
+institution uses to keep its own highly 
+confidential information secure. The 
+Register also recommended adding a 
+limitation that the person undertaking 
+the circumvention view or listen to the 
+contents of the copyrighted works in the 
+corpus solely for the purpose of 
+verification of the research findings, not 
+for the works’ expressive purposes. The 
+Register concluded that existing 
+alternatives to circumvention do not 
+meet researchers’ needs. 
+5. Proposed Class 8: Literary Works— 
+Accessibility
+65 
+Class 8 proponents sought to modify 
+the current exemption for e-book 
+accessibility to align with recent 
+changes to the Copyright Act as a result 
+of the Marrakesh Treaty Implementation 
+Act. Proponents requested expanding 
+the class of beneficiaries to ‘‘eligible 
+persons’’ as defined in section 121 of 
+the Copyright Act, expanding the 
+exemption to cover previously 
+published musical works, and replacing 
+references to a ‘‘mainstream copy’’ in 
+the remuneration requirement with the 
+term ‘‘inaccessible copy.’’ Proponents 
+also sought guidance on whether import 
+and export activity under section 121A 
+was implicated by the prohibition on 
+circumvention. Joint Creators stated that 
+they did not oppose the exemption to 
+the extent it is consistent with sections 
+121 and 121A. AAP filed a reply 
+comment in support of this class, and 
+NTIA supported the proposed 
+exemption. 
+For the reasons discussed in the 
+Register’s Recommendation, the Register 
+concluded that without the proposed 
+modifications, print-disabled 
+VerDate Sep<11>2014 16:25 Oct 27, 2021 Jkt 256001 PO 00000 Frm 00025 Fmt 4700 Sfmt 4700 E:\FR\FM\28OCR1.SGM 28OCR1jspears on DSK121TN23PROD with RULES1
+
+[PAGE 8]
+59634 Federal Register / Vol. 86, No. 206 / Thursday, October 28, 2021 / Rules and Regulations 
+66 The Register’s analysis and conclusions for 
+these classes, including citations to the record and 
+relevant legal authority, can be found in the 
+Register’s Recommendation at V.I. 
+67 The Register’s analysis and conclusions for this 
+class, including citations to the record and relevant 
+legal authority, can be found in the Register’s 
+Recommendation at V.J. 
+68 The Register’s analysis and conclusions for this 
+class, including citations to the record and relevant 
+legal authority, can be found in the Register’s 
+Recommendation at V.K. 
+69 The Register’s analysis and conclusions for this 
+class, including citations to the record and relevant 
+legal authority, can be found in the Register’s 
+Recommendation at V.L. 
+individuals would be adversely affected 
+in their ability to engage in the proposed 
+noninfringing uses. The Register also 
+determined that replacement of the 
+reference to a ‘‘mainstream copy’’ with 
+an ‘‘inaccessible copy’’ is a non- 
+substantive change. Finally, the Register 
+declined to recommend language 
+regarding import and export of 
+accessible works because the record did 
+not indicate that such activity 
+implicates the prohibition on 
+circumvention. Proponents and Joint 
+Creators filed a joint post-hearing 
+submission proposing regulatory 
+language that excludes sound recordings 
+of performances of musical works from 
+the exemption, which the Register 
+recommended including. 
+6. Proposed Class 9: Literary Works— 
+Medical Device Data
+66 
+Class 9 proponents sought to expand 
+several provisions of the current 
+exemption that permits the 
+circumvention of TPMs on medical 
+devices to access their data outputs. 
+Proponents filed a petition seeking to 
+eliminate the current limitation of the 
+exemption to ‘‘wholly or partially 
+implanted’’ devices; permit authorized 
+third parties to perform the 
+circumvention on behalf of a patient; 
+extend the exemption to non-passive 
+monitoring; and remove the condition 
+that circumvention not violate other 
+applicable laws. ACT | The App 
+Association opposed the proposed 
+exemption. NTIA supported adopting 
+the proposed exemption, with some 
+modification. 
+For the reasons detailed in the 
+Register’s Recommendation, the Register 
+concluded that accessing medical data 
+outputs likely qualifies as a fair use and 
+that expanding the exemption to 
+include non-implanted medical devices 
+and non-passive monitoring would not 
+alter the fair use analysis. Additionally, 
+the Register concluded that proponents 
+set forth sufficient evidence that the 
+‘‘wholly or partially implanted’’ 
+language and the passive monitoring 
+limitation are causing, or are likely to 
+cause, adverse effects on these 
+noninfringing uses. The Register also 
+recommended expanding the exemption 
+to permit circumvention ‘‘by or on 
+behalf of a patient.’’ After consultation 
+with the U.S. Food and Drug 
+Administration, the Register 
+recommended removing the language 
+requiring compliance with other laws, 
+and replacing it with a statement that 
+eligibility for the exemption does not 
+preclude liability from other applicable 
+laws. 
+7. Proposed Class 10: Computer 
+Programs—Unlocking
+67 
+ISRI petitioned to expand the existing 
+exemption for unlocking to either (1) 
+add a new device category for laptop 
+computers or (2) remove enumerated 
+device categories from the current 
+exemption and permit unlocking of all 
+wireless devices. It argued that the 
+proposed uses are noninfringing based 
+on the Register’s previous findings that 
+unlocking of certain types of devices is 
+a fair use, contending that the legal 
+analysis does not differ depending on 
+the type of device that is unlocked. The 
+only opposition comment was filed by 
+MEMA, which opposed expanding the 
+exemption to permit unlocking cellular- 
+enabled vehicles. NTIA supported 
+expanding the exemption to permit 
+unlocking all lawfully-acquired devices. 
+For the reasons discussed in the 
+Register’s Recommendation, the Register 
+concluded that proponents established 
+that unlocking is likely to be a fair use 
+regardless of the type of device 
+involved. Proponents offered unrebutted 
+evidence that many different types of 
+wireless devices share the same wireless 
+modem. Because the Register concluded 
+that unlocking those modems is likely a 
+fair use, she determined that users of 
+these devices experience the same 
+adverse effects from the prohibition on 
+circumvention. 
+8. Proposed Class 11: Computer 
+Programs—Jailbreaking
+68 
+Two petitions were filed for new or 
+expanded exemptions relating to the 
+circumvention of computer programs for 
+jailbreaking purposes. EFF filed a 
+petition seeking to clarify and expand 
+the current exemption pertaining to 
+jailbreaking smart TVs to include video 
+streaming devices. SFC filed a petition 
+for a new exemption to allow 
+jailbreaking of routers and other 
+networking devices to enable the 
+installation of alternative firmware. 
+ACT | The App Association, DVD CCA 
+and AACS LA, and Joint Creators 
+opposed this proposed class. NTIA 
+supported adopting both proposed 
+exemptions. 
+In supporting comments, EFF 
+clarified that its proposed exemption 
+would cover devices whose primary 
+purpose is to run applications that 
+stream video from the internet for 
+display on a screen, and would not 
+extend to DVD or Blu-ray players or 
+video game consoles. The Register 
+concluded that jailbreaking video 
+streaming devices likely constitutes a 
+fair use. Additionally, the Register 
+concluded that the prohibition on 
+circumvention is likely to adversely 
+affect proponents’ ability to engage in 
+such activities. She recommended that 
+the regulatory language contain certain 
+limitations to address opponents’ 
+concerns over potential market harm. 
+With respect to SFC’s petition, the 
+Register concluded that jailbreaking 
+routers and other networking devices is 
+likely to qualify as a fair use. 
+Additionally, the Register concluded 
+that the prohibition on circumvention is 
+likely to prevent users from installing 
+free and open source software (‘‘FOSS’’) 
+on routers and other networking devices 
+and that there are no viable alternatives 
+to circumvention to accomplish that 
+purpose. 
+9. Proposed Class 12: Computer 
+Programs—Repair
+69 
+Several organizations submitted 
+petitions for new or expanded 
+exemptions relating to the diagnosis, 
+maintenance, repair, and modification 
+of software-enabled devices. EFF and, 
+jointly, iFixit and the Repair 
+Association filed petitions seeking to 
+merge and expand the two existing 
+exemptions to cover all devices and 
+vehicles and permit ‘‘modification’’ of 
+all devices. Opponents objected that the 
+proposed expansion to cover all devices 
+was overbroad and that proponents 
+failed to develop a record demonstrating 
+sufficient commonalities among the 
+various types of software-enabled 
+devices. In addition, they argued that 
+specific types of devices for which 
+circumvention of TPMs raises piracy 
+and safety concerns should be excluded 
+from the proposed class. Opponents also 
+contended that the term ‘‘modification’’ 
+is so broad that it could implicate 
+infringing activities, including violating 
+copyright owners’ exclusive right to 
+prepare derivative works. 
+Separately, Public Knowledge and 
+iFixit jointly petitioned for an 
+exemption to repair optical drives in 
+video game consoles and to replace 
+damaged hardware in such devices. 
+They asserted that authorized repair 
+services are inadequate, particularly for 
+VerDate Sep<11>2014 16:25 Oct 27, 2021 Jkt 256001 PO 00000 Frm 00026 Fmt 4700 Sfmt 4700 E:\FR\FM\28OCR1.SGM 28OCR1jspears on DSK121TN23PROD with RULES1
+
+[PAGE 9]
+59635 Federal Register / Vol. 86, No. 206 / Thursday, October 28, 2021 / Rules and Regulations 
+70 The Register’s analysis and conclusions for this 
+class, including citations to the record and relevant 
+legal authority, can be found in the Register’s 
+Recommendation at V.M. 
+71 The Register’s analysis and conclusions for this 
+class, including citations to the record and relevant 
+legal authority, can be found in the Register’s 
+Recommendation at V.N. 
+certain legacy consoles that 
+manufacturers no longer support. 
+Opponents argued that the proposed 
+exemption would create a risk of market 
+harm for these devices and that 
+adequate alternatives to circumvention 
+exist. 
+NTIA recommended expanding the 
+current exemptions by merging them 
+into a single exemption that would 
+permit circumvention for the diagnosis, 
+maintenance, and repair of all software- 
+enabled devices, machines, and 
+systems. In addition, NTIA 
+recommended allowing ‘‘lawful 
+modification that is necessary for a 
+repair or maintenance’’ and software 
+modifications relating to device 
+functionality. 
+For the reasons discussed in the 
+Register’s Recommendation, the Register 
+recommended expanding the existing 
+exemption for diagnosis, maintenance, 
+and repair of certain categories of 
+devices to cover any software-enabled 
+device that is primarily designed for use 
+by consumers. For video game consoles, 
+the Register concluded that an 
+exemption is warranted solely for the 
+repair of optical drives. 
+The proposals to merge the two 
+existing repair exemptions would also 
+effectively broaden the existing vehicle 
+exemption by: (1) No longer limiting the 
+class to ‘‘motorized land vehicles’’; and 
+(2) removing other limitations in the 
+exemption, including that users comply 
+with other laws. Opponents did not 
+object to including marine vessels in the 
+vehicle exemption, but opposed 
+removing language requiring 
+compliance with other laws. For the 
+reasons discussed in the Register’s 
+Recommendation, the Register 
+recommended that the exemption for 
+land vehicles be expanded to cover 
+marine vessels and to remove the 
+condition requiring compliance with 
+other laws. 
+Finally, Summit Imaging, Inc. and 
+Transtate Equipment Co., Inc. petitioned 
+to exempt circumvention of TPMs on 
+software-enabled medical devices and 
+systems for purposes of diagnosis, 
+maintenance, and repair. Petitioners 
+also sought access to related data files 
+stored on medical devices and systems, 
+including manuals and servicing 
+materials. Opponents argued that this 
+exemption is unnecessary because 
+adequate authorized repair services are 
+available. They also contended that the 
+proposed uses are commercial in nature, 
+would harm the market for medical 
+devices and systems, may undermine 
+patient safety and create cybersecurity 
+risks, and would interfere with 
+manufacturers’ regulatory compliance 
+obligations. For the reasons discussed in 
+the Register’s Recommendation, the 
+Register recommended a new exemption 
+allowing circumvention of TPMs 
+restricting access to firmware and 
+related data files on medical devices 
+and systems for the purposes of 
+diagnosis, maintenance, and repair. 
+10. Proposed Class 13: Computer 
+Programs—Security Research
+70 
+Two petitions sought to expand the 
+current exemption that permits 
+circumvention of TPMs on computer 
+programs for good-faith security 
+research. Together, the petitions sought 
+to eliminate several limitations within 
+the exemption and to explicitly extend 
+the exemption to privacy research. 
+Proponents generally argued that the 
+limitations have chilled valuable 
+security research, primarily by creating 
+uncertainty about whether conducting 
+or reporting security research could 
+result in liability under section 1201. 
+Six parties opposed class 13 at least in 
+part; they argued that the existing 
+exemption has sufficiently enabled 
+good-faith security research and that the 
+record did not justify removing the 
+limitations. NTIA supported the 
+elimination of several limitations, but 
+did not recommend modifying the 
+existing exemption to address privacy- 
+related research activities explicitly. 
+For the reasons discussed in the 
+Register’s Recommendation, the Register 
+concluded that because the exemption 
+is broadly defined and is not limited to 
+specific issues or subjects relating to 
+security flaws or vulnerabilities, 
+expanding it to expressly cover privacy 
+research is unnecessary. Regarding the 
+specific limitations, the Register 
+recommended removing the condition 
+that circumvention not violate ‘‘other 
+laws’’ and instead clarifying that the 
+exemption does not provide a safe 
+harbor from liability under other laws. 
+The Department of Justice submitted 
+comments supporting this change. The 
+Register declined to recommend 
+removal of limitations pertaining to 
+access to and use of computer programs, 
+finding a lack of specific evidence 
+establishing adverse effects resulting 
+from those provisions. The Register also 
+did not recommend removal of the 
+requirement that devices be lawfully 
+acquired. 
+11. Proposed Class 14(a): Computer 
+Programs and 14(b) Video Games— 
+Preservation
+71 
+Proposed Classes 14(a) and 14(b) seek 
+to amend the existing exemptions 
+permitting libraries, archives, and 
+museums to circumvent TPMs on 
+computer programs and video games, 
+respectively, for the purpose of 
+preservation activities. Specifically, 
+proponents seek to remove the 
+requirement that the preserved 
+computer program or video game must 
+not be distributed or made available 
+outside of the physical premises of the 
+institution. Proposed Class 14(b) would 
+also incorporate the current eligibility 
+requirements for the software 
+preservation exemption into the video 
+game preservation exemption. 
+Proponents argued that enabling 
+remote access to the works is likely to 
+be a fair use, based in part on a general 
+federal policy favoring remote access to 
+preservation materials, as reflected in 
+various provisions of the Copyright Act. 
+They also argued that the proposed uses 
+would not affect the potential market for 
+or value of the copyrighted works 
+because only works that are no longer 
+reasonably available in the commercial 
+marketplace would be subject to the 
+exemption. NTIA supported the removal 
+of the premises limitation in both 
+exemptions. 
+Joint Creators and the Entertainment 
+Software Association opposed removing 
+the premises limitation, with most 
+arguments directed to the video game 
+class. They expressed concern that, 
+because the proposed exemption did not 
+limit beneficiaries of the exemption to 
+authenticated educators or researchers, 
+if preserved video games were made 
+available outside the premises of an 
+institution, they would become 
+accessible to the general public, thereby 
+adversely affecting the existing market 
+for older video games. 
+For the reasons discussed in the 
+Register’s Recommendation, the Register 
+concluded that off-premises access to 
+software as described in the proposal is 
+likely to be noninfringing, with the 
+limitation that the work be accessible to 
+only one user at a time and for a limited 
+time. With respect to video games, the 
+Register concluded that proponents 
+failed to carry their burden to show that 
+the uses are likely noninfringing, and 
+noted the greater risk of market harm in 
+this context given the market for legacy 
+video games. The Register therefore 
+recommends that the Librarian amend 
+VerDate Sep<11>2014 16:25 Oct 27, 2021 Jkt 256001 PO 00000 Frm 00027 Fmt 4700 Sfmt 4700 E:\FR\FM\28OCR1.SGM 28OCR1jspears on DSK121TN23PROD with RULES1
+
+[PAGE 10]
+59636 Federal Register / Vol. 86, No. 206 / Thursday, October 28, 2021 / Rules and Regulations 
+72 The Register’s analysis and conclusions for this 
+class, including citations to the record and relevant 
+legal authority, can be found in the Register’s 
+Recommendation at V.O. 
+73 The Register’s analysis and conclusions for this 
+class, including citations to the record and relevant 
+legal authority, can be found in the Register’s 
+Recommendation at V.P. 
+74 The Register’s analysis and conclusions for this 
+class, including citations to the record and relevant 
+legal authority, can be found in the Register’s 
+Recommendation at V.Q. 
+75 The Register’s analysis and conclusions for 
+these classes, including citations to the record and 
+relevant legal authority, can be found in the 
+Register’s Recommendation at V.B. 
+the exemption for Class 14(a) to address 
+the eligibility requirements for libraries, 
+archives, and museums, but not to 
+remove the premises limitation. The 
+Register recommends removing the 
+premises limitation in the exemption for 
+Class 14(a). 
+12. Proposed Class 15: Computer 
+Programs—3D Printing
+72 
+Class 15 seeks to expand two 
+provisions of the current exemption that 
+permits the circumvention of access 
+controls on computer programs in 3D 
+printers to enable the use of non- 
+manufacturer approved feedstock. 
+Michael Weinberg filed a petition to 
+replace the term ‘‘feedstock’’ with the 
+term ‘‘material,’’ stating that the latter is 
+more commonly used within the 
+industry and that the two terms are 
+interchangeable. Additionally, Mr. 
+Weinberg sought to eliminate the phrase 
+‘‘microchip-reliant’’ from the 
+exemption, arguing that 3D printers may 
+use technology other than microchips to 
+verify 3D printing materials. Mr. 
+Weinberg provided evidence that 
+manufacturers are increasingly moving 
+beyond microchip-based verification 
+techniques, such as using optical 
+scanners. No parties opposed proposed 
+class 15. NTIA supported the proposed 
+exemption. 
+For the reasons discussed in greater 
+detail in the Register’s 
+Recommendation, the Register 
+concluded that changing the word 
+‘‘feedstock’’ to ‘‘material’’ is not a 
+substantive change, and found that the 
+removal of the term ‘‘microchip-reliant’’ 
+does not alter the fair use analysis 
+because the expansion is directed at the 
+same uses the Office previously 
+concluded were fair. 
+13. Proposed Class 16: Computer 
+Programs—Copyright License 
+Investigation
+73 
+SFC petitioned for a new exemption 
+that would permit investigating whether 
+a particular computer program includes 
+FOSS, and if so, whether the use of the 
+program complies with applicable 
+license terms. SFC, supported by the 
+Free Software Foundation, subsequently 
+agreed to add limitations to require that 
+the circumvention be undertaken on a 
+lawfully acquired device or machine; 
+that it be solely for the purpose of 
+investigating potential copyright 
+infringement; that it be performed by, or 
+at the direction of, a party that has 
+standing to bring a breach of license 
+claim; and that it otherwise comply 
+with applicable law. NTIA supported 
+the proposed exemption as modified. 
+Opponents—DVD CCA and AACS LA; 
+the Equipment Dealers Association, and 
+its regional affiliates, and Associated 
+Equipment Distributors; Joint Creators; 
+and Marcia Wilbur—argued that FOSS 
+licensors could obtain the information 
+they seek by other means. They objected 
+to application of the proposed 
+exemption to a broad category of 
+devices, and requested exclusion of 
+DVD and Blu-ray players, video game 
+consoles, set-top boxes, and vehicles. 
+They argued that any exemption should 
+be limited to investigating potential 
+violations of FOSS licenses, rather than 
+infringement of any proprietary 
+software, and that the investigation 
+must be based on a good-faith, 
+reasonable belief that the device may 
+violate FOSS license terms. Finally, 
+opponents expressed concerns about 
+devices being left exposed to piracy or 
+unauthorized access after 
+circumvention. 
+For the reasons discussed in the 
+Register’s Recommendation, the Register 
+recommended adopting an exemption 
+with several limitations. First, the 
+purpose of the investigation must be 
+limited to investigating whether a 
+computer program potentially infringes 
+FOSS, and the user must have a good- 
+faith, reasonable belief in the need for 
+the investigation. Second, 
+circumvention must be undertaken by, 
+or at the direction of, a party that would 
+have standing to bring either a breach of 
+license claim or a copyright 
+infringement claim. Third, the copy of 
+a computer program made pursuant to 
+the exemption, or the device or machine 
+on which it operates, cannot be used in 
+a manner that facilitates copyright 
+infringement. Finally, video game 
+consoles should be excluded from the 
+types of devices on which TPMs may be 
+circumvented. 
+14. Proposed Class 17: All Works— 
+Accessibility Uses
+74 
+Petitioners, a coalition of accessibility 
+groups, requested a new exemption to 
+create accessible versions of any 
+copyrighted works that are inaccessible 
+to individuals with disabilities. They 
+argued that the Librarian has the 
+authority to define a class of works that 
+share the attribute of being inaccessible 
+to individuals with disabilities and that 
+creating accessible versions of 
+inaccessible works is unquestionably a 
+fair use. Proponents argued that a broad 
+exemption is warranted to prevent 
+individuals with disabilities from being 
+forced to make piecemeal requests every 
+three years when new accessibility 
+issues arise. NTIA supported the 
+proposed exemption. 
+Joint Creators, DVD CCA and AACS 
+LA, and AAP filed comments opposing 
+the proposed exemption, focusing 
+primarily on the ground that the statute 
+does not give the Librarian the authority 
+to adopt a class consisting of ‘‘all 
+works’’ sharing a particular attribute. 
+Joint Creators also raised concerns about 
+the lack of limitations on the use of 
+copies, such as prohibiting further 
+distribution to individuals without 
+disabilities. 
+As discussed in greater detail in the 
+Register’s Recommendation, although 
+the Register supports the policy goals 
+that underpin the proposed exemption, 
+the statute requires proponents to 
+provide evidence of actual or likely 
+adverse effects resulting from the 
+prohibition on circumvention with 
+respect to ‘‘particular class[es]’’ of 
+works. Here, the Register determined 
+that proponents submitted insufficient 
+evidence of such adverse effects as to 
+most types of works. Proponents did, 
+however, provide evidence to support 
+an exemption to enable individuals with 
+disabilities to use alternate input 
+devices to play video games. 
+C. Classes Considered but Not 
+Recommended 
+Based upon the record in this 
+proceeding, the Register recommended 
+that the Librarian determine that the 
+following classes of works shall not be 
+exempt during the next three-year 
+period from the prohibition against 
+circumvention of technological 
+measures set forth in section 1201(a)(1): 
+1. Proposed Class 2: Audiovisual 
+Works—Texting
+75 
+Proposed Class 2 would allow 
+circumvention of technological 
+measures protecting motion pictures 
+and other audiovisual works to create 
+short audiovisual clips for expressive 
+purposes in text messages. Petitioner 
+did not provide legal arguments or 
+evidence in support of its petition and 
+did not participate in the public 
+hearings. Petitioner failed to explain 
+how the proposed uses were 
+noninfringing and why an exemption is 
+VerDate Sep<11>2014 17:16 Oct 27, 2021 Jkt 256001 PO 00000 Frm 00028 Fmt 4700 Sfmt 4700 E:\FR\FM\28OCR1.SGM 28OCR1jspears on DSK121TN23PROD with RULES1
+
+[PAGE 11]
+59637 Federal Register / Vol. 86, No. 206 / Thursday, October 28, 2021 / Rules and Regulations 
+76 The Register’s analysis and conclusions for 
+these classes, including citations to the record and 
+relevant legal authority, can be found in the 
+Register’s Recommendation at V.D. 
+77 The Register’s analysis and conclusions for this 
+class, including citations to the record and relevant 
+legal authority, can be found in the Register’s 
+Recommendation at V.F. 
+necessary. NTIA recommended denying 
+the proposed exemption. As discussed 
+more fully in the Register’s 
+Recommendation, due to the de minimis 
+showing provided by proponents, the 
+Register does not recommend the 
+adoption of an exemption for proposed 
+Class 2. 
+2. Proposed Class 4: Audiovisual 
+Works—Livestream Recording
+76 
+Proposed Class 4 would allow 
+circumvention of HTTP Live Streaming 
+technology for the purpose of recording 
+audiovisual works originating as 
+livestreams. Petitioner did not provide 
+legal arguments or evidence to support 
+its petition and did not participate in 
+the public hearings. Petitioner first 
+described the exemption as 
+encompassing sports and other 
+competitive events, but elsewhere stated 
+that the class includes ‘‘any and all 
+works’’ where audiovisual recordings 
+may be made, including individual 
+school performances. NTIA 
+recommended denying the proposed 
+exemption. As discussed more fully in 
+the Register’s Recommendation, the 
+Register does not recommend the 
+adoption of an exemption for proposed 
+Class 4. 
+3. Proposed Class 6: Audiovisual 
+Works—Space-Shifting
+77 
+Proposed Class 6 would allow 
+circumvention of TPMs protecting 
+motion pictures and other audiovisual 
+works to engage in space-shifting. 
+Petitioner failed to provide legal 
+arguments or evidence to demonstrate 
+that space-shifting is a noninfringing 
+use. Additionally, petitioner did not 
+participate in the public hearings to 
+support its petition or clarify whether 
+the proposed exemption would extend 
+to commercial services. Opponents 
+argued that petitioner did not provide 
+the evidence necessary to support an 
+exemption, citing several substantive 
+and procedural deficiencies. NTIA 
+recommended denying the proposed 
+exemption. As discussed more fully in 
+the Register’s Recommendation, the 
+Register does not recommend the 
+adoption of an exemption for proposed 
+Class 6. 
+D. Conclusion 
+Having considered the evidence in the 
+record, the contentions of the 
+commenting parties, and the statutory 
+objectives, the Register of Copyrights 
+has recommended that the Librarian of 
+Congress publish certain classes of 
+works, as designated above, so that the 
+prohibition against circumvention of 
+technological measures that effectively 
+control access to copyrighted works 
+shall not apply for the next three years 
+to persons who engage in noninfringing 
+uses of those particular classes of works. 
+Dated: October 20, 2021. 
+Shira Perlmutter, 
+Register of Copyrights and Director of the 
+U.S. Copyright Office. 
+Determination of the Librarian of 
+Congress 
+Having duly considered and accepted 
+the recommendation of the Register of 
+Copyrights, the Librarian of Congress, 
+pursuant to 17 U.S.C. 1201(a)(1)(C) and 
+(D), hereby publishes as a new rule the 
+classes of copyrighted works that shall 
+for a three-year period be subject to the 
+exemption provided in 17 U.S.C. 
+1201(a)(1)(B) from the prohibition 
+against circumvention of technological 
+measures that effectively control access 
+to copyrighted works set forth in 17 
+U.S.C. 1201(a)(1)(A). 
+List of Subjects in 37 CFR Part 201 
+Copyright, Exemptions to prohibition 
+against circumvention. 
+Final Regulations 
+For the reasons set forth in the 
+preamble, 37 CFR part 201 is amended 
+as follows: 
+PART 201—GENERAL PROVISIONS 
+■ 1. The authority citation for part 201 
+continues to read as follows: 
+Authority: 17 U.S.C. 702. 
+■ 2. Section 201.40 is amended by 
+revising paragraph (b) to read as follows: 
+§ 201.40 Exemption to prohibition against 
+circumvention. 
+* * * * * 
+(b) Classes of copyrighted works. 
+Pursuant to the authority set forth in 17 
+U.S.C. 1201(a)(1)(C) and (D), and upon 
+the recommendation of the Register of 
+Copyrights, the Librarian has 
+determined that the prohibition against 
+circumvention of technological 
+measures that effectively control access 
+to copyrighted works set forth in 17 
+U.S.C. 1201(a)(1)(A) shall not apply to 
+persons who engage in noninfringing 
+uses of the following classes of 
+copyrighted works: 
+(1) Motion pictures (including 
+television shows and videos), as defined 
+in 17 U.S.C. 101, where the motion 
+picture is lawfully made and acquired 
+on a DVD protected by the Content 
+Scramble System, on a Blu-ray disc 
+protected by the Advanced Access 
+Content System, or via a digital 
+transmission protected by a 
+technological measure, and the person 
+engaging in circumvention under 
+paragraphs (b)(1)(i) and (b)(1)(ii)(A) and 
+(B) of this section reasonably believes 
+that non-circumventing alternatives are 
+unable to produce the required level of 
+high-quality content, or the 
+circumvention is undertaken using 
+screen-capture technology that appears 
+to be offered to the public as enabling 
+the reproduction of motion pictures 
+after content has been lawfully acquired 
+and decrypted, where circumvention is 
+undertaken solely in order to make use 
+of short portions of the motion pictures 
+in the following instances: 
+(i) For the purpose of criticism or 
+comment: 
+(A) For use in documentary 
+filmmaking, or other films where the 
+motion picture clip is used in parody or 
+for its biographical or historically 
+significant nature; 
+(B) For use in noncommercial videos 
+(including videos produced for a paid 
+commission if the commissioning 
+entity’s use is noncommercial); or 
+(C) For use in nonfiction multimedia 
+e-books. 
+(ii) For educational purposes: 
+(A) By college and university faculty 
+and students or kindergarten through 
+twelfth-grade (K–12) educators and 
+students (where the K–12 student is 
+circumventing under the direct 
+supervision of an educator), or 
+employees acting at the direction of 
+faculty of such educational institutions 
+for the purpose of teaching a course, 
+including of accredited general 
+educational development (GED) 
+programs, for the purpose of criticism, 
+comment, teaching, or scholarship; 
+(B) By faculty of accredited nonprofit 
+educational institutions and employees 
+acting at the direction of faculty 
+members of those institutions, for 
+purposes of offering massive open 
+online courses (MOOCs) to officially 
+enrolled students through online 
+platforms (which platforms themselves 
+may be operated for profit), in film 
+studies or other courses requiring close 
+analysis of film and media excerpts, for 
+the purpose of criticism or comment, 
+where the MOOC provider through the 
+online platform limits transmissions to 
+the extent technologically feasible to 
+such officially enrolled students, 
+institutes copyright policies and 
+provides copyright informational 
+materials to faculty, students, and 
+relevant staff members, and applies 
+technological measures that reasonably 
+VerDate Sep<11>2014 16:25 Oct 27, 2021 Jkt 256001 PO 00000 Frm 00029 Fmt 4700 Sfmt 4700 E:\FR\FM\28OCR1.SGM 28OCR1jspears on DSK121TN23PROD with RULES1
+
+[PAGE 12]
+59638 Federal Register / Vol. 86, No. 206 / Thursday, October 28, 2021 / Rules and Regulations 
+prevent unauthorized further 
+dissemination of a work in accessible 
+form to others or retention of the work 
+for longer than the course session by 
+recipients of a transmission through the 
+platform, as contemplated by 17 U.S.C. 
+110(2); or 
+(C) By educators and participants in 
+nonprofit digital and media literacy 
+programs offered by libraries, museums, 
+and other nonprofit entities with an 
+educational mission, in the course of 
+face-to-face instructional activities, for 
+the purpose of criticism or comment, 
+except that such users may only 
+circumvent using screen-capture 
+technology that appears to be offered to 
+the public as enabling the reproduction 
+of motion pictures after content has 
+been lawfully acquired and decrypted. 
+(2)(i) Motion pictures (including 
+television shows and videos), as defined 
+in 17 U.S.C. 101, where the motion 
+picture is lawfully acquired on a DVD 
+protected by the Content Scramble 
+System, on a Blu-ray disc protected by 
+the Advanced Access Content System, 
+or via a digital transmission protected 
+by a technological measure, where: 
+(A) Circumvention is undertaken by a 
+disability services office or other unit of 
+a kindergarten through twelfth-grade 
+educational institution, college, or 
+university engaged in and/or 
+responsible for the provision of 
+accessibility services for the purpose of 
+adding captions and/or audio 
+description to a motion picture to create 
+an accessible version for students, 
+faculty, or staff with disabilities; 
+(B) The educational institution unit in 
+paragraph (b)(2)(i)(A) of this section has 
+a reasonable belief that the motion 
+picture will be used for a specific future 
+activity of the institution and, after a 
+reasonable effort, has determined that 
+an accessible version of sufficient 
+quality cannot be obtained at a fair 
+market price or in a timely manner, 
+including where a copyright holder has 
+not provided an accessible version of a 
+motion picture that was included with 
+a textbook; and 
+(C) The accessible versions are 
+provided to students or educators and 
+stored by the educational institution in 
+a manner intended to reasonably 
+prevent unauthorized further 
+dissemination of a work. 
+(ii) For purposes of paragraph (b)(2) of 
+this section, 
+(A) ‘‘Audio description’’ means an 
+oral narration that provides an accurate 
+rendering of the motion picture; 
+(B) ‘‘Accessible version of sufficient 
+quality’’ means a version that in the 
+reasonable judgment of the educational 
+institution unit has captions and/or 
+audio description that are sufficient to 
+meet the accessibility needs of students, 
+faculty, or staff with disabilities and are 
+substantially free of errors that would 
+materially interfere with those needs; 
+and 
+(C) Accessible materials created 
+pursuant to this exemption and stored 
+pursuant to paragraph (b)(2)(i)(C) of this 
+section may be reused by the 
+educational institution unit to meet the 
+accessibility needs of students, faculty, 
+or staff with disabilities pursuant to 
+paragraphs (b)(2)(i)(A) and (B) of this 
+section. 
+(3)(i) Motion pictures (including 
+television shows and videos), as defined 
+in 17 U.S.C. 101, where the motion 
+picture is lawfully acquired on a DVD 
+protected by the Content Scramble 
+System, or on a Blu-ray disc protected 
+by the Advanced Access Content 
+System, solely for the purpose of lawful 
+preservation or the creation of a 
+replacement copy of the motion picture, 
+by an eligible library, archives, or 
+museum, where: 
+(A) Such activity is carried out 
+without any purpose of direct or 
+indirect commercial advantage; 
+(B) The DVD or Blu-ray disc is 
+damaged or deteriorating; 
+(C) The eligible institution, after a 
+reasonable effort, has determined that 
+an unused and undamaged replacement 
+copy cannot be obtained at a fair price 
+and that no streaming service, download 
+service, or on-demand cable and 
+satellite service makes the motion 
+picture available to libraries, archives, 
+and museums at a fair price; and 
+(D) The preservation or replacement 
+copies are not distributed or made 
+available outside of the physical 
+premises of the eligible library, archives, 
+or museum. 
+(ii) For purposes of paragraph (b)(3)(i) 
+of this section, a library, archives, or 
+museum is considered ‘‘eligible’’ if— 
+(A) The collections of the library, 
+archives, or museum are open to the 
+public and/or are routinely made 
+available to researchers who are not 
+affiliated with the library, archives, or 
+museum; 
+(B) The library, archives, or museum 
+has a public service mission; 
+(C) The library, archives, or museum’s 
+trained staff or volunteers provide 
+professional services normally 
+associated with libraries, archives, or 
+museums; 
+(D) The collections of the library, 
+archives, or museum are composed of 
+lawfully acquired and/or licensed 
+materials; and 
+(E) The library, archives, or museum 
+implements reasonable digital security 
+measures as appropriate for the 
+activities permitted by paragraph 
+(b)(3)(i) of this section. 
+(4)(i) Motion pictures, as defined in 
+17 U.S.C. 101, where the motion picture 
+is on a DVD protected by the Content 
+Scramble System, on a Blu-ray disc 
+protected by the Advanced Access 
+Content System, or made available for 
+digital download where: 
+(A) The circumvention is undertaken 
+by a researcher affiliated with a 
+nonprofit institution of higher 
+education, or by a student or 
+information technology staff member of 
+the institution at the direction of such 
+researcher, solely to deploy text and 
+data mining techniques on a corpus of 
+motion pictures for the purpose of 
+scholarly research and teaching; 
+(B) The copy of each motion picture 
+is lawfully acquired and owned by the 
+institution, or licensed to the institution 
+without a time limitation on access; 
+(C) The person undertaking the 
+circumvention views or listens to the 
+contents of the motion pictures in the 
+corpus solely for the purpose of 
+verification of the research findings; and 
+(D) The institution uses effective 
+security measures to prevent further 
+dissemination or downloading of 
+motion pictures in the corpus, and to 
+limit access to only the persons 
+identified in paragraph (b)(4)(i)(A) of 
+this section or to researchers affiliated 
+with other institutions of higher 
+education solely for purposes of 
+collaboration or replication of the 
+research. 
+(ii) For purposes of paragraph (b)(4)(i) 
+of this section: 
+(A) An institution of higher education 
+is defined as one that: 
+(1) Admits regular students who have 
+a certificate of graduation from a 
+secondary school or the equivalent of 
+such a certificate; 
+(2) Is legally authorized to provide a 
+postsecondary education program; 
+(3) Awards a bachelor’s degree or 
+provides not less than a two-year 
+program acceptable towards such a 
+degree; 
+(4) Is a public or other nonprofit 
+institution; and 
+(5) Is accredited by a nationally 
+recognized accrediting agency or 
+association. 
+(B) The term ‘‘effective security 
+measures’’ means security measures that 
+have been agreed to by interested 
+copyright owners of motion pictures 
+and institutions of higher education; or, 
+in the absence of such measures, those 
+measures that the institution uses to 
+keep its own highly confidential 
+information secure. If the institution 
+uses the security measures it uses to 
+protect its own highly confidential 
+VerDate Sep<11>2014 16:25 Oct 27, 2021 Jkt 256001 PO 00000 Frm 00030 Fmt 4700 Sfmt 4700 E:\FR\FM\28OCR1.SGM 28OCR1jspears on DSK121TN23PROD with RULES1
+
+[PAGE 13]
+59639 Federal Register / Vol. 86, No. 206 / Thursday, October 28, 2021 / Rules and Regulations 
+information, it must, upon a reasonable 
+request from a copyright owner whose 
+work is contained in the corpus, provide 
+information to that copyright owner 
+regarding the nature of such measures. 
+(5)(i) Literary works, excluding 
+computer programs and compilations 
+that were compiled specifically for text 
+and data mining purposes, distributed 
+electronically where: 
+(A) The circumvention is undertaken 
+by a researcher affiliated with a 
+nonprofit institution of higher 
+education, or by a student or 
+information technology staff member of 
+the institution at the direction of such 
+researcher, solely to deploy text and 
+data mining techniques on a corpus of 
+literary works for the purpose of 
+scholarly research and teaching; 
+(B) The copy of each literary work is 
+lawfully acquired and owned by the 
+institution, or licensed to the institution 
+without a time limitation on access; 
+(C) The person undertaking the 
+circumvention views the contents of the 
+literary works in the corpus solely for 
+the purpose of verification of the 
+research findings; and 
+(D) The institution uses effective 
+security measures to prevent further 
+dissemination or downloading of 
+literary works in the corpus, and to limit 
+access to only the persons identified in 
+paragraph (b)(5)(i)(A) of this section or 
+to researchers or to researchers affiliated 
+with other institutions of higher 
+education solely for purposes of 
+collaboration or replication of the 
+research. 
+(ii) For purposes of paragraph (b)(5)(i) 
+of this section: 
+(A) An institution of higher education 
+is defined as one that: 
+(1) Admits regular students who have 
+a certificate of graduation from a 
+secondary school or the equivalent of 
+such a certificate; 
+(2) Is legally authorized to provide a 
+postsecondary education program; 
+(3) Awards a bachelor’s degree or 
+provides not less than a two-year 
+program acceptable towards such a 
+degree; 
+(4) Is a public or other nonprofit 
+institution; and 
+(5) Is accredited by a nationally 
+recognized accrediting agency or 
+association. 
+(B) The term ‘‘effective security 
+measures’’ means security measures that 
+have been agreed to by interested 
+copyright owners of literary works and 
+institutions of higher education; or, in 
+the absence of such measures, those 
+measures that the institution uses to 
+keep its own highly confidential 
+information secure. If the institution 
+uses the security measures it uses to 
+protect its own highly confidential 
+information, it must, upon a reasonable 
+request from a copyright owner whose 
+work is contained in the corpus, provide 
+information to that copyright owner 
+regarding the nature of such measures. 
+(6)(i) Literary works or previously 
+published musical works that have been 
+fixed in the form of text or notation, 
+distributed electronically, that are 
+protected by technological measures 
+that either prevent the enabling of read- 
+aloud functionality or interfere with 
+screen readers or other applications or 
+assistive technologies: 
+(A) When a copy or phonorecord of 
+such a work is lawfully obtained by an 
+eligible person, as such a person is 
+defined in 17 U.S.C. 121; provided, 
+however, that the rights owner is 
+remunerated, as appropriate, for the 
+market price of an inaccessible copy of 
+the work as made available to the 
+general public through customary 
+channels; or 
+(B) When such a work is lawfully 
+obtained and used by an authorized 
+entity pursuant to 17 U.S.C. 121. 
+(ii) For the purposes of paragraph 
+(b)(6)(i) of this section, a ‘‘phonorecord 
+of such a work’’ does not include a 
+sound recording of a performance of a 
+musical work unless and only to the 
+extent the recording is included as part 
+of an audiobook or e-book. 
+(7) Literary works consisting of 
+compilations of data generated by 
+medical devices or by their personal 
+corresponding monitoring systems, 
+where such circumvention is 
+undertaken by or on behalf of a patient 
+for the sole purpose of lawfully 
+accessing data generated by a patient’s 
+own medical device or monitoring 
+system. Eligibility for this exemption is 
+not a safe harbor from, or defense to, 
+liability under other applicable laws, 
+including without limitation the Health 
+Insurance Portability and 
+Accountability Act of 1996, the 
+Computer Fraud and Abuse Act of 1986, 
+or regulations of the Food and Drug 
+Administration. 
+(8) Computer programs that enable 
+wireless devices to connect to a wireless 
+telecommunications network, when 
+circumvention is undertaken solely in 
+order to connect to a wireless 
+telecommunications network and such 
+connection is authorized by the operator 
+of such network. 
+(9) Computer programs that enable 
+smartphones and portable all-purpose 
+mobile computing devices to execute 
+lawfully obtained software applications, 
+where circumvention is accomplished 
+for the sole purpose of enabling 
+interoperability of such applications 
+with computer programs on the 
+smartphone or device, or to permit 
+removal of software from the 
+smartphone or device. For purposes of 
+this paragraph (b)(9), a ‘‘portable all- 
+purpose mobile computing device’’ is a 
+device that is primarily designed to run 
+a wide variety of programs rather than 
+for consumption of a particular type of 
+media content, is equipped with an 
+operating system primarily designed for 
+mobile use, and is intended to be 
+carried or worn by an individual. 
+(10) Computer programs that enable 
+smart televisions to execute lawfully 
+obtained software applications, where 
+circumvention is accomplished for the 
+sole purpose of enabling interoperability 
+of such applications with computer 
+programs on the smart television, and is 
+not accomplished for the purpose of 
+gaining unauthorized access to other 
+copyrighted works. For purposes of this 
+paragraph (b)(10), ‘‘smart televisions’’ 
+includes both internet-enabled 
+televisions, as well as devices that are 
+physically separate from a television 
+and whose primary purpose is to run 
+software applications that stream 
+authorized video from the internet for 
+display on a screen. 
+(11) Computer programs that enable 
+voice assistant devices to execute 
+lawfully obtained software applications, 
+where circumvention is accomplished 
+for the sole purpose of enabling 
+interoperability of such applications 
+with computer programs on the device, 
+or to permit removal of software from 
+the device, and is not accomplished for 
+the purpose of gaining unauthorized 
+access to other copyrighted works. For 
+purposes of this paragraph (b)(11), a 
+‘‘voice assistant device’’ is a device that 
+is primarily designed to run a wide 
+variety of programs rather than for 
+consumption of a particular type of 
+media content, is designed to take user 
+input primarily by voice, and is 
+designed to be installed in a home or 
+office. 
+(12) Computer programs that enable 
+routers and dedicated network devices 
+to execute lawfully obtained software 
+applications, where circumvention is 
+accomplished for the sole purpose of 
+enabling interoperability of such 
+applications with computer programs 
+on the router or dedicated network 
+device, and is not accomplished for the 
+purpose of gaining unauthorized access 
+to other copyrighted works. For the 
+purposes of this paragraph (b)(12), 
+‘‘dedicated network device’’ includes 
+switches, hubs, bridges, gateways, 
+modems, repeaters, and access points, 
+and excludes devices that are not 
+lawfully owned. 
+(13) Computer programs that are 
+contained in and control the functioning 
+VerDate Sep<11>2014 16:25 Oct 27, 2021 Jkt 256001 PO 00000 Frm 00031 Fmt 4700 Sfmt 4700 E:\FR\FM\28OCR1.SGM 28OCR1jspears on DSK121TN23PROD with RULES1
+
+[PAGE 14]
+59640 Federal Register / Vol. 86, No. 206 / Thursday, October 28, 2021 / Rules and Regulations 
+of a lawfully acquired motorized land 
+vehicle or marine vessel such as a 
+personal automobile or boat, 
+commercial vehicle or vessel, or 
+mechanized agricultural vehicle or 
+vessel, except for programs accessed 
+through a separate subscription service, 
+when circumvention is a necessary step 
+to allow the diagnosis, repair, or lawful 
+modification of a vehicle or vessel 
+function, where such circumvention is 
+not accomplished for the purpose of 
+gaining unauthorized access to other 
+copyrighted works. Eligibility for this 
+exemption is not a safe harbor from, or 
+defense to, liability under other 
+applicable laws, including without 
+limitation regulations promulgated by 
+the Department of Transportation or the 
+Environmental Protection Agency. 
+(14) Computer programs that are 
+contained in and control the functioning 
+of a lawfully acquired device that is 
+primarily designed for use by 
+consumers, when circumvention is a 
+necessary step to allow the diagnosis, 
+maintenance, or repair of such a device, 
+and is not accomplished for the purpose 
+of gaining access to other copyrighted 
+works. For purposes of this paragraph 
+(b)(14): 
+(i) The ‘‘maintenance’’ of a device is 
+the servicing of the device in order to 
+make it work in accordance with its 
+original specifications and any changes 
+to those specifications authorized for 
+that device; and 
+(ii) The ‘‘repair’’ of a device is the 
+restoring of the device to the state of 
+working in accordance with its original 
+specifications and any changes to those 
+specifications authorized for that 
+device. For video game consoles, 
+‘‘repair’’ is limited to repair or 
+replacement of a console’s optical drive 
+and requires restoring any technological 
+protection measures that were 
+circumvented or disabled. 
+(15) Computer programs that are 
+contained in and control the functioning 
+of a lawfully acquired medical device or 
+system, and related data files, when 
+circumvention is a necessary step to 
+allow the diagnosis, maintenance, or 
+repair of such a device or system. For 
+purposes of this paragraph (b)(15): 
+(i) The ‘‘maintenance’’ of a device or 
+system is the servicing of the device or 
+system in order to make it work in 
+accordance with its original 
+specifications and any changes to those 
+specifications authorized for that device 
+or system; and 
+(ii) The ‘‘repair’’ of a device or system 
+is the restoring of the device or system 
+to the state of working in accordance 
+with its original specifications and any 
+changes to those specifications 
+authorized for that device or system. 
+(16)(i) Computer programs, where the 
+circumvention is undertaken on a 
+lawfully acquired device or machine on 
+which the computer program operates, 
+or is undertaken on a computer, 
+computer system, or computer network 
+on which the computer program 
+operates with the authorization of the 
+owner or operator of such computer, 
+computer system, or computer network, 
+solely for the purpose of good-faith 
+security research. 
+(ii) For purposes of paragraph 
+(b)(16)(i) of this section, ‘‘good-faith 
+security research’’ means accessing a 
+computer program solely for purposes of 
+good-faith testing, investigation, and/or 
+correction of a security flaw or 
+vulnerability, where such activity is 
+carried out in an environment designed 
+to avoid any harm to individuals or the 
+public, and where the information 
+derived from the activity is used 
+primarily to promote the security or 
+safety of the class of devices or 
+machines on which the computer 
+program operates, or those who use 
+such devices or machines, and is not 
+used or maintained in a manner that 
+facilitates copyright infringement. 
+(iii) Good-faith security research that 
+qualifies for the exemption under 
+paragraph (b)(16)(i) of this section may 
+nevertheless incur liability under other 
+applicable laws, including without 
+limitation the Computer Fraud and 
+Abuse Act of 1986, as amended and 
+codified in title 18, United States Code, 
+and eligibility for that exemption is not 
+a safe harbor from, or defense to, 
+liability under other applicable laws. 
+(17)(i) Video games in the form of 
+computer programs embodied in 
+physical or downloaded formats that 
+have been lawfully acquired as 
+complete games, when the copyright 
+owner or its authorized representative 
+has ceased to provide access to an 
+external computer server necessary to 
+facilitate an authentication process to 
+enable gameplay, solely for the purpose 
+of: 
+(A) Permitting access to the video 
+game to allow copying and modification 
+of the computer program to restore 
+access to the game for personal, local 
+gameplay on a personal computer or 
+video game console; or 
+(B) Permitting access to the video 
+game to allow copying and modification 
+of the computer program to restore 
+access to the game on a personal 
+computer or video game console when 
+necessary to allow preservation of the 
+game in a playable form by an eligible 
+library, archives, or museum, where 
+such activities are carried out without 
+any purpose of direct or indirect 
+commercial advantage and the video 
+game is not distributed or made 
+available outside of the physical 
+premises of the eligible library, archives, 
+or museum. 
+(ii) Video games in the form of 
+computer programs embodied in 
+physical or downloaded formats that 
+have been lawfully acquired as 
+complete games, that do not require 
+access to an external computer server 
+for gameplay, and that are no longer 
+reasonably available in the commercial 
+marketplace, solely for the purpose of 
+preservation of the game in a playable 
+form by an eligible library, archives, or 
+museum, where such activities are 
+carried out without any purpose of 
+direct or indirect commercial advantage 
+and the video game is not distributed or 
+made available outside of the physical 
+premises of the eligible library, archives, 
+or museum. 
+(iii) Computer programs used to 
+operate video game consoles solely to 
+the extent necessary for an eligible 
+library, archives, or museum to engage 
+in the preservation activities described 
+in paragraph (b)(17)(i)(B) or (b)(17)(ii) of 
+this section. 
+(iv) For purposes of this paragraph 
+(b)(17), the following definitions shall 
+apply: 
+(A) For purposes of paragraphs 
+(b)(17)(i)(A) and (b)(17)(ii) of this 
+section, ‘‘complete games’’ means video 
+games that can be played by users 
+without accessing or reproducing 
+copyrightable content stored or 
+previously stored on an external 
+computer server. 
+(B) For purposes of paragraph 
+(b)(17)(i)(B) of this section, ‘‘complete 
+games’’ means video games that meet 
+the definition in paragraph (b)(17)(iv)(A) 
+of this section, or that consist of both a 
+copy of a game intended for a personal 
+computer or video game console and a 
+copy of the game’s code that was stored 
+or previously stored on an external 
+computer server. 
+(C) ‘‘Ceased to provide access’’ means 
+that the copyright owner or its 
+authorized representative has either 
+issued an affirmative statement 
+indicating that external server support 
+for the video game has ended and such 
+support is in fact no longer available or, 
+alternatively, server support has been 
+discontinued for a period of at least six 
+months; provided, however, that server 
+support has not since been restored. 
+(D) ‘‘Local gameplay’’ means 
+gameplay conducted on a personal 
+computer or video game console, or 
+locally connected personal computers or 
+consoles, and not through an online 
+service or facility. 
+(E) A library, archives, or museum is 
+considered ‘‘eligible’’ if— 
+VerDate Sep<11>2014 16:25 Oct 27, 2021 Jkt 256001 PO 00000 Frm 00032 Fmt 4700 Sfmt 4700 E:\FR\FM\28OCR1.SGM 28OCR1jspears on DSK121TN23PROD with RULES1
+
+[PAGE 15]
+59641 Federal Register / Vol. 86, No. 206 / Thursday, October 28, 2021 / Rules and Regulations 
+1 In the April 24, 2020, SIP revision SC DHEC also 
+submitted to EPA changes to Regulations 61–62.1, 
+Continued 
+(1) The collections of the library, 
+archives, or museum are open to the 
+public and/or are routinely made 
+available to researchers who are not 
+affiliated with the library, archives, or 
+museum; 
+(2) The library, archives, or museum 
+has a public service mission; 
+(3) The library, archives, or museum’s 
+trained staff or volunteers provide 
+professional services normally 
+associated with libraries, archives, or 
+museums; 
+(4) The collections of the library, 
+archives, or museum are composed of 
+lawfully acquired and/or licensed 
+materials; and 
+(5) The library, archives, or museum 
+implements reasonable digital security 
+measures as appropriate for the 
+activities permitted by this paragraph 
+(b)(17). 
+(18)(i) Computer programs, except 
+video games, that have been lawfully 
+acquired and that are no longer 
+reasonably available in the commercial 
+marketplace, solely for the purpose of 
+lawful preservation of a computer 
+program, or of digital materials 
+dependent upon a computer program as 
+a condition of access, by an eligible 
+library, archives, or museum, where 
+such activities are carried out without 
+any purpose of direct or indirect 
+commercial advantage. Any electronic 
+distribution, display, or performance 
+made outside of the physical premises 
+of an eligible library, archives, or 
+museum of works preserved under this 
+paragraph may be made to only one user 
+at a time, for a limited time, and only 
+where the library, archives, or museum 
+has no notice that the copy would be 
+used for any purpose other than private 
+study, scholarship, or research. 
+(ii) For purposes of the exemption in 
+paragraph (b)(18)(i) of this section, a 
+library, archives, or museum is 
+considered ‘‘eligible’’ if— 
+(A) The collections of the library, 
+archives, or museum are open to the 
+public and/or are routinely made 
+available to researchers who are not 
+affiliated with the library, archives, or 
+museum; 
+(B) The library, archives, or museum 
+has a public service mission; 
+(C) The library, archives, or museum’s 
+trained staff or volunteers provide 
+professional services normally 
+associated with libraries, archives, or 
+museums; 
+(D) The collections of the library, 
+archives, or museum are composed of 
+lawfully acquired and/or licensed 
+materials; and 
+(E) The library, archives, or museum 
+implements reasonable digital security 
+measures as appropriate for the 
+activities permitted by this paragraph 
+(b)(18). 
+(19) Computer programs that operate 
+3D printers that employ technological 
+measures to limit the use of material, 
+when circumvention is accomplished 
+solely for the purpose of using 
+alternative material and not for the 
+purpose of accessing design software, 
+design files, or proprietary data. 
+(20) Computer programs, solely for 
+the purpose of investigating a potential 
+infringement of free and open source 
+computer programs where: 
+(i) The circumvention is undertaken 
+on a lawfully acquired device or 
+machine other than a video game 
+console, on which the computer 
+program operates; 
+(ii) The circumvention is performed 
+by, or at the direction of, a party that has 
+a good-faith, reasonable belief in the 
+need for the investigation and has 
+standing to bring a breach of license or 
+copyright infringement claim; 
+(iii) Such circumvention does not 
+constitute a violation of applicable law; 
+and 
+(iv) The copy of the computer 
+program, or the device or machine on 
+which it operates, is not used or 
+maintained in a manner that facilitates 
+copyright infringement. 
+(21) Video games in the form of 
+computer programs, embodied in 
+lawfully acquired physical or 
+downloaded formats, and operated on a 
+general-purpose computer, where 
+circumvention is undertaken solely for 
+the purpose of allowing an individual 
+with a physical disability to use 
+software or hardware input methods 
+other than a standard keyboard or 
+mouse. 
+* * * * * 
+Dated: October 21, 2021. 
+Carla D. Hayden, 
+Librarian of Congress. 
+[FR Doc. 2021–23311 Filed 10–27–21; 8:45 am] 
+BILLING CODE 1410–30–P 
+ENVIRONMENTAL PROTECTION 
+AGENCY 
+40 CFR Part 52 
+[EPA–R04–OAR–2020–0445; FRL–8779–02– 
+R4] 
+Air Plan Approval; SC; Revisions to 
+Definitions 
+AGENCY: Environmental Protection 
+Agency (EPA). 
+ACTION: Final rule. 
+SUMMARY: The Environmental Protection 
+Agency (EPA) is finalizing approval of 
+a State Implementation Plan (SIP) 
+revision submitted by the State of South 
+Carolina, through the South Carolina 
+Department of Health and 
+Environmental Control (SC DHEC or 
+Department), on April 24, 2020. The SIP 
+revision updates the definition of ‘‘Spec. 
+Oil (Specification Oil)’’ and makes 
+minor updates to formatting and 
+numbering. EPA is finalizing approval 
+of these changes pursuant to the Clean 
+Air Act (CAA or Act) and implementing 
+federal regulations. 
+DATES: This rule is effective November 
+29, 2021. 
+ADDRESSES: EPA has established a 
+docket for this action under Docket 
+Identification No. EPA–R04–OAR– 
+2020–0445. All documents in the docket 
+are listed on the www.regulations.gov 
+website. Although listed in the index, 
+some information may not be publicly 
+available, i.e., Confidential Business 
+Information or other information whose 
+disclosure is restricted by statute. 
+Certain other material, such as 
+copyrighted material, is not placed on 
+the internet and will be publicly 
+available only in hard copy form. 
+Publicly available docket materials are 
+available either electronically through 
+www.regulations.gov or in hard copy at 
+the Air Regulatory Management Section, 
+Air Planning and Implementation 
+Branch, Air and Radiation Division, 
+U.S. Environmental Protection Agency, 
+Region 4, 61 Forsyth Street SW, Atlanta, 
+Georgia 30303–8960. EPA requests that 
+if at all possible, you contact the person 
+listed in the 
+FOR FURTHER INFORMATION 
+CONTACT section to schedule your 
+inspection. The Regional Office’s 
+official hours of business are Monday 
+through Friday 8:30 a.m. to 4:30 p.m., 
+excluding Federal holidays. 
+FOR FURTHER INFORMATION CONTACT : 
+Andres Febres, Air Regulatory 
+Management Section, Air Planning and 
+Implementation Branch, Air and 
+Radiation Division, U.S. Environmental 
+Protection Agency, Region 4, 61 Forsyth 
+Street SW, Atlanta, Georgia 30303–8960. 
+The telephone number is (404) 562– 
+8966. Mr. Febres can also be reached via 
+electronic mail at febres- 
+martinez.andres@epa.gov. 
+SUPPLEMENTARY INFORMATION: 
+I. Background 
+On April 24, 2020, SC DHEC 
+submitted a SIP revision to EPA for 
+approval that includes changes to South 
+Carolina Regulation 61–62.1, Section I— 
+Definitions.
+1 First, SC DHEC’s April 24, 
+VerDate Sep<11>2014 16:25 Oct 27, 2021 Jkt 256001 PO 00000 Frm 00033 Fmt 4700 Sfmt 4700 E:\FR\FM\28OCR1.SGM 28OCR1jspears on DSK121TN23PROD with RULES1

@@ -1,0 +1,992 @@
+[PAGE 1]
+EXHIBIT 19 
+[PAGE 2]
+CMS .gov Centers for Medicare & Medicaid Services 
+Home > Medicare > Hospital Quality Initiative 
+'Hosp 吻lOutpatient Qua 町Reporting Program 
+Hospital Outpatient Quality Reporting 
+Program 
+Overview 
+The Hospital O叶patient Qual心 Repo 面ng Program (Hospital OQR ) is a 
+pay for quality da加 reporting program implemented by the Centers for 
+Medicare & Medicaid Services (CMS ) for outpatient hospital services. The 
+Hospi加l OQR Program was mandated by the Tax Relief and Health Care 
+Act of 2006, which requires subse面on (d) hospitals to submit data on 
+measures on the quality of care furnished by hospitals in outpatient 
+settings. Measures of quality may be of various types, including those of 
+process, structure, outcome , and efficiency. 
+Under the Hospital OQR Program , hospitals must meet administrative, 
+da加 collection and submission, validation, and publication requiremen加, or 
+receive a 2 percenねge point reduction in payment forねiling to meet these 
+requiremen始, by appサing a repo面ng factor of 0.980 to the Outpatient 
+Prospective Payment System (OP PS ) paymen 加 and copaymen 加 for all 
+applicable services. 
+In addition to providing hospi加ls with a financial incentive to report their 
+quality of care measure da加, the Hospital OQR Program provides CMS 
+with data to help Medicare beneficiaries make more informed dec画ons 
+about their healthcare. Hospital quality of care information gathered 
+through the Hospital OQR Program is available on the Hospital Compare 
+Web site. 
+Outpatient Department Measures 
+Outpatient care can refer to numerous types of health services, such as 
+emergency department services, observation services, outpatient su面cal 
+services, lab tests, and X-rays, provided to those who visit a hospital or 
+other healthcare facility. Outpatient often refers to a patient who leaves the 
+ねcility after treatment on the same day but may include a patient who 
+spends the night at the hospital for whom a doctor has not written an o司er 
+for inpatient admission. 
+Hospitaにompare provides resu島on eme 円ency department and 
+outpatient quali句 measures , which evaluate the quality of care provided to 
+patien瓦 A quality measure converts medical information from patient 
+reco川s into a rate or time that allows facilities to assess their performance 
+and consumers to compare how well patients are being cared for at their 
+local hospitals. 
+The outpatient measures evaluate the regularity with which a healthcare 
+provider administers the outpatient treatment known to provide the be討 
+
+[PAGE 3]
+results for most patients with a particular condition. An example includes 
+patients receiving appropriate fibrinolytic therapy within 30 minutes of 
+arrival to the emergency department. 
+The Hospital OQR measures include data collected from various methods 
+to measure patient care outcomes, process of care, imaging efficiency 
+patterns, care transitions, ED-throughput efficiency, Health Information 
+Technology use (HIT), care coordination, and patient safety. Data may be 
+collected through chart abstraction, claims volumes, or reporting on a 
+hospital process. Specialty areas were identified by CMS as having 
+common and frequent procedures in the hospital outpatient setting. These 
+procedures were identified as colonoscopies and outpatient imaging 
+procedures. Other areas of future focus are outpatient surgeツ and 
+chemotherapy. 
+Measures for the CY 2021 Payment Determination 
+・OP -2: Fibrinolytic Therapy Received Within 30 Minutes of ED 
+Arrival 
+・OP -3: Median Time to Transfer to Another Facility for Acute 
+Coronary Intervention 
+・OP -8: MRI Lumbar Spine for Low Back Pain 
+OP -lO: Abdomen CT -Use of Contrast Material 
+・OP -I 3: Cardiac Imaging for Preoperative Risk Assessment for Non -
+Ca司iac, Low -R島k Surgery 
+・OP -I8: Median Time from ED Arrival to ED Departure for 
+D陰cha円ed ED Patients 
+・OP -22: Left Without Being Seen 
+OP -23: Head CT or MRI Scan Results for Acute lschemic Stroke or 
+Hemorrhagic Stroke who Received Head CT or MRI Scan 
+Interpretation Within 45 minutes of ED Arrival 
+・OP -29: Appropriate Follow-Up Interval for Normal Colonoscopy in 
+Average Risk Patients 
+・OP -31: Cataracts: Improvement in Patient's Visual Function within 
+90 Days Following Cataract Surgery* 
+・OP -32: Facility 7-Day Risk-Standardized Hospital Visit Rate after 
+Outpatient Colonoscopy 
+・OP -33: External Beam Radiotherapy for Bone Metastases 
+・OP -35: Admissions and Emergency Department (ED ) Visits for 
+Patients Receiving Outpatient Chemotherapy 
+・OP -36: Hospital Visits after Hospital Outpatient Surgery 
+* Measure voluntarily collected as set forth in section Xlll.D.3.b. of 
+the CY 2015 0PPS /ASC final rule with comment period (79 FR 66946 
+through 66947 ). 
+Read more about the Hospital OQR Program in the most recent 
+final rule found here. 
+[PAGE 4]
+More information regarding the Hospital OQR measures can be 
+found on the QualityNet website F . 
+Public Reporting 
+Data collected through the Hospital OQR program is publicレ reported so 
+people with Medicare and other consumers can find and compare the 
+quality of care provided at ambulatory su面cal centers. Publishing these 
+data can improve facility performance by providing benchma 永s for 
+selected clinical areas and public view of facility data. 
+The CMS /jg.§pita! Compare  website publishes information on the quality of 
+care provided to patients; this information is made available to inform 
+consume 円 and to encourage healthcare伯cilities to make continued 
+improvemen 加 in care quality. Hospital Compare is generally refreshed bi-
+annually for the Hospital CQR program. Information on Public Reporting 
+can be found in Section 1833(t)(17)(E) of the Social Securi句 Act and 
+requires that the Secre加ry establish procedures to make data collected 
+under the Hospital OQR program available to the public. 
+Contact Us 
+Submit questions and search for answers on the Hospital OQR Program 
+through the Q  Question and Answer Tool or call the Hospital OQR 
+Support at (866) 800-8756 weekdays from 7 a.m. to 6 p.m. Eas肥rn Time. 
+Page Last Modified: 07/28/2020 11:42AM 
+H旦いwith File Forma 始 and Plug土］旦
+CMS .gov 
+A federal government website managed and paid for by the U.S. Centers 
+for Medicare & Medicaid Services. 7500 Security Bouleva司, Baltimore, 
+MD 21244 
+Receive Email Updates 
+子 
+
+[PAGE 5]
+(,pe 
+your email here 
+Submit 
+Connect with CMS 
+ ) 
+
+[PAGE 6]
+EXHIBIT 20 
+[PAGE 7]
+Influential factors on medical
+equipment maintenance
+management
+In search of a framework
+Rona Bahreini
+Tabriz Health Services Management Research Center,
+Iranian Center of Excellence in Health Management, Student Research Committee,
+School of Management and Medical Informatics,
+Tabriz University of Medical Sciences, Tabriz, Iran
+Leila Doshmangir
+Tabriz Health Services Management Research Center,
+Iranian Center of Excellence in Health Management,
+School of Management and Medical Informatics,
+Tabriz University of Medical Sciences, Tabriz, Iran, and
+Ali Imani
+Health Economics Department, Tabriz Health Services Management Research Center,
+School of Management and Medical Informatics,
+Tabriz University of Medical Sciences, Tabriz, Iran
+Abstract
+Purpose – Effective maintenance management of medical equipment is one of the major issues for quality of
+care and cost-effectiveness especially in modern hospitals. An effective medical equipment maintenance
+management (MEMM) consists of adequate planning, management and implementation. This is essential for
+providing good health services and saving scarce resources. Considering the importance of the subject, the
+purpose of this paper is to extract the influential factors on MEMM using a qualitative approach.
+Design/methodology/approach – Documents review and interviews were main methods for data
+collection. Semi structured interviews were conducted with a purposive sample of 14 clinical engineers with
+different degree of education and job levels. Interviews were voice recorded and transcribed verbatim.
+Qualitative data were analyzed using a content analysis approach (inductive and deductive) to identify the
+underlying themes and sub-themes.
+Findings – Factors influencing an effective and efficient MEMM system categorized in seven themes and
+19 sub-themes emerged. The themes included: “resources,”“ quality control,”“ information bank,”“ education,”
+“service,”“ inspection and preventive maintenance ” and “design and implementation. ”
+Originality/value – The proposed framework provides a basis for a comprehensive and accurate
+assessment of medical equipment maintenance. The findings of this study could be used to improve the
+profitability of healthcare facilities and the reliability of medical equipment.
+Keywords Maintenance management, Hospital, Medical equipment, Medical devices
+Paper type Research paper
+Introduction
+Medical equipment is extensively utilized for patients ’ diagnosis and treatment. Nowadays,
+providing health services through the use of diagnostic and treatment devices is a
+fundamental part of health services, especially in hospitals (Wang et al., 2008, 2012). Medical
+devices are assets that directly improve the quality of life for many people (Painter and
+Baretich, 2011). Medical devices requiring calibration, maintenance, repair, user training and
+decommissioning activities are usually managed by clinical engineers. Medical equipment
+Journal of Quality in Maintenance
+Engineering
+Vol. 25 No. 1, 2019
+pp. 128-143
+© Emerald Publishing Limited
+1355-2511
+DOI 10.1108/JQME-11-2017-0082
+Received 23 November 2017
+Revised 17 May 2018
+Accepted 12 June 2018
+The current issue and full text archive of this journal is available on Emerald Insight at:
+www.emeraldinsight.com/1355-2511.htm
+128
+JQME
+25,1
+[PAGE 8]
+requires scheduled and unscheduled maintenance during its useful life (WHO, 2011).
+Hospitals should ensure that medical equipment is kept in working condition, and is safe,
+accurate, and reliable and operates at the required level of performance effectively
+(Augustýnek et al. , 2018). Lack of proper maintenance of medical equipment leads to
+equipment downtime, reduces the level of device performance, and wastes costs and
+resources. In this concern, it is essential that hospitals focus on effective and quick
+maintenance of more critical devices (Bracale and Pepino, 1994; Dyro, 2004; Stiefel, 2009).
+Medical equipment maintenance has diff erent types: inspection and preventive
+maintenance (IPM) and corrective maint enance (WHO, 2011). Effective management
+of maintenance and repairs (Kinley, 2012 ) shall be planned and implemented using
+appropriate maintenance strategies to keep the devices safe and functional according to
+basic functional specifications (Wang, 2012) . In addition to high initial investment, the
+medical equipment requires continual and costly maintenance during its useful
+life (Cheng and Dyro, 2004). The maintenanc e problem is the key discussion point in
+the management of medical devices (Braca le and Pepino, 1994). Other studies have
+indicated that the most common cause of medical equipment downtime is poor
+maintenance, planning, and management (Wang and Levenson, 2000; Wang and Rice,
+2003). To solve this problem, it is necessary to establish and regulate a system of proper
+maintenance and the correct use of medical equi pment (Stiefel, 2009). Perfect maintenance
+is the equation of performance, risk, resource inputs and costs to reach this goal (Campbell
+and Jardine, 2001).
+The ultimate goal of maintenance is reliability and safety. It should always be safe for both
+patients and users (Wang, 2012). Maintenance management has had an extraordinary impact
+on the ability of organizations to achieve their objectives (Duffuaa et al. , 2002). Hospital
+management has gradually been perfect, but as far as medical equipment maintenance
+management (MEMM) is concerned, there still exist some problems and hospital MEMM
+system is too loose. For example, there is no corresponding maintenance personnel
+composition, degree requirements and even no maintenance access qualification. Maintenance
+personnel placement is done most often casually, personnel division of labor is not clear, and
+the maintenance caters to some surface problems and fails to do finishing repair (Wang, 2014).
+Today, medical devices and equipment have become increasingly more complex
+( Jamshidi et al. , 2014), and deals with patient care in a hospital may range from simple
+thermometers to complex systems such as MRIs (Palesh et al. , 2010).
+In Iran, in accordance with the law on the organization and functions of the Ministry of
+Health and Medical Education (MoHME), the medical equipment office was established to
+monitor the production, supply, consumption and use of medical equipment. Medical
+equipment in hospitals is purchased through two different channels: The MoHME and
+Board board of trustees in each hospital. Engineer/technician is responsible for the
+management and maintenance of medical equipment in the hospital and has different
+responsibilities such as training, improving patient and personnel safety, installation and
+repairing cycle management and maintenance management.
+Why this study: aims
+Mahady et al. (2002) in his study states, despite the importance of medical equipment
+maintenance, unfortunately, enough attention has not been paid to this issue, especially in
+developing countries (Mahady et al. , 2002). A number of studies have been conducted on
+medical equipment until now (Ameriyoon et al., 2006, 2007, 2014). To our best knowledge, no
+studies have provided a comprehensive framework for MEMM in Iran. This study aimed to
+explore the views of experts on factors affecting MEMM. This paper presents a framework
+for MEMM with the purpose of enhancing and improving our understanding of the effective
+factors in this realm.
+129
+Influential
+factors on
+MEMM
+[PAGE 9]
+Methods
+Design
+This is a qualitative study based on content analysis approach. Qualitative data were collected
+through documents review and semi-structured interviews. Qualitative research approaches
+have an explorative nature and are used to understand people experiences in all its complexity
+and in all its natural setting (Pope et al., 2000). Health or education policies can be developed
+using this type of research (Tong et al., 2007). The collected data consisted of the perspectives
+of medical and biomedical engineers concerning factors influencing MEMM.
+Sampling
+Purposive sampling was used to conduct this study and was continued until data
+saturation. Participants were selected from different cities of Iran as the most
+knowledgeable persons about this subject. The research participants included 14 clinical
+engineers whose education varied from bachelor to PhD degree. The inclusion criteria for
+interviewees were having at least bachelor ’s degree with at least two years of work
+experience in clinical engineering department of hospitals during the study period, being
+accessible and being willing to participate in the study. As experts in the medical
+equipment, an equal number of male and female participants (n ¼ 14) took part in this study.
+Data collection
+Semi-structured interviews and documents review were used for data collection. Related
+documents were regulations of MEMM, MEMM guidelines and other related regulations or
+reports developed by MoHME. The time period for data collection was from April to July
+2016. The interview questions were asked in an open ended manner. They were based on an
+interview guide (Boyd, 1989). Interviews lasted approximately 30 –90 min and were
+interviewed in the working place of the participants. The researchers and the participants
+agreed on an appropriate time before referral. The face-to-face interviews were recorded
+through voice-recorder and transcribed verbatim. All the research team participated in
+developing the interview guides (Appendix). Interview guide was lists of demographic
+questions and questions that covered aims of the study. The interview began with general
+and simple questions. During the interview, the interviewer added extra questions about
+unexpected but relevant area that emerged. Data collection continued until saturation was
+achieved and no new information was discovered in data analysis.
+Data analysis
+Morse and Field ’s qualitative content analysis approach (Morse and Field, 1995a) was
+adopted for data analysis. Content analysis is a widely used qualitative research technique
+in health studies in recent years and is used to interpret meaning from the content of text
+data and, hence, adhere to the naturalistic paradigm (Downe-Wamboldt, 1992; Krippendorff,
+2004; Sandelowski, 1995) (Hsieh and Shannon, 2005). Content analysis can also be a useful
+tool for discovering and describing the focus of individual, group, institutional or social
+attention allowing researchers to test theoretical issues to enhance data understanding.
+In this study, content analysis approach (inductive and deductive) was used to analyze the
+data. Data analysis started with the transcription of interviews and repeated reviews until
+meaningful themes emerged. Then, data were read word by word to derive codes. Next, the
+first impressions, thoughts, and initial analyses were noted. Afterwards, codes were
+generated from participants ’ words. For example, the code “training on general equipment ”
+was generated by the researcher from a participant ’s comment that “every nurse who
+graduated from the university should be trained about the general equipment. ” MAXQDA
+12 (qualitative) software was used to analyze the data. Two researchers (LD and RB)
+130
+JQME
+25,1
+[PAGE 10]
+analyzed the data to help minimize bias. All data were transcribed, coded and analyzed by
+both researchers. The extracted codes, then were sorted into both items and subthemes
+based on comparisons between similarities and differences. Once the themes had been
+agreed by the authors, the two researchers read the remaining transcripts. Finally, themes
+were created as the expression of the hidden content of the text after being identified,
+reviewed and defined. The member-checking method was used to meet study validity.
+To address credibility, transcriptions were given to the participants to ensure the accuracy
+of the transcriptions. Also, the initial codes, subthemes, and major themes were audited by
+two of the researchers (LD and RB) and the results were confirmed.
+Ethical considerations
+All of the participants agreed on recording their voice with the exception of one participant
+who just allowed the researcher to take notes while she was talking. Moreover, all
+participants were informed about the objectives of the study and their informed consent was
+taken. Participation in the study was voluntary and the participants were assured on the
+confidentiality and anonymity of the provided data.
+Results
+Through data analysis, the factors affecting MEMM were categorized in seven main themes
+and 22 subthemes (Table I). As follows, the definitions of each theme and subtheme are
+reported using the participants ’ direct quotations.
+Theme 1: resources
+This theme had three categories including “Physical Resources, ”“ Human Resources ” and
+“Financial Resources.” In general, the provision of resources is one of the main and effective
+items in MEMM in this regard. All interviewees underscored the importance of all of the
+above-cited resources.
+Themes Sub themes
+Resources Physical resources
+Human resources
+Financial resources
+Quality control Safety tests
+Performance tests
+Adjustment and calibration
+Documentation Providing medical devices ID (Identification)
+Use of local and global evidence
+Providing user manual
+Recording executive processes
+Education Technical and practical training
+Service Corrective maintenance (repair)
+Decommissioning
+Outsourcing
+Reform and improvement system
+Reporting adverse events and recall system
+Inspection and preventive maintenance (IPM) Periodic, internal, case and practical inspection
+Management processes to increase the life of the device
+Designing and implementation Knowledge and attitude
+Process management
+Purchasing management
+Table I.
+Themes and
+sub-themes of factors
+affecting medical
+equipment maintenance
+management
+131
+Influential
+factors on
+MEMM
+[PAGE 11]
+Physical resources
+Maintenance management relies on physical resources. These include workspace, tools and
+test equipment, supplies, replacement parts, and operation and service manuals needed to
+perform maintenance mechanisms. Workspace is one of the main factors in MEMM.
+The participants harbored these notions that lack of workspace for repair and maintenance
+of medical equipment is a great issue. Moreover, they stated that providing a safe and
+healthy work environment for staff and patients is required. One engineer gave the
+following explanation:
+“I would say that before the user we prepare our environment for the user. ” (P9) One of the other
+participants said: “Now when you go to hospitals, you can see that 90% of hospitals do not have
+a place for device repair ” (P6).
+Various tools and test equipment are required to perform maintenance activities, depending
+on the type of equipment in service. Some participants expressed that the existence of some
+facilities such as computers, printers and types of software are essential for the unit of
+biomedical engineering.
+Some experts commented on this issue: “Today some companies that work on the
+preventive maintenance have powerful software, but this software is related to the unit of
+medical equipment [ …] Also, the University of Medical Sciences is required to equip them
+with the software ” (P1):
+Medical engineering unit should have direct telephone line, fax and computer, but, none of them is
+available (P4).
+Human resources
+Many of the engineers pointed out that developing human resources is necessary to operate
+an effective maintenance program, so the first step is to identify the number and type of
+required staff. All participants reported that the provision of trained and skilled human
+resources was a main factor behind job satisfaction as illustrated by the following quotes:
+Supply of the fixed manpower is one of the factors affecting performance of biomedical
+engineering unit (P2).
+If the human resources are not expert, companies can abuse regulations (P8).
+Financial resources
+Financial resources for maintenance primarily focus on two tasks: monitoring costs and
+managing the budget. Furthermore, maintenance program is required for financial planning
+where the costs and benefits of the current situation and the new proposal can be compared.
+Therefore, it is better for each medical device in the hospital to have a history of all time and
+expenses associated with maintaining that device. According to the participants ’ opinions
+the budget for the implementation of medical (devices) equipment maintenance program
+should be estimated and funded. The interviewees commented on this issue:
+Maintenance management has preventive role in costs, while the cost of repair is high (P9).
+The allocation of funds for maintenance should be from hospital policies. For example, funds have
+been allocated for providing parts, calibration, maintenance and service (P6).
+Theme 2: quality control
+This theme emerged from three subthemes: “safety tests, ”“ performance tests ” and
+“adjustment and calibration. ” Generally, the quality control tests include tests of safety,
+performance and calibration.
+132
+JQME
+25,1
+[PAGE 12]
+Safety tests
+Most of the participants reported that safety is the first and most important step in the design,
+manufacture, installation, utilization and maintenance of medical equipment. There are various
+safety aspects to consider when implementing a successful and effective maintenance program,
+such as the safety of technical personnel. These tests are essential for patient and personnel.
+This ensures that when working on medical equipment it is essential for technical personnel to
+work safely in hazardous conditions. According to the interviewees:
+While quality control is easy in practice, if a simple device is impaired, it compromises patient
+safety (P14).
+Another engineer stated:
+If the electrical safety is not guaranteed, the patient may be injured from it and also users can ’t use
+the device with confidence (P11).
+Performance tests
+Performance tests of medical equipment require special training and equipment that include
+technical, functional, laboratory and clinical tests. Technical testing should be performed by
+authorized companies and agents, and other tests should be carried out by users. During the
+interview with the participants, none of them referred to performance tests. The study of
+documentation including guideline MEMM at health centers showed that performance tests
+are one of the quality control tests.
+Adjustment and calibration
+Calibration measures the outputs of device under test by the tester with accuracy at defined
+conditions and specified ranges. It includes adjusting medical equipment in order to achieve the
+desired precision and ensuring its operation based on international metrics. All participants
+believed that calibration is a principal factor in MEMM. One interviewee commented:
+I think calibration meaning an understanding of proper working of the device is a key element in
+maintenance management (P5).
+Another interviewee pointed out that:
+Calibration is not only to say that a device is calibrated or not [ …] calibration is something that
+says us what is wrong, and it soon returns to standard status (P8).
+Theme 3: documentation
+Documentation was the most dominant concept in this study. One of the fundamental
+responsibilities of a clinical engineering manager is the documentation of the maintenance
+processes and activities. Without proper documentation, maintenance and management
+of equipment will simply lead to inconsistent implementation and unpredictable outcomes.
+These data provide the inventory database of every maintenance task performed on
+the device.
+This theme consists of four subthemes: “providing ID for medical devices, ”“ the use of
+local and global evidence, ”“ provision of user manual ” and “recording executive processes.”
+Providing medical devices ID
+Medical equipment ID was expressed by the participants as another important factor in
+MEMM. Preparing and updating medical equipment ID is required for their proper
+management. Having the available information about medical equipment specifications is
+useful for its proper management. ID includes information such as a device specifications,
+133
+Influential
+factors on
+MEMM
+[PAGE 13]
+warranty status, service installations, acceptance tests, preventive maintenance, calibration,
+etc. An expert commented that:
+We have designed an intelligent system for medical devices for the first time in the country that
+indicates when the device is repaired, when calibrated, when serviced. This is called ID of a device (P7).
+One of the factors for improving maintenance management is documentation in the form of
+computer. In this regard, a computerized ID is designed but has not been implemented yet (P4).
+The use of local and global evidence
+Constant communication with scientific standard references is required in order to be
+informed on international standards and be up to date in the field of medical equipment.
+According to the ever increasing progress of medical equipment, utilization and mapping
+with the available scientific evidence can help to improve MEMM. One of the interviewees
+explained this in these terms:
+We are not connected with standard references scientifically in the world.
+Adequate studies have not been conducted about medical equipment maintenance management in
+our country (P1).
+Providing user manual
+Ideally, the maintenance program will have an operation (user) manual for each model of
+medical equipment. The operation manual is essential and valuable for equipment users and
+for equipment technicians. Unfortunately, operation manuals are not always available, or
+may be in a language not spoken or understood by equipment technicians. One engineer
+expressed that:
+After the user training, provision of user manual for equipment is important [ …] Also, attachment
+of the user guide on the device can be regarded as a primary training for users (P9).
+Another participant added that:
+One of the influencing factors in maintenance management is labeling and provision of user manual
+which is among the duties of biomedical engineering unit (P5).
+Recording executive process
+Recording and maintaining information on medical equipment and their classification in the
+form of an ID according to international standards are essential for hospitals. An archive of
+related activities is a requisite for the continuity of maintenance program such as: costs
+associated with repairs, installation, and calibration. These data are typically contained in
+work order records that provide documentation of every maintenance task performed on the
+device. For instance, one interviewee commented that:
+Through computerized ID, accurate and updated documentation is available (P7).
+Another participant stated:
+All reports about inspections, preventive maintenance or related forms need to be documented (P11).
+Theme 4: education
+This theme refers to user and biomedical engineer training that includes “technical and
+practical training.” For the safety of the patient and the user, proper training is critical for
+both the user and the technical staff. Engineers or technicians must undergo additional
+training because medical equipment is highly specialized and if improperly maintained or
+repaired, it may have adverse consequences on human life.
+134
+JQME
+25,1
+[PAGE 14]
+Technical and practical training
+User training means implementation, maintenance and presentation of report on the
+performance of devices. Technical training implies the principles and methods of
+maintenance, calibration, initial repairs and medical equipment management concepts.
+Engineers or technicians need to have proper training because medical equipment is highly
+specialized and if improperly maintained or repaired, it may have adverse consequences on
+human life. One of the interviewees commented on this issue:
+There are two types of training: ongoing education and training after device installation (P10).
+Another participant believed that:
+User training plays an important role in medical equipment maintenance because if users don ’t
+learn the proper usage of the device, it may destroy the device (P14).
+Theme 5: service
+This theme emerged from five subthemes whi ch engineers described as factors affecting
+MEMM: “Repair,”“ Decommissioning, ”“ Outsourcing, ”“ Reform and improvement system ”
+and “Reporting adverse events and recall system. ” According to the study documents,
+it was found that the interviewees did not mention the last two factors.
+Service activities refer to report of unpleasant disasters, calling medical devices (equipment),
+correction or upgrades of medical devices (equipment), repair and maintenance contracts.
+Corrective maintenance (repair)
+A process is used to restore the physical integrity, safety, and/or performance of a device
+after a failure. In order to return a device to its full functionality, efficient repair is required
+to verify the failure and determine its origin. Many of the engineers said that repair work on
+the most sophisticated medical equipment is only accomplished by highly trained specialists
+or reliable companies. In this regard, an interviewee stated that:
+Whatever more investment in medical equipment maintenance, requirement to repair them
+becomes less and thereby reduced repair costs (P5).
+Nowadays repair is known completely in hospitals, but still there are deficiencies in the field of
+maintenance.
+Another participant mentioned that: “Repair is part of maintenance as maintenance is related to
+before equipment failure and repair refers to after it ” (P4).
+Decommissioning
+Decommissioning process is important for decision-making in providing alternative and
+obtaining the necessary funds. In the process of scrapping, it is essential to report involved
+costs, future necessary costs, affordable repairs to ensure the safety and performance of the
+device during use, funding for replacement, the importance of devices, measure of device
+downtime and disruption created in performance of the medical center and patient ’s
+dissatisfaction. One of the engineers stated:
+We found the new equipment in outdated devices stock of hospitals which is a waste of
+resources (P8).
+Another interviewee indicated that: “Clinical engineers should be aware of the
+decommissioning process [ …] when residual value of a device is less than 20%, one can
+scrap it ” (P13).
+135
+Influential
+factors on
+MEMM
+[PAGE 15]
+Outsourcing
+Service contracts and maintenance are not necessary; however, they are recommended to
+increase the setup time of devices (up time) and decrease their downtime. In this regard,
+third-party companies play an important role. One interviewee commented:
+Usually service and maintenance contracts are for vital and capital devices (P12).
+Also two of the interviewees mentioned: “In order to repair and complete quality control
+tests, there should be contracts with a company that is qualified and provide exclusive
+services for the device ” (P1, 2).
+Reform and improvement system
+“According to the maintenance guideline, the process of upgrading and reforming the
+medical device in the treatment center needs to be done under the supervision of the medical
+engineering unit and by the manufacturer of the device or its legal representative.
+This factor is applicable through hardware and software by adding new smithereens and
+tools and through software updating ” (Doc2).
+Reporting adverse events and recall system
+“An adverse event is an incident that results in death or serious injury to the patient, the
+user of the devices or any other person. According to the participants, observing the
+criteria for reporting incidents and recalli ng medical equipment are required. Adverse
+events should be reported to the manufacturer of the medical device or their legal
+representatives as well as to the medical equ ipment department. This report should be
+prepared in written format and according to the framework set by the medical equipment
+department. The producing company or its l egal representative is required to design
+and implement the supervision system for quality and the performance of medical
+devices. The users should be made aware o f the problem occurrence in the medical
+equipment in terms of performance, safety, effectiveness and/or non-compliance with the
+requirements ” (Doc 2).
+Theme 6: inspection and preventive maintenance
+This theme comprises three subthemes: “management processes to increase the life of the
+device” and “periodic, internal, case and practical inspection. ” Inspection refers to the
+evaluation and monitoring of all operations that include a variety of quality control tests of
+medical equipment, study facilities and ancillary facilities related to equipment, different
+inspections and assessment of the performance of technical personnel. Management
+processes to increase the life of a device involves maintenance performed to extend its life
+and prevent failure. These processes are sometimes referred to as “planned maintenance” or
+“scheduled maintenance. ” The most appropriate method for scheduling maintenance in a
+particular health-care facility should be chosen.
+Periodic, internal, case and practical inspection
+Generally, there are two types of inspections, including equipment inspection and
+practical inspection. Equipment inspectio n is divided into three types of inspections:
+periodic, internal and case inspections. Pract ical inspection includes inspection of space
+and environment, the use of a medical device, and its storage and transportation. The use
+of inspection can make the difference between having reliable and properly functioning
+equipment or not. Almost all participants me ntioned the importance of proper inspection,
+136
+JQME
+25,1
+[PAGE 16]
+b u tm o s to ft h e mh a di n a d e q u a t ei n f o r m a t i o nabout types of inspections. For example, one
+interviewee commented that:
+When you do not have a guideline [ …] a person who inspects biomedical engineering unit will
+inspect personalization in fact (P1).
+We utilize inspection from self-made and accredited checklists (P2).
+Management processes to increase the life of the device (preventive maintenance)
+Preventive maintenance is performed to extend the life of the device and prevent failure.
+These processes are usually scheduled at specific intervals and include specific maintenance
+activities such as lubrication, cleaning (e.g. filters) or replacing parts. Almost all participants
+noted the importance of this item, for example: “preventive maintenance must be performed
+properly. “Unfortunately, we can ’t implement preventive maintenance fully because we
+don’t have adequate knowledge about it ” (P3).
+Another interviewee added that: “If preventive maintenance is not well monitored in a
+hospital, patients ’ lives are in grave danger ” (P7).
+Theme 7: designing and implementation
+This concept refers to several management aspects. This theme is composed of three sub-
+themes: “processes management,”“ knowledge and attitude” and “purchasing management.”
+Each sub-theme is explained in the following section.
+Process management
+A good number of the participants emphasized various aspects of the activities and
+management of the processes. In this context, from the perspective of research participants,
+these are very important items such as specification of access level to medical equipment,
+development and determination of policy, weakness in management infrastructure, long
+bureaucratic processes and codification of action plan. According to the interviewees:
+We spent about 20% for maintaining our devices because we do not have appropriate management
+and planning (P8).
+Another participant said: “Heavy workload and long administrative procedures are other
+factors that they make. Thus, we assign the second priority to maintenance ” (P4).
+Knowledge and attitude
+Level of knowledge and attitudes of managers and clinical engineers are significant in
+decision-making and in the implementation of the processes and maintenance of activities.
+In fact, all the taken measures reflect the attitude of the owners of the processes. In this
+regard, an interviewee stated that:
+Clinical engineers and users do not have sufficient knowledge with the term maintenance
+management (P8).
+Another interviewee argued that:
+Maintenance and repair are analogous to prevention and treatment in that treatment is more costly
+[…] Most medical facilities do not take maintenance seriously (P13).
+Purchasing management
+Effective management in the clinical engineering department primarily requires a correct
+selection of medical devices. Therefore, purchasing medical equipment must occur following
+a specific procedure. The purchasing management objective is buying devices and
+137
+Influential
+factors on
+MEMM
+[PAGE 17]
+equipment of the right quality, in the right quantity, at the right time, at the right price, and
+from the right source. One of the interviewees stated that:
+One of the objectives of maintenance is to purchase from reliable companies that there are on IMED
+website and this prevents the contraband (P2).
+Another participant mentioned:
+Purchase of medical equipment should be based on hospital ’s need (P3).
+Our findings showed all the influential factors (mentioned in this study) on MEMM are
+interrelated to each other Figure 1.
+Three factors including quality control, inspection and service are complementary to
+each other, indicating a mutual relationship among them. As can be observed, inspection
+includes monitoring quality control tests. Education is relevant to human resource factor,
+which includes user and clinical engineer training. Preventive maintenance and repair are
+two types of complementary maintenance programs. Preventive maintenance includes
+management processes to increase durability of a device and prevent its failure. Repair
+includes management processes to restore physical conditions, safety, and performance of
+the systems after failure. Documentation is associated with each factor, meaning that all
+maintenance administrative processes should be documented and saved. Design and
+implementation are the setting for this framework. This indicates that all six factors are
+deployed and implemented through design and implementation.
+Discussion
+This study provided an in-depth and rich description of the influential factors on
+maintenance management. Our findings directly pointed out the importance of factors on
+affecting maintenance management and the related concepts were extracted. One of the
+studies concluded in developing countries reported that the useful life of the equipment
+under regular maintenance programs were on average double the useful life of the
+equipment that was not covered through this program (Halbwachs, 2000). This study
+showed that consideration of influential factors on maintenance management results
+increased patient satisfaction and cost reduction. Our findings are consisting with those of
+Hasper (1991) who reported that the implementation of medical equipment management
+program boosts customer satisfaction while minimizing costs (Hasper, 1991).
+Factors Affecting on Medical
+Equipment Maintenance Management
+Resources
+Physical
+Human
+Financial
+Practical
+training
+Technical
+training Safety tests
+Performance
+tests
+Outsourcing
+Decommissioning
+Corrective
+maintenance
+(repair) Periodic, Internal, Case
+and Practical inspection
+Management processes
+to increase the life of
+the device
+Recording
+executive processes
+User manual
+The use of local
+and global evidence
+Providing medical
+devices ID
+Design and implementation:
+Knowledge and attitude
+Process management
+Purchasing management
+Reform and
+Improvement system
+Reporting adverse events
+and Recall system
+Adjustment
+and
+Calibration
+Education Quality control Service Inspection and preventive
+maintenance (IPM)
+Documentation
+Figure 1.
+Framework of medical
+equipment
+maintenance
+management (MEMM)
+138
+JQME
+25,1
+[PAGE 18]
+Almost all participants stated that complete and correct implementation of preventive
+maintenance is effective in reducing medical device failure. In the study about the influence of
+maintenance on the survival medical equipment, concluded that preventive maintenance
+implementation is effective in increasing device longevity (Khalaf et al., 2013).
+The first step in the proper management of medical equipment is planning (Aghaei, 2003).
+According to the findings of this study, poor planning and management infrastructure are the
+main culprits behind weaknesses in maintenance management.
+Conducted in one of the Latin American countries, showed that there is a dire shortage in
+the number of qualified people to work with medical technical equipment maintenance. He
+found that 44 percent of medical instruments were lacked even engineering or medical
+technicians (Maxwell, 1985). Our study showed that inspection and maintenance of medical
+equipment is effective for its function. Also another study surveyed the medical equipment
+management systems in developing countries and demonstrated that 60 percent of medical
+equipment cannot be used for different reasons. In Iran, nearly 60 percent of medical devices in
+hospitals affiliated to medical sciences universities had not been inspected by the staff (Noori
+Tajer et al., 2002). Our findings prove that the inspection of medical equipment is essential and
+a necessary factor for maintenance management. Performance and safety control, activities
+documentation, using computerized systems for preventive maintenance were among the
+issues that mentioned in the designing a model of Medical Equipment Management for Iranian
+hospitals (Nasiripour and Jadidi, 2008). Also, the Walsh’s study suggests that by creating an
+efficient and proper maintenance system, capital equipment can be preserved, and this could
+improve the effectiveness of hospital facilities (Walsh, 1995). While confirming the above-cited
+studies, our findings showed that consideration of the factors affecting maintenance
+management is necessary for reducing costs as well as decreasing amortization and failure of
+medical devices and disorder in the treatment of patients.
+In terms of applicability, repair and maintenance, medical and hospital instruments are
+not well kept in developing and even developed countries. This negligence leads to waste of
+resources in the health sector (Boisvert, 1978). The investigated wards in the study failed to
+meet the expectations and requirements in terms of medical device management.
+There were not in desirable situations for the usability of devices and use of informational
+electronic system in these hospitals (Dargahi et al., 2014).
+Management of biomedical engineering in h ospitals involved experienced and expert
+staff who takes over the purchase, procurement and distribution of medical and
+laboratory equipment is instrumental in cost- effectiveness (Remmelzwaal, 1997). In this
+regard, our findings showed that provision of trained and expert human resources is the
+first and pivotal step in establishing an effective maintenance program and purchasing
+management affecting maintenance management. Furthermore, in our findings, most of
+the participants stated that maintenance is most often ignored. Some of the findings of the
+present study had already been discussed in th e cited studies, but they were striking
+differences in objectives. Policy makers and m anagers can provide a context for evidence
+informed decision making using the result so ft h i ss t u d yt oi m p r o v et h ee f f i c i e n c yo f
+maintenance management in health care system.
+Strengths and limitations
+In our knowledge, this study is the first comprehensive study of its-kind addressing all of
+the factors affecting an effective and efficient MEMM. It offers a comprehensive structure
+for evaluating the status of MEMM.
+Although interviewees provided in-depth and convincing information on the issue, but
+lack of enough information concerning the concept of maintenance management was the
+most notable challenge. Many of the participants similarly defined the concepts of
+preventive maintenance and maintenance management.
+139
+Influential
+factors on
+MEMM
+[PAGE 19]
+Recommendations
+This study provided insight into which elements of the MEMM the participants found most
+helpful. The findings demonstrate that implementation of a proper maintenance management
+depends on resources including financial, human resources, physical, documentation, training
+and education, IPM, quality control, design and implementation, and service. Moreover, these
+factors play an important role in developing and adopting the most effective maintenance
+strategies. A major share of hospital costs is allocated to the procurement of medical
+equipment annually. However, the related management or maintenance is particularly weak in
+hospitals. It is essential for any health-care facility to implement a maintenance program for
+medical equipment. An effective maintenance management of medical devices increases
+efficiency and productivity of health technology resources, which is especially important
+when resources are limited. This leads patients to have access to medical equipment that can
+provide them with an accurate diagnosis, effective treatment or appropriate rehabilitation.
+The findings of this study underscore the fact that fulfillment of these objectives requires
+establishing a framework for the development of MEMM. Several factors affect the MEMM
+considering each of which is important for improving functionality of the devices and
+providing health care services to the patients. Also, in our context, most medical engineers are
+less informed about the concept of maintenance management and that explains why there is
+little attention to maintenance of medical equipment. The extracted factors can help to
+managers and engineers in evaluating maintenance management systems and offer options
+and interventions to decision makers or policy makers for the improvement of such systems.
+This framework provides for the development of national essential health technology
+programs that will have a positive impact on the burden of disease and ensure effective use of
+resources. Also, it can help to identify and modify innovative technologies that can have a
+significant impact on public health. Further research into maintenance management is
+warranted to improve quality in this field. Themes derived from this study can be subjects
+for further research in Iran and in other countries.
+References
+Aghaei, H.B. (2003), “Study of the state of the maintenance management of medical equipment in
+NASA hospitals ”, thesis Master of Health Services Management, Tehran.
+Ameriyoon, A., Hamze Aghaei, B. and Mohebi, H. (2007), “Assessing the medical equipment
+maintenance management at two hospitals military in contery ”, Journal of Military Medicine ,
+Vol. 9 No. 3, pp. 189-195.
+Ameriyoon, A., Tofighi, S. and Zaboli, R. (2006), “Assessing the medical equipment maintenance
+management at selected hospitals affiliated with the medical sciences universities in Tehran
+(2003-2005)”, Journal of Health Administration , Vol. 9 No. 23, pp. 17-24.
+Ameriyoon, A., Zaboli, R., Shokri, M., Aghighi, A. and Sadeghi, A. (2014), “Study of medical
+equipment maintenance mana gement in NAJA hospitals ”, Journal of Police Medicine ,V o l .3
+N o .2 ,p p .1 0 7 - 1 1 4 .
+Augustýnek, M., Laryš, D., Kubíček, J., Marešová, P. and Ku ča, K. (2018), “Use effectiveness of medical
+devices: a case study on the deployment of ultrasonographic devices ”, Therapeutic Innovation &
+Regulatory Science , Vol. 52 No. 4, pp. 499-506.
+Boisvert, F.A. (1978), “Considerations in developing an effective biomedical equipment repair program”,
+Journal of Clinical Engineering,V o l .3N o .1 ,p p .6 1 - 6 3 .
+Boyd, C.O. (1989), “From practice to grounded theory: qualitative research in Nursing Menlo Park, CA:
+Addison-Wesley”, Nursing Science Quarterly , Vol. 2 No. 1, pp. 53-54.
+Bracale, M. and Pepino, A. (1994), “Medical technologies in developing countries: a feasibility study on
+the maintenance of medical equipment in Ethiopia ”, Medical and Biological Engineering and
+Computing, Vol. 32 No. 2, pp. 131-137.
+140
+JQME
+25,1
+[PAGE 20]
+Campbell, J.D. and Jardine, A.K. (2001), Maintenance Excellence: Optimizing Equipment Life-Cycle
+Decisions, CRC Press, Boca Raton, FL.
+Cheng, M. and Dyro, J.F. (2004), “Good management practice for medical equipment ”, in Dyro, J.F.
+(Ed.), Handbook of Clinical Engineering , Chapter 31, Elsevier Academic Press, Cambridge, MA,
+pp. 108-110.
+Dargahi, H., Forouzanfar, F., Bakhtiari, M. and Rajabnejad, Z. (2014), “Study of medical devices
+management with the approach of evaluation of usability in Tehran University of Medical
+Sciences Hospitals ”, Journal of Hospital , Vol. 13 No. 1, pp. 43-51.
+Downe-Wamboldt, B. (1992), “Content analysis: method, applications, and issues ”, Health Care for
+Women International , Vol. 13 No. 3, pp. 313-321.
+Duffuaa, S., Al-ghamdi, A. and Al-amer, A. (2002), “Quality function deployment in maintenance work
+planning process ”, Proceedings of the 6th Saudi Engineering Conference KFUPM, Vol. 4,
+Dhahran, Kingdom of Saudi Arabia , December, pp. 503-512.
+Dyro, J.F. (Ed.) (2004), “Equipment control and asset management, computerized maintenance
+management systems”, Clinical Engineering Handbook , Chapter 35, Vol. 1, Elsevier Academic
+Press, Cambridge, MA, pp. 122-130.
+Halbwachs, H. (2000), “Maintenance and the life expectancy of healthcare equipment in developing
+economies”, Health Estate , Vol. 54 No. 2, pp. 26-31.
+Hasper, J.R.K. (1991), “Centralized maintenance responsibilities: a case study ”, Journal of Clinical
+Engineering, Vol. 16 No. 3, pp. 191-206.
+Hsieh, H.-F. and Shannon, S.E. (2005), “Three approaches to qualitative content analysis ”, Qualitative
+Health Research , Vol. 15 No. 9, pp. 1277-1288.
+Jamshidi, A., Rahimi, S.A., Ait-kadi, D. and Bartolome, A.R. (2014), “Medical devices inspection and
+maintenance; a literature review”, IIE Annual Conference. Proceedings, Institute of Industrial and
+Systems Engineers (IISE) , p. 3895.
+Khalaf, A., Hamam, Y., Alayli, Y. and Djouani, K. (2013), “The effect of maintenance on the
+survival of medical equipment ”, Journal of Engineering, Design and Technology , Vol. 11 No. 2,
+pp. 142-157.
+Kinley, C.A. (2012), Healthcare Technology: A Strategic Approach to Medical Device Management , East
+Tennessee State University, Johnson City.
+Krippendorff, K. (2004), Content Analysis: An Introduction to its Methodology , Sage, New York, NY.
+Mahady, J., Mccullaghi, J., Grainger, P.B. and Kinsella, R. (2002), “Equipment management systems for
+use in developing countries ”, IEE Seminar on Appropriate Medical Technology for Developing
+Countries IEE , London, February 6 .
+Maxwell, R.J. (1985), “Resource constraints and the quality ”, Lancet, Vol. 34 No. 2, pp. 936-939.
+Morse, J.M. and Field, P.A. (1995a), Qualitative Research Methods for Health Professionals , Vol. 2,
+Sage Publications, Thousand Oaks, CA.
+Nasiripour, A.A. and Jadidi, R. (2008), “Designing a model of medical equipment management for
+Iranian hospitals, 2007 ”, Arak Medical University Journal , Vol. 11 No. 1, pp. 97-108.
+Noori Tajer, M., Dabaghi, F., Mohamadi, R. and Haghani, H. (2002), “A survey of maintenance and cost
+of medical equipment in hospitals associated of Iran university of medical sciences and health
+services (2000-2001) ”, Razi Journal of Medical Sciences , Vol. 9 No. 30, pp. 445-454.
+Painter, F. and Baretich, M. (2011), Medical Equipment Maintenance Programme Overview , World
+Health Organization Press, Geneva.
+Palesh, M., Tishelman, C., Fredrikson, S., Jamshidi, H., Tomson, G. and Emami, A. (2010), “We noticed
+that suddenly the country has become full of MRI. Policy makers ’ views on diffusion and use of
+health technologies in Iran ”, Health Research Policy and Systems , Vol. 8 No. 9, pp. 1-10.
+Pope, C., Ziebland, S. and Mays, N. (2000), “Qualitative research in health care: analysing qualitative
+data”, British Medical Journal , Vol. 320 No. 7227, pp. 114-116.
+141
+Influential
+factors on
+MEMM
+[PAGE 21]
+Remmelzwaal, B.L. (1997), “The effective management of medical equipment in developing countries ”,
+FAKT–Consult for Management, Training and Technologies GmbH, Project (390) , available at:
+www.faktconsult.de/healthcare_tech(1997) (accessed March 29, 2008).
+Sandelowski, M. (1995), “Qualitative analysis: what it is and how to begin ”, Research in Nursing &
+Health, Vol. 18 No. 4, pp. 371-375.
+Stiefel, R.H. (2009), Medical Equipment Management Manual , 7th ed., AAMI, Annapolis Junction, MD.
+Tong, A., Sainsbury, P. and Craig, J. (2007), “Consolidated criteria for reporting qualitative research
+(COREQ): a 32-item checklist for interviews and focus groups ”, International Journal for Quality
+in Health Care , Vol. 19 No. 6, pp. 349-357.
+Walsh, T.J. (1995), “Total quality management, the ISO 9002 protocol and reconditioned diagnostic
+imaging equipment”, Proceedings of the National Forum: Military Telemedicine On-Line Today
+Research, Practice, and Opportunities, IEEE , pp. 173-177.
+Wang, B. (2012), “Medical equipment maintenance: management and oversight ”, Synthesis Lectures on
+Biomedical Engineering , Vol. 7 No. 2, pp. 1-85.
+Wang, B. and Levenson, A. (2000), “PEER REVIEW PAPER: equipment inclusion criteria-a new
+interpretation of JCAHO ’s medical equipment management standard ”, Journal of Clinical
+Engineering, Vol. 25 No. 1, pp. 26-35.
+Wang, B. and Rice, W.P. (2003), “JCAHO’s equipment inclusion criteria revisited –application of
+statistical sampling technique ”, Journal of Clinical Engineering , Vol. 28 No. 1, pp. 37-48.
+Wang, B., Eliason, R.W., Richards, S.M., Hertzler, L.W. and Koenigshof, S. (2008), “Clinical engineering
+benchmarking: an analysis of American acute care hospitals ”, Journal of Clinical Engineering ,
+Vol. 33 No. 1, pp. 24-27.
+Wang, B., Rui, T., Fedele, J., Balar, S., Alba, T., Hertzler, L.W. and Poplin, B. (2012), “Clinical engineering
+productivity and staffing revisited: how should it be measured and used? ”, Journal of Clinical
+Engineering, Vol. 37 No. 4, pp. 135-145.
+Wang, Z.H. (2014), “Application research on the internet in the management of medical equipment
+maintenance”, Applied Mechanics and Materials , Vols 651-653, pp. 1535-1538.
+WHO (2011), “Medical equipment maintenance programme overview”, World Health Organization Press,
+Geneva, available at: www.who.int
+Further reading
+Miles, M.B. and Huberman, A.M. (1994), Qualitative Data Analysis: An Expanded Sourcebook , Sage,
+New York, NY.
+Morgan, D.L. (1993), “Qualitative content analysis: a guide to paths not taken ”, Qualitative Health
+Research, Vol. 3 No. 1, pp. 112-121.
+Morse, J.M. and Field, P.-A. (1995b), Nursing Research: The Application of Qualitative Approaches ,
+Nelson Thornes, Cheltenham.
+National Medical Device Directorate (2009), “N. M. D. medical equipment maintenance management
+criteria of the Ministry of Health and Medical Education of Iran ”, available at: www.fda.gov.ir/
+uploads/59654f7fc6cbc314a8be0776c15f08fe.pdf
+142
+JQME
+25,1
+[PAGE 22]
+Appendix. Interview guide
+Number of Interviewee:
+Date and venue:
+Position of interviewee:
+1. Please introduce yourself and briefly describe your work experience.
+2. Please explain your general perception of medical equipment maintenance management.
+3. Please explain the role of medical equipment maintenance management in hospitals?
+4. What is the process of medical equipment maintenance in your hospital?
+5. How is the medical equipment maintenance management in hospitals currently
+    evaluated? What are the bottlenecks and shortcomings? Is there an instruction for
+    evaluation?
+6. What factors affect the assessment of medical equipment maintenance management in
+    hospitals?
+7. What do you know about the most important activities and responsibilities associated
+    with the repair and maintenance of medical equipment?
+8. Do the clinical engineers and medical equipment users have the necessary training in this
+    area?
+9. What are the challenges and obstacles to implementation of the medical equipment
+    maintenance in health centers, in special hospitals?
+10. What are your suggestions for improving medical equipment maintenance management?
+11. As a final question, is there anything else you would like to say about medical equipmen
+t
+      maintenance management?
+About the authors
+Rona Bahreini is MSc Candidate in the School of Health Management and Medical Informatics, Tabriz
+University of Medical Sciences, Tabriz, Iran. She holds BA in Health Care Administrative from the
+School of Health Management and Medical Informatics in 2011.The current review is a part of MSc
+Degree in Management and Medical Informatics.
+Dr Leila Doshmangir is PhD in Health Policy. She was born in 1983. She is Graduated BA in Health Care
+Administrative from Tehran University of Medical Sciences in 2006, MS in Health Care Administrative
+from Tehran University of Medical Sciences in 2009 and PhD in Health Policy from Tehran/Iran University
+of Medical Sciences in 2014. Her current research inte rests are centered on the field of health policy,
+qualitative research, research methodology, health care administrative, etc. Currently she is working as
+Teacher at the Tabriz University of Medical Sciences. She is Vice Chancellor, Center of Excellence in Health
+Management. She is also a member of the Health Policy Council of Tabriz University of Medical Sciences.
+Dr Leila Doshmangir is the corresponding author and can be contacted at: doshmangirl@tbzmed.ac.ir
+Dr Ali Imani is PhD in Pharmacoeconomics and Pharmaceutical Management. He was born in 1980. He
+graduates MS in Health Economics from School of Health management in 2007, Iran University of Medical
+Sciences, Tehran, PhD from University of Shahid Beheshti Medical Science, Tehran, Iran in 2012. Currently
+he is working as Teacher at the Tabriz University of Medical Sciences. He is also a member of the Iranian
+Association of Pharma Management and Economics, the International Society for Pharmacoeconomics and
+Outcomes Research, health services management research center, etc. His current research interests are
+centered in the field of economic evaluation in health care, health economics, managerial finance, etc.
+For instructions on how to order reprints of this article, please visit our website:
+www.emeraldgrouppublishing.com/licensing/reprints.htm
+Or contact us for further details: permissions@emeraldinsight.com
+143
+Influential
+factors on
+MEMM
+[PAGE 23]
+Reproduced with permission of copyright owner. Further
+reproduction prohibited without permission.
+[PAGE 24]
+EXHIBIT 21 
+[PAGE 25]
+
+[PAGE 26]
+
+[PAGE 27]
+
+[PAGE 28]
+
+[PAGE 29]
+
+[PAGE 30]
+
+[PAGE 31]
+
+[PAGE 32]

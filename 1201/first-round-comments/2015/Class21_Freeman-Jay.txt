@@ -1,0 +1,33 @@
+[PAGE 1]
+Short Comment Regarding a Proposed Exemption (Under 17 U.S.C. 1201) 
+Item 1. Commenter Information  
+Jay Freeman (saurik); +1 (805) 895­7209; saurik@saurik.com; SaurikIT, LLC (Member) 
+Mailing Only: 8605 Santa Monica Boulevard #21162; West Hollywood, CA 90069, USA 
+Item 2. Proposed Class Addressed 
+Proposed Class 21: Vehicle software – diagnosis, repair, or modification 
+Item 3. Statement Regarding Proposed Exemption 
+ 
+During the years of 2006 through 2008, I worked for a California firm called The Okori Group. 
+One of our clients was Vetronix, a leading manufacturer of independent / third­party vehicle 
+diagnostic scanners, where I designed and implemented their new tool: the MasterTech VCI. 
+ 
+The most interesting story I have about this product, however, is the day that I became a user. 
+ 
+I had, for a long time, owned a 1987 Cadillac Deville. This vehicle was very old, and many 
+would assume to be totally "obsolete", but actually came out just after computers became 
+popular for usage in cars: it has a computerized fuel injection, and has a smog access port. 
+ 
+I was having the stereotypical "strange warning light comes on occasionally" problem, and the 
+dealer had no idea what was wrong. Frankly, they didn't seem to even have the tools required 
+to still diagnose any of the issues with my car (assuming those tools ever worked well before). 
+ 
+Vetronix, however, had over the years built alternative implementations of all of the protocols 
+used by all of these older cars, so I was able to dig through the parts bin, find the adapter to 
+plug a real MasterTech (non­VCI) unit into my car's pre­OBD­II GM OBD port, and took her 
+out for a spin: when the light turned on, I pulled the error code, and shocked the engineers at 
+my dealer, who were then able to fix the problem with a couple hours of trivial mechanics. 
+ 
+Had Vetronix not been able to implement these alternative tools, I may never have been able 
+to figure out what was wrong with my car. With that one tool—the MasterTech, and later the 
+new MasterTech VCI—you can diagnose the issues of virtually any car with a reasonably 
+consistent user interface: I think that is powerful, and extends the longevity of these vehicles. 

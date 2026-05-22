@@ -1,0 +1,4095 @@
+[PAGE 1]
+65260 Federal Register / Vol. 77, No. 208 / Friday, October 26, 2012 / Rules and Regulations 
+From To MEA 
+*10000—MRA 
+#GNSS MEA 
+From To MEA MAA 
+§ 95.7528 JET ROUTE J528 Is Amended To Delete 
+WHATCOM, WA VORTAC ............................................... U.S. CANADIAN BORDER .......................................... .... 18000 45000 
+Airway segment Changeover points 
+From To Distance From 
+§ 95.8003 VOR Federal Airway Changeover Points V1 
+CHARLESTON, SC VORTAC .................................... GRAND STRAND, SC VORTAC ............................... 46 CHARLESTON 
+Is Amended To Add Changeover Point V208 
+SANTA CATALINA, CA VORTAC .............................. OCEANSIDE, CA VORTAC ...................................... 31 SANTA CATAL INA 
+Is Amended To Add Changeover Point V27 
+SANTA CATALINA, CA VORTAC .............................. OCEANSIDE, CA VORTAC ...................................... 31 SANTA CATAL INA 
+Is Amended To Add Changeover Point V34 
+ROCHESTER, NY VOR/DME .................................... HANCOCK, NY VOR/DME ........................................ 60 ROCHESTE R 
+Is Amended To Add Changeover Point V458 
+SANTA CATALINA, CA VORTAC .............................. OCEANSIDE, CA VORTAC ...................................... 31 SANTA CATAL INA 
+[FR Doc. 2012–26334 Filed 10–25–12; 8:45 am] 
+BILLING CODE 4910–13–P 
+LIBRARY OF CONGRESS 
+Copyright Office 
+37 CFR Part 201 
+[Docket No. 2011–7] 
+Exemption to Prohibition on 
+Circumvention of Copyright Protection 
+Systems for Access Control 
+Technologies 
+AGENCY: Copyright Office, Library of 
+Congress. 
+ACTION: Final rule. 
+SUMMARY: Having duly considered and 
+accepted the Recommendation of the 
+Register of Copyrights that the 
+prohibition against circumvention of 
+technological measures that effectively 
+control access to copyrighted works 
+shall not apply to persons who engage 
+in noninfringing uses of certain classes 
+of copyrighted works, the Librarian of 
+Congress is exercising his authority to 
+publish a new rule designating classes 
+of copyrighted works that shall be 
+subject to statutory exemption. 
+DATES: Effective Date: October 28, 2012. 
+FOR FURTHER INFORMATION CONTACT : 
+Jacqueline C. Charlesworth, Senior 
+Counsel to the Register of Copyrights, 
+Office of the Register of Copyrights, by 
+email at jcharlesworth@loc.gov; 
+Christopher S. Reed, Senior Advisor for 
+Policy & Special Projects, Office of the 
+Register of Copyrights, by email at 
+creed@loc.gov; or call the U.S. Copyright 
+Office by phone at 202–707–8350. 
+SUPPLEMENTARY INFORMATION: The 
+Librarian of Congress, upon the 
+recommendation of the Register of 
+Copyrights, has determined that the 
+prohibition against circumvention of 
+technological measures that effectively 
+control access to copyrighted works 
+shall not apply to persons who engage 
+in noninfringing uses of certain classes 
+of works. This rulemaking is the 
+culmination of a proceeding initiated by 
+the Register on September 29, 2011. A 
+more comprehensive statement of the 
+background and legal requirements of 
+the rulemaking, a discussion of the 
+record, and the Register’s analysis are 
+set forth in the Register’s 
+Recommendation, which was 
+transmitted to the Librarian on October 
+12, 2012. A copy of the 
+Recommendation may be found at 
+www.copyright.gov/1201/. This notice 
+summarizes the Register’s 
+Recommendation, announces the 
+Librarian’s determination, and 
+publishes the regulatory text codifying 
+the exempted classes of works. 
+I. Background 
+A. Statutory Requirements 
+The Digital Millennium Copyright Act 
+(‘‘DMCA’’) was enacted to implement 
+certain provisions of the WIPO 
+Copyright Treaty and WIPO 
+Performances and Phonograms Treaty. It 
+established a wide range of rules for the 
+digital marketplace that govern not only 
+copyright owners, but also consumers, 
+manufacturers, distributors, libraries, 
+educators, and online service providers. 
+Chapter 12 of Title 17 of the United 
+States Code prohibits the circumvention 
+of certain technological measures 
+employed by or on behalf of copyright 
+owners to protect their works 
+(‘‘technological measures’’ or ‘‘access 
+controls’’). Specifically, Section 
+1201(a)(1)(A) provides, in part, that 
+‘‘[n]o person shall circumvent a 
+technological measure that effectively 
+controls access to a work protected’’ by 
+the Copyright Act. In order to ensure 
+that the public will have the continued 
+ability to engage in noninfringing uses 
+of copyrighted works, however, 
+subparagraph (B) limits this prohibition. 
+It provides that the prohibition shall not 
+apply to persons who are users of a 
+copyrighted work in a particular class of 
+works if such persons are, or in the 
+VerDate Mar<15>2010 18:46 Oct 25, 2012 Jkt 229001 PO 00000 Frm 00008 Fmt 4700 Sfmt 4700 E:\FR\FM\26OCR1.SGM 26OCR1emcdonald on DSK67QTVN1PROD with RULES
+
+[PAGE 2]
+65261 Federal Register / Vol. 77, No. 208 / Friday, October 26, 2012 / Rules and Regulations 
+succeeding three-year period are likely 
+to be, adversely affected by virtue of the 
+prohibition in their ability to make 
+noninfringing uses of such works, as 
+determined in this rulemaking 
+proceeding. 
+The proceeding is conducted by the 
+Register of Copyrights, who is to 
+provide notice of the proceeding, seek 
+comments from the public, consult with 
+the Assistant Secretary for 
+Communications and Information of the 
+Department of Commerce, and 
+recommend final regulations to the 
+Librarian of Congress. According to 
+Section 1201(a)(1)(D), the resulting 
+regulations, which are issued by the 
+Librarian of Congress, announce ‘‘any 
+class of copyrighted works for which the 
+Librarian has determined, pursuant to 
+the rulemaking * * * that noninfringing 
+uses by persons who are users of a 
+copyrighted work are, or are likely to be, 
+adversely affected, and the prohibition 
+contained in subparagraph (A) shall not 
+apply to such users with respect to such 
+class of works for the ensuing 3-year 
+period.’’ 
+The primary responsibility of the 
+Register and the Librarian in this 
+rulemaking proceeding is to assess 
+whether the implementation of access 
+control measures is diminishing the 
+ability of individuals to use copyrighted 
+works in ways that are not infringing 
+and to designate any classes of works 
+with respect to which users have been 
+adversely affected in their ability to 
+make such noninfringing uses. Congress 
+intended that the Register solicit input 
+that would enable consideration of a 
+broad range of current or likely future 
+adverse impacts. Section 1201(a)(1)(C) 
+directs that the rulemaking proceeding 
+examine: (1) The availability for use of 
+copyrighted works; (2) the availability 
+for use of works for nonprofit archival, 
+preservation, and educational purposes; 
+(3) the impact that the prohibition on 
+the circumvention of technological 
+measures applied to copyrighted works 
+has on criticism, comment, news 
+reporting, teaching, scholarship, or 
+research; (4) the effect of circumvention 
+of technological measures on the market 
+for or value of copyrighted works; and 
+(5) such other factors as the Librarian 
+considers appropriate. These statutory 
+factors require the Register and 
+Librarian to balance carefully the 
+availability of copyrighted works for 
+use, the effect of the prohibition on 
+particular uses, and the effect of 
+circumvention on copyrighted works. 
+B. The Rulemaking Process 
+In examining the factors set forth in 
+Section 1201(a)(1)(C), the focus is on 
+whether the implementation of 
+technological measures has an adverse 
+impact on the ability of users to make 
+lawful uses of copyrighted works. The 
+statutory prohibition on circumvention 
+is presumed to apply to any and all 
+kinds of works unless, and until, the 
+criteria have been met for a particular 
+class. 
+In each rulemaking proceeding, the 
+Register and Librarian review the 
+proposed classes de novo. The fact that 
+a class previously has been designated 
+creates no presumption that 
+redesignation is appropriate. While in 
+some cases earlier legal analysis by the 
+Register may be relevant to analyzing a 
+proposed exemption, the proponent of a 
+class must still make a persuasive 
+factual showing with respect to the 
+three-year period currently under 
+consideration. When a class has been 
+previously designated, however, 
+evidence relating to the costs, benefits, 
+and marketplace effects ensuing from 
+the earlier designation may be relevant 
+in assessing whether a similar class 
+should be designated for the subsequent 
+period. 
+Proponents of an exemption for a 
+class of works bear the burden of 
+demonstrating that the exemption is 
+warranted. In order to establish a prima 
+facie case for designation of a particular 
+class of works, the proponent must 
+show that: (1) Uses affected by the 
+prohibition on circumvention are or are 
+likely to be noninfringing; and (2) as a 
+result of a technological measure 
+controlling access to a copyrighted 
+work, the prohibition is causing, or in 
+the next three years is likely to cause, 
+a substantial adverse impact on those 
+uses. 
+There are several types of 
+noninfringing uses that could be 
+affected by the prohibition of Section 
+1201(a)(1), including fair use and the 
+use of public domain works, among 
+others. A proponent must show that the 
+proposed use is or is likely 
+noninfringing. It is not sufficient that 
+the use could be noninfringing, as the 
+Register does not apply a ‘‘rule of 
+doubt’’ when it is unclear whether a 
+proposed use is likely to be fair or 
+otherwise noninfringing. 
+A proponent may not rely on 
+speculation to support a proposed class, 
+but instead must show by a 
+preponderance of evidence that the 
+alleged harm to noninfringing uses is 
+more likely than not to occur during the 
+next three years. The harm must be 
+distinct and measurable, and more than 
+de minimis. The Register and Librarian 
+will, when appropriate, consider 
+whether alternatives exist to accomplish 
+the proposed noninfringing uses. The 
+mere fact that a particular medium or 
+technology may be more convenient for 
+noninfringing uses than other formats is 
+generally insufficient to support an 
+exemption. If sufficient alternatives 
+exist, there is no substantial adverse 
+impact or adequate basis to designate 
+the class. 
+C. Defining a Class 
+The starting point in defining a 
+‘‘particular class’’ of works to be 
+designated as a result of the rulemaking 
+is one of the categories of works set 
+forth in Section 102 of the Copyright 
+Act, such as literary works, musical 
+works, or sound recordings. Those 
+categories are only a starting point, 
+however; a ‘‘class’’ will generally 
+constitute some subset of a Section 102 
+category. The determination of the 
+appropriate scope of a class of works 
+recommended for exemption will also 
+depend on the evidentiary record and 
+take into account the adverse impact on 
+noninfringing uses, as well as the 
+market for and value of the copyrighted 
+works. 
+While beginning with a category of 
+works identified in Section 102, or a 
+subcategory thereof, the description of 
+the ‘‘particular class’’ ordinarily will be 
+refined with reference to other factors so 
+that the scope of the class is 
+proportionate to the scope of harm to 
+noninfringing uses. For example, a class 
+might be refined in part by reference to 
+the medium on which the works are 
+distributed, or to the access control 
+measures applied to the works. The 
+description of a class of works may also 
+be refined, in appropriate cases, by 
+reference to the type of user who may 
+take advantage of the exemption or the 
+type of use that may be made pursuant 
+to the designation. The class must be 
+properly tailored to address not only the 
+demonstrated harm, but also to limit the 
+adverse consequences that may result 
+from the exemption to the prohibition 
+on circumvention. In every case, the 
+contours of a class will depend on the 
+factual record established in the 
+rulemaking proceeding. 
+II. History of the Proceeding 
+A. Solicitation of Public Comments and 
+Hearings 
+This is the fifth triennial rulemaking 
+proceeding pursuant to Section 
+1201(a)(1)(C). The Register initiated the 
+rulemaking on September 29, 2011 (76 
+FR 60398) with publication of a Notice 
+of Inquiry (‘‘NOI’’). The NOI requested 
+written comments from all interested 
+parties, including representatives of 
+copyright owners, educational 
+institutions, libraries and archives, 
+scholars, researchers, and members of 
+VerDate Mar<15>2010 14:26 Oct 25, 2012 Jkt 229001 PO 00000 Frm 00009 Fmt 4700 Sfmt 4700 E:\FR\FM\26OCR1.SGM 26OCR1emcdonald on DSK67QTVN1PROD with RULES
+
+[PAGE 3]
+65262 Federal Register / Vol. 77, No. 208 / Friday, October 26, 2012 / Rules and Regulations 
+the public, concerning whether 
+noninfringing uses of certain classes of 
+works are, or are likely to be, adversely 
+affected by the prohibition against 
+circumvention of measures that control 
+access to copyrighted works. 
+During the initial comment period 
+that ended on December 1, 2011, the 
+Copyright Office received 22 comments, 
+all of which were posted on the Office’s 
+Web site. Based on these comments, the 
+Register identified proposed exemptions 
+for the upcoming period. Because some 
+of the initial comments contained 
+similar or overlapping proposals, the 
+Copyright Office organized the 
+proposals into ten proposed classes of 
+works, and set forth and summarized 
+each class in a Notice of Proposed 
+Rulemaking (‘‘NPRM’’) published on 
+December 20, 2011 (76 FR 78866). 
+The NPRM did not present the initial 
+classes in the form of a proposed rule, 
+but merely as ‘‘a starting point for 
+further consideration.’’ The NPRM 
+asked interested parties to submit 
+additional comments and reply 
+comments providing support, 
+opposition, clarification, or correction 
+regarding the proposed classes of works, 
+and to provide factual and/or legal 
+arguments in support of their positions. 
+The Copyright Office received a total of 
+674 comments before the comment 
+period closed on February 10, 2012. The 
+Office also received 18 reply comments 
+before the reply comment period closed 
+on March 2, 2012. 
+On March 15, 2012, the Register 
+published a Notice indicating that 
+public hearings would be conducted at 
+the University of California, UCLA 
+School of Law, in California, and at the 
+Library of Congress in Washington, DC, 
+in May and June 2012 to consider the 
+proposed exemptions. Requests to 
+testify were due April 2, 2012. Public 
+hearings were held on five separate 
+days: at the Library of Congress on May 
+11, 2012; at University of California, Los 
+Angeles, School of Law on May 17, 
+2012; and at the Library of Congress on 
+May 31, June 4, and June 5, 2012. 
+Witnesses representing proponents and 
+opponents of proposed classes of works 
+offered testimony and answered 
+questions from Copyright Office staff. 
+Following the hearings, the Copyright 
+Office sent follow-up questions 
+pertaining to certain issues to witnesses 
+who had testified. The purpose of these 
+written inquiries was to clarify for the 
+record certain statements made during 
+the hearings and to elicit further 
+responses to questions raised at the 
+hearings. 
+B. Consultation With the Assistant 
+Secretary for Communications and 
+Information 
+As contemplated by Congress, the 
+Register also sought input from the 
+Assistant Secretary for Communications 
+and Information of the Department of 
+Commerce, who oversees the National 
+Telecommunications and Information 
+Administration (‘‘NTIA’’). NTIA staff 
+were briefed on the rulemaking process 
+and informed of developments through 
+a series of meetings and telephone 
+conferences. They also were in 
+attendance at many of the hearings. 
+NTIA formally communicated its 
+views on the proposed classes in a letter 
+delivered to the Register on September 
+21, 2012. 
+III. The Designated Classes 
+Upon the recommendation of the 
+Register of Copyrights, the Librarian has 
+determined that the following classes of 
+works shall be exempt from the 
+prohibition against circumvention of 
+technological measures set forth in 
+Section 1201(a)(1)(A): 
+A. Literary Works Distributed 
+Electronically—Assistive Technologies 
+Literary works, distributed electronically, 
+that are protected by technological measures 
+which either prevent the enabling of read- 
+aloud functionality or interfere with screen 
+readers or other applications or assistive 
+technologies, (i) when a copy of such a work 
+is lawfully obtained by a blind or other 
+person with a disability, as such a person is 
+defined in 17 U.S.C. 121; provided, however, 
+the rights owner is remunerated, as 
+appropriate, for the price of the mainstream 
+copy of the work as made available to the 
+general public through customary channels; 
+or (ii) when such work is a nondramatic 
+literary work, lawfully obtained and used by 
+an authorized entity pursuant to 17 U.S.C. 
+121. 
+This exemption is a modification of 
+the proponents’ proposal. It permits the 
+circumvention of literary works that are 
+distributed electronically to allow blind 
+and other persons with disabilities to 
+obtain books through the open market 
+and use screen readers and other 
+assistive technologies to read them, 
+regardless of whether an accessible copy 
+may be available for purchase, but 
+provided the author, publisher, or other 
+rights owner receives remuneration, as 
+appropriate. It also permits authorized 
+entities operating under Section 121 to 
+use such works and ensures that such 
+use conforms to the provisions and 
+safeguards of that section. 
+Proponents American Council of the 
+Blind and American Foundation for the 
+Blind, supported by The Samuelson- 
+Glushko Technology Law & Policy 
+Clinic at the University of Colorado Law 
+School, sought an exemption to access 
+literary works that are distributed 
+electronically—i.e., ebooks—that are 
+legally obtained by individuals who are 
+blind or print disabled but cannot be 
+used with screen readers or other 
+assistive technologies. In 2006 and 
+2010, the Librarian designated a class 
+consisting of ‘‘[l]iterary works 
+distributed in ebook format when all 
+existing ebook editions of the work 
+(including digital text editions made 
+available by authorized entities) contain 
+access controls that prevent the enabling 
+either of the book’s read-aloud function 
+or of screen readers that render the text 
+into a specialized format.’’ See 37 CFR 
+201.40(b)(6). In this proceeding, 
+proponents sought to eliminate the 
+requirement that all existing ebook 
+editions contain access controls, but at 
+the same time proposed to limit the 
+exemption to individuals with print 
+disabilities as defined by Section 121 of 
+the Copyright Act and to authorized 
+entities under Section 121 distributing 
+works exclusively to such persons. 
+Proponents asserted that the 
+exception is necessary because 
+technological measures to control access 
+to copyrighted works have been 
+developed and deployed in ways that 
+prevent access to ebooks by people who 
+are blind or visually impaired. 
+Proponents explained that, despite the 
+rapid growth of the ebook market, most 
+ebook titles remain inaccessible due to 
+fragmentation within the industry and 
+differing technical standards and 
+accessibility capabilities across 
+platforms. Although precise figures 
+remain elusive, press accounts cited by 
+the proponents suggest that only a 
+fraction of the publicly available ebooks 
+are accessible; proponents estimated 
+that there are approximately 1.8 million 
+inaccessible ebook titles. Proponents 
+cited an example, The Mill River 
+Recluse by Darcie Chan, ebook editions 
+of which are available in each of the 
+three major ebook stores. Only the 
+iBookstore edition is accessible, 
+however. An individual with a print 
+disability would thus be required to 
+have an iPhone, iPad, or other Apple 
+device in order to access the book. 
+Joint Creators and Copyright Owners, 
+consisting of the Association of 
+American Publishers, the American 
+Society of Media Photographers, the 
+Business Software Alliance, the 
+Entertainment Software Association, the 
+Motion Picture Association of America, 
+the Picture Archive Council of America, 
+and the Recording Industry Association 
+of America (‘‘Joint Creators’’), 
+representing various content owner 
+groups, offered no objection in principle 
+VerDate Mar<15>2010 14:26 Oct 25, 2012 Jkt 229001 PO 00000 Frm 00010 Fmt 4700 Sfmt 4700 E:\FR\FM\26OCR1.SGM 26OCR1emcdonald on DSK67QTVN1PROD with RULES
+
+[PAGE 4]
+65263 Federal Register / Vol. 77, No. 208 / Friday, October 26, 2012 / Rules and Regulations 
+to an exemption such as that 
+promulgated in 2010. They observed 
+that the market is evolving rapidly and 
+that the market share of the major 
+electronic book platforms had increased 
+substantially since the last rulemaking. 
+However, they opposed elimination of 
+the requirement in the existing 
+exemption that all ebook formats 
+contain access controls before the 
+exemption could be invoked. 
+When the Register was first called 
+upon to consider an exemption for 
+ebooks in 2003, the marketplace was 
+very different. At that time, ebooks were 
+distributed primarily for use on 
+personal computers (‘‘PCs’’), readable 
+with freely available software, and the 
+public’s reception of ebooks was 
+tentative. Today, ebooks are marketed 
+mainly for use on mobile devices, 
+ranging from dedicated ebook readers 
+using proprietary software (e.g., 
+Amazon’s Kindle) to multipurpose 
+devices running free software 
+applications (e.g., an Apple iPad 
+running Amazon’s Kindle app). 
+Nonetheless, there are often substantial 
+costs associated with owning dedicated 
+reading devices, and there are 
+inefficiencies associated with having to 
+own more than one such device. The 
+restrictions recommended by the 
+Register in prior rulemakings are 
+therefore not reflective of the current 
+market conditions. 
+The Register determined that the 
+statutory factors of Section 1201(a)(1)(C) 
+strongly favor an exempted class to 
+address the adverse effects that were 
+established in the record. The 
+designated class is not merely a matter 
+of convenience, but is instead intended 
+to enable individuals who are blind or 
+visually impaired to have meaningful 
+access to the same content that 
+individuals without such impairments 
+are able to perceive. As proponents 
+explained, their desire is simply to be 
+able to access lawfully acquired content. 
+In short, the exemption is designed to 
+permit effective access to a rapidly 
+growing array of ebook content by a 
+population that would otherwise go 
+without. 
+NTIA also indicated its support for 
+the adoption of an exemption, noting 
+that ‘‘[r]equiring visually impaired 
+Americans to invest hundreds of dollars 
+in an additional device (or even 
+multiple additional devices), 
+particularly when an already-owned 
+device is technically capable of 
+rendering literary works accessible, is 
+not a reasonable alternative to 
+circumvention * * *.’’ 
+Explaining that literary works are 
+distributed electronically in a wide 
+range of formats, not all of which are 
+necessarily widely understood to 
+constitute ‘‘ebooks,’’ NTIA noted that it 
+preferred the more general term 
+‘‘literary works, distributed 
+electronically.’’ 
+At the hearing, proponents confirmed 
+that it was not their intent to create a 
+situation where publishers are not 
+getting paid for their works, and that the 
+author or publisher should be 
+compensated for the price of the 
+mainstream book available to the 
+general public. Thus, the first prong of 
+the designated class permits 
+circumvention by blind or other persons 
+with disabilities, effectively ensuring 
+that they have access through the open 
+market, while also ensuring that rights 
+owners receive appropriate 
+remuneration. 
+The second prong of the proposal (the 
+part that would extend the exemption to 
+authorized entities) is a new 
+consideration; it has not been the 
+subject of a prior Section 1201 
+rulemaking and proponents did not 
+provide extensive analysis. Nonetheless, 
+the Register found that the proposal was 
+supported by relevant evidence and 
+thus recommended that authorized 
+entities should enjoy an exemption to 
+the extent required to carry out their 
+work under Section 121. The Register 
+recommended some modifications to 
+the proposal as written to ensure that it 
+is consistent with, but not an 
+enlargement of, Section 121. In relevant 
+part, Section 121 permits qualified 
+‘‘authorized entities’’ to reproduce and 
+distribute nondramatic literary works 
+provided the resulting copies are in 
+‘‘specialized formats exclusively for use 
+by blind or other persons with 
+disabilities.’’ 
+In her recommendation, the Register 
+noted that several provisions in Section 
+121 appear ill-suited to the digital world 
+and could benefit from comprehensive 
+review by Congress. Section 121 was 
+enacted in 1996 following careful 
+consideration of the public interest, 
+including the interests of persons with 
+disabilities and the interest of authors 
+and other copyright owners. The issues 
+relating to digital uses are complex and 
+deserving of consideration beyond what 
+can be accomplished in this proceeding. 
+B. Wireless Telephone Handsets— 
+Software Interoperability 
+Computer programs that enable wireless 
+telephone handsets to execute lawfully 
+obtained software applications, where 
+circumvention is accomplished for the sole 
+purpose of enabling interoperability of such 
+applications with computer programs on the 
+telephone handset. 
+This exemption is a modification of 
+the proponents’ proposal. It permits the 
+circumvention of computer programs on 
+mobile phones to enable interoperability 
+of non-vendor-approved software 
+applications (often referred to as 
+‘‘jailbreaking’’), but does not apply to 
+tablets—as had been requested by 
+proponents—because the record did not 
+support it. 
+Proponent Electronic Frontier 
+Foundation (‘‘EFF’’), joined by New 
+America Foundation’s Open Technology 
+Initiative, New Media Rights, Mozilla 
+Corporation (‘‘Mozilla’’), and the Free 
+Software Foundation (‘‘FSF’’), as well as 
+several hundred individual supporters, 
+sought an exemption to permit the 
+circumvention of access controls on 
+wireless devices so that the devices can 
+be used with non-vendor-approved 
+software that is lawfully acquired. In 
+2010, the Register recommended, and 
+the Librarian designated, a class that 
+permitted circumvention of 
+technological measures on certain 
+telephone handsets known as 
+‘‘smartphones.’’ In recommending that 
+class, the Register found that many such 
+phones are protected by access controls, 
+that proponents’ intended use—to 
+render certain lawfully acquired 
+applications interoperable with the 
+handset’s software—was fair, and that 
+the access controls adversely affected 
+that use. The Register also found that 
+the statutory factors prescribed by 17 
+U.S.C. 1201(a)(1)(C) weighed in favor of 
+granting the exemption. 
+In this proceeding, proponents urged 
+an expanded version of the class 
+designated in 2010, citing dramatic 
+growth in the mobile phone market, 
+along with continued widespread use of 
+technological measures to prevent users 
+from installing unauthorized 
+applications on such phones. They 
+proposed that the exemption be 
+extended to include ‘‘tablets,’’ such as 
+Apple’s iPad, which, in EFF’s words, 
+have ‘‘enjoyed similar radical popularity 
+over the past two years.’’ 
+EFF asserted that courts have long 
+found copying and modification to 
+enable device interoperability 
+noninfringing under the doctrine of fair 
+use. It further noted that the Register 
+concluded in the 2010 rulemaking that 
+jailbreaking was a fair use, and 
+maintained that nothing in the factual or 
+legal record since the last proceeding 
+suggested that a change in this position 
+was warranted. 
+EFF also asserted that the last three 
+years have seen dramatic growth in the 
+adoption of smartphones and tablets as 
+consumers increasingly shift from 
+traditional personal computers to 
+mobile devices. EFF argued that the 
+technological restrictions on phones and 
+tablets have an adverse effect on 
+VerDate Mar<15>2010 14:26 Oct 25, 2012 Jkt 229001 PO 00000 Frm 00011 Fmt 4700 Sfmt 4700 E:\FR\FM\26OCR1.SGM 26OCR1emcdonald on DSK67QTVN1PROD with RULES
+
+[PAGE 5]
+65264 Federal Register / Vol. 77, No. 208 / Friday, October 26, 2012 / Rules and Regulations 
+consumer choice and competition. 
+Specifically, it noted that Apple, whose 
+devices ‘‘refuse to run any unapproved 
+third-party software,’’ has strict rules 
+about the type of programs approved for 
+sale through its ‘‘App Store,’’ the only 
+authorized source of iPhone and iPad 
+applications. EFF further asserted that 
+although Android-based devices are 
+generally less restricted than Apple 
+devices, most still employ technological 
+measures to block functionality and 
+prevent the installation of certain types 
+of software. EFF urged the Register to 
+consider that such technological 
+measures are not intended to protect the 
+copyrighted firmware, but instead to 
+promote anticompetitive business 
+practices. 
+Joint Creators asserted that the 
+proposed exemption is unnecessary and 
+beyond the scope of the rulemaking 
+because Section 1201(f) of the Copyright 
+Act already defines ‘‘the contours of 
+acceptable circumvention related to 
+interoperability.’’ Specifically, Joint 
+Creators argued that the proponents 
+have not established that Section 1201(f) 
+does not already permit the conduct in 
+which proponents seek to engage and, 
+‘‘if it were established that Congress 
+chose not to include the conduct at 
+issue within [Section] 1201(f),’’ then 
+proponents have failed to establish that 
+the Librarian has the authority to upset 
+that decision through this proceeding. 
+The Register concluded that it was 
+unclear, at best, whether Section 1201(f) 
+applies in this circumstance, so she 
+proceeded to analyze the merits of the 
+proposed exemption. 
+Joint Creators did not directly 
+challenge EFF’s fair use analysis but 
+instead took issue with the Register’s 
+previous fair use finding. In reviewing 
+the fair use question, the Register noted 
+that the factual record with respect to 
+fair use was substantially the same as it 
+was in 2010 and that there had been no 
+significant developments in pertinent 
+case law that would cause the Register 
+to reevaluate the analytical framework 
+applied in 2010. The purpose and 
+character of the use is noncommercial 
+and personal so that individual owners 
+of smartphones may use them for the 
+purpose for which they were intended. 
+The nature of the copyrighted work— 
+firmware—remains the same as it was in 
+2010, and it remains true that one 
+engaged in jailbreaking need only 
+modify the functional aspects of the 
+firmware, which may or may not be 
+subject to copyright protection. Those 
+engaged in jailbreaking use only that 
+which is necessary to engage in the 
+activity, which is often de minimis, 
+rendering the third factor potentially 
+unfavorable, but nevertheless of 
+minimal consequence. With respect to 
+market harm, notwithstanding the 
+earlier exemption, the proliferation of 
+smartphones has increased since the last 
+rulemaking, suggesting that the fourth 
+factor favored a fair use finding even 
+more than it did in 2010. 
+The Register found that proponents 
+had established that the prohibition is 
+adversely affecting, and is likely to 
+continue to have an adverse impact on, 
+certain uses of mobile devices in which 
+the firmware, a copyrightable work, is 
+protected by technological measures. 
+The evidence in the record indicated 
+that smartphones have been widely 
+adopted and that consumer acceptance 
+of such devices will continue to 
+increase in the future. Nonetheless, the 
+vast majority of mobile phones sold 
+today contain technological measures 
+that restrict users’ ability to install 
+unauthorized applications. 
+The Register determined that the 
+statutory factors weighed in favor of a 
+renewed exemption for smartphones, as 
+nothing in the record suggested that the 
+market for mobile phones had been 
+negatively impacted by the designation 
+of such a class and, in fact, such a class 
+might make smartphones more 
+attractive to consumers. While Joint 
+Creators raised concerns about pirated 
+applications that are able to run on 
+jailbroken devices, the record did not 
+demonstrate any significant relationship 
+between jailbreaking and piracy. 
+On the other hand, the Register 
+concluded that the record did not 
+support an extension of the exemption 
+to ‘‘tablet’’ devices. The Register found 
+significant merit to the opposition’s 
+concerns that this aspect of the 
+proposed class was broad and ill- 
+defined, as a wide range of devices 
+might be considered ‘‘tablets,’’ 
+notwithstanding the significant 
+distinctions among them in terms of the 
+way they operate, their intended 
+purposes, and the nature of the 
+applications they can accommodate. For 
+example, an ebook reading device might 
+be considered a ‘‘tablet,’’ as might a 
+handheld video game device or a laptop 
+computer. 
+NTIA supported the designation of a 
+class for both smartphones and tablets. 
+Noting the broad support for such an 
+exemption and the numerous 
+noninfringing uses enabled by 
+jailbreaking, NTIA asserted that ‘‘the 
+mobile application market has thrived, 
+and continues to do so, despite—and 
+possibly in part because of—the current 
+exemption.’’ NTIA was persuaded that 
+the proposed class should apply to 
+tablets as well as mobile phones, 
+believing that category to have been 
+sufficiently defined by EFF. As noted, 
+however, the Register determined that 
+the record lacked a sufficient basis to 
+develop an appropriate definition for 
+the ‘‘tablet’’ category of devices, a 
+necessary predicate to extending the 
+exemption beyond smartphones. In 
+future rulemakings, as mobile 
+computing technology evolves, such a 
+definition might be more attainable, but 
+on this record, the Register was unable 
+to recommend the proposed expansion 
+to tablets. 
+C. Wireless Telephone Handsets— 
+Interoperability With Alternative 
+Networks 
+Computer programs, in the form of 
+firmware or software, that enable a wireless 
+telephone handset originally acquired from 
+the operator of a wireless 
+telecommunications network or retailer no 
+later than ninety days after the effective date 
+of this exemption to connect to a different 
+wireless telecommunications network, if the 
+operator of the wireless communications 
+network to which the handset is locked has 
+failed to unlock it within a reasonable period 
+of time following a request by the owner of 
+the wireless telephone handset, and when 
+circumvention is initiated by the owner, an 
+individual consumer, who is also the owner 
+of the copy of the computer program in such 
+wireless telephone handset, solely in order to 
+connect to a different wireless 
+telecommunications network, and such 
+access to the network is authorized by the 
+operator of the network. 
+This exemption is a modification of 
+the proponents’ proposal. It permits the 
+circumvention of computer programs on 
+mobile phones to enable such mobile 
+phones to connect to alternative 
+networks (often referred to as 
+‘‘unlocking’’), but with limited 
+applicability. In order to align the 
+exemption to current market realities, it 
+applies only to mobile phones acquired 
+prior to the effective date of the 
+exemption or within 90 days thereafter. 
+Proponents Consumers Union, 
+Youghiogheny Communications, LLC, 
+MetroPCS Communications, Inc., and 
+the Competitive Carriers Association, 
+supported by other commenting parties, 
+submitted similar proposals seeking an 
+exemption to permit circumvention to 
+enable wireless devices to interoperate 
+with networks other than the network 
+on which the device was originally 
+used. In 2006, and again in 2010, the 
+Register recommended, and the 
+Librarian designated, a class of works 
+that permitted the circumvention of 
+technological protection measures 
+applied to firmware in wireless 
+handsets for the purpose of switching to 
+an alternative wireless network. 
+Proponents advanced several theories 
+as to why ‘‘unlocking’’ is a 
+noninfringing use, including that it does 
+VerDate Mar<15>2010 14:26 Oct 25, 2012 Jkt 229001 PO 00000 Frm 00012 Fmt 4700 Sfmt 4700 E:\FR\FM\26OCR1.SGM 26OCR1emcdonald on DSK67QTVN1PROD with RULES
+
+[PAGE 6]
+65265 Federal Register / Vol. 77, No. 208 / Friday, October 26, 2012 / Rules and Regulations 
+not implicate any copyright interests or, 
+if it does, the conduct is permitted 
+under Section 117 of the Copyright Act. 
+In particular, proponents asserted that 
+the owners of mobile phones are also 
+the owners of the copies of the 
+computer programs on those phones 
+and that, as owners, they are entitled to 
+exercise their rights under Section 117, 
+which gives the owner of a copy of a 
+computer program the privilege to make 
+or authorize the making of another copy 
+or adaptation of that computer program 
+under certain circumstances, such as to 
+permit the program to be used on a 
+particular machine. 
+Proponents noted that ‘‘huge 
+numbers’’ of people have already 
+unlocked their phones under the 2006 
+and 2010 exemptions and claimed that 
+ending the exemption will lead to 
+higher device prices for consumers, 
+increased electronic waste, higher costs 
+associated with switching service 
+providers, and widespread mobile 
+customer ‘‘lock-in.’’ Although 
+proponents acknowledged that 
+unlocked mobile devices are widely 
+available for purchase, they contended 
+that an exemption is still warranted 
+because some devices sold by carriers 
+are permanently locked and because 
+unlocking policies contain restrictions 
+and may not apply to all of a carrier’s 
+devices. Proponents characterized 
+software locks as impediments to a 
+competitive marketplace. They claimed 
+that absent the exemption, consumers 
+would be forced to continue to do 
+business with the carrier that sold the 
+device to the consumer in the first 
+instance, or to discard the device. 
+CTIA—The Wireless Association 
+(‘‘CTIA’’), a trade association comprised 
+of various commercial wireless service 
+providers, objected to the proposals as 
+drafted. Overall, CTIA maintained that 
+an exemption for unlocking is not 
+necessary because ‘‘the largest 
+nationwide carriers * * * have liberal, 
+publicly available unlocking policies,’’ 
+and because unlocked phones are 
+‘‘freely available from third party 
+providers—many at low prices.’’ 
+Nonetheless, CTIA indicated that its 
+members did not object to a ‘‘narrowly 
+tailored and carefully limited 
+exception’’ to permit individual 
+customers of wireless carriers to unlock 
+phones for the purpose of switching 
+networks. 
+CTIA explained that the practice of 
+locking cell phones is an essential part 
+of the wireless industry’s predominant 
+business model, which involves 
+subsidizing the cost of wireless handsets 
+in exchange for a commitment from the 
+customer that the phone will be used on 
+that carrier’s service so that the subsidy 
+can eventually be recouped by the 
+carrier. CTIA alleged that the industry 
+has been plagued by ‘‘large scale phone 
+trafficking operations’’ that buy large 
+quantities of pre-paid phones, unlock 
+them, and resell them in foreign markets 
+where carriers do not subsidize 
+handsets. On the question of 
+noninfringing use, CTIA asserted that 
+the Section 117 privileges do not apply 
+because owners of wireless devices do 
+not necessarily own the software on 
+those devices. 
+The Register confronted similar 
+arguments about Section 117 in the 
+2010 proceeding. There, the parties 
+relied primarily upon Krause v. 
+Titleserv, Inc., 402 F.3d 119 (2d Cir. 
+2005), as the leading authority regarding 
+ownership of computer programs. After 
+reviewing mobile phone agreements 
+introduced in the 2010 proceeding, 
+based on the state of the law at that 
+time, the Register concluded that ‘‘[t]he 
+record * * * leads to the conclusion 
+that a substantial portion of mobile 
+phone owners also own the copies of 
+the software on their phones.’’ 
+Since the Register rendered her 2010 
+Recommendation, the case law has 
+evolved. In 2010, the Ninth Circuit 
+issued its decision in Vernor v. 
+Autodesk, Inc., 621 F.3d 1102 (9th Cir. 
+2010), holding that ‘‘a software user is 
+a licensee rather than an owner of a 
+copy where the copyright owner (1) 
+Specifies that the user is granted a 
+license; (2) significantly restricts the 
+user’s ability to transfer the software; 
+and (3) imposes notable use 
+restrictions.’’ 
+Proponents made only a cursory 
+attempt to respond to Vernor and failed 
+to offer relevant agreements to support 
+their view of software ownership. CTIA, 
+by contrast, cited agreements from 
+several major carriers in an effort to 
+demonstrate that the software on the 
+mobile handsets is licensed, rather than 
+sold, to a phone’s owner. Nonetheless, 
+the Register was forced to conclude that 
+the state of the law—and its 
+applicability to mobile phone 
+software—remains indeterminate. 
+Although Vernor and Krause are useful 
+guideposts in considering the status of 
+software ownership, they are controlling 
+precedent in only two circuits and are 
+inconsistent in their approach; whether 
+and how those standards would be 
+applied in other circuits is unknown. 
+Moreover, while CTIA contended that 
+the agreements it offered unequivocally 
+supported a finding that users do not 
+own the software, in reviewing those 
+agreements, the Register believed the 
+question to be a closer call. The Register 
+therefore determined that some subset 
+of wireless customers—i.e., anyone 
+considered to own the software on their 
+phones under applicable precedent— 
+would be entitled to exercise the 
+Section 117 privilege. 
+The Register further concluded that 
+the record before her supported a 
+finding that, with respect to new 
+wireless handsets, there are ample 
+alternatives to circumvention. That is, 
+the marketplace has evolved such that 
+there is now a wide array of unlocked 
+phone options available to consumers. 
+While it is true that not every wireless 
+device is available unlocked, and 
+wireless carriers’ unlocking polices are 
+not free from all restrictions, the record 
+clearly demonstrates that there is a wide 
+range of alternatives from which 
+consumers may choose in order to 
+obtain an unlocked wireless phone. 
+Thus, the Register determined that with 
+respect to newly purchased phones, 
+proponents had not satisfied their 
+burden of showing adverse effects 
+related to a technological protection 
+measure. 
+However, with respect to ‘‘legacy’’ 
+phones—i.e., used (or perhaps unused) 
+phones previously purchased or 
+otherwise acquired by a consumer—the 
+record pointed to a different conclusion. 
+The record demonstrated that there is 
+significant consumer interest in and 
+demand for using legacy phones on 
+carriers other than the one that 
+originally sold the phone to the 
+consumer. It also supported a finding 
+that owners of legacy phones— 
+especially phones that have not been 
+used on any wireless network for some 
+period of time—may have difficulty 
+obtaining unlocking codes from wireless 
+carriers, in part because an older or 
+expired contract might not require the 
+carrier to cooperate. 
+Despite the increasing availability of 
+unlocked phones in the marketplace 
+and the trend toward wireless carriers’ 
+unlocking phones in certain 
+circumstances, NTIA favored a broader 
+exemption. It asserted that the 
+unlocking policies of most wireless 
+carriers are not reasonable alternatives 
+to circumvention because many such 
+policies apply only to current customers 
+or subscribers, because some carriers 
+will refuse to unlock devices, and 
+because unlocking policies are often 
+contingent upon the carrier’s ability to 
+obtain the necessary code. Further, 
+‘‘NTIA does not support the notion that 
+it is an appropriate alternative for a 
+current device owner to be required to 
+purchase another device to switch 
+carriers.’’ 
+The Register concluded after a review 
+of the statutory factors that an 
+exemption to the prohibition on 
+circumvention of mobile phone 
+VerDate Mar<15>2010 14:26 Oct 25, 2012 Jkt 229001 PO 00000 Frm 00013 Fmt 4700 Sfmt 4700 E:\FR\FM\26OCR1.SGM 26OCR1emcdonald on DSK67QTVN1PROD with RULES
+
+[PAGE 7]
+65266 Federal Register / Vol. 77, No. 208 / Friday, October 26, 2012 / Rules and Regulations 
+computer programs to permit users to 
+unlock ‘‘legacy’’ phones is both 
+warranted and unlikely to harm the 
+market for such programs. At the same 
+time, in light of carriers’ current 
+unlocking policies and the ready 
+availability of new unlocked phones in 
+the marketplace, the record did not 
+support an exemption for newly 
+purchased phones. Looking to 
+precedents in copyright law, the 
+Register recommended that the class 
+designated by the Librarian include a 
+90-day transitional period to allow 
+unlocking by those who may acquire 
+phones shortly after the new exemption 
+goes into effect. 
+D. Motion Picture Excerpts— 
+Commentary, Criticism, and 
+Educational Uses 
+• Motion pictures, as defined in 17 U.S.C. 
+101, on DVDs that are lawfully made and 
+acquired and that are protected by the 
+Content Scrambling System, where the 
+person engaging in circumvention believes 
+and has reasonable grounds for believing that 
+circumvention is necessary because 
+reasonably available alternatives, such as 
+noncircumventing methods or using screen 
+capture software as provided for in 
+alternative exemptions, are not able to 
+produce the level of high-quality content 
+required to achieve the desired criticism or 
+comment on such motion pictures, and 
+where circumvention is undertaken solely in 
+order to make use of short portions of the 
+motion pictures for the purpose of criticism 
+or comment in the following instances: (i) In 
+noncommercial videos; (ii) in documentary 
+films; (iii) in nonfiction multimedia ebooks 
+offering film analysis; and (iv) for 
+educational purposes in film studies or other 
+courses requiring close analysis of film and 
+media excerpts, by college and university 
+faculty, college and university students, and 
+kindergarten through twelfth grade 
+educators. For purposes of this exemption, 
+‘‘noncommercial videos’’ includes videos 
+created pursuant to a paid commission, 
+provided that the commissioning entity’s use 
+is noncommercial. 
+• Motion pictures, as defined in 17 U.S.C. 
+101, that are lawfully made and acquired via 
+online distribution services and that are 
+protected by various technological protection 
+measures, where the person engaging in 
+circumvention believes and has reasonable 
+grounds for believing that circumvention is 
+necessary because reasonably available 
+alternatives, such as noncircumventing 
+methods or using screen capture software as 
+provided for in alternative exemptions, are 
+not able to produce the level of high-quality 
+content required to achieve the desired 
+criticism or comment on such motion 
+pictures, and where circumvention is 
+undertaken solely in order to make use of 
+short portions of the motion pictures for the 
+purpose of criticism or comment in the 
+following instances: (i) In noncommercial 
+videos; (ii) in documentary films; (iii) in 
+nonfiction multimedia ebooks offering film 
+analysis; and (iv) for educational purposes in 
+film studies or other courses requiring close 
+analysis of film and media excerpts, by 
+college and university faculty, college and 
+university students, and kindergarten 
+through twelfth grade educators. For 
+purposes of this exemption, ‘‘noncommercial 
+videos’’ includes videos created pursuant to 
+a paid commission, provided that the 
+commissioning entity’s use is 
+noncommercial. 
+• Motion pictures, as defined in 17 U.S.C. 
+101, on DVDs that are lawfully made and 
+acquired and that are protected by the 
+Content Scrambling System, where the 
+circumvention, if any, is undertaken using 
+screen capture technology that is reasonably 
+represented and offered to the public as 
+enabling the reproduction of motion picture 
+content after such content has been lawfully 
+decrypted, when such representations have 
+been reasonably relied upon by the user of 
+such technology, when the person engaging 
+in the circumvention believes and has 
+reasonable grounds for believing that the 
+circumvention is necessary to achieve the 
+desired criticism or comment, and where the 
+circumvention is undertaken solely in order 
+to make use of short portions of the motion 
+pictures for the purpose of criticism or 
+comment in the following instances: (i) in 
+noncommercial videos; (ii) in documentary 
+films; (iii) in nonfiction multimedia ebooks 
+offering film analysis; and (iv) for 
+educational purposes by college and 
+university faculty, college and university 
+students, and kindergarten through twelfth 
+grade educators. For purposes of this 
+exemption, ‘‘noncommercial videos’’ 
+includes videos created pursuant to a paid 
+commission, provided that the 
+commissioning entity’s use is 
+noncommercial. 
+• Motion pictures, as defined in 17 U.S.C. 
+101, that are lawfully made and acquired via 
+online distribution services and that are 
+protected by various technological protection 
+measures, where the circumvention, if any, is 
+undertaken using screen capture technology 
+that is reasonably represented and offered to 
+the public as enabling the reproduction of 
+motion picture content after such content has 
+been lawfully decrypted, when such 
+representations have been reasonably relied 
+upon by the user of such technology, when 
+the person engaging in the circumvention 
+believes and has reasonable grounds for 
+believing that the circumvention is necessary 
+to achieve the desired criticism or comment, 
+and where the circumvention is undertaken 
+solely in order to make use of short portions 
+of the motion pictures for the purpose of 
+criticism or comment in the following 
+instances: (i) In noncommercial videos; (ii) in 
+documentary films; (iii) in nonfiction 
+multimedia ebooks offering film analysis; 
+and (iv) for educational purposes by college 
+and university faculty, college and university 
+students, and kindergarten through twelfth 
+grade educators. For purposes of this 
+exemption, ‘‘noncommercial videos’’ 
+includes videos created pursuant to a paid 
+commission, provided that the 
+commissioning entity’s use is 
+noncommercial. 
+These related exemptions are 
+modifications of the proponents’ 
+proposals. They permit the 
+circumvention of motion pictures 
+contained on DVDs and delivered 
+through online services to permit the 
+use of short portions for purposes of 
+criticism and comment in 
+noncommercial videos, documentary 
+films, nonfiction multimedia ebooks 
+offering film analysis, and for certain 
+educational uses by college and 
+university faculty and students and 
+kindergarten through twelfth grade 
+educators. They also permit the use of 
+screen capture technology to the extent 
+an exemption is necessary under the 
+law. However, the exemptions do not 
+apply to the use of motion picture 
+excerpts in fictional films, as the 
+Register was unable to conclude on the 
+record presented that such use is 
+noninfringing. 
+Proponents submitted eight proposals 
+requesting the designation of classes to 
+allow the circumvention of lawfully 
+made and acquired motion pictures and 
+audiovisual works protected by various 
+access controls where the user seeks to 
+engage in a noninfringing use. The 
+proposals were comprised of three 
+subgroups: 
+First, proponents of exemptions for 
+noncommercial videos sought to use 
+clips from motion pictures to create new 
+noncommercial videos, such as remix or 
+mash-up videos, for criticism, comment, 
+and other noninfringing uses. 
+Proponents for these uses included EFF 
+and University of Michigan Library 
+(‘‘UML’’), supported by the Organization 
+for Transformative Works. UML’s 
+proposal requested an exemption very 
+similar to the Register’s 2010 
+recommended exemption for motion 
+pictures contained on DVDs protected 
+by Content Scrambling System (‘‘CSS’’), 
+which encompassed educational uses 
+and documentary filmmaking, in 
+addition to noncommercial videos. 
+However, UML indicated that the 
+exemption should apply not only to 
+motion pictures but to audiovisual 
+works generally. EFF sought to broaden 
+the 2010 exemption by expanding it to 
+include audiovisual works and to 
+include circumvention of motion 
+pictures acquired via online distribution 
+services. It also sought to enlarge the 
+exemption to include not just criticism 
+or comment but any noninfringing use, 
+and to cover ‘‘primarily noncommercial 
+videos,’’ a category that would include 
+videos generating some amount of 
+revenue. 
+Second, proponents of exemptions for 
+commercial uses by documentary 
+filmmakers, fictional filmmakers, and 
+multimedia ebook authors sought an 
+VerDate Mar<15>2010 14:26 Oct 25, 2012 Jkt 229001 PO 00000 Frm 00014 Fmt 4700 Sfmt 4700 E:\FR\FM\26OCR1.SGM 26OCR1emcdonald on DSK67QTVN1PROD with RULES
+
+[PAGE 8]
+65267 Federal Register / Vol. 77, No. 208 / Friday, October 26, 2012 / Rules and Regulations 
+exemption to use clips from motion 
+pictures to engage in criticism, 
+comment, or other fair uses. Proponents 
+for these uses included International 
+Documentary Association, Kartemquin 
+Educational Films, Inc., National 
+Alliance for Media Arts and Culture, 
+and Independent Filmmaker Project 
+(collectively ‘‘Joint Filmmakers’’); UML; 
+and Mark Berger, Bobette Buster, Barnet 
+Kellman, and Gene Rosow (collectively 
+‘‘Joint Ebook Authors’’). Each of these 
+proposals requested an exemption to 
+circumvent motion pictures or other 
+audiovisual works for use by creators of 
+noninfringing commercial works, 
+namely, documentary films, fictional 
+films, and multimedia ebooks offering 
+film analysis. As noted, UML’s proposal 
+largely tracked the exemption 
+recommended by the Register in 2010. 
+Joint Filmmakers’ proposal sought to 
+expand the 2010 exemption by adding 
+fictional filmmakers, as well as by 
+extending the exemption to cover any 
+noninfringing use. Joint Filmmakers 
+also sought to include circumvention of 
+Blu-ray discs protected by the Advanced 
+Access Content System (‘‘AACS’’) and 
+motion pictures digitally transmitted 
+through protected online services. Joint 
+Ebook Authors’ proposal sought the use 
+of short portions of motion pictures for 
+the purpose of multimedia ebook 
+authorship. Like Joint Filmmakers, Joint 
+Ebook Authors indicated that the 
+proposed exemption should not depend 
+on uses that involve criticism or 
+comment but should instead merely 
+require that the use be noninfringing. 
+Joint Ebook Authors also proposed that 
+the exemption include digitally 
+transmitted video in addition to CSS- 
+protected DVDs. 
+Finally, proponents of exemptions for 
+educational uses sought to use clips 
+from motion pictures for criticism, 
+comment, or other educational purposes 
+by college and university professors and 
+faculty, college and university students, 
+and kindergarten through twelfth grade 
+educators. Proponents for these uses 
+included UML; Library Copyright 
+Alliance (‘‘LCA’’); Peter Decherney, 
+Katherine Sender, Michael X. Delli 
+Carpini, International Communication 
+Association, Society for Cinema and 
+Media Studies, and American 
+Association of University Professors 
+(‘‘Joint Educators’’); and Media 
+Education Lab at the Harrington School 
+of Communication and Media at the 
+University of Rhode Island (‘‘MEL’’). 
+The proposals by UML and LCA 
+requested an exemption similar to the 
+2010 exemption recommended by the 
+Register for circumvention of CSS- 
+protected DVDs, except that UML 
+sought to broaden it to apply to 
+audiovisual works, as well as to 
+students across all disciplines of study. 
+Joint Educators’ proposed exemption 
+sought to enable college and university 
+students, as well as faculty, to use short 
+portions of video, as well as to 
+circumvent AACS-protected Blu-ray 
+discs and digitally transmitted works. 
+Finally, MEL requested an exemption 
+for the circumvention of audiovisual 
+works used for educational purposes by 
+kindergarten through twelfth grade 
+educators. 
+Because each of the proposals 
+involved the use of clips from motion 
+pictures or audiovisual works, the eight 
+possible exemptions were addressed as 
+a group in the Register’s 
+Recommendation. The proposals for 
+exemptions to allow the circumvention 
+of lawfully obtained motion pictures 
+protected by access controls for various 
+commercial, noncommercial, and 
+‘‘primarily noncommercial’’ purposes 
+shared a unifying feature in that in each 
+case, proponents were seeking an 
+exemption to allow circumvention for 
+the purpose of reproducing short clips 
+to facilitate alleged noninfringing uses. 
+Creators of noncommercial videos 
+sought to use portions of motion 
+pictures to create noninfringing works 
+involving criticism or comment that 
+they asserted were transformative. 
+Documentary filmmakers and 
+multimedia ebook authors sought to 
+reproduce portions of motion pictures 
+in new works offering criticism or 
+commentary. Fictional filmmakers 
+wished to incorporate motion pictures 
+into new films to convey certain 
+messages. Film and media studies 
+professors sought to assemble motion 
+picture excerpts to demonstrate 
+concepts, qualities, and techniques. 
+Other educators sought to reproduce 
+clips of motion pictures to illustrate 
+points for classroom discussion. 
+Joint Creators and DVD Copy Control 
+Association (‘‘DVD CCA’’) opposed the 
+proposals pertaining to noncommercial 
+videos and, more generally, the use of 
+motion pictures contained on CSS- 
+protected DVDs. Joint Creators also 
+opposed the use of motion pictures 
+acquired via online distribution 
+services. Joint Creators questioned 
+whether proponents had met the 
+required statutory burden for an 
+exemption. They urged the Register 
+precisely to analyze the alleged 
+noninfringing uses to determine 
+whether they were, in fact, 
+noninfringing. In addition, they argued 
+that the proposed exemption for 
+circumvention of AACS-protected Blu- 
+ray discs should not be approved. 
+DVD CCA maintained that none of the 
+examples offered in support of the 
+proposed exemptions for documentary 
+filmmakers, fictional filmmakers, or 
+multimedia ebook authors sufficiently 
+established that CSS is preventing the 
+proposed uses. DVD CCA asserted that 
+there are several alternatives to 
+circumvention, including clip licensing, 
+screen capture software, and video 
+recording via smartphone that would 
+enable proponents affordably and 
+effectively to copy short portions of 
+motion pictures without the requested 
+exemption. 
+As for educational uses, Joint Creators 
+and DVD CCA did not oppose the 
+granting of an exemption covering 
+circumvention of CSS for a variety of 
+college and university uses involving 
+copying of short portions of motion 
+pictures, but asserted that the 
+exemption should be limited to conduct 
+that is clearly noninfringing and 
+requires high-quality content. 
+Advanced Access Content System 
+License Administrator (‘‘AACS LA’’) 
+generally opposed the requested 
+exemptions as they would apply to 
+AACS-protected Blu-ray discs. It 
+asserted that proponents have failed to 
+make the case that they face substantial 
+adverse effects with respect to content 
+available only on Blu-ray discs. 
+In reviewing the proposed classes, the 
+Register noted that certain of the 
+proposed exemptions referred to 
+‘‘audiovisual works’’ as opposed to 
+‘‘motion pictures.’’ The Register 
+observed that Section 101 defines 
+‘‘motion pictures’’ as ‘‘audiovisual 
+works consisting of a series of related 
+images which, when shown in 
+succession, impart an impression of 
+motion, together with accompanying 
+sounds, if any.’’ Section 101 defines 
+‘‘audiovisual works’’ somewhat more 
+broadly, as ‘‘works that consist of a 
+series of related images which are 
+intrinsically intended to be shown by 
+the use of machines or devices such as 
+projectors, viewers, or electronic 
+equipment, together with accompanying 
+sounds, if any, regardless of the nature 
+of the material objects, such as films or 
+tapes, in which the works are 
+embodied.’’ Under the Copyright Act, 
+‘‘motion pictures’’ are thus a subset 
+(albeit a very large one) of ‘‘audiovisual 
+works.’’ The record for the proposed 
+classes was directed to uses of motion 
+pictures such as movies, television 
+shows, commercials, news, DVD extras, 
+etc., and did not focus on uses of 
+audiovisual works that would fall 
+outside of the Copyright Act’s definition 
+of ‘‘motion pictures.’’ Based on the 
+record, the Register found no basis for 
+considering exemptions beyond motion 
+VerDate Mar<15>2010 14:26 Oct 25, 2012 Jkt 229001 PO 00000 Frm 00015 Fmt 4700 Sfmt 4700 E:\FR\FM\26OCR1.SGM 26OCR1emcdonald on DSK67QTVN1PROD with RULES
+
+[PAGE 9]
+65268 Federal Register / Vol. 77, No. 208 / Friday, October 26, 2012 / Rules and Regulations 
+pictures and treated the requested 
+exemptions for ‘‘audiovisual works’’ as 
+requests relating to motion pictures. 
+The Register determined that 
+proponents of exemptions for 
+noncommercial videos, commercial uses 
+by documentary filmmakers and 
+multimedia ebook authors, and uses in 
+educational contexts had established 
+that a significant number of the 
+proposed uses were for purposes of 
+criticism and commentary. She noted 
+that such uses fall within the favored 
+purposes referenced in the preamble of 
+Section 107 and, especially in light of 
+the brevity of the excerpts used, are 
+likely to be fair uses. More specifically, 
+the Register determined that the 
+proposed uses tended to be 
+transformative in nature, employing 
+short clips for purposes of criticism, 
+comment, teaching, and/or scholarship, 
+rather than for the works’ originally 
+intended purpose. Despite the 
+commercial aspect of uses by 
+documentary filmmakers and 
+multimedia ebook authors, the Register 
+noted that when a short excerpt of a 
+motion picture is used for purposes of 
+criticism and comment, even in a 
+commercial context, it may well be a 
+productive use that serves the essential 
+function of fair use as a free speech 
+safeguard. While the Register did not 
+conclude that a court would find each 
+and every one of proponents’ examples 
+to be transformative, she did find that 
+the record amply supported the 
+conclusion that a substantial number of 
+the proffered examples likely would be 
+considered transformative fair uses. 
+The Register also concluded, 
+however, that the same fair use analysis 
+did not apply to fictional filmmakers, at 
+least on the record presented. She noted 
+that fictional films differ from the other 
+categories of use because their purpose 
+is typically for entertainment, rather 
+than for criticism or comment. As the 
+Register explained in her 
+Recommendation, under appropriate 
+circumstances, a use by a fictional 
+filmmaker might well be a fair use. But 
+fictional film proponents merely 
+described their desired uses and did not 
+present concrete examples—such as 
+existing films that made use of 
+preexisting material in a clearly 
+transformative manner—that permitted 
+the Register to make a finding of fair use 
+in this context. The record did not allow 
+a satisfying determination as to the 
+nature of the fictional filmmakers’ 
+proposed uses, the amount of the 
+underlying works fictional filmmakers 
+generally sought to use, or whether or 
+how such uses might affect the market 
+for the original works. 
+In addition, the Register observed 
+that, to the extent discernible from 
+proponents’ descriptions, a number of 
+the examples cited did not appear 
+readily to lend themselves to a 
+conclusion that the described use would 
+likely be considered fair. More 
+specifically, the use of an earlier work 
+to flesh out characters or motivations in 
+a new work, or to develop a storyline, 
+as suggested by some of proponents’ 
+descriptive examples, does not 
+inherently serve the purpose of criticism 
+or comment on the existing work. The 
+Register therefore concluded, on the 
+record before her, that fictional 
+filmmakers had failed to establish that 
+the uses in which they sought to engage 
+were likely to be noninfringing. 
+Having determined otherwise with 
+respect to the other proposed categories 
+of use involving criticism and comment, 
+however, the Register proceeded to 
+consider whether there were adequate 
+alternatives to circumvention to 
+accommodate these noninfringing uses. 
+Opponents pointed to clip licensing, 
+smartphone video recording, and screen 
+capture software as alternatives to 
+achieve the desired uses. The Register 
+found that clip licensing was not a 
+reasonable alternative, as the scope of 
+content offered through reasonably 
+available licensing sources was far from 
+complete. Moreover, requiring a creator 
+who is making fair use of a work to 
+obtain a license is in tension with the 
+Supreme Court’s holding in Campbell v. 
+Acuff-Rose Music, Inc., 510 U.S. 569 
+(1994), that rightsholders do not have an 
+exclusive right to markets for 
+commentary on or criticism of their 
+copyrighted works. 
+Nor did smartphone recording appear 
+to be an adequate option, as the 
+evidence indicated that smartphone 
+recordings yielded inferior video and 
+audio quality, and failed to capture the 
+complete image as it was meant to 
+appear on the screen. 
+In the 2010 proceeding, the Register 
+determined that screen capture 
+technology offered a cost-effective 
+alternative technique to allow 
+reproduction of motion pictures for 
+certain uses. Unlike the last proceeding, 
+where the Register raised screen capture 
+technology as a possible alternative, in 
+the current proceeding it was opponents 
+who pointed to screen capture as a 
+reasonable solution. However, based on 
+the video evidence and commentary 
+from proponents and opponents 
+concerning screen capture technology, 
+the Register determined that the screen 
+capture images, while improved in 
+quality since the last rulemaking, were 
+still of lower quality than those 
+available by circumvention of access 
+controls on motion pictures; they were 
+somewhat diminished in clarity and 
+depth, and could exhibit pixilation. 
+Concerning screen capture, 
+documentary filmmakers suggested that 
+the lower-quality images generated by 
+this technology were not suitable for the 
+dissemination of their films. The 
+Register found a similar argument 
+persuasive in the previous rulemaking 
+based on certain distribution standards 
+generally requiring that films adhere to 
+specific quality standards that cannot be 
+met by screen capture. Unlike in the last 
+proceeding, however, the Register was 
+not convinced on the present record that 
+the distribution requirements would 
+give rise to significant adverse effects. In 
+this proceeding, the parties explained 
+the standards in greater detail, including 
+the fact that certain accommodations are 
+made by distributors with respect to 
+pre-existing materials. 
+Nonetheless, the record did support 
+the conclusion that, in some cases, for 
+other reasons, the inability to 
+circumvent to make use of higher- 
+quality material available on DVDs and 
+in protected online formats is likely to 
+impose significant adverse effects on 
+documentary filmmakers, 
+noncommercial video makers, 
+multimedia ebook authors, and certain 
+educational users. Creators of 
+noncommercial videos provided the 
+most extensive record to support the 
+need for higher-quality source material. 
+Based on the video evidence presented, 
+the Register concluded that diminished 
+quality likely would impair the 
+criticism and comment contained in 
+noncommercial videos. For example, 
+the Register was able to perceive that 
+certain noncommercial videos would 
+suffer significantly because of blurring 
+and the loss of detail in characters’ 
+expression and sense of depth. 
+Although the record was not as robust 
+in the case of documentary filmmakers 
+and multimedia ebook authors, it was 
+sufficient to support a similar finding 
+that for certain uses—i.e., when trying to 
+convey a point that depends upon the 
+ability to perceive details or subtleties 
+in a motion picture excerpt— 
+documentary filmmakers and ebook 
+authors would likely suffer adverse 
+effects if they were unable to 
+incorporate higher-quality images. 
+Similarly, educational uses that depend 
+upon close analysis of film or media 
+images might be adversely impacted if 
+students are unable to apprehend the 
+subtle detail or emotional impact of the 
+images they are analyzing. But where 
+precise detail is not required for the 
+particular use in question—for example, 
+where a clip is presented simply to 
+illustrate a historical event—the Register 
+VerDate Mar<15>2010 14:26 Oct 25, 2012 Jkt 229001 PO 00000 Frm 00016 Fmt 4700 Sfmt 4700 E:\FR\FM\26OCR1.SGM 26OCR1emcdonald on DSK67QTVN1PROD with RULES
+
+[PAGE 10]
+65269 Federal Register / Vol. 77, No. 208 / Friday, October 26, 2012 / Rules and Regulations 
+concluded that lower-quality screen 
+capture images appeared adequate to 
+fulfill the noninfringing use. 
+As an additional concern relating to 
+screen capture technology, proponents 
+maintained that even if the Register 
+acknowledged now, as she did in 2010, 
+that certain types of video capture 
+software are noncircumventing, there is 
+still no assurance that all copyright 
+owners share this view. Proponents 
+observed, for example, that litigation 
+had been instituted over the use of 
+similar methods of acquiring content 
+protected by access controls. In light of 
+the unsettled legal landscape, the 
+Register determined that there is a need 
+for limited exemptions to address the 
+possible circumvention of protected 
+motion pictures when using screen 
+capture technology. 
+The record also indicated that there is 
+some amount of motion picture material 
+available only on Blu-ray discs, such as 
+bonus material or, more rarely, entire 
+films released exclusively on Blu-ray. 
+However, the cited uses of Blu-ray- 
+exclusive content in the record were 
+insignificant in number. Moreover, with 
+respect to documentary filmmakers in 
+particular, for the reasons discussed 
+above, the Register was not persuaded 
+that Blu-ray content is necessary to meet 
+applicable distribution standards. The 
+Register therefore concluded that the 
+record did not reflect a substantial 
+adverse impact due to the inability to 
+use motion picture materials contained 
+on Blu-ray discs. 
+Overall, based on the record 
+presented, the Register determined that, 
+when a higher-quality excerpt is 
+essential to a particular use, an 
+exemption to permit circumvention of 
+CSS-protected DVDs and protected 
+online formats is appropriate. For uses 
+where high-quality material is not 
+critical, screen capture technology 
+provides an adequate alternative to 
+circumvention, and an exemption to 
+permit the use of such technology is 
+appropriate. 
+Looking to the statutory factors, the 
+Register noted in her previous 
+determination that ‘‘while CSS- 
+protected DVDs may very well have 
+fostered the digital distribution of 
+motion pictures to the public, there is 
+no credible support for the proposition 
+that the digital distribution of motion 
+pictures continues to depend on the 
+integrity of the general ‘principle’ that 
+the circumvention of CSS is always 
+unlawful.’’ She found that the record in 
+the current proceeding similarly failed 
+to support a finding that there could be 
+no exemption to the prohibition on 
+circumvention of CSS-protected DVDs. 
+In light of the negative impact the 
+prohibition on circumvention has on 
+favored uses, such as criticism, 
+comment, news reporting, teaching, 
+scholarship, and research, as established 
+in the proceeding, the Register 
+concluded that the statutory factors 
+support appropriately tailored 
+exemptions to facilitate those uses. 
+NTIA agreed that an appropriate 
+exemption to permit proposed 
+noninfringing uses is necessary because 
+users lack sufficient alternatives to 
+circumvention. It asserted that 
+‘‘generally, the technological 
+alternatives [to circumvention] produce 
+low-quality videos, and associated 
+license agreements often impose 
+significant content limitations on the 
+final work product.’’ It further noted 
+that clip services are limited in scope 
+and may not meet the needs of all users, 
+and that licensing negotiations are 
+‘‘expensive and burdensome, especially 
+when the licensee seeks to critique the 
+copyrighted work.’’ 
+NTIA proposed that the Register 
+recommend a class that encompasses 
+‘‘[m]otion pictures and other similar 
+audiovisual works on DVDs or delivered 
+via Internet Protocol,’’ asserting that the 
+class should encompass ‘‘audiovisual 
+works,’’ which is broader than ‘‘motion 
+pictures.’’ NTIA also proposed to 
+replace ‘‘for the purpose of criticism or 
+comment’’ with ‘‘for the purpose of fair 
+use,’’ and to expand the applicable 
+circumstances beyond documentary 
+filmmaking to include educational uses 
+by college and university professors and 
+college students, educational uses by 
+kindergarten through twelfth grade 
+educators, primarily noncommercial 
+videos, and nonfictional or educational 
+multimedia ebooks. Citing an 
+inadequate definition of the proposed 
+class of users, and a lack of 
+demonstrated harm, the NTIA did not 
+support an exemption for fictional 
+filmmakers. 
+While the NTIA’s views largely 
+tracked those of the Register’s 
+concerning the need to designate 
+appropriate classes, for the reasons 
+discussed above, the Register did not 
+believe that certain of NTIA’s proposed 
+expansions were supported by the 
+record. 
+In explaining her recommended 
+exemptions, the Register emphasized 
+that the use of only short portions or 
+clips was critical to her determination 
+that the proposed uses were 
+noninfringing. She rejected the 
+proposed expansion of the exemption to 
+cover unspecified ‘‘noninfringing’’ or 
+‘‘fair’’ uses where circumvention is not 
+undertaken for the purpose of criticism 
+or comment as, based on the record, 
+criticism or comment were central to the 
+uses supporting the exemption. 
+The Register also noted that while 
+there might be additional noninfringing 
+uses by multimedia ebook authors that 
+could support a more broadly conceived 
+exemption, the record in the proceeding 
+supported only an exemption for ebooks 
+offering film analysis. 
+Further, to the extent proponents for 
+noncommercial videos sought an 
+expanded exemption to cover 
+‘‘primarily noncommercial videos’’—as 
+opposed to ‘‘noncommercial videos’’— 
+they failed to demonstrate that a 
+meaningful number of such uses would 
+qualify as noninfringing; proponents 
+identified only a single video that 
+allegedly fell within this category, 
+because it generated advertising 
+revenue. It was not clear from the 
+record, however, as to why such an 
+example should be considered 
+‘‘primarily noncommercial’’ as opposed 
+to ‘‘primarily commercial.’’ On the other 
+hand, proponents established a 
+sufficient basis to clarify that the 
+exemption for noncommercial works 
+should include videos created pursuant 
+to a paid commission, provided that the 
+commissioning entity uses the work 
+solely in a noncommercial manner. 
+With respect to educational uses, the 
+Register found that the record supported 
+a determination that college and 
+university professors and other faculty, 
+as well as students, in film studies and 
+other courses focused on close analysis 
+of media excerpts may sometimes need 
+to reproduce content from CSS- 
+protected DVDs and protected online 
+formats to enable such analysis. Because 
+the recommended exemption is limited 
+to educational activities involving close 
+analysis, there was no basis to limit the 
+exemption only to professors. The 
+Register further determined that non- 
+professor faculty at colleges and 
+universities also should be permitted to 
+take advantage of the exemption when 
+there is a pedagogical need for high- 
+quality source material. In addition, the 
+record supported a finding that 
+instructors of pre-college-level students 
+sometimes engage in close analysis of 
+motion picture excerpts in media- 
+oriented courses and might have a need 
+for high-quality source material. 
+The Register stressed that prospective 
+users of the recommended exemptions 
+for the use of motion picture excerpts 
+should take care to ensure that they 
+satisfy each requirement of the narrowly 
+tailored exemptions before seeking to 
+operate under their benefits, and 
+consider whether there is an adequate 
+alternative before engaging in 
+circumvention under a recommended 
+exemption. The Register noted that 
+VerDate Mar<15>2010 14:26 Oct 25, 2012 Jkt 229001 PO 00000 Frm 00017 Fmt 4700 Sfmt 4700 E:\FR\FM\26OCR1.SGM 26OCR1emcdonald on DSK67QTVN1PROD with RULES
+
+[PAGE 11]
+65270 Federal Register / Vol. 77, No. 208 / Friday, October 26, 2012 / Rules and Regulations 
+screen capture technology should only 
+be employed when it is reasonably 
+represented, and offered to the public, 
+as enabling the reproduction of motion 
+picture content after such content has 
+been lawfully decrypted—that is, when 
+it is offered as a noncircumventing 
+technology. And, finally, users of the 
+limited exemptions should be prepared 
+to defend their activities in light of the 
+alternatives as they exist at the time of 
+their use of the exemption, including 
+any further innovations in screen 
+capture or other technologies that may 
+produce higher-quality results than 
+were obtainable as of the Register’s 
+Recommendation. 
+E. Motion Pictures and Other 
+Audiovisual Works—Captioning and 
+Descriptive Audio 
+Motion pictures and other audiovisual 
+works on DVDs that are protected by the 
+Content Scrambling System, or that are 
+distributed by an online service and 
+protected by technological measures that 
+control access to such works, when 
+circumvention is accomplished solely to 
+access the playhead and/or related time code 
+information embedded in copies of such 
+works and solely for the purpose of 
+conducting research and development for the 
+purpose of creating players capable of 
+rendering visual representations of the 
+audible portions of such works and/or 
+audible representations or descriptions of the 
+visual portions of such works to enable an 
+individual who is blind, visually impaired, 
+deaf, or hard of hearing, and who has 
+lawfully obtained a copy of such a work, to 
+perceive the work; provided however, that 
+the resulting player does not require 
+circumvention of technological measures to 
+operate. 
+This exemption is a modification of 
+the proponents’ proposal. It permits the 
+circumvention of motion pictures and 
+other audiovisual works contained on 
+DVDs or delivered through online 
+services to facilitate research and 
+development of players capable of 
+rendering captions and descriptive 
+audio for persons who are blind, 
+visually impaired, deaf, or hard of 
+hearing. The exemption responds to the 
+primary need articulated by proponents 
+in their submissions and at the hearings 
+and one compelled by public policy, 
+namely research and development. With 
+respect to other uses proposed by 
+proponents, the Register was unable to 
+conduct a fair use analysis due to 
+insufficient facts on the record, and, in 
+particular, a lack of clear information 
+regarding how captions and descriptive 
+audio would be created, disseminated, 
+or otherwise made available in 
+connection with the underlying 
+audiovisual work. 
+Proponents Telecommunications for 
+the Deaf and Hard of Hearing, Inc., 
+Gallaudet University, and the 
+Participatory Culture Foundation 
+proposed that the Register recommend 
+four related classes of works to allow 
+circumvention of technological 
+measures applied to content distributed 
+via the internet and ‘‘fixed-disc media’’ 
+for the purpose of creating, improving, 
+and rendering captions and descriptive 
+audio tracks to enable individuals with 
+disabilities to perceive such works, and 
+for the purpose of conducting research 
+and development on technologies to 
+enable such accessibility. They urged 
+that the prohibition on circumvention 
+has had a ‘‘decidedly negative’’ impact 
+on teaching, scholarship, research, and 
+criticism. They stated that not only does 
+the prohibition stifle the research and 
+development associated with the 
+development of accessible technologies, 
+it also restricts the amount of content 
+that is perceptible by individuals with 
+disabilities. 
+Although not particularly clear from 
+the proponents’ written filings, at the 
+hearing it became apparent that the 
+primary interest was in the development 
+of players capable of merging 
+commercially accessible content with 
+captions and descriptive audio that are 
+created separately, generally by parties 
+other than the copyright owner of the 
+original copyrightable work. Proponents 
+alleged that circumvention was 
+necessary to achieve their objectives 
+because they required access to the 
+‘‘playhead,’’ that is, the technical timing 
+information embedded in internet- 
+delivered and fixed-disc-based content 
+that would allow proper 
+synchronization of captions and 
+descriptive audio with the underlying 
+video content to which it applied. 
+Proponents explained that although 
+some of the content in question is 
+already captioned or provides 
+descriptive audio, most does not. They 
+acknowledged that the recently passed 
+Twenty-First Century Communications 
+and Video Accessibility Act (‘‘CVAA’’), 
+Public Law 111–260 (codified in 
+scattered sections of 47 U.S.C.), likely 
+will require a substantial amount of 
+digitally distributed programming to be 
+captioned. However, they asserted that 
+the CVAA does not extend to a wide 
+range of content, including that which 
+is distributed exclusively online (e.g., 
+content that does not appear first on 
+broadcast or cable television). Indeed, in 
+recent rulemaking proceedings under 
+the CVAA, many content producers and 
+distributors asserted that the creation or 
+improvement of captions and 
+descriptive audio is burdensome and 
+would require permission from the 
+copyright owners. 
+Proponents noted that the motion 
+picture industry separately had asserted 
+that voluntary captioning of a limited 
+amount of programming would require 
+‘‘eight years to phase in.’’ They further 
+noted that Netflix provides captions or 
+subtitles on fewer than 5,000 of its 
+nearly 12,000 titles. In addition, 
+proponents explained that when such 
+captions do exist, they may be ‘‘riddled 
+with errors’’ or inconsistently formatted, 
+hampering accessibility. With respect to 
+descriptive audio, proponents observed 
+that such tracks may play back at an 
+inappropriate volume. 
+As for opposition, AACS LA and DVD 
+CCA filed separate but substantially 
+similar comments, taking issue with the 
+proposed exemptions. They argued that 
+the marketplace has evolved and will 
+continue to evolve in such a way that 
+satisfies accessibility needs. AACS LA 
+further asserted that the proposed 
+exemption potentially could harm 
+future growth of the marketplace 
+solutions for accessibility concerns. At 
+the hearings, AACS LA offered a free 
+license to its technology to enable 
+developers to develop compatible 
+implementations to enable accessibility, 
+and it was suggested that DVD CCA 
+would do so as well. 
+Joint Creators also opposed, similarly 
+asserting that voluntary efforts and 
+regulatory compliance are sufficient 
+marketplace drivers for accessible 
+materials. In addition, they maintained 
+that proponents had failed to meet their 
+burden. In their view, proponents had 
+presented only scattered examples of 
+errors in captions and that such errors 
+are little more than a ‘‘mere 
+inconvenience’’; they also suggested 
+that the proposed underlying uses might 
+infringe the reproduction, distribution, 
+and adaptation rights of the copyright 
+owners. 
+Assessing the record in light of the 
+statutory factors, the Register concluded 
+that a limited exemption was 
+appropriate to facilitate the proposed 
+research and development. The Register 
+found that the substantial quantity of 
+inaccessible content, and the likely 
+increase in the amount of content 
+distributed free from any requirement 
+that it be rendered accessible, 
+essentially limits the universe of 
+materials with respect to which 
+individuals with certain disabilities may 
+engage in commentary, criticism, 
+scholarship, and the like. As observed 
+by the Register, the proposal was aimed 
+at allowing the wide range of motion 
+pictures and other audiovisual works 
+that are available to the general 
+population to be accessed and enjoyed 
+VerDate Mar<15>2010 14:26 Oct 25, 2012 Jkt 229001 PO 00000 Frm 00018 Fmt 4700 Sfmt 4700 E:\FR\FM\26OCR1.SGM 26OCR1emcdonald on DSK67QTVN1PROD with RULES
+
+[PAGE 12]
+65271 Federal Register / Vol. 77, No. 208 / Friday, October 26, 2012 / Rules and Regulations 
+by those with disabilities. For such 
+individuals, the exemption represents 
+the difference between having and not 
+having access to works available to 
+everyone else. 
+The Register determined that the 
+record with respect to research and 
+development was sufficiently clear to 
+support an exemption for those 
+activities. Dr. Christian Vogler of 
+Gallaudet University demonstrated a 
+software development effort aimed at 
+creating a player to combine captions or 
+descriptive audio with commercially 
+available motion picture and 
+audiovisual content. With respect to this 
+project, the Register was able to 
+conclude that the purported use did not 
+implicate the copyrighted content itself, 
+but only certain non-protectable 
+information about the work—i.e., the 
+timecode information accessible 
+through the protected ‘‘playhead.’’ 
+Moreover, the Register found that there 
+did not appear to be any reasonable 
+alternatives to circumvention in order to 
+obtain this information. Although, as 
+noted, AACS LA and DVDCCA had 
+indicated a willingness to offer a free 
+license to those interested in developing 
+accessibility tools for playback devices, 
+the record indicated that no such 
+license was currently in place, and it 
+was unclear whether such a license 
+would come to fruition during the next 
+three years. 
+The Register found that proponents 
+had demonstrated that there is a wide 
+range of content contained on CSS- 
+protected DVDs and delivered in 
+protected online formats that is 
+inaccessible to individuals with certain 
+disabilities and as to which there is no 
+alternative, accessible version. She 
+further determined that the record did 
+not support the proposition that 
+circumvention was necessary with 
+respect to Blu-ray content, as the same 
+content is generally available on DVDs 
+or online. 
+Beyond research and development, 
+the Register found that the scope of 
+proponents’ intended uses was difficult 
+to discern from proponents’ written 
+submissions, as the papers were fraught 
+with broad generalizations. During the 
+hearing, proponents were able to 
+articulate three broad categories of 
+conduct: (1) Conducting research and 
+development on accessible technologies 
+to develop a player capable of 
+presenting or manipulating captions or 
+descriptive audio (as discussed above); 
+(2) creating such captions or descriptive 
+audio or corrections thereto; and (3) 
+presenting such captions or descriptive 
+audio along with the underlying 
+lawfully acquired work. Still, the 
+precise contours of certain aspects of the 
+proponents’ intended exploitation of the 
+proposed exemption remained elusive. 
+Pointing to a footnote in Sony 
+Corporation of America v. Universal 
+Studios, Inc., 464 U.S. 417 (1984), 
+which provides in dicta that ‘‘making a 
+copy of a copyrighted work for the 
+convenience of a blind person is * * * 
+an example of fair use,’’ proponents 
+asserted that each of the broadly defined 
+intended uses was fair. However, fair 
+use analyses are, by statute, necessarily 
+fact specific. Most of the proposed uses 
+relating to the creation of captions and 
+descriptive audio proposed by the 
+proponents were so generally described 
+that the Register found it impossible to 
+evaluate whether they would be 
+noninfringing. For example, proponents 
+discussed both creating captions for 
+content that is uncaptioned, including 
+through crowdsourcing techniques, and 
+fixing incorrect or poorly implemented 
+captions. Each of these activities could 
+have different implications under a 
+traditional fair use analysis. Absent 
+specific facts pertaining to the 
+particularized uses, however, such an 
+analysis was not possible. 
+NTIA supported proponents’ 
+proposals but suggested that the Register 
+should recraft the exemptions into three 
+categories that it believes were 
+supported by the record. Specifically, 
+NTIA would have fashioned a class 
+specifically aimed at those developing 
+the tools to facilitate the creation, 
+improvement, or rendering of captions 
+and descriptive audio; another class 
+specifically for those engaged in the 
+creation of captions and descriptive 
+audio; and a third class for those using 
+the captions and descriptive audio. 
+NTIA further noted that it did not 
+support the inclusion of Blu-ray because 
+DVD remains the dominant format, 
+online video distribution is outpacing 
+Blu-ray adoption, and the effect of the 
+proposals on the Blu-ray market was 
+uncertain. 
+The Register and NTIA were in 
+agreement on the need to ‘‘open the 
+doors for innovation and empower the 
+millions of Americans with visual and 
+hearing disabilities to participate to the 
+fullest possible extent in our society’s 
+multimedia culture.’’ However, for the 
+reasons described above, the Register 
+determined that, based on the current 
+record, a more narrowly tailored class to 
+permit research and development of 
+assistive technologies was appropriate. 
+The Register nonetheless made a point 
+of encouraging the continued 
+development of accessibility 
+technologies and future proposals for 
+exemptions to advance such efforts. 
+IV. Classes Considered But Not 
+Recommended 
+Upon the recommendation of the 
+Register of Copyrights, the Librarian has 
+determined that the following classes of 
+works shall not be exempt from the 
+prohibition against circumvention of 
+technological measures set forth in 
+Section 1201(a)(1)(A): 
+A. Literary Works in the Public 
+Domain—Digital Access 
+The Register concluded that the 
+requested exemption to access public 
+domain works was beyond the scope of 
+the rulemaking proceeding and declined 
+to recommend its adoption. As further 
+explained in the 2010 rulemaking, 
+‘‘Section 1201 does not prohibit 
+circumvention of a technological 
+protection measure when it simply 
+controls access to a public domain 
+work; in such a case, it is lawful to 
+circumvent the technological protection 
+measure and there is no need for an 
+exemption.’’ 
+Proponent Open Book Alliance 
+(‘‘OBA’’) proposed an exemption to 
+permit the circumvention of literary 
+works in the public domain to enable 
+access to works that are digitally 
+distributed. Proponent sought a 
+‘‘clarification’’ that circumvention of 
+technological measures for the purpose 
+of accessing such literary works does 
+not violate Section 1201(a)(1). 
+As explained above, Section 
+1201(a)(1) provides that ‘‘[n]o person 
+shall circumvent a technological 
+measure that effectively controls access 
+to a work protected under this title.’’ 
+The prohibition on circumvention of 
+technological protection measures thus 
+does not apply to public domain 
+materials because such materials are not 
+protected under Title 17. 
+Joint Creators filed comments in 
+response to OBA’s proposal. Joint 
+Creators did not object to the conclusion 
+that Section 1201(a)(1) is inapplicable to 
+literary works that are in the public 
+domain but cautioned that many 
+distributions of such literary works 
+contain ancillary copyrightable 
+elements, such as cover art, inserts, 
+photographs, prefaces, and the like. 
+NTIA shared the proponent’s concern 
+that ‘‘the implementation of 
+[technological measures] restricts 
+universal access’’ to public domain 
+material, and that such restrictions 
+‘‘may have a negative impact on 
+educational institutions and research 
+organizations,’’ as well as other adverse 
+impacts on the public. NTIA also 
+recognized, however, that works in the 
+public domain are not affected by the 
+prohibition on circumvention. 
+VerDate Mar<15>2010 14:26 Oct 25, 2012 Jkt 229001 PO 00000 Frm 00019 Fmt 4700 Sfmt 4700 E:\FR\FM\26OCR1.SGM 26OCR1emcdonald on DSK67QTVN1PROD with RULES
+
+[PAGE 13]
+65272 Federal Register / Vol. 77, No. 208 / Friday, October 26, 2012 / Rules and Regulations 
+Accordingly, NTIA agreed that an 
+exemption is not required for this class 
+of works. 
+As Joint Creators observed, questions 
+may arise when a technological measure 
+controls access not only to a work in the 
+public domain, but at the same time 
+controls access to other works that are 
+protected by copyright. There was no 
+need for the Register to address this 
+issue on the record presented, however, 
+because proponents neither raised it nor 
+presented any evidence relating to it. 
+B. Video Game Consoles—Software 
+Interoperability 
+Because the Register determined that 
+the evidentiary record failed to support 
+a finding that the inability to 
+circumvent access controls on video 
+game consoles has, or over the course of 
+the next three years likely would have, 
+a substantial adverse impact on the 
+ability to make noninfringing uses, the 
+Register declined to recommend the 
+proposed class. 
+EFF, joined by Andrew ‘‘bunnie’’ 
+Huang (‘‘Huang’’), FSF, SaurikIT, LLC 
+(SaurikIT), and numerous individual 
+supporters, sought an exemption to 
+permit the circumvention of access 
+controls on video game console 
+computer code so that the consoles 
+could be used with non-vendor- 
+approved software that is lawfully 
+acquired. 
+EFF observed that modern video game 
+consoles are increasingly sophisticated 
+computing devices that are capable of 
+running not only games but ‘‘entire 
+computer operating systems.’’ All three 
+major video game manufacturers, 
+however—Sony, Microsoft, and 
+Nintendo—have deployed technological 
+restrictions that force console 
+purchasers to limit their operating 
+systems and software exclusively to 
+vendor-approved offerings. These 
+restrictions require a console owner 
+who would like to install a computer 
+operating system or run a ‘‘homebrew’’ 
+(i.e., independently developed) 
+application to defeat a number of 
+technical measures before they can do 
+so—a process that proponents refer to as 
+‘‘jailbreaking.’’ Proponents sought an 
+exemption from Section 1201(a)(1) to 
+permit such jailbreaking of video game 
+consoles. Because the class they 
+proposed would enable interoperability 
+only with ‘‘lawfully obtained software 
+programs,’’ proponents asserted that the 
+exemption would not authorize or foster 
+infringing activities. 
+In its comments, EFF explained the 
+circumvention process with reference to 
+Sony’s PlayStation 3 (‘‘PS3’’). Sony’s 
+PS3 employs a series of technological 
+protections so that the console can only 
+install and run authenticated, encrypted 
+code. One such measure is the 
+encryption of the console’s firmware, 
+which restricts access to the console. 
+The firmware must be authenticated by 
+the console’s ‘‘bootloader’’ software and 
+decrypted before it can be used. Once 
+the firmware has been authenticated 
+and decrypted, it, in turn, authenticates 
+applications before they can be installed 
+or run on the PS3. EFF added that 
+Microsoft’s Xbox 360 and Nintendo’s 
+Wii employ similar authentication 
+procedures as technological protection 
+measures. 
+In further support of its requested 
+exemption, EFF recounted that when 
+Sony launched the PS3 in 2006, it 
+included a software application called 
+‘‘OtherOS’’ that permitted users to 
+install Linux and UNIX operating 
+systems on their consoles. EFF provided 
+examples of researchers who were able 
+to use these earlier PS3 consoles in lieu 
+of other computer systems to conduct 
+various forms of scientific research, 
+citing an Air Force project that made 
+use of 1700 PS3s, as well as two 
+academic projects employing clusters of 
+PS3s to create high-performance 
+computers. Some of these researchers 
+chose to use clustered PS3s because 
+they were less expensive than the 
+available alternatives. In 2010, however, 
+Sony issued a firmware update for the 
+PS3 that removed the OtherOS 
+functionality. PS3 users were not forced 
+to upgrade, but the failure to adopt the 
+upgrade precluded access to certain 
+gameplay features and might make 
+repair or replacement of the gaming 
+system more difficult. 
+EFF further asserted that none of the 
+three major console manufacturers 
+currently allows the installation of 
+independently developed applications 
+on their consoles unless the developer 
+has obtained approval of the software 
+from the manufacturer through a 
+‘‘stringent’’ process that may require the 
+developer to license costly development 
+tools. As a result, hobbyists and 
+homebrew developers engage in 
+circumvention to defeat technical 
+restrictions in order to create and run 
+games and other applications on the 
+PS3, Wii, and Xbox consoles. 
+EFF noted over 450 independently 
+created games and applications for 
+Nintendo’s Wii available on the 
+homebrew site WiiBrew.org, as well as 
+some 18 homebrew games and several 
+nongaming applications developed for 
+the PS3—including a file backup 
+program called ‘‘Multiman’’ and an 
+application that transforms the PS3 into 
+an FTP server—and a handful of other 
+homebrew applications for other 
+platforms and handheld gaming devices. 
+EFF pointed out that there is no strong 
+homebrew community for the Xbox360, 
+attributing this phenomenon to a 
+Microsoft development program that 
+allows developers to publish games 
+‘‘with relative ease.’’ 
+Proponents argued that 
+manufacturers’ technological 
+restrictions on video game consoles not 
+only constrain consumer choice but also 
+inhibit scientific research and 
+homebrew development activities. 
+Pointing to the Register’s determination 
+in the last Section 1201 rulemaking that 
+circumvention of technological 
+measures on smartphones to enable 
+interoperability with lawfully obtained 
+applications was a permissible fair use, 
+proponents urged that the same logic 
+should apply here. According to 
+proponents, the restrictions on video 
+game consoles do not protect the value 
+or integrity of copyrighted works but 
+instead reflect a business decision to 
+restrict the applications that users can 
+run on their devices. 
+EFF explained that a ‘‘large 
+community’’ of console jailbreakers 
+currently exists for all three major video 
+game consoles but noted that such 
+jailbreakers face potential liability under 
+Section 1201(a)(1). As evidence of this, 
+EFF cited recent litigation pursued by 
+Sony against an individual and others 
+who developed a method for 
+jailbreaking the PS3. EFF explained that 
+in January 2010, George Hotz (also 
+known by his online name ‘‘GeoHot’’) 
+published a method for jailbreaking the 
+PS3. In response, Sony initiated a 
+lawsuit against Hotz and others alleging, 
+among other things, that the defendants 
+had conspired to violate the DMCA. 
+Finally, a few supporters of EFF’s 
+proposal suggested potential scenarios 
+in which a console might need to be 
+jailbroken to effectuate a repair but did 
+not provide any specific evidence of 
+actual repair issues. 
+The proposal to permit circumvention 
+of video game consoles was vigorously 
+opposed by the Entertainment Software 
+Association (‘‘ESA’’), Sony Computer 
+Entertainment America LLC (‘‘SCEA’’ or 
+‘‘Sony’’), and Joint Creators. Opponents 
+filed extensive comments in response to 
+EFF’s request. 
+ESA characterized video game 
+consoles as ‘‘the center of an intellectual 
+property ecosystem’’ which makes 
+copyrighted content readily and legally 
+accessible, stating that the entire system 
+depends upon effective and secure 
+access controls. ESA explained that 
+there are at least two potential access 
+controls at issue. To play an 
+unauthorized application, the user must 
+circumvent not only the encryption on 
+the console’s firmware, but also modify 
+VerDate Mar<15>2010 14:26 Oct 25, 2012 Jkt 229001 PO 00000 Frm 00020 Fmt 4700 Sfmt 4700 E:\FR\FM\26OCR1.SGM 26OCR1emcdonald on DSK67QTVN1PROD with RULES
+
+[PAGE 14]
+65273 Federal Register / Vol. 77, No. 208 / Friday, October 26, 2012 / Rules and Regulations 
+the firmware to defeat the 
+authentication check access control. It 
+added that once modified, the firmware 
+will operate, but the access controls will 
+be circumvented, effectively allowing 
+the console to run unauthorized 
+content. 
+SCEA’s comments focused on its PS3 
+console (the dominant example 
+addressed in EFF’s proposal). SCEA 
+confirmed that the technological 
+restrictions controlling access to the PS3 
+protect both its firmware and the 
+copyrighted video games that are 
+developed for that system. As explained 
+by SCEA, allowing circumvention of the 
+PS3 access controls would mean that 
+the basic security checks could be 
+skipped and the firmware freely 
+modified to bypass or eliminate the 
+process by which the video games are 
+authenticated for use on the console, 
+thus making it ‘‘virtually certain that 
+successful hackers, under the guise of 
+the exemption, will create the tools that 
+enable even novice users to make, 
+distribute, download, and play back 
+illegal copies of games.’’ 
+Throughout their comments, 
+opponents stressed piracy as an 
+overriding concern, noting that once a 
+user circumvents a console’s security 
+measures—even for an ostensibly 
+benign purpose—it becomes a vehicle 
+for unauthorized content. In their view, 
+EFF’s attempt to limit the exemption to 
+interoperability with lawful 
+applications would make no difference 
+in practice, because ‘‘all known 
+methods for circumventing game 
+console [technological protection 
+measures] necessarily eliminate the 
+measures’ ability to preclude the play, 
+reproduction and distribution of 
+infringing content.’’ 
+In support of their contentions 
+regarding the link between 
+circumvention and piracy, opponents 
+provided documentation of console 
+‘‘hacking packages’’ that come bundled 
+with applications to play pirated 
+content. They further noted, again with 
+supporting materials, that the homebrew 
+channel installed with a popular Wii 
+hacking package automatically includes 
+applications that enable the console to 
+play pirated content. They pointed out, 
+with still further support in the record, 
+that the ‘‘Multiman’’ backup system 
+referenced by EFF as an example of a 
+useful application enabled by jailbroken 
+PS3s is used to decrypt and copy 
+protected PS3 games so they can be 
+illegally distributed. Other documentary 
+evidence submitted by opponents 
+showed that the PS3 FTP file server 
+application described by EFF is used as 
+a means to transfer illegal files. 
+Opponents also furnished multiple 
+examples of advertisements for console 
+jailbreaking services that included (for 
+an all-in price) a library of pirated 
+games. 
+Opponents pointed to online forums 
+and other sources that specifically 
+referenced George Hotz’s hack of the 
+PS3—described sympathetically by EFF 
+in its proposal—as permitting users to 
+play pirated games and content, and 
+provided representative postings. The 
+documentation evidenced a broadly 
+shared perception in the gaming 
+community that jailbreaking leads to 
+piracy. Notably, some of those providing 
+commentary made the further 
+observation that such piracy would 
+negatively impact the development of 
+new games. 
+Possibly referring to Hotz, SCEA 
+elaborated on the hacking issue by 
+commenting specifically on the events 
+surrounding a 2010 breach of its PS3 
+system. In that case, hackers announced 
+that they had successfully circumvented 
+the technological measures on PS3 
+firmware, which was accomplished by 
+exploiting vulnerabilities in Linux 
+operating in the OtherOS environment. 
+Although the hackers stated that they 
+did not endorse or condone piracy, one 
+hacker subsequently published PS3’s 
+encryption keys on the Internet, which 
+were quickly used to create jailbreak 
+software to permit the use of illegally 
+made games. Sony saw an immediate 
+rise in the number of illegal copies but 
+no increase in homebrew development, 
+while sales of legitimate software 
+‘‘declined dramatically.’’ As a result of 
+the hack, Sony decided it had no choice 
+but to discontinue OtherOS and issued 
+a system upgrade that disabled OtherOS 
+functionality for those who wished to 
+maintain access to Sony’s PlayStation 
+network. 
+Mindful of the exemption established 
+by the Librarian in the prior proceeding 
+to permit jailbreaking of smartphones, 
+opponents urged that video game 
+consoles are not the equivalent of 
+iPhones, asserting that the technological 
+measures on game consoles legitimately 
+protect the creation and dissemination 
+of copyrighted works by discouraging 
+pirated content and protecting creators’ 
+investment in new games. Opponents 
+distinguished the development of a 
+video game—a long and intensive 
+process ‘‘akin to * * * motion picture 
+production’’ involving a team of 
+developers that can cost tens of millions 
+of dollars—from the relative ease and 
+inexpensiveness of creating a 
+smartphone application. According to 
+opponents, the development of new 
+video games would be significantly 
+impaired without reliable technological 
+protections to protect developers’ 
+investments. 
+With respect to the need to jailbreak 
+consoles to permit the operation of 
+Linux-based homebrew programs, 
+opponents observed that while EFF’s 
+request focused on the PS3, the 
+homebrew community for that device is 
+small, as evidenced by the fact that less 
+than one-tenth of one percent of PS3 
+users (fewer than 2,000 in all) had made 
+use of the PS3’s OtherOS feature. In any 
+event, they noted, there are over 4,000 
+devices on which Linux can be run 
+without the need for circumvention, and 
+homebrew games and applications can 
+be played on a wide array of open 
+platform devices. Opponents further 
+observed that each of the three major 
+video game console manufacturers has a 
+program to support independent 
+developers in creating and publishing 
+compatible games. 
+Finally, opponents disputed 
+proponents’ suggestion that 
+circumvention is necessary to repair 
+broken game consoles, explaining that 
+each console maker offers authorized 
+repair services free of charge for 
+consoles still under warranty for a 
+nominal fee thereafter. 
+Although EFF sought to rely upon the 
+Register’s 2010 determination that 
+modification of smartphone software to 
+permit interoperability with non- 
+vendor-approved applications was a fair 
+use, the Register concluded that the fair 
+use analysis for video consoles diverged 
+from that in the smartphone context. 
+Unlike in the case of smartphones, the 
+record demonstrated that access 
+controls on gaming consoles protect not 
+only the console firmware, but the video 
+games and applications that run on the 
+console as well. The evidence showed 
+that video games are far more difficult 
+and complex to produce than 
+smartphone applications, requiring 
+teams of developers and potential 
+investments in the millions of dollars. 
+While the access controls at issue might 
+serve to further manufacturers’ business 
+interests, they also protect highly 
+valuable expressive works—many of 
+which are created and owned by the 
+manufacturers—in addition to console 
+firmware itself. 
+The Register noted that research 
+activities and functional applications 
+that proponents claimed would be 
+enabled by circumvention might well 
+constitute transformative uses. On the 
+other hand, circumventing console code 
+to play games and other entertainment 
+content (even if lawfully acquired) is 
+not a transformative use, as the 
+circumvented code is serving the same 
+fundamental purpose as the unbroken 
+code. While the second and third fair 
+VerDate Mar<15>2010 14:26 Oct 25, 2012 Jkt 229001 PO 00000 Frm 00021 Fmt 4700 Sfmt 4700 E:\FR\FM\26OCR1.SGM 26OCR1emcdonald on DSK67QTVN1PROD with RULES
+
+[PAGE 15]
+65274 Federal Register / Vol. 77, No. 208 / Friday, October 26, 2012 / Rules and Regulations 
+use factors did not greatly affect the 
+analysis, on the significant question of 
+market harm, the Register concluded 
+that opponents had provided 
+compelling evidence that circumvention 
+of access controls to permit 
+interoperability of video game 
+consoles—regardless of purpose—had 
+the effect of diminishing the value of, 
+and impairing the market for, the 
+affected code, because the compromised 
+code could no longer serve as a secure 
+platform for the development and 
+distribution of legitimate content. The 
+Register noted that instead of countering 
+this evidence with a factual showing to 
+prove opponents wrong, EFF merely 
+asserted that its proposal would not 
+permit infringing uses. The Register did 
+not believe that this response satisfied 
+proponents’ obligation to address the 
+‘‘real-world impact’’ of their proposed 
+exemption. Overall, the Register found 
+that proponents had failed to fulfill their 
+obligation to establish persuasively that 
+fair use could serve as a basis for the 
+exemption they sought. 
+The Register further found that even 
+if proponents had satisfied their burden 
+of establishing noninfringing uses, they 
+nonetheless failed to demonstrate that 
+video game console access controls have 
+or are likely to have a substantial 
+adverse impact on such uses. 
+Proponents identified two broad 
+categories of activities that were 
+allegedly threatened by the prohibition 
+on circumvention, scientific research 
+and homebrew software development. 
+With respect to scientific research, a 
+small number of research projects 
+involving only one type of gaming 
+console, the PS3, suggested a de 
+minimis impact, if any. This conclusion 
+was reinforced by record evidence 
+indicating that Sony had in fact 
+cooperated with and been a supporter of 
+research efforts and that alternative 
+computing resources for such projects 
+were available in the marketplace. 
+Nor, according to the Register’s 
+analysis, did the record support a 
+finding that Section 1201(a)(1) is having 
+a substantial adverse impact on lawful 
+homebrew activities. The most 
+significant level of homebrew activity 
+identified by EFF appears to have 
+occurred in relation to the Wii, but the 
+record was relatively sparse in relation 
+to other gaming platforms. Concerning 
+the use of video game consoles to 
+operate Linux software generally, the 
+record showed that only a very small 
+percentage of PS3 users availed 
+themselves of the (now discontinued) 
+OtherOS option that permitted users to 
+run Linux on their PS3s. At the same 
+time, there are thousands of alternative 
+devices that can be used to develop and 
+run Linux-based video games and other 
+applications. In addition, the record 
+indicated that developers can and do 
+take advantage of various manufacturer 
+programs to pursue independent 
+development activities. 
+Finally, as noted above, the Register 
+determined that proponents offered no 
+factual basis in support of their 
+suggestion that users are having 
+difficulty repairing their consoles as a 
+result of Section 1201(a)(1). This 
+appeared to be only a hypothetical 
+concern, as proponents failed to 
+document any actual instances of users 
+seeking to make repairs. 
+The Register therefore concluded that 
+proponents had failed to establish that 
+the prohibition on circumvention, as 
+applied to video game console code, is 
+causing substantial adverse effects. 
+Turning to the statutory factors, the 
+Register took issue with proponents’ 
+view that piracy was an irrelevant 
+consideration because the exemption 
+they sought was only to allow 
+interoperability with ‘‘lawfully obtained 
+applications.’’ The Register explained 
+that she could not ignore the record 
+before her. Even if piracy were not the 
+initial or intended purpose for 
+circumvention, the record substantiated 
+opponents’ assessment that in the case 
+of video games, console jailbreaking 
+leads to a higher level of infringing 
+activity, thus sharply distinguishing the 
+case of video consoles from 
+smartphones, where the record did not 
+support the same finding. The evidence 
+also suggested that the restriction 
+limiting the proposed class to ‘‘lawfully 
+obtained’’ applications—which the 
+Register has found effective in other 
+contexts—did not provide adequate 
+assurance in this case. The Register 
+noted that simply to suggest, as 
+proponents had, that unlawful uses 
+were outside the scope of the exemption 
+and therefore of no concern was not a 
+persuasive answer. 
+Finally, the Register agreed with 
+proponents’ assessment that the access 
+controls protecting video game console 
+code facilitate a business model, as 
+many technological restrictions do. But 
+the Register concluded that in the case 
+of gaming platforms, that was not the 
+sole purpose. Console access controls 
+protect not only the integrity of the 
+console code, but the copyrighted works 
+that run on the consoles. In so doing, 
+they provide important incentives to 
+create video games and other content for 
+consoles, and thus play a critical role in 
+the development and dissemination of 
+highly innovative copyrighted works. 
+NTIA supported the ‘‘innovative spirit 
+epitomized by independent developers 
+and researchers whose needs 
+proponents contemplate in this class,’’ 
+but noted that the evidence in the 
+record was insufficient to support the 
+considerable breadth of the proposed 
+class. NTIA asserted that the record was 
+unclear with respect to the need for an 
+exemption to enable software 
+interoperability, and that there was 
+compelling evidence of reasonable 
+alternatives available for research 
+purposes. NTIA was also ‘‘cognizant of 
+the proposal’s likely negative impact on 
+the underlying business model that has 
+enabled significant growth and 
+innovation in the video game industry.’’ 
+Although NTIA did not support the 
+exemption as requested by proponents, 
+it did support a limited exemption to 
+allow videogame console owners to 
+repair or replace hardware components, 
+or to ‘‘obtain unlicensed repairs when 
+the console is out of warranty or when 
+the console and authorized replacement 
+parts are no longer on the market.’’ As 
+explained above, however, the Register 
+found that the record lacked any factual 
+basis upon which to recommend the 
+designation of even such a limited class. 
+C. Personal Computing Devices— 
+Software Interoperability 
+While the Register recognized that the 
+concern expressed by proponents—that 
+a broad implementation of restrictive 
+access controls could preclude users 
+from installing operating systems and 
+applications of their choice—is a 
+significant one, she found that 
+proponents had relied heavily on 
+speculation and failed to present 
+specific and compelling evidence in 
+support of a focused exemption. The 
+Register therefore declined to 
+recommend the adoption of the 
+proposed class. 
+Software Freedom Law Center 
+(‘‘SFLC’’), supported by FSF, Mozilla, 
+SaurikIT, New Yorkers for Fair Use, 
+Huang, and others, sought an exemption 
+to permit the circumvention of 
+computer programs on personal 
+computing devices to enable the 
+installation of other software, including 
+alternative operating systems, when 
+such software is lawfully obtained. The 
+proposed exemption would have 
+allowed circumvention by the device 
+owner or by someone acting at the 
+device owner’s request. 
+In requesting this exemption, SFLC 
+explained that there are two broad 
+categories of access controls on personal 
+computing devices: ‘‘application locks,’’ 
+which effectively prevent users from 
+installing certain software applications, 
+and ‘‘OS locks,’’ which effectively 
+prevent users from installing 
+replacement operating systems. Citing 
+the Librarian’s 2010 determination 
+VerDate Mar<15>2010 14:26 Oct 25, 2012 Jkt 229001 PO 00000 Frm 00022 Fmt 4700 Sfmt 4700 E:\FR\FM\26OCR1.SGM 26OCR1emcdonald on DSK67QTVN1PROD with RULES
+
+[PAGE 16]
+65275 Federal Register / Vol. 77, No. 208 / Friday, October 26, 2012 / Rules and Regulations 
+permitting jailbreaking of smartphones 
+to enable interoperability, SFLC asserted 
+that the restrictions addressed by the 
+smartphone exemption have become 
+commonplace on other mobile 
+computing devices and have begun to 
+appear on personal computers. 
+Accordingly, SFLC contended that the 
+smartphone exemption should be 
+‘‘expanded’’ to include ‘‘all personal 
+computing devices’’ so as to permit 
+circumvention for the purpose of 
+installing any software the user chooses, 
+including a new operating system. 
+SFLC explained that the mobile 
+device market, which includes not only 
+smartphones but also tablet computers, 
+is dominated by Google’s Android 
+operating system and Apple’s iOS, 
+which together account for 94 percent of 
+the market. The two most popular ebook 
+readers, Amazon’s Kindle and Barnes & 
+Noble’s Nook, are Android-based 
+devices. According to SFLC, ‘‘[a]ll of the 
+restrictions addressed by the 
+[smartphone] exemption are reproduced 
+on the new formats.’’ Thus, the iOS on 
+the iPhone and iPad limits applications 
+to those obtained from Apple’s store. In 
+the case of Android, users are allowed 
+to install applications obtained from 
+channels other than Google’s Android 
+Marketplace, but Android withholds 
+‘‘many vital privileges’’ (i.e., important 
+device functionalities) from 
+alternatively sourced applications. In 
+addition, even though the Kindle and 
+Nook are Android-based, Amazon and 
+Barnes & Noble have substituted their 
+own exclusive distribution channels, 
+which cannot be avoided without 
+jailbreaking. 
+SFLC further observed that Microsoft 
+has announced that it will require 
+hardware manufacturers for the 
+forthcoming Windows 8 operating 
+system to enable a secure boot system— 
+which can function as a type of OS 
+lock—‘‘by default.’’ It asserted that 
+because Microsoft controls nearly 90 
+percent of the operating system market, 
+secure boot will be a ‘‘nearly 
+ubiquitous’’ feature on personal 
+computers in the next year. According 
+to SFLC, this will ‘‘decimate’’ what is 
+now a thriving market for alternative PC 
+operating systems. In a further 
+submission to the Copyright Office, 
+however, SFLC conceded that Microsoft 
+had established a program to enable 
+developers to ‘‘have their operating 
+systems signed by Microsoft’’—i.e., to 
+acquire a secure boot key—for a fee of 
+99 dollars. 
+SFLC acknowledged that the stated 
+justification for OS locks is to protect 
+device owners from malicious software 
+by making it impossible for viruses to 
+gain access to, or replace, a device’s 
+operating system. But in SFLC’s words, 
+‘‘[t]his ‘security feature’ is undiscerning: 
+it will reject the device owner’s 
+intentional installation of an operating 
+system just as it will reject a virus’s 
+payload.’’ SFLC observed that ‘‘[t]o the 
+extent the firmware lock being 
+circumvented merely prevents 
+unauthorized operating systems from 
+running, it does not protect access to a 
+copyrighted work of the device 
+producer, but rather prevents access to 
+a competing copyrighted work to which 
+the device owner has a license.’’ 
+On the question of noninfringing use, 
+SFLC asserted that it is not infringing 
+for the owner of a device to install 
+applications that have not been 
+approved by the device’s manufacturer. 
+According to SFLC, this conclusion— 
+drawn from the Register’s analysis and 
+findings in the 2010 rulemaking 
+proceeding—applies with equal force to 
+application locks on devices other than 
+smartphones, as well as to OS locks. 
+SFLC noted that in 2010, the Register 
+determined that circumvention for the 
+purpose of achieving interoperability 
+was either ‘‘noninfringing or fair.’’ SFLC 
+further opined that, while modification 
+of a preinstalled operating system is 
+sometimes necessary to circumvent an 
+application lock, the same is not true of 
+OS locks, as removal of a device’s 
+default operating system does not 
+implicate any of the exclusive rights of 
+the owner of the operating system. 
+The proposed class was opposed by 
+Joint Creators, who argued that the 
+requested exemption ‘‘targets every 
+device and every platform, and creates 
+an open-ended standard for 
+circumvention.’’ In their view, if 
+granted, the exemption ‘‘would strip 
+any copyright owner, distributor, or 
+licensee from exercising any choices 
+with respect to how to construct a 
+distribution system related to personal 
+computing, and would thus expose 
+copyright owners and their business 
+partners to unnecessary risk, piracy, and 
+unpredictability.’’ Joint Creators 
+characterized proponents’ request as, 
+‘‘at best, premature,’’ and maintained 
+that proponents had failed to meet the 
+substantial burden required for an 
+exemption. 
+Joint Creators also contended that the 
+‘‘primary effects’’ of such an exemption 
+would be to enable distribution of 
+pirated applications, and to remove 
+technical limitations that would 
+otherwise protect trial versions of 
+applications. According to Joint 
+Creators, circumvention of technical 
+measures on computer programs is 
+accomplished primarily to unlock trial 
+versions of software or enable access to 
+pirated copies or unauthorized modified 
+versions. 
+Joint Creators stressed that 
+proponents’ arguments in favor of the 
+proposed class were based on 
+speculation rather than facts. They 
+asserted that proponents’ comments 
+presented ‘‘theories’’ about what might 
+occur but failed to demonstrate that the 
+scenarios they portrayed were more 
+likely than not. In particular, with 
+respect to the secure boot issue, Joint 
+Creators pointed out that proponents 
+had not identified a single platform that 
+precluded the installation of an 
+alternative operating system. 
+Finally, Joint Creators asserted that 
+the proposed class—in purporting to 
+immunize circumvention, ‘‘performed 
+* * * at the request of the device’s 
+owner’’—amounted to a request to 
+exempt the provision of circumvention 
+services, which is prohibited under 
+Section 1201(a)(1)(E). 
+The Register found that proponents 
+had offered very little support for their 
+claim that the uses for which they 
+sought an exemption are noninfringing, 
+even though it is a threshold 
+requirement before an exemption can be 
+considered. Instead, proponents chose 
+to rest their case upon the Register’s 
+conclusion in the 2010 rulemaking—in 
+the context of smartphones—that it was 
+not an infringement to install 
+applications that have not been 
+approved by a device’s manufacturer. 
+The Register opined that proponents’ 
+conclusory declaration that the 
+expansive set of uses upon which they 
+premised their request was 
+noninfringing was inadequate in the 
+context of the rulemaking. 
+The Register noted that the record was 
+murky on the especially critical issue of 
+whether the removal of an operating 
+system from a device in its entirety—an 
+activity proponents sought to facilitate 
+through the rulemaking process— 
+required the circumvention of technical 
+measures before erasing the operating 
+system, or whether it was possible to 
+remove an operating system without 
+prior circumvention (even if such 
+removal also simultaneously removed 
+the access controls for that operating 
+system). At the hearings, the Copyright 
+Office sought clarification on this point 
+from the parties, but the results were 
+inconclusive. Another question that was 
+not answered by the record was whether 
+an OS lock preventing the operation of 
+an alternative operating system is in fact 
+a technological measure protecting a 
+copyrighted work within the meaning of 
+Section 1201(a). 
+The Register explained that to the 
+extent an operating system can be 
+removed without having first to gain 
+VerDate Mar<15>2010 14:26 Oct 25, 2012 Jkt 229001 PO 00000 Frm 00023 Fmt 4700 Sfmt 4700 E:\FR\FM\26OCR1.SGM 26OCR1emcdonald on DSK67QTVN1PROD with RULES
+
+[PAGE 17]
+65276 Federal Register / Vol. 77, No. 208 / Friday, October 26, 2012 / Rules and Regulations 
+access to the work through an act of 
+circumvention, even if such work is 
+protected for other purposes by 
+technological measures, such removal 
+would not constitute a violation of 
+Section 1201(a)(1). This is because upon 
+deletion of the work, any such 
+technological measure is no longer 
+‘‘effectively control[ling] access’’ to the 
+work. In such a case, of course, an 
+exemption is unnecessary. 
+The Register also observed that much 
+of proponents’ concern appeared to be 
+centered on Microsoft’s to be launched 
+Windows 8 operating system and its 
+‘‘secure boot’’ functionality. But 
+proponents’ own statements indicated 
+that this concern was speculative. It 
+appeared undisputed in the record that, 
+at least as of today, purchasers of PCs 
+are able to install alternative operating 
+systems without resorting to 
+circumvention. Indeed, proponents 
+conceded that the specification 
+allegedly adopted by Microsoft ‘‘does 
+not prevent manufacturers from 
+allowing users to disable the lock or add 
+non-Microsoft keys,’’ and also 
+acknowledged that Microsoft permitted 
+developers to acquire keys for 99 
+dollars. 
+The Register determined that 
+proponents’ suppositions concerning 
+the features of forthcoming software fell 
+short of making a case that the harmful 
+effects they posited were more likely to 
+occur than not. The Register reiterated 
+that mere speculation cannot support an 
+exception to Section 1201(a)(1); rather, 
+predicted adverse effects are only 
+cognizable ‘‘in extraordinary 
+circumstances in which the evidence of 
+likelihood of future adverse impact is 
+highly specific, strong and persuasive.’’ 
+The Register concluded that proponents 
+had failed to offer any such evidence 
+here. 
+The Register additionally observed 
+that granting an exemption for such a 
+sweeping class would be without 
+precedent in the history of Section 1201 
+rulemakings. In the past, faced with a 
+proposed class with respect to which 
+the proponents have offered substantial 
+and persuasive evidence, but for which 
+the definition proposed is not fully 
+congruent with the proponents’ 
+showing, the Register has—to the extent 
+a sufficient basis exists in the record— 
+refined the class definition to ensure 
+that it is appropriately tailored to her 
+findings. But such refinement is only 
+possible where the proponent of the 
+proposed class has otherwise succeeded 
+in demonstrating that some version of 
+its exemption is warranted. The Register 
+cannot delineate the appropriate 
+contours of a class ‘‘in a factual 
+vacuum.’’ 
+As a final consideration, the Register 
+noted that to the extent the proposed 
+class would effectively permit the 
+provision of circumvention services to 
+others—as it appeared to do—it must be 
+rejected, as the provision of such 
+services to others is forbidden under 
+Section 1201(a)(2) of the DMCA. 
+NTIA was ‘‘not convinced that Secure 
+Boot constitutes ‘a technological 
+measure that effectively controls access 
+to a work’ protected by U.S. copyright 
+law.’’’ It further noted that proponents 
+had failed to present evidence that the 
+secure boot functionality restricted 
+access to Windows 8 or any other work 
+for purposes of protecting copyright. 
+NTIA thus did not support the 
+designation of the proposed class. 
+D. Motion Pictures and Other Works on 
+DVDs and Other Media—Space Shifting 
+The Register concluded that 
+proponents had failed to establish that 
+the prohibition on circumvention is 
+imposing an adverse impact on 
+noninfringing uses and declined to 
+recommend the requested exemptions 
+for space shifting. 
+Proponent Public Knowledge, as well 
+as proponents Cassiopaea, Tambolini, 
+Susan Fuhs, Kellie Heistand, Andy 
+Kossowsky, and Curt Wiederhoeft, 
+sought similar exemptions to permit the 
+circumvention of motion pictures and 
+other works on DVDs and other media 
+to enable ‘‘space shifting,’’ i.e., the 
+copying of complete works to permit 
+personal use on alternative devices. 
+Proponent Public Knowledge stated a 
+desire to move lawfully acquired motion 
+pictures on DVDs to consumer 
+electronic devices, such as tablet 
+computers and laptop computers, that 
+lack DVD drives. It asserted that 
+consumers’ inability to play lawfully 
+acquired DVDs on the newest devices 
+adversely affected noninfringing uses of 
+the works contained on DVDs, and that 
+a reasonable solution was for these 
+consumers to copy the motion pictures 
+into a format that could be viewed on 
+the new devices. Public Knowledge 
+urged that such an exemption ‘‘would 
+merely allow a user to make use of a 
+motion picture she has already 
+acquired.’’ The space shifting proposals 
+by the additional proponents—most of 
+which were one page or less—sought 
+similar exemptions, but offered few 
+factual details and little or no legal 
+analysis. 
+The current proposals were not unlike 
+the proposal sought in the 2006 
+rulemaking. In that rulemaking, the 
+Register declined to recommend a space 
+shifting exemption in part because the 
+proponents failed to offer persuasive 
+legal arguments that space shifting was 
+a noninfringing use. The Register also 
+addressed space shifting in the 2003 
+rulemaking in her consideration of a 
+requested exemption regarding 
+‘‘tethering.’’ In her 2003 
+recommendation, the Register observed 
+that ‘‘no court has held that ‘space- 
+shifting’ is a fair use.’’ 
+Public Knowledge cited RIAA v. 
+Diamond Multimedia Systems Inc., 180 
+F.3d 1072 (1999), and Sony Corporation 
+of America v. Universal City Studios, 
+Inc., 464 U.S. 417 (1984), in support of 
+its contention that space shifting is a 
+noncommercial personal use, and 
+therefore a fair use. It applied the four- 
+factor fair use test of Section 107 in 
+support of its assertion that the sort of 
+space shifting for which it sought an 
+exemption is a noninfringing use. Public 
+Knowledge further argued that the space 
+shifting would not negatively impact the 
+availability of, or harm the market for, 
+copyrighted works, or contribute to 
+piracy. Finally, Public Knowledge 
+claimed that there were no reasonable 
+alternatives to such space shifting. 
+Public Knowledge asked the Register 
+to evaluate the legitimacy of personal 
+space shifting through ‘‘independent 
+examination.’’ According to Public 
+Knowledge, the Section 1201(a) 
+rulemaking process of ‘‘recommending, 
+consulting, determining, and 
+speculating necessarily requires the 
+Register to draw conclusions beyond 
+parroting the statute and existing case 
+law.’’ 
+Proponents of the additional 
+proposals sought to exempt other digital 
+works, including sound recordings and 
+ebooks, in addition to motion pictures, 
+for purposes of space shifting. They 
+offered insufficient factual or legal 
+analysis in support of their proposed 
+exemptions, however. 
+DVD CCA opposed the requested 
+exemptions by first observing that, 
+although many new electronic devices 
+are made without DVD drives, 
+consumers can still play DVDs on such 
+devices through the use of peripheral 
+tools, i.e., external drives that connect to 
+the devices and are capable of playing 
+DVDs. DVD CCA argued that just 
+because a consumer prefers a portable 
+device for certain purposes, it does not 
+mean that the consumer is foreclosed 
+from using a different device to play 
+DVDs or that an exemption for space 
+shifting is warranted. 
+DVDCCA further noted that, contrary 
+to the statements made by Public 
+Knowledge, consumers have not 
+purchased the motion picture itself, but 
+a DVD copy of the motion picture, 
+which affords only the right to access 
+the work according to the DVD format 
+specifications, i.e., through the use of a 
+VerDate Mar<15>2010 14:26 Oct 25, 2012 Jkt 229001 PO 00000 Frm 00024 Fmt 4700 Sfmt 4700 E:\FR\FM\26OCR1.SGM 26OCR1emcdonald on DSK67QTVN1PROD with RULES
+
+[PAGE 18]
+65277 Federal Register / Vol. 77, No. 208 / Friday, October 26, 2012 / Rules and Regulations 
+DVD player. DVDCCA explained that 
+consumers are able to purchase the copy 
+at its retail price—typically less than 20 
+dollars—because it is distributed on a 
+specific medium that will only play 
+back on a licensed player. It stated that 
+the Register has previously recognized 
+that there is no unqualified right to 
+access a work on a particular device. 
+DVDCCA alleged that the proposed 
+exemption would harm the market for 
+works distributed in the DVD medium 
+as well as that for works offered in other 
+digital media, explaining that the 
+proposed exemption would displace 
+sales for existing and forthcoming 
+digital offerings that the DMCA was 
+meant to encourage. It further alleged 
+that the proposed exemption would 
+create ‘‘public confusion’’ as to what is 
+permitted activity. 
+Joint Creators similarly disputed 
+Public Knowledge’s assertion that 
+consumers are adversely affected by an 
+inability to play DVDs on electronic 
+devices that are not designed to play 
+DVDs, pointing to services that provide 
+access to numerous titles for low 
+subscription prices. They argued that it 
+was not the purpose of the rulemaking 
+to provide consumers with the most 
+cost-effective manner to obtain 
+commercial video content. 
+AACS LA opposed an exemption for 
+space shifting that would apply to 
+AACS technology protecting Blu-ray 
+discs. It noted that proponents had 
+failed to satisfy their burden to 
+demonstrate that an exemption is 
+warranted or that space shifting is a 
+noninfringing act. 
+The Register recognized that there is 
+significant consumer interest in the 
+proposed exemption. Proponents, 
+however, had the burden of 
+demonstrating that the requested use 
+was noninfringing. Neither of the two 
+key cases relied upon by proponents, 
+however, addresses or informs the space 
+shifting activities at issue. 
+The Register noted that she had 
+previously explained that Diamond 
+Multimedia—a case in which the court 
+was called upon to interpret the Audio 
+Home Recording Act (‘‘AHRA’’)—‘‘did 
+not hold that ‘space-shifting’ is fair use. 
+It did state, in dicta, that ‘space-shifting’ 
+of digital and analog musical recordings 
+is a noncommercial personal use 
+consistent with the Audio Home 
+Recording Act.’’ Notably, neither 
+Diamond Multimedia, nor the statute it 
+interpreted, addressed motion pictures, 
+the focus of Public Knowledge’s 
+proposal. 
+Turning to Sony, the Register clarified 
+that that case involved ‘‘time-shifting,’’ 
+defined by the Supreme Court as ‘‘the 
+practice of recording a program to view 
+it once at a later time, and thereafter 
+erasing it.’’ It did not address the 
+legality of ‘‘librarying,’’ i.e., the 
+maintenance of copies of copyrighted 
+works. Here, by contrast, librarying was 
+among the activities contemplated by 
+the proposed exemptions. 
+The Register further observed that the 
+law does not guarantee access to 
+copyrighted material in a user’s 
+preferred format or technique. Indeed, 
+copyright owners typically have the 
+legal authority to decide whether and 
+how to exploit new formats. The 
+Register noted that while the law may 
+someday evolve to accommodate some 
+of proponents’ proposed uses, more 
+recent cases touching upon space 
+shifting confirm that the fair use 
+implications of various forms of space 
+shifting are far from settled. The 
+Register reiterated her view that the 
+Section 1201 rulemaking process was 
+‘‘not the forum in which to break new 
+ground on the scope of fair use.’’ She 
+then proceeded to assess the proposed 
+exemptions under the traditional fair 
+use factors. 
+In urging that space shifting is a fair 
+use, Public Knowledge characterized the 
+copying of motion pictures for use on 
+personal devices as a ‘‘paradigmatic 
+noncommercial personal use’’ that 
+could facilitate a transformative use. It 
+further asserted that integrating 
+reproductions of motion pictures from 
+DVDs into a consumer’s media 
+management software was analogous to 
+the integration of thumbnail images into 
+Internet search engines found to be a 
+transformative use in Perfect 10, Inc. v. 
+Amazon.com, Inc., 487 F.3d 701 (9th 
+Cir. 2007). 
+The Register did not agree with this 
+analysis. In her view, the incorporation 
+of reproductions of motion pictures 
+from DVDs into a consumer’s media 
+management software is not equivalent 
+to the provision of public search engine 
+functionality. Rather, it is simply a 
+means for an individual consumer to 
+access content for the same 
+entertainment purpose as the original 
+work. Put another way, it does not 
+‘‘add[] something new, with a further 
+purpose or different character, altering 
+the first with new expression, 
+meaning,’’ or advance criticism, 
+comment, or any other interest 
+enumerated in the preamble of Section 
+107. The Register therefore concluded 
+that the first fair use factor did not favor 
+a finding of fair use. The Register 
+additionally determined that where 
+creative works were being copied in 
+their entirety, factors two and three also 
+weighed against fair use, and that there 
+was an inadequate basis in the record to 
+conclude that the developing market for 
+the online distribution of motion 
+pictures would not be harmed by the 
+proposed uses. 
+Finally, the Register concluded that 
+proponents had failed to demonstrate 
+that the use of a reasonably priced 
+peripheral, a different device, or an 
+online subscription service to access 
+and play desired content did not offer 
+a reasonable alternative to 
+circumvention. Accordingly, the 
+Register was not persuaded that the 
+inability to engage in the space shifting 
+activities described by proponents is 
+having a substantial adverse impact on 
+consumers’ ability to make 
+noninfringing uses of copyrighted 
+works. 
+NTIA suggested what it described as 
+a ‘‘more narrowly-constructed’’ version 
+of Public Knowledge’s proposed 
+exemption. Specifically, it supported an 
+exemption to allow circumvention of 
+lawfully acquired DVDs ‘‘when the DVD 
+neither contains nor is accompanied by 
+an additional copy of the work in an 
+alternative digital format, and when 
+circumvention is undertaken solely in 
+order to accomplish the noncommercial 
+space shifting of the contained motion 
+picture.’’ NTIA voiced support for the 
+motion picture industry’s efforts to 
+make content available on the wide 
+range of new devices, and encouraged 
+the industry to continue developing 
+new offerings. It contended that by 
+limiting the exemption to circumstances 
+in which the market had not supplied 
+alternatives to DVDs, ‘‘the potential 
+adverse effect on the market is 
+minimal.’’ 
+The Register likewise expressed 
+support for the motion picture 
+industry’s innovation and the 
+development of market approaches to 
+satisfy the demand for electronically 
+distributed content. But while the 
+Register was sympathetic to the desire 
+to consume content on a variety of 
+different devices, she noted that there is 
+no basis under current law to assume 
+that the space shifting activities that 
+would be permitted under NTIA’s 
+proposal would be noninfringing. 
+Moreover, in light of the record before 
+her, the Register did not find that such 
+activities would not adversely affect the 
+legitimate future markets of copyright 
+owners. 
+V. Conclusion 
+Having considered the evidence in the 
+record, the contentions of the 
+commenting parties, and the statutory 
+objectives, the Register of Copyrights 
+has recommended that the Librarian of 
+Congress publish certain classes of 
+works, as designated above, so that the 
+prohibition against circumvention of 
+VerDate Mar<15>2010 14:26 Oct 25, 2012 Jkt 229001 PO 00000 Frm 00025 Fmt 4700 Sfmt 4700 E:\FR\FM\26OCR1.SGM 26OCR1emcdonald on DSK67QTVN1PROD with RULES
+
+[PAGE 19]
+65278 Federal Register / Vol. 77, No. 208 / Friday, October 26, 2012 / Rules and Regulations 
+technological measures that effectively 
+control access to copyrighted works 
+shall not apply to persons who engage 
+in noninfringing uses of those particular 
+classes of works. 
+Dated: October 22, 2012. 
+Maria A. Pallante, 
+Register of Copyrights. 
+Determination of the Librarian of 
+Congress 
+Having duly considered and accepted 
+the Recommendation of the Register of 
+Copyrights, which Recommendation is 
+hereby incorporated by reference, the 
+Librarian of Congress is exercising his 
+authority under 17 U.S.C. 1201(a)(1)(C) 
+and (D) and is publishing as a new rule 
+the classes of copyrighted works that 
+shall be subject to the exemption found 
+in 17 U.S.C. 1201(a)(1)(B) from the 
+prohibition against circumvention of 
+technological measures that effectively 
+control access to copyrighted works set 
+forth in 17 U.S.C. 1201(a)(1)(A). 
+List of Subjects in 37 CFR Part 201 
+Copyright, Exemptions to prohibition 
+against circumvention. 
+Final Regulations 
+For the reasons set forth in the 
+preamble, 37 CFR part 201 is amended 
+as follows: 
+PART 201—GENERAL PROVISIONS 
+■ 1. The authority citation for part 201 
+continues to read as follows: 
+Authority: 17 U.S.C. 702. 
+■ 2. Section 201.40 is amended by 
+revising paragraph (b) to read as follows: 
+§ 201.40 Exemption to prohibition against 
+circumvention. 
+* * * * * 
+(b) Classes of copyrighted works. 
+Pursuant to the authority set forth in 17 
+U.S.C. 1201(a)(1)(C) and (D), and upon 
+the recommendation of the Register of 
+Copyrights, the Librarian has 
+determined that the prohibition against 
+circumvention of technological 
+measures that effectively control access 
+to copyrighted works set forth in 17 
+U.S.C. 1201(a)(1)(A) shall not apply to 
+persons who engage in noninfringing 
+uses of the following classes of 
+copyrighted works: 
+(1) Literary works, distributed 
+electronically, that are protected by 
+technological measures which either 
+prevent the enabling of read-aloud 
+functionality or interfere with screen 
+readers or other applications or assistive 
+technologies in the following instances: 
+(i) When a copy of such a work is 
+lawfully obtained by a blind or other 
+person with a disability, as such a 
+person is defined in 17 U.S.C. 121; 
+provided, however, the rights owner is 
+remunerated, as appropriate, for the 
+price of the mainstream copy of the 
+work as made available to the general 
+public through customary channels; or 
+(ii) When such work is a nondramatic 
+literary work, lawfully obtained and 
+used by an authorized entity pursuant to 
+17 U.S.C. 121. 
+(2) Computer programs that enable 
+wireless telephone handsets to execute 
+lawfully obtained software applications, 
+where circumvention is accomplished 
+for the sole purpose of enabling 
+interoperability of such applications 
+with computer programs on the 
+telephone handset. 
+(3) Computer programs, in the form of 
+firmware or software, that enable a 
+wireless telephone handset originally 
+acquired from the operator of a wireless 
+telecommunications network or retailer 
+no later than ninety days after the 
+effective date of this exemption to 
+connect to a different wireless 
+telecommunications network, if the 
+operator of the wireless 
+communications network to which the 
+handset is locked has failed to unlock it 
+within a reasonable period of time 
+following a request by the owner of the 
+wireless telephone handset, and when 
+circumvention is initiated by the owner, 
+an individual consumer, who is also the 
+owner of the copy of the computer 
+program in such wireless telephone 
+handset, solely in order to connect to a 
+different wireless telecommunications 
+network, and such access to the network 
+is authorized by the operator of the 
+network. 
+(4) Motion pictures, as defined in 17 
+U.S.C. 101, on DVDs that are lawfully 
+made and acquired and that are 
+protected by the Content Scrambling 
+System, where the person engaging in 
+circumvention believes and has 
+reasonable grounds for believing that 
+circumvention is necessary because 
+reasonably available alternatives, such 
+as noncircumventing methods or using 
+screen capture software as provided for 
+in alternative exemptions, are not able 
+to produce the level of high-quality 
+content required to achieve the desired 
+criticism or comment on such motion 
+pictures, and where circumvention is 
+undertaken solely in order to make use 
+of short portions of the motion pictures 
+for the purpose of criticism or comment 
+in the following instances: 
+(i) In noncommercial videos; 
+(ii) In documentary films; 
+(iii) In nonfiction multimedia ebooks 
+offering film analysis; and 
+(iv) For educational purposes in film 
+studies or other courses requiring close 
+analysis of film and media excerpts, by 
+college and university faculty, college 
+and university students, and 
+kindergarten through twelfth grade 
+educators. For purposes of this 
+exemption, ‘‘noncommercial videos’’ 
+includes videos created pursuant to a 
+paid commission, provided that the 
+commissioning entity’s use is 
+noncommercial. 
+(5) Motion pictures, as defined in 17 
+U.S.C. 101, that are lawfully made and 
+acquired via online distribution services 
+and that are protected by various 
+technological protection measures, 
+where the person engaging in 
+circumvention believes and has 
+reasonable grounds for believing that 
+circumvention is necessary because 
+reasonably available alternatives, such 
+as noncircumventing methods or using 
+screen capture software as provided for 
+in alternative exemptions, are not able 
+to produce the level of high-quality 
+content required to achieve the desired 
+criticism or comment on such motion 
+pictures, and where circumvention is 
+undertaken solely in order to make use 
+of short portions of the motion pictures 
+for the purpose of criticism or comment 
+in the following instances: 
+(i) In noncommercial videos; 
+(ii) In documentary films; 
+(iii) In nonfiction multimedia ebooks 
+offering film analysis; and 
+(iv) For educational purposes in film 
+studies or other courses requiring close 
+analysis of film and media excerpts, by 
+college and university faculty, college 
+and university students, and 
+kindergarten through twelfth grade 
+educators. For purposes of this 
+exemption, ‘‘noncommercial videos’’ 
+includes videos created pursuant to a 
+paid commission, provided that the 
+commissioning entity’s use is 
+noncommercial. 
+(6)(i) Motion pictures, as defined in 
+17 U.S.C. 101, on DVDs that are lawfully 
+made and acquired and that are 
+protected by the Content Scrambling 
+System, where the circumvention, if 
+any, is undertaken using screen capture 
+technology that is reasonably 
+represented and offered to the public as 
+enabling the reproduction of motion 
+picture content after such content has 
+been lawfully decrypted, when such 
+representations have been reasonably 
+relied upon by the user of such 
+technology, when the person engaging 
+in the circumvention believes and has 
+reasonable grounds for believing that 
+the circumvention is necessary to 
+achieve the desired criticism or 
+comment, and where the circumvention 
+is undertaken solely in order to make 
+use of short portions of the motion 
+VerDate Mar<15>2010 14:26 Oct 25, 2012 Jkt 229001 PO 00000 Frm 00026 Fmt 4700 Sfmt 4700 E:\FR\FM\26OCR1.SGM 26OCR1emcdonald on DSK67QTVN1PROD with RULES
+
+[PAGE 20]
+65279 Federal Register / Vol. 77, No. 208 / Friday, October 26, 2012 / Rules and Regulations 
+pictures for the purpose of criticism or 
+comment in the following instances: 
+(A) In noncommercial videos; 
+(B) In documentary films; 
+(C) In nonfiction multimedia ebooks 
+offering film analysis; and 
+(D) For educational purposes by 
+college and university faculty, college 
+and university students, and 
+kindergarten through twelfth grade 
+educators. 
+(ii) For purposes of this exemption, 
+‘‘noncommercial videos’’ includes 
+videos created pursuant to a paid 
+commission, provided that the 
+commissioning entity’s use is 
+noncommercial. 
+(7)(i) Motion pictures, as defined in 
+17 U.S.C. 101, that are lawfully made 
+and acquired via online distribution 
+services and that are protected by 
+various technological protection 
+measures, where the circumvention, if 
+any, is undertaken using screen capture 
+technology that is reasonably 
+represented and offered to the public as 
+enabling the reproduction of motion 
+picture content after such content has 
+been lawfully decrypted, when such 
+representations have been reasonably 
+relied upon by the user of such 
+technology, when the person engaging 
+in the circumvention believes and has 
+reasonable grounds for believing that 
+the circumvention is necessary to 
+achieve the desired criticism or 
+comment, and where the circumvention 
+is undertaken solely in order to make 
+use of short portions of the motion 
+pictures for the purpose of criticism or 
+comment in the following instances: 
+(A) In noncommercial videos; 
+(B) In documentary films; 
+(C) In nonfiction multimedia ebooks 
+offering film analysis; and 
+(D) For educational purposes by 
+college and university faculty, college 
+and university students, and 
+kindergarten through twelfth grade 
+educators. 
+(ii) For purposes of this exemption, 
+‘‘noncommercial videos’’ includes 
+videos created pursuant to a paid 
+commission, provided that the 
+commissioning entity’s use is 
+noncommercial. 
+(8) Motion pictures and other 
+audiovisual works on DVDs that are 
+protected by the Content Scrambling 
+System, or that are distributed by an 
+online service and protected by 
+technological measures that control 
+access to such works, when 
+circumvention is accomplished solely to 
+access the playhead and/or related time 
+code information embedded in copies of 
+such works and solely for the purpose 
+of conducting research and 
+development for the purpose of creating 
+players capable of rendering visual 
+representations of the audible portions 
+of such works and/or audible 
+representations or descriptions of the 
+visual portions of such works to enable 
+an individual who is blind, visually 
+impaired, deaf, or hard of hearing, and 
+who has lawfully obtained a copy of 
+such a work, to perceive the work; 
+provided however, that the resulting 
+player does not require circumvention 
+of technological measures to operate. 
+* * * * * 
+Dated: October 22, 2012. 
+James H. Billington, 
+The Librarian of Congress. 
+[FR Doc. 2012–26308 Filed 10–25–12; 8:45 am] 
+BILLING CODE 1410–30–P 
+POSTAL SERVICE 
+39 CFR Part 111 
+Domestic Competitive Products 
+Pricing and Mailing Standards 
+Changes 
+AGENCY: Postal ServiceTM. 
+ACTION: Final rule. 
+SUMMARY: The Postal Service is revising 
+Mailing Standards of the United States 
+Postal Service, Domestic Mail Manual 
+(DMM
+® ), to reflect changes to prices and 
+mailing standards for the following 
+competitive products: Express Mail
+® , 
+Priority Mail® , First-Class Package 
+ServiceTM, Parcel Select® , Parcel Post® , 
+Extra Services, Return Services, Mailer 
+Services, and Recipient Services. 
+DATES: Effective Date: January 27, 2013. 
+FOR FURTHER INFORMATION CONTACT : 
+Margaret Choiniere (202) 268–7231 or 
+Garry Rodriguez (202) 268–7281. 
+SUPPLEMENTARY INFORMATION: This final 
+rule describes new prices and product 
+features for competitive products, by 
+class of mail, established by the 
+Governors of the United States Postal 
+Service
+® . New prices are available 
+under Docket Number CP2013–3 on the 
+Postal Regulatory Commission’s (PRC) 
+Web site at http://www.prc.gov, and are 
+also located on the Postal Explorer
+®  
+Web site at http://pe.usps.com. 
+Competitive product prices and 
+changes are identified by product as 
+follows: 
+Express Mail 
+Prices 
+Overall, Express Mail prices will 
+increase 5.9 percent. Express Mail will 
+continue to offer zoned Retail, 
+Commercial Base
+TM and Commercial 
+PlusTM pricing tiers. 
+Retail prices will increase an average 
+of 6.5 percent. The price for the Retail 
+Flat Rate Envelope, Legal Flat Rate 
+Envelope, and the recently-introduced 
+Padded Flat Rate Envelope is increasing 
+to $19.95. The Flat Rate Box price will 
+remain at $39.95. 
+The existing Commercial Base prices 
+offer lower prices to customers who use 
+online and other authorized postage 
+payment methods. Commercial Base 
+prices will increase 2.0 percent. 
+The existing Commercial Plus price 
+category offers price incentives to large 
+volume customers. Commercial Plus 
+prices will increase 1.0 percent. 
+Priority Mail 
+Prices 
+Overall, Priority Mail prices will 
+increase 6.3 percent. The price increase 
+varies by price cell and price tier. 
+Retail prices will increase an average 
+of 9.0 percent, but Retail Priority Mail 
+will now include USPS
+® tracking and 
+confirmation of delivery at no 
+additional charge, offsetting about 3 
+percent of the increase. The regular Flat 
+Rate envelope will be priced at $5.60, 
+with the Legal Flat Rate Envelope priced 
+at $5.75 and Padded Flat Rate Envelope 
+priced at $5.95. Flat Rate Box prices will 
+be: Small, $5.80; Medium, $12.35; 
+Large, $16.85 and Large APO/FPO, 
+$14.85. 
+Commercial Base prices offer lower 
+prices to customers who use online and 
+other authorized postage payment 
+methods. Commercial Base prices will 
+increase an average of 3.7 percent. 
+Commercial Base pricing will offer an 
+average 11.3 percent discount off retail 
+prices. 
+Commercial Plus price category offers 
+attractive price incentives to large 
+volume customers. Commercial Plus 
+prices will increase an average of 3.8 
+percent. Commercial Plus pricing will 
+offer an average 16.2 percent discount 
+off retail prices. 
+Critical Mail 
+Critical Mail
+® letters and flats are 
+enhanced with a new option, signature 
+upon delivery, as part of the service 
+offering. The Critical Mail letter with 
+signature option is priced at $4.60; the 
+Critical Mail flat with signature option 
+is priced at $5.35. 
+Critical Mail Returns 
+The Postal Service is providing a new 
+option within the suite of USPS Returns 
+Services to include Critical Mail pieces. 
+This new product will afford customers 
+the ability to expedite their returns by 
+using barcoded USPS Critical Mail 
+(letters and flats). 
+VerDate Mar<15>2010 14:26 Oct 25, 2012 Jkt 229001 PO 00000 Frm 00027 Fmt 4700 Sfmt 4700 E:\FR\FM\26OCR1.SGM 26OCR1emcdonald on DSK67QTVN1PROD with RULES

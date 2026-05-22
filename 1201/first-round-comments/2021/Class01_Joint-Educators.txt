@@ -1,0 +1,988 @@
+[PAGE 1]
+This is a Word document that allows users to type into the spaces below. The comment may be single -spaced, but 
+should be in at least 12-point type. The italicized instructions on this template may be deleted.  
+1 
+ 
+ 
+Please submit a separate comment for each proposed class. 
+NOTE: This form must be used in all three rounds of comments by all commenters not 
+submitting short-form comments directly through regulations.gov, whether the commenter is 
+supporting, opposing, or merely providing pertinent information about a proposed exemption. 
+When commenting on a proposed expansion to an existing exemption, you should focus your 
+comments only on those issues relevant to the proposed expansion.  
+[   ] Check here if multimedia evidence is being provided in connection with this comment 
+Commenters can provide relevant multimedia evidence to support their arguments. Please note 
+that such evidence must be separately submitted in conformity with the Office’s instructions for 
+submitting multimedia evidence, available on the Copyright Office website at 
+https://www.copyright.gov/1201/2021. 
+ITEM A.  COMMENTER INFORMATION  
+Identify the commenter and provide a means to contact the commenter and/or the commenter’s 
+representatives, if any. 
+This petition is submitted by Peter Decherney, Professor of Cinema and Media Studies and 
+English at the University of Pennsylvania, and Professor Katherine Sender, Department of 
+Communication, Cornell University on behalf of themselves and John L. Jackson, Jr., Professor 
+and Dean, Annenberg School of Communication, University of Pennsylvania; Rebecca Stein, 
+PhD, Executive Director, Online Learning Initiative, University of Pennsylvania; the International 
+Communication Association (ICA); the Society for Cinema and Media Studies (SCMS); Console-
+ing Passions; the Library Copyright Alliance (LCA), Shiv Gaglani, CEO and Co-Founder, 
+Osmosis.org; Stefan Wisbauer, Managing Director, Lecturio; Andrew Berg, MD, Co-Founder, 
+SketchyMedical, Saud Siddiqui, MD, Co-founder, SketchyMedical; Ken Robertson, COO, 
+Picmonic Inc.; and Ruthe Farmer, Chief Evangelist, CSforAll.  
+ITEM B.  PROPOSED CLASS ADDRESSED 
+Identify the proposed exemption that the comment addresses by the number and name of the 
+class set forth in the Notice of Proposed Rulemaking (e.g., “Proposed Class 1: Audiovisual 
+Works—Criticism and Comment”). 
+Proposed Class 1: Audiovisual Works—Criticism and Comment 
+  
+[PAGE 2]
+ 
+ 
+2 
+ 
+ITEM C.  OVERVIEW 
+Provide a brief summary of the circumvention activity sought to be exempted or opposed and 
+why. 
+Over the last two decades, the meteoric rise of the Internet has changed almost every facet of 
+our lives. It has revolutionized how people work, communicate, create, teach, and learn. 
+Therefore, to accommodate more of the online education ecosystem, we propose to add a new 
+educational exemption under 17 U.S.C. § 1201. The Digital Millennium Copyright Act’s (DMCA) 
+prohibition on the circumvention of technological measures continues to be a barrier to what 
+would otherwise be the lawful fair use of audiovisual works for educational purposes. As such, 
+we propose an exemption that would allow educators and preparers of online learning 
+materials to use short portions of motion pictures (including TV shows and videos), as defined 
+in 17 U.S.C. 101, for the purpose of criticism, comment, illustration and explanation in offerings 
+for registered learners of online learning platforms when the use of film and media excerpts will 
+contribute significantly to learning. 
+Though the Copyright Office’s endorsements of existing educational circumvention exemptions 
+– kindergarten through 12th grade (K-12), college and universities, and Massive Open Online 
+Courses (MOOCs) – were visionary steps towards the advancement of education and online 
+learning, those exemptions only apply to a limited number of learning settings. Since the 
+adoption of these exemptions in previous Triennial Rulemaking Proceedings, online learning 
+platforms have assumed a more prominent role in education. In fact, the U.S. is one of the 
+world’s leaders in the online education market.1  Even prior to the coronavirus pandemic, the 
+U.S. online learning market was projected to reach $6.22 billion between 2017 and 2022.2 
+Online learning has modernized the education field, and in doing so created a global learning 
+society. If you have an Internet connection and a computer, you can easily enroll in an online 
+education program – often times at a significantly cheaper cost than traditional face-to-face 
+offerings. Advancements in education and the Internet help bridge inequality gaps in access to 
+high-quality education. As such, many believe that online learning is the future and may 
+someday replace aspects of in-person learning.3  
+Furthermore, online learning has shown significant growth over the last decade, providing 
+people with maximum opportunities to retrain, gain new skills, and supplement their 
+                                                      
+1 Online Education Market & Global Forecast, by End User, Learning Mode, Technology, Country, Company,  
+https://www.researchandmarkets.com/reports/4876815/online-education-market-and-global-forecast-
+by?utm_source=dynamic&utm_medium=BW&utm_code=nvzl68&utm_campaign=1334853+ -
++%24350+Billion+Online+Education+Market%3a+Global+Forecast+to+2025+by+End+User%2c+Learning+Mode
++(Self-Paced%2c+Instructor+Led)%2c+Technology%2c+Country%2c+Company&utm_exec=chdo54bwd (Dec. 
+2019) [hereinafter Online Education Market]. 
+2 Technavio, E-Learning Market in US by Product and End-user-Forecast and Analysis 2020-2024, 
+https://www.technavio.com/report/e-learning-market-in-us-industry-analysis (Jul. 2020). 
+3 Ilker Koksal, The Rise of Online Learning, https://www.forbes.com/sites/ilkerkoksal/2020/05/02/the-rise-of-
+online-learning/?sh=689d7fed72f3 (May 2020).  
+
+[PAGE 3]
+ 
+ 
+3 
+ 
+education.4 Today’s digital education opportunities consist of thousands of online learning 
+platforms, such as Osmosis.org, Picmonic Inc., CSforALL, Lecturio, and SketchyMedical, who 
+have joined us in this comment. Additionally, online learning platforms offer high-quality 
+courses and content covering an array of subject matter, including medicine, music instruction, 
+professional development, STEM, and business certifications.  
+Congressional legislative history asserts that the DMCA was “designed to facilitate the robust 
+development and world-wide expansion of electronic commerce, communications, research, 
+development, and education in the digital age.”5 Yet, approximately 20 years since the DMCA 
+went into effect, educators and preparers of educational materials for online learning platforms 
+are being encumbered by the very act that was created to keep copyright law on pace with 
+emerging technologies.6 In this 8th Triennial Rulemaking Proceeding, we ask that the Copyright 
+Office seize this opportunity to provide clarity to the educational practice of online instructional 
+learning. 
+ 
+We ask the Copyright Office to allow educators and preparers of educational materials for 
+online learning platforms, irrespective of their educational accreditation or for-profit status, to 
+incorporate short portions of motion pictures into their courses. Failure to allow this will 
+significantly diminish the advantages of their instructional content. Adopting an exemption for 
+educators and preparers of educational materials for online learning platforms will inevitably 
+help break down existing barriers to education posed by social and economic inequality. Online 
+learning levels the educational playing field for public and private school pupils, home-schooled 
+students, and part-time learners of all kinds by providing equal access to education.  
+ 
+The incorporation of short portions of motion pictures into online educational material would 
+also enable the continued advancement of innovative educational methods. Integrating 
+audiovisual content helps learners understand complex concepts and procedures. Without it, 
+educators and preparers of educational materials for online learning platforms lose the ability 
+to meet learners where they are by using clear and inspiring visual examples. 
+ 
+Moreover, as we struggle to respond to the challenging times presented by the coronavirus, it 
+is essential that online learners can access the same quality of education as they would in 
+person – especially during a time where students cannot access traditional in-person 
+instruction. Due to the abrupt and mandatory transition from in-person to online learning, the 
+demand for online learning materials have increased. However, educators and preparers of 
+online learning materials are prevented from meeting that demand with the same quality 
+learning experiences as in-person instruction due to the DMCA’s anti-circumvention provisions.  
+                                                      
+4 Online Education Market, supra note 1.  
+5 Committee on the Judiciary’s Report for The Digital Millennium Copyright Act, S. Rep. No. 105-190, at 1-2 
+(1998).  
+6 Id. at 2 (“Copyright laws have struggled through the years to keep pace with emerging technology from the 
+struggle over music played on a player piano roll in the 1900's to the introduction of the VCR in the 1980's. With 
+this constant evolution in technology, the law must adapt in order to make digital networks safe places to 
+disseminate and exploit copyrighted materials.”). 
+[PAGE 4]
+ 
+ 
+4 
+ 
+Further, the shift online has not only impacted education but it has also displaced millions of 
+people in the workforce. Given the volatility of the economy, professionals have turned to 
+online learning platforms to sharpen and gain skills that will be required in a post-pandemic 
+world. Overall, whether you’re a student whose education has been shifted online or a blue-
+collar worker trying to find your next job, it is clear that whenever the pandemic recedes, the 
+value of online learning will remain. 
+Additionally, our exemption embraces the spirit of Congress’ goals for the Internet and 
+education as expressed in the TEACH Act while also limiting risk to copyright owners when 
+working in an online medium. As discussed in Item E, the TEACH Act envisioned a need to 
+extend education’s reach to include more than just children and young adults, but also lifelong 
+learners. By allowing learners to integrate educational activities into their daily work lives, 
+online learning platforms fulfil the vision of the TEACH Act. The exemption we request in this 
+Triennial proceeding will support educational quality that foster 21st century skills. 
+   
+Lastly, we note that the creation of this exception is fully consistent with § 107 of the Copyright 
+Act. The proposed uses of audiovisual materials in this comment are the same as those already 
+accepted as qualifying fair use in previous rulemaking proceedings. The proposed exemption is 
+not attempting to change the types of educational uses that are being exempted. Instead we 
+only seek an expansion of the users whose identical educational uses would likewise qualify as 
+fair use. We would also like to note that our new exemption calls for online learning platforms 
+with instructional materials using short clips of motion pictures to use technological protection 
+measures analogous to those used by Massive Open Online Course (MOOC) providers, for 
+which the Copyright Office has already granted an exemption. 
+ 
+For the aforementioned reasons, we respectfully request the Librarian to allow online learners 
+and educators to have the same access to effective educational methods as their K-12, college 
+and university, and MOOC counterparts.  
+ 
+ITEM D.  TECHNOLOGICAL PROTECTION MEASURE(S) AND METHOD(S) OF CIRCUMVENTION 
+Access to motion pictures and other audiovisual works is controlled by numerous technological 
+protection measures. For instance, digital video disks (DVDs) are protected by entirely different 
+technical protection measures (TPMs) than those that protect Blu-Ray Discs, and audiovisual 
+works streamed online are protected by almost as many TPMs as there are online distribution 
+platforms, from Amazon to iTunes to Netflix. 
+ 
+Many commercial DVDs employ the Content Scramble System (CSS), for which the Librarian of 
+Congress ultimately granted exemptions, on the recommendation of the Copyright Office, in 
+the previous iterations of this proceeding. The encryption scheme in CSS employs an algorithm 
+configured by a set of security “locks” to encrypt a DVD’s contents. The video content is 
+rendered unusable and unplayable unless the content is decrypted with CSS “keys.” 
+Manufacturers of DVD players are authorized to utilize CSS technology under the CSS License 
+[PAGE 5]
+ 
+ 
+5 
+ 
+Agreement. Millions of DVD players and computers worldwide implement CSS technology, and 
+it is used to protect the content on hundreds of millions of DVDs. 
+ 
+Although less common, another form of copy protection that protects access to some 
+commercial DVDs is disc corruption. This method makes the disc content “unreadable” by 
+corrupting sections of the DVD so that some of the content is skipped when trying to copy it. 
+Many companies that implement this form of encryption do so under different names. For 
+example, Disney utilizes this form of technology under the name Disney X.7  
+ 
+The Advanced Access Content System (AACS) is the successor to CSS and is the standard TPM 
+on Blu-Ray Discs. AACS encrypts discs using title locks. These title locks can only be decrypted 
+using a media key in combination with the Volume ID of the media itself. Decryption keys are 
+distributed over a broadcast channel, which enables licensors to “revoke” access to individual 
+Blu-Ray players. AACS also incorporates “traitor tracing” techniques, which allow short sections 
+of movies to be encrypted with different keys so that if a key is compromised, it can be 
+identified and revoked without disrupting access completely. 
+ 
+A variety of entirely different TPMs protect audiovisual works distributed online through 
+distribution services or streaming media. For example, Protected Streaming is a TPM developed 
+by Adobe and employed by various online distribution services. Protected Streaming utilizes 
+both encryption and Small Web Format (SWF) Verification to protect audiovisual works. Other 
+examples include Microsoft PlayReady and Apple’s FairPlay. 
+ 
+Circumvention, in turn, is accomplished in a variety of ways. The most common method of 
+circumvention for educational use is through software programs that disable the various TPMs 
+referenced above. These programs are able to rewrite the desired portion of a protected work 
+with the exact same frame rate, preserving content and maintaining the same resolution. The 
+techniques used may differ widely based on the experience and sophistication of the platform, 
+the instructor, or the learner attempting to use the copyrighted work for any of the fair uses 
+described below.  
+ 
+In addition, we note that our petition calls for online learning platforms to protect their content 
+that contains copyrighted clips by implementing reasonable technological protection measures 
+to prevent circumvention consistent with the previously granted MOOC exemption. We discuss 
+further in Item E. 
+  
+                                                      
+7 Learning Center, Miraizon, http://www.miraizon.com/support/info_copyprotection.html (last visited Dec. 9, 2020).  
+
+[PAGE 6]
+ 
+ 
+6 
+ 
+ITEM E.  ASSERTED ADVERSE EFFECTS ON NONINFRINGING USES  
+ 
+Educators and preparers of online learning materials need to be able to use short portions of 
+motion pictures (including TV shows and videos), as defined in 17 U.S.C. 101, for the purpose of 
+criticism, comment, illustration and explanation in offerings for registered learners on online 
+learning platforms when use of the film and media excerpts will contribute significantly to 
+learning. Educators teaching in-person classes, educators teaching for-credit online classes, and 
+educators teaching Massive Open Online Courses (MOOCs) already may take advantage of 
+these types of powerful instructional illustrations to make their lessons as effective as possible. 
+In granting the exemptions that allow educators teaching for-credit online classes and 
+educators teaching MOOCS, the Copyright Office recognized the undeniable value the use of 
+these clips adds to the quality of online education.  
+ 
+The demand for online education has skyrocketed in the last three years. Online education 
+became the new standard when Americans adapted to a changing world amidst the coronavirus 
+pandemic. Millions of Americans registered on online learning platforms seeking educational 
+opportunities online.8 This demand will continue in a post-pandemic society. Americans are 
+now accustomed to online education, and will rely on it to supplement their skills in a 
+transforming economy. It is in our collective interest to make that learning as effective as 
+possible. 
+ 
+Opportunities to Advance Educational Equity are Hindered by the Anti-Circumvention 
+Provisions  
+The national protests in 2020 over racial inequalities in society sparked increased focus in 
+addressing all social inequalities within American culture, including those within the 
+educational system. Fortunately, as Internet access increases and technology improves, gaps in 
+access to high-quality education will decrease as people can utilize online sources for education 
+that were previously unobtainable because of cost or under-funded schools. It is vitally 
+important that the online learning experience matches the in-person learning experience so 
+those that use online learning sources to supplement their less-than equal in-person education 
+opportunities can actually obtain on par education.  
+Education for many exists outside of the four corners of a K-12 or university classroom. 
+Students must supplement their education with additional resources online when their own 
+school-systems fail to adequately support their needs. For example, in recognition of deficient 
+access to computer science education in most school districts, CSforALL formed as a central hub 
+of computer science education for U.S. youth in and out of school.9 An online coding course 
+under this umbrella aimed at girls who aspire to STEM and computing careers cannot share the 
+inspiring stories of role models like Katherine Johnson and Mary Jackson through short clips 
+                                                      
+8 Dan Brodnitz, The 20 Most Popular LinkedIn Learning Courses of the Year, LinkedIn (Sept. 28, 2020) 
+https://www.linkedin.com/business/learning/blog/top-skills-and-courses/fy20-most-popular-courses-of-the-year-
+hero. 
+9 About CSforALL, CSforALL, https://www.csforall.org/about (last visited Dec. 10, 2020). 
+ 
+
+[PAGE 7]
+ 
+ 
+7 
+ 
+from the Academy Award-nominated movie "Hidden Figures” under the current anti-
+circumvention provisions. Of course, well-funded schools with STEM programs can freely share 
+this clip in the classroom.  
+Screen capture, a technology that allows for the use of encrypted works without requiring the 
+legal right to decrypt them through an exemption, would perpetuate educational inequalities if 
+it were to be the only tool that supplemental educational platforms could use to incorporate 
+short clips from motion pictures in their educational materials. The image resolution, audio 
+synchronization, and frame coherence of screen capture can degrade picture quality, create 
+distortions in image and audio, and drop frames at critical moments. Reserving access to the 
+highest quality materials furthers disparities in educational privileges which must be remedied 
+to close the social inequalities that society has deemed unacceptable. 
+Ruthe Farmer, former senior policy advisor for tech inclusion at the White House Office of 
+Science and Technology Policy and current Chief Evangelist for CSforALL, believes that the use 
+of motion picture clips in educational materials is necessary for today’s youth. Ms. Farmer 
+describes current K-12 students as the “YouTube generation,” meaning that kids today learn 
+through the use of videos. Preventing organizations like CSforALL and its member organizations 
+from providing young students content that speaks to their mode of learning lessens the value 
+of educational content made for kids. Restrictions on online classes also “disparately impact 
+less-affluent children” who rely on extracurricular education sources outside of school and 
+often online because their schools are underfunded, which is especially common in STEM 
+education.10  
+Expanding the Current Exemption Would Enable Innovative Educational Methods  
+The use of short portions of motion pictures in offerings by educators and preparers of 
+educational materials for online learning platforms allows for innovative teaching methods that 
+enhance education. Osmosis.org, a health education platform, has found that the use of clips 
+can expand how health professionals, medical students, and patients understand medical 
+conditions. For example, enhanced understanding of achondroplasia is gained when Osmosis 
+can incorporate in its online instructional materials a powerful scene in which Peter Dinklage, in 
+character as "Game of Thrones’" Tyrion Lannister, shared the isolation and pain sometimes 
+experienced by those with dwarfism. The presentation of the emotional scene for an 
+educational rather than entertaining purpose provides unique insight for health professionals 
+and students into the mental impacts of the condition that would not be gained if the online 
+learning platform could not use short motion picture clips in its materials.11 Further, the 
+emotional resonance of the scene is enhanced by the careful stitching of sound and image 
+frame by frame. A distorted version, as could arise from screen capture, would potentially be 
+humorous rather than moving, undercutting the purpose of using this clip as an educational 
+example. 
+                                                      
+10 Interview with Ruthe Farmer, Chief Evangelist of CSforALL, (Nov. 24, 2020) by Student Attorneys of the 
+Glushko-Samuelson Intellectual Property Law Clinic at American University Washington College of Law.  
+11 Interview with Max Harris, Chief of Staff of Osmosis, (Dec 1, 2020) by Student Attorneys of the Glushko-
+Samuelson Intellectual Property Law Clinic at American University Washington College of Law. 
+[PAGE 8]
+ 
+ 
+8 
+ 
+Teachers, as well as college and university professors, also use online learning platforms to 
+supplement their accredited courses. For example, some medical school professors use 
+Osmosis to curate a list of pre-recorded videos tailored to match specific topics covered in their 
+course syllabi. Students then watch the videos alongside their course materials. Unaccredited 
+courses on online learning platforms like Osmosis have become unofficial extensions of 
+accredited courses that instructors and students use to improve their learning materials.12 
+ 
+Osmosis also believes that incorporating short portions of motion pictures in its online 
+materials will enhance how patients understand medical diagnoses. For example, both the 
+character Dustin on the Netflix TV series “Stranger Things” and his real-life counterpart, actor 
+Gaten Matarazzo, have a rare genetic condition called cleidocranial dysplasia. Medical patients, 
+especially children and their parents, may have difficulty grasping common symptoms including 
+the underdevelopment of facial bones and teeth that this rare condition causes. Osmosis seeks 
+to use a clip from the show displaying the details of the actor’s face so that the patients have a 
+familiar reference to comprehend the otherwise unrelatable technical medical language. Not 
+only does the clip help the family learn about the medical condition, but a young patient who 
+may be struggling with self-image issues because of the condition now has a popular character 
+with which he or she can relate and identify.13  
+ 
+If online platforms like Osmosis cannot incorporate these kinds of clips in its materials because 
+of the anti-circumvention measures, instructors and healthcare professionals would merely be 
+able to describe the character to the patient. Instead, short clips can visually display 
+information – as in-person instructions are able to – in order to demonstrate the details of a 
+disease.  Using this clip from popular culture also introduces a young patient to an on-screen 
+hero like actor Gaten Matarazzo who may inspire the child to watch the full “Stranger Things” 
+series from which the clip was taken.  
+ 
+Were the educators and preparers of educational materials for Osmosis and other similar 
+online learning platforms like SketchyMedical, Lecturio, and Picmonic, to have the clear right to 
+use short clips, these are types of uses they would employ to enhance the quality of their 
+educational materials.14 However, because they do not currently fall within an existing 
+exemption, the richness of their instructional materials is diminished. Professionals, students, 
+and patients on these platforms should be able to enjoy the benefits that the use of these clips 
+would create. 
+ 
+The Anti-Circumvention Provisions Lessen the Quality of Learning Experiences that are Only 
+Available Online During the Coronavirus Pandemic  
+The coronavirus pandemic has forced traditional in-person learning experiences to shift online. 
+Online learning is the exclusive way in which people can teach and learn when public safety 
+measures like lockdowns and stay-at-home orders are in place. Forbidding the use of short 
+                                                      
+12 Id. 
+13 Id. 
+14 Id. 
+[PAGE 9]
+ 
+ 
+9 
+ 
+motion picture clips restrains the educational experience unfairly when students would be able 
+to enjoy critiquing the clips under normal circumstances. 
+Private music study is an example of a form of education that was forced to shift online during 
+the coronavirus pandemic. Lessons are traditionally taught at music stores or studios that have 
+had to close under stay-at-home orders. In-home lessons have also been halted because of the 
+accompanied safety concerns. Students are now using online learning platforms for their 
+musical studies. Jared Falk, President and CEO of Musora Media, Inc., which includes the 
+popular online music instructional platforms Drumeo, Guitareo, and Pianote under its umbrella, 
+recognizes that the anticircumvention provisions “lower the quality of education and the value 
+of the learning experience” for music students that are now studying online.15 
+Students want to learn how to play like their favorite musicians, and instructors help students 
+reach this goal by teaching specific techniques after studying clips of performances from DVDs 
+together in the lesson. Musora Media’s instructional videos, which often likewise will focus 
+entirely on how to play a specific musical part, are blocked from incorporating the necessary 
+short clips from DVDs in its instructional materials by the anti-circumvention measures.  
+Merely describing or mimicking the performance to a student fails as an adequate 
+demonstration because an instructor cannot possibly convey the same bravado as the 
+performer who inspired the student to want to learn in the first place. Instructors can 
+recommend that students watch the chosen clips on a third-party source, but this breaks the 
+flow of a lesson. There is also no guarantee that the clip will be available elsewhere. Students 
+are thus robbed of this critical component of music learning.  
+Screen capture is not a suitable alternative. Screen capturing jumbles audio synchronization, 
+skips frames, and reduces resolution. The benefit of studying a musical performance is lost if 
+the audio cannot be heard perfectly because of either desynchronization or a broken linearity 
+from skipping frames. Likewise, using a clip of a musical performance to study what are often 
+fine and nuanced techniques requires best-quality images so that these details can be easily 
+scrutinized. 
+Mr. Falk believes that “the goal should be to equalize the online and classroom experience with 
+the student.”16 The outlet that music provides is perhaps more valuable than ever during the 
+challenging times of a pandemic. It is therefore essential that students can access the same 
+quality of music education online as in-person at a time where students cannot access 
+traditional in-person music instruction. 
+Workforce Displacement Has Forced a Reliance on Online Learning for Skills Training 
+Millions of displaced workers from the pandemic are in urgent need of skills retraining as 
+shifting market needs have rapidly accelerated. Online education is at the forefront of helping 
+                                                      
+15 Interview with Jared Falk, President and CEO of Musora Media, Inc., (Nov. 13, 2020)  by Student Attorneys of the 
+Glushko-Samuelson Intellectual Property Law Clinic at American University Washington College of Law.  
+16 Id. 
+[PAGE 10]
+ 
+ 
+10 
+ 
+revitalize America’s workforce. For example, LinkedIn Learning reports a tripling of time spent 
+on its platform over the last year, and over 3 million users watched its top twenty courses.17  
+ 
+The economy is changing, and professionals are turning to online learning platforms like 
+LinkedIn Learning to learn the skills that the post-pandemic market will require. America needs 
+these professionals to adapt to the demands of a new economy. The Copyright Office should 
+enable these millions of learners to enjoy the same benefits as learners enrolled in settings 
+already covered by existing exemptions to the anti-circumvention provisions.  
+Samara Iodice, Supervisor, Assets with LinkedIn Learning, notes the importance of using short 
+motion picture clips in LinkedIn Learning’s education materials. For example, instructors 
+teaching ethics in coding can find it challenging to demonstrate the lines between ethical and 
+unethical coding effectively without replicating or creating unethical code themselves. Without 
+short clips, instructors can merely describe the behaviors they consider unethical. With short 
+clips, instructors can illustrate illegal hacking using fictional scenarios. For example, clips from 
+the USA Network TV show “Mr. Robot” can show the illegal acts of a fictional cyber-vigilante 
+who leads a global criminal hacking scheme.18  This is clearly a transformative use. Further, as in 
+the previous example, a screen capture will potentially distort the impact of the example, 
+inserting humor where the instructor wants to emphasize the seriousness of the situation.  
+Now and within the next three years, enabling instructors of all types to benefit from tools to 
+enhance how they teach millions of displaced workers new skills will be a service to America if 
+the Librarian chooses to allow it.  
+ 
+ 
+Congress Had a Broad and Encompassing Vision of Education, Learners, and  
+The Role of Online Learning in Developing “Our Nation’s Human Resources” 
+When It Crafted the TEACH Act   
+  
+Our new exemption for educators and preparers of educational materials for online learning 
+platforms seeks to update DMCA exemptions to reflect the Internet of today for the broad 
+range of education, learners, and national opportunities that Senate Judiciary Chair Orrin Hatch 
+hoped to reach. He, the Senate, and Congress, saw modern technological advances as an 
+opportunity for the country to offer breadth and equity in education, including for those far 
+from classrooms or otherwise unable to participate in traditional educational systems.  
+ 
+The legislative history of the TEACH Act is visionary in its anticipation of the reach of technology 
+and the Internet to help us address broad national challenges, if we allow it. It envisions the 
+Internet as a place for learners without normal schedules and for flexibly addressing national 
+                                                      
+17 Dan Brodnitz, The 20 Most Popular LinkedIn Learning Courses of the Year, LinkedIn (Sept. 28, 2020) 
+https://www.linkedin.com/business/learning/blog/top-skills-and-courses/fy20-most-popular-courses-of-the-year-
+hero. 
+18 Interview with Samara Iodice, Supervisor, Assets for LinkedIn Learning, (Dec. 4, 2020) by Student Attorneys of 
+the Glushko-Samuelson Intellectual Property Law Clinic at American University Washington College of Law.  
+  
+
+[PAGE 11]
+ 
+ 
+11 
+ 
+needs (and crises) for increasing access and opportunities. The TEACH Act holds the vision of 
+the type of learning our signatories provide and for the type of exemption we request in this 
+Triennial proceeding.  
+ 
+Specifically, in his report to the Committee on the Judiciary on the Teach Act, Senator Hatch 
+and the Senate Judiciary Committee laid out a broad vision for online education:  
+ 
+“For our nation to maintain its competitive edge, it will need to extend education 
+beyond children and young adults to lifelong learning for working adults, and to reach 
+all students of all income levels, in cities and rural settings, in schools and on campuses, 
+in the workplace, at home, and at times selected by students to meet their needs.”19 
+ 
+This vision emphasizes the importance of providing education not only to those traditional 
+learners in the K-12 and college and university systems, but also nontraditional learners who 
+are not a part of that system. It is only by extending educational opportunities to the often-
+looked-over class of nontraditional learners that the vision of Congress can be adequately 
+fulfilled. Our signatories strive to achieve just that.  
+ 
+Our exemption stays true to the original ideals Senator Hatch sought the Teach Act to have and 
+falls in line with Congress’ intent to reach all learners and ensure that online educational 
+institutions are permitted to deliver invaluable education to traditional and nontraditional 
+students, both in the era of today’s crisis and beyond. 
+ 
+Our Exemption Embraces Congress’ Broad Goals for the Internet and Education in the United 
+States by Extending Education Outside the Classroom to Both Traditional and Nontraditional 
+Learners   
+ 
+With the TEACH Act, Congress envisioned  the development of this nation’s workforce; as 
+Senator Hatch said eloquently in his report to the Senate Judiciary Committee, “Education is the 
+means by which we develop our nation’s human resources.”20 Our exemption aligns with this 
+vision and provides what Congress sought as demonstrated through our signatories.  
+ 
+Our signatories provide flexible, around-the-clock supplemental educational programs to 
+support students training either to enter the workforce for the first time or reenter the 
+workforce. Some examples are those training to be doctors, nurses, physician’s assistants, and 
+surgical aides through the use of Osmosis.org. Specifically, in the medical field, many of these 
+programs are affiliated with, but not offered through, medical schools throughout the United 
+States. They help students of all backgrounds better understand their courses, master the 
+material and prepare for exams. These courses help to expedite the pipeline for our frontline 
+responders and heroic medical staff who are saving lives during this pandemic and will be 
+                                                      
+19 (Committee on the Judiciary Report on Technology, Education and Copyright Harmonization Act of 2001) S. 
+Rep. No. 107-31, at 4 (2001). 
+20 Id. at 3.  
+[PAGE 12]
+ 
+ 
+12 
+ 
+spending the coming years helping those who survive the virus recover from accompanying 
+problems. 
+ 
+Additionally, our signatories provide vibrant and engaging after-school, evening, weekend and 
+summer programs. These programs include courses that help students learn to code, program 
+robots, play math games and conduct science experiments as seen through CSforAll. Clips of 
+films and TV shows would help make this online content accessible, showing, for example, 
+science experiments that cannot now be done because the laboratories are not open. These 
+clips would also be especially engaging and meaningful when women, African Americans and 
+Latinos are shown as engineers, programmers, scientists and mathematicians because it would 
+inspire younger generations to believe that their goals are achievable.  
+ 
+The aforementioned examples are specific to a particular field, but educators and preparers of 
+educational materials for online learning platforms provide supplemental education to much 
+broader areas of practice. They are also pivotal in teaching new and emerging skills to millions 
+of unemployed and displaced workers to find new skills and help them revitalize our economy 
+as we recover, not only from the pandemic but from the displacement of workers by 
+technology. This includes automation and the substitution of online delivery for brick-and-
+mortar stores. The need for these online instructional opportunities has become crucial in the 
+last six months and will be necessary for years to come.  
+ 
+Our Exemption Limits the Risk for Copyright Owners by Calling on Educators and Preparers of 
+Educational Materials for Online Learning Platforms to Take the Same Measures as MOOCs 
+Using this Exemption Today 
+ 
+The Register of Copyrights said the TEACH Act was meant to be “useful and important 
+guidance” for this exemption.21 We have followed that approach and incorporated the 
+Register’s recommendation in the filing of this petition. 
+ 
+Specifically, educators and preparers of educational materials using short clips of films and TV 
+shows with online learning platforms will adhere to the same types of commitments made by 
+MOOCs covered by the exemption today. Our petition states:  
+ 
+ “The online provider will limit these online learning materials, to the extent 
+technologically feasible, to registered learners of the online learning platform, institute 
+copyright policies, and provide copyright information to educators and preparers of 
+online learning materials, learners, and relevant staff members.” 
+ “Further, the online provider, to the extent technologically feasible, will work to 
+reasonably prevent unauthorized further dissemination of online learning materials in 
+accessible form to others, including after the registration period ends.” 
+                                                      
+21 Register of Copyrights, Section 1201 Rulemaking: Sixth Triennial Proceeding to Determine Exemptions  
+to the Prohibition on Circumvention, Recommendation of the Register of Copyrights (Oct. 8, 2015)  
+(“2015 Recommendation”) at 74. 
+[PAGE 13]
+ 
+ 
+13 
+ 
+Like other exemption holders, educators and preparers of educational materials for online 
+learning platforms will limit access to their courses, create policies and provide them to those 
+who prepare the online materials, and build protections into their platforms and practices to 
+prevent “unauthorized further dissemination” of the course materials. We note that because 
+online learning platforms specialize in the use of Internet technology, the protections they offer 
+may exceed the commitments offered in our petition.  
+ 
+We trust that, in following the recommendation of the Register of Copyrights, the Copyright 
+Office should construe the DMCA exemptions for online learning in a way that continues the 
+same vision for learners and protections for copyright owners that the TEACH Act did in 2002, 
+but not limit, stifle, or freeze online learning to a 1999 or 2002 world. 
+ 
+The Use of Non-Profit, Accredited Restrictions from the TEACH Act are Outdated Due to the 
+Advancement of the Internet 
+ 
+When the TEACH Act was passed, the accreditation and non-profit categorization may have 
+been seen as a rational sorting criterion for conventional schools and universities. However, the 
+TEACH Act did not anticipate the exponential growth of other models for the delivery of what it 
+considered a “digital educational” experience to our nationwide learners. As it has become 
+apparent, with the almost complete shift from in-person to online learning in 2020, the 
+requirement for an institution to be either accredited or nonprofit to be able to deliver a quality 
+education equal to that of in-person learning is outdated. While including the limitation of non-
+profit and accreditation may have been reasonable several years ago, removing these 
+limitations now is essential to allow our educators and preparers of educational materials for 
+online learning platforms to provide equitable learning conditions to our future doctors, nurses, 
+computer scientists, chemists, biologists, and musicians. The consequences of not removing 
+these limitations would be extremely detrimental to our recovery as a nation from this 
+pandemic. 
+ 
+Our Exemption Falls Squarely Within Fair Use Under the Copyright Act 
+ 
+As noted earlier, the proposed uses of audiovisual materials are the same as those already 
+accepted as qualifying fair use in the previous rulemaking. Through this exemption proposal we 
+are not attempting to change the types of educational uses that are being exempted. Instead, 
+we only seek an expansion of the users whose identical educational uses would likewise qualify 
+as fair use.  
+ 
+Our signatories make use of noncommercial speech in their course offerings. As cited in “Our 
+Proposed Uses are Noninfringing Under Title 17”, noncommercial speech is inherent in learning 
+and education, and our signatories exercise it when they teach medicine and coding and more. 
+Noncommercial speech is not exclusive to nonprofit or accredited institutions.   
+ 
+The limitations imposed regarding an institution’s status as being nonprofit or accredited stem 
+from a concern that, absent any requirements, there would be potential harm to copyright 
+[PAGE 14]
+ 
+ 
+14 
+ 
+holders. This concern can be found in the 1999 Report on Copyright and Digital Distance 
+Education. The report stated:  
+ 
+“At the same time, it is important to retain meaningful limitations on the eligible 
+recipients; the performances or displays should not be made available to the general 
+public. We recommend permitting transmissions to be made to students officially 
+enrolled in the course, regardless of their physical location. Since today's digital and 
+scrambling technologies allow transmissions to be targeted more precisely, the 
+requirement should be added that the transmission must be made solely, to the extent 
+technologically feasible, for reception by the defined class of eligible recipients.”22 
+ 
+Our exemption stays true to the sentiment expressed by the Copyright Office. Our signatories 
+do not make their library of content available to the “general public”, but rather limit access to 
+users who have the required account and password. This holds true for our online learning 
+platform signatories Lecturio, Osmosis, Picmonic, and SketchyMedical which offer no access or 
+extremely limited access to non-account holders.  
+  
+Our Exemption is in Line With the Broad Vision of the Copyright Office in 1999, Including a 
+Focus on the Learner, Not the Educator  
+ 
+In its 1999 Report on Copyright and Digital Distance Education, the Copyright Office emphasized 
+the importance of the learner and the growing needs of citizens around the country with the 
+advancement of technology and need for distance education. Specifically, the Report 
+acknowledges: 
+ 
+“Distance education is reaching wider audiences, covering all segments of the 
+population. The college audience is increasing particularly rapidly, in part due to 
+responsiveness to the needs of an older, non-traditional student population, as well as 
+students in other countries. Students also include professionals engaging in professional 
+development or training, and retirees. The expansion of the field has led to changes 
+among providers, with courses offered by both nonprofit and for-profit entities, on both 
+a nonprofit and for-profit basis, and through varieties of partnerships among 
+educational institutions and corporations.”23 
+ 
+Here, the Copyright Office emphasizes the evolution of online learning extending beyond the 
+traditional student with the ideal of how online education policy can truly be improved to serve 
+nontraditional students in the way it has already been serving traditional students.  
+ 
+This Report was visionary, in its day, for the embrace of new technologies for education. 
+Specifically, the Report advocated: 
+                                                      
+22 U.S. Copyright Office, Report on Copyright and Digital Distance Education (1999), available at 
+http://www.copyright.gov/reports/de_rprt.pdf at xviii. 
+23 Id. at ii.  
+[PAGE 15]
+ 
+ 
+15 
+ 
+“The desire to let markets evolve does not mean that the law must remain frozen. 
+Where a statutory provision intended to implement a particular policy is written in such 
+a way that it becomes obsolete due to changes in technology, the provision may require 
+updating if that policy is to continue. Doing so may be seen not as preempting a new 
+market, but as accommodating existing markets that are being tapped by new methods. 
+In the view of the Copyright Office, section 110(2) represents an example of this 
+phenomenon.”24 
+ 
+Given that our exemption is consistent with the 1999 Report’s vision of the Internet as a 
+medium for instruction and learning, we now implore the Copyright Office to also remain 
+consistent with their vision in this Report. There have been not only great changes in 
+technology but also extreme changes in the livelihoods of all Americans which has put online 
+education at the forefront of saving lives and careers. To move forward as a country, especially 
+now, online education and this exemption are pivotal.  
+ 
+ 
+Our Proposed Uses are Noninfringing Under Title 17 
+“Fair use is a key part of the social bargain at the heart of copyright law, in which as a society 
+we concede certain limited individual property rights to ensure the benefits of creativity to a 
+living culture. We have chosen to encourage creators by rewarding their efforts with copyright. 
+To promote new cultural production, however, it also is important to give other creators 
+opportunities to use copyrighted material when they are making something new that 
+incorporates or depends on such material.”25  
+ 
+As a society, we have chosen to make education and innovation priorities. To do so, we need 
+the tools to provide learners of all kinds with equal access to education. Even those offering 
+their lessons for a fee, including some educators and music instruction courses with online 
+learning platforms, clearly fall under fair use protections and this special right provided by 
+copyright law. 
+ 
+Under § 107 of the Copyright Act, courts evaluate four factors on a case-by-case basis to 
+determine whether a use constitutes fair use: (1) the purpose and character of the use, 
+including whether such use is of a commercial nature or is for non-profit educational purposes; 
+(2) the nature of the copyrighted work; (3) the amount and substantiality of the portion used in 
+relation to the copyrighted work as a whole; and (4) the effect of the use upon the potential 
+market for or value of the copyrighted work.26 
+The first factor heavily weighs in favor of a fair use finding. The proposed class of uses is strictly 
+for educational purposes, which is one of the acceptable fair use examples explicitly listed in 
+                                                      
+24 Id. at 144.  
+25 Association of Independent Video and Filmmakers, et al., Documentary Filmmakers’ Statement of Best Practices 
+in Fair Use, http://archive.cmsimpact.org/sites/default/files/fair_use_final.pdf (Nov. 2005). 
+26 17 U.S.C. § 107 (2018). 
+
+[PAGE 16]
+ 
+ 
+16 
+ 
+the preamble to § 107.27 Specifically, the purpose of any use under this exemption would be to 
+educate online learners rather than merely replace the entertainment purpose of the original 
+audiovisual work. Through the tailored discussion of short specific scenes in movies and TV 
+shows, educators and preparers of online learning materials repurpose the short clips into an 
+educational tool for learners in a way that is highly transformative.28  
+Additionally, commercial use does not serve as a bar to fair use. We know that fair use is 
+“healthy and vigorous in broadcast news and other commercial media, where references to 
+popular films, classic TV programs, archival images, and popular songs are frequently 
+unlicensed. Trade and academic publishers regularly rely on fair use to justify the incorporation 
+of third-party material into books they produce.”29 Those educators and preparers of 
+educational materials for online learning platforms, both non-profit and for-profit, are likewise 
+engaged in a fair use of multimedia materials, and further, use them to further their mission of 
+teaching and robust learning. 
+The second factor, the nature of the copyrighted work, weighs heavily in favor of finding fair 
+use. Movies and TV shows are created for mass audiences, in the U.S. and globally. In contrast, 
+most online learning is created for specific and much smaller audiences, including students in a 
+medical school class who need supplemental materials to master a concept or understand the 
+feelings of a prospective patient.  A short clip can help them see through a news source how a 
+celebrity responds to a particular disease, through a movie how a virus is transmitted across 
+continents, and through a fictional prince’s eyes how his short stature changes every 
+interaction of his life. Courts have found that the second factor “may be of limited usefulness 
+where the creative work of art is being used for a transformative purpose.”30  Our use is highly 
+transformative. 
+ 
+Moreover, the third factor weighs in favor of fair use based on the prerecorded structure of 
+online learning materials. The circumvention of audiovisual works is necessary to allow 
+preparers of online materials to seamlessly incorporate portions of such works directly into pre-
+planned and prerecorded content. Under our exemption, short excerpts of motion pictures and 
+including television shows would only be incorporated by educators and preparers of 
+educational materials for online learning platforms for the purpose of criticism, comment, 
+illustration and explanation for registered learners of online learning platforms. Therefore, any 
+                                                      
+27 Id.  
+28 See Campbell v. Acuff-Rose Music, Inc., 510 U.S. 569, 580 (1994) (stating that the central purpose of the first 
+factor in a fair use enquiry is to see whether the new work merely “supersede[s] the objects” of the original creation, 
+or instead adds something new, with a further purpose of different character); see Authors Guild v. Google, Inc., 804 
+F.3d 202, 214 (2d Cir. 2015) (“[A] transformative use is one that communicates something new and different from 
+the original or expands its utility, thus serving copyright's overall objective of contr ibuting to public knowledge.”).  
+29American University School of Communication Center for Social Media, et al., Code of Best Practices in Fair Use 
+for Academic and Research Libraries,  https://cmsimpact.org/wp-
+content/uploads/2016/01/code_of_best_practices_in_fair_use_for_arl_final.pdf (Jan. 2012).  
+30 Bill Graham Archives v. Dorling Kindersley Ltd., 448 F.3d 605, 612 (2d Cir. 2006). 
+
+[PAGE 17]
+ 
+ 
+17 
+ 
+use of excerpts from audiovisual works would be concise and limited only to the extent 
+necessary for such purposes.31  
+  
+Lastly, the fourth factor heavily weighs in favor of finding fair use. The proposed use under this 
+exemption is identical to the uses found in the K-12, university, and MOOC educational 
+exemptions. Therefore, the Copyright Office has already acknowledged that the effect of the 
+use of educational clips upon the potential market of such clips is minimal at best. More 
+importantly, legal precedent shows that transformative uses do not substitute the work in the 
+marketplace.32 The educational use of clips is inherently “non-substitutional” by nature. The 
+two markets – entertainment and online education – are so different that using clips in the 
+manner proposed in this exemption does not substitute the market for TV shows and movies. 
+Since our proposed exemption would limit use to short portions of audiovisual works for 
+educational purposes and the use is highly transformative, it is very unlikely that employing a 
+short clip in an online course would be a sufficient substitute to watching a full-length movie for 
+entertainment.  
+ 
+In fact, the proposed use of short portions of motion pictures arguably increases the market or 
+value of the copyrighted work that was excerpted. For instance, Ruthe Farmer, Chief Evangelist 
+for CSforALL, and other STEM leaders have increasingly urged Hollywood producers to cast 
+more diverse representation for the roles of scientists, technologists, and surgeons.33  
+ 
+In response to the passionate advocacy for diversity, TV shows and movies have begun to 
+routinely cast women and minority actors in an effort to provide the audience with role models 
+they could aspire to emulate. For young Latina STEM scholars, it is very likely that seeing a short 
+clip of Mariana Foster, a main character in Freeform’s “Good Trouble”, navigate her way as a 
+Latina female software engineer in a male dominated profession may inspire them to continue 
+to study computer science, as their online STEM instructors seek. It is also very likely that these 
+same students will rush to their televisions and streaming services to see the entire series, thus 
+increasing the market for the show. We note that there is a phenomenon of youth 
+programming featuring aspirational role models for underrepresented students, including 
+Disney’s “Doc McStuffins”, “Girl Meets World”, Freeforms’ “The Fosters”, and ABC’s “Blackish”, 
+which online learners may well discover from educational short clips. 
+ 
+Given that all factors lean towards a finding of fair use, the use of audiovisual clips in online 
+learning materials would qualify as a non-infringing use. 
+ 
+ 
+                                                      
+31 See Tresona Multimedia v. Burbank High Sch. Vocal, 953 F.3d 638 (9th Cir. 2020) (citing Kelly v. Arriba Soft 
+Corp., 336 F.3d 811, 820-21 (9th Cir. 2003) (“If the secondary user only copies as much as is necessary for his or 
+her intended use, then this factor will not weigh against’ fair use.”).  
+32 See Campbell, 510 U.S. at 591 (‘‘cognizable market harm’’ is limited to ‘‘market substitution’’); Author’s Guild, 
+Inc. v. HathiTrust, 755 F.3d 87, 99 (2d Cir. 2014) (“[A]ny economic ‘harm’ caused by transformative use s does not 
+count because such uses, by definition, do not serve as substitutes for the original work”).  
+33 Interview with Ruthe Farmer, Chief Evangelist of CSforALL (Nov. 24, 2020). 
+[PAGE 18]
+ 
+ 
+18 
+ 
+Our TPMs are Strong 
+ 
+We would like to note that our new exemption calls for educators and preparers of educational 
+materials and their online learning platforms to use technological protection measures 
+analogous to those used by MOOCs, for which the Copyright Office has already granted an 
+exemption. As stated in our petition, they will, to the extent technologically feasible, work to 
+reasonably prevent unauthorized further dissemination of online educational materials using 
+short clips of movies and TV shows. These protections are meant to acknowledge the 
+importance of protecting the copyright owners’ works.  
+ 
+As we presented in our 9/8/2020 petition, “To provide clarity to the educational practice of 
+online instructional learning, in this 8th Triennial Rulemaking of the U.S. Copyright Office, we 
+seek to add a new educational exemption under 17 U.S.C. § 1201: 
+ 
+To allow educators and preparers of online learning materials to use short portions of 
+motion pictures (including television shows and videos), as defined in 17 U.S.C. 101, for 
+the purpose of criticism, comment, illustration and explanation in offerings for 
+registered learners on online learning platforms when use of the film and media 
+excerpts will contribute significantly to learning. 
+ 
+The online provider will limit these online learning materials, to the extent 
+technologically feasible, to registered learners of the online learning platform, institute 
+copyright policies, and provide copyright information to educators and preparers of 
+online learning materials, learners, and relevant staff members. 
+ 
+Further, the online provider, to the extent technologically feasible, will work to 
+reasonably prevent unauthorized further dissemination of online learning materials in 
+accessible form to others, including after the registration period ends.” 
+ 
+ 
+Statutory Factors Favor Allowing Short Clips As Set Out Above 
+ 
+We know without doubt that education is moving online, and that the movement has been 
+greatly accelerated due to the pandemic.34 We submit with the certainty of research and 
+investigations of the last three months that our nation’s learners, young and old, virtually all 
+online now, will be adversely affected by the prohibition under subparagraph (A) if educators 
+and preparers of educational materials for online learning platforms, as defined within this 
+proposed exemption, are not allowed to make noninfringing uses of copyrighted works as 
+discussed here. The upcoming three years, which will encompass our nation’s recovery period 
+and transition to a new economy and way of life, similarly depend on these resources. 
+Accordingly, and as requested, we evaluate the five statutory factors enumerated in 
+§1201(a)(1)(C) and submit that our proposed exemption exceeds the statutory requirements. 
+                                                      
+34 Laura Meckler & Hannah Natanson, Remote learning widens equity gap, Washington Post, Dec. 7, 2020, at A1. 
+[PAGE 19]
+ 
+ 
+19 
+ 
+(i) the availability for use of the copyrighted works:  
+ 
+This comment and request for exemption is not premised upon a general lack of availability of 
+works, but rather on the unavailability of works stored on certain TPM-protected formats for 
+specific educational uses that could benefit learners using online learning platforms. There are 
+a number of sources that educators and preparers of educational materials for online learning 
+platforms may excerpt clips from, including DVDs, Blu-Ray discs, and online streaming sources. 
+Despite the availability of works, the DCMA’s ban on circumventing technological measures on 
+copyrighted works prevents many online learning platforms from accessing these sources to 
+incorporate short clips into their courses. 
+ 
+(ii) the availability for use of works for nonprofit archival, preservation, and educational 
+purposes:  
+ 
+As discussed above, the courses of online learning platforms supplement and augment 
+traditional education. That is why the Joint Educators, so often before this forum in these 
+Triennial Proceedings, come again to seek this new exemption. Professor Peter Decherney 
+wants his children, and all children, to have access to engaging online instruction material in 
+piano, percussion and guitar. Seeing a riff by Eddie Van Halen may inspire them to continue 
+practicing the guitar and showing a few moments of how the great drummer Jeff Porcaro bends 
+his wrists to achieve the “shuffle” sound in his famous “Rosanna” shuffle is a fair use that 
+should be available to all aspiring musicians. Further, even before the coronavirus, many 
+schools were cutting their music and arts programs for lack of funding. The instructional 
+materials of online learning platforms, non-profit and for-profit, “fill the gap” to supplement 
+and augment non-profit educational offerings.  
+ 
+Osmosis.org aligns with medical schools across the U.S. and medical school professors choose 
+their students’ Osmosis courses alongside the medical course curricula. The Osmosis materials 
+provide educational supplements, drills for the intense memorization requirement, and 
+examples to help drive concepts home. Their online learning materials help a range of other 
+learnings, including nursing and physician’s assistant students, to see difficult materials in new 
+and illustrative ways. CSforAll has 104 members organizations dedicated to offering K-12 STEM 
+education at places like the Boys and Girls Clubs, Girl Scouts, 4-H and other community 
+locations just outside of school doors when the communities cannot support the technology or 
+teachers themselves. 
+ 
+Whether for-profit or non-profit, accredited or unaccredited, the online education system has 
+stepped forward to work together with traditional educational institutions and educators to 
+seek the use of short clips for educational purposes that are clearly protected under fair use.  
+We note that currently educators and preparers of educational materials for unaccredited and 
+for-profit online learning platforms may not embed noninfringing audiovisual works into their 
+courses without a license from the copyright owner, but we are not aware of any market 
+offerings that provide educators and preparers of educational materials for online learning 
+platforms with the clips they need. As a result, educators and preparers of educational 
+[PAGE 20]
+ 
+ 
+20 
+ 
+materials for online learning platforms have shared with us that many opportunities are lost: 
+rich content and examples are left unshared. It is a matter of grave concern and fundamental 
+equity to Professor Decherney, Professor Sender, Dr. Stein, and the other Joint Educators that 
+online learning platforms, as defined and limited in this petition, are unable to use the same 
+audiovisual materials that in-person educators and MOOC providers can use and thus, cannot 
+provide the same quality educational experience. 
+ 
+(iii) the impact that the prohibition on the circumvention of technological measures applied 
+to copyrighted works has on criticism, comment, news reporting, teaching, scholarship, or 
+research  
+ 
+As illustrated extensively above, the inability of educators and preparers of educational 
+materials for online learning platforms to legally circumvent TPMs significantly undermines 
+their ability to provide a well-rounded and enhanced educational experience. Including short 
+clips of movies and television shows in online courses has the ability to capture students’ 
+attention and get them to engage more actively with the material. Short clips serve many 
+potential functions, including providing visual examples of a concept being taught, encouraging 
+commentary and critique of the work, inspiring students to think bigger, and allowing them to 
+engage with the shared experiences of the characters depicted onscreen. 
+ 
+With a significant part of the population now turning to the Internet for educational 
+opportunities, there is an expectation that they will have high-quality options to choose from. 
+Our national learners, of all ages and for all professions and purposes, are at a serious 
+disadvantage if educators and preparers of educational materials for online learning platforms 
+cannot provide the same quality educational experience as more traditional teaching 
+environments. Prohibiting these educators and preparers from using these clips at the same 
+audiovisual quality will only serve to heighten the unequal access issues that already pervade 
+the educational system.  
+ 
+(iv) the effect of circumvention of technological measures on the market for or value of 
+copyrighted works  
+ 
+The circumvention of technological measures by educators and preparers of educational 
+materials for online learning platforms would be strictly limited to minimize the potential effect 
+on the market or value of copyrighted works. The exemption requires online learning providers 
+to limit access to the materials to registered learners, implement copyright policies, provide 
+copyright information, and work to reasonably prevent unauthorized sharing of the online 
+learning materials. The clips being excerpted are meant for the limited purpose of educating 
+students by emphasizing or illustrating a concept as part of the learning experience, so it is 
+unlikely that those accessing the clips would reuse them. However, should this occur, reuse of 
+short clips would be unlikely to affect the value of the copyrighted work from which it was 
+sampled, as the clips are short in duration and not meant to replace the experience of viewing 
+the work in its entirety. In fact, if the incorporated clips serve their intended purpose of 
+engaging students more fully, students may choose to seek out the full version of the work, 
+thereby increasing the market or value of the copyrighted work that was excerpted.  
+[PAGE 21]
+ 
+ 
+21 
+ 
+(v) such other factors as the Librarian considers appropriate 
+ 
+On December 7, 2020, the front page of the Washington Post shared the upsetting news, 
+“Remote learning widens equity gap.” The inability for students to attend school because of the 
+coronavirus pandemic has had dire consequences for their education.35 A new study shows that 
+students have lost months’ worth of math skills during the pandemic, with students of color 
+being affected most significantly.36 The shift to online learning has posed many difficulties for 
+students and is resulting in many students being left behind.37 This learning deficit 
+demonstrates that there is a stronger need than ever for quality online learning content that 
+can replicate the in-person learning environment as closely as possible. To allow educators and 
+preparers of educational materials for online learning platforms to use short clips in their 
+materials will help bridge this gap by engaging students more fully and illustrating concepts in 
+more relatable ways.  
+  
+ 
+Conclusion 
+ 
+Desire for knowledge and belief in education as a tool for self-improvement run deep in the 
+culture of the United States. This is reflected in the familiar language of Article I, Section 8, 
+Clause 8 of our Constitution, which exemplifies our shared belief in the “Progress of Science 
+and useful Arts.”  
+ 
+We ask only for clarification that educators and preparers of educational materials for online 
+learning platforms may use short quotations of motion pictures including TV shows to bring the 
+most vivid, exciting, and inspiring examples to their lessons. 
+ 
+                                                      
+35 Id.  
+36 Id. 
+37 Id.  

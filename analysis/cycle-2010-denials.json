@@ -1,0 +1,71 @@
+{
+  "cycle": 2010,
+  "final_rule_file": "1201/Final Rules/2010-Final-Rule.txt",
+  "extractor_notes": "Final Rule preamble enumerates six denied proposals in Section IV ('Other Classes Considered, but Not Recommended'), labeled IV.A through IV.E. Section IV.A and IV.B each bundle two sub-proposals from different proponents into a single heading, so they are split here into separate denial entries. A seventh entry captures the partial denial of Halderman's security-testing class (Section III.D): the Register narrowed it to video games and denied the broader scope covering sound recordings, audiovisual works, and other literary works. The NOI yielded 25 initial proposed classes; the Final Rule preamble does not separately discuss proposals that dropped out before the hearings, so this denial list reflects only the proposals the Register expressly addressed.",
+  "denials": [
+    {
+      "proposed_class_number": "IV.A.1",
+      "topic_label": "DRM-protected streaming video (Netflix) platform restriction",
+      "reason_category": "alternatives",
+      "reason_quote": "Mere consumer inconvenience is not sufficient to support the designation of a class of works... The proponents have merely advanced requests in order to satisfy their convenience and preferences as to how they would like to access media and have failed to demonstrate a need for remedial action.",
+      "source_pdf_pages": [10, 11],
+      "later_granted_in_cycle": null
+    },
+    {
+      "proposed_class_number": "IV.A.2",
+      "topic_label": "CSS-protected DVD playback on Linux",
+      "reason_category": "alternatives",
+      "reason_quote": "Similar classes... have been requested and denied in the past three rulemakings... Alternative means exist to gain access to and view the motion pictures... Moreover, CSS-compatible DVD players are in fact available for some Linux systems.",
+      "source_pdf_pages": [10, 11],
+      "later_granted_in_cycle": null
+    },
+    {
+      "proposed_class_number": "IV.B.1",
+      "topic_label": "DRM authentication server shutdown (consumer access)",
+      "reason_category": "evidence",
+      "reason_quote": "The Register cannot recommend this proposed class for the simple reason that the proponent has not sustained his burden of demonstrating that the prohibition on circumvention of access controls either has produced, or is likely to produce, any adverse effects on noninfringing uses of the proposed class of works.",
+      "source_pdf_pages": [11, 12],
+      "later_granted_in_cycle": null
+    },
+    {
+      "proposed_class_number": "IV.B.2",
+      "topic_label": "DRM authentication server study by researchers",
+      "reason_category": "evidence",
+      "reason_quote": "Since the record makes clear that the purpose of designating the research class is to facilitate circumvention of works in the 'user' class, the arguments supporting the research class fail on the same basis as those supporting the user class.",
+      "source_pdf_pages": [12],
+      "later_granted_in_cycle": null
+    },
+    {
+      "proposed_class_number": "IV.C",
+      "topic_label": "Forensic investigator evidence collection",
+      "reason_category": "evidence",
+      "reason_quote": "Pannenborg failed to intelligibly describe the nature of authorship of the proposed class of works. Moreover, he presented no compelling evidence, and provides no concrete examples, that noninfringing uses of works in the proposed class have been or will be affected by the circumvention ban.",
+      "source_pdf_pages": [12],
+      "later_granted_in_cycle": null
+    },
+    {
+      "proposed_class_number": "IV.D",
+      "topic_label": "DTV broadcast flag circumvention",
+      "reason_category": "evidence",
+      "reason_quote": "There is no broadcast flag mandate for digital television broadcasts in effect, and it is highly speculative as to whether broadcasters and copyright owners will work to implement measures to restrict consumer recording privileges in the new DTV era.",
+      "source_pdf_pages": [12, 13],
+      "later_granted_in_cycle": null
+    },
+    {
+      "proposed_class_number": "IV.E",
+      "topic_label": "Blu-ray Image Constraint Token down-conversion",
+      "reason_category": "evidence",
+      "reason_quote": "He has not provided evidence that ICTs are currently being used on Blu-ray discs to restrict users from accessing the highest resolution format offered by Blu-ray discs. Further, the request is unnecessary because the potential problem described by Perkins is a rapidly disappearing legacy issue.",
+      "source_pdf_pages": [13],
+      "later_granted_in_cycle": null
+    },
+    {
+      "proposed_class_number": "III.D (partial)",
+      "topic_label": "Security testing of literary works, sound recordings, audiovisual works (broader Halderman class)",
+      "reason_category": "evidence",
+      "reason_quote": "Halderman did not present any evidence that the prohibition on circumvention is adversely affecting or is likely, in the next three years, to adversely affect the ability to engage in noninfringing uses of sound recordings or audiovisual works, or of literary works except to the extent that video games may be considered, in part, to constitute audiovisual works. There is no information in the record that would justify again exempting the class designated three years ago.",
+      "source_pdf_pages": [8],
+      "later_granted_in_cycle": null
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+[PAGE 1]
+Short Comment Regarding a Proposed Exemption
+Under 17 U.S.C. 1201
+Item 1. Commenter Information 
+The following researchers in the area of security and privacy:
+Gavin Andresen Bitcoin Foundation
+L Jean Camp Indiana University
+Pan Chan NYU School of Engineering
+Nicolas Christin Carnegie Mellon University
+Jason Cronk Microdesic
+Sven Dietrich CUNY, John Jay College of Criminal Justice
+Serge Egelman University of California, Berkeley
+Rachel Greenstadt Drexel University
+Rafael Hirschfeld Unipay Technologies
+Anand Kashyap Symantec
+W. Brad Moore Georgetown University
+Matthew Smith Rheinische Friedrich-Wilhelms-Universitaet Bonn
+Luke Valenta University of Pennsylvania
+Michael Weissbacher Northeastern University
+Item 2. Proposed Class Addressed
+Proposed Class 25: Software—Security Research 
+Item 3. Statement Regarding Proposed Exemption
+We, the undersigned security researchers, are aware that certain types of 
+security research are not being performed by researchers because of fear of 
+legal consequences under the Digital Millennium Copyright Act.  We believe 
+that government and corporate systems, consumer products, financial 
+transactions, and national security are less secure as a result of the 
+unperformed research.  We strongly urge the Copyright Office to grant the 
+Security Researchers' exemption request under proposed Class 25.  This 
+exemption will directly promote the development of secure systems.

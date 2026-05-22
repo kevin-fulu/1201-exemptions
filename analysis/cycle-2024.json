@@ -1,0 +1,560 @@
+{
+  "cycle": 2024,
+  "final_rule_file": "1201/Final Rules/2024-Final-Rule.txt",
+  "codified_text_starts_pdf_page": 10,
+  "extractor_notes": "Extracted by main session after content-filter blocked sub-agent. 22 codified classes (b)(1) through (b)(22). Renewal_status determined by comparing 2024 codified text to 2021 codified text. Most 2021 classes carry forward textually verbatim. Key 2024 changes: TDM classes (b)(4) and (b)(5) broaden the permitted-viewing standard from 'verification of research findings' to 'conduct text and data mining research or teaching', add trade-association disclosure rights, and add explicit secure-connections / authenticated-credentials requirements. (b)(14) is a NEW class for vehicle/vessel owner access to operational/diagnostic/telematics data. (b)(16) is a NEW class for retail commercial food-preparation equipment repair. (b)(20) adds an explicit 'one user at a time' definition for software preservation. IMPORTANT: 2021 (b)(21) Video Games accessibility input methods was NOT renewed in 2024 — no corresponding class appears in the 2024 codified text. INDEX.md labels verified against codified text — no discrepancies.",
+  "exemptions": [
+    {
+      "class_number": "(b)(1)",
+      "equipment_or_work": "Motion pictures — short clips for criticism/comment and educational uses",
+      "permitted_uses": [
+        "Criticism or comment: documentary filmmaking, parody, biographical/historically significant films (i)(A); noncommercial videos (i)(B); nonfiction multimedia e-books (i)(C)",
+        "Educational: college/university faculty and students, K-12 educators and students (K-12 students under direct supervision), or employees acting at the direction of faculty for the purpose of teaching a course, including GED programs (ii)(A)",
+        "Educational: faculty of accredited nonprofit institutions and employees at faculty direction, for MOOCs in film studies / close-analysis courses (ii)(B)",
+        "Educational: educators and participants in nonprofit digital/media-literacy programs by libraries/museums/nonprofits in face-to-face instruction, screen-capture only (ii)(C)"
+      ],
+      "exclusions": [
+        "Sole purpose limited to short portions for criticism, comment, or the listed educational uses",
+        "Source content must be CSS-protected DVD, AACS-protected Blu-ray, or digitally-transmitted motion picture protected by a TPM",
+        "Person must reasonably believe non-circumventing alternatives cannot produce required quality, OR use screen-capture technology offered to the public",
+        "(ii)(C) restricted to screen-capture only",
+        "MOOC use requires transmission limits to enrolled students, copyright policies, informational materials (per 17 U.S.C. 110(2))"
+      ],
+      "definitions_or_conditions": [
+        "Motion pictures as defined in 17 U.S.C. 101"
+      ],
+      "renewal_status": "renewed_unchanged",
+      "renewal_status_source": {
+        "pdf_pages": [2, 3],
+        "quote": "[Section A renewal recommendations; (b)(1) carries forward from 2021 with no substantive textual change]"
+      },
+      "source": {
+        "file": "1201/Final Rules/2024-Final-Rule.txt",
+        "pdf_pages": [10],
+        "quote": "(1) Motion pictures (including television shows and videos), as defined in 17 U.S.C. 101, where the motion picture is lawfully made and acquired on a DVD protected by the Content Scramble System, on a Blu-ray disc protected by the Advanced Access Content System, or via a digital transmission protected by a technological measure, ... where circumvention is undertaken solely in order to make use of short portions of the motion pictures in the following instances: (i) For the purpose of criticism or comment: (A) documentary filmmaking, or other films where the motion picture clip is used in parody or for its biographical or historically significant nature; (B) noncommercial videos ...; or (C) nonfiction multimedia e-books. (ii) For educational purposes: (A) By college and university faculty and students or K-12 educators and students (where the K-12 student is circumventing under the direct supervision of an educator), or employees acting at the direction of faculty ... for the purpose of teaching a course ...; (B) By faculty of accredited nonprofit educational institutions and employees acting at the direction of faculty members ..., for MOOCs ...; or (C) By educators and participants in nonprofit digital and media literacy programs ... [text matches 2021 (b)(1) verbatim]"
+      }
+    },
+    {
+      "class_number": "(b)(2)",
+      "equipment_or_work": "Motion pictures — captioning and audio description by educational disability services",
+      "permitted_uses": [
+        "Circumvent CSS/AACS/TPM on lawfully acquired motion pictures by disability services office or other unit of K-12/college/university for adding captions and/or audio description to create accessible version for students, faculty, or staff with disabilities",
+        "Reuse of accessible materials"
+      ],
+      "exclusions": [
+        "Institution must have reasonable belief of specific future activity",
+        "After reasonable effort, accessible version of sufficient quality cannot be obtained at fair market price or in timely manner",
+        "Stored to reasonably prevent unauthorized further dissemination"
+      ],
+      "definitions_or_conditions": [
+        "'Audio description' = oral narration providing accurate rendering of motion picture",
+        "'Accessible version of sufficient quality' = version with captions/audio description sufficient and substantially free of materially interfering errors"
+      ],
+      "renewal_status": "renewed_unchanged",
+      "renewal_status_source": {
+        "pdf_pages": [2, 3],
+        "quote": "[Section A; carries forward from 2021 (b)(2) without substantive change]"
+      },
+      "source": {
+        "file": "1201/Final Rules/2024-Final-Rule.txt",
+        "pdf_pages": [10],
+        "quote": "(2)(i) Motion pictures ..., where the motion picture is lawfully acquired on a DVD protected by the Content Scramble System, on a Blu-ray disc protected by the Advanced Access Content System, or via a digital transmission protected by a technological measure, where: (A) Circumvention is undertaken by a disability services office or other unit of a K-12 educational institution, college, or university ... for the purpose of adding captions and/or audio description to a motion picture to create an accessible version for students, faculty, or staff with disabilities; (B) The educational institution unit ... has a reasonable belief that the motion picture will be used for a specific future activity ... and, after a reasonable effort, has determined that an accessible version of sufficient quality cannot be obtained at a fair market price or in a timely manner ...; and (C) The accessible versions are provided to students or educators and stored ... to reasonably prevent unauthorized further dissemination. (ii) [definitions of 'audio description' and 'accessible version of sufficient quality' and explicit reuse permission]"
+      }
+    },
+    {
+      "class_number": "(b)(3)",
+      "equipment_or_work": "Motion pictures (DVD/Blu-ray) — preservation/replacement copies by eligible libraries/archives/museums",
+      "permitted_uses": [
+        "Circumvent CSS-protected DVDs or AACS-protected Blu-ray discs, solely for lawful preservation or creation of replacement copy of motion picture, by an eligible LAM"
+      ],
+      "exclusions": [
+        "Without direct/indirect commercial advantage",
+        "DVD/Blu-ray must be damaged or deteriorating",
+        "Reasonable-effort determination: no fair-priced unused replacement; no streaming/download/on-demand service makes the motion picture available to LAMs at fair price",
+        "Copies not distributed or made available outside institution's premises"
+      ],
+      "definitions_or_conditions": [
+        "5-prong 'eligible' LAM definition (public/researcher access; public service mission; trained staff; lawfully acquired collections; reasonable digital security)"
+      ],
+      "renewal_status": "renewed_unchanged",
+      "renewal_status_source": {
+        "pdf_pages": [2, 3],
+        "quote": "[Section A; carries forward from 2021 (b)(3) without substantive change]"
+      },
+      "source": {
+        "file": "1201/Final Rules/2024-Final-Rule.txt",
+        "pdf_pages": [10, 11],
+        "quote": "(3)(i) Motion pictures ..., where the motion picture is lawfully acquired on a DVD protected by the Content Scramble System, or on a Blu-ray disc protected by the Advanced Access Content System, solely for the purpose of lawful preservation or the creation of a replacement copy of the motion picture, by an eligible library, archives, or museum, where: [A-D as in 2021]. (ii) [5-prong 'eligible' definition]"
+      }
+    },
+    {
+      "class_number": "(b)(4)",
+      "equipment_or_work": "Motion pictures — text-and-data-mining (TDM) research at nonprofit higher-ed (expanded viewing standard; trade-association disclosure right; explicit secure-access requirement)",
+      "permitted_uses": [
+        "Circumvent CSS/AACS/TPM (or digital download) on lawfully acquired motion pictures by researcher affiliated with nonprofit higher-ed (or student/IT staff at researcher direction), solely to deploy TDM techniques on a corpus for scholarly research and teaching",
+        "Permitted viewing: person undertaking circumvention OR conducting research/teaching may view/listen to corpus contents solely to conduct TDM research or teaching (broader than 2021's 'verification of research findings' standard)"
+      ],
+      "exclusions": [
+        "Copy of each motion picture must be lawfully acquired and owned by institution, or licensed without time limit",
+        "Institution uses effective security measures preventing dissemination/download",
+        "On reasonable request from a copyright owner (or trade association) who reasonably believes their work is in the corpus, institution must provide information regarding nature of security measures",
+        "Corpus access limited to identified researchers or to researchers at OTHER nonprofit higher-ed institutions, ALL access through secure connections AND on condition of authenticated credentials, solely for TDM research/teaching"
+      ],
+      "definitions_or_conditions": [
+        "'Institution of higher education' — admits HS-diploma students; legally authorized; awards bachelor's or 2-year program; public or nonprofit; nationally accredited",
+        "'Effective security measures' = (1) measures agreed by ALL interested copyright owners and higher-ed institutions; OR (2) measures the institution uses to keep its own highly confidential information secure"
+      ],
+      "renewal_status": "renewed_expanded",
+      "renewal_status_source": {
+        "pdf_pages": [2, 3],
+        "quote": "[Section A; renewed with expansions: broader viewing standard (for TDM research/teaching, not just verification); explicit secure-connections/authenticated-credentials requirement; trade-association disclosure right]"
+      },
+      "expansion_notes": "Compared to 2021 (b)(4): 2024 broadens the viewing standard from 'solely for the purpose of verification of the research findings' to 'solely to conduct text and data mining research or teaching' (expansion). 2024 adds an obligation to provide security-measure information to a 'trade association representing such author' in addition to the copyright owner. 2024 adds explicit requirements that corpus access be 'only through secure connections and on the condition of authenticated credentials'. 2024 also requires that 'effective security measures' (under prong 1) be agreed to by 'all interested copyright owners' (vs 2021's 'interested copyright owners'), a slight tightening.",
+      "source": {
+        "file": "1201/Final Rules/2024-Final-Rule.txt",
+        "pdf_pages": [11],
+        "quote": "(4)(i) Motion pictures ... where: (A) The circumvention is undertaken by a researcher affiliated with a nonprofit institution of higher education, or by a student or information technology staff member of the institution at the direction of such researcher, solely to deploy text and data mining techniques on a corpus of motion pictures for the purpose of scholarly research and teaching; (B) The copy of each motion picture is lawfully acquired and owned by the institution, or licensed to the institution without a time limitation on access; (C) The person undertaking the circumvention or conducting research or teaching under this exemption views or listens to the contents of the motion pictures in the corpus solely to conduct text and data mining research or teaching; (D) The institution uses effective security measures to prevent dissemination or downloading of motion pictures in the corpus, and upon a reasonable request from a copyright owner who reasonably believes that their work is contained in the corpus, or a trade association representing such author, provide information to that copyright owner or trade association regarding the nature of such measures; and (E) The institution limits access to the corpus to only the persons identified in paragraph (b)(4)(i)(A) of this section or to researchers affiliated with other nonprofit institutions of higher education, with all access provided only through secure connections and on the condition of authenticated credentials, solely for purposes of text and data mining research or teaching. (ii) [definitions of 'institution of higher education' and 'effective security measures' (1) agreed by all interested copyright owners, or (2) institution's own confidential-information measures]"
+      }
+    },
+    {
+      "class_number": "(b)(5)",
+      "equipment_or_work": "Literary works (electronic) — TDM research at nonprofit higher-ed (expanded viewing standard; trade-association disclosure right; explicit secure-access requirement)",
+      "permitted_uses": [
+        "Circumvent TPMs on electronically distributed literary works (excluding computer programs and TDM-purpose compilations) by researcher affiliated with nonprofit higher-ed (or student/IT staff at researcher direction), solely to deploy TDM techniques for scholarly research and teaching",
+        "Permitted viewing: person may view contents solely to conduct TDM research or teaching"
+      ],
+      "exclusions": [
+        "Same as (b)(4): lawful acquisition / licensing requirement; effective security measures; trade-association disclosure right; corpus access limited to identified persons or other-institution collaborators via secure connections and authenticated credentials"
+      ],
+      "definitions_or_conditions": [
+        "Same 'institution of higher education' and 'effective security measures' definitions as (b)(4)"
+      ],
+      "renewal_status": "renewed_expanded",
+      "renewal_status_source": {
+        "pdf_pages": [2, 3],
+        "quote": "[Section A; renewed with same expansions as (b)(4)]"
+      },
+      "expansion_notes": "Compared to 2021 (b)(5): same expansions as (b)(4) — broader viewing standard, trade-association disclosure right, explicit secure-connections / authenticated-credentials requirement, tightening of 'effective security measures' definition.",
+      "source": {
+        "file": "1201/Final Rules/2024-Final-Rule.txt",
+        "pdf_pages": [11],
+        "quote": "(5)(i) Literary works, excluding computer programs and compilations that were compiled specifically for text and data mining purposes, distributed electronically where: [(A)-(E) parallel to (b)(4)(i)(A)-(E)]. (ii) [definitions parallel to (b)(4)(ii)]"
+      }
+    },
+    {
+      "class_number": "(b)(6)",
+      "equipment_or_work": "Literary works AND previously published musical works (text/notation), distributed electronically — accessibility",
+      "permitted_uses": [
+        "Circumvent TPMs that prevent enabling read-aloud functionality or interfere with screen readers / assistive technologies",
+        "(A) When copy/phonorecord lawfully obtained by an eligible person under 17 U.S.C. 121",
+        "(B) When work lawfully obtained and used by an authorized entity under 17 U.S.C. 121"
+      ],
+      "exclusions": [
+        "Rights owner remunerated for market price of inaccessible copy (eligible person use)"
+      ],
+      "definitions_or_conditions": [
+        "Eligible person / authorized entity under 17 U.S.C. 121",
+        "'Phonorecord of such a work' excludes sound recording of musical work performance unless part of audiobook or e-book"
+      ],
+      "renewal_status": "renewed_unchanged",
+      "renewal_status_source": {
+        "pdf_pages": [2, 3],
+        "quote": "[Section A; carries forward from 2021 (b)(6) verbatim]"
+      },
+      "source": {
+        "file": "1201/Final Rules/2024-Final-Rule.txt",
+        "pdf_pages": [12],
+        "quote": "(6)(i) Literary works or previously published musical works that have been fixed in the form of text or notation, distributed electronically, that are protected by technological measures that either prevent the enabling of read-aloud functionality or interfere with screen readers or other applications or assistive technologies: (A) When a copy or phonorecord of such a work is lawfully obtained by an eligible person, as such a person is defined in 17 U.S.C. 121 ...; or (B) When such a work is lawfully obtained and used by an authorized entity pursuant to 17 U.S.C. 121. (ii) [phonorecord carve-out]"
+      }
+    },
+    {
+      "class_number": "(b)(7)",
+      "equipment_or_work": "Compilations of medical-device data — patient access to own data",
+      "permitted_uses": [
+        "Circumvent TPMs on literary works consisting of compilations of data generated by medical devices or their personal corresponding monitoring systems",
+        "Undertaken by or on behalf of a patient for sole purpose of lawfully accessing data generated by patient's own device/system"
+      ],
+      "exclusions": [
+        "Not a safe harbor from, or defense to, liability under HIPAA, CFAA, or FDA regulations"
+      ],
+      "definitions_or_conditions": [],
+      "renewal_status": "renewed_unchanged",
+      "renewal_status_source": {
+        "pdf_pages": [2, 3],
+        "quote": "[Section A; carries forward from 2021 (b)(7) verbatim]"
+      },
+      "source": {
+        "file": "1201/Final Rules/2024-Final-Rule.txt",
+        "pdf_pages": [12],
+        "quote": "(7) Literary works consisting of compilations of data generated by medical devices or by their personal corresponding monitoring systems, where such circumvention is undertaken by or on behalf of a patient for the sole purpose of lawfully accessing data generated by a patient's own medical device or monitoring system. Eligibility for this exemption is not a safe harbor from, or defense to, liability under other applicable laws, including without limitation the Health Insurance Portability and Accountability Act of 1996, the Computer Fraud and Abuse Act of 1986, or regulations of the Food and Drug Administration."
+      }
+    },
+    {
+      "class_number": "(b)(8)",
+      "equipment_or_work": "Wireless devices — unlocking",
+      "permitted_uses": [
+        "Circumvent computer programs that enable wireless devices to connect to a wireless telecommunications network, solely to connect to a network whose operator authorizes the connection"
+      ],
+      "exclusions": [
+        "Connection must be authorized by the operator of the network"
+      ],
+      "definitions_or_conditions": [],
+      "renewal_status": "renewed_unchanged",
+      "renewal_status_source": {
+        "pdf_pages": [2, 3],
+        "quote": "[Section A; carries forward from 2021 (b)(8) verbatim]"
+      },
+      "source": {
+        "file": "1201/Final Rules/2024-Final-Rule.txt",
+        "pdf_pages": [12],
+        "quote": "(8) Computer programs that enable wireless devices to connect to a wireless telecommunications network, when circumvention is undertaken solely in order to connect to a wireless telecommunications network and such connection is authorized by the operator of such network."
+      }
+    },
+    {
+      "class_number": "(b)(9)",
+      "equipment_or_work": "Smartphones and portable all-purpose mobile computing devices — jailbreaking (+ removal of software)",
+      "permitted_uses": [
+        "Execute lawfully obtained software applications where circumvention enables interoperability with on-device programs",
+        "Permit removal of software from the smartphone or device"
+      ],
+      "exclusions": [
+        "Sole purpose limited to interoperability or software removal"
+      ],
+      "definitions_or_conditions": [
+        "'Portable all-purpose mobile computing device' = device primarily designed to run a wide variety of programs, OS primarily designed for mobile use, intended to be carried or worn"
+      ],
+      "renewal_status": "renewed_unchanged",
+      "renewal_status_source": {
+        "pdf_pages": [2, 3],
+        "quote": "[Section A; carries forward from 2021 (b)(9) verbatim]"
+      },
+      "source": {
+        "file": "1201/Final Rules/2024-Final-Rule.txt",
+        "pdf_pages": [12],
+        "quote": "(9) Computer programs that enable smartphones and portable all-purpose mobile computing devices to execute lawfully obtained software applications, where circumvention is accomplished for the sole purpose of enabling interoperability of such applications with computer programs on the smartphone or device, or to permit removal of software from the smartphone or device. For purposes of this paragraph (b)(9), a 'portable all-purpose mobile computing device' is a device that is primarily designed to run a wide variety of programs rather than for consumption of a particular type of media content, is equipped with an operating system primarily designed for mobile use, and is intended to be carried or worn by an individual."
+      }
+    },
+    {
+      "class_number": "(b)(10)",
+      "equipment_or_work": "Smart televisions — jailbreaking (interoperability only; no removal-of-software clause)",
+      "permitted_uses": [
+        "Execute lawfully obtained software applications where circumvention enables interoperability with on-device programs"
+      ],
+      "exclusions": [
+        "No 'removal of software' clause (narrower than (b)(9) and (b)(11) by design)",
+        "Sole purpose limited to interoperability of applications",
+        "Not accomplished for gaining unauthorized access to other copyrighted works"
+      ],
+      "definitions_or_conditions": [
+        "'Smart televisions' includes internet-enabled televisions AND devices physically separate from a television whose primary purpose is to run software applications that stream authorized video from the internet for display on a screen"
+      ],
+      "renewal_status": "renewed_unchanged",
+      "renewal_status_source": {
+        "pdf_pages": [2, 3],
+        "quote": "[Section A; carries forward from 2021 (b)(10) verbatim]"
+      },
+      "source": {
+        "file": "1201/Final Rules/2024-Final-Rule.txt",
+        "pdf_pages": [12],
+        "quote": "(10) Computer programs that enable smart televisions to execute lawfully obtained software applications, where circumvention is accomplished for the sole purpose of enabling interoperability of such applications with computer programs on the smart television, and is not accomplished for the purpose of gaining unauthorized access to other copyrighted works. For purposes of this paragraph (b)(10), 'smart televisions' includes both internet-enabled televisions, as well as devices that are physically separate from a television and whose primary purpose is to run software applications that stream authorized video from the internet for display on a screen."
+      }
+    },
+    {
+      "class_number": "(b)(11)",
+      "equipment_or_work": "Voice assistant devices — jailbreaking (+ removal of software)",
+      "permitted_uses": [
+        "Execute lawfully obtained software applications where circumvention enables interoperability with on-device programs",
+        "Permit removal of software from the device"
+      ],
+      "exclusions": [
+        "Sole purpose limited to interoperability or software removal",
+        "Not accomplished for gaining unauthorized access to other copyrighted works"
+      ],
+      "definitions_or_conditions": [
+        "'Voice assistant device' = device primarily designed to run a wide variety of programs, designed to take user input primarily by voice, designed to be installed in a home or office"
+      ],
+      "renewal_status": "renewed_unchanged",
+      "renewal_status_source": {
+        "pdf_pages": [2, 3],
+        "quote": "[Section A; carries forward from 2021 (b)(11) verbatim]"
+      },
+      "source": {
+        "file": "1201/Final Rules/2024-Final-Rule.txt",
+        "pdf_pages": [12],
+        "quote": "(11) Computer programs that enable voice assistant devices to execute lawfully obtained software applications, where circumvention is accomplished for the sole purpose of enabling interoperability of such applications with computer programs on the device, or to permit removal of software from the device, and is not accomplished for the purpose of gaining unauthorized access to other copyrighted works. For purposes of this paragraph (b)(11), a 'voice assistant device' is a device that is primarily designed to run a wide variety of programs rather than for consumption of a particular type of media content, is designed to take user input primarily by voice, and is designed to be installed in a home or office."
+      }
+    },
+    {
+      "class_number": "(b)(12)",
+      "equipment_or_work": "Routers and dedicated network devices — jailbreaking (interoperability only)",
+      "permitted_uses": [
+        "Execute lawfully obtained software applications where circumvention enables interoperability with on-device programs on the router or dedicated network device"
+      ],
+      "exclusions": [
+        "Sole purpose limited to interoperability",
+        "Not accomplished for gaining unauthorized access to other copyrighted works",
+        "Excludes devices that are not lawfully owned"
+      ],
+      "definitions_or_conditions": [
+        "'Dedicated network device' includes switches, hubs, bridges, gateways, modems, repeaters, and access points"
+      ],
+      "renewal_status": "renewed_unchanged",
+      "renewal_status_source": {
+        "pdf_pages": [2, 3],
+        "quote": "[Section A; carries forward from 2021 (b)(12) verbatim]"
+      },
+      "source": {
+        "file": "1201/Final Rules/2024-Final-Rule.txt",
+        "pdf_pages": [12],
+        "quote": "(12) Computer programs that enable routers and dedicated network devices to execute lawfully obtained software applications, where circumvention is accomplished for the sole purpose of enabling interoperability of such applications with computer programs on the router or dedicated network device, and is not accomplished for the purpose of gaining unauthorized access to other copyrighted works. For the purposes of this paragraph (b)(12), 'dedicated network device' includes switches, hubs, bridges, gateways, modems, repeaters, and access points, and excludes devices that are not lawfully owned."
+      }
+    },
+    {
+      "class_number": "(b)(13)",
+      "equipment_or_work": "Motorized land vehicles AND marine vessels — diagnosis, repair, lawful modification",
+      "permitted_uses": [
+        "Circumvent computer programs contained in and controlling the functioning of a lawfully acquired motorized land vehicle or marine vessel (personal automobile or boat, commercial vehicle or vessel, mechanized agricultural vehicle or vessel), when circumvention is a necessary step to allow diagnosis, repair, or lawful modification of a vehicle or vessel function"
+      ],
+      "exclusions": [
+        "Excludes programs accessed through a separate subscription service",
+        "Not accomplished for gaining unauthorized access to other copyrighted works",
+        "Not a safe harbor from, or defense to, liability under DOT or EPA regulations"
+      ],
+      "definitions_or_conditions": [],
+      "renewal_status": "renewed_unchanged",
+      "renewal_status_source": {
+        "pdf_pages": [2, 3],
+        "quote": "[Section A; carries forward from 2021 (b)(13) verbatim]"
+      },
+      "source": {
+        "file": "1201/Final Rules/2024-Final-Rule.txt",
+        "pdf_pages": [12],
+        "quote": "(13) Computer programs that are contained in and control the functioning of a lawfully acquired motorized land vehicle or marine vessel such as a personal automobile or boat, commercial vehicle or vessel, or mechanized agricultural vehicle or vessel, except for programs accessed through a separate subscription service, when circumvention is a necessary step to allow the diagnosis, repair, or lawful modification of a vehicle or vessel function, where such circumvention is not accomplished for the purpose of gaining unauthorized access to other copyrighted works. Eligibility for this exemption is not a safe harbor from, or defense to, liability under other applicable laws, including without limitation regulations promulgated by the Department of Transportation or the Environmental Protection Agency."
+      }
+    },
+    {
+      "class_number": "(b)(14)",
+      "equipment_or_work": "Motorized land vehicles AND marine vessels — owner access to operational, diagnostic, and telematics data",
+      "permitted_uses": [
+        "Circumvent computer programs contained in and controlling the functioning of a lawfully acquired motorized land vehicle or marine vessel, to allow vehicle/vessel owners and lessees (or those acting on their behalf) to access, store, and share operational data, including diagnostic and telematics data"
+      ],
+      "exclusions": [
+        "Excludes programs accessed through a separate subscription service",
+        "Not accomplished for gaining unauthorized access to other copyrighted works",
+        "Not a safe harbor from, or defense to, liability under DOT or EPA regulations"
+      ],
+      "definitions_or_conditions": [],
+      "renewal_status": "new",
+      "renewal_status_source": {
+        "pdf_pages": [7, 8],
+        "quote": "[Section B 'New or Expanded Designations'; NEW class for owner access to operational/diagnostic/telematics data — distinct from (b)(13) repair class]"
+      },
+      "source": {
+        "file": "1201/Final Rules/2024-Final-Rule.txt",
+        "pdf_pages": [12],
+        "quote": "(14) Computer programs that are contained in and control the functioning of a lawfully acquired motorized land vehicle or marine vessel such as a personal automobile or boat, commercial vehicle or vessel, or mechanized agricultural vehicle or vessel, except for programs accessed through a separate subscription service, to allow vehicle or vessel owners and lessees, or those acting on their behalf, to access, store, and share operational data, including diagnostic and telematics data, where such circumvention is not accomplished for the purpose of gaining unauthorized access to other copyrighted works. Eligibility for this exemption is not a safe harbor from, or defense to, liability under other applicable laws, including without limitation regulations promulgated by the Department of Transportation or the Environmental Protection Agency."
+      }
+    },
+    {
+      "class_number": "(b)(15)",
+      "equipment_or_work": "Consumer devices generally — diagnosis, maintenance, or repair",
+      "permitted_uses": [
+        "Circumvent computer programs contained in and controlling the functioning of a lawfully acquired device primarily designed for use by consumers, when circumvention is necessary for diagnosis, maintenance, or repair"
+      ],
+      "exclusions": [
+        "Not accomplished for gaining access to other copyrighted works",
+        "For video game consoles: 'repair' limited to optical-drive repair or replacement AND requires restoring any TPMs circumvented or disabled"
+      ],
+      "definitions_or_conditions": [
+        "'Maintenance' = servicing per original specifications and authorized changes",
+        "'Repair' = restoring to original specifications and authorized changes"
+      ],
+      "renewal_status": "renewed_unchanged",
+      "renewal_status_source": {
+        "pdf_pages": [2, 3],
+        "quote": "[Section A; carries forward from 2021 (b)(14) verbatim]"
+      },
+      "source": {
+        "file": "1201/Final Rules/2024-Final-Rule.txt",
+        "pdf_pages": [12],
+        "quote": "(15) Computer programs that are contained in and control the functioning of a lawfully acquired device that is primarily designed for use by consumers, when circumvention is a necessary step to allow the diagnosis, maintenance, or repair of such a device, and is not accomplished for the purpose of gaining access to other copyrighted works. For purposes of this paragraph (b)(15): (i) ['maintenance' definition]; (ii) ['repair' definition; for video game consoles, repair limited to optical-drive repair/replacement and requires restoring any TPMs that were circumvented or disabled]"
+      }
+    },
+    {
+      "class_number": "(b)(16)",
+      "equipment_or_work": "Retail-level commercial food preparation equipment — diagnosis, maintenance, or repair",
+      "permitted_uses": [
+        "Circumvent computer programs contained in and controlling the functioning of lawfully acquired equipment primarily designed for use in retail-level commercial food preparation, when circumvention is necessary for diagnosis, maintenance, or repair"
+      ],
+      "exclusions": [
+        "Not accomplished for gaining access to other copyrighted works"
+      ],
+      "definitions_or_conditions": [
+        "'Maintenance' = servicing per original specifications and authorized changes",
+        "'Repair' = restoring to original specifications and authorized changes"
+      ],
+      "renewal_status": "new",
+      "renewal_status_source": {
+        "pdf_pages": [7, 8],
+        "quote": "[Section B; NEW class for retail commercial food preparation equipment (e.g., commercial dishwashers, ice machines, ovens)]"
+      },
+      "source": {
+        "file": "1201/Final Rules/2024-Final-Rule.txt",
+        "pdf_pages": [12, 13],
+        "quote": "(16) Computer programs that are contained in and control the functioning of lawfully acquired equipment that is primarily designed for use in retail-level commercial food preparation when circumvention is a necessary step to allow the diagnosis, maintenance, or repair of such a device, and is not accomplished for the purpose of gaining access to other copyrighted works. For purposes of this paragraph (b)(16): (i) ['maintenance' definition]; (ii) ['repair' definition]"
+      }
+    },
+    {
+      "class_number": "(b)(17)",
+      "equipment_or_work": "Medical devices and systems — diagnosis, maintenance, or repair",
+      "permitted_uses": [
+        "Circumvent computer programs contained in and controlling the functioning of a lawfully acquired medical device or system, and related data files, when circumvention is necessary for diagnosis, maintenance, or repair"
+      ],
+      "exclusions": [],
+      "definitions_or_conditions": [
+        "'Maintenance' = servicing per original specifications and authorized changes",
+        "'Repair' = restoring to original specifications and authorized changes"
+      ],
+      "renewal_status": "renewed_unchanged",
+      "renewal_status_source": {
+        "pdf_pages": [2, 3],
+        "quote": "[Section A; carries forward from 2021 (b)(15) verbatim]"
+      },
+      "source": {
+        "file": "1201/Final Rules/2024-Final-Rule.txt",
+        "pdf_pages": [13],
+        "quote": "(17) Computer programs that are contained in and control the functioning of a lawfully acquired medical device or system, and related data files, when circumvention is a necessary step to allow the diagnosis, maintenance, or repair of such a device or system. For purposes of this paragraph (b)(17): (i) ['maintenance' definition]; (ii) ['repair' definition]"
+      }
+    },
+    {
+      "class_number": "(b)(18)",
+      "equipment_or_work": "Good-faith security research",
+      "permitted_uses": [
+        "Circumvent computer programs on a lawfully acquired device or machine on which the program operates, solely for good-faith security research",
+        "Circumvent computer programs on a computer, computer system, or computer network on which the program operates, with authorization of owner/operator, solely for good-faith security research"
+      ],
+      "exclusions": [],
+      "definitions_or_conditions": [
+        "'Good-faith security research' = accessing a program solely for good-faith testing, investigation, and/or correction of a security flaw or vulnerability, in an environment designed to avoid harm, with information used primarily to promote security/safety, not used to facilitate copyright infringement",
+        "Not a safe harbor from, or defense to, liability under other applicable laws including the Computer Fraud and Abuse Act"
+      ],
+      "renewal_status": "renewed_unchanged",
+      "renewal_status_source": {
+        "pdf_pages": [2, 3],
+        "quote": "[Section A; carries forward from 2021 (b)(16) verbatim]"
+      },
+      "source": {
+        "file": "1201/Final Rules/2024-Final-Rule.txt",
+        "pdf_pages": [13],
+        "quote": "(18)(i) Computer programs, where the circumvention is undertaken on a lawfully acquired device or machine on which the computer program operates, or is undertaken on a computer, computer system, or computer network on which the computer program operates with the authorization of the owner or operator of such computer, computer system, or computer network, solely for the purpose of good-faith security research. (ii) [good-faith security research definition]. (iii) [no safe-harbor clause referencing CFAA]"
+      }
+    },
+    {
+      "class_number": "(b)(19)",
+      "equipment_or_work": "Video games — preservation when authentication server abandoned; preservation of offline games by LAMs",
+      "permitted_uses": [
+        "(i)(A) Restore access for personal, local gameplay on PC/console when server access ceased",
+        "(i)(B) Restore access for LAM preservation when server access ceased",
+        "(ii) LAM preservation of complete games not requiring external server access and no longer reasonably available commercially",
+        "(iii) LAM operation of consoles for preservation activities in (i)(B) or (ii)"
+      ],
+      "exclusions": [
+        "LAM preservation without direct/indirect commercial advantage",
+        "Preserved games not distributed or made available outside LAM premises"
+      ],
+      "definitions_or_conditions": [
+        "Same 'complete games', 'ceased to provide access', 'local gameplay', and 5-prong 'eligible' LAM definitions as 2021"
+      ],
+      "renewal_status": "renewed_unchanged",
+      "renewal_status_source": {
+        "pdf_pages": [2, 3],
+        "quote": "[Section A; carries forward from 2021 (b)(17) verbatim]"
+      },
+      "source": {
+        "file": "1201/Final Rules/2024-Final-Rule.txt",
+        "pdf_pages": [13],
+        "quote": "(19)(i) Video games ... lawfully acquired as complete games, when the copyright owner ... has ceased to provide access to an external computer server ... (ii) Video games ... that do not require access to an external computer server for gameplay, and that are no longer reasonably available in the commercial marketplace, solely for preservation by an eligible library, archives, or museum ... (iii) Computer programs used to operate video game consoles ... (iv) [definitions: 'complete games' (A) and (B); 'ceased to provide access'; 'local gameplay'; 5-prong 'eligible' LAM]"
+      }
+    },
+    {
+      "class_number": "(b)(20)",
+      "equipment_or_work": "Software preservation by LAMs — non-game programs (explicit 'one user at a time' definition added)",
+      "permitted_uses": [
+        "Circumvent computer programs (except video games) lawfully acquired and no longer reasonably available commercially, solely for lawful preservation by an eligible LAM",
+        "Electronic distribution, display, or performance outside institution's premises permitted ONLY to one user at a time, for a limited time, and only where LAM has no notice of non-private-study use"
+      ],
+      "exclusions": [
+        "Without any purpose of direct or indirect commercial advantage",
+        "Excludes video games (covered under (b)(19))"
+      ],
+      "definitions_or_conditions": [
+        "5-prong 'eligible' LAM definition",
+        "'One user at a time' clarified (NEW in 2024): for each copy lawfully owned and preserved, the LAM may make one electronic distribution/display/performance of that copy at a time, but may make DIFFERENT copies available to different users simultaneously (e.g., LAM with 3 copies can lend 3 different users at once); does NOT permit making multiple simultaneous copies of the same copy"
+      ],
+      "renewal_status": "renewed_expanded",
+      "renewal_status_source": {
+        "pdf_pages": [2, 3],
+        "quote": "[Section A; carries forward from 2021 (b)(18) with new explicit 'one user at a time' definition (iii)]"
+      },
+      "expansion_notes": "Compared to 2021 (b)(18): the substantive permitted-uses and exclusions are unchanged, but 2024 adds a new explicit definition (iii) of 'one user at a time' that clarifies multi-copy lending: a LAM with multiple lawfully owned copies can lend each copy to one user at a time simultaneously. This may resolve prior ambiguity about whether 'one user at a time' applied per-title or per-copy. Net effect: clarification likely expanding practical multi-user access where a LAM owns multiple copies.",
+      "source": {
+        "file": "1201/Final Rules/2024-Final-Rule.txt",
+        "pdf_pages": [13, 14],
+        "quote": "(20)(i) Computer programs, except video games, that have been lawfully acquired and that are no longer reasonably available in the commercial marketplace, solely for the purpose of lawful preservation of a computer program ... Any electronic distribution, display, or performance made outside of the physical premises of an eligible library, archives, or museum of works preserved under this paragraph may be made to only one user at a time, for a limited time, and only where the library, archives, or museum has no notice that the copy would be used for any purpose other than private study, scholarship, or research. (ii) [5-prong 'eligible' definition]. (iii) For purposes of paragraph (b)(20) of this section, the phrase 'one user at a time' means that for each copy of a work lawfully owned by an eligible library, archives, or museum and preserved under paragraph (b)(20)(i) of this section, such library, archives, or museum may make an electronic distribution, display, or performance of that work outside of its physical premises. An eligible library, archives, or museum may make each copy of such lawfully owned and preserved work available to different users simultaneously. This provision does not permit an eligible library, archives, or museum to make multiple, simultaneous copies of the same copy of a work for the purposes of providing users access to the work."
+      }
+    },
+    {
+      "class_number": "(b)(21)",
+      "equipment_or_work": "3D printers — feedstock interoperability",
+      "permitted_uses": [
+        "Circumvent computer programs that operate 3D printers employing technological measures to limit the use of material, solely to use alternative material"
+      ],
+      "exclusions": [
+        "Not for accessing design software, design files, or proprietary data"
+      ],
+      "definitions_or_conditions": [],
+      "renewal_status": "renewed_unchanged",
+      "renewal_status_source": {
+        "pdf_pages": [2, 3],
+        "quote": "[Section A; carries forward from 2021 (b)(19) verbatim]"
+      },
+      "source": {
+        "file": "1201/Final Rules/2024-Final-Rule.txt",
+        "pdf_pages": [14],
+        "quote": "(21) Computer programs that operate 3D printers that employ technological measures to limit the use of material, when circumvention is accomplished solely for the purpose of using alternative material and not for the purpose of accessing design software, design files, or proprietary data."
+      }
+    },
+    {
+      "class_number": "(b)(22)",
+      "equipment_or_work": "FOSS computer programs — investigation of potential license infringement",
+      "permitted_uses": [
+        "Circumvent computer programs solely for the purpose of investigating a potential infringement of free and open source computer programs"
+      ],
+      "exclusions": [
+        "(i) Circumvention undertaken on a lawfully acquired device or machine OTHER THAN a video game console",
+        "(ii) Performed by or at the direction of a party with good-faith reasonable belief in the need for investigation AND standing to bring a license breach or copyright infringement claim",
+        "(iii) Does not constitute a violation of applicable law",
+        "(iv) Copy of program, or device/machine on which it operates, not used or maintained in a manner that facilitates copyright infringement"
+      ],
+      "definitions_or_conditions": [],
+      "renewal_status": "renewed_unchanged",
+      "renewal_status_source": {
+        "pdf_pages": [2, 3],
+        "quote": "[Section A; carries forward from 2021 (b)(20) verbatim]"
+      },
+      "source": {
+        "file": "1201/Final Rules/2024-Final-Rule.txt",
+        "pdf_pages": [14],
+        "quote": "(22) Computer programs, solely for the purpose of investigating a potential infringement of free and open source computer programs where: (i) The circumvention is undertaken on a lawfully acquired device or machine other than a video game console, on which the computer program operates; (ii) The circumvention is performed by, or at the direction of, a party that has a good-faith, reasonable belief in the need for the investigation and has standing to bring a breach of license or copyright infringement claim; (iii) Such circumvention does not constitute a violation of applicable law; and (iv) The copy of the computer program, or the device or machine on which it operates, is not used or maintained in a manner that facilitates copyright infringement."
+      }
+    }
+  ],
+  "non_renewals_from_prior_cycle": [
+    {
+      "prior_cycle": 2021,
+      "prior_class_number": "(b)(21)",
+      "topic": "Video games — accessibility input methods for users with physical disabilities",
+      "note": "The 2021 (b)(21) class — circumventing video-game TPMs to allow use of non-keyboard/non-mouse input methods for users with physical disabilities — has no corresponding codified class in the 2024 Final Rule. To confirm renewal status (denied vs. simply unrenewed), check the 2024 Final Rule preamble (Section A renewal recommendations) for discussion of this class. Flagged here for Phase 4 verification."
+    }
+  ]
+}

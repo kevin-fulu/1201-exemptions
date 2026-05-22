@@ -1,0 +1,67 @@
+[PAGE 1]
+12/15/2020 Regulations.gov Beta
+https://beta.regulations.gov/comment/COLC-2020-0010-0100 1/2
+Docket (/docket/COLC-2020-0010) / Document (COLC-2020-0010-0075) (/document/COLC-2020-0010-0075)
+/ Comment
+An official website of the United States Government. 
+ PUBLIC SUBMISSION
+Class 12_InitialComments_Auto Care Association
+Posted by the U.S. Copyright Office on Dec 15, 2020
+View More Comments  (/document/COLC-2020-0010-0075/comment)
+ 
+70  Share 
+Comment
+Comment of AutoCare Association in Support of  
+Petition of The Repair Association and iFixit (Class 12) 
+AutoCare Association supports the Petition of The Repair Association and iFixit ("Petitioners") to expand
+the current exemption covering the circumvention of technological protection measures for computer
+programs that control any lawfully acquired devices to permit the diagnosis, repair, maintenance, or
+modification of those devices. AutoCare has petitioned the Librarian beginning with the 2015 rulemaking
+proceeding for an exemption covering such circumvention in the context of motorized land vehicles, for the
+purpose of diagnosis, repair, maintenance, or modification. The exemption offers substantial economic
+benefits to consumers and businesses that engage in such lawful repair activities. Despite the opposition of
+the vehicle manufacturers, the exemption has never been shown to promote infringing uses of such works
+or to interfere with a vehicle's safety and environmental controls. 
+As the Copyright Office observed in its 2016 Study of Software-Enabled Consumer Products, computer
+programs control the operations of myriad products. The Librarian has recognized this by allowing
+circumvention to diagnose, maintain, repair, and modify motorized land vehicles and cell phones. 
+But the principles behind those exemptions apply to any consumer productto doorbells, thermostats,
+refrigerators, and ovens. It surely was lawful to repair earlier generations of such products with mechanical
+controls. And, as the Study recognized, consumers and business that repair such products with computer
+software alone would almost certainly be engaged in noninfringing uses. "Traditional copyright doctrines
+such as the idea/expression dichotomy, merger, scnes faire, and fair use provide a combined and
+reasonable defense for many tinkering and repair activities." 2016 Study p. 33. 
+In the four years since the Study, the use of embedded software in consumer products has grown rapidly,
+and with it the deployment of TPMs. The Study suggested that a statutory exemption for repair might soon
+become obsolete, given the pace of technological change. The same obsolescence concern does not apply
+to an exemption by the Librarian, which can be revisited and revised every three years. But that concern
+with the adequacy of an exemption also suggests that an exemption for a category of clearly noninfringing
+[PAGE 2]
+12/15/2020 Regulations.gov Beta
+https://beta.regulations.gov/comment/COLC-2020-0010-0100 2/2
+uses such as product repair should be capacious enough. Users should not have to apply for repair
+exemptions on a product-by-product basis where the principle of lawful repair is the same. Considering the
+effort and expense of the exemption process, and the ubiquity of software-enabled products, such a
+requirement should be unnecessary. 
+We see no justification to constrain the scope of repair solely because a manufacturer chooses to put its
+software behind a technological firewallparticularly since those manufacturers often deploy those TPMs to
+stifle aftermarket competition, not to protect the integrity of their copyrights. 
+AutoCare therefore urges the Librarian to approve the requested exemption.  
+Comment ID
+COLC-2020-0010-0100
+Tracking Number
+1k4-9kn2-uxta
+Comment Details Submitter Info
+Submitter Name
+Aaron Lowe
+About
+(/about) 
+Agencies
+(/agencies) 
+Learn
+(/learn) 
+FAQ
+(/faq)
+Privacy & Security Notice (/privacy-notice) |  User Notice (/user-notice) |
+Accessibility Statement (/accessibility) |  Developers (https://open.gsa.gov/api/regulationsgov/)
+Support (/support) Provide Site Feedback

@@ -1,0 +1,107 @@
+[PAGE 1]
+This is a Word document that allows users to type into the spaces belo w. The comment may be single-spaced, but 
+should be in at least 12-point type. The italicized instructions on this template may be deleted.  
+ 
+ 
+Please submit a separate comment for each proposed class. 
+NOTE: This form must be used in all three rounds of comments by all commenters not 
+submitting short-form comments directly through regulations.gov, whether the commenter is 
+supporting, opposing, or merely providing pertinent information about a proposed exemption. 
+When commenting on a proposed expansion to an existing exemption, you should focus your 
+comments only on those issues relevant to the proposed expansion.  
+[   ] Check here if multimedia evidence is being provided in connection with this comment 
+Commenters can provide relevant multimedia evidence to support their arguments. Please note 
+that such evidence must be separately submitted in conformity with the Office’s instructions for 
+submitting multimedia evidence, available on the Copyright Office website at 
+https://www.copyright.gov/1201/2018. 
+ITEM A.  COMMENTER INFORMATION  
+Consumers Union 
+George P. Slover 
+Senior Policy Counsel 
+1101 17th St., NW, Suite 500 
+Washington, DC  20036 
+(202) 462-6262 
+ 
+ITEM B.  PROPOSED CLASS ADDRESSED 
+Class 5 – Computer Programs – Unlocking 
+ITEM C.  OVERVIEW 
+[See below] 
+ITEM D.  TECHNOLOGICAL PROTECTION MEASURE(S) AND METHOD(S) OF CIRCUMVENTION 
+ [See below] 
+ITEM E.  ASSERTED ADVERSE EFFECTS ON NONINFRINGING USES 
+  
+[PAGE 2]
+ 
+ 
+2 
+ 
+Supporting Comments for New Exemption Under 17 U.S.C. § 1201 
+Class 5 – Computer Programs – Unlocking 
+December 18, 2017 
+  
+Consumers Union, the policy and mobilization division of Consumer Reports,1 submits 
+this statement in support of proposed Class 5, to expand the current exemption for unlocking 
+mobile devices to cover other devices that are connected to a wireless communications network, 
+so that the consumer who owns the device has the ability to choose which network to connect to, 
+in a competitive marketplace.2 
+   As we have stated in previous submissions to the Copyright Office, and in our Digital 
+Testing Standard launched in March 2017,3 when a consumer purchases a product, the consumer 
+should obtain genuine ownership of the product and its parts, including the ability to make 
+effective use of the product, and the ability to effectively resell it.4   We believe consumers 
+should have the ability to use the products they have purchased in all these respects, as they see 
+fit.  We have successfully made this case with respect to mobile devices, both in Congress and 
+before the Copyright Office.  And we believe it also applies here. 
+Congress enacted the prohibition in section 1201 of the Digital Millennium Copyright 
+Act in response to concern that the digital age would otherwise usher in a massive deluge of 
+copyright infringement.  But this response has proven, with experience, to be overbroad.  Its 
+proliferating use to block access to software that enables and governs – and restricts – the 
+functioning of everyday consumer products in which it is embedded, and their interoperability 
+with other products, is causing far-reaching harm to fundamental consumer rights. 
+We recognize the value of copyright law in nurturing and protecting incentives for 
+innovation, both generally and in particular with respect to computer software.  At the same time, 
+it is important that the monopoly rights conferred on creators by the copyright laws be kept 
+                                                      
+1 Consumers Union is the policy and mobilization division of Consumer Reports, an expert, inde pendent, non-profit 
+organization whose mission is to work for a fair, just, and safe marketplace for all consumers and to empower 
+consumers to protect themselves.  It conducts its policy work in the areas of antitrust and competition  
+Policy, financial reform, food and product safety, privacy and data security, telecommunications reform, health care 
+reform, and other areas.  Consumer Reports is the world’s largest independent product -testing organization. Using 
+its dozens of labs, auto test center, and survey research department, the non-profit organization rates thousands of 
+products and services annually. Founded in 1936, Consumer Reports has over 7 million subscribers to its magazine,  
+website, and other publications. 
+2 We are also submitting supportive comments on other classes. The fact that we do not submit comments as to any 
+particular class should not be taken to suggest that we oppose the recommendations for that class, or that we do not 
+support them in whole or in part. 
+3 The Digital Testing Standard (theDigitalStandard.org) was launched on March 6th, 2017 and is the result of a 
+collaboration with our cybersecurity partners, Disconnect, Ranking Digital Rights, and the Cyber Independent 
+Testing Lab.  The Standard is designed to hold companies accountable and equip Consumer Reports and other 
+organizations to test and rate products for how responsibly they handle our private data.  This is a collaborative and 
+open source effort.  The Standard is designed to empower consumers to make informed choices about the connected 
+products, apps, and services consumers use every day.  
+4 The Standard, THE DIGITAL STANDARD, https://www.thedigitalstandard.org/the-standard. 
+[PAGE 3]
+ 
+ 
+3 
+ 
+appropriately contained, so they do not spill over into broader, unjustified and counterproductive 
+restraints on competition and consumer choice, and do not undermine long-established, 
+fundamental rights and expectations of consumers regarding their ownership and dominion over 
+the products they have lawfully acquired.  Beyond these immediate effects on consumer rights 
+and expectations, broader innovation is impeded if a product’s manufacturer is given 
+inordinately sweeping power to control how it is used once it has been released into the 
+marketplace. 
+ The same harm to consumers whose mobile handsets are locked to one wireless network 
+are also present with respect to other devices that depend on a connection to a wireless network 
+for their functioning.  We therefore urge the Copyright Office to look favorably on 
+recommendations to extend the current unlocking exemption to these other devices. 
+Respectfully, 
+George P. Slover 
+Senior Policy Counsel 
+Consumers Union 
+1101 17th St., NW, Suite 500 
+Washington, DC  20036 
+(202) 462-6262 
+  
+DOCUMENTARY EVIDENCE 
+[See above] 

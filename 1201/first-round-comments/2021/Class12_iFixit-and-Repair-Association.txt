@@ -1,0 +1,998 @@
+[PAGE 1]
+  
+ 
+ 
+ 
+ 
+ 
+[   ] Check here if multimedia evidence is being provided in connection with this comment  
+I
+TEM A.  COMMENTER INFORMATION  
+iFixit is an international, open-source, online repair manual for everything. iFixit represents a 
+global community of makers, fixers, refurbishers, tinkerers, and repair professionals. In 2020, 
+iFixit helped over 100 million people repair everything from mobile phones to cars and tractors. 
+Expansion of these exemptions is necessary to preserving ownership rights, maintaining a 
+consumer’s right to repair, and enabling iFixit to continue helping customers repair the devices 
+they own.  
+The Repair Association, Repair.org (“Repair.org”) represents the combined interests of repair 
+professionals in the technology aftermarket. Its members span the interests of individuals, non-
+profits, and for-profits engaged in the repair, resale, recycling, and re-commerce of technology 
+driven equipment. Its mission is to advocate for repair-friendly policies, regulations, statutes, and 
+standards at the federal, state, and local level.  
+iFixit 
+1330 Monterey St. 
+San Luis Obispo, CA 93401 
+(805) 464-0573 
+Kyle Wiens 
+kyle@ifixit.com 
+Kerry Maeve Sheehan 
+kerry@ifixit.com 
+The Repair Association, Repair.org 
+P.O. Box 283 
+North River, NY 12856 
+(518) 251-2837 
+Gay Gordon-Byrne 
+ggbyrne@repair.org   
+iFixit and Repair.org are represented in this comment by: 
+Jef Pearlman 
+Intellectual Property & Technology Law Clinic 
+USC Gould School of Law 
+jef@law.usc.edu  
+(213) 740-7613 
+[PAGE 2]
+2 
+Aaron Morris, J.D. Candidate 2021 
+Camille Brown, J.D. Candidate 2022 
+ITEM B.  Proposed Class Addressed 
+Proposed Class 12: Computer Programs – Repair  
+ITEM C.  OVERVIEW 
+iFixit and Repair.org (collectively, “Commenters”) submit these comments in support of 
+expanding the exemption for repairing devices to encompass all lawfully owned devices. In 
+particular, Commenters propose the following language for an expanded exemption (the 
+“Proposed Expanded Exemption”): 
+Computer programs that are contained in and control the functioning of a lawfully 
+acquired device, when circumvention is a necessary step to allow the diagnosis, 
+maintenance, modification, or repair of such a device. 
+The Copyright Office (the “Office”) has indicated that it intends to recommend renewal of 
+similar exemptions for “computer programs that control smartphones, home appliances, or home 
+systems” and “computer programs that control motorized land vehicles, including farm 
+equipment.”1 Although intended to be carefully crafted, these classes remain unnecessarily 
+narrow and ambiguous in scope. The “smartphone” exemption may allow the repair of an 
+iPhone, but not an iPad. Smart refrigerators may be repaired as “home appliances” if they are 
+used at home, but it is unclear if whether the exemption would cover an industrial fridge in a 
+home setting or a home fridge in an industrial setting. One possible interpretation is that 
+commercial equipment can be repaired if it is taken home first. It is similarly ambiguous whether 
+commercial HVAC systems used in apartment homes and condos are “home systems.” The 
+Office should eliminate these ambiguities and stop the proliferation of unnecessary narrow 
+categories by clarifying and expand the exemption to cover all lawfully acquired devices. 
+The Copyright Office Can and Should Interpret “Class of Work” Reasonably Broadly 
+The Librarian of Congress (the “Librarian”) can and has granted exemptions covering broad 
+classes of devices when circumvention is achieved for a lawful purpose. For example, the current 
+exemption for security research applies without regard to the specific type of device.2 Similarly, 
+the Copyright Office has previously interpreted the congressional record to mean that “while the 
+category of motion pictures and other audiovisual works in section 102 may appropriately be 
+subdivided, for purposes of the rulemaking, into classes such as motion pictures, or television 
+programs, it would be inappropriate to subdivide overly narrowly into particular genres of 
+motion pictures, such as Westerns, comedies, or live action dramas.”3 Regardless, the Office has 
+ 
+1 Exemptions to Permit Circumvention of Access Controls on Copyrighted Works: Notice of Proposed Rulemaking, 
+85 Fed. Reg. 65,295, 65,299-300 (Oct. 15, 2020). 
+2 See 37 C.F.R. § 201.40(b)(11) (exempting circumvention for good-faith security research without regard to device 
+type). 
+3 Acting Register of Copyrights, Section 1201 Rulemaking: Seventh Triennial Proceeding to Determine Exemptions 
+to the Prohibition on Circumvention: Recommendation of the Acting Register of Copyrights 14 (2018) (citation 
+ 
+[PAGE 3]
+3 
+in the past separated out devices for individual examination and evaluation, and forcing each 
+new device to pass through the gauntlet of the triennial to be eligible for repair.4  
+Under the Copyright Office’s current approach, the number of possible device categories is 
+enormous. In terms of pure numbers of devices, a simple search for electronic gadgets on 
+Amazon yields more than 10,000 results.5 Everything from eye masks for sleep to radio-
+controlled quadcopters to the GolfBuddy Voice 2 Golf GPS/Rangefinder6 is a software-enabled 
+device. But the piecemeal approach of prior exemptions results in differences in what is lawful 
+that are unrelated both to copyright interests and to any differences in the devices themselves, 
+leaving owners of essentially similar devices in unspecified categories in the dark. 
+The existing exemptions illustrate this problem: The same manufacturers may build both marine 
+and tractor engines,7 but circumvention of that manufacturer’s ECU TPM is allowed for the latter 
+and illegal for the former.8 A smartphone and a tablet may contain nearly identical firmware,9 
+and similar hardware,10 and typically require the same the repairperson’s skills,11 but the 
+smartphone TPM may be bypassed under the current exemption and the tablet TPM may not 
+be.12 Although CPAP machines are medical devices commonly used in the home and are 
+therefore arguably “home appliances,”13 repairing these machines at a hospital could be illegal.14 
+ 
+omitted); Register of Copyrights, Section 1201 Rulemaking: Sixth Triennial Proceeding to Determine Exemptions to 
+the Prohibition on Circumvention: Recommendation of the Register of Copyrights 15 (2015) (citation omitted). 
+Hereinafter, references to the Register’s Recommendations in prior rulemakings are cited by the year of publication 
+followed by “Recommendation” (e.g., “2018 Recommendation”). 
+4 Citing a lack of evidence on whether devices generally are similarly situated, the Acting Register in 2018 declined 
+to recommend an exemption allowing the repair of software enabled devices generally. 2018 Recommendation 191-
+92.  
+5 Amazon Search Results for Gadgets in the Electronics Category, 
+https://www.amazon.com/s?k=gadgets&i=electronics&ref=nb_sb_noss_2 [https://perma.cc/MSS5-GLH3]. 
+6 Id. 
+7 See CAT Marine Engines Page, https://www.cat.com/en_US/by-industry/marine.html (last visited Dec. 14, 2020); 
+John Deere Marine Engines Page https://www.deere.com/en/engines-and-drivetrain/marine-diesel-engines (last 
+visited Dec. 14, 2020); Kohler Engines page https://kohlerpower.com/en/engines (last visited Dec. 14, 2020) 
+(advertising both marine and land-vehicle engines). 
+8 37 C.F.R. § 201.40(b)(9) (“Computer programs that are contained in and control the functioning of a lawfully 
+acquired motorized land vehicle . . .”) (emphasis added). 
+9 The Android Operating System powers both tablets and smartphones. Android Phones and Tablets Page, 
+https://www.android.com/phones-tablets/ [https://perma.cc/TZ39-6Q2Z ] (last visited Dec. 14, 2020). IpadOS that 
+powers Apple tablets is built on the same foundation as iOS that powers iPhones. Apple iPadOS Home Page, 
+https://www.apple.com/ipados/ipados-14/ [ https://perma.cc/G5G3-NPUY] (last visited Dec. 14, 2020).  
+10 See https://www.lifewire.com/features-ipad-vs-iphone-ipod-touch-1999857. 
+11 See e.g., Repair Zoom Home Page, https://www.repairzoom.com (last visited Dec. 14, 2020) (advertising repair 
+for both iPad, iPhone and Samsung Galaxy repair); iPad Rehab YouTube Channel, 
+https://www.youtube.com/channel/UCPjp41qeXe1o_lp1US9TpWA (last visited Dec. 14, 2020) (featuring both iPad 
+and iPhone repair). 
+12 37 C.F.R. § 201.40(b)(10) (exempting smartphones and home appliances specifically). 
+13 See Michigan Medicine, Continuous Positive Airway Pressure (CPAP) Therapy for Obstructive Sleep Apnea, 
+https://www.uofmhealth.org/health-
+library/hw48752#:~:text=You%20use%20CPAP%20at%20home,of%20mask%20is%20most%20common. 
+14 Whether “home appliances” refers to appliances in the home or appliances meant to be used in the home is not 
+specified in the regulation. 37 C.F.R. § 201.40(b)(10). 
+[PAGE 4]
+4 
+Likewise, a home refrigerator certainly may be repaired under the current exemption, yet 
+repairing that same refrigerator in a commercial setting is potentially unlawful.15  
+Basing the repair exemption on a narrow subset of software-enabled devices does more than 
+cause the idiosyncrasies described above—it adversely impacts owners who need to repair and 
+maintain their devices. Even where the Copyright Office determines that the owner of one device 
+was deserving of an exemption, the owner of an analogous device with the same firmware and 
+hardware must wait three years and request a “new” exemption before lawfully making their own 
+repair. And, the complexity of this exemption process may require hundreds of hours of attorney 
+time and take almost a year to reach resolution, making it infeasible for ordinary consumers and 
+repair technicians.16 This was the situation that tablet owners and boat owners are in after 
+2018. This result is hardly consistent with the call of the statute for the Office to determine 
+“whether persons who are users of a copyrighted work are, or are likely to be in the succeeding 
+3-year period, adversely affected by the prohibition under [17 U.S.C. § 1201(a)] in their ability 
+to make noninfringing uses under this title of a particular class of copyrighted works” because, in 
+large part, the office has already determined that they are. The statute does not demand that a 
+user of a software-enabled toothbrush or lightbulb must request an exemption to fix that one 
+device—it merely requires that the user be adversely affected. In preventing lawful repair of all 
+software-enabled devices, Section 1201’s anticircumvention prohibitions adversely impact all 
+owners of those devices, regardless of which specific software enabled device they own. These 
+comments, and others like it, meet that burden for all users of all software-enabled devices 
+encumbered by TPMs. 
+The Copyright Office has some flexibility to determine the scope of a “class” of works, as it has 
+done in every Triennial. based on the evidence presented.17 “[D]eciding the scope or boundaries 
+of a particular class of copyrighted works... is an important issue to be determined based upon 
+the law and facts developed in the proceeding.”18 As we demonstrate below, the proper scope for 
+an exemption in this case is the Proposed Expanded Exemption for repair of all software enabled 
+devices. In particular, we show that all software-enabled devices share all significant features 
+with respect to repair, that the TPM schemes protecting devices from repair are largely the same, 
+that the repair of devices is a noninfringing activity, that the software in devices is likely also to 
+be owned, that the repair of devices generally is impaired by the prohibition on exemption, and 
+that other factors properly considered by the office support this exemption. In other words, in all 
+ways relevant to this proceeding, the computer programs in software-enabled devices should be 
+treated as a single class of works when access is for the purpose of repair. 
+ITEM D.  TECHNOLOGICAL PROTECTION MEASURE(S) AND METHOD(S) OF CIRCUMVENTION   
+The Office has previously recognized and continues to recognize that TPMs effectively control 
+access to the computer programs in software-enabled devices within the meaning of the statute. 
+ 
+15 Id. 
+16 See Andrew F. Sellers, Comment of the Cyberlaw Clinic at Harvard Law School 1 (2016) 
+https://www.regulations.gov/document?D=COLC-2015-0012-0052 (“[I]n the most recent rulemaking, the attorneys, 
+students, and interns at the Cyberlaw Clinic logged approximately 575 hours of work to obtain the 
+exemption . . . .”). 
+17 See e.g., 2000 Recommendation 65 Fed. Reg. 64,559 (Oct. 27, 2000); 2003 Recommendation 11, 2006 
+Recommendation 9. 
+18 2018 Recommendation 14 (emphasis added) (citation omitted).  
+[PAGE 5]
+5 
+Indeed, the Office intends to renew already granted exemptions for the repair of software-
+enabled devices in categories including motorized land vehicles, smartphones, home appliances, 
+and home systems.19 The same TPMs are at issue here, bypassed in the same way, to perform the 
+same noninfringing use: repair.  
+The Office has Previously Addressed the Types of TPMs Preventing Repair of Software-Enabled 
+Devices  
+Earlier petitions for the motorized land vehicles and smartphones, homes appliances, and home 
+systems repair exemptions detailed the types of TPMs that are also implemented across a wide 
+variety of software-enabled devices, and we revisit them below: 
+Passwords Required to Perform Maintenance and Repair 
+Many devices require service passwords before a user can access the device settings that could 
+return a device to normal operation or display diagnostic information to tell owners or repair 
+technicians what’s wrong with the device. 
+Wheelchairs powered by Dynamic DX control systems require passwords and hardware security 
+dongles to access critical configuration parameters. The user manual states, “WARNING! A 
+Quantum Rehab Provider or a qualified technician must perform the initial setup of this power 
+chair and must perform all of the procedures in this manual.”20 A user may need to change the 
+speed damping setting to offset a failing wheel or motor, or to accommodate an aftermarket part. 
+Or they might use a different tire for navigating inclement weather and need to adjust the wheel 
+grip software parameters. Unfortunately, users cannot make these changes without bypassing the 
+security dongle. “The Wizard requires a hardware security key (dongle) to write parameters to a 
+controller. Without dongle the Wizard can still display parameter values and diagnostic 
+messages, but nothing can be edited or written to a controller.” 
+ 
+19 Exemptions to Permit Circumvention of Access Controls on Copyrighted Works: Notice of Proposed Rulemaking, 
+85 Fed. Reg. 65,295, 65,299-300 (Oct. 15, 2020). 
+20 DX Modular Power Chair Control System: DX System Manual 114 
+https://www.dynamiccontrols.com/sites/default/files/2018-05/dx-system-manual-issue1.pdf [https://perma.cc/74U3-
+KQ9V]. This system is installed on powered wheelchairs. See Dynamic DX/DX2 Product Page, 
+https://www.dynamiccontrols.com/our-products/dx2 [https://perma.cc/945P-JQFR]. 
+[PAGE 6]
+6 
+  
+Excerpt from a Dynamic DX wheelchair manual showing the entering of a “technician 
+password.”21 
+In 2018, commenters and the Copyright Office acknowledged that passwords that prevent access 
+to diagnostics in motorized land vehicles constitute a TPM .22 Then, as now, “passwords on 
+diagnostic interfaces” prevented the owners from undertaking repairs.23  
+This same type of TPM is generally used on a wide variety of software-enabled devices. 
+Manufacturer-set passwords preventing access to device software for repair purposes have been 
+reported on hospital ventilators,24 wheelchairs,25 medical imaging devices,26 microscopes27 and 
+enterprise phone systems, to name only a few.28 The circumvention methods for these password 
+ 
+21 Id. 
+22 See, e.g.., 2018 Recommendation 187. 
+23 See id. 
+24 See Ebme Forums, Maquet Servo I Change Password (Sept. 15, 2015). 
+https://www.ebme.co.uk/forums/ubbthreads.php/topics/69767/Maquet_Servo_I_change_Password (reporting that 
+contact with the manufacturer is needed to change the password); see also, Maquet, Servo-I Ventilator System 
+Service Manual 5, https://www.ifixit.com/Document/jpuqR1CDDumFeves/Maquet-Servo-i-Service-Manual.pdf 
+(“Only personnel trained and authorized by Maquet shall be permitted to perform installation, service or 
+maintenance of the Servo-i.”). 
+25 See supra note 21. Wheelchairs may be exempted as motorized land-vehicles, but this is unclear. See 37 C.F.R. 
+§ 201.40(b)(9). 
+26 Entire websites exist to enable the sale of service passwords for CT Scanners, MRI Scanners, and others. See e.g., 
+Service Password for CT Scanner Home Page, http://www.service-password.com.  
+27 iFixit has received at least one email from a device user reporting that the diagnosis of microscopes is only 
+possible with a password.  
+28 The TPM in these systems have been subject to extensive litigation involving phone system manufacturer Avaya. 
+Avaya Inc., RP v. Telecom Labs, Inc., 838 F.3d 354, 367 (3d Cir. 2016) (“Users of the maintenance features — 
+whether Avaya technicians, non-Avaya technicians, or customers themselves — access the pertinent software using 
+login credentials.”); id. at 365. 
+
+[PAGE 7]
+7 
+systems are also essentially the same: brute-force-guessing,29 buying passwords,30 or exploiting 
+software vulnerabilities, as in the vehicle context.31  
+Requiring Replacement Parts be Specific to the Device or Manufacturer 
+Hard coding of interlinked parts is an increasingly common form of TPM used in software-
+enabled devices. This means that, in many newer devices, the software is written so that parts are 
+no longer replaceable without accessing the underlying software. This was also documented in 
+the motorized land vehicle context.32 The same form of TPM is used in smartphones – for 
+example to link an iPhone’s home button to its logic board, impeding replacement. The 
+Copyright Office recommended an exemption for smartphone unlocking where this is the case.33  
+But, there are additional ways manufacturers use TPMs to control which replacement parts may 
+be used. Hospital ventilators,34 vacuum cleaners,35 litterboxes,36 cameras,37 laptops,38 and garage 
+door openers39 may all contain TPMs that prevent replacement with parts from third party 
+vendors. In the case of the Puritan Bennett 840 ventilator, this TPM can be bypassed with a small 
+computer dongle that restores interoperability with the aftermarket monitor. “It’s a little box that 
+ 
+29 See Kit Walsh, Corynne McSherry, Mitchell Stolz, Comment of Electronic Frontier Foundation 4 (2014) 
+(“Solving the challenge-response mechanism by brute force analysis is mathematically possible (requiring a little 
+over a week for a 16-bit key)”) (citation omitted) https://cdn.loc.gov/copyright/1201/2015/comments-
+020615/InitialComments_longform_EFF_Class21.pdf. Passwords and the like were described during the 2015 
+Triennial as “challenge-response mechanisms.” Id.at 3.  
+30 See Service Password for CT Scanner supra n. 25 
+31 See Walsh, supra n. 29 at 5 (“By connecting a voltmeter to data pins on the physical hardware, it is sometimes 
+possible to extract information from memory”). 
+32 See e.g, Vice Youtube Channel, Farmers Are Hacking Their Tractors Because of a Repair Ban,, 
+https://youtu.be/EPYy_g8NzmI?t=232 (displaying a receiver part from a tractor that cannot be replaced with a 
+seemingly identical one). 
+33 See 2018 Recommendation 210 (“For example, Mr. Wiens testified that it is necessary to circumvent a TPM to 
+replace an iPhone home button.”).  
+34 See Jason Koebler, Why Repair Techs Are Hacking Ventilators with DIY Dongles from Poland, MotherBoard 
+(July 9, 2020), https://www.vice.com/en/article/3azv9b/why-repair-techs-are-hacking-ventilators-with-diy-dongles-
+from-poland (“like so many other electronics, medical equipment, including ventilators, increasingly has software 
+that prevents ‘unauthorized’ people from repairing or refurbishing broken devices, and [the manufacturer] will not 
+help him fix them.”); see also, e.g., Servo-i Ventilator System Service Manual, Maquet supra n. 24 at 5, 
+https://www.ifixit.com/Document/jpuqR1CDDumFeves/Maquet-Servo-i-Service-Manual.pdf (“Only Maquet 
+genuine spare parts must be used”). 
+35 Batteries for Roomba robot vacuums have been reported as not interchangeable. See Robot Reviews, iRobot 
+Roomba and Scooba Chat (Sept. 3 2020) http://www.robotreviews.com/chat/viewtopic.php?f=1&t=22674 
+(“Unfortunately, iRobot's battery DRM prevents the robot from fully booting and charging. It simply states ‘Please 
+insert an iRobot battery.’”). 
+36See Brian Benchoff, Cracking Litter Box DRM, (Jan. 19, 2015), https://hackaday.com/2015/01/19/cracking-litter-
+box-drm/. 
+37 See David Coleman, Updated Third-Party Batteries for the GoPro HERO5 Black, (Last Updated Nov. 6 2020) 
+https://havecamerawilltravel.com/gopro/wasabi-power-batteries-gopro-hero5-black. 
+38 Although not yet activated, software locks have been reported on Macbooks. See Adam O’Camb, Apple’s Secret 
+Repair Kill Switch Hasn’t Been Activated—Yet, (Oct. 5, 2018), https://www.ifixit.com/News/11673/t2-mac-repairs-
+test.  
+39 See Nate Anderson, What Is DRM Doing in my Garage? (Dec. 16 2009), https://arstechnica.com/tech-
+policy/2009/12/what-is-drm-doing-in-my-garage. Garage doors are possibly "home appliances” or “home systems” 
+exempt under 37 C.F.R. § 201.40(b)(10). 
+[PAGE 8]
+8 
+goes in between the monitor and the breath delivery unit,” William, a ventilator refurbisher told 
+Vice. William used this circumvention to restore 70 ventilators during the pandemic. 
+ 
+A “Dongle” Used by a Hospital in Repairing a Ventilator40 
+Separate Calibration Software that Must Be Connected to Receive Diagnostic Information 
+Common in tractors and other land vehicles,41 this form of TPM is also present in devices that 
+are not covered by the current land vehicle exemption. Notably, this form of TPM was used in 
+boats during the 2018 triennial review cycle42 yet the narrowly drafted exemption excludes non-
+land vehicles. But boat and tractor owners are similarly adversely impacted by Section 1201’s 
+prohibition on circumvention– dealers of both vehicles are often located far from where the 
+vehicles are used and the manufacturers will not sell their diagnostic software to the owners 
+themselves.43 There is no difference between boats and land vehicles when it comes to copyright 
+interests and the non-infringing purpose of repair.  
+ 
+40See Walsh supra n. 29 at 5. 
+41 See e.g., Jason Koebler, Why American Farmers Are Hacking Their Tractors With Ukrainian Firmware 
+https://www.vice.com/en/article/xykkkd/why-american-farmers-are-hacking-their-tractors-with-ukrainian-firmware 
+(“John Deere Service Advisor: A diagnostic program used by John Deere technicians that recalibrate tractors and 
+can diagnose broken parts. "‘It can program payloads into different controllers. It can calibrate injectors, turbo, 
+engine hours and all kinds of fun stuff,",’ someone familiar with the software told me.”) 
+42 See RiverdalePlace Forum, What is the Software a Mercruiser Tech would Use to Diagnose Problems/Change 
+Parameters (Apr. 7, 2018), https://www.riverdavesplace.com/forums/threads/what-is-the-software-a-mercruiser-
+tech-would-use-to-diagnose-problems-change-parameters.182089/ (users describing how dealer software may be 
+required for some settings); see also Mercury, CDS G3 Users Manual: Version 1.7 Software (2016), 
+https://service.mercurymarine.com/media/1010/cdsg3usermanual17.pdf; Mercury CDS G3 Home Page, 
+https://service.mercurymarine.com/g3/home/ (“CDS G3 is delivered via a download. A license key is required to 
+unlock the software and only contracted Mercury Marine dealers are authorized to use the software.”);  
+43 See RiverdalePlace Forum supra n. 42 (“Since it's a long way from where I keep the boat to a dealer, I'd like to get 
+the diagnostic tools for my own use.”) 
+
+[PAGE 9]
+9 
+ 
+Factory-Authorized Servicer Showcasing Mercury Diagnostic Software 
+Used for Boat Engines44 
+That tractor repair is permitted but boat repair is not is a distinction without a difference. This is 
+especially clear when the same diagnostic software is used in both marine and land vehicle 
+engines, which is very likely the case for the owner of a marine engine manufactured by John 
+Deere, Caterpillar, or Kohler Power. All three manufacturers make engines (and diagnostic 
+software) for both land and water-borne vehicles.45  
+Customers and technicians are not able to perform diagnostics or reset fault codes without this 
+software. The customer version of ServiceADVISOR is costly and restrictive. “I work at a Deere 
+dealership… If you get the program you can troubleshoot codes and link with your equipment. 
+That is about all you can do. You unfortunately cannot do any programming or say if you replace 
+a sensor that went bad, you cannot adjust anything in any way on your machine.”46 Frequently, 
+the electronic engine installed in ships does not have a diagnostic gauge or display mounted in 
+the control panel. This real-time engine diagnostic information is essential for engine operators. 
+ 
+44 Inlet Marine, Mercury/Mercruiser Computer Diagnostic System Demo, YouTube (Jan. 21, 2014), 
+https://www.youtube.com/watch?v=IZNwERh-AV8. 
+45 See supra note 7. 
+46 J.D. Service Advisor, The Combine Forum (Feb. 26, 2016) https://www.thecombineforum.com/threads/jd-service-
+advisor.253730/ [https://perma.cc/SQ78-LS5X] (“I work at a Deere dealership and we were talking about this today. 
+If you get the program you can troubleshoot codes and link with your equipment. That is about all you can do. You 
+unfortunately cannot do any programming or say if you replace a sensor that went bad, you cannot adjust anything 
+in any way on your machine. Even though your machine belongs to you, the computer technology belongs to Deere. 
+In my opinion, it is a waste of your money”). 
+
+[PAGE 10]
+10 
+Kohler Power describes these restrictions in their marine generator owner’s manual: “Have setup 
+and adjustments of the Decision-Makerr 3500 controller performed only by an authorized Kohler 
+distributor/dealer. The setup and adjustments are password protected.”47 
+This form of TPM is by no means limited to vehicles. External settings software is used to 
+correct problems with hearing aids, 48and specialized computers with embedded software 
+(dongles) are often used to control the settings on power wheelchairs.49   
+Manufacturers are Constantly Adding TPMs to an Ever-Growing List of Devices 
+Software is increasingly embedded in every imaginable type of product, and manufacturers are 
+increasingly deploying TPMs to prevent access to that software. This often has the undesirable 
+effect—intended or unintended—of hindering diagnosis, maintenance, and repair, traditional 
+uses of those products. As this Office has explained, “[a]s copyrighted software is embedded into 
+a greater diversity of products, careful thought must be given to how copyright affects 
+consumers’ ability to engage in traditional uses of those products.”50 Thus, this Office must 
+carefully consider how the use of TPMs in the broadly defined category of software-enabled 
+devices is affecting whether consumers can fix all of their new software-enabled devices, just as 
+they could fix all of their old ones. Absent a broadly crafted exemption for repair of software-
+enabled devices, consumers and repair technicians alike will face legal uncertainty and the risk 
+of harsh penalties, even where no copyright violation would otherwise exist and there is no other 
+legal impediment to repair. 
+Even where the lawful repair of devices is undisputedly noninfringing, a lack of a clear and 
+explicit exemption still creates liability risk. TPMs are particularly harmful when they prevent 
+repair of large, expensive devices designed for long-term use. This is partially reflected in prior 
+exemptions focused on large and expensive items such as cars, refrigerators, and home heating 
+and cooling systems. But software-enabled devices outside these categories may be of similar 
+high cost, and there is no principled distinction between a $5,000 laptop and a $5,000 HVAC 
+system in terms repair. By implementing TPMs into these high-cost devices, manufacturers 
+effectively rob consumers of the full benefits of ownership over these devices by dictating how 
+they can be repaired, modified, and used. This pernicious business model not only disempowers 
+the very people the devices were designed to serve, it fuels a culture of planned obsolescence by 
+encouraging manufacturers to waste natural resources by designing products with short expected 
+life spans. 
+ 
+47 OPERATION MANUAL, MARINE GENERATOR SETS MODELS 14/16/21/24/32/40EKOZD, 
+12/13.5/17/18/20.5/28/35EFKOZD 1, 19, http://www.kohlerpower.com/onlinecatalog/pdf/tp7044.pdf 
+[https://perma.cc/FER7-UWBD] (last accessed Dec. 12, 2020) [hereinafter Kohler Operation Manual].  
+48 See Oticon Remote Care Quick Guide 1, https://wdh02.azureedge.net/-/media/oticon-us/main/download-
+center/remotecare/15555-10525---remotecare---quick-
+guide.pdf?la=en&rev=6261&hash=F46181B3EA665CC350997299EA432606 [https://perma.cc/X8CV-8W44] (last 
+accessed Dec. 14, 2020) (stating that the manufacturer’s remote care program enables medical professionals to use 
+external manufacturer software to “make real-time adjustments to your patient’s hearing instruments remotely,” 
+suggesting that patients, as owners of these devices, cannot make these adjustments themselves). 
+49 See supra note 21 and accompanying text.  
+50 U.S. Copyright Office, Software Enabled Consumer Products, 8 (Dec. 2016) [hereinafter 2016 Software Study], 
+https://www.copyright.gov/policy/software/software-full-report.pdf. 
+[PAGE 11]
+11 
+Alternatives to Circumvention Are Inadequate 
+Like the TPMs listed above, the Copyright Office has seen the alternatives to circumvention 
+before, and for the granted device repair exemptions, found them insufficient. Farmers live and 
+work too far from dealerships to take large vehicles in for repair.51 Device manufacturers, who 
+were under no obligation to continue updating software or repairing devices after a warranty 
+expired, have simply stopped updating software or repairing devices.52 Or, the device 
+manufacturers may simply go out of business. In some cases replacements may be bought or 
+installed, but at exorbitant costs of money and time.  
+The same considerations apply to all software-enabled devices. People in rural areas own not just 
+farm equipment and cars, but hearing aids, boats, vacuums and a wide assortment of other 
+devices, all of which will stop working at some point. Large hospitals in rural areas with 
+software-enabled medical devices need access to speedy repairs when a manufacturer is not 
+nearby. Time is always of the essence when your business is saving lives. 
+ITEM E.  ASSERTED ADVERSE EFFECTS ON NONINFRINGING USES    
+As noted above, the Copyright office has already recognized that the repair of software-enabled 
+devices is a non-infringing use that can qualify for an exemption, and has indicated that it intends 
+to recommend renewal of similar exemptions for “computer programs that control smartphones, 
+home appliances, or home systems” and “computer programs that control motorized land 
+vehicles, including farm equipment.”53 Rather than continuing piecemeal by adding arbitrarily 
+narrowly defined exemptions, the Copyright Office should recognize that “computer programs 
+that control the functioning of a lawfully acquired device for the purposes of repair of that 
+device” is the proper scope for the exemption.  
+The Repair of Software-Enabled Devices is a Non-Infringing Use  
+The Copyright Office has already recognized that repair of software-enabled devices is likely to 
+be a non-infringing use, and there is no reason to reevaluate the law as it relates to each specific 
+software-enabled device. The Office has addressed this question both specifically,54 and more 
+generally in its 2016 report on software-enabled consumer devices.55 There, the Office found that 
+“current copyright law, properly interpreted, may provide relief for many repair and tinkering 
+activities. Traditional copyright doctrines such as the idea/expression dichotomy, merger, scènes 
+à faire, and fair use provide a combined and reasonable defense for many tinkering and repair 
+ 
+51 See Dan D. Nabel, Comment of the USC Intellectual Property & Technology Law Clinic 12 (2015), 
+https://cdn.loc.gov/copyright/1201/2015/comments-020615/InitialComments_longform_USC_Class21.pdf 
+52 Google updated their calendar API, and Samsung failed to update older smart refrigerators, essentially breaking 
+this feature. Hundreds of users complain about this in the Google forums. See Google Forums Can't sign in to 
+Google calendar on my Samsung refrigerator (Nov. 11, 2014), 
+https://support.google.com/calendar/forum/AAAAd3GaXpEUhfpcwO0X0c/?hl=en&gpf=%23!topic%2Fcalendar%
+2FUhfpcwO0X0c. 
+53 See supra note 1 and accompanying text.  
+54 See e.g., 2018 Recommendation 209 (“The Acting Register concludes that the uses, on balance, are likely to be 
+noninfringing.”). 
+55 2016 Software Study 33. 
+[PAGE 12]
+12 
+activities.”56 Moreover, “if repair activities are authorized as a matter of fair use, or under section 
+117, it seems likely that users can engage in them without fear of copyright infringement.57 
+The key point is that, from a noninfringement perspective, newly presented devices are no 
+different than those covered by existing exemptions; the only change is the increasing prevalence 
+of TPM-encumbered devices. If the Copyright Office is not to be bogged down assessing every 
+individual software-enabled toothbrush, industrial device, or cat litter box, ad infinitum, it must 
+craft an exemption that is broad enough to cover the need for repair of all these rapidly emerging 
+devices. Hence, the device categories should be eliminated, and a single exemption should cover 
+all repairs. 
+The Repair of Software-Enabled Devices is a Noninfringing Fair Use 
+As the Copyright Office previously noted, repair activities are likely fair uses and therefore non-
+infringing.58 It has further explained that “the fundamental purpose of any repair is to preserve or 
+restore the functionality of a software-enabled device so that it may continue to be used,” it 
+follows that repair constitutes a noninfringing, fair use of a copyrighted work under § 107.59 It is 
+hard to imagine a situation where this is not true, yet repair has not yet been universally 
+exempted. 
+Indeed, fair use has often covered uses that touch on copyrighted works but that don’t directly 
+implicate copyright interests, like search engines. Changing a battery in a vacuum should be no 
+different. Precluding consumers, and their repairpersons of choice, from fixing an ever-
+expanding category of smart devices in fact may negatively impact the value of these works 
+when, as this Copyright Office noted, “repair supports—rather than displaces—the purpose of 
+the embedded programs that control the device.”60 
+The Repair of Software-Enabled Devices is Noninfringing Under Section 117  
+Even if no fair use defense applied, under 17 U.S.C. § 117, an owner of a copy of software may 
+make or authorize the making of a copy or adaptation of that computer program if that new copy 
+or adaptation is created as an essential step in the utilization of the computer program in 
+conjunction with a machine.61 
+  
+As for the essential step requirement, the Copyright Office has repeatedly found that “if the 
+embedded software copy is owned, section 117(a) provides broad protections for a range of 
+activities.”62 The Acting Register in 2018 specifically concluded that uses directed at copying or 
+ 
+56 Id.  
+57 Id. 
+58 United States U.S. Copyright Office, Section 1201 of Title 17: A Report of the U.S. Register of Copyrights 90 
+(June 2017) [hereinafter 2017 Copyright Office Report]. https://www.copyright.gov/policy/1201/section-1201-full-
+report.pdf [https://perma.cc/G9JA-BMZ5]. 
+59 Id.  
+60 Software- Enabled Consumer Products, supra note 55 at 40. 
+61 17 U.S.C. § 117. 
+62 See 2018 Recommendation 210 (citing U.S. Copyright Office, Software Enabled Consumer Products (2016)); 
+2018 Recommendation 210 n. 1308 (“[S]ection 117(a) has been interpreted to permit a broad range of activities, 
+including fixing bugs, transferring programs to a new operating system, and adding new features to make the 
+software more useful to its owner”) (citation omitted). 
+[PAGE 13]
+13 
+adapting the computer program to enable the continued operation of a machine, including 
+functional repair and improvements, “likely qualify as noninfringing under section 117(a)(1).”63 
+As for whether a device is owned, the Copyright Office has noted that ownership can be 
+complex.64 Still, the Office has also observed that Vernor v. Autodesk, Inc65 and Krause v. 
+Titleserv, Inc.66 may provide some useful guidance.67 The legal tests of both cases look to factors 
+of ownership beyond the presence of a license agreement. The test under Krause explicitly 
+considers whether the software is contained on a device owned by the purchaser or whether the 
+purchaser had the right to possess and use the program forever, or whether the purchaser was 
+free to discard or destroy the copy at any time.68 Vernor requires that a licensor impose “notable 
+use restrictions” and “significantly restrict the user’s ability to transfer the software.”69  
+There is a general lack of evidence that manufacturers intend to restrict the resale of software-
+enabled devices in any significant way. Rather, lawsuits around the licensing of software focus 
+on the dissemination of software outside of a device,70 or simply on restricting repair, locking a 
+consumer into the manufacturer’s services and products.71 This is despite the fact that “virtually 
+all agree that section 1201 was not intended to facilitate manufacturers’ use of TPMs to facilitate 
+product tying or to achieve a lock‐in effect under which consumers are effectively limited to 
+repair services offered by the manufacturer.” 72  
+Further, 17 U.S.C. § 117(c) explicitly states that maintenance or repair will be noninfringing 
+when it does not require that any copies of the software be made other than those that normally 
+occur when turning on the device.73 This is the case for many software-enabled devices where 
+circumvention is needed for repair. For example, the entering of a password usually will not 
+create additional copies of any underlying software beyond what is required to turn the device 
+on. Similarly, no copy of a copyrighted work is made and no derivatives are created when 
+reading device values or changing settings in software.  
+The Repair of Software-Enabled Devices is a Noninfringing Use of Unprotectable Elements 
+In the words of this Office, “[e]ven if a user borrows portions of code from an embedded 
+program to effectuate a repair, for use in a replacement part, or to tinker with the product’s 
+ 
+63 2018 Acting Register’s Recommendation 211 
+64 2018 Acting Register’s Recommendation 209.  
+65 Vernor v. Autodesk, Inc., 621 F.3d 1102 (9th Cir. 2010). 
+66 Krause v. Titleserv, Inc., 402 F.3d 119 (2d Cir. 2005). 
+67 2016 Software Study 22. 
+68 See Kraus 402 F.3d at 124. 
+69 Vernor 621 F.3d at 1111 (“We hold today that a software user is a licensee rather than an owner of a copy where 
+the copyright owner (1) specifies that the user is granted a license; (2) significantly restricts the user's ability to 
+transfer the software; and (3) imposes notable use restrictions.”) 
+70 See e.g., Vernor, 621 F.3d at 1105-06 (describing how the dispute stems from a copy of software sold on eBay). 
+71 See e.g., Avaya Inc., RP v. Telecom Labs, Inc., supra note 29. 
+72 2017 Copyright Office Report 92.   
+73 17 U.S.C. § 117(c) (“Notwithstanding the provisions of section 106, it is not an infringement for the owner or 
+lessee of a machine to make or authorize the making of a copy of a computer program if such copy is made solely by 
+virtue of the activation of a machine that lawfully contains an authorized copy of the computer program, for 
+purposes only of maintenance or repair of that machine…”). 
+[PAGE 14]
+14 
+existing capabilities, there are circumstances where those portions would not be eligible for 
+copyright protection.”74 
+Facts are not copyrightable. Consequently, the factual diagnostic information gained by 
+bypassing a requirement for specific repair software is not copyrightable. Likewise, locking 
+codes and service passwords are not copyrightable. Accessing or copying them therefore does 
+not constitute copyright infringement. Moreover, one is “free to use any of the ideas, methods, or 
+other insights that make a program work—so long as they do not copy the specific lines of code 
+from the existing program.”75 
+Device repair often involves making parts compatible through the adjustment of device settings. 
+These repairs implicate the scènes à faire and merger doctrines, whereby when the expressive 
+elements of the embedded program may be influenced by external factors, such as the 
+mechanical specifications for the device or part, or relevant industry standards, the scope of the 
+copyright is limited.76 Moreover, the function of software is not copyrightable due to the 
+idea/expression dichotomy. Together, these doctrines mean that when software is accessed for 
+repair, the scope of the copyright is more limited and copying the unprotected and thinly 
+protected elements is not infringement. 
+The Lack of an Exemption Adversely Affects the Lawful Use of Personal Property  
+The Copyright Office has already acknowledged the adverse effects of 17 U.S.C. § 1201 on 
+lawful repair activities. It has therefore recommended exemptions permitting the repair of 
+tractors, cars, and smartphones. Farmers, for example, were prevented from repairing lawfully 
+acquired tractors, and the traditional repair of cars was impeded by the combination of new 
+software controllers and the DMCA’s restrictions. Those harms apply equally to all software-
+enabled devices, whether they are covered by the existing exemptions or excluded, either by 
+accident or design.  
+There are a wide variety of products—from smartphones to ventilators—where manufacturers 
+have made it increasingly difficult to repair devices by using TPMs.77 These restrictions, which 
+restrict consumers’ access to information about the devices they lawfully own, can carry severe 
+consequences across industries. 
+In 2019, the average household contained eleven software-enabled devices,78 and likely used 
+many of them on a daily basis.79 In 2020, one in ten households80 is a smart home, utilizing 
+ 
+74 2016 Software Study 34. 
+75 2016 Software Study 14. 
+76 2016 Software Study 34. 
+77 See Kevin Purdy, Is This the End of the Repairable iPhone?, iFixIt (Oct. 29, 2020) 
+https://www.ifixit.com/News/45921/is-this-the-end-of-the-repairable-iphone [https://perma.cc/G27V-CCT]. 
+78 Todd Spangler, US Households Have an Average of 11 Connected Devices — And 5G Should Push That Even 
+Higher, Variety (Dec. 10, 2019) https://variety.com/2019/digital/news/u-s-households-have-an-average-of-11-
+connected-devices-and-5g-should-push-that-even-higher-1203431225/ [perma.cc/7E54-2RTG] (“Today, U.S. 
+households own an average of 11 connected devices, including seven with screens to view content.”). 
+79 Lacey Williams-McGhee, Top 10 IoT Common Uses for Everyday People, Seven Tablets, https://7t.co/blog/iot-
+common-uses/ [https://7t.co/blog/iot-common-uses/] (last accessed Dec. 13, 2020). 
+80 Statista, Smart Home Report, Statista 1 (2020) https://www.statista.com/outlook/279/100/smart-home/worldwide 
+[https://perma.cc/TFF2-BKB2] (“Household penetration [for digitally connected and controlled devices within a 
+house that can be remote controlled] will be 10.6% in 2020 and is expected to hit 21.4% by 2025”).   
+[PAGE 15]
+15 
+internet-connected software-enabled home appliances, home systems, and other devices. Every 
+device in someone’s home, from their alarm clock,81 their automatic coffee maker,82 their 
+refrigerator, 83 their washing machine,84 the lightbulbs in their house,85 their car,86 their garage 
+door opener,87 their thermostat,88 their cat’s litter box,89 and even their toothbrush,90 may be a 
+software-enabled device, which in turn may be encumbered by a TPM. 
+Repairs are inevitable when devices are used on a regular basis. And yet, under the current 
+exemptions, owners may only lawfully repair a few of these products themselves. The rest 
+remain in purgatory until a team of lawyers can dedicate the hundreds of hours needed91 to 
+petition the Copyright Office for an exemption for those specific devices. Meanwhile, shipments 
+of smart home devices are increasing annually at a rate of up to 31%.92 The worldwide number 
+of internet-of-things devices—all of which are by definition software-enabled—is projected to 
+increase to 43 billion by 2023, an almost threefold increase from 2018.93 At this rate of growth, 
+the number of exemption petitions facing the Copyright Office in the next triennial hearing could 
+increase exponentially if the Office sticks to its piecemeal approach.  
+As we saw this past year, the delay caused by this Office’s approach isn’t just inconvenient for 
+consumers—it can be crippling. Recent research has shown that three out of every four 
+ 
+81 Tucker Bowe, The Best Smart Alarm Clocks to Keep on Your Nightstand, Gear Patrol (Dec. 7, 2020) 
+https://www.gearpatrol.com/tech/a590685/best-smart-alarm-clocks/ [https://perma.cc/85S8-WNA8].  
+82 Nicole Van Zantan, Wake Up With These Smart Wifi Coffee Makers, Ideaing, (July 24, 2020) 
+https://ideaing.com/ideas/best-smart-coffee-makers/ [https://perma.cc/23DK-YJV9]. 
+83 Elizabeth Heath, Best Smart Refrigerators for 2020, The Family HandymaN (Sep. 16, 2020) 
+https://www.familyhandyman.com/list/best-smart-refrigerators/ [https://perma.cc/3V2F-DXTA].  
+84 Erica Puisis, The 8 Best Smart Washers and Dryers of 2020, The Spruce (Nov. 11, 2020) 
+https://www.thespruce.com/best-smart-washers-and-dryers-4158885 [https://perma.cc/DLL2-RE59].  
+85 Alex Colon & Angela Moscaritolo, The Best Smart Light Bulbs for 2021, PC Mag (Dec. 9, 2020) 
+https://www.pcmag.com/picks/the-best-smart-light-
+bulbs?test_uuid=001OQhoHLBxsrrrMgWU3gQF&test_variant=a [https://perma.cc/2KC7-8KTY].  
+86 Stephan Gossett, IOT in Vehicles: A Brief Overview, Builtin (Dec. 13, 2019) https://builtin.com/internet-
+things/iot-in-vehicles [https://perma.cc/9ZW4-WBGQ].   
+87 See Nate Anderson, What is DRM doing in my garage?, Ars Technica (Dec. 16. 2009 9:30 PM) 
+https://arstechnica.com/tech-policy/2009/12/what-is-drm-doing-in-my-garage/ [https://perma.cc/3C8G-6NEX]. 
+88 John R.Delaney, The Best Smart Thermostats for 2020, PC Mag (Nov. 12, 2020) 
+https://www.pcmag.com/picks/the-best-smart-
+thermostats?test_uuid=001OQhoHLBxsrrrMgWU3gQF&test_variant=a [https://perma.cc/898K-Z8QW].  
+89 Brian Benchoff, Cracking Litter Box DRM, HACKADAY (Jan. 19, 2015) 
+https://hackaday.com/2015/01/19/cracking-litter-box-drm/ [https://perma.cc/86ZB-Z3X9].  
+90 Amanda Capritto, 3 smart toothbrushes from CES 2020 you’ll want this year, Cnet (Jan. 10, 2020) 
+https://www.cnet.com/health/smart-toothbrushes-from-ces-2020-youll-want-this-year/ [https://perma.cc/8FND-
+VXSR].  
+91 Sellers, supra n. 16 at 1. 
+92 All Categories of Smart Home Devices Forecast to Deliver Double Growth Through 2022 Says IDC, 
+Businesswire, (Oct. 1, 2018) https://www.businesswire.com/news/home/20181001005167/en/All-Categories-of-
+Smart-Home-Devices-Forecast-to-Deliver-Double-Digit-Growth-Through-2022-Says-IDC [https://perma.cc/HCR2-
+2XQ2] (“The worldwide smart home devices market is expected to grow 31% year over year in 2018 to 643.9 
+million shipments, according to the International Data Corporation”).  
+93 Fredrik Dahlqvist et al., Growing opportunities in the Internet of Things, McKinsey (Jul. 22, 2019) 
+https://www.mckinsey.com/industries/private-equity-and-principal-investors/our-insights/growing-opportunities-in-
+the-internet-of-things# [https://perma.cc/6LRJ-E3LZ] (“The number of businesses that use the IoT technologies has 
+increased from 13 percent in 2014 to about 25 percent today. And the worldwide number of IoT-connected devices 
+is projected to increase to 43 billion by 2023, an almost threefold increase from 2018.”).  
+[PAGE 16]
+16 
+American homeowners carried out at least one home improvement project in quarantine this 
+year,94 and many learned that the potential for TPM interference lurks in just about every aspect 
+of a major home improvement project. Consumer tools from cordless power drills95 to battery 
+gauges,96 to even toolboxes,97 can all be software-enabled devices that may contain TPMs which 
+require manufacturers’ approval to repair.98 Obtaining this approval becomes even more of a 
+challenge when everyone is confined at home.  
+But the DIY crowd is far from the only group of users adversely impacted by TPMs and Section 
+120199 this year: millions of novice and professional chefs100 may depend on software-enabled 
+ 
+94 Porch Research, Survey: Home Improvement Trends in the Time of Covid, PORCH (Jul, 21, 2020), 
+https://porch.com/advice/home-improvement-trends-covid [https://perma.cc/4YWB-YLYF] (“Over three in four 
+(76%) homeowners in the United States have carried out at least one home improvement project since the start of the 
+COVID pandemic, according to our survey”).  
+95 Joe Iorillo, Smart Technology Invades Power Tool Market, Freedonia (May 24, 2017) 
+https://www.freedoniagroup.com/Content/Blog/2017/05/24/Smart-Technology-Invades-the-Power-Tool-Market 
+[https://perma.cc/8B83-6C6L].  
+96 Jeff Kerns, 6 Power Tools for DIY Projects, Machine Design (Dec. 13, 2016) 
+https://www.machinedesign.com/community/editorial-comment/article/21832155/6-smart-tools-for-diy-projects  
+(“Black & Decker’s technology and app (Android & iOS) also let users see the charge on multiple batteries . . . 
+SmarTech also added a USB to the battery to make sure that your cellphone, tablet, or laptop are able to charge 
+anywhere”) [https://perma.cc/8G8R-EQTM]. 
+97 Toolbox, CoolBox (product page displaying the toolbox’s smart features, including wireless Bluetooth speakers, 
+AUX input connectivity, and USB ports) https://www.getcoolboxcooler.com/products/toolbox 
+[https://perma.cc/G3LX-Y7LL] (last accessed Dec. 13, 2020).  
+98 See Better Business Bureau, Black and Decker (U.S.): Complaints, Better Business Bureau, Better Business 
+Bureau (Oct. 12, 2020) https://www.bbb.org/us/md/towson/profile/electric-tools/black-decker-us-inc-0011-
+1070/complaints [https://perma.cc/VJ95-Y9VT] (“I have e-mailed Black and Decker for several months to comply 
+to their warranty and repair my drill. . . Black and Decker will not reply to me but is pathetic enough to send me 
+adds to my e-mail instead asking me to buy more products. After two months of emailing back and Decker and them 
+refusing to answer me and repair my tool. I went to their website to get a address of one of their repair locations near 
+me. . . After [. . .] finding them out in the county and the owner mowing the grass, Paul tells me he is no longer in 
+business and has not been in business for about 7 years!”) [https://perma.cc/VJ95-Y9VT].  
+99 See Jacob Silverman, Just How ‘Smart’ Do You Want Your Blender to Be?, New York Times (June 14, 2016) 
+https://www.nytimes.com/2016/06/19/magazine/just-how-smart-do-you-want-your-blender-to-be.html 
+[https://perma.cc/7SZ6-CGRT] (“Using a smart device for anything but the purposes explicitly sanctioned by its 
+manufacturer risks violating a warranty, bricking a device or even breaking the law. (It’s fitting, albeit a touch 
+melodramatic, that unauthorized tinkering with an iPhone is called “jailbreaking.”) The very same elements making 
+these things smart — connectivity, sophisticated software, semiautonomous intelligence — can also make them 
+more frustrating than any devices we’ve ever seen”) 
+100 Amanda Hull, Americans Have Baked All the Flour Away, The Atlantic (May 12, 2020) 
+https://www.theatlantic.com/health/archive/2020/05/why-theres-no-flour-during-coronavirus/611527/.  
+[PAGE 17]
+17 
+appliances like refrigerators,101 ovens,102 automated tea kettles,103 blenders,104 kitchen scales,105 
+pressure cookers, 106 meat thermometers,107 and dishwashers108 to prepare meals. Yet, thanks to a 
+combination of unprecedented postal delays and a sudden lack of access to manufacturer-
+approved retail options, many of these consumers must repair their devices themselves or with 
+the help of a local independent repair technician to keep their kitchens functioning.109 
+These restrictions have led to tragic effects for others as well. With over 300,000 deaths this year 
+from COVID-19,110 some consumers are turning to smart devices to preserve images and videos 
+of their recently deceased loved ones. However, thanks to the combination of TPMs, Section 
+1201,manufacturer restrictions on device repair, they cannot access this information once their 
+ 
+101 Heath, supra note 77.  
+102 Kristina Hacker, 6 Countertop Smart Ovens That Will Change the Way You Cook, Remodelista (Mar. 14, 2019) 
+https://www.remodelista.com/posts/countertop-smart-ovens-kitchen-appliances/ [https://perma.cc/MBS3-R4Z7] 
+(“[T]he market seems to be exploding with cooking gadgets that take the guesswork out of roasting, let you control 
+the temperature from your phone, and even claim to replace all your countertop appliances”).  
+103 Jordan Carter, 8 Best Smart Kettles (Review) in 2020, Gear Hungry (May 21, 2020 10:34AM), 
+https://www.gearhungry.com/best-smart-electric-kettle/ [https://perma.cc/8MXM-T5P6] (“[T]oday’s smart kettles 
+are fully programmable allowing you to pick the time you want the water heated, the exact temperature you want the 
+water heated to and how long you want it to maintain that temperature”).  
+104 Lee Bell, NutriBullet Balance: A Connected Blender That Gives You Real Time Nutrition Data on Your 
+Smartphone, Forbes (Jul. 31, 2018) https://www.forbes.com/sites/leebelltech/2018/07/31/nutribullet-balance-a-
+connected-blender-that-gives-you-real-time-nutrition-data-on-your-smartphone/?sh=45ae44f43dce 
+[https://perma.cc/Q6QW-U67K].  
+105 Drop Scale – Connected Kitchen Scale and Step-by-Step Recipes, Amazon, https://www.amazon.com/Drop-
+Scale-Connected-Step-Step/dp/B00TTY34KG/ref=as_li_ss_tl?ots=1&slotNum=21&imprToken=febb2fe2-e3d5-
+2efb-8da&keywords=Drop+Scale+-+Connected+Kitchen+Scale+and+Step-by-
+Step+Recipe+App&qid=1578434163&s=home-garden&sr=1-1&linkCode=ll1&tag=biip_010720_smart-kitchen-
+appliances-20&linkId=baeb069fe5485bafb8b6610976c7523d&language=en_US [https://perma.cc/8GU5-2W2B] 
+(last accessed Dec. 13, 2020).  
+106 Connie Chen, 11 smart kitchen appliances that pair with helpful apps to make cooking easier, Business Insider 
+(Jan 21, 2020 11:30 AM), https://www.businessinsider.com/smart-kitchen-appliances [https://perma.cc/BQ9F-
+MRVK] (“It's all the versatility and ease of use of a classic Instant Pot multicooker, with the additional benefits of 
+WiFi access and a hands-free voice assistant”).  
+107 Id. (“This smart thermometer has an outdoor wireless range of 200 feet and sends you a notification and alarm 
+when your meat reaches the set temperature”).  
+108 Britta O’Boyle, Best smart dishwashers 2020: The technology making cleaning dishes easier, Pocket Lint (Nov. 
+5, 2020) https://www.pocket-lint.com/smart-home/buyers-guides/146405-best-smart-dishwashers 
+[https://perma.cc/DB2Y-YR38].  
+109 Soo Yoon, Ovens, dishwashers, and washing machines are breaking down like never before. But there’s nobody 
+to fix them, Wash. Post (Oct. 22, 2020 7:36 AM), https://www.washingtonpost.com/road-to-
+recovery/2020/10/22/appliance-repair-services-pandemic/ [https://perma.cc/F7FX-GY3G] (“Amid the general 
+collapse of the service economy during the pandemic — think retail or restaurants — appliance repair technicians 
+are seeing explosive demand for their services as families adjust to living at home 24/7, sometimes with adult 
+children, elderly parents or in-laws expanding households and putting more wear and tear on refrigerators and 
+dishwashers”).  
+110 Coronavirus in the U.S.: Latest Map and Case Count, New York Times (Dec. 14, 2020 12:18 AM2:30 PM) 
+https://www.nytimes.com/interactive/2020/us/coronavirus-us-cases.html [https://perma.cc/K932-CPGR] (reporting 
+the number of deaths in the U.S. due to COVID-19 as 299,328).  
+[PAGE 18]
+18 
+devices, like phones (exempt under current rules) and tablets (not exempt under current rules), 
+are damaged.111  
+While some manufacturers may offer limited repair services, few offer repair services that have 
+the time or specialized skills to recover this data, explains Jessa Jones. Jones is a third-party 
+contractor who specializes in recovering images and videos of deceased loved ones from 
+damaged smart devices like iPads using microsoldering, a technique that fuses metal components 
+together on a microscopic level using extremely high heat.112 In some instances, device 
+manufacturers won’t even step in to repair the devices at the request of law enforcement 
+agencies, leaving repairpersons like Jones as the only options for crucial data recovery.113 Jessa 
+Jones noted before the Boston Legislature that she has seen new software locks implemented 
+with new smartphones, that will effectively prevent repair, such as one that pairs the home button 
+to the mainboard of the phone.114 
+Further, the combination of TPMs, § 1201’s prohibition on circumvention, and the lack of third-
+party repair options hinders device users’ personal autonomy. Consumers who depend upon 
+software-enabled devices like motorized wheelchairs,115 CPAP machines,116 hearing aids,117 
+blood glucose monitors,118 and even breast milk pumps119 could find themselves without a much 
+needed device while they wait for manufacturers’ repair services that may be exorbitantly 
+expensive or significantly delayed, if they are available at all. Blood glucose monitors, for 
+example, which use software to report data on its owners’ bodily systems, do not allow the 
+owners to calibrate the monitor to increase reporting accuracy as the sensors age, without the 
+approval of the manufacturer.120 Likewise, certain hearing aids don’t allow their owners to 
+access the complete suite of device calibration settings without verification through the 
+manufacturer.121 Owners of these devices are clearly adversely impacted by the combination of 
+TPMs and § 1201. 
+ 
+111 Joe Keegan, Why Can’t I Fix My Own Phone, Toaster, or Tractor?, The Markup (Oct. 20, 2020, 8:00 AM) 
+https://themarkup.org/ask-the-markup/2020/10/20/0-electronics-right-to-repair-ventilators-iphone 
+[https://perma.cc/J8FQ-TEGL].  
+112 Id. 
+113 Jessa Jones, AN INCREDIBLY SAD CASE: IPAD 4 FOUND ON BODY OF DECEASED HIKER, YouTube (Dec. 5, 2019) 
+https://www.youtube.com/watch?v=zMuap2fgGuY [https://perma.cc/3E56-PV5H]. 
+114 Jessa Jones, JESSA JONES OF IPAD REHAB SPEAKS AT BOSTON LEGISLATURE, YouTube (Oct. 29, 2019) 
+https://www.youtube.com/watch?v=yqRMrRUQE_o [https://perma.cc/8DR4-NUQV]. 
+115 DX/DX2 Power Wheelchair Control System, Dynamic, https://www.dynamiccontrols.com/our-products/dx2 
+[https://perma.cc/A8U3-6TTZ] (last accessed Dec. 13, 2020).  
+116 Maquet Servo-i service manual, iFixIt, https://www.ifixit.com/Document/jpuqR1CDDumFeves/Maquet-Servo-i-
+Service-Manual.pdf [https://perma.cc/UJQ7-ZR3B].  
+117 OTICON DEVICE MANUAL, supra note 48.   
+118 See Cory Doctorow, Abbott Labs kills free tool that lets you own the blood-sugar data from your glucose 
+monitor, saying it violates copyright law, Boing Boing (Dec. 12, 2019) https://boingboing.net/2019/12/12/they-
+literally-own-you.html [https://perma.cc/5AF4-5YYQ]. 
+119 Willow, Willow Product Details, Willow, https://shop.willowpump.com/pages/buy [https://perma.cc/2ZSF-
+YH72] (last accessed Dec. 13, 2020) (describing the breast pump’s software-enabled features including its 
+complimentary app, compatibility with Android and iOS, and its “Smart Suction technology”).  
+120 Doctorow, supra note 120 (“The admin of Diabettech posted technical instructions and code for extracting your 
+blood-sugar data from the Librelink so that you could use a different "listener" app with your data, or even connect it 
+to an insulin pump to create an artificial pancreas loop. . . In response, Abbott Labs used US copyright law to have 
+the project deleted from Github, censoring Diabettech's code and instructions”). 
+121 OTICON DEVICE MANUAL, supra note 48.  
+[PAGE 19]
+19 
+Similar harms can be seen in industrial 
+settings. For instance, many of the Facility 
+Management Systems that run commercial 
+buildings, like the one pictured to the left, 
+have TPMs built into them by necessity, as 
+the systems are responsible for controlling 
+access to the buildings. They require 
+password authentication to make 
+programming changes. But, if the building 
+owner needs to reset the master password 
+in the event of an employee departure or 
+death,
+122 the manufacturer approved 
+pathway necessitates resetting all of the device’s programming. This mass programming reset 
+shuts the entire system down, rendering the building’s HVAC, locks, and water treatment 
+systems, among others, non-operational. Bypassing the Facility Management System's TPM123 
+and simply changing the password is a far less disruptive and costly repair.  
+Similarly, TPMs also complicate repairs for supervisory control and data acquisition (SCADA) 
+systems, which facilitate the simultaneous operation of industrial machinery used in factories, 
+power plants, pipelines, and other large industrial systems.124 Siemens hard-coded a default 
+password into their SCADA systems, and malware began circulating utilizing this password.125 
+Wired reports that, “The password appears to be used by the WinCC software to connect to its 
+MS-SQL back-end database. According to some of the forum posts, changing the password 
+causes the system to stop working.”126 Systems operators were faced with a choice: disconnect 
+the hardware from the internet and wait for a Siemens patch, or bypass the Siemens security 
+model and develop a patch for these systems themselves. Wired’s investigation found that “hard-
+coded passwords aren't a problem just for Siemens.”127 
+When hackers utilized the system’s master passwords to install malware, factory owners were 
+unable to repair their own systems and were forced to disconnect the hardware from the internet, 
+effectively restoring all the programs to their factory settings.128 Circumventing these TPMs 
+would allow repairers to add in a software patch to address these cybersecurity threats without 
+wiping out the owner’s extensive custom settings. “Well over 50 percent of the control system 
+suppliers” hard-code passwords into their software or firmware, says Joe Weiss, author of the 
+book Protecting Industrial Control Systems from Electronic Threats.129 “These systems were 
+ 
+122 NAE25 Metasyssyagent Password Reset, HVAC Talk (Jan. 17, 2008) https://hvac-
+talk.com/vbb/showthread.php?159467-NAE25-Metasyssyagent-Password-Reset [https://perma.cc/JHU5-ECDQ].  
+123 See e.g. Billy Rios, Owning a Building: Exploiting Access Control and Facility Management Systems, Qualys 
+https://www.blackhat.com/docs/asia-14/materials/Rios/Asia-14-Rios-Owning-A-Building-Exploiting-Access-
+Control-And-Facility-Management.pdf [https://perma.cc/BF4Y-8C2Y] (last accessed Dec. 14, 2020). 
+124 Kim Zetter, SCADA System‘s Hard-Coded Password Circulated Online for Years, Wired (July 19, 2010) 
+https://www.wired.com/2010/07/siemens-scada/ [https://perma.cc/2RD6-EBDQ]. 
+125 See, e.g., id.  
+126 Id.  
+127 Id.  
+128 See, e.g., Id.  
+129 Id.  
+
+[PAGE 20]
+20 
+designed so they could be used efficiently and safely. Security was simply not one of the design 
+issues.”130 
+The restrictive impact that TPMs and Section 1201 have on operational systems also extends to 
+marine engines, satellite telephones, and PBX telephone systems. Computer-controlled diesel 
+engines for yachts and ships for instance, manufactured by companies like John Deere, 
+Caterpillar, Kohler Power, often contain TPMs that prevent owners and technicians from 
+performing diagnostics or resetting alerts.131 As a result, engine operators encountering these 
+restrictions are prevented from accessing critical, real-time engine diagnostic information about 
+their own vessels. Likewise, Garmin’s Pumac satellite phone, uses TPMs to preclude users from 
+customizing their own devices’ settings without manufacturer approval.132 These anti-consumer 
+and anti-competitive practices have not gone unnoticed by courts. Avaya, a manufacturer of PBX 
+telephone systems, was found liable for antitrust violations for preventing third-party repairs.133 
+And, with a 16.7% increase in growth for software-enabled industrial systems on the horizon by 
+2027, it’s only a matter of time before manufacturer approval will be required at the expense of 
+the device’s owners at all stages of the supply chain.134 
+The Copyright Office Should Not Consider Non-Copyright-Related Arguments Against or 
+Limitations on Exemptions 
+In previous proceedings, the Copyright Office has recommended, and the Librarian adopted, 
+exemptions that only apply in the absence of other, non-copyright regulations. One of the current 
+repair exemptions, for example, is limited to situations “where such circumvention does not 
+constitute a violation of applicable law, including without limitation regulations promulgated by 
+the Department of Transportation or the Environmental Protection Agency.”135 The Copyright 
+Office should decline to do so here. 
+Just as the FDA does not condition its regulations on compliance with copyright law, copyright 
+law and regulations should not be conditioned on areas in which the Copyright Office lacks 
+expertise. The concerns and motivations for these other areas of law have nothing to do with the 
+protection and promotion of creative works, and they should not be the basis for a decision of the 
+Copyright Office.  
+Critically, a broadly crafted exemption allowing owners to repair their software-enabled devices 
+would not eliminate remedies for violations of existing law, regulations, or even breach of 
+ 
+130 Id.  
+131 See e.g. Kohler Operation Manual, supra note 49.  
+132 GARMINFONE OWNER’S MANUAL, supra note 27.  
+133 See Avaya Inc., RP v. Telecom Labs, Inc., supra note 29. 
+134 Meticulous Market Research Pvt. Ltd, Industrial IoT (IoT) Market Worth $263.4 billion by 2027- Exclusive 
+Report Covering Pre and Post COVID-19 Market Analysis and Forecasts by Meticulous Research, GlobeNewswire 
+(June 19, 2020 10:44AM) https://www.globenewswire.com/news-release/2020/06/19/2050758/0/en/Industrial-IoT-
+IIoT-Market-Worth-263-4-billion-by-2027-Exclusive-Report-Covering-Pre-and-Post-COVID-19-Market-Analysis-
+and-Forecasts-by-Meticulous-Research.html [https://perma.cc/QEJ8-FBJL] (noting that the industrial market for 
+software-enabled devices that use the internet to design, maintain, monitor, optimize, and analyze industrial 
+operations is expected to grow at a compound average growth rate (CAGR) of 16.7% from 2019 to 2027).  
+135 37 C.F.R. § 201.40(b)(9). 
+[PAGE 21]
+21 
+contract.136 In 2016, the Copyright Office acknowledged that some business models restrict 
+device repair, but that granting an exemption would not affect manufacturers’ ability to create 
+and enforce those business models through contract or other law. It will simply eliminate the 
+threat of violating copyright law for doing something—repairing a device—that fundamentally 
+does not implicate copyright interests.137  
+The Expanded Exemption Can and Should Permit Third-Party Assistance 
+The Copyright Office has recognized that exemptions issued under Section 1201(c) can extend  
+to third parties working on behalf of a device owner to assist the device owner in circumventing 
+TPMs. As the Office noted in its Section 1201 Study Final Report, the exemption for assistive 
+technology only requires that the device be lawfully acquired by a person with disabilities; it 
+does not require that person to be the one actually doing the circumventing.138 We agree with this 
+Office that the statute’s use of the term ”user” instead of ”owner” creates this possibility. 
+Additionally, the current exemption for wireless device unlocking provides that circumvention 
+“may be initiated... by another person at the direction of the owner.”139 The Office should 
+recommend an exemption that, like the Proposed Expanded Exemption, allows a third party to 
+perform the circumvention as that device‘s ”user.” 
+The Statutory Factors Favor Granting the Proposed Expanded Exemptions 
+The Copyright Office has also requested that we address the five statutory factors:  
+(i) the availability for use of copyrighted works; 
+(ii) the availability for use of works for nonprofit archival, preservation, and educational 
+purposes; 
+(iii) the impact that the prohibition on the circumvention of technological measures 
+applied to copyrighted works has on criticism, comment, news reporting, teaching, 
+scholarship, or research; 
+(iv) the effect of circumvention of technological measures on the market for or value of 
+copyrighted works; and 
+(v) such other factors as the Librarian considers appropriate. 
+The Copyright Office’s previous review of these statutory factors as they relate to device repair 
+is informative. Although in 2018 the Copyright Office separated the devices by category and 
+largely eliminated various devices for which it did not find sufficiently specific evidence, for all 
+those narrow device classes where the Office noted specific evidence of harm,140 namely vehicle 
+ 
+136 See, e.g., ProCD, Inc. v. Zeidenberg 86 F.3d 1447, 1450 (7th Cir. 1996) (holding that a user who violated a 
+software program‘s license was still liable to the manufacturer for breach of contract, agnostic of any applicable 
+infringement claims).  
+137 2016 Software Study 44 
+138 2017 Copyright Office Report 61.  
+139 37 C.F.R. § 201.40(c).  
+140 See 2018 Acting Register’s Recommendations 216-220. 
+[PAGE 22]
+22 
+telematics systems, home appliances, and smartphones, there Office weighed the factors in favor 
+of repair.141 This same analysis applies to all of the devices at issue here. 
+“The first statutory factor favors an exemption, as [repair] extends the useful life of the devices 
+by facilitating repair and restoration of device functionality. The record demonstrates there are 
+times where manufacturer-authorized repair channels are insufficient to address widespread 
+consumer problems in a timely manner or to address the issue at all, and also suggests that 
+circumvention is necessary to engage in activities of self-repair.”142 
+The second and third factors “weigh slightly in favor of a determination that TPMs have an 
+adverse effect on the proposed uses.”143 This, as we noted in the previous section, is because the 
+nature of repair and self-repair options enable hand-on-learning and research into the nature and 
+function of devices. 
+As for the fourth factor, “the purpose of diagnosis and repair is to restore the intended 
+functionality of the device, and not to modify expressive works. There is little [evidence] to 
+suggest that engaging in these activities will negatively affect the value of copyrighted works.”144 
+Thus, “the fourth factor favors exemption with regard to diagnosis and repair”145 of devices.  
+The fifth factor also favors a broad exemption for repair of software enabled devices that extends 
+to third party assistance. Increasing consumer access to repair technicians by expanding all repair 
+exemptions to clarify that they extend to third-party assistance will not only make it possible for 
+consumers to take advantage of these exemptions in a meaningful way, it will also reduce the 
+amount of environmental waste generated when broken devices are disposed of, andalso expands 
+crucial domestic job opportunities. This year, the EPA estimated that the recycling and reuse 
+industry activities in 2019 contributed approximately 681,000 jobs, $37.8 billion dollars in 
+wages, and $5.5 billion in tax revenue to the US economy.146 Electronics technicians, in 
+particular, represent 121,000 of those jobs in the U.S. as of 2019. 147 If refurbishing and recycling 
+rates in America increase, this industry has the potential to turn into an even more significant 
+source of domestic jobs. With over 25% of U.S. adults reporting household job loss due to 
+COVID-19, and over 32% reporting a household pay cut due to the pandemic,148 the repair 
+industry’s potential as a catalyst for more domestic job opportunities is one that should not be 
+ 
+141 Id. at 221.  
+142 Id. at 221. 
+143 Id. 
+144 Id. at 221-22. 
+145 Id. at 222. 
+146 United States Environmental Protection Agency, Recycling Economic Information (REI) Report 1 (2020) 
+https://www.epa.gov/sites/production/files/2020-11/documents/rei_report_508_compliant.pdf 
+[https://perma.cc/R37B-P982] (“In summary, the 2020 REI Report found . . . 681,000 jobs, $37.8 billion in wages, 
+and $5.5 billion in tax revenue generated”); See e.g. also Kyle Wiens, One Way to Create American Jobs: Fix Our 5 
+Million Tons of Out-Of-Use Electronics, The Atlantic (Oct. 31, 2012) 
+.https://www.theatlantic.com/technology/archive/2012/10/one-way-to-create-american-jobs-fix-our-5-million-tons-
+of-out-of-use-electronics/264351/ [https://perma.cc/V64Q-QEUK].  
+147 U.S. Bureau of Labor Statistics, Electrical and Electronics Installers and Repairers, Occupational Outlook 
+Handbook (2019) https://www.bls.gov/ooh/installation-maintenance-and-repair/electrical-and-electronics-installers-
+and-repairers.htm [https://perma.cc/D49Z-P6CP].  
+148 Kim Parke et al., Economic Fallout from COVID-19 Continues To Hit Lower-Income Americans the Hardest, 
+Pew Res. Ctr. (Sept. 24, 2020) https://www.pewsocialtrends.org/2020/09/24/economic-fallout-from-covid-19-
+continues-to-hit-lower-income-americans-the-hardest/ [https://perma.cc/H6YN-WM49]. 
+[PAGE 23]
+23 
+ignored, particularly when hands-on repair experience is a prerequisite for qualifying for many of 
+these opportunities. “There aren’t enough appliance service technicians because there are very 
+few formal training schools available,” Corrine D. Caruso, the president of the United Appliance 
+Servicers Association, recently explained, “The majority have learned on the job.”149 
+The adverse impact of Section 1201’s prohibition on circumvention for the purpose of repair 
+extends beyond the owner of the device, and will have ripple effects far beyond 2020. 
+Manufacturing a new device requires large amounts of pollution-causing sources of energy; this 
+currently constitutes the most environmental impact a product will have during its lifecycle.150 
+Mining and manufacturing raw materials for the latest iPhone, for instance, represents about 83% 
+of the product’s total contribution to heat-trapping emissions in the atmosphere.151 This means 
+that simply purchasing a new iPhone, rather than repairing an old one, already contributes over 
+two-thirds of the carbon emissions that the product releases into the atmosphere over the course 
+of its use. And this trend isn’t limited to personal electronics: just the materials and 
+manufacturing process for washing machines, for example, produce 57% of the device‘s 
+aggregate carbon footprint before a consumer even uses them.152 
+Conclusion 
+For the above reasons, Commenters respectfully request that the Copyright Office recommend 
+and the Librarian grant the expanded and clarified exemption covering repair of all lawfully 
+acquired software-enabled devices.  
+ 
+149 Yoon, supra note 125.  
+150 Grace Z. Li, ‘Silicon Mountain’ Advocates for More Tech Re-Use, SF WEEKLY (Nov. 17, 2020 3:05 PM) 
+https://www.sfweekly.com/film/silicon-mountain-advocates-for-more-tech-re-use/ [https://perma.cc/S7SJ-TULG].  
+151 Apple, Product Environmental Report: iPhone 12, APPLE 1, 2 (October 13, 2020) 
+https://www.apple.com/environment/pdf/products/iphone/iPhone_12_PER_Oct2020.pdf [https://perma.cc/8TVU-
+VN9G]. 
+152 Jianhua Chen et al., Product carbon footprint assessment supporting the green supply chain construction in 
+household appliance manufacturers, 94 IOP Conf. Ser.: Earth Environ. Sci. 1, 2 (2017).  

@@ -1,0 +1,244 @@
+[PAGE 1]
+ 
+ 
+ 
+[   ] Check here if multimedia evidence is being provided in connection with this comment 
+ITEM A.  COMMENTER INFORMATION  
+This Comment is submitted on behalf of Brigham Young University (“BYU”) and Brigham 
+Young University-Idaho (“BYU-Idaho”) (collectively, “Commenters”).  
+BYU is a private research university affiliated with The Church of Jesus Christ of Latter-day 
+Saints. Founded in 1875 as Brigham Young Academy, the university currently serves 33,500 
+students from all 50 states and 105 countries. BYU seeks to develop students of faith, intellect, 
+and character who have the skills and the desire to continue learning and to serve others 
+throughout their lives. 
+BYU-Idaho is a private, four-year university affiliated with The Church of Jesus Christ of Latter-
+day Saints. Originally founded as a regional school in 1888, it was named Ricks College in 1923 
+and became the four-year university BYU-Idaho in 2001. BYU-Idaho seeks to create a 
+wholesome learning environment in which students can strengthen their commitment to their 
+faith and receive a quality education that prepares them for leadership in the home, the 
+community, and the workplace. 
+This Comment was prepared by the BYU Copyright Licensing Office, which provides services 
+and resources to the university’s faculty, staff and students relating to copyright issues that arise 
+on campus. Interested parties may contact the following individuals:  
+Peter Midgley 
+BYU Copyright Licensing Office 
+3760 Harold B. Lee Library 
+Provo, UT 84602 
+copyright@byu.edu 
+801-422-9339 
+Nate Wise 
+BYU-Idaho Intellectual Property Office 
+McKay Library 120C 
+Rexburg, ID 83460 
+copyright@byui.edu 
+208-496-7218 
+[PAGE 2]
+ 
+ 
+ 
+2 
+ 
+ 
+ITEM B.  PROPOSED CLASS ADDRESSED 
+This comment addresses Proposed Class 1: Audiovisual Works—Criticism and Comment.  
+ITEM C.  OVERVIEW 
+The current DMCA exemptions for motion pictures used for educational purposes should be 
+consolidated and expanded to include the following class of works: 
+Motion Pictures (including television shows and videos), as defined in 17 U.S.C. 
+§ 101, where circumvention is undertaken solely in order to facilitate 
+noninfringing performances of the works for nonprofit educational purposes, in 
+accordance with 17 U.S.C. § 110(1) or § 110(2). 
+This revision would simplify the DMCA exemption for noninfringing educational performances, 
+by aligning it with the statutory conditions for such performances and eliminating extraneous 
+conditions, such as distinctions between different categories of educational users and 
+unnecessary restrictions to “short portions” of motion pictures. Such an exemption would give 
+life and meaning to the policies embodied in the educational performance exemptions when they 
+were enacted by Congress.  
+ITEM D.  TECHNOLOGICAL PROTECTION MEASURE(S) AND METHOD(S) OF CIRCUMVENTION 
+This Comment relates to technological protection measures (TPMs) employed on DVDs, Blu-ray 
+discs, and by various online streaming services. Such TPMs and methods of circumvention have 
+been described adequately in prior rulemaking proceedings. (See, e.g., Register of Copyrights, 
+Section 1201 Rulemaking: Sixth Triennial Proceeding to Determine Exemptions to the 
+Prohibition on Circumvention, Recommendation of the Register of Copyrights, at 29-30 (2015) 
+(‘‘2015 Recommendation’’).) 
+ITEM E.  ASSERTED ADVERSE EFFECTS ON NONINFRINGING USES  
+Commenters generally agree with the new rulemaking approach advocated by petitioners 
+Electronic Frontier Foundation (EFF), New Media Rights (NMR), and Organization for 
+Transformative Works (OTW). As set forth above, the current DMCA exemption for motion 
+pictures should be consolidated based on type of use, and distinctions based on the type of user 
+should be eliminated.  
+For example, the exemption should consolidate the uses for nonprofit educational purposes and 
+eliminate unnecessary distinctions between types of users such as the following: 
+• college and university faculty and students, see 37 C.F.R. § 201.40(b)(1)(iv),  
+• faculty of massive online open courses (MOOCS), see 37 C.F.R. § 201.40(b)(1)(v),  
+• kindergarten through twelfth-grade educators, see 37 C.F.R. § 201.40(b)(1)(vi),  
+• kindergarten through twelfth-grade students, see 37 C.F.R. § 201.40(b)(1)(vii),  
+The copyright statute draws no distinctions between these user groups, and neither should the 
+DMCA exemptions for motion pictures. On the other hand, the copyright statute does provide 
+[PAGE 3]
+ 
+ 
+ 
+3 
+ 
+ 
+specific exemptions for performances of motion pictures for nonprofit educational purposes, as 
+set forth in 17 U.S.C. § 110(1) and § 110(2), which should be recognized and reflected in the 
+DMCA exemptions.  
+I. The Exemption to Facilitate Nonprofit Educational Performances Should Not Be 
+Limited to “Short Portions” of Motion Pictures 
+The preamble of the current DMCA exemption includes some restrictions that unnecessarily 
+limit instructors and pupils seeking to make noninfringing performances of audiovisual works. 
+For example, the current exemption is limited to “short portions” of motion pictures. 37 C.F.R. 
+§ 201.40(b)(1). In the 2015 rulemaking proceedings, the Register stated, “the use of only short 
+segments is critical to the Register’s determination in this proceeding that a significant number of 
+the desired uses are likely noninfringing.” (2015 Recommendation, at 99.)  
+While the Register’s statement may have been true for “a significant number of the desired 
+uses,” it is manifestly untrue for performances made for nonprofit educational purposes under 17 
+U.S.C. § 110(1), sometimes referred to as the “classroom exemption.” Section 110(1) was not 
+mentioned in the 2015 Recommendation, and it is not clear to what extent, if any, the Register 
+considered this exemption. To qualify for the classroom exemption, a performance must satisfy 
+the following statutory conditions: 
+• made by instructors or pupils;  
+• in the course of face-to-face teaching activities;  
+• of a nonprofit educational institution;  
+• in a classroom or similar place devoted to instruction; and  
+• cannot be given by means of a copy that the person responsible for the performance knew 
+or had reason to believe was not lawfully made. 
+See 17 U.S.C. § 110(1). Notably, the classroom exemption of Section 110(1) provides no 
+limitations or restrictions on the types of works performed or the length of such performances. 
+Thus, instructors or pupils can perform even full-length motion pictures in class, and such 
+performances are unquestionably noninfringing, provided that they satisfy the remaining 
+conditions set forth in the statute.  
+Even so, instructors and pupils are adversely affected in their ability to make noninfringing uses 
+of more than “short portions” of motion pictures under the classroom exemption due to the 
+unduly restrictive language of the current DMCA exemption. As the Register concluded in the 
+2015 rulemaking proceeding, “generally speaking, copyrighted motion pictures are not widely 
+available in formats not subject to technological protections.” (2015 Recommendation, at 83.) 
+Therefore, to make noninfringing performances under the classroom exemption, instructors or 
+pupils must have access to licensed decryption and playback devices in the classroom, such as 
+DVD players, Blu-ray players, or computers with licensed optical drives.  
+As technology advances, however, fewer and fewer classrooms will be equipped with such 
+licensed decryption and playback devices. For example, although BYU and BYU-Idaho 
+currently have numerous media-enabled classrooms with DVD or Blu-ray players, both 
+[PAGE 4]
+ 
+ 
+ 
+4 
+ 
+ 
+universities have decided not to replace such devices as they age out over the next several years. 
+And while many classrooms are equipped with personal computers, licensed optical drives are 
+becoming increasingly rare in new computers. (Kyrnin, Mark. “Why Do Most New PCs Not 
+Come with DVD or Blu-ray Drives?” Lifewire. N.p., 12 Aug. 2017. Web. 18 Dec. 2017.) 
+Accordingly, instructors and pupils are increasingly likely to be adversely affected in their ability 
+to make noninfringing uses under the classroom exemption during the next three years. 
+To meet the needs of the changing modern classroom, the DMCA exemption for motion pictures 
+should be expanded to allow nonprofit educational institutions to circumvent technological 
+protection measures solely to facilitate noninfringing performances of the motion pictures. In 
+many cases, such circumvention may necessitate that a copy of the motion picture be stored on a 
+media server or similar device. Such reproduction and storage would be subject to the conditions 
+for ephemeral recordings, as provided in 17 U.S.C. § 112(f). In addition, the reproduction and 
+storage of such copies would also qualify as fair use under 17 U.S.C. § 107. See, e.g., Authors 
+Guild, Inc. v. HathiTrust, 755 F.3d 87, 98-99 (2d Cir. 2014) (holding that copying the full text of 
+more than ten million works to university servers was not “excessive or unreasonable” to support 
+uses “permitted by the law of copyright”); Authors Guild v. Google, 804 F.3d 202, 229 (2d Cir. 
+2015) (holding that digital copies of more than 20 million books made “so as to enable [libraries] 
+to make non-infringing use” were “lawfully made” copies). 
+II. The Exemption to Facilitate Nonprofit Educational Performances Should Not 
+Distinguish Between Different Types of Courses 
+Some of the current DMCA exemptions for educational uses distinguish between “film studies or 
+other courses requiring close analysis of film and media excerpts,” and other types of courses. 
+See 37 C.F.R. §§ 201.40(b)(1)(iv)(B), 201.40(b)(1)(v)(B), 201.40(b)(1)(vi)(B). This distinction, 
+which has no basis in the copyright statute, is not helpful and should be eliminated. 
+Instructors and pupils regularly make noninfringing performances of motion pictures in a wide 
+range of educational settings, well beyond film studies courses. As just one example, motion 
+pictures are used extensively in foreign language courses to provide students with opportunities 
+to hear a given foreign language as spoken in film and television programs from a given country 
+or region.  
+BYU has the largest language program in the nation, with more intermediate and advanced 
+students in a number of language programs than any other university. Around 60 languages are 
+taught in a typical semester. About 35% of the students are enrolled in language classes, almost 
+four times the national average. Over 75% of the student body has some proficiency in a foreign 
+language, due to the majority of these having served as missionaries around the world. Film and 
+video becomes an integral part of the teaching and learning of languages from the beginning 
+levels, accounting for almost 75% of the nearly 4,000 video titles that have been requested 
+through the Humanities Learning Resource Center. 
+Instructors have requested the ability to queue up a series of clips from a film, and add 
+comments, annotations, interactions, questions, or other customization to the playback of the 
+[PAGE 5]
+ 
+ 
+ 
+5 
+ 
+ 
+video to enhance or individualize the viewing assignment. Instructors should be enabled to make 
+such uses, as long as they satisfy the statutory conditions set forth in Section 110(1) or 110(2).  
+However, instructors and pupils are adversely affected in their ability to make noninfringing uses 
+of motion pictures in non-film studies courses due to the unduly restrictive language of the 
+current DMCA exemption.  
+III. DMCA Exemptions Should Not Include Any References to Screen-Capture 
+Technologies 
+As noted in the 2015 rulemaking proceeding, “Section 1201(a)(1) specifies that the exemption 
+adopted as part of this rulemaking must be defined based on ‘a particular class of works.’” (2015 
+Recommendation, at 17 (emphasis in original).) The statute authorizes the Librarian of Congress, 
+upon the recommendation of the Register of Copyrights, to determine classes of works that 
+should be exempt from the prohibition on circumvention. The statute makes no mention, 
+however, that the Librarian of Congress is authorized to decide or opine on specific means by 
+which users may circumvent technological protection measures controlling access to copyrighted 
+works. Thus, Commenters recommend avoiding the topic of screen-capture technologies (or any 
+other specific technologies alleged to be circumventing) altogether during this rulemaking 
+proceeding.  
+To the extent the Register wishes to address screen-capture technologies, it should clarify the 
+confusing, if not contradictory, references to such technologies in the current DMCA 
+exemptions. For example, the exemptions repeatedly use the phrase, “Where the circumvention 
+is undertaken using screen-capture technology,” which suggests that the use of such technology 
+constitutes circumvention. See 37 C.F.R. §§ 201.40(b)(1)(i)(A), 201.40(b)(1)(ii)(A), 
+201.40(b)(1)(iii)(A), 201.40(b)(1)(iv)(A), 201.40(b)(1)(v)(A), 201.40(b)(1)(vi)(A), 
+201.40(b)(1)(vii), 201.40(b)(1)(viii). On the other hand, the exemptions also repeatedly use the 
+phrase, “screen-capture software or other non-circumventing alternatives,” which suggests that 
+screen-capture software is an example of non-circumventing technology. See 37 C.F.R. 
+§§ 201.40(b)(1)(i)(B), 201.40(b)(1)(ii)(B), 201.40(b)(1)(iii)(B), 201.40(b)(1)(iv)(B), 
+201.40(b)(1)(v)(B), 201.40(b)(1)(vi)(B).  
+The Register and various commenters during the 2015 rulemaking proceeding frequently 
+referred to screen-capture technology as an “alternative to circumvention.” (See, e.g., 2015 
+Recommendation, at 57, 84, 87.) For example, the DVD Copy Control Association (“DVD 
+CCA”) made the following unqualified statement in opposition to any proposed expansion of 
+Class 1, “Video Capture Recording Is an Alternative to Circumvention.” (2015 DVD CCA 
+Comments, p. 8.) Similarly, the Advanced Access Content System Licensing Administrator LLC 
+(“AACS LA”) made the following unqualified statement, “Video Capture Recording of DVD 
+Playback Is an Alternative to Circumvention.” (2015 AACS LA Comment, p. 9.)  
+In the Notice of Proposed Rulemaking, the Office invited comment on “whether there is 
+common understanding that screen-capture technology is non-circumventing.” (Exemptions to 
+Permit Circumvention of Access Controls on Copyrighted Works, 82 Fed. Reg. 49560 (Oct. 26, 
+2017). Federal Register: The Daily Journal of the United States. Web. 18 Dec. 2017.) 
+[PAGE 6]
+ 
+ 
+ 
+6 
+ 
+ 
+Commenters believe there is common understanding in at least the following acknowledgment 
+made by the Register in 2015, “at least some types of screen-capture software are ‘comparable to 
+camcording the screen—a process that has been identified as a noncircumventing option to 
+accomplish noninfringing uses’ because the images are captured after they have been decrypted.” 
+(2015 Recommendation, at 88.) Because screen-capture technologies “enabling the reproduction 
+of motion pictures after content has been lawfully acquired and decrypted” do not involve 
+circumvention, they are beyond the scope of these rulemaking proceedings. Yet, these are the 
+very types of screen-capture technologies that the current DMCA exemptions repeatedly suggest 
+may be circumventing. See 37 C.F.R. §§ 201.40(b)(1)(i)(A), 201.40(b)(1)(ii)(A), 
+201.40(b)(1)(iii)(A), 201.40(b)(1)(iv)(A), 201.40(b)(1)(v)(A), 201.40(b)(1)(vi)(A), 
+201.40(b)(1)(vii), 201.40(b)(1)(viii).  
+Commenters believe the references to screen-capture technologies in the current exemptions are 
+confusing and sometimes contradictory. As set forth above, Commenters recommend resolving 
+the confusion by eliminating all references to screen-capture technology.  
+IV. Conclusion 
+In summary, Commenters propose revising the current DMCA exemptions for motion pictures 
+used for educational purposes, to align with the statutory conditions for noninfringing 
+performances set forth in 17 U.S.C. §§ 110(1) and 110(2). Such an approach would simplify the 
+DMCA exemptions and increase the likelihood that instructors and pupils would be able to use 
+the educational performance exemptions in the manner contemplated by Congress when they 
+were enacted into law.  

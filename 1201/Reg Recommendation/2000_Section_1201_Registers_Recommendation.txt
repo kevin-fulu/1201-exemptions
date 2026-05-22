@@ -1,0 +1,3943 @@
+[PAGE 1]
+Friday,
+October 27, 2000
+Part V
+Library of Congress
+Copyright Office
+37 CFR Part 201
+Exemption to Prohibition on
+Circumvention of Copyright Protection
+Systems for Access Control Technologies;
+Final Rule
+VerDate 11<MAY>2000 17:09 Oct 26, 2000 Jkt 194001 PO 00000 Frm 00001 Fmt 4717 Sfmt 4717 E:\FR\FM\27OCR3.SGM pfrm01 PsN: 27OCR3
+
+[PAGE 2]
+64556 Federal Register / Vol. 65, No. 209 / Friday, October 27, 2000 / Rules and Regulations
+1 The treaties were adopted on December 20, 1996
+at a World Intellectual Property Organization
+(WIPO) Diplomatic Conference on Certain
+Copyright and Neighboring Rights Questions. The
+United States ratified the treaties in September,
+1999. The treaties will go into effect after 30
+instruments of ratification or accession by States
+have been deposited with the Director General of
+WIPO.
+LIBRARY OF CONGRESS
+Copyright Office
+37 CFR Part 201
+[Docket No. RM 99±7D]
+Exemption to Prohibition on
+Circumvention of Copyright Protection
+Systems for Access Control
+Technologies
+AGENCY: Copyright Office, Library of
+Congress.
+ACTION: Final Rule.
+SUMMARY: This rule designates the
+classes of copyrighted works that the
+Librarian of Congress has determined
+shall be subject to exemption from the
+prohibition against circumvention of a
+technological measure that effectively
+controls access to a work protected
+under title 17 of the U.S. Code. In title
+I of the Digital Millennium Copyright
+Act, Congress established that this
+prohibition against circumvention will
+become effective October 28, 2000. The
+same legislation directed the Register of
+Copyrights to conduct a rulemaking
+procedure and to make
+recommendations to the Librarian as to
+whether any classes of works should be
+subject to exemptions from the
+prohibition against circumvention. The
+exemptions set forth in this rule will be
+in effect until October 28, 2003.
+EFFECTIVE DATE: October 28, 2000.
+FOR FURTHER INFORMATION CONTACT :
+Charlotte Douglass or Robert Kasunic,
+Office of the General Counsel, Copyright
+GC/I&R, P.O. Box 70400, Southwest
+Station, Washington, DC 20024.
+Telephone (202) 707±8380; telefax (202)
+707±8366.
+SUPPLEMENTARY INFORMATION:
+Recommendation of the Register of
+Copyrights
+I. Background
+A. Legislative Requirements for
+Rulemaking Proceeding
+The WIPO Copyright Treaty (WCT)
+and the WIPO Performances and
+Phonograms Treaty (WPPT) require that
+Contracting Parties provide adequate
+legal protection and effective legal
+remedies against the circumvention of
+effective technological measures that
+authors or other copyright owners (or, in
+the case of the WPPT, performers and
+producers of phonograms) use in
+connection with the exercise of their
+rights and that restrict acts which they
+have not authorized and are not
+permitted by law.
+1
+In fulfillment of these treaty
+obligations, on October 28, 1998, the
+United States enacted the Digital
+Millennium Copyright Act (``DMCA''),
+Pub. L. 105±304 (1998). Title I of the Act
+added a new Chapter 12 to Title 17
+U.S.C., which among other things
+prohibits circumvention of access
+control technologies employed by or on
+behalf of copyright owners to protect
+their works. Specifically, new
+subsection 1201(a)(1)(A) provides, inter
+alia, that ``No person shall circumvent a
+technological measure that effectively
+controls access to a work protected
+under this title.'' Congress found it
+appropriate to modify the prohibition to
+assure that the public will have
+continued ability to engage in
+noninfringing uses of copyrighted
+works, such as fair use. See the Report
+of the House Committee on Commerce
+on the Digital Millennium Copyright
+Act of 1998, H.R. Rep. No. 105±551, pt.
+2, at 36 (1998) (hereinafter Commerce
+Comm. Report). Subparagraph (B) limits
+this prohibition. It provides that the
+prohibition against circumvention
+``shall not apply to persons who are
+users of a copyrighted work which is in
+a particular class of works, if such
+persons are, or are likely to be in the
+succeeding 3-year period, adversely
+affected by virtue of such prohibition in
+their ability to make noninfringing uses
+of that particular class of works under
+this title'' as determined in this
+rulemaking. This prohibition on
+circumvention becomes effective on
+October 28, 2000, two years after the
+date of enactment of the DMCA.
+During the 2-year period between the
+enactment and the effective date of the
+provision, the Librarian of Congress
+must make a determination as to classes
+of works exempted from the prohibition.
+This determination is to be made upon
+the recommendation of the Register of
+Copyrights in a rulemaking proceeding.
+The determination thus made will
+remain in effect during the succeeding
+three years. In making her
+recommendation, the Register of
+Copyrights is to consult with the
+Assistant Secretary for Communications
+and Information of the Department of
+Commerce and report and comment on
+the Assistant Secretary's views. 17
+U.S.C. 1201(a)(1)(C).
+A more complete explanation of the
+development of the legislative
+requirements is set out in the Notice of
+Inquiry published on November 24,
+1999, 64 FR 66139, and is also available
+on the Copyright Office's website at :
+http://www.loc.gov/copyright/1201/
+anticirc.html. See also the discussion in
+section III.A. below.
+B. Responsibilities of Register of
+Copyrights and Librarian of Congress
+The prohibition against
+circumvention is subject to delayed
+implementation in order to permit a
+determination whether users of
+particular classes of copyrighted works
+are likely to be adversely affected by the
+prohibition in their ability to make
+noninfringing uses. By October 28,
+2000, upon the recommendation of the
+Register of Copyrights in a rulemaking
+proceeding, the Librarian of Congress
+must determine whether to exempt
+certain classes of works (which he must
+identify) from the application of the
+prohibition against circumvention
+during the next three years because of
+such adverse effects.
+The Register was directed to conduct
+a rulemaking proceeding, soliciting
+public comment and consulting with
+the Assistant Secretary of Commerce for
+Communications and Information, and
+then to make a recommendation to the
+Librarian, who must make a
+determination whether any classes of
+copyrighted works should be exempt
+from the statutory prohibition against
+circumvention during the three years
+commencing on that date.
+The primary responsibility of the
+Register and the Librarian in this respect
+is to assess whether the implementation
+of technological protection measures
+that effectively control access to
+copyrighted works (hereinafter ``access
+control measures'') is diminishing the
+ability of individuals to use copyrighted
+works in ways that are otherwise lawful.
+Commerce Comm. Report, at 37. As
+examples of technological protection
+measures in effect today, the Commerce
+Committee offered the use of ``password
+codes'' to control authorized access to
+computer programs and encryption or
+scrambling of cable programming,
+videocassettes, and CD±ROMs. Id.
+The prohibition becomes effective on
+October 28, 2000, and any exemptions
+to that prohibition must be in place by
+that time. Although it is difficult to
+measure the effect of a future
+prohibition, Congress intended that the
+Register solicit input that would enable
+consideration of a broad range of current
+or likely future adverse impacts. The
+VerDate 11<MAY>2000 17:09 Oct 26, 2000 Jkt 194001 PO 00000 Frm 00002 Fmt 4701 Sfmt 4700 E:\FR\FM\27OCR3.SGM pfrm01 PsN: 27OCR3
+
+[PAGE 3]
+64557Federal Register / Vol. 65, No. 209 / Friday, October 27, 2000 / Rules and Regulations
+2 In referring to the comments and hearing
+materials, the Office will use the following
+abbreviations: C-Comment, R-Reply Comment, PHPost Hearing Comments, T + speaker and dateÐ
+Transcript (ex. ``T Laura Gasaway, 5/18/00'') and
+WS + speakerÐWritten statements (ex. ``WS
+Vaidhyanathan''). Citations to page numbers in
+hearing transcripts are to the hard copy transcripts
+at the Copyright Office. For the hearings in
+Washington, DC, the pagination of those transcripts
+differs from the pagination of the versions of the
+transcript available on the Copyright Office website.
+nature of the inquiry is delineated in the
+statutory areas to be examined, as set
+forth in section 1201(a)(1)(C):
+(i) The availability for use of copyrighted
+works;
+(ii) The availability for use of works for
+nonprofit archival, preservation, and
+educational purposes;
+(iii) The impact that the prohibition on the
+circumvention of technological measures
+applied to copyrighted works has on
+criticism, comment, news reporting,
+teaching, scholarship, or research;
+(iv) The effect of circumvention of
+technological measures on the market for or
+value of copyrighted works; and
+(v) Such other factors as the Librarian
+considers appropriate.
+II. Solicitation of Public Comments and
+Hearings
+On November 24, 1999, the Office
+initiated the rulemaking procedure with
+publication of a Notice of Inquiry. 64 FR
+66139. The Notice of Inquiry requested
+written comments from all interested
+parties, including representatives of
+copyright owners, educational
+institutions, libraries and archives,
+scholars, researchers and members of
+the public. The Office devoted a great
+deal of attention in this Notice to setting
+out the legislative parameters and
+developing questions related to the
+criteria Congress had established. The
+Office was determined to make the
+comments it received available
+immediately in order to elicit a broad
+range of public comment; therefore, it
+stated a preference for submission of
+comments in certain electronic formats.
+Id. In response to some commenters'
+views that the formats permitted were
+not sufficient, the Office expanded the
+list of formats in which comments could
+be submitted. 65 FR 6573 (February 10,
+2000). In the same document, the Office
+extended the comment period:
+comments would be due by February
+17, 2000 and reply comments by March
+20, 2000. On March 17, the Office
+extended the reply comment period to
+March 31; scheduled hearings to take
+place in Washington, DC on May 2±4
+and in Palo Alto, California, at Stanford
+University on May 18±19; and set a June
+23, 2000 deadline for submission of
+post-hearing comments. 65 FR 14505
+(March 17, 2000). All of these notices
+were published not only in the Federal
+Register, but also on the Office's
+website.
+In response to the Notice of Inquiry,
+the Office received 235 initial comments
+and 129 reply comments. Thirty-four
+witnesses representing over 50 groups
+testified at five days of hearings held in
+either Washington, DC or Palo Alto,
+California. The Office placed all initial
+comments, reply comments, optional
+written statements of the witnesses and
+the transcripts of the two hearings on its
+website shortly after their receipt.
+Following the hearings, the Office
+received 28 post-hearing comments,
+which were also posted on the website.
+All of these commenters and witnesses
+are identified in the indexes that appear
+on the Office's website.
+The comments received represent a
+broad perspective of views ranging from
+representatives or individuals who
+urged there should be broad exemptions
+to those who opposed any exemption;
+they also included a number of
+comments about various other aspects of
+the Digital Millennium Copyright Act.
+The Copyright Office has now
+exhaustively reviewed and analyzed the
+entire record, including all of the
+comments and the transcripts of the
+hearings in order to determine whether
+any class of copyrighted works should
+be exempt from the prohibition against
+circumvention during the next three
+years.
+2
+III. Discussion
+A. The Purpose and Focus of the
+Rulemaking
+1. Purpose of the Rulemaking
+As originally reported out of the
+Senate Judiciary Committee on May 11,
+1998, S. Rep. No. 105±190 (1998), and
+the House Judiciary Committee on May
+22, 1998, H.R. Rep. No. 105±551, pt. I
+(1998), section 1201(a)(1) consisted of
+only one sentenceÐwhat is now the
+first sentence of section 1201(a)(1): ``No
+person shall circumvent a technological
+measure that effectively controls access
+to a work protected under this title.''
+Section 1201(a)(2), like the provision
+finally enacted, prohibited the
+manufacture, importation, offering to
+the public, providing or otherwise
+trafficking in any technology, product,
+service, device, or component to
+circumvent access control measures.
+Section 1201(a) thus addressed ``access
+control'' measures, prohibiting both the
+conduct of circumventing those
+measures and devices that circumvent
+them. Thus, section 1201(a) prohibits
+both the conduct of circumventing
+access control measures and trafficking
+in products, services and devices that
+circumvent access control measures.
+In addition to section 1201(a)(1)'s
+prohibition on circumvention of access
+control measures, section 1201 also
+addressed circumvention of a different
+type of technological measure. Section
+1201(b), in the versions originally
+reported by the House and Senate
+Judiciary Committees and in the statute
+finally enacted, prohibited the
+manufacture, importation, offering to
+the public, providing or otherwise
+trafficking in any technology, product,
+service, device, or component to
+circumvent protection afforded by a
+technological measure that effectively
+protects a right of a copyright owner
+under title 17 in a copyrighted work.
+The type of technological measure
+addressed in section 1201(b) includes
+copy-control measures and other
+measures that control uses of works that
+would infringe the exclusive rights of
+the copyright owner. They will
+frequently be referred to herein as copy
+controls. But unlike section 1201(a),
+which prohibits both the conduct of
+circumvention and devices that
+circumvent, section 1201(b) does not
+prohibit the conduct of circumventing
+copy control measures. The prohibition
+in section 1201(b) extends only to
+devices that circumvent copy control
+measures. The decision not to prohibit
+the conduct of circumventing copy
+controls was made, in part, because it
+would penalize some noninfringing
+conduct such as fair use.
+In the House of Representatives, the
+DMCA was sequentially referred to the
+Committee on Commerce after it was
+reported out of the Judiciary Committee.
+The Commerce Committee was
+concerned that section 1201, in its
+original form, might undermine
+Congress' commitment to fair use.
+Commerce Comm. Report, at 35. While
+acknowledging that the growth and
+development of the Internet has had a
+significant positive impact on the access
+of students, researchers, consumers, and
+the public at large to information and
+that a ``plethora of information, most of
+it embodied in materials subject to
+copyright protection, is available to
+individuals, often for free, that just a
+few years ago could have been located
+and acquired only through the
+expenditure of considerable time,
+resources, and money,'' Id., the
+Committee was concerned that
+``marketplace realities may someday
+dictate a different outcome, resulting in
+less access, rather than more, to
+copyrighted materials that are important
+to education, scholarship, and other
+socially vital endeavors.'' Id. at 36.
+Possible measures that might lead to
+VerDate 11<MAY>2000 17:24 Oct 26, 2000 Jkt 194001 PO 00000 Frm 00003 Fmt 4701 Sfmt 4700 E:\FR\FM\27OCR3.SGM pfrm01 PsN: 27OCR3
+
+[PAGE 4]
+64558 Federal Register / Vol. 65, No. 209 / Friday, October 27, 2000 / Rules and Regulations
+3 The Commerce Committee proposal would have
+placed responsibility for the rulemaking in the
+hands of the Secretary of Commerce. As finally
+enacted, the DMCA shifted that responsibility to the
+Librarian, upon the recommendation of the
+Register.
+4 Some commenters have suggested that the
+House Manager's Report is entitled to little
+deference as legislative history. See, e.g., PH18, p.
+3. However, because that report is consistent with
+the Commerce Committee Report, there is no need
+in this rulemaking to determine whether the
+Manager's Report is entitled to less weight than the
+Commerce Committee Report. Some critics of the
+Manager's Report have objected to its statement that
+the focus of this proceeding should be on whether
+there is a ``substantial adverse impact'' on
+noninfringing uses. However, they have failed to
+explain how this statement is anything other than
+another way of saying what the Commerce
+Committee said when it said the determination
+should be based on ``distinct, verifiable, and
+measurable impacts, and should not be based upon
+de minimis impacts.''
+such an outcome included the
+elimination of print or other hard-copy
+versions, permanent encryption of all
+electronic copies and adoption of
+business models that restrict
+distribution and availability of works.
+The Committee concluded that ``[i]n this
+scenario, it could be appropriate to
+modify the flat prohibition against the
+circumvention of effective technological
+measures that control access to
+copyrighted materials, in order to
+ensure that access for lawful purposes is
+not unjustifiably diminished.'' Id.
+In order to address such possible
+developments, the Commerce
+Committee proposed a modification of
+section 1201 which it characterized as a
+`` `fail-safe' mechanism.'' Id. As the
+Committee Report describes it, ``This
+mechanism would monitor
+developments in the marketplace for
+copyrighted materials, and allow the
+enforceability of the prohibition against
+the act of circumvention to be
+selectively waived, for limited time
+periods, if necessary to prevent a
+diminution in the availability to
+individual users of a particular category
+of copyrighted materials.'' Id.
+The ``fail-safe'' mechanism is this
+rulemaking. In its final form as enacted
+by Congress, slightly modified from the
+mechanism that appeared in the version
+of the DMCA reported out of the
+Commerce Committee, the Register is to
+conduct a rulemaking proceeding and,
+after consulting with the Assistant
+Secretary for Communications and
+Information of the Department of
+Commerce, recommend to the Librarian
+whether he should conclude ``that
+persons who are users of a copyrighted
+work are, or are likely to be in the
+succeeding 3-year period, adversely
+affected by the prohibition under
+[section 1201(a)(1)(A)] in their ability to
+make noninfringing uses under [Title
+17] of a particular class of copyrighted
+works.'' 17 U.S.C. 1201(a)(1)(C). ``The
+Librarian shall publish any class of
+copyrighted works for which the
+Librarian has determined, pursuant to
+the rulemaking conducted under
+subparagraph (C), that noninfringing
+uses by persons who are users of a
+copyrighted work are, or are likely to be,
+adversely affected, and the prohibition
+contained in subparagraph (A) shall not
+apply to such users with respect to such
+class of works for the ensuing 3-year
+period.'' 17 U.S.C. 1201(a)(1)(C).
+The Commerce Committee offered
+additional guidance as to the task of the
+Register and the Librarian in this
+rulemaking. ``The goal of the proceeding
+is to assess whether the implementation
+of technological protection measures
+that effectively control access to
+copyrighted works is adversely affecting
+the ability of individual users to make
+lawful uses of copyrighted works * * *.
+The primary goal of the rulemaking
+proceeding is to assess whether the
+prevalence of these technological
+protections, with respect to particular
+categories of copyrighted materials, is
+diminishing the ability of individuals to
+use these works in ways that are
+otherwise lawful.'' Commerce Comm.
+Report, at 37. Accord: Staff of House
+Committee on the Judiciary, 105th
+Cong., Section-By-Section Analysis of
+H.R. 2281 as Passed by the United States
+House of Representatives on August 4,
+1998, (hereinafter House Manager's
+Report) (Rep. Coble)(Comm. Print 1998),
+at 6. The Committee observed that the
+effective date of section 1201(a)(1) was
+delayed for two years in order ``to allow
+the development of a sufficient record
+as to how the implementation of these
+technologies is affecting availability of
+works in the marketplace for lawful
+uses.'' Commerce Comm. Report, at 37.
+Thus, the task of this rulemaking
+appears to be to determine whether the
+availability and use of access control
+measures has already diminished or is
+about to diminish the ability of the
+public to engage in the lawful uses of
+copyrighted works that the public had
+traditionally been able to make prior to
+the enactment of the DMCA. As the
+Commerce Committee Report stated, in
+examining the factors set forth in
+section 1201(a)(1)(C), the focus must be
+on ``whether the implementation of
+technological protection measures (such
+as encryption or scrambling) has caused
+adverse impact on the ability of users to
+make lawful uses.'' Id.
+2. The Necessary Showing
+The language of section 1201(a)(1)
+does not offer much guidance as to the
+respective burdens of proponents and
+opponents of any classes of works to be
+exempted from the prohibition on
+circumvention. Of course, it is a general
+rule of statutory construction that
+exemptions must be construed narrowly
+in order to preserve the purpose of a
+statutory provision, and that rule is
+applied in interpreting the copyright
+law. Tasini v. New York Times Co., 206
+F.3d 161, 168 (2d Cir. 2000). Moreover,
+the burden is on the proponent of the
+exemption to make the case for
+exempting any particular class of works
+from the operation of section 1201(a)(1).
+See 73 Am. Jur. 2d 313 (1991)
+(``[s]tatutes granting exemptions from
+their general operation [to] be strictly
+construed, and any doubt must be
+resolved against the one asserting the
+exemption.'') Indeed, the House
+Commerce Committee stated that ``The
+regulatory prohibition is presumed to
+apply to any and all kinds of works,
+including those as to which a waiver of
+applicability was previously in effect,
+unless, and until, the Secretary makes a
+new determination that the adverse
+impact criteria have been met with
+respect to a particular class and
+therefore issues a new waiver.''
+Commerce Comm. Report, at 37
+(emphasis added).
+3
+The legislative history makes clear
+that a determination to exempt a class
+of works from the prohibition on
+circumvention must be based on a
+determination that the prohibition has a
+substantial adverse effect on
+noninfringing use of that particular class
+of works. The Commerce Committee
+noted that the rulemaking proceeding is
+to focus on ``distinct, verifiable, and
+measurable impacts, and should not be
+based upon de minimis impacts.''
+Commerce Comm. Report, at 37. ``If the
+rulemaking has produced insufficient
+evidence to determine whether there
+have been adverse impacts with respect
+to particular classes of copyrighted
+works, the circumvention prohibition
+should go into effect with respect to
+those classes.'' Id. at 38. Similarly, the
+House Manager's Report stated that
+``[t]he focus of the rulemaking
+proceeding must remain on whether the
+prohibition on circumvention of
+technological protection measures (such
+as encryption or scrambling) has caused
+any substantial adverse impact on the
+ability of users to make non-infringing
+uses,'' and suggested that ``mere
+inconveniences, or individual cases
+* * * do not rise to the level of a
+substantial adverse impact.'' House
+Manager's Report, at 6.
+4 See also
+Connecticut Department of Public
+Utility Control v. Federal
+Communications Commission, 78 F.3d
+842, 851 (2d Cir. 1996) (``It is reasonable
+VerDate 11<MAY>2000 17:09 Oct 26, 2000 Jkt 194001 PO 00000 Frm 00004 Fmt 4701 Sfmt 4700 E:\FR\FM\27OCR3.SGM pfrm01 PsN: 27OCR3
+
+[PAGE 5]
+64559Federal Register / Vol. 65, No. 209 / Friday, October 27, 2000 / Rules and Regulations
+to characterize as `substantial' the
+burden faced by a party seeking an
+exemption from a general statutory
+rule'').
+Although future adverse impacts may
+also be considered, the Manager's
+Report states that ``the determination
+should be based upon anticipated,
+rather than actual, adverse impacts only
+in extraordinary circumstances in which
+the evidence of likelihood of future
+adverse impact during that time period
+is highly specific, strong and persuasive.
+Otherwise, the prohibition would be
+unduly undermined.'' Id. Although the
+Commerce Committee Report does not
+state how future adverse impacts are to
+be evaluated (apart from a single
+reference stating that in categories
+where adverse impacts have occurred or
+``are likely to occur,'' an exemption
+should be made, Commerce Comm.
+Report at 38), the Committee's
+discussion of ``distinct, verifiable and
+measurable impacts'' suggests that it
+would require a similar showing with
+respect to future adverse impact.
+The legislative history also requires
+the Register and Librarian to disregard
+any adverse effects that are caused by
+factors other than the prohibition
+against circumvention. The House
+Manager's Report is instructive:
+The focus of the rulemaking proceeding
+must remain on whether the prohibition on
+circumvention of technological protection
+measures (such as encryption or scrambling)
+has caused any substantial adverse impact on
+the ability of users to make non-infringing
+uses. Adverse impacts that flow from other
+sources * * * or that are not clearly
+attributable to such a prohibition, are outside
+the scope of the rulemaking.
+House Manager's Report, at 6. The
+House Commerce Committee came to a
+similar conclusion, using similar
+language. Commerce Comm. Report, at
+37.
+In fact, some technological protection
+measures may mitigate adverse effects.
+The House Manager's Report notes that:
+In assessing the impact of the
+implementation of technological measures,
+and of the law against their circumvention,
+the rule-making proceedings should consider
+the positive as well as the adverse effects of
+these technologies on the availability of
+copyrighted materials. The technological
+measuresÐsuch as encryption, scrambling,
+and electronic envelopesÐthat this bill
+protects can be deployed, not only to prevent
+piracy and other economically harmful
+unauthorized uses of copyrighted materials,
+but also to support new ways of
+disseminating copyrighted materials to users,
+and to safeguard the availability of legitimate
+uses of those materials by individuals.
+House Manager's Report, at 6.
+Another mitigating factor may arise
+when a work as to which the copyright
+owner has instituted a technological
+control is also available in formats that
+are not subject to technological
+protections. For example, a work may be
+available in electronic format only in
+encrypted form, but may also be
+available in traditional hard copy format
+which has no such technological
+restrictions on access. The availability
+without restriction in the latter format
+may alleviate any adverse effect that
+would otherwise result from the
+technological controls utilized in the
+electronic format. The availability of
+works in such other formats is to be
+considered when exemptions are
+fashioned. Id. at 7.
+3. Determination of ``Class of Works''
+One of the key issues discussed in
+comments and testimony was how a
+``class'' of works is to be defined. The
+Office's initial notice of inquiry
+highlighted this issue, asking for
+comments from the public on the
+criteria to be used in determining what
+a ``class of works'' is and on whether
+works could be classified in part based
+on the way in which they are being
+used. See questions 16, 17 and 23, 64 FR
+at 66143. A joint submission by a
+number of library associations took the
+position that the Librarian should adopt
+a ``'function-based'' definition of classes
+of works.'' C162, p. 32. The same
+submission stated that ``the class of
+works should be defined, in part,
+according to the ways they are being
+used because that is precisely how the
+limitations on the otherwise exclusive
+rights of copyright holders are phrased,''
+Id., p. 36, and concluded that ``all
+categories of copyrighted works should
+be covered by this rulemaking.'' Id., p.
+38. In contrast, a coalition of
+organizations representing copyright
+owners argued for a narrower approach,
+rejecting a focus on particular types of
+uses of works or on particular access
+control technologies. R112, p. 10. One
+association of copyright owners argued
+that a ``class'' should not be defined by
+reference to any particular medium
+(such as digital versatile discs, or
+DVD's), but rather by reference to ``a
+type or types of works.'' R59, p. 8. Many
+representatives of copyright owners
+repeated the legislative history that ``the
+`particular class of copyrighted works'
+be a narrow and focused subset of the
+broad categories of works of authorship
+than is [sic] identified in section 102 of
+the Copyright Act (17 U.S.C. 102).'' See,
+e.g., Id., (quoting Commerce Comm.
+Report, at 38). A representative of a
+major copyright owner took the position
+that ``defining `classes' of works is
+neither feasible nor appropriate'' and
+that ``[b]efore there is any movement in
+the direction of exempting certain works
+or `classes' of works from the
+prohibition against circumvention,
+those who support such exemption
+should come forward with proof that
+users who desire to make non-infringing
+uses or avail themselves of the fair use
+defense are prevented from doing so by
+the technological protections.'' C43, p.6.
+Based on a review of the statutory
+language and the legislative history, the
+view that a ``class'' of works can be
+defined in terms of the status of the user
+or the nature of the intended use
+appears to be untenable. Section
+1201(a)(1)(B) refers to ``a copyrighted
+work which is in a particular class of
+works.'' Section 1201(a)(1)(C) refers to
+``a particular class of copyrighted
+works.'' Section 1201(a)(1)(D) ``any class
+of copyrighted works.'' This statutory
+language appears to require that the
+Librarian identify a ``class of works''
+based upon attributes of the works
+themselves, and not by reference to
+some external criteria such as the
+intended use or users of the works. The
+dictionary defines ``class'' as ``a group,
+set or kind sharing common attributes.''
+Webster's New Collegiate Dictionary
+211 (1995).
+Moreover, the phrase ``class of works''
+connotes that the common attributes
+relate to the nature of authorship in the
+works. Although the Copyright Act does
+not define ``work,'' the term is used
+throughout the copyright law to refer to
+a work of authorship, rather than to a
+material object on which the work
+appears or to the readers or users of the
+work. See, e.g., 17 U.S.C. 102(a)
+(``Copyright protection subsists, in
+accordance with this title, in original
+works of authorship fixed in any
+tangible medium of expression, * * *)
+(emphasis added) and the catalog of the
+types of works protected by copyright
+set forth in section 102(a)(1)±(8)
+(``literary works,'' ``musical works,''
+``dramatic works,'' etc.).
+Nevertheless, the statutory language is
+arguably ambiguous, and one could
+imagine an interpretation of section
+1201(a)(1) that permitted a class of
+works to be defined in terms of criteria
+having nothing to do with the intrinsic
+qualities of the works. In such a case,
+resort to legislative history might clarify
+the meaning of the statute. In this case,
+the legislative history appears to leave
+no other alternative than to interpret the
+statute as requiring a ``class'' to be
+defined primarily, if not exclusively, by
+reference to attributes of the works
+themselves.
+The Commerce Committee Report
+addressed the issue of determining a
+class of works:
+VerDate 11<MAY>2000 17:24 Oct 26, 2000 Jkt 194001 PO 00000 Frm 00005 Fmt 4701 Sfmt 4700 E:\FR\FM\27OCR3.SGM pfrm01 PsN: 27OCR3
+
+[PAGE 6]
+64560 Federal Register / Vol. 65, No. 209 / Friday, October 27, 2000 / Rules and Regulations
+5 A leading treatise draws the following
+conclusion from this language:
+It would seem, therefore, that the language should
+be applied to discrete subgroups. If users of physics
+textbooks or listeners to Baroque concerti, for
+example, find themselves constricted in the new
+Internet environment, then some relief will lie. If,
+on the other hand, the only unifying feature shared
+by numerous disgruntled users is that each is
+having trouble accessing copyrighted works, albeit
+of different genres, then no relief is warranted. 1
+Nimmer on Copyright § 12A.03[A][[2][b] (Copyright
+Protection Systems Special Pamphlet).
+6 The legislative history of the Copyright Act of
+1976 supports the conclusion that there is a close
+relation between the section 102 categories and a
+``class'' of work. The authoritative report of the
+House Judiciary Committee, in discussing the
+section 102 categories of works, used the term
+``class'' as a synonym for ``category.'' See H.R. Rep.
+No. 94±1476, at 53 (1976).
+The issue of defining the scope or
+boundaries of a ``particular class'' of
+copyrighted works as to which the
+implementation of technological protection
+measures has been shown to have had an
+adverse impact is an important one to be
+determined during the rulemaking
+proceedings. In assessing whether users of
+copyrighted works have been, or are likely to
+be adversely affected, the Secretary shall
+assess users' ability to make lawful uses of
+works ``within each particular class of
+copyrighted works specified in the
+rulemaking.'' The Committee intends that the
+``particular class of copyrighted works'' be a
+narrow and focused subset of the broad
+categories of works of authorship than [sic]
+is identified in section 102 of the Copyright
+Act (17 U.S.C. 102).
+Commerce Comm. Report, at 38.5
+A ``narrow and focused subset of the
+broad categories of works of authorship
+* * * identified in section 102''
+presumably must use, as its starting
+point, the categories of authorship set
+forth in section 102: literary works;
+musical works; dramatic works;
+pantomimes and choreographic works;
+pictorial, graphic, and sculptural works;
+motion pictures and other audiovisual
+works; sound recordings; and
+architectural works.
+Moreover, the Commerce Committee
+Report states that the task in this
+rulemaking proceeding is to determine
+whether the prevalence of access control
+measures, ``with respect to particular
+categories of copyrighted materials, is
+diminishing the ability of individuals to
+use these works in ways that are
+otherwise lawful.'' Commerce Comm.
+Report, at 37 (emphasis added). In fact,
+the Report refers repeatedly to
+``categories'' of works in connection
+with the findings to be made in this
+rulemaking. See Id., at 36 (``individual
+users of a particular category of
+copyrighted materials'') (``whether
+enforcement of the regulation should be
+temporarily waived with regard to
+particular categories of works'') (``any
+particular category of copyrighted
+materials'') (``assessment of adverse
+impacts on particular categories of
+works''), and 38 (``Only in categories as
+to which the Secretary finds that
+adverse impacts have occurred'').
+Because the term ``category'' of works
+has a well-understood meaning in the
+copyright law, referring to the categories
+set forth in section 102, the conclusion
+is inescapable that the starting point for
+any definition of a ``particular class'' of
+works in this rulemaking must be one of
+the section 102 categories.
+6
+The views of the Judiciary Committee
+are in accord with those expressed in
+the Commerce Committee Report. The
+House Manager's Report uses very
+similar words to describe how a ``class
+of works'' is to be determined:
+Deciding the scope or boundaries of a
+``particular class'' of copyrighted works as to
+which the prohibition contained in section
+1201(a)(1) has been shown to have had an
+adverse impact is an important issue to be
+determined during the rulemaking
+proceedings. The illustrative list of categories
+appearing in section 102 of Title 17 is only
+a starting point for this decision. For
+example, the category of ``literary works'' (17
+USC 102(a)(1)) embraces both prose creations
+such as journals, periodicals or books, and
+computer programs of all kinds. It is
+exceedingly unlikely that the impact of the
+prohibition on circumvention of access
+control technologies will be the same for
+scientific journals as it is for computer
+operating systems; thus, these two categories
+of works, while both ``literary works,'' do not
+constitute a single ``particular class'' for
+purposes of this legislation. Even within the
+category of computer programs, the
+availability for fair use purposes of PC-based
+business productivity applications is
+unlikely to be affected by laws against
+circumvention of technological protection
+measures in the same way as the availability
+for those purposes of videogames distributed
+in formats playable only on dedicated
+platforms, so it is probably appropriate to
+recognize different ``classes'' here as well.
+House Manager's Report, at 7.
+The House Manager's Report
+continues:
+At the same time, the Secretary should not
+draw the boundaries of ``particular classes''
+too narrowly. For instance, the section 102
+category ``motion pictures and other
+audiovisual works'' may appropriately be
+subdivided, for purposes of the rulemaking,
+into classes such as ``motion pictures,''
+``television programs,'' and other rubrics of
+similar breadth. However, it would be
+inappropriate, for example, to subdivide
+overly narrowly into particular genres of
+motion pictures, such as Westerns, comedies,
+or live action dramas. Singling out specific
+types of works by creating in the rulemaking
+process ``particular classes'' that are too
+narrow would be inconsistent with the intent
+of this bill.
+Id.
+The conclusion to be drawn from the
+legislative history is that the section 102
+categories of works are, at the very least,
+the starting point for any determination
+of what a ``particular class of work''
+might be. That is not to say that a
+``class'' of works must be identical to a
+``category.'' In fact, that usually will not
+be the case. A ``class'' of works might
+include works from more than one
+category of works; one could imagine a
+``class'' of works consisting of certain
+sound recordings and musical
+compositions, for example. More
+frequently, a ``class'' would constitute
+some subset of a section 102 category,
+such as the Judiciary Committee's
+example of ``television programs.''
+A rigid adherence to defining ``class''
+solely by reference to section 102
+categories or even to inherent attributes
+of the works themselves might lead to
+unjust results in light of the fact that the
+entire ``class'' must be exempted from
+section 1201(a)(1)'s anticircumvention
+provision if the required adverse impact
+is demonstrated. For example, if a
+showing had been made that users of
+motion pictures released on DVD's are
+adversely affected in their ability to
+make noninfringing uses of those works,
+it would be unfortunate if the
+Librarian's only choice were to exempt
+motion pictures. Limiting the class to
+``motion pictures distributed on DVD's,''
+or more narrowly to ``motion pictures
+distributed on DVD's using the content
+scrambling system of access control''
+would be a more just `` and permissible
+`` classification. Such a classification
+would begin by reference to attributes of
+the works themselves, but could then be
+narrowed by reference to the medium
+on which the works are distributed, or
+even to the access control measures
+applied to them. But classifying a work
+solely by reference to the medium on
+which the work appears, or the access
+control measures applied to the work,
+seems to be beyond the scope of what
+``particular class of work'' is intended to
+be. And classifying a work by reference
+to the type of user or use (e.g., libraries,
+or scholarly research) seems totally
+impermissible when administering a
+statute that requires the Librarian to
+create exemptions based on a
+``particular class of works.'' If Congress
+had wished to provide for exemptions
+based on the status of the user or the
+nature of the useÐcriteria that would be
+very sensibleÐCongress could have said
+so clearly. The fact that the issue of
+noninfringing uses was before Congress
+and the fact that Congress clearly was
+seeking, in section 1201, to create
+exemptions that would permit
+noninfringing uses, make it clear that
+VerDate 11<MAY>2000 17:24 Oct 26, 2000 Jkt 194001 PO 00000 Frm 00006 Fmt 4701 Sfmt 4700 E:\FR\FM\27OCR3.SGM pfrm01 PsN: 27OCR3
+
+[PAGE 7]
+64561Federal Register / Vol. 65, No. 209 / Friday, October 27, 2000 / Rules and Regulations
+Congress had every opportunity and
+motive to clarify that such uses could be
+ingredients of the definition of ``class''
+if that was what Congress intended. Yet
+the fact that Congress selected language
+in the statute and legislative history that
+avoided suggesting that classes of works
+could be defined by reference to users
+or uses is strong evidence that such
+classification was not within Congress'
+contemplation.
+In this rulemaking, exemptions for
+two classes of works are recommended.
+The first class, ``Compilations consisting
+of lists of websites blocked by filtering
+software applications,'' fits comfortably
+within the approach to classification
+outlined herein. The second class,
+``Literary works, including computer
+programs and databases, protected by
+access control mechanisms that fail to
+permit access because of malfunction,
+damage or obsoleteness,'' is a somewhat
+less comfortable fit. It includes all
+literary works (a section 102 category)
+and specifically mentions two
+subclasses of literary works, but narrows
+the exemption by reference to attributes
+of the technological measures that
+control access to the works. Such
+classification probably reaches the outer
+limits of a permissible definition of
+``class'' under the approach adopted
+herein.
+B. Consultation With Assistant Secretary
+of Commerce for Communications and
+Information
+As is required by section
+1201(a)(1)(C), the Register has consulted
+with the Assistant Secretary for
+Communications and Information in the
+Department of Commerce. The Assistant
+Secretary is the Administrator of the
+National Telecommunciations and
+Information Administration (NTIA).
+Discussions with the Assistant Secretary
+and the NTIA staff have taken place
+throughout this rulemaking process. In
+furtherance of the consultative process,
+on September 29, 2000, the Assistant
+Secretary presented a letter to the
+Register detailing his views. That letter
+has been forwarded to the Librarian.
+After full and thorough consideration of
+and discussions with the Assistant
+Secretary's office on these views, the
+Register includes the following report
+and comment on the Assistant
+Secretary's perspective in this
+recommendation to the Librarian.
+The Assistant Secretary stated that his
+principal concern is to ensure that the
+Librarian will preserve fair use
+principles in this new digital age. The
+concerns expressed in his letter quoted
+from and restated many of the concerns
+that were presented in the House
+Commerce Committee Report. The
+Assistant Secretary noted that the
+Commerce Committee was concerned
+that the anticircumvention prohibition
+of section 1201(a)(1) might have adverse
+consequences on fair uses of
+copyrighted works protected by
+technological protection measures,
+particularly by librarians and educators.
+He echoed the fears of the Commerce
+Committee that a legal framework may
+be developing that would ``inexorably
+create a pay-per-use society.'' He stated
+that the ``right'' to prohibit
+circumvention should be qualified in
+order to maintain a balance between the
+interests of content creators and
+information users, by means of carefully
+drawn exemptions from the
+anticircumvention provision.
+Since fair use, as codified in 17 U.S.C.
+107, is not a defense to the cause of
+action created by the anticircumvention
+prohibition of section 1201, the
+Assistant Secretary urges the Register to
+follow the House Commerce
+Committee's intent to provide for
+exemptions analogous to fair use. He
+advises the Register to preserve fair use
+principles by crafting exemptions that
+are grounded in these principles in
+order to promote inclusion of all parts
+of society in the digital economy and
+prevent a situation in which
+information crucial to supporting
+scholarship, research, comment,
+criticism, news reporting, life-long
+learning, and other related lawful uses
+of copyrighted information is available
+only to those with the ability to pay or
+the expertise to negotiate advantageous
+licensing terms.
+The Assistant Secretary expresses
+support for commenters in this
+proceeding who believed that the term
+``class'' should not be interpreted as
+``coextensive'' with categories of
+original works of authorship, as that
+term is used in section 102(a) of the
+Copyright Act. He states that since the
+statute and legislative history provide
+little guidance on the meaning of the
+term ``class of works'' and since section
+1201(a)(1)(C) instructs the Librarian to
+examine considerations of use that are
+similar to fair use analysis, the classes
+of exempted works should be fashioned
+based on a factual examination of the
+uses to which copyrighted materials are
+put.
+In order to craft an exemption that
+will preserve fair uses, he concludes
+that the determination of exempted
+classes of works should include a
+factual examination of the uses to which
+copyrighted materials are put. With this
+in mind, he endorses, ``as a starting
+point, the exception proposed by the
+library and academic communities.'' In
+particular, he would support the
+crafting of the following exemption:
+``Works embodied in copies that have
+been lawfully acquired by users or their
+institutions who subsequently seek to
+make noninfringing uses thereof.''
+The Register has subsequently sought
+and received clarification of some of the
+points made in the Assistant Secretary's
+letter. In particular, the Register has
+asked (1) for the Assistant Secretary's
+views on whether a ``class of works'' can
+be defined or determined by reference to
+the uses of the works in that class,
+rather than by reference to attributes of
+the works themselves, and (2) that the
+Assistant Secretary identify any
+comments or testimony in the record of
+this rulemaking proceeding that he
+believes presented any evidence that
+technological measures that control
+access to copyrighted works actually
+have caused or in the next three years
+will cause substantial adverse impacts
+on the ability of users to make
+noninfringing uses of works in the
+proposed class of works that he has
+endorsed.
+With respect to how a ``class of
+works'' is to be defined or determined,
+NTIA responded by stating that fair use
+has to be a part of any discussion
+focusing on exemptions to the DMCA's
+anticircumvention prohibition, and that
+because the principle of fair use is
+grounded in a factual examination of the
+use to which copyrighted materials are
+put, it would be reasonable to include
+a similar examination in fashioning a
+class of excepted works under
+1201(a)(1)(C).
+In response to the request to identify
+comments and testimony that present
+evidence of substantial adverse impacts
+on the ability of users to make
+noninfringing uses of ``works embodied
+in copies that have been lawfully
+acquired by users or their institutions
+who subsequently seek to make
+noninfringing uses thereof,'' NTIA cited
+one comment and the testimony of
+several witnesses. NTIA also questioned
+whether a showing of ``substantial''
+adverse impact is required, observing
+that ``Nowhere in section 1201(a)(1)(C)
+does the word ``substantial'' appear''
+and asserting that a showing of
+``reasonably anticipated impacts''
+should be sufficient.
+The views of the Assistant Secretary
+have been seriously considered in the
+preparation of these recommendations
+to the Librarian. Because the exemption
+endorsed by the Assistant Secretary (see
+discussion above) is not supported in
+this recommendation, an explanation of
+the reasons is in order.
+At the outset of these comments on
+the Assistant Secretary's views, it
+should be understood that there is no
+VerDate 11<MAY>2000 17:09 Oct 26, 2000 Jkt 194001 PO 00000 Frm 00007 Fmt 4701 Sfmt 4700 E:\FR\FM\27OCR3.SGM pfrm01 PsN: 27OCR3
+
+[PAGE 8]
+64562 Federal Register / Vol. 65, No. 209 / Friday, October 27, 2000 / Rules and Regulations
+disagreement with the Assistant
+Secretary or the Commerce Committee
+on the need to preserve the principles
+of fair use and other noninfringing uses
+in the digital age. The Register's
+disagreement with the Assistant
+Secretary's proposals arises from the
+interpretation of both the statutory
+language of section 1201(a)(1)(C) and a
+review of the record in this proceeding.
+First, the Assistant Secretary's
+proposals are based onÐand necessarily
+require adoption ofÐan interpretation
+of the statutory phrase ``particular class
+of copyrighted works'' that the Register
+cannot support. As stated above in
+section III.A.3, a ``particular class of
+copyrighted works'' must relate
+primarily to attributes of the
+copyrighted works themselves and not
+to factors that are external to the works,
+e.g., the material objects on which they
+are fixed or the particular technology
+employed on the works. Similarly,
+neither the language of the statute nor
+the legislative history provide a basis for
+an interpretation of an exemption of a
+class of works that is ``use-oriented.''
+While the Register was required to
+``examine'' the present or likely adverse
+effects on uses, and in particular
+noninfringing uses, that inquiry had the
+express goal of designating exemptions
+that were based on classes of
+copyrighted works. The only examples
+cited and guidance provided in the
+legislative history lead the Register to
+conclude that a class must be defined
+primarily by reference to attributes of
+the works themselves, typically based
+upon the categories set forth in section
+102(a) or some subset thereof, e.g.,
+motion pictures or video games.
+As NTIA observes, it is appropriate to
+examine the impact of access control
+measures on fair use in determining
+what classes of works, if any, should be
+subject to an exemption. But the
+Assistant Secretary has not explained
+how a ``class of works'' can be defined
+or determined without any reference
+whatsoever to attributes of the works
+themselves, and solely by reference to
+the status of the persons who acquire
+copies of those works. While fair use is
+relevant in determining what classes
+should be exempted, its relevance
+relates to the inquiry whether users of
+a particular class of works (as defined
+above, in section III.A.3.) are adversely
+affected in their ability to make
+noninfringing uses (such as fair use) of
+works in that class.
+The specific exemption endorsed by
+the Assistant Secretary, and the reasons
+why that exemption cannot be adopted,
+are discussed below. See section III.E.9.
+Those reasons will not be repeated at
+length here. As already noted, the
+proposal does not constitute a
+``particular class of copyrighted work''
+as required by the statute. Moreover, the
+record does not reveal that there have
+been adverse effects on noninfringing
+uses that such an exemption would
+remedy. Finally, this approach would,
+in effect, revive a version of section
+1201(a)(1) focusing on persons who
+have gained initial lawful access that
+was initially enacted by the House of
+Representatives but ultimately rejected
+by Congress.
+NTIA's observation that the word
+``substantial'' does not appear in section
+1201(a)(1)(C) does not require the
+conclusion, suggested by NTIA, that a
+showing of substantial harm is not
+required. As noted above (section
+III.A.2) the House Manager's Report
+states that the focus of this rulemaking
+should be on whether the prohibition on
+circumvention of technological
+protection measures has had a
+substantial adverse impact on the ability
+of users to make non-infringing uses.
+Although the Commerce Committee
+Report does not use the word
+substantial, its direction to make
+exemptions based upon ``distinct,
+verifiable, and measurable impacts, and
+* * * not * * * upon de minimis
+impacts' requires a similar showing.
+Moreover, while NTIA asserts that an
+exemption may be made based on a
+finding of ``likely adverse effects'' or
+``reasonably anticipated impacts,'' it
+appears that a similar showing of
+substantial likelihood is required with
+respect to such future harm. See section
+III.A.2 above. ``Likely''Ðthe term used
+in section 1201 to describe the showing
+of future harm that must be madeÐ
+means ``probable,'' ``in all probability,''
+or ``having a better chance of existing or
+occurring than not.'' Black's Law
+Dictionary 638 (Abridged 6th ed. 1991).
+The comments and testimony
+identified by NTIA in support of the
+exemption are discussed below in
+section III.E.9.
+For the foregoing reasons, the
+Assistant Secretary, in supporting this
+exemption proposed by libraries and
+educators, endorses an exemption that
+is beyond the scope of the Librarian's
+authority. While the proposed
+exemption addresses important
+concerns, it is a proposal that would be
+more appropriately suited for legislative
+action rather than for the regulatory
+process set forth in section 1201(a)(1)(C)
+and (D). In the absence of clarification
+by Congress, a ``particular class of
+works'' cannot be interpreted so
+expansively.
+Some of the issues raised by the
+Assistant Secretary are also likely to be
+addressed in a joint study by the
+Assistant Secretary and the Register
+pursuant to section 104 of the DMCA.
+See 65 FR 35673 (June 5, 2000). It is
+possible that this study will result in
+legislative recommendations that might
+more appropriately resolve the issues
+raised by the Assistant Secretary.
+C. Conclusions Regarding This
+Rulemaking and Summary of
+Recommendations
+After reviewing all of the comments
+and the testimony of the witnesses who
+appeared at the hearings, the Register
+concludes that a case has been made for
+exemptions relating to two classes of
+works:
+(1) Compilations consisting of lists of
+websites blocked by filtering software
+applications; and
+(2) Literary works, including
+computer programs and databases,
+protected by access control mechanisms
+that fail to permit access because of
+malfunction, damage or obsoleteness.
+These recommendations may seem
+modest in light of the sweeping
+exemptions proposed by many
+commenters and witnesses, but they are
+based on a careful review of the record
+and an application of the standards
+governing this rulemaking procedure.
+While many commenters and witnesses
+made eloquent policy arguments in
+support of exemptions for certain types
+of works or certain uses of works, such
+arguments in most cases are more
+appropriately directed to the legislator
+rather than to the regulator who is
+operating under the constraints imposed
+by section 1201(a)(1).
+Many of the proposed classes do not
+qualify for exemption because they are
+not true ``classes of works'' as described
+above in section III.A.3. The proposed
+exemptions discussed below in section
+III.E.2, 5, 6, 7, 8, and 9 all suffer from
+that frailty to varying degrees. In many
+cases, proponents attempted to define
+classes of works by reference to the
+intended uses to be made of the works,
+or the intended user. These criteria do
+not define a ``particular class of
+copyrighted work.''
+For almost all of the proposed classes,
+the proponents failed to demonstrate
+that there have been or are about to be
+adverse effects on noninfringing uses
+that have ``distinct, verifiable, and
+measurable impacts.'' See Commerce
+Comm. Report, at 37. In most cases,
+those proponents who presented actual
+examples or experiences with access
+control measures presented, at best,
+cases of ``mere inconveniences, or
+individual cases, that do not rise to the
+level of a substantial adverse impact.''
+See House Manager's Report, at 6. As
+one leading proponent of exemptions
+VerDate 11<MAY>2000 17:09 Oct 26, 2000 Jkt 194001 PO 00000 Frm 00008 Fmt 4701 Sfmt 4700 E:\FR\FM\27OCR3.SGM pfrm01 PsN: 27OCR3
+
+[PAGE 9]
+64563Federal Register / Vol. 65, No. 209 / Friday, October 27, 2000 / Rules and Regulations
+7 One witness testified that ``there have been
+times that we've had to circumvent,'' but on
+examination, it appears that the example the
+witness gave would not constitute circumvention of
+an access control measure. See T Gasaway, 5/18/00,
+pp. 49±50.
+admitted, the inquiry into whether users
+of copyrighted works are likely to be
+adversely effected by the full
+implementation of section 1201(a)(1) is
+necessarily ``speculative since it entails
+a prediction about the future.'' T Jaszi,
+5/2/00, pp. 11±12.
+It should come as no surprise that the
+record supports so few exemptions. The
+prohibition on circumventing access
+control measures is not yet even in
+effect. Witnesses who asserted the need
+to circumvent access control measures
+were unable to cite any actual cases in
+which they or others had circumvented
+access controls despite the fact that such
+circumvention will not be unlawful
+until October 28, 2000. T Neal, 5/4/00,
+p. 103; T Cohen, 5/4/00, pp. 100±01.
+7
+The legislative history reveals that
+Congress anticipated that exemptions
+would be made only in exceptional
+cases. See House Manager's Report, at 8
+(it is ``not required to make a
+determination under the statute with
+respect to any class of copyrighted
+works. In any particular 3-year period,
+it may be determined that the
+conditions for the exemption do not
+exist. Such an outcome would reflect
+that the digital information marketplace
+is developing in the manner which is
+most likely to occur, with the
+availability of copyrighted materials for
+lawful uses being enhanced, not
+diminished, by the implementation of
+technological measures and the
+establishment of carefully targeted legal
+prohibitions against acts of
+circumvention.''); Commerce Comm.
+Report, at 36 (``Still, the Committee is
+concerned that marketplace realities
+may someday dictate a different
+outcome, resulting in less access * * *.
+In this scenario, it could be appropriate
+to modify the flat prohibition against the
+circumvention of effective technological
+measures that control access to
+copyrighted materials * * *.''; ``a `` failsafe mechanism'' is required'; ``This
+mechanism would * * * allow the
+enforceability of the prohibition against
+the act of circumvention to be
+selectively waived, for limited time
+periods, if necessary to prevent a
+diminution in the availability to
+individual users of a particular category
+of copyrighted materials.'') (emphasis
+added).
+The two recommended exemptions do
+constitute ``particular classes of
+copyrighted works,'' and genuine harm
+to the ability to engage in noninfringing
+activity has been demonstrated. These
+exemptions will remain in effect for
+three years. In the next rulemaking, they
+will be examined de novo, as will any
+other proposed exemption including
+exemptions that were rejected in this
+proceeding. If, in the next three years,
+copyright owners impose access
+controls in unreasonable ways that
+adversely affect the ability of users to
+engage in noninfringing uses, it is likely
+that the next rulemaking will result in
+more substantial exemptions.
+Ultimately, the task in this
+rulemaking proceeding is to balance the
+benefits of technological measures that
+control access to copyrighted works
+against the harm caused to users of
+those works, and to determine, with
+respect to any particular class of works,
+whether an exemption is warranted
+because users of that class of works have
+suffered significant harm in their ability
+to engage in noninfringing uses. See
+House Managers Report at 7 (decision
+``should give appropriate weight to the
+deployment of such technologies in
+evaluating whether, on balance, the
+prohibition against circumvention of
+technological measures has caused an
+adverse impact on the specified
+categories of users of any particular
+class of copyrighted materials''). The
+four factors specified in section
+1201(a)(1)(C) reflect some of the
+significant considerations that must be
+balanced: Are access control measures
+increasing or restricting the availability
+of works to the public in general? What
+impact are they having on the nonprofit
+archival, preservation, and educational
+activities? What impact are they having
+on the ability to engage in fair use? To
+what extent is circumvention of access
+controls affecting the market for and
+value of copyrighted works?
+The information submitted in this, the
+first rulemaking proceeding under
+section 1201(a)(1), indicates that in most
+cases thus far the use of access control
+measures has sometimes enhanced the
+availability of copyrighted works and
+has rarely impeded the ability of users
+of particular classes of works to make
+noninfringing uses. With the exception
+of the two classes recommended for
+exemption, the balance of all relevant
+considerations favors permitting the
+prohibition against circumvention to go
+into effect as scheduled.
+Licensing
+Many of the complaints aired in this
+rulemaking actually related primarily to
+licensing practices rather than
+technological measures that control
+access to works. Some witnesses
+expressed concerns about overly
+restrictive licenses, unwieldy licensing
+terms, restrictions against use by
+unauthorized users, undesirable terms
+and prices, and other licensing
+restrictions enforced by technological
+protection measures. See, e.g., T
+Gasaway, 5/18/00; T Coyle, 5/18/00; T
+Weingarten, 5/19/00. One of these
+witnesses admitted that ``some of the
+concerns today are just pure licensing
+concerns.'' T Gasaway, 5/18/00, p. 65.
+It appears that in those cases, the
+licensees often had the choice of
+negotiating licenses for broader use, but
+did not choose to do so. See T. Clark,
+5/3/00, p. 99, T Neal, 5/4/00, p. 133, T
+Gasaway, 5/18/00, p. 38. Commenters
+and witnesses who complained about
+licensing terms did not demonstrate that
+negotiating less restrictive licenses that
+would accommodate their needs has
+been or will be prohibitively expensive
+or burdensome. Nor has there been a
+showing that unserved persons not
+permitted to gain access under a
+particular license (e.g., a member of the
+public wishing to gain access to material
+at a university library when the library's
+license restricts access to students and
+faculty) could not obtain access to the
+restricted material in some other way or
+place.
+It is appropriate to consider harm
+emanating from licensing in
+determining whether users of works
+have been adversely affected by the
+prohibition on circumvention in their
+ability to make noninfringing uses. This
+triennial rulemaking is to ``monitor
+developments in the marketplace for
+copyrighted materials,'' Commerce
+Comm. Report, at 36, and developments
+in licensing practices are certainly
+relevant to that inquiry. If, for example,
+licensing practices with respect to
+particular classes of works make it
+prohibitively burdensome or expensive
+for users, such as libraries and
+educational institutions, to negotiate
+terms that will permit the noninfringing
+uses, and if the effect of such practices
+is to diminish unjustifiably access for
+lawful purposes, see Commerce Comm.
+Report, at 36, exemptions for such
+classes may be justified. If copyright
+owners flatly refuse to negotiate
+licensing terms that users need in order
+to engage in noninfringing uses, an
+exemption may be justified. But such a
+case has not been made in this
+proceeding.
+Many commenters expressed
+concerns that, in the words of one
+witness, we are ``on the brink of a payper-use universe.'' T Jaszi, 5/2/00, p. 70.
+The Assistant Secretary for
+Communications and Information
+shares that concern, observing that the
+Commerce Committee Report had
+warned against the development of a
+VerDate 11<MAY>2000 17:09 Oct 26, 2000 Jkt 194001 PO 00000 Frm 00009 Fmt 4701 Sfmt 4700 E:\FR\FM\27OCR3.SGM pfrm01 PsN: 27OCR3
+
+[PAGE 10]
+64564 Federal Register / Vol. 65, No. 209 / Friday, October 27, 2000 / Rules and Regulations
+``legal framework that would inexorably
+create a `pay-per-use' society.'' See
+Commerce Comm. Report, at 26.
+However, a ``pay-per-use'' business
+model may be, in the words of the
+House Manager's Report, ``usefacilitating.'' House Manager's Report, at
+7. The Manager's Report refers to access
+control technologies that are ``designed
+to allow access during a limited time
+period, such as during a period of
+library borrowing'' or that allow ``a
+consumer to purchase a copy of a single
+article from an electronic database,
+rather than having to pay more for a
+subscription to a journal containing
+many articles the consumer does not
+want.'' Id. For example, if consumers
+are given a choice between paying $100
+for permanent access to a work or $2 for
+each individual occasion on which they
+access the work, many will probably
+find it advantageous to elect the ``payper-use'' option, which may make
+access to the work much more widely
+available than it would be in the
+absence of such an option. The
+comments and testimony of
+SilverPlatter Information Inc.,
+demonstrate that the flexibility offered
+by such ``persistent'' access controls can
+actually enhance use. Of course, one can
+imagine pay-per-use scenarios that are
+likely to make works less widely
+available as well.
+The record in this proceeding does
+not reveal that ``pay-per-use'' business
+models have, thus far, created the
+adverse impacts on the ability of users
+to make noninfringing uses of
+copyrighted works that would justify
+any exemptions from the prohibition on
+circumvention. If such adverse impacts
+occur in the future, they can be
+addressed in a future rulemaking
+proceeding.
+D. The Two Exemptions
+1. Compilations Consisting of Lists of
+Websites Blocked by Filtering Software
+Applications
+Certain software products, often
+known as ``filtering software'' or
+``blocking software,'' restrict users from
+visiting certain internet websites. These
+software products include compilations
+consisting of lists of websites to which
+the software will deny access. Schools,
+libraries, and parents may choose to use
+such software for the purpose of
+preventing juveniles' access to
+pornography or other explicit or
+inappropriate materials on their
+computers. R56. At least one court that
+has addressed the use of such software
+has concluded that requiring use of the
+software in public libraries offends the
+First Amendment. See, e.g., Mainstream
+Loudoun v. Board of Trustees of the
+Loudoun County Library, 24 F. Supp. 2d
+552 (E.D. Va. 1998). See also Tenn. Op.
+Atty. Gen. No. 00±030 (2000). On the
+other hand, the Supreme Court has
+suggested that availability of such
+software for use by parents to prevent
+their children from gaining access to
+objectionable websites is a positive
+development. Reno v. American Civil
+Liberties Union, 521 U.S. 844, 876±77
+(1997); United States v. Playboy
+Entertainment Group, Inc., 120 S.Ct.
+1878, 1887 (2000).
+Critics charge that some filtering
+programs unfairly block sites that do not
+contain undesirable material and
+therefore should not be filtered. One
+commenter alleged that such programs
+have an error rate of 76%. R56 at 6.
+Another commenter described the ``long
+history of errors in blocking sites,'' and
+asserted that the software manufacturers
+have not responded appropriately. R26.
+The names of blocked websites are
+compiled into lists which are protected
+by copyright as compilations. Several
+commenters assert that manufacturers of
+filtering software encrypt the lists
+naming the targeted sites and that they
+are not made available to others,
+including the operators of the targeted
+sites themselves. R56. These
+commenters assert that they have no
+alternative but to decrypt the encrypted
+lists in order to learn what websites are
+included in those lists. Persons have
+already decrypted the lists for the
+purpose of commenting on or criticizing
+them. R56. One commenter cites an
+injunction against authors of a program
+decrypting the list of blocked websites.
+R26. See Microsystems Software, Inc. v.
+Scandinavia Online AB, No. 00±1503
+(1st Cir. Sept. 27, 2000). Such acts of
+decryption would appear to violate
+1201(a)(1) if it took effect without an
+exemption for these activities.
+This does appear to present a problem
+for users who want to make
+noninfringing uses of such
+compilations, because reproduction or
+display of the lists for the purpose of
+criticizing them could constitute fair
+use. The interest in accessing the lists in
+order to critique them is demonstrated
+by court cases, websites devoted to the
+issue, and a fair number of commenters.
+See generally R73 (Computer
+Professionals for Social Responsibility);
+R38; PH20; and PH5 (California
+Association of Library Trustees and
+Commissioners, reverse filtering); WS
+Vaidhyanathan. There is uncontroverted
+evidence in this record that the lists are
+not available elsewhere. No evidence
+has been presented that there is not a
+problem with respect to lists of websites
+blocked by filtering software, or that
+permitting circumvention of
+technological measures that control
+access to such lists would have a
+negative impact on any of the factors set
+forth in section 1201(A)(1)(C). The
+commenters assert that there is no other
+legitimate way to obtain access to this
+information. No one else on the record
+has asserted otherwise.
+A review of the factors listed in
+1201(a)(1)(C) supports the creation of
+this exemption. Although one can
+speculate that the availability of
+technological protection measures that
+deny access to the lists of blocked
+websites might be of benefit to the
+proprietors of filtering software, and
+might even increase the willingness of
+those proprietors to make the software
+available for use by the public, no
+commenters or witnesses came forward
+to make such an assertion. No
+information was presented relating to
+the use of either the filtering software or
+the lists of blocked websites for
+nonprofit archival, preservation and
+educational purposes. Nor was any
+information presented relating to
+whether the circumvention of
+technological measures preventing
+access to the lists has had an impact on
+the market for or value of filtering
+software or the compilations of
+objectionable websites contained
+therein. However, a persuasive case was
+made that the existence of access
+control measures has had an adverse
+effect on criticism and comment, and
+most likely news reporting, and that the
+prohibition on circumvention of access
+control measures will have an adverse
+effect.
+Thus, it appears that the prohibition
+on circumvention of technological
+measures that control access to these
+lists of blocked sites will cause an
+adverse effect on noninfringing users
+since persons who wish to criticize and
+comment on them cannot ascertain
+which sites are contained in the lists
+unless they circumvent. The case has
+been made for an exemption for
+compilations consisting of lists of
+websites blocked by filtering software
+applications.
+2. Literary Works, Including Computer
+Programs and Databases, Protected by
+Access Control Mechanisms That Fail to
+Permit Access Because of Malfunction,
+Damage or Obsoleteness
+This designation of class of works is
+intended to exempt users of software,
+databases and other literary works in
+digital formats who are prevented from
+accessing such works because the access
+control protections are not functioning
+in the way that they were intended. In
+the course of this rulemaking
+VerDate 11<MAY>2000 17:09 Oct 26, 2000 Jkt 194001 PO 00000 Frm 00010 Fmt 4701 Sfmt 4700 E:\FR\FM\27OCR3.SGM pfrm01 PsN: 27OCR3
+
+[PAGE 11]
+64565Federal Register / Vol. 65, No. 209 / Friday, October 27, 2000 / Rules and Regulations
+proceeding, a number of users, and in
+particular consumers of software and
+users of compilations, expressed
+concerns about works which they could
+not access even though they were
+authorized users, due to the failure of
+access control mechanisms to function
+properly.
+Substantial evidence was presented
+on this issue, in particular relating to
+the use of ``dongles,'' hardware locks
+attached to a computer that interact
+with software programs to prevent
+unauthorized access to that software.
+C199. One commenter attached
+numerous letters and news articles to
+his submission and testimony,
+documenting the experience of users
+whose dongles become damaged or
+malfunction. It appears that in such
+instances, the vendors of the software
+may be nonresponsive to requests to
+replace or repair the dongle, or may
+require the user to purchase either a
+new dongle or an entirely new software
+package, usually at a substantial cost. In
+some cases, the vendors have gone out
+of business, and the user has had no
+recourse for repair or replacement of the
+dongle.
+Libraries and educational institutions
+also stated that they have experienced
+instances where materials they obtained
+were protected by access controls that
+subsequently malfunctioned, and they
+could not obtain timely relief from the
+copyright owner. R34, R75 (National
+Library of Medicine), R111 (National
+Agricultural Library). Similarly,
+libraries stated that there have been
+instances where material has been
+protected by technological access
+protections that are obsolete or are no
+longer supported by the copyright
+owner. Id.
+No evidence has been presented to
+contradict the evidence of problems
+with malfunctioning, damaged or
+obsolete technological measures. Nor
+has evidence been presented that the
+marketplace is likely to correct this
+problem in the next three years.
+This appears to be a genuine problem
+that the market has not adequately
+addressed, either because companies go
+out of business or because they have
+insufficient incentive to support access
+controls on their products at some point
+after the initial sale or license. In cases
+where legitimate users are unable to
+access works because of damaged,
+malfunctioning or obsolete access
+controls, the access controls are not
+furthering the purpose of protecting the
+work from unauthorized users. Rather,
+they are preventing authorized users
+from getting the access to which they
+are entitled. This prevents them from
+making the noninfringing uses they
+could otherwise make. This situation is
+particularly troubling in the context of
+libraries and educational institutions,
+who may be prevented from engaging in
+noninfringing uses of archiving and
+preservation of works protected by
+access controls that are obsolete or
+malfunctioning. In effect, it puts such
+users in a position where they cannot
+obtain access; nor, under 1201(a)(1),
+would they be permitted to circumvent
+the access controls to make noninfringing uses of the work unless they
+fall within an exemption.
+Not only does such a result have an
+adverse impact on noninfringing uses,
+but it also does not serve the interests
+of copyright owners that 1201(a)(1) was
+meant to protect. In almost all cases
+where this exemption will apply, the
+copyright owner will already have been
+compensated for access to the work. It
+is only when the access controls
+malfunction that the exemption will
+come into effect. This does not cause
+significant harm to the copyright owner.
+Moreover, authorized users of such
+works are unlikely to circumvent the
+access controls unless they have first
+sought but failed to receive assistance
+from the copyright owner, since
+circumvention is likely to be more
+difficult and time-consuming than
+obtaining assistance from a copyright
+owner who is responsive to the needs of
+customers. Only as a fallback will most
+users attempt to circumvent the access
+controls themselves.
+Although it might be tempting to
+describe this class as ``works protected
+by access control mechanisms that fail
+to permit access because of malfunction,
+damage or obsoleteness,'' that would not
+appear to be a legitimate class under
+section 1201 because it would be
+defined only by reference to the
+technological measures that are applied
+to the works, and not by reference to
+any intrinsic qualities of the works
+themselves. See the discussion of
+``works'' above in section III.A.3. The
+evidence in this rulemaking of
+malfunctioning, damaged or obsolete
+technological protection measures has
+related to software (dongles) and, in the
+cases raised by representatives of
+libraries, to compilations of literary
+works and databases. Therefore, this
+class of works is defined primarily in
+terms of such literary works, and
+secondarily by reference to the faulty
+technological protection measures.
+Although this exemption fits within
+the parameters of the term ``class of
+works'' as described by Congress, it
+probably reaches the limits of those
+parameters. The definition of the class
+does start with a section 102 category of
+worksÐliterary works. It then narrows
+that definition by reference to attributes
+of access controls that sometimes
+protect those worksÐi.e., the failure of
+those access controls to function as
+intended. But in reality, this exemption
+addresses a problem that could be
+experienced by users in accessing all
+classes of copyrighted works. This
+subject matter is probably more suitable
+for a legislative exemption, and the
+Register recommends that Congress
+consider amending section 1201 to
+provide a statutory exemption for all
+works, regardless of what class of work
+is involved, that are protected by access
+control mechanisms that fail to permit
+access because of malfunction, damage
+or obsoleteness. Meanwhile, because
+genuine harm has been demonstrated in
+this rulemaking proceeding and because
+it is possible to define a class of works
+that fits within the framework of section
+1201(a)(1)(B), (C) and (D), the Register
+recommends that the Librarian exempt
+this class of works during the first three
+years in which section 1201(a)(1) is in
+effect. But the fact that sufficient harm
+has been found to justify this exemption
+for this three-year period will not
+automatically justify a similar
+exemption in the next triennial
+rulemaking. In fact, if there were a
+showing in the next rulemaking
+proceeding that faulty access controls
+create adverse impacts on noninfringing
+uses of all categories of works, such a
+showing could, parodoxically, result in
+the conclusion that the problem is not
+one that can be resolved pursuant to
+section 1201(a)(1)(C) and (D), which
+anticipates exemptions only for ``a
+particular class of works.'' A legislative
+resolution of this problem is preferable
+to a repetition of the somewhat ill-fitting
+regulatory approach adopted herein.
+The class of works covers literary
+worksÐand is applicable in particular
+to computer programs, databases and
+other compilationsÐprotected by access
+controls that fail to permit access
+because of damage, malfunction or
+obsoleteness. The terms ``damage'' and
+``malfunction'' are fairly selfexplanatory, and would apply to any
+situation in which the access control
+mechanism does not function in the
+way in which it was intended to
+function. For definition of the term
+``obsolete,'' it is instructive to look to
+section 108(c), which also addresses the
+issue of obsoleteness. For the purposes
+of section 108, ``a format shall be
+considered obsolete if the machine or
+device necessary to render perceptible a
+work stored in that format is no longer
+manufactured or is no longer reasonably
+available in the commercial
+marketplace.'' In the context of this
+VerDate 11<MAY>2000 17:09 Oct 26, 2000 Jkt 194001 PO 00000 Frm 00011 Fmt 4701 Sfmt 4700 E:\FR\FM\27OCR3.SGM pfrm01 PsN: 27OCR3
+
+[PAGE 12]
+64566 Federal Register / Vol. 65, No. 209 / Friday, October 27, 2000 / Rules and Regulations
+8 One commenter suggested an exemption for
+``compilations and other works that incorporate
+works in the public domain, unless the compilation
+or work was marked in such a way as to allow
+identification of public domain elements and
+separate circumvention of the technological
+measures that controlled access to those elements.''
+PH4 (Ginsburg). While this approach could address
+some of the concerns raised by proponents, it is
+unclear whether it would be technologically
+feasible for copyright owners to implement.
+Furthermore, as discussed below, the Register has
+not yet been presented with evidence that there
+have been or are likely to be adverse impacts in this
+area.
+rulemaking, an access control should be
+considered obsolete in analogous
+circumstances.
+An exemption for this class, however,
+would not cover several other types of
+problems that commenters presented.
+For example, a commenter describing
+the problems experienced by users of
+damaged or malfunctioning dongles
+noted that similar problems occur when
+dongles become lost or are stolen. C199.
+That is, vendors of the software are
+often reluctant to replace the dongle, or
+insist that the user purchase a new
+dongle at a high cost. While this may be
+a problem, exempting works in this
+situation could unfairly prejudice the
+interests of copyright owners, who have
+no way of ascertaining whether the
+dongle was in fact lost or stolen, or
+whether it has been passed on to
+another user along with an
+unauthorized copy of the software,
+while the original user obtains a
+replacement by claiming the original
+dongle was lost. This exemption also
+would not cover situations such as those
+described by certain libraries, who
+expressed the fear that they would be
+prevented by 1201(a)(1) from
+reformatting materials that are in
+obsolete formats. If the materials did not
+contain access control protections, but
+were merely in an obsolete format,
+1201(a)(1) would not be implicated. To
+the extent that technological protections
+prevented the library from converting
+the format, those protections would
+seem to be copy controls, the act of
+circumvention of which is not
+prohibited by section 1201.
+The factors listed in 1201(a)(1)(C)
+support the creation of this exemption.
+In cases such as those described above,
+access controls actually decrease the
+availibility of works for any use, since
+works that were intended to be available
+become unavailable due to damage,
+malfunction or obsoleteness. This
+decrease in availability is felt
+particularly by the library and
+educational communities, who have
+been prevented from making noninfringing uses, including archiving and
+preservation, by malfunctioning or
+obsolete access controls. Circumvention
+of access controls in these instances
+should not have a significant effect on
+the market for or value of the works,
+since copyright owners typically will
+already have been compensated for the
+use of the work.
+E. Other Exemptions Considered, But
+Not Recommended
+A number of other proposed
+exemptions were considered, but for the
+reasons set forth below the Register does
+not recommend that any of them be
+adopted.
+1. ``Thin Copyright'' Works
+Many commenters have urged the
+exemption of a class of works consisting
+of what they term ``thin copyright
+works.'' These are works consisting
+primarily (but not entirely) of matter
+unprotected by copyright, such as U.S.
+government works or works whose term
+of copyright protection has expired, or
+works for which copyright protection is
+``thin,'' such as factual works. As one
+proponent, the Association of American
+Universities, described the class, it
+includes ``works such as scholarly
+journals, databases, maps, and
+newspapers [which] are primarily
+valuable for the information they
+contain, information that is not
+protected by copyright under Section
+102(b) of the Copyright Act.'' C161.
+Most often this argument is made in the
+context of databases that contain a
+significant amount of uncopyrightable
+material. These databases may
+nonetheless be covered by copyright
+protection by virtue of the selection,
+coordination and arrangement of the
+materials. They may also incorporate
+copyrightable works or elements, such
+as a search engine, headnotes,
+explanatory texts or other contributions
+that represent original, creative
+authorship. While this proposal is
+frequently made with reference to
+databases, it is not limited to them, and
+would apply to any works that contain
+a mixture of copyrightable and
+uncopyrightable elements.
+Proponents of such an exemption
+make two related arguments. First, some
+commenters argue that using Section
+1201(a)(1) to prohibit circumvention of
+access controls on works that are
+primarily factual, or in the public
+domain, bootstraps protection for
+material that otherwise would be
+outside the scope of protection. It
+would, in effect, create legal protection
+for even the uncopyrightable elements
+of the database, and go beyond the
+scope of what Section 1201(a)(1) was
+meant to cover. An exemption for these
+kinds of works, proponents argue, is
+necessary to preserve an essential
+element of the copyright balance `` that
+copyright does not protect facts, U.S.
+government works, or other works in the
+public domain. Without such an
+exemption, users will be legally
+prevented from circumventing access
+controls to, and subsequently making
+noninfringing uses of, material
+unprotected by copyright.
+A related worry of commenters is that,
+in practice, section 1201(a)(1) will be
+used to ``lock up'' works unprotected by
+copyright. They predict that compilers
+of factual databases will have an
+incentive to impose a thin veneer of
+copyright on a database, by adding, for
+example, some graphics or an
+introduction, and thus take unfair
+advantage of the protection afforded by
+Section 1201. In addition, they fear that
+access to works such as databases,
+encyclopedias, and statistical reports,
+which are a mainstay of the educational
+and library communities, will become
+increasingly and prohibitively
+expensive.
+On the record developed in this
+proceeding, the need for such an
+exemption has not been demonstrated.
+First, although proponents argue that
+1201(a)(1)(A) bootstraps protection for
+uncopyrightable elements in
+copyrightable databases, the
+copyrightable elements in databases and
+compilations usually create significant
+added value. Indeed, in most cases the
+uncopyrightable material is available
+elsewhere in ``raw'' form, but it is the
+inclusion of that material in a
+copyrightable database that renders it
+easier to use. Search engines, headnotes,
+selection, and arrangement, far from
+being a thin addition to the database, are
+often precisely the elements that
+database users utilize, and which make
+the database the preferred means to
+access and use the uncopyrightable
+material it contains. Because it is the
+utility of those added features that most
+users wish to access, it is appropriate to
+protect them under Section
+1201(a)(1)(A). Moreover, all
+copyrightable works are likely to
+contain some uncopyrightable elements,
+factual or otherwise. This does not
+undermine their protection under
+copyright or under 1201(a)(1)(A).
+8
+Second, the fear that 1201(a)(1)(A)
+will disadvantage users by ``locking up''
+uncopyrightable material, while
+understandable, does not seem to be
+borne out in the record of this
+proceeding. Commenters have not
+provided evidence that uncopyrightable
+material is becoming more expensive or
+difficult to access since the enactment of
+Section 1201, nor have they shown that
+works of minimal copyright authorship
+VerDate 11<MAY>2000 17:09 Oct 26, 2000 Jkt 194001 PO 00000 Frm 00012 Fmt 4701 Sfmt 4700 E:\FR\FM\27OCR3.SGM pfrm01 PsN: 27OCR3
+
+[PAGE 13]
+64567Federal Register / Vol. 65, No. 209 / Friday, October 27, 2000 / Rules and Regulations
+9 This subject has been discussed briefly above,
+in reference to databases that contain
+uncopyrightable material not available elsewhere.
+This section, however, refers mainly to
+copyrightable sole source works.
+10 The DVD issue is addressed below, Section
+III.E.3.
+11 Nonetheless, that evidence would have to be
+balanced against an author's right to grant access to
+a work. By definition, any unpublished creative
+work is almost certain to be available only from a
+single sourceÐthe author. Historically, there has
+never been a right to access an unpublished work,
+and the law has guarded an author's right to control
+first publication. Even when material has already
+been published, there is no absolute right of access.
+Even with nondigital formats, one must either
+purchase a copy of the work or go to someone who
+has purchased a copy (e.g., a library) in order to
+obtain access to it.
+are being attached to otherwise
+unprotectible material to take advantage
+of the 1201 prohibitions. The examples
+presented in this rulemaking proceeding
+of databases that mix copyrightable and
+uncopyrightable elements seem to be
+operating in a way that minimizes the
+impact on noninfringing uses, such as
+the LEXIS/NEXIS database and
+databases produced by a witness in the
+Washington DC hearings, SilverPlatter
+Information Inc. These databases
+provide business models that allow
+users to pay for different levels of
+access, and to choose different payment
+schedules depending on the way they
+would like to use the database. Finally,
+although the fear that material will be
+``locked up'' is most compelling with
+respect to works that are the ``sole
+source'' of uncopyrightable material,
+most of the uncopyrightable material in
+these databases can be found elsewhere,
+albeit not with the access and useenhancing features provided by the
+copyrightable contributions. Where
+users can reasonably find these
+materials in other places, their fears that
+it will be ``locked up'' are unwarranted.
+In applying the four factors in Section
+(a)(1)(C), the impact of access control
+technologies on the availability of works
+in general, and their impact on the
+library and educational communities in
+particular, must be evaluated. In
+general, it appears that the advent of
+access control protections has increased
+the availability of databases and
+compilations. Access controls provide
+an increased incentive for database
+producers to create and maintain
+databases. Often, the most valuable
+commodity of a database producer is
+access to the database itself. If a
+database producer could not control
+access, it would be difficult to profit
+from exploitation of the database. Fewer
+databases would be created, resulting in
+diminished availability for use. If there
+were evidence that technological access
+protections made access to these works
+prohibitively expensive or burdensome,
+it would weigh against increased
+availability. However, as discussed
+above, such evidence has not been
+presented in this proceeding. Nor has
+there been a showing of any significant
+adverse impact thus far on nonprofit
+archival, preservation and educational
+activities or on criticism, comment,
+news reporting, teaching, scholarship or
+research. There is no evidence that the
+use of technological measures that
+control access to ``thin copyright'' works
+has made those works less accessible for
+such purposes than they were prior to
+the introduction of such measures.
+Finally, in assessing the effect of
+circumvention on the market for or
+value of the works, it appears likely that
+if circumvention were permitted, the
+ability of database producers to protect
+their investment would be seriously
+undermined and the market would be
+harmed.
+2. Sole Source Works
+A number of commenters proposed an
+exemption for a class of ``sole source
+works,'' that is, works that are available
+from a single source, which makes the
+works available only in a form protected
+by access controls.
+9 C162 (American
+Library Association et al.); C213; C234.
+Proponents fear that works will
+increasingly become available only in
+digital form, which will be subject to
+access controls that prohibit users who
+want to make noninfringing uses from
+accessing the work, either because
+access will be too costly or will be
+refused. In such cases, where there is no
+other way to get access to the work, all
+noninfringing uses of the work will be
+adversely impacted.
+Again, it is questionable whether
+proponents of an exemption have
+identified a genuine ``class'' of works.
+The only thing the works in this
+proposed class have in common is that
+each is available from a single source.
+Moreover, the case has not been made
+for an exemption for this proposed
+class.
+Commenters submitted different
+examples of works that were available
+only in digital form. These included a
+number of databases and indexes. C162
+(ALA). In addition, several commenters
+noted that digital versions of works,
+such as motion pictures in DVD format,
+often contain material, such as
+interviews, film clips or search engines,
+not found in the analog versions of the
+same works. C162, C234.
+10
+The concerns of proponents of this
+type of exemption are understandable.
+However, there has been no evidence
+submitted in this rulemaking that access
+to works available only in a secured
+format is being denied or has become
+prohibitively difficult. Even considering
+the examples presented by various
+commenters, they merely establish that
+there are works that exist only in digital
+form. They have not established that
+access controls on those works have
+adversely impacted their ability to make
+noninfringing uses, or, indeed, that
+access controls impede their use of
+those works at all. In the case of
+databases and indexes, the Register
+heard no evidence that licenses to those
+works were not available or were
+available only on unreasonable and
+burdensome terms. For example, in the
+case of motion pictures on DVDs,
+anyone with the proper equipment can
+access (view) the work. If there were
+evidence that technological access
+controls were being used to lock up
+material in such a way that there was
+effectively no means for a user wanting
+to make a noninfringing use to get
+access, it could have a substantial
+adverse impact on users.
+11 No such
+evidence has been presented in this
+proceeding. If such evidence is
+presented in a subsequent proceeding,
+the case for an exemption may be made.
+With respect to this proposed class,
+little evidence has been presented
+relating to any of the factors set forth in
+Section 1201(a)(1)(C). However, a
+review of those factors confirms that no
+exemption is justified in this case. If, as
+the proponents of this exemption assert,
+there are works that are available only
+in digital form and only with access
+control protections, many if not most of
+those works presumably would not have
+been made available at all if access
+control measures had not been
+available. Indeed, it appears that many
+of the ``sole source'' works identified by
+the American Library Association are
+works that most likely did not exist in
+the predigital era. See C162, p. 24. As
+with ``thin copyright'' works, no
+showing has been made of an adverse
+impact on the purposes set forth in
+1201(a)(1)(C)(ii) and (iii).
+3. Audiovisual Works on Digital
+Versatile Discs (DVDs)
+More comments and testimony were
+submitted on the subject of motion
+pictures on digital versatile discs
+(DVDs) and the technological measures
+employed on DVDs, primarily Content
+Scrambling System (``CSS''), than on
+any other subject in this rulemaking.
+DVDs are digital media, similar to
+compact discs but with greater capacity,
+on which motion pictures and other
+audiovisual and other works may be
+stored. DVDs have recently become a
+VerDate 11<MAY>2000 17:09 Oct 26, 2000 Jkt 194001 PO 00000 Frm 00013 Fmt 4701 Sfmt 4700 E:\FR\FM\27OCR3.SGM pfrm01 PsN: 27OCR3
+
+[PAGE 14]
+64568 Federal Register / Vol. 65, No. 209 / Friday, October 27, 2000 / Rules and Regulations
+12 In this discussion, the term ``use controls'' is
+used as a shorthand term for technological
+measures that effectively protect rights of copyright
+owners under title 17 (e.g., copy controls)Ðthe
+controls that are the subject of the prohibition
+against certain technologies, products, services,
+devices and components found in section
+1201(b)(1).
+13 Perhaps the best case for actual harm in this
+context was made with respect to matter that is
+available along with the motion picture in DVD
+format but not available in videotape format, such
+as outtakes, interviews with actors and directors,
+additional language features, etc. See C204, p. 4.
+However, this ancillary material traditionally has
+not been available in copies for distribution to the
+general public, and it appears that it is only with
+the advent of the DVD format that motion picture
+producers have been willing or able to include such
+material along with copies of the motion pictures
+themselves. Because of this and because motion
+picture producers are generally unwilling to release
+their works in DVD format unless they are protected
+by access control measures, it cannot be said that
+enforcing section 1201(a)(1) would, in the words of
+the Commerce Committee, result ``in less access,
+rather than more, to copyrighted materials that are
+important to education, scholarship, and other
+socially vital endeavors.'' See Commerce Comm.
+Report, at 35. Thus, it appears that the availability
+of access control measures has resulted in greater
+availability of these materials.
+14 However, CSS was already in development in
+1998 when the DMCA was enacted. It cannot be
+presumed that the drafters of section 1201(a) were
+unaware of CSS. If CSS does involve a merger of
+access controls and copy controls, it is conceivable
+that the drafters of section 1201(a)(1) were aware of
+that. And it is quite possible that they anticipated
+that CSS would be a ``technological measure that
+effectively controls access to a work.''
+major medium, although not yet the
+predominant medium, for the
+distribution of motion pictures in the
+``home video'' market. CSS is an
+encryption system used on most
+commercially distributed DVDs of
+motion pictures. DVDs with CSS may be
+viewed only on equipment licensed by
+the DVD Copy Control Association
+(DVD CCA). PH25. The terms of the
+DVD CCA license permits licensed
+devices to decrypt and playÐbut not to
+copyÐthe films. For a more complete
+discussion of DVDs and CSS, see
+Universal City Studios, Inc. v.
+Reimerdes, 111 F. Supp.2d 294
+(S.D.N.Y. 2000), 55 U.S.P.Q.2d 1873
+(S.D.N.Y. 2000).
+Proponents of an exemption for
+motion pictures on DVDs raised four
+general arguments. First, they asserted
+that CSS represents a merger of access
+and use controls,
+12 such that one of
+those two control functions of the
+technology cannot be circumvented
+without also circumventing the other.
+PH11. Since Congress prohibited only
+the conduct of circumventing access
+measures and declined to enact a
+comparable prohibition against
+circumvention of measures that protect
+the rights of the copyright owner under
+§ 1201(b), they argued that a merger of
+controls exceeds the scope of the
+congressional grant. In this view, the
+merger of access and use controls would
+effectively bootstrap the legal
+prohibition against circumvention of
+access controls to include copy controls
+and thereby prevents a user from
+making otherwise noninfringing uses of
+lawfully acquired copies, such as
+excerpting parts of the material on a
+DVD for a film class, which might be a
+fair use.
+While this is a significant concern,
+there are a number of considerations to
+be balanced. From the comments and
+testimony presented, it is clear that, at
+present, most works available in DVD
+format are also available in analog
+format (VHS tape) as well. R123, T
+Marks, 5/19/00, p. 301. When
+distributed in analog formatsÐformats
+in which distribution is likely to
+continue for the foreseeable futureÐ
+these works are not protected by any
+technological measures controlling
+access. WS Sorkin, p. 5. Therefore, any
+harm caused by the existence of access
+control measures used in DVDs can be
+avoided by obtaining a copy of the work
+in analog format. See House Manager's
+Report, at 7 (``in assessing the impact of
+the prohibition on the ability to make
+noninfringing uses, the Secretary should
+take into consideration the availability
+of works in the particular class in other
+formats that are not subject to
+technological protections.'').
+13
+Thus far, no proponents of this
+argument for an exemption have come
+forward with evidence of any
+substantial or concrete harm. Aside
+from broad concerns, there have been
+very few specific problems alleged. The
+allegations of harm raised were
+generally hypothetical in nature,
+involved relatively insignificant uses, or
+involved circumstances in which the
+noninfringing nature of the desired use
+was questionable (e.g., backup copies of
+the DVD) or unclear. T Robin Gross, 5/
+19/00, pp. 314±15. This failure to
+demonstrate actual harm in the years
+since the implementation of the CSS
+measures tends to undermine the fears
+of proponents of an exemption.
+Similarly, in all of the comments and
+testimony on this issue, no explanation
+has been offered of the technological
+necessity for circumventing the access
+controls associated with DVDs in order
+to circumvent the copy controls. If the
+copy control aspects of CSS may be
+circumvented without circumventing its
+access controls, this is clearly not a
+violation of Section 1201(a)(1)(A). There
+was no showing that copy or use
+controls could not be circumvented
+without violating Section 1201(a)(1). In
+contrast, there was specific testimony
+that an analog output copy control on
+DVD players, Macrovision, could be
+circumvented by an individual without
+circumventing the CSS protection
+measures and without violating section
+1201(a)(1). T Marks, 5/19/00, pp.345±
+46. It would appear that circumvention
+of the Macrovision control, conduct not
+prohibited by any of the provisions of
+section 1201, would enable many of the
+noninfringing uses alleged to be
+prevented. If in a subsequent
+rulemaking proceeding one could show
+that a particular ``copy'' or ``use'' control
+could not in fact be circumvented on a
+legitimately acquired copy without also
+circumventing the access measure, one
+might meet the required burden on this
+issue.
+The merger of technological measures
+that protect access and copying does not
+appear to have been anticipated by
+Congress.
+14 Congress did create a
+distinction between the conduct of
+circumvention of access controls and
+the conduct of circumvention of use
+controls by prohibiting the former while
+permitting the latter, but neither the
+language of section 1201 nor the
+legislative history addresses the
+possibility of access controls that also
+restrict use. It is unclear how a court
+might address this issue. It would be
+helpful if Congress were to clarify its
+intent, since the implementation of
+merged technological measures arguably
+would undermine Congress's decision
+to offer disparate treatment for access
+controls and use controls in section
+1201.
+At present, on the current record, it
+would be imprudent to venture too far
+on this issue in the absence of
+congressional guidance. The issue of
+merged access and use measures may
+become a significant problem. The
+Copyright Office intends to monitor this
+issue during the next three years and
+hopes to have the benefit of a clearer
+record and guidance from Congress at
+the time of the next rulemaking
+proceeding.
+Another argument raised in the
+comments and testimony regarding
+DVDs is that users of Linux and other
+operating systems who own computers
+with DVD drives and who purchase
+legitimate copies of audiovisual works
+on DVDs should be able to view these
+works. Many Linux users have
+complained that they are unable to view
+the works on their computers because a
+licensed player has not yet been
+developed for the Linux OS platform.
+R56, PH11, PH3. While this situation
+created frustration for legitimate users,
+VerDate 11<MAY>2000 17:09 Oct 26, 2000 Jkt 194001 PO 00000 Frm 00014 Fmt 4701 Sfmt 4700 E:\FR\FM\27OCR3.SGM pfrm01 PsN: 27OCR3
+
+[PAGE 15]
+64569Federal Register / Vol. 65, No. 209 / Friday, October 27, 2000 / Rules and Regulations
+15 Among other purposes, it prevents the
+marketing of DVDs of a motion picture in a region
+of the world where the motion picture has not yet
+been released in theatres, or is still being exhibited
+in theatres. See PH12, pp. 3±4.
+the problem requires balancing of other
+considerations.
+The reasonable availability of
+alternate operating systems (dual
+bootable) or dedicated players for
+televisions suggests that the problem is
+one of preference and inconvenience,
+and leads to the conclusion that an
+exemption is not warranted. T Metalitz,
+5/19/00, pp. 298±99. Moreover, with the
+rapidly growing market of Linux users,
+it is commercially viable to create a
+player for this particular operating
+system. T Metalitz, 5/19/00, pp. 297±98.
+DVD CSS has expressed its willingness
+to license such players, and in fact has
+licensed such players. PH25. There is
+evidence that Linux players are
+currently being developed (Sigma
+Designs and Intervideo) and should be
+available in the near future. It appears
+likely that the market place will soon
+resolve this particular concern. PH123
+(MPAA).
+While it does not appear that
+Congress anticipated that persons who
+legitimately acquired copies of works
+should be denied the ability to access
+these works, there is no unqualified
+right to access works on any particular
+machine or device of the user's
+choosing. There are also commercially
+available options for owners of DVD
+ROM drives and legitimate DVD discs.
+Given the market alternatives, an
+exemption to benefit individuals who
+wish to play their DVDs on computers
+using the Linux operating system does
+not appear to be warranted.
+It appears from the comments and
+testimony presented in this proceeding
+that the motion picture industry relied
+on CSS in order to make motion
+pictures available in digital format.
+R123. An exemption for motion pictures
+on DVDs would lead to a decreased
+incentive to distribute these works on
+this very popular new medium. It
+appears that technological measures on
+DVDs have increased the availability of
+audiovisual works to the general public,
+even though some portions of the public
+have been inconvenienced.
+A third argument raised relating to
+DVDs was the asserted need to reverse
+engineer DVDs in order to allow them
+to be interoperable with other devices or
+operating systems. C10, C18, C221.
+While there has been limited judicial
+recognition of a right to reverse engineer
+for purposes of interoperability of
+computer programs in the video game
+industry, see Sega Enterprises, Inc. v.
+Accolade, Inc., 977 F.2d 1510 (9th Cir.
+1992); Sony Computer Entertainment,
+Inc. v. Connectix, 203 F.3d 596 (9th Cir.
+2000), this rulemaking proceeding is not
+an appropriate forum in which to
+extend the recognition of such a right
+beyond the scope recognized thus far by
+the courts or by Congress in section
+1201(f). In section 1201 itself, Congress
+addressed the issue of reverse
+engineering with respect to computer
+programs that are reverse engineered for
+the purpose of interoperability under
+certain circumstances to the ``extent any
+such acts of identification and analysis
+do not constitute infringement under
+this title.'' One court has rejected the
+applicability of section 1201(f) to
+reverse engineering of DVDs. Universal
+City Studios, Inc. v. Reimerdes, 82
+F.Supp.2d 211, 217±18 (S.D.N.Y. 2000);
+see also Universal City Studios, Inc. v.
+Reimerdes, 111 F. Supp.2d 294
+(S.D.N.Y. 2000), 55 U.S.P.Q.2d 1873
+(S.D.N.Y. 2000). That decision is on
+appeal. If subsequent developments in
+that case or future cases lead to judicial
+recognition that section 1201(f) does
+apply to a case such as this, then
+presumably there would be no need to
+fashion an exemption pursuant to
+section 1201(a)(1)(C). If, as the
+Reimerdes court has held, section
+1201(f) does not apply in such a
+situation, an agency fashioning
+exemptions pursuant to section
+1201(a)(1)(C) should proceed with
+caution before creating an exemption to
+accommodate reverse engineering that
+goes beyond the scope of a related
+exemption enacted by Congress
+expressly for the purpose of reverse
+engineering in another subsection of the
+same section of the DMCA. In any event,
+a more compelling case must be made
+before an exemption for reverse
+engineering of DVDs could be justified
+pursuant to section 1201(a)(1)(C).
+The final argument in support of an
+exemption for audiovisual works on
+DVDs was based on the motion picture
+industry's use of region coding as an
+access control measure. Proponents of
+an exemption argued that region coding
+prevents legitimate users from playing
+foreign films on DVDs which were
+purchased abroad on their machines
+that are encoded to play only DVDs with
+region coding for the region that
+includes the United States. C133, C231,
+C234, R92, PH11. There was also some
+showing that foreign releases of
+American and foreign motion pictures
+may contain content that is not available
+on the American releases and that
+circumvention may be necessary in
+order to access this material. T Gross, 5/
+19/00, p. 314.
+While the use of region coding may
+restrict unqualified access to all movies,
+the comments and testimony presented
+on this issue did not demonstrate that
+this restriction rises to the level of a
+substantial adverse effect. The problem
+appears to be confined to a relatively
+small number of users. The region
+coding also seems to result in
+inconvenience rather than actual or
+likely harm, because there are numerous
+options available to individuals seeking
+access to this foreign content (PAL
+converters to view foreign videotapes,
+limited reset of region code option on
+DVD players, or purchase of players set
+to different codes). Since the region
+coding of audiovisual works on DVDs
+serves legitimate purposes as an access
+control,
+15 and since this coding
+encourages the distribution and
+availability of digital audiovisual works,
+on balance, the benefit to the public
+exceeds the de minimis harm alleged at
+this time. If, at some time in the future,
+material is available only in digital
+format protected by region codes and
+the availability of alternative players is
+restricted, a more compelling case for an
+exemption might be made.
+Consideration of the factors
+enumerated in subsection 1201(a)(1)(C)
+supports the conclusion that no
+exemption is warranted for this
+proposed class. The release of
+audiovisual works on DVDs was
+predicated on the ability to limit piracy
+through the use of technological access
+control measures. R123. These works
+are widely available in digital format
+and are also readily available in analog
+format. R123 and WS Sorkin, p. 5. The
+digital release of motion pictures has
+benefitted the public by providing better
+quality and enhanced features on DVDs.
+While Linux users represent a
+significant and growing segment of the
+population and while these users have
+experienced inconveniences, the market
+is likely to remedy this problem soon.
+PH25. See the discussion of the Linux
+players being developed by Sigma
+Designs and Intervideo, above.
+Moreover, there are commercially
+reasonable alternatives available to
+these users. R123. The restrictions on
+DVDs are presently offset by the overall
+benefit to the public resulting from
+digital release of audiovisual works.
+Therefore, at present the existence of
+technological measures that control
+access to motion pictures on DVDs has
+not had a significant adverse impact on
+the availability of those works to the
+public at large.
+On the question of the availability for
+use of works for nonprofit archival,
+preservation, and educational purposes,
+there was minimal evidence presented
+that these uses have been or are likely
+to be adversely affected during the
+VerDate 11<MAY>2000 17:09 Oct 26, 2000 Jkt 194001 PO 00000 Frm 00015 Fmt 4701 Sfmt 4700 E:\FR\FM\27OCR3.SGM pfrm01 PsN: 27OCR3
+
+[PAGE 16]
+64570 Federal Register / Vol. 65, No. 209 / Friday, October 27, 2000 / Rules and Regulations
+ensuing three year period. As stated
+above, facts relating to the issue of the
+existence of merged access and use
+controls may be presented in the next
+triennial rulemaking proceeding to
+determine whether the prohibition on
+circumvention of access controls is
+being employed in such a manner that
+it also restricts noninfringing uses.
+The impact that the prohibition on the
+circumvention of technological
+measures applied to copyrighted works
+has had or is likely to have on criticism,
+comment news reporting, teaching,
+scholarship, or research is uncertain. At
+present, the concerns expressed were
+speculative and the examples of the
+prohibition's likely adverse effects were
+minimal. At this time it appears likely
+that these concerns will be tempered by
+the market. If the market does not
+effectively resolve problems and
+sufficient evidence of substantial
+adverse effects are presented in the next
+triennial rulemaking proceeding, the
+Register will re-assess the need for an
+exemption.
+At this time it appears clear from the
+evidence that the circumvention of
+technological protection measures
+would be likely to have an adverse
+effect on the availability of digital works
+on DVDs to the public. The music
+industry's reluctance to distribute works
+on DVDs as a consequence of
+circumvention of CSS is a specific
+example of the potential effect on
+availability: ``In fact, it was the very
+hack of CSS that caused a delay in
+introduction of DVD audio into the
+marketplace.'' T Sherman, 5/3/2000, p.
+18. Since the circumvention of
+technological access control measures
+will delay the availability of ``usefacilitating'' digital formats that will
+benefit the public and that are proving
+to be popular with the public, the
+promulgation of an exemption must be
+carefully considered after a balancing of
+all the foregoing considerations. At
+present, the evidence weighs against an
+exemption for audiovisual works on
+DVDs.
+4. Video Games in Formats Playable
+Only on Dedicated Platforms
+A number of comments and one
+witness at the hearings sought an
+exemption for video games that are
+playable only on proprietary players. T
+Hangartner, 5/17/00, p. 247, R73, R109.
+The arguments in support of an
+exemption for video games included
+three issues: reverse engineering of the
+games for interoperability to other
+platforms, merger of access and use
+controls, and region coding of the
+games.
+The existence of video games playable
+on dedicated platforms is not a new
+phenomenon in the marketplace. The
+Computer Software Rental Amendments
+Act of 1990 expressly provides for
+different treatment of video games sold
+only for use with proprietary platforms
+and those licensed for use on a
+computer capable of reproduction,
+recognizing the lower risk that the
+former will be copied to the detriment
+of the copyright owner. 17 U.S.C.
+109(b)(1)(B)(ii). In the few comments
+addressing the need for interoperability
+of video games, there was very little
+evidentiary support for this alleged
+need. In fact, the testimony on behalf of
+Bleem, Inc. demonstrated that in cases
+involving interoperability of video
+games, courts have held either that
+section 1201 is inapplicable or that the
+exemption in 1201(f) shields this
+activity for purposes of discovering
+functional elements necessary for
+interoperability. T Hangartner, 5/19/00,
+p. 250; T Russell, 5/19/00, p. 332. Since
+the Basic Input Output System (BIOS) in
+these dedicated platforms is a computer
+program, section 1201(f) would appear
+to address the problem. To the extent
+that an identifiable problem exists that
+is outside the scope of section 1201(f),
+and therefore potentially within the
+scope of this rulemaking, its existence
+has not been sufficiently articulated to
+support the recommendation for an
+exemption. See also the discussion of
+reverse engineering below in Section
+III.E.5.
+The claim that the technological
+measures protecting access to video
+games also restrict noninfringing uses of
+the games also has not been supported
+by any verifiable evidence. For example,
+while the backup of such a work may
+be a noninfringing use, no evidence has
+been presented that access control
+measures, as distinguished from copy
+control measures, have caused an
+inability to make a backup, and the
+latter is the more likely cause. Nor has
+there been any showing that any copy
+or use control has been merged with an
+access control, such that the former
+cannot be circumvented without the
+latter.
+The paucity of evidence supporting
+an exemption on the basis of region
+coding similarly precludes a
+recommendation for an exemption. The
+few comments that mentioned this issue
+do not rise to the level of substantial
+adverse affect that would warrant an
+exemption for video games.
+The factors set forth in section
+1201(a)(1)(C) do not support an
+exemption. There is no reason to believe
+that there has been any reduction in the
+availability of video games for use
+despite the fact that video games have
+incorporated access controls and
+dedicated platforms for many years. To
+the extent there has been a need for
+interoperability, it appears that section
+1201(f) will allow functional features to
+be determined as the courts have
+allowed in the past. There has been
+insufficient evidence presented to
+indicate that video games have or will
+become less available after § 1201(a)(1)
+goes into effect. There was no evidence
+offered that the prohibition on
+circumvention will adversely effect
+nonprofit archival, preservation, or
+educational uses of these works. There
+was also no evidence presented that the
+prohibition would have an adverse
+effect on criticism, comment, news
+reporting, teaching, scholarship, or
+research. On the other hand, there was
+little evidence that circumvention
+would have a negative impact on the
+market for or value of these copyrighted
+works, but this is of little consequence
+given the de minimis showing of any
+adverse impact access control measures
+have had on availability of the works for
+noninfringing uses.
+5. Computer Programs and Other Digital
+Works for Purposes of Reverse
+Engineering
+A number of commenters asserted
+that reverse engineering is a
+noninfringing use that should be
+exempted for all classes of digital works.
+C143, R82. As already noted, reverse
+engineering was also raised as a basis
+for an exemption in relation to
+audiovisual works on DVDs and video
+games. C221. The arguments raised in
+support of a reverse engineering
+exemption for such works are addressed
+above. To the extent that reverse
+engineering is proposed for all classes of
+digital works, it does not meet the
+criteria of a class. A ``class of works''
+cannot be defined simply in terms of the
+purpose for which circumvention is
+desired. See the discussion above,
+Section III.A.3.
+Moreover, to the extent that
+commenters seek an exemption to
+permit reverse engineering of computer
+programs, the case has not been made
+even if it is permissible to designate a
+class of ``computer programs for the
+purpose of reverse engineering.'' When
+it enacted section 1201, Congress carved
+out a specific exemption for reverse
+engineering of computer programs,
+section 1201(f). That exemption permits
+circumvention of an access control
+measure in order to engage in reverse
+engineering of a computer program with
+the purpose of achieving
+interoperability of an independently
+created computer program with other
+VerDate 11<MAY>2000 17:09 Oct 26, 2000 Jkt 194001 PO 00000 Frm 00016 Fmt 4701 Sfmt 4700 E:\FR\FM\27OCR3.SGM pfrm01 PsN: 27OCR3
+
+[PAGE 17]
+64571Federal Register / Vol. 65, No. 209 / Friday, October 27, 2000 / Rules and Regulations
+programs, under certain circumstances
+set forth in the statute. When Congress
+has specifically addressed the issue by
+creating a statutory exemption for
+reverse engineering in the same
+legislation that established this
+rulemaking process, the Librarian
+should proceed cautiously before, in
+effect, expanding the section 1201(f)
+statutory exemption by creating a
+broader exemption pursuant to section
+1201(a)(1)(C).
+The proponents of an exemption for
+reverse engineering have expressed their
+dissatisfaction with the limited
+circumstances under which section
+1201(f) permits reverse engineering
+(C13, C30), but the case they have made
+is for the legislator rather than for the
+Librarian. If, in the next three years,
+there is evidence that access control
+measures are actually impeding
+noninfringing uses of works that should
+be permitted, that evidence can be
+presented in the next triennial
+rulemaking proceeding. Such evidence
+was not presented in the current
+proceeding.
+To the extent that commenters have
+sought an exemption to permit reverse
+engineering for purposes of making
+digitally formatted works other than
+computer programs interoperable (i.e.,
+accessible on a device other than the
+device selected by the copyright owner),
+it seems likely that the work will
+incorporate a computer program or
+reside on a medium along with a
+computer program and that it will be the
+computer program that must be reverse
+engineered in order to make the work
+interoperable. In such cases, section
+1201(f) would appear to resolve the
+issue. To the extent that reverse
+engineering of something other than a
+computer program may be necessary,
+proponents of a reverse engineering
+exemption would be asking the
+Librarian to do what no court has ever
+done: to find that reverse engineering of
+something other than a computer
+program constitutes fair use or some
+other noninfringing use. It is
+conceivable that the courts may address
+that issue one day, but it is not
+appropriate to address that issue of first
+impression in this rulemaking
+proceeding without the benefit of
+judicial or statutory guidance.
+The factors set forth in section
+1201(a)(1)(C) have already been
+discussed in the context of audiovisual
+works on DVDs and video games, the
+two specific classes of works for which
+a reverse engineering exemption has
+been sought. Those factors do not
+support an exemption for reverse
+engineering.
+6. Encryption Research Purposes
+A number of commenters urged that
+a broader encryption research
+exemption is needed than is contained
+in section 1201(g). See, e.g., C185, C30,
+R55, R70. Dissatisfaction was expressed
+with the restrictiveness of the
+requirement to attempt to secure the
+copyright owner's permission before
+circumventing. C153. See 17 U.S.C.
+1201(g)(2)(C). Most of the references to
+statutory deficiencies regarding
+encryption research, however, merely
+state that the provisions are too narrow.
+See, e.g., PH20.
+As with reverse engineering,
+proponents of an exemption for
+encryption research are asking the
+Librarian to give them a broader
+exemption than Congress was willing to
+enact. But they have not carried their
+burden of demonstrating that the
+limitations of section 1201(g) have
+prevented them or are likely in the next
+three years to prevent them from
+engaging in noninfringing uses. With
+respect to encryption research, the
+DMCA required the Copyright Office
+and the National Telecommunications
+and Information Administration of the
+Department of Commerce to submit a
+joint report to Congress on the effect the
+exemption in section 1201(g) has had on
+encryption research and the
+development of encryption technology,
+the adequacy and effectiveness of
+technological measures designed to
+protect copyrighted works; and
+protection of copyright owners against
+the unauthorized access to their
+encrypted copyrighted works. The
+Copyright Office and NTIA submitted
+that report in May, 2000. Report to
+Congress: Joint Study of Section 1201(g)
+of The Digital Millennium Copyright
+Act (posted at http://www.loc.gov/
+copyright/reports/studies/
+dmca_report.html and http://
+www.ntia.doc.gov/reports/dmca). In that
+report, NTIA and the Copyright Office
+concluded that ``[o]f the 13 comments
+received in response to the Copyright
+Office's and NTIA's solicitation, not one
+identified a current, discernable impact
+on encryption research and the
+development of encryption technology;
+the adequacy and effectiveness of
+technological protection for copyrighted
+works; or protection of copyright
+owners against the unauthorized access
+to their encrypted copyrighted works,
+engendered by Section 1201(g).'' That
+conclusion is equally applicable to the
+comments on encryption research
+submitted in this proceeding.
+Moreover, an exemption for
+encryption research is not focused on a
+class of works. See discussion above,
+Section III.A.3.
+7. ``Fair Use'' Works
+A large number of commenters urged
+the Register to recommend an
+exemption to circumvent access control
+measures for fair use purposes.
+Responding to the statutory requirement
+of designating a ``particular classes of
+works,'' the Higher Education
+Associations (the Association of
+American Universities, the National
+Association of State Universities and
+Land Grant Colleges, and the American
+Council on Education) put forth within
+a broad class of ``fair use works'' the
+specific classes that are most likely to be
+used by libraries and educational
+institutions for purposes of fair use.
+PH24. The classes are scientific and
+social databases, textbooks, scholarly
+journals, academic monographs and
+treatises, law reports and educational
+audio/visual works. A witness testifying
+on behalf of the Higher Education
+Associations explained that these works
+should be exempted where the purpose
+of using the works is fair use. T
+Gasaway, 5/18/00, p. 74. The Higher
+Education Associations also suggested
+that the exemption could be further
+limited to specific classes of persons
+who were likely to be fair users. PH24,
+at 12.
+To the extent that proponents of such
+an exemption seek to limit its
+applicability to certain classes of users
+or uses, or to certain purposes, such
+limitations are beyond the scope of this
+rulemaking. It is the Librarian's task to
+determine whether to exempt any
+``particular class of works.'' 17 U.S.C.
+1201(a)(1)(B), (C) (emphasis added). See
+the discussion above, Section III.A.3.
+The merits of an exemption for
+scientific and social databases have
+already been discussed to some extent
+in the treatment of ``thin copyright''
+works and sole source works. To the
+extent that these works are not in these
+previously addressed classes, even
+though scientific and social databases
+can be seen to present an appropriate
+class, the case for an exemption has not
+been presented. No evidence was
+submitted that specific works in these
+named classes have been or are likely to
+be inaccessible because educational
+institutions or libraries have been
+prevented from circumventing them.
+Although the proponents of this
+exemption allege that if they are
+prevented from circumventing these
+particular classes of works, they and
+those they represent will not be able to
+exercise fair use as to this class of
+works, they have not demonstrated that
+VerDate 11<MAY>2000 17:09 Oct 26, 2000 Jkt 194001 PO 00000 Frm 00017 Fmt 4701 Sfmt 4700 E:\FR\FM\27OCR3.SGM pfrm01 PsN: 27OCR3
+
+[PAGE 18]
+64572 Federal Register / Vol. 65, No. 209 / Friday, October 27, 2000 / Rules and Regulations
+16 The National Digital Library and the Motion
+Picture Broadcasting and Recorded Sound Division
+of the Library of Congress addressed the class of
+audiovisual works when it stated that, to carry out
+their mission, they may need to circumvent access
+controls to preserve these materials for the long
+term. However, they did not state that they have
+thus far had such a need or that they are aware of
+circumstances likely to require them to engage in
+such circumvention in the next three years.
+17 A related issue, CD±ROMS with faulty access
+controls that erroneously exclude authorized users
+from access, is addressed in the second exemption
+recommended by the Register.
+they have been unable to engage in such
+uses because of access control measures.
+Many of the concerns raised by
+proponents of such an exemption are
+actually related to copy control
+measures rather than access control
+measures. See, e.g., R75 (National
+Library of Medicine). If a library or
+higher education institution has access
+to a work, section 1201 does not prevent
+the conduct of circumventing
+technological measures that prevent the
+copying of the work.
+Although textbooks, scholarly
+journals, academic monographs and
+treatises, law reports and educational
+audiovisual works have been mentioned
+as candidates for this proposed class of
+``fair use'' works, proponents have failed
+to demonstrate how technological
+measures that control access to such
+works are preventing noninfringing uses
+or will in the next three years prevent
+such uses. In fact, it is not even clear
+whether technological measures that
+control access are actually used with
+respect to some of these types of works,
+e.g., textbooks. While it is easy to agree
+that if access control measures were
+creating serious difficulties in making
+lawful uses of these works, an
+exemption would be justified, the case
+has not been made that this is a problem
+or is about to be a problem.
+Application of the factors set forth in
+section 1201(a)(1)(C) to this proposed
+class of works is identical to the
+analysis of those factors with respect to
+``thin copyright'' works discussed above
+(Section III.E.1) and will not be repeated
+here.
+8. Material that Cannot be Archived or
+Preserved
+A number of library associations
+expressed concern about the general
+impact of the prohibition against
+circumvention on the future of
+archiving and preservation. See, e.g.,
+C175, R75, R80, C162, p.26±29, 31±32;
+R83, p. 2±4; PH18, p.5. To some extent,
+these concerns may be addressed in the
+second of the two recommended
+exemptions, to the degree that faulty or
+obsolete access control measures may be
+preventing libraries and others from
+gaining authorized access to works in
+order to archive them. But more
+generally, libraries expressed concerns
+that digital works for which there are no
+established non-digital alternatives may
+not be archived. C162, p.26±29.
+Because materials that libraries and
+others desire to archive or preserve cut
+across all classes of works, these works
+do not constitute a particular class.
+16
+See the discussion above, Section
+III.A.3. The Office is limited to
+recommending only particular classes,
+and then only when it has been
+established that actual harm has
+occurred, or that harm will likely occur.
+Such a showing of adverse effect on all
+materials that may need to be archived
+or preserved has not been made.
+Demonstration of the inability to archive
+or preserve materials tied to a more
+particular class of works would be
+needed to establish an adverse effect in
+this rulemaking. Application of the
+relevant factors cannot take place in
+gross, without reference to a specified
+class of works.
+Even if such materials were to
+constitute a particular class, and harm
+were shown, adverse causes other than
+circumvention must be discounted in
+balancing the relevant factors. House
+Manager's Report, at 6. The libraries and
+Higher Education Associations provided
+examples of problems due to numerous
+other factorsÐlicensing restrictions,
+cost, lack of technological storage space,
+and uncertainty whether publishers will
+preserve their own materials. These are
+adverse effects caused by something
+other than the prohibition on
+circumvention of access control
+measures.
+The Higher Education Associations
+cite the frequent phenomenon of
+``disappearing'' worksÐthose appearing
+online or on disk today that may be
+gone tomorrow, e.g., because they may
+be removed from an online database or
+because the library or institution has
+access to them only during the term of
+its license to use the work. See T
+Gasaway, 5/18/00, p. 38. This
+rulemaking proceeding cannot force
+copyright owners to archive their own
+works. Moreover, assuming that
+libraries and other institutions are
+unable to engage in such archiving
+themselves today, they have not
+explained how technological measures
+that control access to those works are
+preventing them from doing so. Rather,
+it would appear that restrictions on
+copying are more likely to be
+responsible for the problem. See R75
+(National Library of Medicine's inability
+to preserve Online Journal of Current
+Clinical Trials and videotapes,
+apparently because of restrictions on
+copying); C162, pp. 25±29 (American
+Library Association et al.). Section 1201
+does not prohibit libraries and archives
+from the conduct of circumventing copy
+controls. Therefore, it is difficult to
+understand how an exemption from the
+prohibition on circumvention of access
+controls would resolve this problem.
+Some commenters have also
+complained that licensing terms have
+required them to return CD±ROMs to
+vendors in order to obtain updated
+versions, thereby losing the ability to
+retain the exchanged CD±ROM as an
+archival copy. See, e.g., C162, p. 27. But
+they have failed to explain how
+technological measures that control
+access to the works on the CD±ROMS
+play any role in their inability to archive
+something that they have returned to the
+vendor.
+17 In a future rulemaking
+proceeding, libraries and archives may
+be able to identify particular classes of
+works that they are unable to archive or
+preserve because of access control
+measures, and thereby establish the
+requisite harm.
+Because this proposed exemption
+does not really address a particular class
+of works, application of the factors set
+forth in section 1201(a)(1)(C) is difficult.
+If particular classes of works were in
+danger of disappearing due to access
+control measures, then presumably all
+of the factors (with the possible
+exception of the factor relating to the
+effect of circumvention on the market
+for or value of the copyrighted works)
+would favor such an exemption. But the
+current record does not support an
+exemption.
+9. Works Embodied in Copies Which
+Have Been Lawfully Acquired by Users
+Who Subsequently Seek to Make Noninfringing Uses Thereof
+An exemption for ``works embodied
+in copies which have been lawfully
+acquired by users who subsequently
+seek to make non-infringing uses
+thereof'' was put forward by Peter Jaszi,
+a witness representing the Digital Future
+Coalition, and was subsequently
+endorsed by many members of the
+academic and library communities. T
+Peter Jaszi, 5/3/00; T Julie Cohen, 5/4/
+00, PH22, T Diana Vogelsong, 5/3/00. In
+addition, it was endorsed by the
+comments of the Assistant Secretary of
+Commerce for Communications and
+Information. See discussion above,
+Section III.B. Similar exemptions were
+independently proposed by other
+commenters. PH24 (AAU); PH18 (ALA),
+PH21. These proposed exemptions focus
+on allowing circumvention by users for
+VerDate 11<MAY>2000 17:24 Oct 26, 2000 Jkt 194001 PO 00000 Frm 00018 Fmt 4701 Sfmt 4700 E:\FR\FM\27OCR3.SGM pfrm01 PsN: 27OCR3
+
+[PAGE 19]
+64573Federal Register / Vol. 65, No. 209 / Friday, October 27, 2000 / Rules and Regulations
+18 In fact, one of those witnesses admitted that
+``the law has caused little harm yet'' and that ``my
+fears are speculative and alarmist.'' T
+Vaidyanathan, 5/18/00, p. 11. Another of the
+witnesses admitted that librarians have not yet
+experienced the ``persistent access controls'' feared
+by proponents of this exemption. T Neal, 5/4/00, p.
+42.
+noninfringing purposes after they have
+gained initial lawful access, although
+the Association of American
+Universities' proposal would limit the
+ability to circumvent after the period of
+lawful access to users possessing a
+physical copy of the work.
+The proponents for this exemption
+fear that pay-per-use business models
+(using what are sometimes called
+``persistent access controls'') will be
+used to lock up works, forcing payment
+for each time the work is accessed. In
+addition, they fear that persistent access
+controls will be used to constrain the
+ability of users, subsequent to initial
+access, to make uses that would
+otherwise be permissible, including fair
+uses. Without this exemption, they
+assert, the traditional balance of
+copyright would be upset, tipping it
+drastically in favor of the copyright
+owners and making it more difficult
+and/or expensive for users to engage in
+uses that are permitted today.
+Therefore, these commenters propose
+an exemption for a class of ``works
+embodied in copies which have been
+lawfully acquired by users who
+subsequently seek to make noninfringing uses thereof.'' In substance,
+the proposal would exempt all users
+who wish to make noninfringing uses,
+regardless of the type of work, provided
+that they either lawfully acquire a copy
+or, in some versions of the proposal,
+lawfully acquire access privileges. This
+exemption, commenters argue, will
+equitably maintain the copyright
+balance. It would allow copyright
+owners to control the distribution of,
+and initial authorization of access to,
+copies of their works, while allowing
+users to circumvent those access
+controls for noninfringing uses after
+they have lawfully accessed or acquired
+them.
+However, for several reasons, the
+``class'' they propose is not within the
+scope of this rulemaking. First, none of
+the proposals adequately define a
+``class'' of the type this rulemaking
+allows the Librarian to exempt. As
+discussed above in Section III.A.3, ``a
+particular class of work'' must be
+determined primarily by reference to
+qualities of the work itself. It cannot be
+defined by reference to the class of users
+or uses of the work, as these proposals
+suggest. Second, although the
+commenters have persuasively
+articulated their fears about how these
+business models will develop and affect
+their ability to engage in noninfringing
+uses, they have not made the case that
+these fears are now being realized, or
+that they are likely be realized in the
+next three years.
+The Assistant Secretary for
+Communications and Information has
+endorsed this proposed exemption. In
+support of this proposal, NTIA made
+only general references to one comment,
+RC113, and to the testimony of Julie
+Cohen, Siva Vaidyanathan, Sarah Wiant,
+James Neal, Frederick Weingarten, and
+the Consortiums of College and
+University Media Centers (CCUMC).
+NTIA did not specifically identify what
+evidence these witnesses and
+commenters had provided, apart from
+noting that they provided ``numerous
+examples regarding the manner in
+which persistent access controls restrict
+the flow of information'' and testimony
+about ``impediments to archiving and
+preservation of digital works, teaching,
+and digital divide concerns.'' The latter
+concern is addressed in Section III.E.8.
+The one comment cited by NTIA
+related to medical records that are
+stored in proprietary formats. RC113. It
+does not appear from that single
+commentÐthe only comment or
+testimony submitted on the issueÐthat
+the problem identified by the
+commenter related to technological
+measures that control access to
+copyrighted works. The commenter
+raised legitimate concerns about
+difficulties in converting data from one
+format to another. One can speculate
+that in the future, access control
+measures might be applied to medical
+data and prevent health care workers
+from obtaining needed access, but the
+commenter did not make the case that
+this is happening or is likely to happen
+in the next three years.
+The testimony cited by NTIA relating
+to access controls that restrict the flow
+of information raised many fears and
+concerns but minimal distinct,
+verifiable, or measurable impacts. Of
+course, it is a tautology that any
+measure that controls access to a work
+will, by definition, at least to some
+degree restrict the flow of the
+information in the work. But although
+many of the witnesses complained
+about ``persistent access controls,'' they
+did not present specific examples of any
+evidence of present or likely nontrivial
+adverse effects causally related to such
+controls.
+18 The testimony relating to
+noninfringing uses that could be
+adversely affected has not been
+specifically shown to be caused by
+access controls as opposed to other
+technological or licensing measures.
+There appears to be no support in the
+record for a finding that the cited
+testimony rises to the level of distinct,
+verifiable and measurable impacts
+justifying an exemption at this time.
+Finally, the proposed exemption
+parallels elements of an approach that
+was considered, and ultimately rejected,
+by Congress during the drafting of the
+law. The version of the DMCA that was
+passed by the House of Representatives
+on August 4, 1998, contained a
+provision that required a rulemaking
+proceeding that would determine
+classes of works for which, inter alia,
+users ``who have gained lawful initial
+access to a copyrighted work'' would be
+adversely affected in their ability to
+make noninfringing uses. HR 2281 EH,
+Section 1201(a)(1)(B):
+The prohibition contained in subparagraph
+(A) shall not apply to persons with respect
+to a copyrighted work which is in a
+particular class of works and to which such
+persons have gained initial lawful access, if
+such persons are, or are likely to be in the
+succeeding 3-year period, adversely affected
+by virtue of such prohibition in their ability
+to make noninfringing uses of that particular
+class of works under this title, as determined
+under subparagraph (C).''
+See also section 1201(a)(1)(D).
+Thus, when it first passed the DMCA
+the House of Representatives appears to
+have agreed with much of the approach
+taken by the proponents of this
+exemption. But the fact that Congress
+ultimately rejected this approach when
+it enacted the DMCA and, instead,
+deleted the provision that had limited
+the applicability of the exemptions to
+persons who have gained initial lawful
+access, is clear indication that the
+Librarian does not have the power to
+fashion a class of works based upon
+such a limitation. Such an exemption is
+more properly a subject of legislation,
+rather than of a rulemaking the object of
+which is to determine what classes of
+works are to be exempted from the
+prohibition on circumvention of access
+controls.
+10. Exemption for Public Broadcasting
+Entities
+The Public Broadcasting Service,
+National Public Radio, and the
+Association of America's Public
+Television Stations described the public
+broadcasting entities' need to use sound
+recordings, published musical works
+and published pictorial, graphic and
+sculptural works in accordance with
+exemptions and statutory licenses under
+section 114(b) and 118(d) of the
+Copyright Act. R106. They observe that
+if copyright owners encrypted these
+classes of works, they would not be able
+VerDate 11<MAY>2000 17:09 Oct 26, 2000 Jkt 194001 PO 00000 Frm 00019 Fmt 4701 Sfmt 4700 E:\FR\FM\27OCR3.SGM pfrm01 PsN: 27OCR3
+
+[PAGE 20]
+64574 Federal Register / Vol. 65, No. 209 / Friday, October 27, 2000 / Rules and Regulations
+to make noninfringing uses of them
+pursuant to the statute. But their
+submission addressed potential adverse
+effects of the prohibition on
+circumvention, not current or even
+likely adverse effects. There has been no
+allegation that public broadcasters have
+encountered or are about to encounter
+technological protection measures that
+prevent them from exercising their
+rights pursuant to sections 114 and 118.
+If public broadcasting entities were
+able to demonstrate such adverse
+impact, a strong case might be made for
+an exemption for sound recordings,
+published musical works and published
+pictorial, graphic and sculptural works.
+In part for that very reason, public
+broadcasters may not experience serious
+adverse impacts on their ability to use
+such works pursuant to the compulsory
+licenses, because copyright owners will
+have every incentive to facilitate those
+permitted uses. Indeed, the public
+broadcasters stated that they ``believe
+that the developing methods of
+technological protection will be
+deployed ``to support new ways of
+disseminating copyrighted materials to
+users, and to safeguard the availability
+of ``works to the public.'' Id.
+In any event, there is no need at
+present for an exemption to
+accommodate the needs of public
+broadcasters.
+IV. Conclusion
+Pursuant to the mandate of 17 U.S.C.
+1201 (b) and having considered the
+evidence in the record, the contentions
+of the parties, and the statutory
+objectives, the Register of Copyrights
+recommends that the Librarian of
+Congress publish two classes of
+copyrighted works where the Register
+has found that noninfringing uses by
+users of such copyrighted works are, or
+are likely to be, adversely affected, and
+the prohibition found in 17 U.S.C. 1201
+(a) should not apply to such users with
+respect to such class of work for the
+ensuing 3-year period. The classes of
+work so identified are:
+1. Compilations consisting of lists of
+websites blocked by filtering software
+applications; and
+2. Literary works, including computer
+programs and databases, protected by access
+control mechanisms that fail to permit access
+because of malfunction, damage or
+obsoleteness.
+The Register notes that any exemption
+of classes of copyrighted works
+published by the Librarian will be
+effective only until October 28, 2003.
+Before that period expires, the Register
+will initiate a new rulemaking to
+consider de novo what classes of
+copyrighted works, if any, should be
+exempt from § 1201(a)(1)(A)
+commencing October 28, 2003.
+Marybeth Peters,
+Register of Copyrights.
+Determination of the Librarian of
+Congress
+Having duly considered and accepted
+the recommendation of the Register of
+Copyrights concerning what classes of
+copyrighted works should be exempt
+from 17 U.S.C. 1201(a)(1)(A), the
+Librarian of Congress is exercising his
+authority under 17 U.S.C. 1201(a)(1)(C)
+and (D) and is publishing as a new rule
+the two classes of copyrighted works
+that shall be subject to the exemption
+found in 17 U.S.C. 1201(a)(1)(B) from
+the prohibition against circumvention of
+technological measures that effectively
+control access to copyrighted works set
+forth in 17 U.S.C. 1201(a)(1)(A) for the
+period from October 28, 2000 to October
+28, 2003. The classes are:
+1. Compilations consisting of lists of
+websites blocked by filtering software
+applications; and
+2. Literary works, including computer
+programs and databases, protected by access
+control mechanisms that fail to permit access
+because of malfunction, damage or
+obsoleteness.
+List of Subjects in 37 CFR Part 201
+Copyright, Exemptions to prohibition
+against circumvention.
+For the reasons set forth in the
+preamble, the Library amends 37 CFR
+part 201 as follows:
+PART 201ÐGENERAL PROVISIONS
+1. The authority citation for part 201
+continues to read as follows:
+Authority: 17 U.S.C. 702.
+2. A new § 201.40 is added to read as
+follows:
+§ 201.40 Exemption to prohibition against
+circumvention.
+(a) General. This section prescribes
+the classes of copyrighted works for
+which the Librarian of Congress has
+determined, pursuant to 17 U.S.C.
+1201(a)(1)(C) and (D), that noninfringing
+uses by persons who are users of such
+works are, or are likely to be, adversely
+affected. The prohibition against
+circumvention of technological
+measures that control access to
+copyrighted works set forth in 17 U.S.C.
+1201(a)(1)(A) shall not apply to such
+users of the prescribed classes of
+copyrighted works.
+(b) Classes of copyrighted works.
+Pursuant to the authority set forth in 17
+U.S.C. 1201(a)(1)(C) and (D), and upon
+the recommendation of the Register of
+copyrights, the Librarian has
+determined that two classes of
+copyrighted works shall be subject to
+the exemption found in 17 U.S.C.
+1201(a)(1)(B) from the prohibition
+against circumvention of technological
+measures that effectively control access
+to copyrighted works set forth in 17
+U.S.C. 1201(a)(1)A) for the period from
+October 28, 2000 to October 28, 2003.
+The exempted classes of works are:
+(1) Compilations consisting of lists of
+websites blocked by filtering software
+applications; and
+(2) Literary works, including
+computer programs and databases,
+protected by access control mechanisms
+that fail to permit access because of
+malfunction, damage or obsoleteness.
+Dated: October 23, 2000.
+James H. Billington,
+The Librarian of Congress
+[FR Doc. 00±27714 Filed 10±26±00; 8:45 am]
+BILLING CODE 1410±30±P
+VerDate 11<MAY>2000 17:30 Oct 26, 2000 Jkt 194001 PO 00000 Frm 00020 Fmt 4701 Sfmt 4700 E:\FR\FM\27OCR3.SGM pfrm01 PsN: 27OCR3

@@ -1,0 +1,954 @@
+[PAGE 1]
+ 
+ITEM A.  COMMENTER INFORMATION  
+American Farm Bureau Federation  
+Mary Pat Weyback 
+Deputy General Counsel 
+600 Maryland Ave SW Suite 1000W 
+Washington DC 20024 
+(202) 406-3619  
+marypatw@afb.org.  
+ 
+National Corn Growers Association 
+Jon Doggett 
+Vice President of Public Policy 
+20 F Street NW, Suite 600 
+Washington, DC 20001 
+(202) 628-7001 
+doggett@ncga.com  
+ 
+National Farmers Union  
+Rob Larew 
+Senior Vice President of Public Policy and Communications 
+20 F Street NW, Suite 300 
+Washington, DC 20001 
+(202) 554-1600 
+rlarew@nfudc.org  
+ 
+Of counsel: 
+USC Intellectual Property & Technology Law Clinic  
+Valerie Barreiro 
+Clinical Assistant Professor of Law and Director, Intellectual Property and Technology Law Clinic 
+With assistance from law students Corinne Fierro, Kate Hahm and Jake Myung 
+University of Southern California, Gould School of Law   
+(213) 740-7613 
+ipt@law.usc.edu  
+ 
+Robert S. Schwartz 
+Constantine Cannon LLP 
+1001 Pennsylvania Avenue, N.W. 1300N 
+Washington, D.C. 20004 
+(202) 204-3508 
+rschwartz@constantinecannon.com 
+[PAGE 2]
+ 
+ 
+2 
+ 
+ITEM B.  PROPOSED CLASS ADDRESSED 
+Proposed Class 7:  Computer Programs – Repair  
+ITEM C.  OVERVIEW 
+Unlike some other petitioners as cited in the NPRM, these farmer, rancher and grower 
+commenters (hereinafter, Farmers) have not sought to broaden the categories of device covered 
+by the Sixth Triennial Proceeding to Determine Exemptions to the Prohibition on Circumvention 
+(the “Sixth Round”) exemption for necessary circumvention for the repair and upgrade of 
+motorized vehicles and associated implements (“equipment”).  Rather, Farmers now focus on the 
+pressing need to make this exemption useful to their businesses and livelihoods.1 This can occur 
+only by interpreting this exemption as including the assistance of expert local mechanics when 
+equipped with the necessary software tools.   
+In some localities, Farmers see the price of older and otherwise obsolete farm equipment rising 
+because obsolete, non-software-dependent vehicles are the only equipment that a Farmer can 
+expect to have fixed without risking catastrophic delay or severe financial loss.   
+The following Overview is supported by the attached Declarations of: 
+ Kevin Kenney – Software Engineer for Agricultural Vehicles 
+ Guy Mills, Jr. – Farmer  
+ Jason Pratt – Farmer 
+ Kyle Schwarting – Farmer  
+ Paul Shamblin – Lead Mechanic at Talley Farms 
+ “John Doe” – Large scale Farmer
+2 
+1. Functions that are entirely mechanical on older vehicles and agricultural implements are, on 
+newer vehicles, controlled and restricted by embedded, proprietary software, passwords, and 
+computer memory modifications.3 
+ 
+2. Internal electronic control units (“ECUs”) or engine control modules (“ECMs”) increasingly 
+govern the operation of agricultural equipment.  Where maintenance, upgrade, or repair is 
+                                                        
+1 Farmers, with livelihoods at stake, are a core example of what the Register has identified as the 
+“legitimate concern for exemption beneficiaries, many of whom may be increasingly frustrated 
+by a lack of access to the tools or skills required to make use of exemptions, particularly when 
+trying to engage in activities, such as automobile repair, that simply did not implicate copyright 
+in the analog world.”  U.S. Copyright Office, Section 1201 of Title 17, at 59 (2017) (“1201 
+Study”). 
+2 Declaration provided on condition of anonymity by farmer known to American Farm Bureau 
+Federation.  See Declaration of Mary Pat Weyback, American Farm Bureau Federation. 
+3 Mills Declaration (“Mills”) ¶ 2.b, Pratt ¶¶ 3,6, Shamblin ¶¶ 4, 5, Doe ¶ 3. 
+[PAGE 3]
+ 
+ 
+3 
+ 
+necessary, the ECU may control the ability to diagnosis, access, and repair, and whether the 
+equipment, once repaired, will recognize the user and accept commands.4 
+ 
+3. Proprietary embedded software frustrates the ability of Farmers and local servicers to 
+maintain equipment that is owned by the Farmer and which the Farmer would like to 
+maintain himself, with assistance of a local servicer as may be necessary.
+5 
+ 
+a. Original Equipment Manufacturers (“OEMs”) commonly use Technical Protection 
+Measures (“TPMs”) in order to limit access to and control over the ECU software and 
+firmware.  The TPMs are designed to limit access and control to only OEM-authorized 
+dealers, to the exclusion of independent local dealers and servicers.6 
+ 
+b. Due to these TPMs, as well as manufacturer restrictions on distribution of necessary 
+codes, information, and software, Farmers cannot maintain their equipment themselves, 
+as was possible with older equipment that is less dependent on embedded software, or to 
+which TPMs were not applied.
+7 
+ 
+c. Some major OEMs do not license necessary software to local, independent dealers and 
+repair shops.8 
+ 
+Coding / handshake / connectors 
+ 
+4. Some ECUs are configured to refuse commands unless a “challenge-response” condition, 
+such as a correct 16-32 bit response, is completed.  This “virtual handshake” limits access to 
+and control over the ECU.
+9   
+ 
+a. Farmers need local expert assistance and tools in order to accomplish a “virtual 
+handshake” by either modifying a version of the OEM software, or developing 
+compatible software that identifies the user so as to be accepted by the ECU of the 
+Farmer’s own vehicle.
+10 
+ 
+b. OEMs also limit access to ECUs through restrictive connectors designed to enable only 
+proprietary software to interface with the vehicle.11 
+ 
+Passwords / resets / code clearing 
+ 
+                                                        
+4 Id. and Kenney ¶¶ 2, 3. 
+5 Kenney ¶¶ 1 – 5, Mills ¶ 4.b, Pratt ¶ 6, Schwarting ¶ 3, Shamblin ¶ 4, Doe ¶ 3.  
+6 Kenney ¶¶ 1 – 5 and Mills ¶¶ 2.b, 3.a; Schwarting, ¶ 3. 
+7 Mills ¶¶ 2.b, 3.a, Pratt ¶ 6, Shamblin, ¶ 4, Doe, ¶ 3.  
+8 Kenney ¶¶ 6,7, Mills ¶¶ 2.b, 3.a. 
+9 Kenney ¶¶ 2, 6; see, Electronic Frontier Foundation Class 21 Supp. at 3 (2015) (“EFF 2015 
+Comment”). 
+10 Kenney ¶ 2, Mills ¶¶ 2.b, 3.a, Pratt ¶ 3, Doe, 3. 
+11 Kenney ¶ 5, Doe ¶ 2. 
+[PAGE 4]
+ 
+ 
+4 
+ 
+5. Many common maintenance and repair tasks, such as diagnosis and tuning, now require 
+passwords to embedded software.12  Passwords may be necessary to access or program 
+ECUs, or even to clear fault codes once a repair has been completed.  After  paying tens or 
+hundreds of thousands of dollars for farm equipment, Farmers are not given access to these 
+passwords, nor are these passwords provided to local independent dealers and servicers.13 
+ 
+6. If a code cannot be cleared the equipment might not function, or might function at lower 
+capacity or efficiency, such as “limp mode” with limited power.
+14   
+ 
+7. Methods tried in the past – obtaining passwords from other farmers or mechanics with 
+similar machines, shared in-person or through online forums, hacking the passwords by 
+manually guessing, or using “brute force” methods which employ software scripts that would 
+attempt tens of thousands of guesses until the correct password is discovered15 – are less and 
+less likely to succeed today.16   
+ 
+8. Unless a local mechanic or servicer has acquired tools from an authorized dealer or an 
+unauthorized third party, the local mechanic cannot render expert assistance to the Farmer in 
+operating, maintaining, or repairing agricultural equipment.17 
+ 
+9. Third parties outside of the United States have modified and developed versions of software 
+to bypass password requirements, or at least to reveal fault codes, so some repairs can be 
+undertaken if the user relies on expert local servicers to whom such tools have become 
+available.18 
+ 
+10. Farmers are unaware of whether the engineering of such software or tools involved the 
+making of a copy of OEM software and have no interest in making any copy other than may 
+be necessary for operating their own equipment.19  
+ 
+Memory modifications 
+ 
+11. OEMs restrict access to the ECUs by modifying memory to disable data access ports, such as 
+the industry standard Joint Test Action Group (“JTAG”) port.  A particular code or “bit” is 
+added to the ECU’s volatile memory, thus closing the rest of the computer memory off from 
+access.20 OEMs can put further protection on the ECUs by modifying it with a type of 
+                                                        
+12 Kenny ¶ 3, Pratt ¶ 3, Schwarting ¶ 3, See USC Intellectual Property & Technology Law Clinic 
+2015 Class 21 (“IPTC USC 2015”) at 7. 
+13 Kenney ¶ 7, Pratt ¶3, Schwarting ¶ 3, Shamblin ¶ 2. 
+14 Kenney ¶ 6, Schwarting ¶ 3. 
+15 See IPTC USC 2015 Comment at 7. 
+16 Kenney ¶¶ 5, 6, Mills ¶¶ 2, 3, Pratt ¶ 3, Schwarting ¶ 3, 
+17 Pratt ¶ 3, Mills ¶ 1, Schwarting ¶6, Doe ¶ 2. 
+18 Kenney ¶ 5, Schwarting ¶ 3. 
+19 E.g. Kenney ¶¶ 2, 3. 
+20 IPTC USC 2015 Comment at 7. 
+[PAGE 5]
+ 
+ 
+5 
+ 
+permanent memory called a “fuse” – for example a JTAG fuse, which will disable extraction 
+of firmware.21 
+ 
+12. Farmers require expert assistance and tools to obtain access to an ECU protected by memory 
+modification. 
+ 
+a. Attempts to circumvent volatile and permanent memory modifications can involve “fault 
+injection.”  An expert would disturb the ECU’s electrical signals so as to bypass the 
+required “bit” checking step.  This would enable access to the firmware to be re-
+programed with a different set of instructions.
+22 
+ 
+b. To circumvent a volatile memory modification, a non-invasive fault injection method 
+such as clock or power glitching is sufficient. 
+ 
+c. To circumvent the permanent memory fuse, an invasive fault injection method such as 
+voltage or optical glitching is required.
+23 
+ 
+d. Neither of these techniques involves copying embedded software, or performing 
+modifications to the proprietary software.   
+ 
+e. As is the case with codes and passwords, without expert assistance and necessary tools 
+Farmers are not capable of performing necessary circumvention on the agricultural 
+machines upon which they rely for their livelihoods, because they cannot control their 
+operation or perform the simplest maintenance.   
+ 
+13. Local servicers are conveniently available to most Farmers, over relatively short distances.  
+Local servicers can make on-site visits at relatively minimal expense and delay to the 
+farmer.
+24 
+ 
+14. Manufacturer-authorized dealers are located much further from most farms than local 
+repairmen or servicers, in some cases at great distance.  This trend is increasing in some 
+areas, as dealerships move or close.25 
+ 
+15. Increasingly, maintenance and repair of farm equipment can be performed only by 
+manufacturer-authorized dealers and servicers because neither Farmers nor independent local 
+repairmen or servicers are afforded access to necessary information and tools.26 
+                                                        
+21 EFF 2015 Comment at 6.  
+22 Id. 
+23 See IPTC USC 2015 Comment at 8; Jasper G.J. van Woudenberg, Marc F. Witteman, Federico 
+Menarini, Practical Optical Fault Injection, pp. 91–92, available at 
+http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6076471(“Practical Optical Fault 
+Injection”). 
+24 Mills ¶ 2, Pratt ¶ 3, Schwarting ¶¶ 5,6, Shamblin ¶ 3, Doe ¶ 2. 
+25 Id. 
+26 Kenney ¶¶ 5, 6, Mills ¶ 1, Pratt ¶ 3, 5, Schwarting ¶ 7, Shamblin ¶ 3, Doe ¶ 2. 
+[PAGE 6]
+ 
+ 
+6 
+ 
+16. It is often severely burdensome for a Farmer to transport equipment to an authorized dealer 
+or, alternatively, to pay for a dealer’s authorized servicer to travel to the farm. 
+ 
+a. During growing seasons there is often a substantial wait for an authorized servicer’s 
+availability.27 
+ 
+b. In some regions growing seasons are short.28 
+ 
+c. It is increasingly the case that vital equipment cannot be economically maintained, 
+controlled, or repaired during a growing season.  This has impacted the viability of both 
+large and small farms and ranches, and has threatened the livelihoods of many Farmers.29  
+ 
+17. One indication of the challenge to farm viability posed by manufacturer control of essential 
+maintenance and repair is that the price of used, relatively obsolete agricultural equipment 
+has been rising,
+30 because Farmers and their local servicers are better able to maintain older 
+equipment that is less reliant on the embedded, proprietary software to which Farmers and 
+local servicers have no or limited access. 
+ 
+18. To the extent Farmers and their local servicers can operate, maintain, or fix the Farmer’s 
+newer equipment, they often must rely on software tools obtained from third parties.  These 
+tools initially may have been distributed on an authorized basis in another jurisdiction, such 
+as Canada, where they have not been as closely controlled by the manufacturer.31  
+Proposed New Exemption Language 
+Farmers have welcomed the Copyright Office focus, as set forth in the 1201 Study and this 
+NPRM, on making exemptions truly useful to petitioners, rather than useful only in theory.  With 
+this objective in mind, and with respect only to mechanized agricultural equipment,32 Farmers 
+propose that the relevant exemption read as follows: 
+Computer programs that are contained in and control or assist the functioning of a 
+mechanized agricultural vehicle or implement, where the owner or authorized 
+user of the vehicle or implement, or one rendering expert assistance toward 
+maintaining or improving its use, determines that circumvention lawful under the 
+copyright law or an enabling tool for such circumvention is necessary for the 
+diagnosis, repair, or lawful modification of the vehicle or implement’s function, 
+and such assistance or tool is to be applied to this lawful purpose. 
+                                                        
+27 Mills ¶ 1, Pratt ¶ 5, Schwarting ¶ 3, Shamblin ¶2. 
+28 Mills ¶ 1, Schwarting ¶ 5, Pratt ¶ 5, Shamblin ¶ 3. 
+29 Mills ¶¶ 1 – 7, Schwarting ¶ 5, Pratt ¶¶ 4 – 7, Shamblin ¶ 2. 
+30 Mills ¶ 4.a, see Doe ¶ 2. 
+31 Kenney ¶¶ 5, 6, Schwarting ¶ 3. 
+32 Farmers take no position on whether or to what extent the new exemption should apply to 
+other devices. 
+[PAGE 7]
+ 
+ 
+7 
+ 
+ITEM D.  TECHNOLOGICAL PROTECTION MEASURE(S) AND METHOD(S) OF CIRCUMVENTION 
+ 
+ECUs and ECMs increasingly govern the operation of agricultural vehicles and 
+implements.  When there is a malfunction, these control mechanisms may control diagnosis, 
+access, repair, and, further, whether the vehicle or implement will recognize the user, and 
+function, once repaired.  Functions that are entirely mechanical on older vehicles are, on newer 
+vehicles, controlled and restricted by proprietary software, passwords, and computer memory 
+modifications. 
+ 
+Proprietary Software Restricts Access to the ECUs and Methods of 
+Circumvention 
+ 
+OEMs commonly restrict access to ECUs by ensuring that they respond only to 
+proprietary firmware and software.
+33  Some ECUs are configured to refuse commands unless 
+“challenge-response” conditions such as correct 16-32 bit responses are met, which act as a 
+virtual “handshake” allowing access and control of the ECUs.34  OEMs also limit access to ECUs 
+through restrictive connectors designed to enable only proprietary software to interface with the 
+vehicle.35 
+ 
+Farmers need local expert assistance and tools in order to accomplish a “virtual 
+handshake” by either modifying a version of the OEM software, or developing compatible 
+software that identifies the user so as to be accepted by the ECU of the Farmer’s own vehicle.  
+Third parties outside the United States have modified and developed versions of software to 
+accomplish this, or at least to reveal fault codes, so repair can be undertaken by the user with 
+expert assistance.
+36  Farmers are unaware of whether the engineering of such software has 
+involved making a copy of OEM software.37  
+ 
+Passwords Restrict Access to the ECUs and to Essential Re-sets 
+ 
+Common maintenance and repair activities, such as diagnosis and tuning, now require 
+passwords to embedded software.38  Passwords are often required in accessing and reprograming 
+ECUs, and even to clear fault codes.  Failure to clear a code means that if the vehicle works at all 
+it may function at lower capacity or efficiency; it may be put into “limp mode” with limited 
+power.39  After buying this equipment at great expense, Farmers are not given access to the 
+passwords vital to the efficient function of their equipment.  Even where there is no interest in or 
+capability of copying any software, Farmers often cannot perform once routine and simple 
+maintenance or control vehicle operating modes after repair.  Nor, unless they have acquired 
+                                                        
+33 Kenney ¶ 4  
+34 See EFF 2015 Comment at 3 (2015). 
+35 Kenney  ¶ 5. 
+36 Schwarting ¶ 3.  
+37 Kenney ¶ 5. 
+38 IPTC USC 2015 Comment at 7. 
+39 Kenney ¶ 6. 
+[PAGE 8]
+ 
+ 
+8 
+ 
+tools from an authorized dealer or a third party, can the local independent mechanic or servicer 
+who may be the Farmer’s only economic alternative. 
+ 
+Methods tried in the past – obtaining passwords from other farmers or mechanics with 
+similar equipment shared in-person or through online forums,  hacking the passwords by 
+manually guessing or using “brute force” methods which employ software scripts that would 
+attempt tens of thousands of guesses until the correct password is discovered
+40 – are less and less 
+likely to succeed.41   
+ 
+Computer Memory Modifications Restrict Access to the ECUs  
+ 
+OEMs also restrict access to the ECUs by modifying memory, to disable data access 
+ports, such as the industry standard Joint Test Action Group (“JTAG”) port.  A particular code or 
+“bit” is added to the ECU’s volatile memory, thus closing off the rest of the computer memory 
+from access.42 OEMs can put further protection on the ECUs by modifying it with a type of 
+permanent memory called a “fuse” – for example a JTAG fuse, which will disable extraction of 
+firmware.43 
+ 
+Attempts to circumvent such volatile and permanent memory modifications can involve 
+“fault injection.”  An expert would disturb the ECU’s electrical signals so as to bypass the 
+required “bit” checking step.  This would enable access to the firmware to be re-programed with 
+a different set of instructions.
+44  To circumvent the volatile memory modification, a non-invasive 
+fault injection method such as clock or power glitching is sufficient, but to circumvent the 
+permanent memory fuse an invasive fault injection method such as voltage or optical glitching is 
+required.45  Without expert assistance, Farmers are not capable of accomplishing this, even 
+though it clearly does not involve copying software and is covered by the Sixth Round 
+exemption.   
+ 
+ITEM E.  ASSERTED ADVERSE EFFECTS ON NONINFRINGING USES  
+ Farming does not infringe copyright.  Farm ers and ranchers running equipment lawfully 
+acquired at enormous expense and owned by the farmer or rancher does not infringe copyright.  
+The only issue is whether maintaining, repairing, or upgrading such equipment in aid of the 
+purposes for which it was acquired infringes copyright.  Farmers’ answers to the NPRM’s 
+specific questions show that (1) all of the activities for which an exemption is sought are lawful 
+under the copyright law, and (2) an exemption for these activities, including expert assistance 
+with necessary tools, would not entail any purported Copyright Office approval of “trafficking” – 
+                                                        
+40 IPTC USC 2015 Comment at 7. 
+41 Id. 
+42 Id. 
+43 EFF 2015 Comment at 6. 
+44 Id. 
+45 N.23, supra. 
+[PAGE 9]
+ 
+ 
+9 
+ 
+an issue that, as the Register of Copyrights (the “Register”) has noted,46 the Copyright Office 
+lacks the authority to resolve one way or the other. 
+ Whether the proposed class includes at least some works protected by copyright. 
+ Farmers assume that the software and firm ware that control the operation of farm and 
+ranch equipment is protected by copyright.  The codes and passwords that inhibit access to 
+software or firmware may or may not be protected by copyright.47 
+ Whether the uses at issue are noninfringing under title 17. 
+ In the Sixth Round the Register found that a us er’s repair of motor vehicles that involves 
+the repair of functions that were previously controlled by mechanical or analog techniques is 
+noninfringing under title 17.48  By renewing the exemption in this NPRM, the Register has 
+obviated the need to make this case again.  The only issue now is whether necessary expert 
+assistance from farm or ranch employees and contractors or local independent mechanics or 
+repair shops, with such software or other tools as may be required to make necessary repairs, 
+should be construed as included within this “user” exemption. 
+ In the 1201 Study the Register r ecognized that lack of expert assistance could impair or 
+destroy the utility of the user exemption.  The Study suggested that Section 1201(a)’s text 
+references “users” as opposed to “owners” of a work, may support a “less restrictive” definition 
+of “eligible user.”49  Thus the Register,  
+… where appropriate, will seek to avoid recommending unduly narrow definitions 
+of exemption beneficiaries.  This may provide greater opportunity for the courts 
+to provide guidance on the proper construction of the anti-trafficking provisions.50     
+Farmers welcome this approach and have a compelling case for its application in this Seventh 
+Triennial Section 1201 Proceeding (2018) (this “Round”).   
+With the renewal of the Sixth Round Class 21 exemption, the only issues to be decided in this 
+Round pertaining to farm equipment repair are (1) whether local, specific, and necessary expert 
+repair assistance falls within a circumstantial definition of “user,” and (2) whether, due to 
+concern over “trafficking,” the Register must exempt from such assistance acquisition of the very 
+                                                        
+46 1201 Study at 61 – 62 and n. 338. 
+47 “Generally speaking, ‘lock-out’ codes fall on the functional-idea rather than the original-
+expression side of the copyright line.” Lexmark International, Inc. v. Static Control Components, 
+Inc., 387 F.3d 522, 536 (6th Cir. 2004).   
+48 Farmers do not agree with the Register’s exception for telematics and media.  Indeed, as 
+discussed in the Overview, because farms are geographically dispersed and it is very expensive 
+and time-consuming to transport equipment or to schedule dealer visits, remote telematic 
+diagnosis and repair interoperability will be particularly valuable to Farmers.  Farmers also have 
+little interest in adding to memory storage for any infringing purpose. 
+49 1201 Study at 61 and n. 335.  
+50 Id., noting a May 20, 2016 Roundtable observation that a Librarian’s exemption cannot 
+foreclose or impair court action against “trafficking.”  
+[PAGE 10]
+ 
+ 
+10 
+ 
+tools that would enable such assistance.  The Declarations of large and small farmers and 
+industry experts attached to these comments establish that (1) local and beneficial repair 
+assistance, including use of necessary tools, should fall within the definition of noninfringing 
+use, and (2) acquisition and application of tools necessary to make this exemption meaningful 
+need not be excluded as “trafficking.”  
+ Whether users are adversely affected….  . 
+As the Register concluded in the Sixth Round, motor vehicle repair is adversely affected by an 
+inability to make noninfringing uses of vehicle software and firmware, and this affects the users 
+of the vehicles.51  With respect to the factors listed in section 1201(a)(1)(C), the only remaining 
+issue for this Round is whether circumvention of the technological measures applied to motor 
+vehicle software would have an “effect … on the market for or value of copyright works.” 
+The Declarations provided with these Comments establish that: 
+(1) Local expert assistance for noninfringing farm equipment repair does not diminish the 
+value of copyrighted works embedded in farm equipment. 
+ 
+(2) Use of specific and necessary software tools in the repair of farm equipment does not 
+diminish the value of copyrighted works embedded in farm equipment. 
+ 
+(3) Acquisition and application of the necessary repair tools is not trafficking such as to 
+diminish the value of works embedded in farm equipment. 
+ 
+Access to software tools and their expert use do not diminish their value 
+ 
+The experience of other industries shows that access to software tools by independent 
+dealers does not diminish their worth, as intellectual property, to OEMs.  In the auto industry, for 
+example, while multi-brand software tools are not generally available on an authorized basis, 
+OEM-proprietary software, including necessary circumvention tools, is widely available due to 
+the 2014 Memorandum of Understanding (“MOU”) expansion of a 2002 agreement between 
+automobile manufacturers and independent servicers.52  The Reply Comments of the Auto 
+Alliance made during the 2015 Sixth Round at 11 – 12 show that, although the MOU has 
+resulted in widespread availability of software tools to independent dealers, there is no evidence 
+that auto manufacturers have chosen to be less reliant on embedded functional software in 
+designing vehicles and components, or that the value of their intellectual property has suffered.  
+Rather, the 2002 agreement was expanded in 2014.  No complaint was raised regarding 
+expanded circumvention as a result of these tools being in the hands of independent repair 
+persons.  The availability of the tools was, in fact, cited only as evidence of reduced harm to 
+independents.    
+                                                        
+51 “TPMs protecting computer programs on ECUs have a substantial adverse impact on the 
+ability of vehicle owners to engage in lawful diagnosis, repair and modification of their 
+vehicles.”  2015 Recommendation at 240.  
+52 See Memorandum of Understanding, Jan. 25, 2014, 
+http://www.nastf.org/files/public/OtherReference/MOU_SIGNED_1_15_14.pd.f.  
+[PAGE 11]
+ 
+ 
+11 
+ 
+DOCUMENTARY EVIDENCE -- Sworn Declarations Attached.  
+[PAGE 12]
+ 
+ 
+12 
+ 
+ Declaration of Kevin Kenney 
+Software Engineer for Agricultural Vehicles 
+ 
+1. My name is Kevin Kenney and I am a software engineer in Nebraska specializing in low-
+emission systems for agricultural and commercial vehicles.  
+ 
+2. I have developed and patented a clean diesel system (Patent # 8826888) that I would like to 
+offer to owners of agricultural and commercial vehicles, however any attempts to install this 
+system led to a shut-down of the vehicle due to TPMs, as the manufacturer software 
+recognizes the modifications. Moreover, I am prevented from installing any replacement 
+parts on a vehicle, as it requires configuring a calibration code before the ECU will recognize 
+the new part and allow it to function. 
+ 
+3. The system for which I received a patent is designed to be in compliance with EPA 
+regulations and has been praised, as an improvement over present technology, by experts 
+knowledgeable in the field. However without a code to crack the manufacturer’s code, this 
+legal system is unusable. Vehicle owners seeking to lower their fuel emissions may be forced 
+to take out the emissions systems from their vehicles, send it away to Canada for 
+programmers to modify the code, and then reinstall the systems in their vehicles. 
+ 
+4. Software that would allow access to the ECUs of John Deere vehicles called “John Deere 
+Service Adviser” is available only to authorized dealers, and my request for access to this 
+software have been denied when I have contacted their local John Deere dealer per 
+instruction on their website. 
+ 
+5. I have seen third-party repair technicians operate programs developed overseas that may have 
+been developed from scratch or is a modified version of John Deere Service Adviser to get 
+around the TPMs of agricultural vehicles. This circumvention software is however 
+incompatible with any tractor that has a tier 4 emissions system, and typically will not work 
+on tractors that are less than five years old. This software is installed in a laptop and is 
+connected to the ECU through a USB cable. Some tractors require a J1339 port, but for the 
+most part John Deere tractors have a USB port that interfaces with the laptop software. 
+ 
+6. The circumvention software is able to re-set error codes that alert the system when the 
+sensors indicate some problems in the tractor. Even though the physical problems in the 
+tractor may be fixed, unless the error code is re-set, the system puts the tractor in a “limp” 
+mode where the functions of the machine are severely limited.  Without this software that is 
+able to talk to the ECU and re-set the code, farmers normally would have to call a John Deere 
+dealer to send out a technician, which is expensive and could cost more than $1000 an hour 
+due to loss in crop.   
+ 
+7. The JD Service Adviser itself is very simple to use and the users do not need to have much 
+technical knowledge to use it, but because of the lack of access to this software & ever-
+changing user id/password updates from the OEMs, there is an essential monopoly of these 
+tractor companies on farm equipment repair.  
+  
+[PAGE 13]
+ 
+ 
+13 
+ 
+ 
+This Sworn Declaration accurately reflects my belief & knowledge. 
+ 
+       / s/Kevin Kenney 
+       Kevin Kenney 
+       S o f t w a r e  E n g i n e e r  
+         
+  
+[PAGE 14]
+ 
+ 
+14 
+ 
+Declaration of Guy Mills, Jr. 
+Farmer 
+December 4, 2017 
+ 
+My name is Guy Mills, Jr. and I am a fifth generation Nebraska farmer. Some of the current 
+3810-acre operation has been in the family for four generations. I own 5 John Deere tractors 
+(including a John Deere 8360R), a Case IH tractor, a John Deere combine, baler, planter, 4 
+semi-trucks with a mix of Caterpillar and Cumming motors, and other equipment. I became 
+aware of the DMCA a few years ago when my son informed me of a Wired Magazine article 
+in which John Deere claimed that farmers do not own their tractors. 
+ 
+This Declarative Statement, which includes personal accounts, summarizes some of the 
+problems perpetuated by the DMCA: 
+ 
+1. Being at Mercy of Dealers Increases Farming Costs while Hindering Economy 
+  
+a. Time is of the essence for farmers for a couple of reasons. We are harvesters of 
+sunlight and have a very short window to get our crops planted and harvested. 
+Since other farmers are using their equipment during the same short windows, 
+dealers are extremely busy with repair demands. This leaves farmers literally at 
+the mercy of dealers who are in a position to charge exorbitant prices to 
+accommodate their customers’ urgent needs. This lack of competition, takes 
+business away from local repair shops and hurts the local economy.  
+ 
+b. Since the Case dealership in Broken Bow closed its doors last year because of 
+stagnant sales and a poor farm economy, the nearest dealership is 35 away. But, 
+sometimes there is a need to travel additional miles to other dealerships if parts 
+are not in stock. There are many local, independent shops in my area, the closest 
+being only eight miles away. Their labor rate is $70/hour compared to the 
+$109/hour dealership rate plus. If there is a need to pay someone to come to the 
+farm for repair work, having someone travel less than 20 miles round trip 
+compared to someone traveling over 100 miles is substantial to the overall cost. 
+The repair cost differential between local repair shops and dealerships is 
+substantial.  
+ 
+2. Lack of Competition Does not Incentivize Production of Competitive, Weather  
+             & Customer-Friendly Equipment 
+ 
+a. Three years ago, I replaced the software on my 2630 John Deere monitor with a 
+competitor’s brand SMS. The new software is superior to John Deere’s APEX as 
+it has less problems while allowing me to run regression analysis on variables 
+collected in the harvest, planting and soil data. In this data-driven era, correlation  
+of variables are used to reduce costs and increase yield while producing more 
+with less inputs.  
+[PAGE 15]
+ 
+ 
+15 
+ 
+ 
+Page Two 
+Guy Mills, Jr. Declaration 
+December 4, 2017 
+ 
+b. Before agricultural vehicles ran on software, I used to be able to repair my 
+machines myself. For example, if an alternator on one of my tractors 
+malfunctioned, it cost approximately $35 to replace the armature and 45 minutes 
+of my time. Now, if the alternator malfunctions the dealer’s solution is a $1,200 
+dollar new alternator.  Last fall, my John Deere combine would not shut down 
+when I tried to turn it off. I had to call the nearest dealer who traveled 40 miles to 
+the combine site at one of my farms to diagnose the problem. The technician said 
+I needed to replace the ECU or “brain” (a small 8 x 6 x 1” box inside the 
+machine). But, there was only one dealership in Nebraska who had that particular 
+part in inventory. I drove five hours to the second dealer to buy the part. Upon 
+returning to the site with the ECU, the technician returned and unlocked the code. 
+The solution could have been greatly simplified had I been able to plug in the part 
+myself, without having to have the dealer enter the code in order for the combine 
+to run.  
+ 
+c. In Nebraska, the wind blows quite often. Last week, one of my tractors wouldn’t 
+work because a fault code was triggered during a windstorm. I had to call a John 
+Deere technician to clear the codes, even though nothing was actually wrong with 
+the machine. I haven’t received the bill yet from the dealer but I expect it will cost 
+me around $500.  The technician warned me about cleaning the ECU after a 
+windstorm as static electricity from an air hose or brush could cause even more 
+damage.  
+  
+3. Farmers Have No Recourse for Manufacturer & Dealer Error 
+  
+a. Last winter I took my John Deere tractor into the dealership for an annual service 
+program. The dealer ran diagnostics and their equipment indicated that a 
+transmission O ring inside the tractor was out of place. I was reluctant to let the 
+dealer replace this because everything was working fine on this tractor. However, 
+the purpose of these service programs is to identify potential problems and fix 
+them to reduce if not eliminate down time. They gave me an estimate of $12,000 
+to fix the o ring in the transmission. The dealer implied that if he didn’t fix it at 
+the time, he may not be inclined to come out later to fix it on site during planting. 
+I acquiesced and returned two days later to check on the progress of my tractor. 
+The service manager was out but a young mechanic let me into the repair shop 
+area. He told me they had opened up the tractor and found that the O ring was not 
+bad. When asked if their diagnostic software was out of calibration, the service 
+manager claimed that it was not, yet he had no other explanation for the 
+misdiagnosis. Ultimately, I was charged $12,995.14 the majority of which is 
+attributable to the O ring. 
+  
+[PAGE 16]
+ 
+ 
+16 
+ 
+Page Three 
+Guy Mills, Jr. Declaration 
+December 4, 2017 
+ 
+b. I also had an issue with my 24-row John Deere planter. The 2630 monitor on the 
+planter showed that each row was planting, but in actuality there were intermittent 
+blank spaces of 60-feet-wide by 20-to-30-feet-long .The monitor did not register 
+this skip. I had to go out into the field with my foreman, check for blank spots, 
+and re-plant the rows the machine missed once the corn emerged. I brought this 
+issue up with the dealer, who conferred with John Deere’s D TACH 
+troubleshooting center in Iowa. Neither the dealer nor John Deere could come up 
+with any answer as to why my planter was skipping. The ECU on the planter was 
+replaced. All electrical connections were fine. The second year the service 
+manager was very frustrated trying to solve this problem. He exhausted all 
+remedies John Deere offered. He then decided to try blogs on the internet. A 
+farmer from Texas responded saying it was not the planter at all but rather a 
+hydraulic fitting under the armrest in an 8330 tractor. This fitting was replaced 
+and the problem was solved.  Allowing farmers to collaborate with others in the 
+farm community to access and share information about their own machinery is 
+necessary, especially when the manufacturers themselves are at a loss as to how to 
+repair their own equipment. It took the help of another farmer and over two years 
+to eventually solve this problem. The $10,000 2630 monitor did not show these 
+skips whereas a simpler monitor with blinking lights of a few years ago would 
+have alerted me that the planter not planting. A monitor’s primary function is to 
+alert the operator of a planting malfunction.  
+ 
+c. Recently, after baling 1,200 bales over a couple day period, the 569 baler stopped 
+because a code triggered the knife used to cut the net wrap. It was a costly 
+malfunction as the technician drove 80 miles round trip and took three hours to 
+clear the code.  
+ 
+4. Poor Manufacturing Decisions Puts Financial Burden on Farmers  
+ 
+a. The secondary market for used, pre-software equipment is expensive and such 
+older equipment is in high demand because they do not need such repairs that can 
+be done only by the manufacturer. Older tractors, like the John Deere 4030, can 
+cost more than they were sold for when they were brand new. 
+ 
+b. I use my semi-trucks for hauling corn and soybeans at harvest. A Caterpillar C 12 
+diesel engine was intermittently sputtering. I took it to the local dealer. The dealer 
+kept misdiagnosing the problem. First the ECU was replaced at $2,800. That did 
+not work. Next the wires leading up to the ECU were replaced at a $600 cost. 
+That did not work.  Next the Jake brake was worked on for at an $800 cost. That 
+did not work. Then the dealer said the cause of the diesel engine sputtering was 
+the transmission. At this time I questioned his rationale as I have had many diesel  
+  
+[PAGE 17]
+ 
+ 
+17 
+ 
+Page Four 
+Guy Mills, Jr. Declaration 
+December 4, 2017 
+ 
+engines on pivots which run fine without a transmission. The dealer claimed the 
+super-ten-speed transmission in the truck has an ECU between the 9 and 10th gear 
+which goes bad. It was manufactured by Eaton in Kearney Nebraska but Eaton no 
+longer manufactures them. The dealer’s solution for a sputtering diesel engine 
+was to replace the transmission at a cost of $12,000 dollars. While the part was 
+still being manufactured, it cost around $100. The gears in the transmission are 
+fine. This example shows the absolute lunacy seen in equipment manufacturing 
+today. The dealer complained to me that a similar situation happened to them on 
+one of their company trucks. 
+ 
+Recently, I gave input to the Kansas City Federal Reserve regarding the current 
+risks to a healthy agricultural economy. I have requested that the KCFR and UNL 
+economists collect data on the DMCA issue.  
+ 
+I believe the adverse impact caused by the DMCA extends well beyond the 
+agriculture sector and makes our entire economy more vulnerable. Since I have 
+been asked to address this situation, I have received thank you letters from various 
+leaders—from hospital   administrators to business CEOs; confirming that this is 
+not just an agriculture problem. History has already taught us that monopolies 
+thwart American ingenuity; resulting in the customer paying more for less reliable 
+and inferior equipment.    
+ 
+ 
+ Under penalty of perjury I affirm that this Declaration accurately reflects my knowledge. 
+       / s / Guy Mills, Jr. 
+       Guy Mills, Jr. 
+       F a r m e r  
+ 
+  
+[PAGE 18]
+ 
+ 
+18 
+ 
+Declaration of Charles “Jason” Pratt  
+Farmer 
+ 
+1. My name is Jason Pratt, and I run a small farm in Virginia.  
+ 
+2. I have John Deere, McCormick, and Ferguson tractors.  
+ 
+3. In particular, I have had issues with repair of my McCormick tractor.  I initially bought 
+my tractor from a dealership an hour away from where I live. However, that dealership 
+closed.  Now, to get to a dealership that is able to service my McCormick, I have to travel 
+five or fifteen hours to get to the two closest dealerships. Two mechanics live 
+approximately ten minutes from me. The mechanics can do all the repairs up to having to 
+reset some software or needing to use the diagnostic machine. As time has gone by, 
+however, the mechanics are able to repair fewer and fewer problems with the tractors 
+because of software advancements, and physical aspects of the tractors being entirely 
+controlled by software.  
+ 
+4. In one instance, my McCormick tractor broke down in the field. I could either send it to 
+the dealership or attempt to fix it myself. I did not send it to the dealership, because the 
+dealership that was able to fix it was two states away. To get the tractor to that dealership, 
+I would have had to pay someone to ship it there because my trucks wouldn’t be legal to 
+leave VA with the weight of that tractor. Instead, I worked with a local mechanic to 
+bypass the wires to try to determine what the problem was. It took ten hours for us to 
+determine that the problem was the voltage regulator.  
+ 
+5. I make sure I have a back-up tractor in the case of a breakdown because I cannot rely on 
+dealerships providing me with a replacement right away, if at all.  
+ 
+6. On several occasions I, along with my local mechanics, have been unable to fix physical 
+issues with the tractors, such as issues with voltage regulators, because we are unable to 
+determine the issue without the diagnostic software.  
+ 
+7. Local mechanics cost approximately $25/hr., whereas dealerships cost $85/hr.  
+ 
+Under penalty of perjury I affirm that this Declaration accurately reflects my knowledge. 
+        
+/s/Jason Pratt 
+       C h a r l e s  J a s o n  P r a t t  
+       F a r m e r  
+  
+  
+[PAGE 19]
+ 
+ 
+19 
+ 
+Declaration of Kyle Schwarting 
+Farmer 
+ 
+1. My name is Kyle Schwarting and I am a farmer in Nebraska engaging in custom 
+fertilization. 
+ 
+2. I own and utilize my own equipment, mainly CASE IH and John Deere tractors.  
+ 
+3. I mostly do my own repairs on my vehicles and own a primitive diagnostic software that 
+may be an OEM version released in a foreign country. This software however can only 
+read out the ECU’s fault codes. The version that I use is unable to change the engine 
+parameters, update the firmware, or modify the embedded ECU software in any way.  My 
+current software does not allow me to reset the ECU to its original state after any 
+problems have been repaired. 
+ 
+4. If I am forced to go to a dealer, it could be up to two weeks before they can see to my 
+vehicle because the dealers in his area prioritize the bigger farms that bring in more 
+business for the dealers. Bigger farms have the resources to buy new, expensive 
+equipment, but I go to the dealer only occasionally. This has only been getting worse in 
+this area because many of the dealers are consolidating into larger entities.  
+ 
+5. The fertilization window in Nebraska is very short, thus I have one-month period in the 
+fall before the ground freezes or snow begins to fall to cover as many acres as possible. 
+Therefore, if my vehicle breaks down and the local John Deere dealer is unable to fix it in 
+the next two weeks, I would have lost half of my business for that season. Additionally, 
+this would mean that I would lose repeat business in other farms because they will not 
+hire me in future seasons due to the risk of inconsistency.   
+ 
+6. Logistics of using a dealer in my area are often difficult and expensive. A dealer 
+technician would sometimes come to where my vehicle has broken down, but in most 
+cases the technician will only diagnose the vehicle at the dealership. The dealer will 
+arrange to haul my vehicle to the dealership, take two weeks to repair it, and then haul it 
+back—all of this is expense. I have on occasion arranged the haul myself, but hiring 
+special haulers that can handle a 55,500-lb tractor and obtaining special permits to carry a 
+heavy load over the roads have cost $3000 in transportation alone.   
+ 
+7. I do not have particular preference between a local mechanic and a dealer technician as 
+long as my equipment is fixed quickly at a reasonable price, but local mechanics are 
+closer and more readily available in my area.  The nearest Case IH dealer is 75 miles 
+away.  
+ 
+Under penalty of perjury I affirm that this Declaration accurately reflects my knowledge. 
+ 
+       / s/Kyle Schwarting 
+       K y l e  S c h w a r t i n g  
+       F a r m e r   
+[PAGE 20]
+ 
+ 
+20 
+ 
+ 
+Declaration of Paul Shamblin 
+Lead Mechanic at Talley Farms 
+ 
+ 
+1. My name is Paul Shamblin, and I am an employee of Talley Farms in San Louis Obispo, 
+CA. I am the lead mechanic there. Talley Farms owns 30-40 John Deere tractors, 
+including a 7810 tractor. We also own several Caterpillar and Kabota tractors. 
+ 
+2. When one of the agricultural machines stops working, it slows things down on the farm. 
+When a field needs preparation, a vehicle malfunction can set the farm back one or two 
+weeks, which has downstream effects on production. 
+ 
+3. Sometimes it can take 3 weeks for the John Deere dealer to even get a malfunctioning 
+vehicle onto their schedule, and then another 3-4 weeks for the repair to be done. For 
+smaller, simpler fixes, I would consider going to an independent repair shop if I were 
+confident they were competent and could get the job done faster. 
+ 
+4. I’ve been having trouble with the John Deere 7810 tractor: it has 16 speeds but has been 
+skipping 5 speeds in the middle (it’ll function at speeds 1 through 7 and then skip straight 
+to speed 13). I called a John Deere technician and diagnosed the issue as a problem with 
+the electronic solenoids on the transmission, but because of the wait time (7-8 weeks), 
+I’m considering replacing the transmission with a rebuilt one. I think this will only 
+require a mechanical fix—however if there are software implications with replacing the 
+transmission, I will have to go to the dealer for that. 
+ 
+5. Talley Farms also owns Caterpillar and Kobota tractors. These are older models, with the 
+Kobota ones from around 2000, 2005, and 2008. I’m mostly able to fix these tractors 
+myself because they are older and use less software. 
+ 
+Under penalty of perjury I affirm that this Declaration accurately reflects my knowledge 
+as Lead Mechanic at Talley Farms. 
+       / s/Paul Shamblin 
+       P a u l  S h a m b l i n  
+       Lead Mechanic at Talley Farms. 
+ 
+  
+[PAGE 21]
+ 
+ 
+21 
+ 
+Declaration of John Doe 
+Large-Scale Farmer 
+ 
+ 
+1. My name is John Doe (actual name is known to counsel) and I operate a larger-scale farm 
+(one of the top three biggest in my county) in Kansas. I own approximately twelve 
+tractors, which are a mix of John Deere and New Holland brand. I own a total of 20-25 
+pieces of agricultural equipment, including a Case IH columbine. Most of my machinery 
+is newer, bought within the last 6-7 years. I do not experience many issues with the right 
+to repair because I live within twenty-five miles of a dealership. 
+ 
+2. If I have a physical problem that isn’t controlled by software, a local mechanic can fix it. 
+But when an error code appears, they can’t help with those issues. More often than not, I 
+have to take my equipment to the dealership. None of my local mechanics have attempted 
+to use crack software, but one of them has a computer that is able to communicate with 
+older equipment. This computer was not compatible with my 2011 tractor when we 
+attempted to use it. 
+ 
+3. In one instance, my combine had an error code, and I was very close to the dealership, so 
+I took it to the dealership. The dealership used its diagnostic software and determined the 
+problem was a plugged filter. I bought the filter but couldn’t find where the filter was in 
+the machine to install it. The service manager couldn’t find it either without looking at 
+their program. Therefore, without that software technology, someone couldn’t even find 
+where the filter was supposed to be installed physically.  
+ 
+Under penalty of perjury I affirm that this Declaration accurately reflects my knowledge. 
+ 
+       / s/ “John Doe” 
+Farmer 
+ 
+   
+[PAGE 22]
+ 
+ 
+22 
+ 
+ 
+Declaration of Mary Pat Weyback 
+Deputy General Counsel, American Farm Bureau Federation 
+ 
+I am Mary Pat Weyback, Deputy General Counsel, American Farm Bureau Federation 
+(“AFBF”). 
+ 
+1. The Declarants above are known to AFBF and each Declaration is as reviewed and 
+digitally signed by the Declarant.  This includes the Declaration of “John Doe,” a farmer 
+who wishes to be known in this proceeding only by that name. 
+ 
+2. On behalf of AFBF and with respect to this proceeding I have engaged in or reviewed 
+additional interviews with farmers and other industry members that are all consistent with 
+and supportive of the facts, observations, and assertions contained in these Comments, 
+and in the above Declarations. 
+ 
+As counsel I affirm that this Declaration accurately reflects my knowledge. 
+ 
+           / s/ Mary Pat Weyback 
+    Deputy General Counsel 
+                American Farm Bureau Federation 
+ 
+ 
+ 
+ 
+         
+ 

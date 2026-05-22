@@ -1,0 +1,33 @@
+[PAGE 1]
+Short Comment Regarding a Proposed Exemption
+Under 17 U.S.C. 1201
+Item 1. Commenter Information 
+Verified Voting Foundation
+Item 2. Proposed Class Addressed
+Proposed Class 25: Software—Security Research 
+Item 3. Statement Regarding Proposed Exemption
+The Verified Voting Foundation supports the proposal of Professors Bellovin, Blaze, Felten, 
+Halderman, and Heninger (the “Security Researchers”) and strongly urges the Copyright Office
+to establish their proposed exemption to Section 1201 of the Digital Millennium Copyright Act 
+under Proposed Class 25.
+All computer code is likely to suffer from malfunctions, security flaws, or vulnerabilities.  While 
+companies and developers strive to write error-free code, code is written by humans, and all 
+humans make errors. Security researchers in general function as auditors. Their goal is to find, 
+disclose, and help correct errors before malicious attackers exploit these defects to harm 
+society.  When the software and hardware at issue run critical infrastructure, social systems, 
+and democratic decision-making tools, such as our voting infrastructure, finding these defects is 
+crucial to the national security interests of the United States.  
+In particular, security researchers believe that the DMCA currently prevents them from 
+conducting in depth investigations of voting system software.  Without a security research 
+exemption, the DMCA threatens to undermine our national electoral system by preventing 
+independent audits of the safety and integrity of the code that runs our voting systems and 
+tabulates our votes.  The inability of security researchers to check and verify the code that runs 
+our elections means that the outcome of a local, state, Congressional, or Presidential election 
+could be wrongly reported because of either software bugs or hidden election-rigging malware.
+We would expect no negative repercussions to arise with respect to the safety or security of 
+software from granting this exemption.  Indeed, to the contrary, if the exemption is granted, 
+security researchers will be better able to find those flaws that currently exist and may already 
+have been detected or exploited by attackers.  In this way, security researchers defend our 
+country. Granting this exemption would be a significant step toward strengthening our national 
+security in general and – something that should be of concern to us all – defending the integrity 
+of our elections in particular.

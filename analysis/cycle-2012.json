@@ -1,0 +1,205 @@
+{
+  "cycle": 2012,
+  "final_rule_file": "1201/Final Rules/2012-Final-Rule.txt",
+  "codified_text_starts_pdf_page": 19,
+  "extractor_notes": "The 2012 codified Sec. 201.40(b) text spans PDF pages 19-20 (txt lines 3731-3974) and contains 8 granted classes, matching INDEX.md's expected count of 8. The 2012 Final Rule uses the modern style: each class is a single complex sentence with nested conditional clauses (e.g., 'where circumvention is accomplished solely in order to ...'), so permitted_uses[] and exclusions[] were decomposed from those conditional phrases. Notable structural points: classes (b)(4) and (b)(5) are parallel (DVD/CSS vs. online distribution services) and both restrict circumvention to short portions for criticism/comment in four enumerated contexts (noncommercial videos, documentary films, nonfiction multimedia ebooks offering film analysis, and educational purposes in film studies or other courses requiring close analysis); classes (b)(6) and (b)(7) are the parallel screen-capture variants of (b)(4)/(b)(5) and were granted as separate alternative exemptions; class (b)(3) (wireless handset unlocking) is unusual for limiting eligibility to handsets 'originally acquired ... no later than ninety days after the effective date of this exemption'; class (b)(8) is a research-and-development exemption for assistive-player development (blind/visually impaired/deaf/hard of hearing). There is no separate (c) Definitions section in 2012; definitions ('noncommercial videos') are embedded inside the relevant class.",
+  "exemptions": [
+    {
+      "class_number": "(b)(1)",
+      "equipment_or_work": "Literary works distributed electronically with TPMs blocking read-aloud or screen readers",
+      "permitted_uses": [
+        "Circumvention when a copy of such a work is lawfully obtained by a blind or other person with a disability, as such a person is defined in 17 U.S.C. 121",
+        "Circumvention when such work is a nondramatic literary work, lawfully obtained and used by an authorized entity pursuant to 17 U.S.C. 121"
+      ],
+      "exclusions": [
+        "Limited to literary works distributed electronically that are protected by technological measures which either prevent the enabling of read-aloud functionality or interfere with screen readers or other applications or assistive technologies",
+        "For the disabled-individual prong, requires that the rights owner is remunerated, as appropriate, for the price of the mainstream copy of the work as made available to the general public through customary channels",
+        "For the authorized-entity prong, the work must be a nondramatic literary work and use must be pursuant to 17 U.S.C. 121"
+      ],
+      "definitions_or_conditions": [
+        "'Blind or other person with a disability' is defined by reference to 17 U.S.C. 121",
+        "'Authorized entity' is defined by reference to 17 U.S.C. 121"
+      ],
+      "source": {
+        "file": "1201/Final Rules/2012-Final-Rule.txt",
+        "pdf_pages": [19],
+        "txt_line_range": [3744, 3763],
+        "quote": "(1) Literary works, distributed electronically, that are protected by technological measures which either prevent the enabling of read-aloud functionality or interfere with screen readers or other applications or assistive technologies in the following instances: (i) When a copy of such a work is lawfully obtained by a blind or other person with a disability, as such a person is defined in 17 U.S.C. 121; provided, however, the rights owner is remunerated, as appropriate, for the price of the mainstream copy of the work as made available to the general public through customary channels; or (ii) When such work is a nondramatic literary work, lawfully obtained and used by an authorized entity pursuant to 17 U.S.C. 121."
+      }
+    },
+    {
+      "class_number": "(b)(2)",
+      "equipment_or_work": "Computer programs enabling wireless telephone handsets to execute lawfully obtained software applications (jailbreaking)",
+      "permitted_uses": [
+        "Circumvention of computer programs that enable wireless telephone handsets to execute lawfully obtained software applications, for the sole purpose of enabling interoperability of such applications with computer programs on the telephone handset"
+      ],
+      "exclusions": [
+        "Circumvention must be accomplished for the sole purpose of enabling interoperability of lawfully obtained software applications with computer programs on the telephone handset"
+      ],
+      "definitions_or_conditions": [
+        "Applies to computer programs that enable wireless telephone handsets to execute lawfully obtained software applications"
+      ],
+      "source": {
+        "file": "1201/Final Rules/2012-Final-Rule.txt",
+        "pdf_pages": [19],
+        "txt_line_range": [3764, 3771],
+        "quote": "(2) Computer programs that enable wireless telephone handsets to execute lawfully obtained software applications, where circumvention is accomplished for the sole purpose of enabling interoperability of such applications with computer programs on the telephone handset."
+      }
+    },
+    {
+      "class_number": "(b)(3)",
+      "equipment_or_work": "Computer programs (firmware/software) enabling wireless telephone handsets acquired no later than 90 days after effective date to connect to a different network (handset unlocking)",
+      "permitted_uses": [
+        "Circumvention of firmware or software that enables a wireless telephone handset to connect to a different wireless telecommunications network, when initiated by the owner (an individual consumer who is also the owner of the copy of the computer program in the handset), solely in order to connect to a different wireless telecommunications network, and where such access to the network is authorized by the operator of the network"
+      ],
+      "exclusions": [
+        "Limited to wireless telephone handsets originally acquired from the operator of a wireless telecommunications network or retailer no later than ninety days after the effective date of this exemption",
+        "Only available if the operator of the wireless communications network to which the handset is locked has failed to unlock it within a reasonable period of time following a request by the owner",
+        "Circumvention must be initiated by the owner, an individual consumer, who is also the owner of the copy of the computer program in such wireless telephone handset",
+        "Circumvention must be undertaken solely in order to connect to a different wireless telecommunications network",
+        "Such access to the network must be authorized by the operator of the network"
+      ],
+      "definitions_or_conditions": [
+        "The handset must have been originally acquired from the operator of a wireless telecommunications network or retailer",
+        "The owner-consumer must also be the owner of the copy of the computer program in the handset"
+      ],
+      "source": {
+        "file": "1201/Final Rules/2012-Final-Rule.txt",
+        "pdf_pages": [19],
+        "txt_line_range": [3772, 3795],
+        "quote": "(3) Computer programs, in the form of firmware or software, that enable a wireless telephone handset originally acquired from the operator of a wireless telecommunications network or retailer no later than ninety days after the effective date of this exemption to connect to a different wireless telecommunications network, if the operator of the wireless communications network to which the handset is locked has failed to unlock it within a reasonable period of time following a request by the owner of the wireless telephone handset, and when circumvention is initiated by the owner, an individual consumer, who is also the owner of the copy of the computer program in such wireless telephone handset, solely in order to connect to a different wireless telecommunications network, and such access to the network is authorized by the operator of the network."
+      }
+    },
+    {
+      "class_number": "(b)(4)",
+      "equipment_or_work": "Motion pictures on DVDs protected by CSS, for short-portion criticism/comment uses",
+      "permitted_uses": [
+        "Circumvention to make use of short portions of motion pictures for the purpose of criticism or comment in noncommercial videos",
+        "Circumvention to make use of short portions of motion pictures for the purpose of criticism or comment in documentary films",
+        "Circumvention to make use of short portions of motion pictures for the purpose of criticism or comment in nonfiction multimedia ebooks offering film analysis",
+        "Circumvention to make use of short portions of motion pictures for educational purposes in film studies or other courses requiring close analysis of film and media excerpts, by college and university faculty, college and university students, and kindergarten through twelfth grade educators"
+      ],
+      "exclusions": [
+        "Limited to motion pictures, as defined in 17 U.S.C. 101, on DVDs that are lawfully made and acquired and that are protected by the Content Scrambling System",
+        "The person engaging in circumvention must believe and have reasonable grounds for believing that circumvention is necessary because reasonably available alternatives, such as noncircumventing methods or using screen capture software as provided for in alternative exemptions, are not able to produce the level of high-quality content required to achieve the desired criticism or comment",
+        "Circumvention must be undertaken solely in order to make use of short portions of the motion pictures for the purpose of criticism or comment",
+        "Use must fall within one of the four enumerated instances (noncommercial videos, documentary films, nonfiction multimedia ebooks offering film analysis, or specified educational purposes)"
+      ],
+      "definitions_or_conditions": [
+        "'Motion pictures' is defined by reference to 17 U.S.C. 101",
+        "'Noncommercial videos' includes videos created pursuant to a paid commission, provided that the commissioning entity's use is noncommercial"
+      ],
+      "source": {
+        "file": "1201/Final Rules/2012-Final-Rule.txt",
+        "pdf_pages": [19],
+        "txt_line_range": [3796, 3831],
+        "quote": "(4) Motion pictures, as defined in 17 U.S.C. 101, on DVDs that are lawfully made and acquired and that are protected by the Content Scrambling System, where the person engaging in circumvention believes and has reasonable grounds for believing that circumvention is necessary because reasonably available alternatives, such as noncircumventing methods or using screen capture software as provided for in alternative exemptions, are not able to produce the level of high-quality content required to achieve the desired criticism or comment on such motion pictures, and where circumvention is undertaken solely in order to make use of short portions of the motion pictures for the purpose of criticism or comment in the following instances: (i) In noncommercial videos; (ii) In documentary films; (iii) In nonfiction multimedia ebooks offering film analysis; and (iv) For educational purposes in film studies or other courses requiring close analysis of film and media excerpts, by college and university faculty, college and university students, and kindergarten through twelfth grade educators. For purposes of this exemption, ''noncommercial videos'' includes videos created pursuant to a paid commission, provided that the commissioning entity's use is noncommercial."
+      }
+    },
+    {
+      "class_number": "(b)(5)",
+      "equipment_or_work": "Motion pictures lawfully acquired via online distribution services and protected by various TPMs, for short-portion criticism/comment uses",
+      "permitted_uses": [
+        "Circumvention to make use of short portions of motion pictures for the purpose of criticism or comment in noncommercial videos",
+        "Circumvention to make use of short portions of motion pictures for the purpose of criticism or comment in documentary films",
+        "Circumvention to make use of short portions of motion pictures for the purpose of criticism or comment in nonfiction multimedia ebooks offering film analysis",
+        "Circumvention to make use of short portions of motion pictures for educational purposes in film studies or other courses requiring close analysis of film and media excerpts, by college and university faculty, college and university students, and kindergarten through twelfth grade educators"
+      ],
+      "exclusions": [
+        "Limited to motion pictures, as defined in 17 U.S.C. 101, that are lawfully made and acquired via online distribution services and that are protected by various technological protection measures",
+        "The person engaging in circumvention must believe and have reasonable grounds for believing that circumvention is necessary because reasonably available alternatives, such as noncircumventing methods or using screen capture software as provided for in alternative exemptions, are not able to produce the level of high-quality content required to achieve the desired criticism or comment",
+        "Circumvention must be undertaken solely in order to make use of short portions of the motion pictures for the purpose of criticism or comment",
+        "Use must fall within one of the four enumerated instances (noncommercial videos, documentary films, nonfiction multimedia ebooks offering film analysis, or specified educational purposes)"
+      ],
+      "definitions_or_conditions": [
+        "'Motion pictures' is defined by reference to 17 U.S.C. 101",
+        "'Noncommercial videos' includes videos created pursuant to a paid commission, provided that the commissioning entity's use is noncommercial"
+      ],
+      "source": {
+        "file": "1201/Final Rules/2012-Final-Rule.txt",
+        "pdf_pages": [19],
+        "txt_line_range": [3832, 3868],
+        "quote": "(5) Motion pictures, as defined in 17 U.S.C. 101, that are lawfully made and acquired via online distribution services and that are protected by various technological protection measures, where the person engaging in circumvention believes and has reasonable grounds for believing that circumvention is necessary because reasonably available alternatives, such as noncircumventing methods or using screen capture software as provided for in alternative exemptions, are not able to produce the level of high-quality content required to achieve the desired criticism or comment on such motion pictures, and where circumvention is undertaken solely in order to make use of short portions of the motion pictures for the purpose of criticism or comment in the following instances: (i) In noncommercial videos; (ii) In documentary films; (iii) In nonfiction multimedia ebooks offering film analysis; and (iv) For educational purposes in film studies or other courses requiring close analysis of film and media excerpts, by college and university faculty, college and university students, and kindergarten through twelfth grade educators. For purposes of this exemption, ''noncommercial videos'' includes videos created pursuant to a paid commission, provided that the commissioning entity's use is noncommercial."
+      }
+    },
+    {
+      "class_number": "(b)(6)",
+      "equipment_or_work": "Motion pictures on CSS-protected DVDs, where circumvention (if any) is via screen capture technology, for short-portion criticism/comment",
+      "permitted_uses": [
+        "Circumvention to make use of short portions of motion pictures for the purpose of criticism or comment in noncommercial videos",
+        "Circumvention to make use of short portions of motion pictures for the purpose of criticism or comment in documentary films",
+        "Circumvention to make use of short portions of motion pictures for the purpose of criticism or comment in nonfiction multimedia ebooks offering film analysis",
+        "Circumvention to make use of short portions of motion pictures for educational purposes by college and university faculty, college and university students, and kindergarten through twelfth grade educators"
+      ],
+      "exclusions": [
+        "Limited to motion pictures, as defined in 17 U.S.C. 101, on DVDs that are lawfully made and acquired and that are protected by the Content Scrambling System",
+        "Any circumvention must be undertaken using screen capture technology that is reasonably represented and offered to the public as enabling the reproduction of motion picture content after such content has been lawfully decrypted",
+        "Such representations must have been reasonably relied upon by the user of such technology",
+        "The person engaging in the circumvention must believe and have reasonable grounds for believing that the circumvention is necessary to achieve the desired criticism or comment",
+        "Circumvention must be undertaken solely in order to make use of short portions of the motion pictures for the purpose of criticism or comment",
+        "Use must fall within one of the four enumerated instances (noncommercial videos, documentary films, nonfiction multimedia ebooks offering film analysis, or specified educational purposes)"
+      ],
+      "definitions_or_conditions": [
+        "'Motion pictures' is defined by reference to 17 U.S.C. 101",
+        "'Noncommercial videos' includes videos created pursuant to a paid commission, provided that the commissioning entity's use is noncommercial"
+      ],
+      "source": {
+        "file": "1201/Final Rules/2012-Final-Rule.txt",
+        "pdf_pages": [19, 20],
+        "txt_line_range": [3869, 3910],
+        "quote": "(6)(i) Motion pictures, as defined in 17 U.S.C. 101, on DVDs that are lawfully made and acquired and that are protected by the Content Scrambling System, where the circumvention, if any, is undertaken using screen capture technology that is reasonably represented and offered to the public as enabling the reproduction of motion picture content after such content has been lawfully decrypted, when such representations have been reasonably relied upon by the user of such technology, when the person engaging in the circumvention believes and has reasonable grounds for believing that the circumvention is necessary to achieve the desired criticism or comment, and where the circumvention is undertaken solely in order to make use of short portions of the motion pictures for the purpose of criticism or comment in the following instances: (A) In noncommercial videos; (B) In documentary films; (C) In nonfiction multimedia ebooks offering film analysis; and (D) For educational purposes by college and university faculty, college and university students, and kindergarten through twelfth grade educators. (ii) For purposes of this exemption, ''noncommercial videos'' includes videos created pursuant to a paid commission, provided that the commissioning entity's use is noncommercial."
+      }
+    },
+    {
+      "class_number": "(b)(7)",
+      "equipment_or_work": "Motion pictures lawfully acquired via online distribution services and protected by various TPMs, where circumvention (if any) is via screen capture technology, for short-portion criticism/comment",
+      "permitted_uses": [
+        "Circumvention to make use of short portions of motion pictures for the purpose of criticism or comment in noncommercial videos",
+        "Circumvention to make use of short portions of motion pictures for the purpose of criticism or comment in documentary films",
+        "Circumvention to make use of short portions of motion pictures for the purpose of criticism or comment in nonfiction multimedia ebooks offering film analysis",
+        "Circumvention to make use of short portions of motion pictures for educational purposes by college and university faculty, college and university students, and kindergarten through twelfth grade educators"
+      ],
+      "exclusions": [
+        "Limited to motion pictures, as defined in 17 U.S.C. 101, that are lawfully made and acquired via online distribution services and that are protected by various technological protection measures",
+        "Any circumvention must be undertaken using screen capture technology that is reasonably represented and offered to the public as enabling the reproduction of motion picture content after such content has been lawfully decrypted",
+        "Such representations must have been reasonably relied upon by the user of such technology",
+        "The person engaging in the circumvention must believe and have reasonable grounds for believing that the circumvention is necessary to achieve the desired criticism or comment",
+        "Circumvention must be undertaken solely in order to make use of short portions of the motion pictures for the purpose of criticism or comment",
+        "Use must fall within one of the four enumerated instances (noncommercial videos, documentary films, nonfiction multimedia ebooks offering film analysis, or specified educational purposes)"
+      ],
+      "definitions_or_conditions": [
+        "'Motion pictures' is defined by reference to 17 U.S.C. 101",
+        "'Noncommercial videos' includes videos created pursuant to a paid commission, provided that the commissioning entity's use is noncommercial"
+      ],
+      "source": {
+        "file": "1201/Final Rules/2012-Final-Rule.txt",
+        "pdf_pages": [20],
+        "txt_line_range": [3911, 3949],
+        "quote": "(7)(i) Motion pictures, as defined in 17 U.S.C. 101, that are lawfully made and acquired via online distribution services and that are protected by various technological protection measures, where the circumvention, if any, is undertaken using screen capture technology that is reasonably represented and offered to the public as enabling the reproduction of motion picture content after such content has been lawfully decrypted, when such representations have been reasonably relied upon by the user of such technology, when the person engaging in the circumvention believes and has reasonable grounds for believing that the circumvention is necessary to achieve the desired criticism or comment, and where the circumvention is undertaken solely in order to make use of short portions of the motion pictures for the purpose of criticism or comment in the following instances: (A) In noncommercial videos; (B) In documentary films; (C) In nonfiction multimedia ebooks offering film analysis; and (D) For educational purposes by college and university faculty, college and university students, and kindergarten through twelfth grade educators. (ii) For purposes of this exemption, ''noncommercial videos'' includes videos created pursuant to a paid commission, provided that the commissioning entity's use is noncommercial."
+      }
+    },
+    {
+      "class_number": "(b)(8)",
+      "equipment_or_work": "Motion pictures and other audiovisual works on CSS-protected DVDs or distributed by an online service, for accessibility-player research and development",
+      "permitted_uses": [
+        "Circumvention accomplished solely to access the playhead and/or related time code information embedded in copies of such works, and solely for the purpose of conducting research and development for the purpose of creating players capable of rendering visual representations of the audible portions of such works and/or audible representations or descriptions of the visual portions of such works, to enable an individual who is blind, visually impaired, deaf, or hard of hearing, and who has lawfully obtained a copy of such a work, to perceive the work"
+      ],
+      "exclusions": [
+        "Limited to motion pictures and other audiovisual works on DVDs that are protected by the Content Scrambling System, or that are distributed by an online service and protected by technological measures that control access to such works",
+        "Circumvention must be accomplished solely to access the playhead and/or related time code information embedded in copies of such works",
+        "Circumvention must be solely for the purpose of conducting research and development for creating players to enable blind, visually impaired, deaf, or hard-of-hearing individuals (who have lawfully obtained a copy) to perceive the work",
+        "The resulting player must not require circumvention of technological measures to operate"
+      ],
+      "definitions_or_conditions": [
+        "The end user enabled by the resulting player must be an individual who is blind, visually impaired, deaf, or hard of hearing, and who has lawfully obtained a copy of such a work",
+        "The resulting player must be capable of rendering visual representations of the audible portions of such works and/or audible representations or descriptions of the visual portions of such works"
+      ],
+      "source": {
+        "file": "1201/Final Rules/2012-Final-Rule.txt",
+        "pdf_pages": [20],
+        "txt_line_range": [3950, 3974],
+        "quote": "(8) Motion pictures and other audiovisual works on DVDs that are protected by the Content Scrambling System, or that are distributed by an online service and protected by technological measures that control access to such works, when circumvention is accomplished solely to access the playhead and/or related time code information embedded in copies of such works and solely for the purpose of conducting research and development for the purpose of creating players capable of rendering visual representations of the audible portions of such works and/or audible representations or descriptions of the visual portions of such works to enable an individual who is blind, visually impaired, deaf, or hard of hearing, and who has lawfully obtained a copy of such a work, to perceive the work; provided however, that the resulting player does not require circumvention of technological measures to operate."
+      }
+    }
+  ]
+}

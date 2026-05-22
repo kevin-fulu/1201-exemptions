@@ -1,0 +1,59 @@
+[PAGE 1]
+ 
+PRIVACY ACT ADVISORY STATEMENT Required by the Privacy Act of 1974 (P.L. 93-579) 
+The authority for requesting this information is 17 U.S.C. §§ 1201(a)(1) and 705. Furnishing the requested information is voluntary. 
+The principal use of the requested information is publication on the Copyright Office website and use by Copyright Office staff for 
+purposes of the rulemaking proceeding conducted under 17 U.S.C. § 1201(a)(1). NOTE: No other advisory statement will be given 
+in connection with this submission. Please keep this statement and refer to it if we communicate with you regarding this submission. 
+Short Comment Regarding a Proposed Exemption 
+Under 17 U.S.C. 1201 
+  
+Item 1. Commenter Information  
+ 
+Kyle Moschell 
+ 
+Item 2.  Proposed Class Addressed 
+ 
+Proposed Class 16: Jailbreaking—Wireless Telephone Handsets 
+ 
+Item 3. Statement Regarding Proposed Exemption 
+ 
+I am writing in support of readopting of the existing exemption allowing jailbreaking of wireless telephone 
+handsets under Proposed Class 16. Jailbreaking wireless telephones has become a more common and 
+widely-accepted practice due to the limitations that are continually imposed on wireless telephones by 
+their manufacturers. The restrictions included on wireless telephones may be designed for ease of use or 
+to prevent accidental changes however, for the more connected and tech-savvy owners, these limitations 
+prevent using the device to its full potential and have negative consequences which cannot be disabled 
+by default. Jailbreaking has existed solely as a method for unlocking the full features of a wireless 
+telephone and giving the owner choice over their desired settings. This practice can be compared with 
+disabling the child safety lock of your automobile if you do not have any children; a feature which many 
+people may appreciate but others would find an unnecessary burden. 
+ 
+The previously granted exemptions, originally issued in 2010 and readopted in 2012, have had no 
+adverse effect on the wireless telephone marketplace or related industries. In fact, sales of wireless 
+telephones and related devices have increased steadily since 2010 [1]. The market leaders in the United 
+States, Apple and Samsung, have seen especially strong success and increasing sales figures over the 
+last 4 years [2]. It remains extremely unlikely that any jailbreaking exemption would negatively affect the 
+marketplace for wireless telephones, and may have a positive effect since owners are happier using their 
+devices freely. 
+ 
+Recent surveys have identified the most common problems that wireless telephone owners encounter. 
+Many of the problems that wireless telephone owners encounter can be alleviated by minor modifications, 
+or “tweaks”, that can be performed after jailbreaking. For example, a recent study found that 68% of 
+wireless telephone owners receive unwanted sales or marketing calls, and 69% of text messaging users 
+receive unwanted spam text messages. Additionally, 77% of mobile telephone internet users say they 
+experience slow download speeds. [3] The most common changes that users make after jailbreaking 
+include installing tweaks to allow call blocking and text message blocking, as well as advertisement 
+blocking. Call and text message blocking is not a standard telephone feature in most cases and 
+jailbreaking allows users to install this kind of protection against unwanted calls or text messages. 
+Advertisement blocking facilitates faster internet browsing by declining to load advertisements, frequently 
+video or audio ads, which consume excess bandwidth. 
+Another common wireless telephone issue is regarding privacy and location tracking. As GPS and 
+location-tracking features have been integrated into wireless telephones, manufacturers have not always 
+provided clear ways to monitor and disable these tracking features. Pre-installed applications may also be 
+locked onto the device and not removable by default. Personal data privacy is of upmost importance to 
+wireless telephone users and jailbreaking allows additional control and insight into the tracking features 
+on a mobile telephone, as well as the ability to remove any unwanted applications. 
+[1]: http://www.gartner.com/newsroom/id/2408515 
+[2]: http://blog.thomsonreuters.com/index.php/smartphone-market-share-graphic-of-the-day-2/ 
+[3]: http://www.pewinternet.org/fact-sheets/mobile-technology-fact-sheet/ 

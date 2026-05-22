@@ -1,0 +1,306 @@
+[PAGE 1]
+ITEM A. COMMENTER INFORMATION
+Auto Care Association 
+7101 W
+isconsin Ave., Suite 1300, Bethesda, MD 20814  
+Contact: Aaron Lowe, Senior Vice President, Regulatory and Government Affairs  
+301-654-6664, ext. 1021 
+Aaron.Lowe@autocare.org  
+www.autocare.org 
+Counsel: Seth D. Greenstein 
+Constantine Cannon LLP 
+1001 Pennsylvania Av., N.W. 1300N 
+Washington, D.C. 20004 
+202-204-3514 
+sgreenstein@constantinecannon.com 
+I
+TEM B. PROPOSED CLASS ADDRESSED 
+Proposed Class 7: Computer Programs – Repair 
+ITEM C. OVERVIEW 
+These Comments by Auto Care Association (“Auto Care”) support our joint petition with 
+Consumer Technology Association (“CTA”) for a new exemption for circumvention with respect 
+to maintenance, repair, and upgrade of motor vehicles. Auto Care joined CTA, iFixit, and the 
+Owners’ Rights Initiative in petitioning for renewal of the previously-granted 2015 “Class 21” 
+exemption, now renewed. In these Class 7 comments Auto Care remains focused only on 
+motorized land vehicles – specifically, on the need for a new exemption that is understood to 
+include expert assistance, with necessary tools, at the direction of a lawfully entitled user.  
+In the 2015 Round, NTIA, on behalf of the Administration, recommended the grant of the Class 
+21 exemption for circumvention “by or at the request” of a lawfully-entitled user.1 After 
+1 “Computer programs embedded in motorized land vehicles or agricultural machinery, when 
+circumvention is initiated by or at the request of the owner of the vehicle or machinery, in order 
+to make repairs or modifications to the vehicle or machinery. This exemption does not obviate 
+the need to comply with other applicable laws and regulations, such as those relating to vehicle 
+safety or environmental protection.” NTIA 2015 Round Recommendations to Register. 
+[PAGE 2]
+ 
+ 
+2 
+ 
+receiving comments on its Notice of Inquiry2 and at its 2016 Roundtables, the Register in its 
+2017 Report3 and in this Notice of Proposed Rulemaking4 observed that a more generous and 
+practical definition of “user” might produce an outcome more useful to users than the previous 
+exemption, yet still consistent with the text of Section 1201(a). In these Comments, Auto Care 
+focuses on how to apply the Register’s forward-looking insights in the context of motor vehicle 
+maintenance, repair, and modification.5 Our main points are:  
+   The Register is correct that an independent dealer or servicer is necessarily a “user” as 
+contemplated by the statute. 
+ 
+   The auto industry Memorandum  of Understanding does not and cannot address all the 
+tools necessary for independent dealers and servicers to compete efficiently and 
+effectively with franchised dealers who are devoted to a single brand. Moreover, it 
+subjects independent competitors to prohibitive costs (by requiring them to purchase 
+OEM-approved tools and parts at OEM-imposed prices) that could be avoided if 
+circumvention tools and parts could be created in the competitive aftermarket. 
+ 
+   An independent dealer or serv icer application of a software tool at the vehicle owner’s 
+direction for a purpose lawful under copyright law should not be considered 
+“trafficking,” so long as the dealer or servicer does not commercially distribute that tool. 
+ 
+   The Register should not excl ude circumvention to obtain access to “telematics” data. 
+Telematics data is not subject to copyright. To the extent any transmission might be 
+considered subject to copyright, the vehicle’s owner would have a superior claim to the 
+contents’ ownership, and at least a clear right to its fair use. 
+ 
+   The 2015 Class 21 exclusion of access to the storage capacit y of “infotainment” systems 
+should not be repeated. Gaining access to the storage capacity of a device one owns is 
+neither a direct nor a secondary infringement of any copyright.  
+ 
+ITEM D. TECHNOLOGICAL PROTECTION MEASURE(S) AND METHOD(S) OF CIRCUMVENTION 
+Original equipment manufacturers (“OEMs”) increasingly use firmware and software to control 
+the function and operation of motor vehicle parts, as well as to diagnose faults or breakdowns. 
+                                                        
+2 See, e.g. U.S. Copyright Office Docket No. 2015-8 Section 1201 Study: Notice of Inquiry and 
+Request for Public Comment, Comments of Auto Care Association, March 3, 2016 (“Auto Care 
+2016 Comments”). 
+3 Section 1201 of Title 17, A Report of the Register of Copyrights, June 2017 (“June Report”) at 
+61 - 62.  
+4 U.S. Copyright Office, 37 CFR Part 201 [Docket No. 2017-10], Exemptions to Permit 
+Circumvention of Access Controls on Copyrighted Works, Oct. 26, 2017 (“NPRM”), at 42 - 43.  
+5 Auto Care will not revisit issues, such as the essential fair use nature of auto repair and the 
+general merit of expert assistance that, in the renewal of the 2015 Class 21 exemption and the 
+texts cited above, may be considered as effectively resolved, unless new objections arise in 
+opposing comments. 
+[PAGE 3]
+ 
+ 
+3 
+ 
+Software that controls function and operation is the equivalent of a physical part; diagnostic 
+software is the equivalent of a physical meter, gauge, or tool.  The law applicable to physical 
+parts and tools should therefore apply where the manufacturer elects to implement mechanical 
+functions via software. User-directed auto maintenance, repair, and upgrade can no longer 
+sensibly be discussed in any other context.6  
+The Register is Correct That Independent Dealers  
+and Servicers May be Identified Under Section 1201(a) as Users. 
+ 
+Specialists equipped with software tools now work at the direction of the home driveway 
+mechanic who once bought and installed replacement parts. As Auto Care reported in its 2016 
+Comments, “new car buyers in 2015 will keep their vehicles for 6.5 years, and used car buyers 
+keep those cars on the road for 5.3 more years – a total of more than 11-1/2 years, and more than 
+4 years longer than the average in 2006.”7 Auto Care explained: 
+It generally is infeasible for the ordinary consumer to repair software-enabled 
+parts. OEMs intentionally design vehicles to deter access to software except 
+through the use of specialized and costly tools. Those making repairs also need to 
+understand how software for a specific part may interact with other software 
+controlled vehicle systems. Thus, the aftermarket repair and customization 
+industry provides much-needed and cost-effective services that consumers often 
+cannot do for themselves.8 
+The Auto Industry “MOU” is Necessary but Not  
+Sufficient for Economical Assistance to Owners. 
+ 
+The 2014 Memorandum of Understanding9 that gives independent dealers access to OEM 
+software is increasingly useful to independent dealers and repair shops,10 but is not and cannot be 
+sufficient for them to lawfully and efficiently serve consumers. The MOU requires 
+standardization of ports and interfaces, but the software, though now licensed, remains 
+proprietary and brand-specific. Independent shops, most of which must service a variety of 
+brands to stay in business, remain at a disadvantage compared to franchised dealers. The 
+franchised dealer can maintain a single set of expensive software tools, whereas the independent 
+servicer is obliged to purchase proprietary access, including TPM circumvention rights, across 
+many brands and multiple models. These costs rapidly become prohibitive for independent 
+servicers, thus compelling the servicer to choose whether to send the customer to the franchised 
+                                                        
+6 See, e.g., Comments of Auto Care Association, In the Matter of Section 1201 Study, Dkt. 2015-
+8 at 4-6; Comments of Auto Care Association, In the Matter of Software-Enabled Consumer 
+Products, Dkt. 2015-16 (“Auto Care 2016 Comments”) at 1-4; Copyright Office Roundtable 
+discussion transcript, May 20, 2016, at 17 – 75. 
+7 Auto Care 2016 Comments at 4, citing data from the Institute of Highway Safety. 
+8 Id. at 5. 
+9 See Memorandum of Understanding, Jan. 25, 2014, 
+http://www.nastf.org/files/public/OtherReference/MOU_SIGNED_1_15_14.pdf.  
+10 Starting with the 2018 model year, the MOU affords access to most OEM repair, as well 
+diagnostic, software.  
+[PAGE 4]
+ 
+ 
+4 
+ 
+dealer or incur a loss to keep the customer. Franchised dealers that compete to re-sell or service 
+additional auto brands would better serve their customers through lawful uses of TPM 
+circumvention tools. 
+ 
+As Auto Care reported in its 2016 Comments at 6, TPMs also are used to control whether 
+refurbished parts from one vehicle can be installed on another vehicle of the same model. They 
+have also been used to control which servicers are authorized to install a new part. 
+The Register, given its insight into the nature of “user,” should appreciate that the auto industry 
+MOU, while a laudable and necessary step, is far from sufficient to afford consumers a range of 
+economical repair options equivalent to those they enjoyed when cars were strictly mechanical. 
+Use of a Tool at the Direction of a Vehicle Owner is Not Trafficking. 
+Neither law nor technology requires that independent dealers be prohibited from using software 
+that can diagnose and fix more than one OEM’s brand or model. In many cases, the constraint is 
+simply that an OEM has chosen to restrict access to tools on a brand-specific basis. It would not 
+impair any OEM’s copyright interests for an independent service shop or dealer to use software, 
+including circumvention tools, that can diagnose, maintain, or fix more than one brand of 
+automobile. Expert users require expert tools. Such shops are not in the business of copying 
+software or firmware for any commercial purpose other than assisting the vehicle’s owner, at his 
+or her direction; an exemption can be limited to this lawful purpose.  
+The use of tools is not affected by whether they have previously been “trafficked,” so long as 
+they are applied at the instruction and on behalf of a vehicle owner for a lawful purpose. Whether 
+a tool is obtained under MOU or is otherwise invented or acquired, the Librarian’s Section 
+1201(a) jurisdiction is identically limited to use. The Librarian was never given any jurisdiction 
+to determine whether, prior to use for a lawful purpose, a tool has ever been trafficked.11 
+Circumvention of TPMs to Enable a Vehicle Owner’s Access  
+to His Own Vehicle’s Telematics Data is Necessary and Lawful. 
+  
+Of the legal and privacy issues that may pertain to the telematics data generated by an owner’s 
+operation of a motor vehicle, the least controversial should be the entitlement of the owners 
+themselves to access to this data. Whether access should be available to others is beyond the 
+scope of this proceeding. The collected data pertains to how and where the owner drives the 
+vehicle, the diagnostic fault codes that might be available through the OBD port, and the number 
+of miles driven. The owner is entitled to it. Nothing in copyright law or the DMCA should 
+prevent the owner’s access to her own data. 
+There is little reason to believe that such data is copyrighted; data is generally not subject to 
+copyright.12 Even if copyrighted, such data’s private transmission to the vehicle’s owner, or to a 
+servicer acting at the owner’s direction, is not a reproduction or a public performance. And even 
+                                                        
+11 See Copyright Office Roundtable discussion transcript, May 20, 2016, at 20 – 21 (Besek). 
+12 Feist Publications, Inc., v. Rural Telephone Service Co., 499 U.S. 340 (1991). 
+[PAGE 5]
+ 
+ 
+5 
+ 
+if somehow infringing, the owner’s access to data about her own driving or her own vehicle 
+would be an obvious fair use. 
+In the 2015 Class 21 exemption the Register excluded telematics by asserting that there was no 
+evidence of need for telematics data. It would have been more useful, and should be the result in 
+the current Round, to declare instead, as the Librarian has in previous instances with respect to 
+access to content in the public domain, that such content is “beyond the scope of the rulemaking” 
+because it is not covered by copyright.13 As to the industry need for this result, or for an 
+exemption should the Register not wish to go this far, there is in fact plentiful evidence. Due to a 
+growing trend of vehicle manufacturers restricting the amount of information available through 
+the OBD port where most shops currently obtain diagnostic codes, independent servicers, as well 
+as users, need data available from telematic systems to maintain the vehicle’s condition and 
+safety. That is why this data is increasingly being sent to franchised dealers, so that they can 
+solicit vehicle owners for service. Moreover, access to telematics capabilities will increasingly be 
+necessary for diagnosis and for uploading software modifications, updates, and repairs to the 
+vehicle as more and more vehicle manufacturers move to over the air software updates. Auto 
+Care is sufficiently concerned about this issue that Auto Care is part of a public affairs campaign 
+aimed at entitling vehicle owners to data about their own vehicles.14 There is no basis in law for 
+the Librarian to impair such access by excluding telematics data from lawful TPM 
+circumvention. 
+There is No Copyright Law Basis to Deny a Vehicle Owner  
+Access to Her Own Vehicle’s Storage Capacity for “Infotainment” Content. 
+ 
+Auto Care agrees with CTA’s analysis, in CTA’s 2016 NOI Comments at 7 – 8, that the 
+Register’s exception for access to “infotainment” storage capacity was contrary to clear Supreme 
+Court precedent. CTA explained: 
+As a matter of copyright law, the Office’s rationale is also directly contrary to the 
+law as established by the Supreme Court in Sony Corp. of America v. Universal 
+City Studios, Inc., 464 U.S. 417, 442 (1984). The Supreme Court held in Sony that 
+it is lawful to provide consumers with a device that can store both infringing and 
+non-infringing content, so long as there are commercially significant non-
+infringing uses for the stored content. In the Class 21 exemption discussion, it was 
+only agricultural equipment provider John Deere that even suggested, without 
+                                                        
+13 See Section 1201 Rulemaking: Fifth Triennial Proceeding to Determine Exemptions to the 
+Prohibition on Circumvention, Recommendation of the Register of Copyrights at 13 – 15 and n. 
+66, citing similar outcomes in 2010 and 2003 Final Rules. (Oct. 2012). Auto Care suggested a 
+similar outcome in its 2015 Class 21 Comments based on similar precedent: “The Register 
+previously has held that no exemption would be needed to the extent that necessary reverse 
+engineering activities for the purpose of promoting interoperability already may be protected 
+more broadly by Section 1201(f).3 [n3:] See Recommendation of the Register of Copyrights in 
+RM 2002-4; Rulemaking on Exemptions from Prohibition on Circumvention of Copyright 
+Protection Systems for Access Control Technologies, at 172-183 (Oct. 27, 2003). 
+14 See video, “Your Car. Your Data. Your Choice.” https://yourcaryourdata.org/#homeIndustry  
+[PAGE 6]
+ 
+ 
+6 
+ 
+proof, that circumvention could result in infringing material being imported into 
+vehicle infotainment storage.15 Hence the only copyright interest or concern that 
+the Office could have had would be about a closed storage system becoming open 
+to storing infringing content. It was clearly established in Sony that allowing such 
+capacity into the marketplace is not copyright infringement, even where 
+accomplished by a third party with a commercial interest.  
+Moreover, even if Supreme Court precedent were otherwise, for there to be contributory 
+infringement there must be evidence of direct infringement. There was no evidence or other basis 
+in the record for the Register to presume that material added to storage – such as copies of 
+entertainment content the consumer owned or created or personal photographs – would be 
+infringing, or that access to one’s own infotainment system would be for other than the user’s 
+lawful purpose for which an exemption was sought.  
+ITEM E. ASSERTED ADVERSE EFFECTS ON NONINFRINGING USES  
+As Auto Care notes above, the necessary and lawful nature of circumventing TPMs for purposes 
+of vehicle maintenance, repair, and upgrade has already been established in the 2015 Class 21 
+exemption, the renewal of that exemption, the Register’s interim study, and this NPRM. The 
+only issue for this Round with respect to motor vehicles is whether any difference is made by 
+construing “user” as including expert assistance at the direction or at the request of the vehicle 
+owner. For this purpose only a summary recapitulation is necessary: 
+   Whether the proposed class includes at  least some works protected by copyright. 
+While software technically can be considered a “literary” work, it is widely agreed (including by 
+Members of Congress involved in passing the legislation) that protection of this sort of 
+functional software from consumer access was not foreseen as a purpose of the DMCA.16 Nor do 
+all the TPMs applied to software protect copyright-eligible content – many shield data, error 
+codes, and other status indicators from being read by anyone other than an OEM-licensed person. 
+Nor is copyrighted software necessarily copied when access is gained for purposes of running the 
+software in aid of repair. And even when copied, the copying for purposes of repair is functional 
+in nature, rather than for purposes of independent commercial exploitation. 
+   Whether the uses at issu e are noninfringing under title 17. 
+ 
+The Register has already concluded that the uses involved in auto repair are noninfringing when 
+undertaken by the vehicle owner. Access to the software often involves activity that implicates 
+no protectable copyright interest at all, such as obtaining or altering non-copyrightable data 
+parameters used by the software to control or calibrate performance, or accessing the software to 
+replace it with another program. The purpose and status of these noninfringing uses do not 
+                                                        
+15 No claim of inducement, contributory, or vicarious liability was made – and it would be 
+fatuous to suggest that a user is capable of inducement with respect to her own vehicle’s radio.  
+ 
+16 See the relatively recent comments of Members of Congress quoted in CTA’s 2016 NOI 
+Comments at 3 – 6. 
+[PAGE 7]
+ 
+ 
+7 
+ 
+change when the vehicle owner receives expert assistance to enable this use – regardless of 
+whether the expert makes use of some tool. 
+
+   Whether users are adversely affected in their ability to make such noninfringing uses or, 
+alternatively, whether users are likely to be adversely affected in their ability to make 
+such noninfringing uses during the next three years.  
+ 
+In renewing the 2015 Class 21 exemption the Register has already determined these issues in 
+favor of a user exemption. 
+
+   Whether the statutory pr ohibition on circumventing access controls is the cause of the 
+adverse effects. 
+In renewing the 2015 Class 21 exemption the Register has already determined this issue in favor 
+of a user exemption. 
+ 
+ 
+I hereby affirm that I have verified the information set forth in these Comments with 
+members of the Auto Care Association, and that the statements made are true and correct to the 
+best of my present knowledge. 
+ 
+ 
+Aaron Lowe 
+Senior Vice President, Regulatory and Government Affairs  
+Auto Care Association 
+7101 Wisconsin Ave., Suite 1300 
+Bethesda, MD 20814  
+301-654-6664, ext. 1021 
+Aaron.Lowe@autocare.org  
+ 
+ 
+ 

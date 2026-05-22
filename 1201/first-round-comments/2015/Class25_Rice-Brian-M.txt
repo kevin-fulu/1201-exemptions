@@ -1,0 +1,25 @@
+[PAGE 1]
+Short Comment Regarding a Proposed Exemption
+Under 17 U.S.C. 1201
+Item 1. Commenter Information 
+Brian M. Rice
+Electrical Engineer
+Chicago, Illinois
+Item 2. Proposed Class Addressed
+Proposed Class 25: Software security research
+Item 3. Statement Regarding Proposed Exemption
+From past software security research, we have seen time and again that 
+computer security systems developed in secret are deeply flawed almost without 
+exception. Such systems invite cyber criminals, who stand to profit and are not 
+deterred by copyright law, to examine and in time break these systems. 
+Furthermore, we know it is possible to build truly secure and fully open software 
+systems with the use of modern cryptography, but to do so requires the combined 
+talents of many experts in the field. It is very much in the public interest that good-
+faith security researchers not have to fear prosecution for their work, and by 
+responsible disclosure can help repair security flaws before they are exploited. 
+Thank you.
+PRIV ACY ACT ADVISORY STA TEMENT Required by the Privacy Act of 1974 (P.L. 93-579)
+The authority for requesting this information is 17 U.S.C. §§ 1201(a)(1) and 705. Furnishing the requested information is voluntary. The principal
+use of the requested information is publication on the Copyright Office website and use by Copyright Office staff for purposes of the rulemaking 
+proceeding conducted under 17 U.S.C. § 1201(a)(1). NOTE: No other advisory statement will be given in connection with this submission. Please
+keep this statement and refer to it if we communicate with you regarding this submission.

@@ -1,0 +1,322 @@
+[PAGE 1]
+AFDOCS:199224415.1 
+DRAFT  
+ 
+ 
+Comments of  
+MEMA, The Vehicle Suppliers Association 
+to the U.S. Copyright Office on a Proposed Exemption Under 17 U.S.C. § 1201 
+ 
+ITEM A.  COMMENTER INFORMATION  
+Commenter: 
+MEMA, The Vehicle Suppliers Association 
+1425 K Street, NW 
+Suite 910 
+Washington, DC 20005 
+ 
+Contact: 
+Dan Jasnow 
+Julia Ambros 
+ArentFox Schiff LLP 
+1717 K Street, NW 
+Washington, DC 20006 
+dan.jasnow@afslaw.com 
+(212) 492-3302 
+ 
+ITEM B.  PROPOSED CLASS ADDRESSED 
+Class 7 (Computer Programs— Vehicle Operational Data) 
+ITEM C.  OVERVIEW 
+MEMA, The Vehicle Suppliers Association, is the leading trade association in North America for vehicle 
+suppliers, parts manufacturers, and remanufacturers. Automotive and commercial vehicle suppliers are 
+the largest manufacturing sector in the United States and lead the way in new vehicle innovations. MEMA 
+has been the voice of the vehicle supplier industry since 1904. Its more than 1,000 members are Strong 
+by Association. MEMA Aftermarket Suppliers, a group of MEMA, exclusively serves manufacturers of 
+aftermarket components, tools and equipment, and related products, an important part of the 
+automotive parts manufacturing industry which supports 907,000 American jobs in all 50 states. MEMA 
+Aftermarket is a recognized industry change agent – promoting a collaborative industry environment, 
+providing a forum to address issues and serving as a valued resource for members across all areas of the 
+aftermarket including light vehicle, commercial vehicle, and remanufacturing. Members supply the 
+aftermarket with the parts that keep millions of vehicles on the road, fueling international commerce and 
+meeting society’s transportation needs. MEMA members are committed to safety and sustainability.  
+MEMA submits these comments in support of its proposed new class 7 exemption, which would permit 
+circumvention of technological protection measures (“TPMs”) that control access to electronic control units 
+(“ECUs”) that are contained in and control the functioning of a lawfully acquired motorized land vehicle or 
+marine vessel such as a personal automobile or boat, commercial vehicle or vessel, or mechanized agricultural 
+vehicle or vessel to allow lawful vehicle owners and lessees, or those acting on their behalf, to access, store, 
+and share vehicle operational data, including diagnostic and telematics data.  
+ITEM D.  TECHNOLOGICAL PROTECTION MEASURE(S) AND METHOD(S) OF CIRCUMVENTION 
+Modern vehicles are equipped with ECUs that monitor and control vehicle functions. A vehicle may have several 
+ECUs that facilitate its operation. The individual ECUs are programmed to fulfill specific vehicular functions, such 
+as engine control, fuel efficiency and braking. The software programs contained in ECUs are copyrightable as 
+“literary works,” but copyright protection is limited to the programs’ “source code,” which consists of words, 
+The Vehicle Suppliers Association 
+[PAGE 2]
+AFDOCS:199224415.1 
+DRAFT  
+MEMA Long Comment  
+December 22, 2023     Page 2 of 7 
+ 
+numbers, and symbols typed by a programmer, as well as the compiled “object code,” which is used by the 
+computer to carry out the instructions, but generally cannot be read by a human being.1 
+As has been well-documented in prior DMCA triennial rulemakings, there are several types of TPMs that restrict 
+access to ECUs, including challenge-response mechanisms, encryption, and disabled access ports on the circuitry 
+itself.2  
+ITEM E.  ASSERTED ADVERSE EFFECTS ON NON-INFRINGING USES  
+I. Adverse Effects 
+The pace of change in the automotive industry is nothing short of astonishing. According to data from the 
+International Energy Agency, the share of electric vehicle sales globally has grown from around 4 percent 
+in 2020 to an expected 18 percent for calendar year 2023.3 In the U.S., sales of electric cars are expected 
+to reach 1.6 million units in 2023, up from 300,000 in 2020.4 Along with electrification, vehicles are also 
+being built with increasingly powerful hardware units and software,5 which together are capable of 
+collecting exponentially more data and performing an ever-increasing number of vital tasks, from 
+autonomous driving to entertainment. In short, “the era of the software-defined vehicle is upon us.”6 
+As the line between vehicles and tech products fades, it will be increasingly important for vehicle owners 
+and lessees to have access to the computer programs that control those vehicles—subject to prudent 
+restrictions to ensure safety and regulatory compliance—so that they can access, view, share, and 
+otherwise utilize their own vehicle operational and telematics data.  
+Unfortunately, TPMs and section 1201(a)(1)(A) restrict vehicle owners and lessees from accessing and 
+utilizing this data. The adverse effects of these restrictions are evident today and they are likely to become 
+even more so over the next three years. This includes: 
+- Stifling competition. As vehicles generate more and more data, exclusive control over that data 
+by the original equipment manufacturer will make it more difficult for owners and lessees to 
+ 
+1 See U.S. Copyright Office, Software-Enabled Consumer Products, A Report of the Register of Copyrights, p. 12 (Dec. 
+2016) available at https://www.copyright.gov/policy/software/software-full-report.pdf.  
+2 U.S. Copyright Office, Section 1201 Rulemaking: Sixth Triennial Proceeding to Determine Exemptions to the 
+Prohibition on Circumvention, Recommendation of the Register of Copyrights, (Oct. 2015) (“2015 
+Recommendation”) p. 220 (describing TPMs and recommending adoption of repair exemption); U.S. Copyright 
+Office, Section 1201 Rulemaking: Seventh Triennial Proceeding to Determine Exemptions to the Prohibition on 
+Circumvention, Recommendation of the Register of Copyrights, (Oct. 2018) (“2018 Recommendation”) p. 25 (citing 
+continuing justification for repair exemption due in part to TPMs); U.S. Copyright Office, Section 1201 Rulemaking: 
+Eighth Triennial Proceeding to Determine Exemptions to the Prohibition on Circumvention, Recommendation of the 
+Register of Copyrights, p. 26 (Oct. 2021) (“2021 Recommendation”) (citing continuing justification for repair 
+exemption). 
+3 IEA, Electric Vehicles, available at www.iea.org/energy-system/transport/electric-vehicles.   
+4 Id.  
+5 S&P Global Mobility, Be Ready for the Coming Shift in Automotive Computing Power (April 2023) available at 
+www.spglobal.com/mobility/en/research-analysis/be-ready-for-the-coming-shift-in-automotive-computing-
+power.html; Automotive Edge Computing Consortium, General Principle and Vision, White Paper (Sept. 2023), 
+available at https://aecc.org/resources/publications/.   
+6Motor Trend, In-Car Ethernet: Untangling the Wads of Wires to Enable Ever More Data (August 22, 2023) available 
+at  https://www.motortrend.com/features/what-is-ethernet-for-cars/.  
+[PAGE 3]
+AFDOCS:199224415.1 
+DRAFT  
+MEMA Long Comment  
+December 22, 2023     Page 3 of 7 
+ 
+exercise genuine choice in the service and aftermarket parts markets, which will ultimately result 
+in less competition and higher prices for consumers.  
+- Restricting access to driving records and vehicle logs that could be used to, for example, monitor 
+or evaluate the driving habits of new drivers using the family car. 
+- Creating inefficiencies in vehicle repair and maintenance processes. For example, the proposed 
+class 7 could allow a vehicle owner or lessee to share service alerts or vehicle performance metrics 
+with his or her preferred service provider. Using this information, the service provider could 
+ensure that it has all necessary replacement parts on hand (e.g., brake pads, sparkplugs, air filters, 
+tires, etc.) before the owner or lessee’s next service appointment. Rather than leaving a car in the 
+garage for days or weeks awaiting replacement parts or making multiple trips to the garage, the 
+service provider would know which specific replacement parts are needed and have them ready.  
+- Preventing vehicle owners from personalizing or customizing their vehicles, such as preventing 
+owners with disabilities from enhancing accessibility; improving vehicle energy efficiency; 
+changing audio settings; eliminating distracting software features or functions; and turning off or 
+customizing self-driving and driver-assist technologies.   
+The Copyright Office has already recognized that TPMs and Section 1201(a)(1)(A) adversely affect the 
+ability of vehicle owners and lessees, including those acting under their direction, to engage in diagnosis, 
+repair, and lawful modification of their vehicles. The proposed class 7 simply recognizes that as computer 
+programs become more integral to vehicles and perform more functions, the TPMs that restrict access to 
+those programs will adversely affect more non-infringing uses. As such, a new, broader exemption is 
+warranted in this era of the “software-defined vehicle.” 
+II. Non-Infringing Uses 
+a. The Proposed Use 
+As an initial matter, it is important to clarify what proponents are seeking. Vehicle ECUs consist of software 
+and hardware that control vehicle functions. As noted, software programs contained on the ECUs are 
+copyrightable works, with protection extending not only to the “literal” elements of computer software—
+the source code and object code—but also to a program’s “non-literal” elements, including its structure, 
+sequence, organization, user interface, screen displays, and menu structures.7  
+ 
+In addition to these protectible elements, vehicle software programs also collect and process a large 
+amount of raw data generated as a direct result of the owner or lessee’s use of and operation of the 
+vehicle. This data may be stored as unmodified raw data or it may be processed and stored as part of an 
+organized database schema. While the copyright owner may be able to claim copyright protection in the 
+ 
+7 See, e.g., General Universal Systems, Inc. v. Lee, 379 F.3d 131, 142 (5th Cir. 2004) (“It is settled that computer 
+programs are entitled to copyright protection. This protection extends not only to the ‘literal’ elements of computer 
+software—the source code and object code—but also to a program’s non-literal elements, including its structure, 
+sequence, organization, user interface, screen displays, and menu structures.”); Whelan Assoc., Inc. v. Jaslow Dental 
+Lab., Inc., 797 F.2d 1222, 1248 (3d Cir. 1986) (holding that copyright protection of computer programs “extend 
+beyond the programs' literal code to their structure, sequence, and organization”). 
+[PAGE 4]
+AFDOCS:199224415.1 
+DRAFT  
+MEMA Long Comment  
+December 22, 2023     Page 4 of 7 
+ 
+database schema, the raw and processed data is not capable of copyright protection because it is purely 
+factual and the owner or lessee plays a significant role in producing that data.8  
+ 
+Proponents of class 7 seek the ability to circumvent TPMs that restrict access to copyrighted vehicle 
+software programs solely to allow vehicle owners and lessees or those acting under their direction to 
+copy, download, and otherwise utilize the non-copyrightable data stored within those copyrightable 
+works.  
+ 
+Proponents acknowledge that in order to access and utilize the non-copyrightable data contained within 
+the copyrightable software programs, incidental copying of protectible elements of the software may 
+occur. For example, owners and lessees may download copies of protectible database schema or source 
+as a necessary step of retrieving that data. In such cases, copying is likely to be of a limited and fleeting 
+nature, such as making copies in the random access memory (“RAM”) of an owner or lessee’s computer. 
+Such copies, however, could be deleted after the target vehicle operational or telematics data has been 
+retrieved and saved into a separate file. As further discussed below, any such use of the copyrighted 
+computer software is fair use. 
+ 
+b. Fair Use 
+The proposed uses constitute fair use under the Copyright Act. As noted above, the proposed class 7 
+exemption would allow vehicle owners and lessees to, for example, review critical vehicle performance 
+data, evaluate the safety of their and their family members’ driving, and better understand vehicle 
+operations, including safety features and fuel efficiency. All of these uses, when undertaken by or at the 
+direction of the vehicle owner or lessee, constitute fair use under the Copyright Act. 
+  
+The first fair use factor—the purpose and character of the use—looks at the commerciality of the use and 
+whether it is transformative. Although not a prerequisite for a fair use finding, “the more transformative 
+the new work, the less will be the significance of other factors, like commercialism, that may weigh against 
+a finding of fair use.”9 As noted above, the proposed class 7 exemption would allow vehicle owners and 
+lessees to, for example, evaluate how their vehicle is serving their unique needs, grant aftermarket 
+services providers access to certain vehicle performance metrics, and monitor use of the family car. These 
+uses are primarily non-commercial in nature when undertaken by or on behalf of the vehicle owner or 
+lessee for his or her own personal use. Consumers with access to their operational and telematics data are 
+able to analyze and make important determinations about their own driving practices, the safety and efficiency 
+of their vehicles, the timing and possible causes of accidents and malfunctions, and potential replacement parts 
+that may improve the performance and longevity of their vehicles—all uses that are non-commercial.  
+ 
+Moreover, the purpose of the proposed use differs significantly from that of the original work. The 
+copyrightable elements of vehicle software work in concert to perform pre-defined tasks and process 
+data. In contrast, proponents seek to use only such limited portions of the copyrightable work as may be 
+ 
+8 Digital Drilling Data Sys. LLC v. Petrolink Servs. Inc., No. 4:15-CV-02172, 2018 WL 2267139, at *9 (S.D. Tex. May 16, 
+2018), aff'd sub nom. Digital Drilling Data Sys., L.L.C. v. Petrolink Servs., Inc., 965 F.3d 365, 378 (5th Cir. 2020), citing 
+Feist Publications, Inc. v. Rural Tel. Serv. Co., 499 U.S. 340, 344, 111 S.Ct. 1282, 1287, 113 L.Ed. 2d 358 (1991) (“That 
+there can be no valid copyright in facts is universally understood”). 
+9 Campbell v. Acuff-Rose Music, Inc., 510 U.S. 569, 114 S. Ct. 1164, 1166, 127 L. Ed. 2d 500 (1994). 
+[PAGE 5]
+AFDOCS:199224415.1 
+DRAFT  
+MEMA Long Comment  
+December 22, 2023     Page 5 of 7 
+ 
+necessary to access non-copyrightable data, and only so that they may derive new insight and 
+understanding about their own driving habits and vehicle performance. These insights will be limited to 
+the user’s own vehicle, with little, if any, value to anyone other than the vehicle owner or lessee. As such, 
+the proposed use will not result in new works that “supersede” the original, but will instead add something 
+new, with a further purpose of different character.  
+The second factor—the nature of the copyrighted work—also favors a finding of fair use. The second 
+factor “calls for recognition that some works are closer to the core of intended copyright protection than 
+others, with the consequence that fair use is more difficult to establish when the former works are 
+copied.”10 Courts consider “whether the work is expressive or creative, … with a greater leeway being 
+allowed to a claim of fair use where the work is factual or informational,” and “whether the work is 
+published or unpublished, with the scope for fair use involving unpublished works being considerably 
+narrower.”11 As the Acting Register of Copyrights (the “Register”) has concluded in the past, vehicle 
+software is a functional work used for the limited purpose of operating a vehicle, rather than a creative 
+work with expressive or artistic value.12    
+The third factor—the amount and substantiality of the portion of the work used—also favors a finding of 
+fair use. Owners or lessees are unlikely to reproduce or otherwise use any substantial portion of the 
+copyrighted computer software. Rather, owners and lessees will be accessing the copyrighted works 
+merely to retrieve the non-copyrightable data—vehicle telematics or operational data generated by their 
+own vehicles. None of the data that owners or lessees are likely to obtain under the proposed class 7 
+exemption would have been part of the copyrighted work, whether at the time of registration, 
+publication, or when the vehicles left the factory or dealership. Rather, owners and lessees primarily seek 
+to access the copyrighted works to retrieve data generated by the copyrighted work about their own 
+vehicles. Moreover, courts have held that the third factor does not necessarily weigh against fair use when 
+using software is necessary to understand its function.13  
+As to the fourth factor—the effect of the use upon the potential market for or value of the copyrighted 
+work—this factor, like the others, favors a finding of fair use. The fourth factor requires the Register to 
+consider “not only the extent of market harm caused by the particular actions of the alleged infringer, but 
+also ‘whether unrestricted and widespread conduct of the sort engaged in by the [user] . . . would result 
+in a substantially adverse impact on the potential market.’”14 There is limited, if any, market for vehicle 
+software as a standalone product that is separate and distinct from the market for vehicles. In 2015, the 
+Register concluded that “computer programs on the majority of ECUs are only meaningful in connection 
+with the vehicle, that the copies are generally sold only with the vehicle, and that the consumer pays for 
+those copies when purchasing the vehicle.” 
+ 
+10  Campbell, 510 U.S. at 586.  
+11 Cariou v. Prince, 714 F.3d 694, 709–10 (2d Cir. 2013).  
+12 2015 Recommendation at 257. 
+13 See e.g., Sony Comp. Entertainment, Inc. v. Connectix Corp., 203 F.3d 596, 599–601 (9th Cir.2000) (holding that a 
+competitor may create copies of copyrighted software for the purpose of analyzing that software and discovering 
+how it functions). 
+14 Campbell, 510 U.S. at 590. 
+[PAGE 6]
+AFDOCS:199224415.1 
+DRAFT  
+MEMA Long Comment  
+December 22, 2023     Page 6 of 7 
+ 
+III. The statutory prohibition on circumvention prevents vehicle owners and lessees from using 
+telematics or vehicle operational data in a non-infringing manner. 
+The statutory prohibition on circumvention prevents vehicle owners and lessees from using telematics 
+and vehicle operational data in a non-infringing manner.  
+While there are several exemptions and safe harbors to 1201(a)(1)(A), including the temporary exemption 
+for diagnosis, repair, or modification of the vehicle, none of these existing exemptions or safe harbors 
+clearly apply to telematics and operational data, despite the clearly non-infringing nature of the proposed 
+uses.  Section 117(a)(1), for example, provides a limited exemption for an “owner of a copy of a computer 
+program” to circumvent TPMs, but the exemption is not available to owners of a given vehicle. The Ninth 
+Circuit and the Register have held that for purposes of Section 117 of the Copyright Act, owning a “device” 
+does not make one the “owner” of the copy of software on the device. Rather, the Register has advised 
+that “vehicle owners may more properly be considered lessees of at least some telematics and 
+entertainment system software.”15 Consumers are unable, then, to enjoy the safe harbor that Section 
+117(a)(1) provides to circumvent TPMs for non-infringing use.  
+Similarly, while Section 1201(i) allows users to circumvent technological protection measures that collect 
+personal data, the exemption is unavailable to the vehicle owners who desire to circumvent TPMs to 
+access their telematics and vehicle operational data. Under Section 1201(i), a  user may circumvent a 
+work’s TPMs if (1) the measure is capable of collecting personal information, (2) the measure collects 
+personal information without notice to users and without the ability for users to opt out of that collection, 
+(3) the act of circumvention has the “sole effect” of disabling the information collection and “has no other 
+effect on the ability of any person to gain access to any work,” and (4) the act of circumvention is only 
+carried out for the purpose of preventing the collection of personal information.”16 1201(i) provides no 
+solution for a vehicle owner who does not want to disable the collection of data, but rather use it and 
+allow others to assist with analysis thereof. 
+Thus, the TPMs that restrict access to onboard computer systems and ECUs prevent vehicle owners and 
+lessees from accessing and using telematics and vehicle operational data for non-infringing purposes and 
+the statutory prohibition on circumvention places consumers at risk of incurring liability under 
+1201(a)(1)(A). The proposed class 7 exemption is therefore warranted.  
+Should the Register deem it necessary or appropriate, it could propose an exemption that contains 
+reasonable limitations to protect third party intellectual property rights and to ensure safety and regulatory 
+compliance, such as in the following proposed language:  
+A proposed exemption for circumvention of technological protection measures on computer 
+programs that are contained in and control the functioning of a lawfully acquired motorized land 
+vehicle or marine vessel such as a personal automobile or boat, commercial vehicle or vessel, or 
+mechanized agricultural vehicle or vessel to allow lawful vehicle owners and lessees, or those 
+acting on their behalf, to access, store, and share vehicle operational data, including diagnostic 
+and telematics data, where such circumvention is not accomplished for the purpose of gaining 
+unauthorized access to other copyrighted works. Eligibility for this exemption is not a safe harbor 
+ 
+15 2018 Recommendation at 201. 
+16 17 U.S. Code § 1201(i). 
+[PAGE 7]
+AFDOCS:199224415.1 
+DRAFT  
+MEMA Long Comment  
+December 22, 2023     Page 7 of 7 
+ 
+from, or defense to, liability under other applicable laws, including without limitation regulations 
+promulgated by the Department of Transportation or the Environmental Protection Agency.17 
+IV. Conclusion 
+In a rapidly evolving automotive market defined by increasingly sophisticated software, car owners and lessees 
+are currently excluded from benefiting from the data they themselves have generated by driving. Such 
+potential benefits to everyday consumers are numerous, from the ability to customize a vehicle to promote 
+accessibility or fuel efficiency, to providing aftermarket services providers real-time access to certain vehicle 
+performance metrics. At present, the restrictions under section 1201(a)(1)(A) yield detrimental results for 
+these consumers, allowing TPMs to gatekeep consumer-generated, factual data which is unprotected by U.S. 
+copyright law.  
+The proposed use of protected elements of vehicle software (which may be incidentally copied in the process 
+of obtaining one’s raw data) by vehicle owners and lessees, and those acting on their behalf, constitutes fair 
+use under the Copyright Act. Such use is limited in scope, transformative, likely to be non-commercial, and 
+does not threaten the effectively non-existent market for vehicle software as a standalone product. Further, 
+any incidental copying of protectible data is likely to be fleeting and for the limited purpose of retrieving 
+unprotectable data that would not exist but for the car owner/lessee.  
+The new class 7 exemption would allow car owners and lessees to personalize their vehicles (subject to 
+reasonable safety limitations), streamline the repair and maintenance process, access driving records to 
+monitor family driving habits, and otherwise learn from their raw data in a non-infringing manner in plain 
+furtherance of the purpose and spirit of the DMCA triennial rulemakings.   
+ 
+ 
+ 
+17 See, e.g., 37 CFR § 201.40(b)(13). 

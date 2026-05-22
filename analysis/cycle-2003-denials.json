@@ -1,0 +1,207 @@
+{
+  "cycle": 2003,
+  "final_rule_file": "1201/Final Rules/2003-Final-Rule.txt",
+  "extractor_notes": "All denial entries extracted from Final Rule preamble Section III.B 'Other Exemptions Considered, But Not Recommended' (PDF pp. 4-8). Items numbered 1-25 in the Final Rule; item 25 is labeled 'Other comments beyond the scope of the rulemaking' rather than a discrete proposed class, and is included for completeness. Item 3 contains two sub-proposals from a single commenter, treated as one denial entry as numbered in the Rule. Recommendation file was not consulted; Final Rule preamble was sufficient.",
+  "denials": [
+    {
+      "proposed_class_number": "1",
+      "topic_label": "All works for noninfringing/fair/private uses",
+      "reason_category": "procedural",
+      "reason_quote": "the proponents of an exemption for 'all works' have utterly failed to propose 'a particular class of copyrighted works,' but have simply asked, in effect, for a blanket exemption for all works.",
+      "source_pdf_pages": [4],
+      "later_granted_in_cycle": null
+    },
+    {
+      "proposed_class_number": "2",
+      "topic_label": "Per se educational fair use / fair use works",
+      "reason_category": "procedural",
+      "reason_quote": "A 'use-based' or 'user-based' classification is not permitted. The statutory exemptions in section 1201 contain carefully crafted, use-based and user-based exemptions. Congress considered and declined to enact certain use-based exemptions similar to some of the proposals raised in this rulemaking.",
+      "source_pdf_pages": [4, 5],
+      "later_granted_in_cycle": null
+    },
+    {
+      "proposed_class_number": "3",
+      "topic_label": "Musical/audiovisual works for legitimate research",
+      "reason_category": "procedural",
+      "reason_quote": "Because each of these proposed classes is defined largely in terms of the purpose of the circumvention, they cannot be considered. They are simply variants of the type of use-based class that is beyond the scope of this proceeding.",
+      "source_pdf_pages": [5],
+      "later_granted_in_cycle": null
+    },
+    {
+      "proposed_class_number": "4",
+      "topic_label": "Any work to which user had lawful initial access",
+      "reason_category": "evidence",
+      "reason_quote": "This proposal also failed to propose 'a particular class of copyrighted works.' Moreover, commenters proposed this class without providing any factual support whatsoever. Proponents failed to specify particular access controls that have caused adverse effects on noninfringing uses, and have failed to describe what noninfringing uses have been adversely affected.",
+      "source_pdf_pages": [5],
+      "later_granted_in_cycle": null
+    },
+    {
+      "proposed_class_number": "5",
+      "topic_label": "Time-limited licensed AV works / sound recordings post-expiration",
+      "reason_category": "alternatives",
+      "reason_quote": "A consumer who enters into an agreement to pay a particular sum for the right to listen to or view a copyrighted work for a limited period of time can have no reasonable expectation of continued access once that time has expired. Especially when the works that are the subject of this proposed exemption... are widely available for purchase in formats that have no time restrictions on use, the case for an exemption has not been made.",
+      "source_pdf_pages": [5],
+      "later_granted_in_cycle": null
+    },
+    {
+      "proposed_class_number": "6",
+      "topic_label": "'Thin copyright' works",
+      "reason_category": "evidence",
+      "reason_quote": "Without any demonstration of an adverse effect, any specific allegation of any particular technological measure protecting access to works, or any discussion of the unavailability of the material cited in unprotected formats, there is little basis for consideration.",
+      "source_pdf_pages": [5],
+      "later_granted_in_cycle": null
+    },
+    {
+      "proposed_class_number": "7",
+      "topic_label": "Public domain or open-access works behind access controls",
+      "reason_category": "substantive",
+      "reason_quote": "These commenters have overlooked that if a work that is entirely in the public domain is protected by an access control measure, the prohibition on circumvention will not be applicable. Therefore, no exemption is needed.",
+      "source_pdf_pages": [5],
+      "later_granted_in_cycle": null
+    },
+    {
+      "proposed_class_number": "8",
+      "topic_label": "Backup/format-shift musical, sound, AV works (incl. DVDs)",
+      "reason_category": "noninfringing_use_not_shown",
+      "reason_quote": "The Register concludes that the proponents have not made the case with respect to fragility of DVDs, nor have they shown that the making of backup copies of DVDs is a noninfringing use.",
+      "source_pdf_pages": [5],
+      "later_granted_in_cycle": null
+    },
+    {
+      "proposed_class_number": "9",
+      "topic_label": "Skipping unskippable DVD promotional material",
+      "reason_category": "de_minimis",
+      "reason_quote": "the problem appears to be no more than de minimis and a mere inconvenience experienced with an unknown—but apparently small—quantity of available DVD titles.",
+      "source_pdf_pages": [5, 6],
+      "later_granted_in_cycle": null
+    },
+    {
+      "proposed_class_number": "10",
+      "topic_label": "Ancillary works on CSS-encrypted DVDs",
+      "reason_category": "alternatives",
+      "reason_quote": "Because users have means of making analog copies of the material on DVDs without circumventing access controls (and of redigitizing those analog copies), there is no need to permit them to circumvent.",
+      "source_pdf_pages": [6],
+      "later_granted_in_cycle": null
+    },
+    {
+      "proposed_class_number": "11",
+      "topic_label": "Region-coded DVDs (audiovisual)",
+      "reason_category": "alternatives",
+      "reason_quote": "Because such consumers have a number of options that will permit them to view such region coded DVDs, the need for an exemption that would permit circumvention of region coding has not been demonstrated.",
+      "source_pdf_pages": [6],
+      "later_granted_in_cycle": null
+    },
+    {
+      "proposed_class_number": "12",
+      "topic_label": "Region-coded video games on DVD",
+      "reason_category": "evidence",
+      "reason_quote": "supporters came forward with virtually no evidence relating to problems with region coding of video games... Such evidence has not been produced in this rulemaking.",
+      "source_pdf_pages": [6],
+      "later_granted_in_cycle": null
+    },
+    {
+      "proposed_class_number": "13",
+      "topic_label": "Audiovisual works on CSS-encrypted DVDs (general)",
+      "reason_category": "evidence",
+      "reason_quote": "they failed to provide evidence of actual or likely harm and, therefore, the Register cannot recommend such an exemption... specific facts were not provided and it was not shown that the works were unavailable in an unprotected format.",
+      "source_pdf_pages": [6],
+      "later_granted_in_cycle": null
+    },
+    {
+      "proposed_class_number": "14",
+      "topic_label": "Software for dedicated video game players",
+      "reason_category": "evidence",
+      "reason_quote": "This proponent of this exemption provided almost no evidence in support of his proposal, failing to identify a technological measure that controls access to copyrighted works and failing sufficiently to identify what noninfringing activity is adversely affected.",
+      "source_pdf_pages": [6],
+      "later_granted_in_cycle": null
+    },
+    {
+      "proposed_class_number": "15",
+      "topic_label": "'Tethered' works (ebooks, sound recordings, AV)",
+      "reason_category": "alternatives",
+      "reason_quote": "Commenters who believe that users should be able to 'space-shift' any work they purchase in order to access this work on any device of their choosing did not make a persuasive case that such 'space-shifting,' involving reproduction of the work, is a noninfringing use... user limitations would appear to represent only an inconvenience as long as alternative formats of the work are available for noninfringing uses.",
+      "source_pdf_pages": [6],
+      "later_granted_in_cycle": null
+    },
+    {
+      "proposed_class_number": "16",
+      "topic_label": "DVDs tethered to operating systems (e.g., Linux playback)",
+      "reason_category": "alternatives",
+      "reason_quote": "Because there are a variety of devices that will play DVDs, the inability to play a DVD on a particular device or with a particular operating system is simply a matter of preference and inconvenience.",
+      "source_pdf_pages": [7],
+      "later_granted_in_cycle": null
+    },
+    {
+      "proposed_class_number": "17",
+      "topic_label": "Works gated by End-User License Agreement assent",
+      "reason_category": "substantive",
+      "reason_quote": "While technological measures may prevent access unless a user signals assent to the terms of a contract, the prohibition on circumvention does not appear to enforce the terms of a contract.",
+      "source_pdf_pages": [7],
+      "later_granted_in_cycle": null
+    },
+    {
+      "proposed_class_number": "18",
+      "topic_label": "Copy-protected CDs that block playback on certain devices",
+      "reason_category": "evidence",
+      "reason_quote": "The comments provided insufficient information to conclude that access controls have caused users to be denied access to a sound recording. Moreover, thus far the deployment of CDs protected by any technological measures in the United States has been minimal.",
+      "source_pdf_pages": [7],
+      "later_granted_in_cycle": null
+    },
+    {
+      "proposed_class_number": "19",
+      "topic_label": "Webcaster ephemeral copies of copy-protected Red Book CDs",
+      "reason_category": "substantive",
+      "reason_quote": "Because section 112(e)(8) already provides licensed webcasters with a mechanism for circumventing access controls that prevent webcasters from making ephemeral copies, there is no need for an exemption here, especially when webcasters thus far do not appear to have experienced actual problems.",
+      "source_pdf_pages": [7],
+      "later_granted_in_cycle": null
+    },
+    {
+      "proposed_class_number": "20",
+      "topic_label": "Broadcast news monitoring / broadcast flag bypass",
+      "reason_category": "noninfringing_use_not_shown",
+      "reason_quote": "The 'limited purpose' for which the broadcast monitors seek an exemption does not appear to constitute a noninfringing use. Moreover, the broadcast monitors' fears relating to the broadcast flag, which at this point is simply a proposal before another federal agency, are speculative.",
+      "source_pdf_pages": [7],
+      "later_granted_in_cycle": null
+    },
+    {
+      "proposed_class_number": "21",
+      "topic_label": "Reverse engineering for interoperability (Static Control/printer toner)",
+      "reason_category": "substantive",
+      "reason_quote": "The Register concludes that an existing exemption in section 1201(f) addresses the concerns of remanufacturers, making an exemption under section 1201(a)(1)(D) unnecessary.",
+      "source_pdf_pages": [7],
+      "later_granted_in_cycle": null
+    },
+    {
+      "proposed_class_number": "22",
+      "topic_label": "Encryption research, data files, password recovery, PII",
+      "reason_category": "evidence",
+      "reason_quote": "In some cases, the commenters failed to explain why the existing exemptions are insufficient. Most commenters also failed to provide specific examples of problems leading to the alleged need for an exemption.",
+      "source_pdf_pages": [8],
+      "later_granted_in_cycle": null
+    },
+    {
+      "proposed_class_number": "23",
+      "topic_label": "Conversion of data file formats and source code",
+      "reason_category": "evidence",
+      "reason_quote": "insufficient information was provided to understand the nature of the problem, or even whether the prohibition against circumvention contained in section 1201(a)(1) is implicated.",
+      "source_pdf_pages": [8],
+      "later_granted_in_cycle": null
+    },
+    {
+      "proposed_class_number": "24",
+      "topic_label": "Privacy and personally identifying information",
+      "reason_category": "evidence",
+      "reason_quote": "insufficient information was provided to ascertain the nature and extent of the problem, or the degree to which access controls were involved... the commenters did not explain why the existing statutory exemption in section 1201(i) does not adequately address the problem.",
+      "source_pdf_pages": [8],
+      "later_granted_in_cycle": null
+    },
+    {
+      "proposed_class_number": "25",
+      "topic_label": "Webcasting, OSP liability, anti-trafficking (out of scope)",
+      "reason_category": "procedural",
+      "reason_quote": "A number of comments discussed issues unrelated to the anticircumvention provision that are beyond the scope of this rulemaking.",
+      "source_pdf_pages": [8],
+      "later_granted_in_cycle": null
+    }
+  ]
+}

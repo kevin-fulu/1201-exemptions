@@ -1,0 +1,3430 @@
+[PAGE 1]
+EXHIBIT 1 
+[PAGE 2]
+Attorney Docket No. 15259128-000007 
+Page 1 of 6
+In Support of Petition of: 
+Transtate Equipment Company, Inc. d/b/a Avante Diagnostic Imaging 
+1040 Derita Rd. 
+Suite A 
+Concord, NC 28027 
+Robert A. Wheeler, President 
+Telephone: 800-710-9996 
+Of counsel: 
+Dentons US LLP 
+233 South Wacker Drive, Suite 5900 
+Chicago, IL 60606 
+David R. Metzger 
+Email: david.metzger@dentons.com
+Telephone: 312-867-2578 
+Taaj Reaves 
+Email: taaj.reaves@dentons.com
+Telephone: 312-867-8176 
+Attorneys for Transtate Equipment Company, Inc. d/b/a Avante Diagnostic Imaging 
+DECLARATION OF ROBERT A. WHEELER 
+I, Robert A. Wheeler, am over 21 years old and hereby declare as follows:
+1) I am the President of the Imaging and Oncology Division at Transtate Equipment Company, Inc. 
+d/b/a Avante Diagnostic Imaging (“Transtate”), a position I have held since 2018. Transtate 
+Equipment Company, Inc. began business during April, 2017. Before 2018, I served as Vice 
+President of Transtate.  From 2008 to 2017, I was Vice President of TEC Holdings, Inc., which 
+until April, 2017 was known as Transtate Equipment Company, Inc.  In approximately March 
+2017, TEC Holdings, Inc. sold substantially all of its assets to Transtate. 
+Background: 
+2) Transtate is a member of the Avante Health Solutions group of companies that provide high 
+quality refurbished medical systems and devices; provide post warranty repair, diagnosis, and 
+maintenance of medical systems and devices; and sell new and used parts, all manufactured by 
+Original Equipment Manufacturers (“OEMs”).  
+3) Transtate is an independent service organization (“ISO”) that focuses on medical imaging 
+systems, namely catheterization and angioplasty X-ray systems, magnetic resonance imaging 
+(“MRI”) systems, and computed tomography (“CT”) systems.   
+4) Transtate operates nationwide and services medical equipment on a daily basis, including by 
+responding to service calls each day. 
+[PAGE 3]
+US_Active\116086645\V-1 
+5) Transtate’s sister companies include Dre Medical, Inc. d/b/a Avante Medical Surgical, Pacific 
+Medical, Inc. d/b/a Avante Patient Monitoring, Global Medical Imaging, Inc. d/b/a Avante 
+Ultrasound, and Oncology Services International, Inc. d/b/a Avante Oncology Services. Avante 
+Medical Surgical focuses on surgical equipment including C-Arm fluoroscopy devices, anesthesia 
+machines, and electrosurgical units.  Avante Patient Monitoring focuses on monitoring systems 
+including patient monitors, telemetry systems, gas analyzers, and fetal monitors. Avante 
+Ultrasound focuses on ultrasound machines.  Avante Oncology Services focuses on linear 
+accelerators and CT simulators. 
+6) Transtate performs sales and servicing activities for x-ray and diagnostic imaging systems, 
+including catheterization labs, CT systems, and MRI systems (collectively “medical equipment”). I 
+also have experience servicing catherization systems myself.  
+7) Transtate services machines manufactured by OEMs including Siemens, Phillips, GE and Canon 
+(formerly Toshiba).1
+Brief History of Servicing Activities: 
+8) Medical devices and systems used to be composed only of mechanical and electrical parts, i.e., 
+hardware. Over time, some hardware functions were replaced by software.  For example, at 
+some point, film used in X-ray systems was replaced by digital image capturing devices rendering 
+them digital devices.  
+9) In the past, the specifications and other information relating to the functions of the devices and 
+systems were provided freely by OEMs in hard copy manuals. These devices and systems could 
+be serviced by technicians with access to the manuals and with the relevant mechanical and 
+electrical knowledge, experience, and tools. 
+10) More recently, hardware components are being and have been replaced by computing 
+processors and software. As computers have developed, computerized functions have become 
+integrated into the medical equipment. As a result, more and more functions are being controlled 
+or performed by computers, and the computers have become integrated into the devices such 
+that the devices, computers and software are inseparable. Now, large sophisticated systems such 
+as MRI and catheterization and angioplasty X-ray systems (often referred to as “cath lab” 
+systems) are completely controlled by computers integrated into the systems and can only be 
+serviced with software integrated into the systems. 
+1 GE refers to GE Healthcare, a subsidiary of General Electric Company. 
+Siemens refers to Siemens Healthineers AG (formerly Siemens Healthcare, Siemens Medical Solutions, 
+Siemens Medical Systems), a subsidiary of Siemens AG. 
+Philips refers to Koninklijke Philips N.V., including its subsidiaries Philips Electronics and Philips 
+Healthcare. 
+Cannon refers to Canon Medical Systems Corporation, formerly Toshiba Medical, and a subsidiary of 
+Canon, Inc. 
+Toshiba refers to Toshiba Medical, now Canon Medical Systems Corporation. 
+Page 2 of 6
+[PAGE 4]
+US_Active\116086645\V-1 
+11) OEMs are also less likely to provide manuals these days. They are only being provided by certain 
+OEMs some of the time. Even when we do receive manuals, they are often incomplete.  
+12) Manuals are sometimes provided by OEMs electronically, as data files installed on the medical 
+equipment or through DVD/compact discs. As a result, many servicing activities require access to 
+and use of computer programs and electronic manuals. 
+13) Medical device servicing is handled in a variety of ways. Consumers such as hospitals and other 
+medical providers may have one or more in-house departments fully staffed by employees, fully 
+staffed by third party contractors, or a mixture of the two. Other providers might enter into 
+servicing contracts with ISOs. If there is more than one in-house department, they tend to 
+specialize in different types of equipment. The most specialized departments tend to be those 
+which manage medical imaging equipment. While some servicing such as troubleshooting and 
+calibration might be undertaken by the in-house department, much servicing is contracted out 
+given the complexity of the systems involved. Third parties like Sodexo Group are hired to 
+manage some of these functions for medical providers. 
+14) In-house departments will often call in outside service entities such as OEMs or ISOs to  repair 
+malfunctions. Among other information, diagnosis, maintenance, and repairs often require access 
+to event logs, error logs, and configuration files. 
+15) OEMs also offer post warranty services and compete with ISOs for the post warranty servicing 
+work. My experience is that ISOs often charge much less than OEMs and are about 30% to 50% 
+less expensive for this work. 
+Technological Protective Measures (“TPMs”) and ISO Servicing Activities: 
+16) OEMs equip modern medical systems and devices with TPMs such as encryption, embedded 
+software, and challenge-response mechanisms2, involving access codes, passwords, keys, or 
+digital signatures.   
+17) TPMs hinder and prevent medical equipment owners and their agents from repairing, diagnosing, 
+and maintaining the medical systems and devices they own by restricting or denying access to 
+necessary electronic service materials installed in the medical equipment or otherwise provided 
+via electronic media. 
+18) Servicing medical equipment, particularly large medical systems such as medical imaging 
+devices, often requires access to software that is integrated with the medical equipment because 
+this is the only way to service the machines due to the integration of the hardware and the 
+software.  
+2 Challenge–response mechanisms involve protocols in which one party presents a question (i.e., a 
+“challenge") and another party must provide a valid answer (i.e. a "response" such as a password) to be 
+authenticated. 
+Page 3 of 6
+[PAGE 5]
+US_Active\116086645\V-1 
+19) Existing medical equipment must be calibrated and configured in order to work properly. Often 
+times when medical equipment is calibrated, access to the software that is integrated with that 
+machine is required. 
+20) In addition to the operating software and servicing programs, OEMs place data files including 
+event logs, error logs, and configuration files behind the same TPMs. As a result of the co-
+mingling of the software and the data files, OEMs restrict access to the data files in an attempt to 
+thwart even the most basic servicing, particularly troubleshooting, of medical equipment. 
+Specific OEMs and Adversity Caused: 
+21) There are several TPMs used by OEMs that restrict, limit, or deny access to medical equipment.  
+Most typically, access to the software requires a keyed-in access code or an access key such as 
+a dongle (e.g., a USB flash drive with a code). For example, Siemens uses 256 bit hexadecimal 
+access codes that must be keyed-in, while GE and Philips use dongles.  
+22) The amount of access technicians such as Transtate’s engineers and technicians have to 
+conduct servicing activities on medical equipment varies depending on the manufacturer of the 
+machine.  
+23) Philips is the most egregious OEM that Transtate has encountered in my experience. Philips 
+charges a fee for its dongle keys and requires keys to be renewed every thirty days.  Technicians 
+and engineers servicing equipment also have to register for InCenter to access some or all of the 
+information on its website.3
+24) Siemens requires a technician to either (i) call for a one-time access code each time medical 
+equipment requires servicing, or (ii) pay an exorbitant yearly fee that can cost between 
+$20,000.00 and $25,000.00 USD per device.   
+25) GE will provide dongles for a fee. 
+26) Additionally, certain OEMs will also only sell and provide ISOs access to certain limited tiers of 
+information. Often the tier of access provided by certain OEMs is inadequate to fully service the 
+medical equipment. 
+27) Other times, OEMs will only provide access to some of what is necessary to configure, calibrate, 
+or test the machine for a limited time (e.g., the code will not function after a certain number of 
+hours).  
+28) By OEMs refusing appropriate access to ISOs that is required to service a machine, the OEMs 
+are forcing the medical equipment owner and lessees to use the OEMs to service the medical 
+equipment directly. Using an OEM to service medical equipment can increase the cost of each 
+service event by thousands of dollars. 
+3 InCenter is an eSupport system provided by Philips. According to Philips’ website, InCenter provides an 
+enhanced document distribution platform including “a majority of the service information you will need to 
+support your Philips medical systems and devices.” 
+Page 4 of 6
+[PAGE 6]
+US_Active\116086645\V-1 
+29) Additionally, OEMs will often refuse to support older versions of medical equipment because the 
+OEMs deem the medical equipment to have reached the end of its commercial life. OEMs will 
+either not service the machines or not provide renewed access codes and keys either to the 
+consumers or to ISOs, even though with the appropriate access codes and keys, the ISOs would 
+be able to continue to service and repair the medical equipment.  
+30) Despite the fact that older models of medical equipment can still function well and continue to be 
+used, thereby saving healthcare providers and in turn patients significant sums of money, OEMs 
+refuse to provide the requisite support and access needed to service that medical equipment. 
+31) Transtate’s engineers, technicians, and professionals have the skill, training and expertise to 
+service medical equipment from a wide variety of OEMs, however, the limited access provided by 
+OEMs hinders our ability to do so. 
+32) In addition to restricting access to necessary software required to service medical equipment, 
+Philips currently refuses to train ISO technicians.  
+33) TPMs hinder our professionals and servicing engineers from accessing diagnostic error codes 
+that provide critical information about what part of the machine is not functioning properly. To 
+properly diagnose faults and errors in the operation of a device, it is often necessary to access 
+error logs to decipher causes of errors, and this requires access to the software. 
+34) OEMs have previously said that these types of event and error logs and programs are their 
+proprietary, copyrightable information. However, this is disputed and the subject of litigation.  
+35) The computer programs and data files have no other use. Although OEMs might sell or make 
+available updates to their software, there is no independent market for the computer programs 
+and data files outside of the purchase of new or used equipment because the software is not of 
+any value outside of use on this equipment. The software is specific to the machine on which it is 
+sold. 
+36) The medical provider consumers are hurt by the TPM practices of OEMs because they cannot 
+take advantage of the lower prices offered by purchasing services from ISOs like Transtate. For 
+example, OEM’s typically charge 30% to 50% more for service calls to diagnose and repair 
+medical equipment than ISOs, in my experience. I understand these higher costs must be passed 
+along to patients.  
+37) The TPM practices of OEMs have also contributed to limited competition from and amongst ISOs. 
+At the time of this declaration’s execution, I only know of a very small number of ISOs, including 
+Transtate, that provide post-warranty maintenance services for Philips-manufactured systems 
+within the United States.  
+38) The undersigned being warned that willful false statements and the like are punishable by fine or 
+imprisonment, or both, under 18 U.S.C. 1001. The undersigned declares that all statements made 
+of his/her own knowledge are true; and all statements made on information and belief are 
+believed to be true. 
+Page 5 of 6
+[PAGE 7]
+US_Active\116086645\V-1 
+Date:  
+Robert A. Wheeler 
+12/11/2020
+Page 6 of 6
+[PAGE 8]
+EXHIBIT 2 
+[PAGE 9]
+
+[PAGE 10]
+
+[PAGE 11]
+EXHIBIT 3 
+[PAGE 12]
+
+[PAGE 13]
+
+[PAGE 14]
+EXHIBIT 4 
+[PAGE 15]
+Reduce repair restrictions to aid hospitals during COVID-19
+ 
+COVID-19 has underscored the need for a more cooperative relationship between Original
+ 
+Equipment Manufacturers (OEMS) of medical technology, hospital-based BMETs, and
+ 
+independent medical device service providers.
+ 
+As the FDA found in 2018, “the continued availability of third party entities to service and repair
+ 
+medical devices is critical to the functioning of the U.S. healthcare system,” and all three
+ 
+“provide high quality, safe, and effective servicing of medical devices.” This is especially true as a
+ 
+pandemic stress tests our medical system. However, hospital-based and third-party technicians
+ 
+often struggle to access the repair information needed to service equipment.
+ 
+We, the undersigned clinical engineers and health technology managers, support requiring
+ 
+service materials (repair documentation, schematics, parts, tools and diagnostics) be made
+ 
+available immediately. We support the following changes:
+ 
+●
+Manufacturers must meet the goals of 2012 NFPA 99 Health Care Facilities Code
+ 
+requirements around providing service information, and post their service materials in a
+ 
+manner that consistently allows hospitals to decide for themselves whom to hire for
+ 
+repair.
+ 
+●
+Access to all service materials (all information, software, replacement parts and tools
+ 
+necessary to perform corrective and preventive maintenance actions in accordance with
+ 
+the manufacturers recommendations, such as repair documentation, schematics and
+ 
+diagnostics), available to the device owner even when equipment changes hands, on fair
+ 
+and reasonable terms.
+ 
+●
+Product-specific training for repair must be made available online, on fair and
+ 
+reasonable terms, to biomedical engineering technicians, imaging service engineers, and
+ 
+other parties responsible for operation of medical equipment under CMS rules.
+ 
+ 
+Sincerely,
+ 
+ 
+Aaron Telesz, Clinical Engineering, BMET I, Biomedical Engineering Technician
+ 
+Abigail Lane-Savage, Biomedical Engineering Project Manager, Sodexo CTM
+ 
+Abron Mullings, Service Technician/Chamber Cleaner, HSS Inc.
+ 
+Adam Kohl, Sr. Biomedical Imaging Technician, ProHealth Care
+ 
+Alex Gaufman, Service Engineer and Owner, National Instrument Service Corp
+ 
+ 
+Alex Peterman, Operations Manager of Clinical Engineering, University of Washington Medical
+ 
+Center
+ 
+Allan Morgan, Clinical Engineering / BMET, Catholic Health Initiatives
+ 
+Allan Prunty, BMET Supervisor, ISS solutions
+ 
+Amber Tucker, Biomed and biomedical tech 3, Spectrum health Lakeland
+ 
+ 
+Andrew Dunlap, BIOMED, Senior BMET, CHI
+ 
+Andrew Ibey, Senior Manager, CHEO
+ 
+[PAGE 16]
+Andrew Schadegg, Operations Manager, Independent Medical Device Service Provider
+ 
+Andrew Stephen Gagne, Clinical Engineering Biomedical Equipment Technician, ABM
+ 
+Andrew Strong, Clinical Engineer, Yale New Haven Hospital
+ 
+Andy Armenta, VP of Enhanced Biomedical Infection Control Division, ERD LLC
+ 
+Anthony Dutra, Clinical Engineering, Diagnostic Imaging Service, Hospital Based BMET
+ 
+Anthony Masseur, Equipment Specialist , ACT - Paragon
+ 
+Anthony Scavella, Biomedical Electronics Technician, Sinai-Grace Hospital
+ 
+Austin Feagins, Clinical Technology Dept. /Area Service Mgr, Kaiser Permanente
+ 
+Austin Otto, President, OB Healthcare Corporation
+ 
+Averil Calambro, Biomed, Common Spirit Health
+ 
+Barbara Maguire, Vice President, Healthcare Technology Management, ISS Solutions/Geisinger
+ 
+Bashar mahanweh, Biomed, HSS
+ 
+Bassam Tabshouri, Medical Engineering, Director, American University of Beirut
+ 
+Beau Butts, Service - BMET 1, FOBI Medical
+ 
+Benjamin Kuchar, Regional Manager, Third Party Vendor
+ 
+Benjamin Riley, Biomed - Senior Biomedical Technician, Nebraska Methodist Hospital
+ 
+Benny Rodriguez , Biomedical Engineering: Biomedical technician , Brookdale Medical Center
+ 
+Beverly Kupiszewski , Biomed Site Manager, Trimedx
+ 
+Bhaskar Iduri, VP, Healthcare Technology Management & QA, RENOVO SOLUTIONS LLC
+ 
+Bill Barley, HTM Security, Healthcare Technology Management
+ 
+Bill Putz, Clinical Engineering, Common Spirit Health
+ 
+Bill Summers, CEO , Anchor Medical Company
+ 
+Blake Collins, Clinical Engineering, Delaware Hospital
+ 
+Blake Rother, MEM - BMET II, HSS
+ 
+Bob Turk, Clinical Engineering Supervisor, McLaren Northern Michigan Hospital
+ 
+Bobbie DeBord, Clinical Engineering CBET, Michigan Medicine
+ 
+Boyd Campbell, VP, Southeastern Biomedical Associates, Inc
+ 
+Brad Motes, Clinical Engineering Senior Biomedical Technician, UCHealth Greeley Hospital
+ 
+Brandi L. Rosenau, Section Chief, Medical Maintenance, USAF
+ 
+Brandon Howard, CE BMET II, CHI
+ 
+Brendan Gribbons, Regional Engineering Team Manager, Lower Mainland Biomedical
+ 
+Engineering
+ 
+Brenna Sanchez, Cabmet Member, Cabmet
+ 
+Brent Rankin, COO, Rankin Biomedical Corporation
+ 
+Brian Kelly, Clinical Engineering Manager, St. James Healthcare
+ 
+Brian Lefler, Director Biomedical Services, FirstHealth of the Carolinas
+ 
+Brian McLaughlin, Manager, Perioperative Clinical Engineering, Massachusetts General
+ 
+Hospital
+ 
+Bruno Piccin, Biomedical Engineering Tech II, The Ottawa Hospital
+ 
+Bryan Rhoades, FSS III, CHI-CE / CSH / Centura Health Corp
+ 
+Bryant Chang, Healthcare Technology Management, Biomedical Equipment Technician, ISS
+ 
+Solutions, Inc.
+ 
+Candace England, Director of Quality & Compliance, Modern Biomedical & Imaging
+ 
+[PAGE 17]
+Carlos Villafane , Clinical Engineering/ BMET 3, Baycare Health
+ 
+ 
+Carol Garibaldi, CBET, Sr. Lead Biomedical Equipment Technician , Washington Hospital
+ 
+Healthcare System
+ 
+Cass Holland, Clinical Engineering Lead Tech., Biomed Tech.at littleton Adventist Hosp.
+ 
+Catherine Weitenbeck, Clinical Technologies, Clinical Engineer, UCSF Medical Center
+ 
+Charles Connor, Clinical Engineering, Manager, Karmanos Cancer Institute
+ 
+Charles E Cowles Jr, Physician - Anesthesiology, University of Texas
+ 
+Charles Mifsud, Biomed II, Beaumont hospital
+ 
+Chokri Baalouche, Biomed, CBET3, St John Hospital and Medical Center
+ 
+Chris Ellis, Industrial Hygienist, HSS
+ 
+Chris Gutmann, Executive Director, Clinical Engineering, Yale New Haven Health
+ 
+ 
+Chris Stanosheck, Biomed Tech ll CBET, Saint Elizabeth's Hospital
+ 
+Christine Pirillo, Analyst II Project Mgr, Diagnostics
+ 
+Christopher DiNapoli, Clinical Engineering BMET Senior, CommonSpirit
+ 
+Christopher Endres, VP, Atlantic Biomedical Company, Inc.
+ 
+Christopher G. Leger, Principal Consultant, CLeger Consulting
+ 
+ 
+Christopher Greer, Field Service/ Territory Manager, Prescott's Inc
+ 
+Christopher Ney , Biomedical Engineering- BMET, AAMI
+ 
+Christopher Thomas, Technician, Tyler Bio-Engineering
+ 
+Clinton Anderson, Clinical Technology/Lead Technician, Kaiser Hospital
+ 
+Conroy D. Victorine, Biomedical Engineering / Chief, Department of Defense
+ 
+Corey Andrews, Special Equipment Tech, ISS Solutions
+ 
+Corey Bialkowski, Clinical Engineering Project Manager, University of Michigan Michigan
+ 
+Medicine
+ 
+Corey Robinson, Clinical Eng/ BMET II, Ascension Providence Hospital
+ 
+Courtney Nanney, National Quality Manager, Clinical Engineering, CommonSpirit Health
+ 
+Craig Bakuzonis, Clinical Engineering, Director of Clinical Engineering, UF Health Shands
+ 
+Hospital
+ 
+Craig V. Virzi, Clinical Engineering Dept., Regulatory Compliance Specialist, Henry Ford Health
+ 
+System
+ 
+Curtis R Shaw, Biomed III, ISS Solutions Biomed
+ 
+Curtis Stump, Biomedical Network Engineer, Common Spirit Health
+ 
+Dale Crakes, Clinical Engineering Manager, Dignity Health
+ 
+Dale Mattison, Clinical Engineering, FSS, CHI & CABMET
+ 
+Damion Aiello, Biomed/ PACS Admin, Ultimate Biomedical Solutions
+ 
+Dan Blaisdell, Biomedical Engineering, Supervisor, ProHealth Care
+ 
+Dan Cutshall, Biomed - Field Service Specialist 2, In House CE
+ 
+Dan Dinh, Clinical Engineering /Biomedical Equipment Technician, Try Touch Service
+ 
+Dan Harper, Clinical Engineering, CBET, St. Mary's Hospital and Regional Medical Center
+ 
+Dan Hoffart, Engineering Technician, DHA
+ 
+Daniel Adams, Director of Imaging Service, Renovo Solutions
+ 
+Daniel Elias, Clinical Engineering Dept., CBET, McLaren Flint
+ 
+Daniel Hauer, Clinical Engineering - Senior Biomed, Catholic Health Initiatives
+ 
+[PAGE 18]
+Daniel M Hooper, Asset Manager - Technical Analyst, ISS Solutions
+ 
+Daniel Munson, Clinical Engineering, Imaging Specialist, Trinity Health
+ 
+Daniel Penticoff, Clinical Engineering; Imaging Tech I, CommonSpirit Health
+ 
+Daniel Ritter, CE/ Director Clinical Engineering, System, SCL Health System
+ 
+Daren Kneeland, President, MultiMedical Systems, LLC (MMS)
+ 
+Darren Maas, Clinical Engineering/Biomed Lead Technician, CHI Clinical Engineering
+ 
+Darren Vianueva , SVP, Trinity Health
+ 
+Dave Johnston, Clinical Engineering Mgr, Clinical Engineering Mgr
+ 
+David Banister, Field Service Engineer, HSS, Inc,
+ 
+ 
+David Campbell, Clinical Engineering, Biomed Specialist, ISSSolutions
+ 
+David L. Smith, Field Service Engineer, National Jewish Health via HSS, Inc.
+ 
+David McBratney, Healthcare Technology Management BMET III, ISS Solutions
+ 
+David Orozco, BioMedical Technician, Try Touch Service, Inc.
+ 
+David Selig, Anesthesiology, Brigham and Women's Hospital
+ 
+David Simpson, Clinical Engineering Medical Device Security, Catholic Health Initiatives
+ 
+David Singer, Biomedical Equipment Technician, ISS Solutions
+ 
+David Stiles, Director, Biomedical Engineering, Long Beach Medical Center
+ 
+David Thorman, Clinical Engineering/IS Specialist, Common Spirit Health
+ 
+Dean Skillicorn, Certified Biomedical Equipment Technician , Allina Health
+ 
+Dennis Brant, Southern Region, Field Service Engineer, HSS Inc
+ 
+Diana Upton, President, IAMERS
+ 
+Domenique Livingston , NA, Veteran Biomedical Equipment Technician
+ 
+ 
+Don McCarty, Clinical Engineering Director,
+ 
+ 
+Don Whitebread, GMC-CE / BMET, ISS Solutions
+ 
+Donald McMillion II, Senior BMET, CommonSpirit
+ 
+Donald Savard, Biomedical engineering, technologist, Biomedical engineering technologist
+ 
+Dorothy Hodges, CTBE Clinical Systems Analyst, LPCH
+ 
+Dorothy M Cubrich, Biomed , Sodexo-Biomed Department
+ 
+Doug Carroll   CISSP , Information Service CISO, Mount Nittany Health
+ 
+ 
+Doug Lafko, Lead BMET, Common Spirit Health
+ 
+Dr.Robert Loeb, Professor, Anesthesiology, University of Florida
+ 
+Dustin Telford, Clinical Engineering Manager, Children’s Hospital & Medical Center Omaha
+ 
+Dylan DiJulio, CEO, Prescott’s, Inc.
+ 
+ 
+Edward Gomez , Biomedical technician , Western Arizona Regional Medical Center
+ 
+ 
+Edward Raeke, Director, Materials Management, Massachusetts General Hospital
+ 
+Edward Ravenkamp, President, ISO
+ 
+Eliud Tejada, Biomedical Technician , Try Touch Service Inc.
+ 
+ 
+Elizabeth Rickerson, Anesthesia, MD, BWH
+ 
+Elkin Lara-Mejia, Biomedical Engineering, Manager, Zuckerberg San Francisco General
+ 
+Hospital
+ 
+Emmanuel Sherman, Director of Clinical Engineering, Crothall Healthcare
+ 
+Engr. Naveed Ahmed Khan, Sr. Biomedical Engineer, Saudi German Hospital, Riyadh
+ 
+Eric Levac, Biomed Biomed Technologist, TOH
+ 
+[PAGE 19]
+Eric Perez, Biomed and Field service Multi Vendor Biomed Tech, Philips
+ 
+Eric W Armocida, Clinical Engineering / Sr. Service Specialist, Hospital Staff; Medical
+ 
+Equipment Repair
+ 
+Ernie Rau, Supervisor of Biomedical Services, NovaMed Corp.
+ 
+Eron Gailey, Clinical Eng. Imaging Tech 3, SCL Health
+ 
+F. Mike Busdicker, System Director, Clinical Engineering, Intermountain Healthcare
+ 
+Felicity Billings, Anesthesiology, M.D., Brigham and Women’s Hospital
+ 
+ 
+Frank Oltman, Clinical Engineering, BMET III, AAMI, MSCE
+ 
+Frank West , Owner, Equipment Trac ( Biomedical Services )
+ 
+ 
+Freddy Matamoros , Maintenance Engineering , ACCE
+ 
+Fredrick Fugate, Clinical Engineering BMET Intermediate , ISS Solutions
+ 
+ 
+Gary Barkov, Vice President, Healthcare Technology Management  , Advocate Aurora Health
+ 
+Gary Nop, Biomedical Clinical Engineer, Try Touch Service, Inc.
+ 
+Georgy Philip, BMET 2, Ascension macomb Oakland hospital
+ 
+ 
+Gerald Lay, Biomed, Detroit Medical Center
+ 
+Gerald McNeil, Clinical Engineering/CE Operations Manager, EMMC
+ 
+Gerald R McDaniel, Biomedical Equipment Technician , Trinity Health
+ 
+ 
+Giovanni Viscusi, Medical Equipment Technician, Tualatin Valley Fire & Rescue
+ 
+Glenn Havens, Jr. CBET, Healthcare Technology Management Site Coordinator, ISS Solutions
+ 
+Gordon Holder, Clinical Engineering Division Director, CommonSpirit Health
+ 
+Greg Boots, Clinical Engineering - Field Svc. Spec III, CHI Memorial Hospital, Chattanooga, TN
+ 
+Greg Chappel, Biomedical Equipment Technician, Repair technician
+ 
+Greg Czajka, Clinical Engineering, Manager, Advocate Aurora Health
+ 
+Greg Williams, Biomed  Imaging Engineer, FirstHealth of the Carolinas  NCBA member
+ 
+Gregory Phillips , Manager, HTM, US Military
+ 
+ 
+Gregory Zoucha, CBET, Clinical engineering, Imaging service, Common Spirit Health,
+ 
+Immanuel Hospital Omaha
+ 
+Hajarat Rasheed , Engineering , St Clair College
+ 
+ 
+Hank Ly, Clinical Technology (Biomed Manager), LASH (Los Angeles Surge Hospital)
+ 
+Harvey Fortune, Biomedical Eng., Biomed Technician , Washington Hospital
+ 
+ 
+Helen Cheong, Supervisor, First Health of Carolinas
+ 
+Hezam Alsubari, Biomed Tech, St. John Hospital, Detroit, MI
+ 
+Horace B Hunter, Executive Director, Georgia Biomedical Instrumentation Society (GBIS)
+ 
+Ian Garcia, Clinical Engineer - Department of Biomedical Engineering, Brigham and Women's
+ 
+Hospital
+ 
+Ilir Kullolli, President, American College of Clinical Engineering (ACCE)
+ 
+J Scot Mackeil CBET, Senior Anesthesia Biomed, Mass General Hospital Anesthesia Clinical
+ 
+Engineering Dept
+ 
+Jack McAuliffe, Service Manager, Sonodepot, Inc.
+ 
+Jacob Hunter, CE- Field Service Specialist II, CHI
+ 
+Jacob Urben, Field Service Engineer, HSS
+ 
+Jacqueline Boehme, Dept of Anesthesiology - Senior Resident Anesthesiologist, Brigham and
+ 
+Women’s Hospital
+ 
+[PAGE 20]
+Jaime Krueger-Gomez, Asset Manager, Nebraska Medicine
+ 
+Jake Smith CBET, Clinical Engineering, Senior BMET, CommonSpirit Health
+ 
+James Ciaramitaro, Sr Service Specialist, McLaren Healthcare Corp.
+ 
+James Fowler, HSS-Biomedical Technician III, Aspen Valley Hospital
+ 
+James H. Philip, Anesthesiology, Anesthesiologist and Clinical and Biomedical Engineer,
+ 
+Brigham & Women's Hospital, Harvard Medical School
+ 
+James Helton, Clinical Engineering, Sr BMET, Catholic Health Initiatives
+ 
+James J Toma, Clinical Engineering, ISS Solutions
+ 
+James Leonard, Lead Technician of CHI’s Physical Asset Services-Clinical Engineering,
+ 
+Common Spirit Health  St. Anthony Hospital Pendleton, OR
+ 
+James Linton MiM, PmP, Cmbb, AAMIF, Biomedical engineering coordinator/ professor, St.
+ 
+Clair College
+ 
+James R Knight, Clinical Engineering Sr. Clinical Systems Engineer, Renown Healthcare Reno
+ 
+NV
+ 
+James Vaughan ,CBET, Biomed.  CBET II, CBET
+ 
+James Whitaker, Clinical Engineering, Senior BMET, Catholic Health Initiatives
+ 
+James Z. Rider, Senior Biomedical Equipment Technician, ISS Solutions
+ 
+Jared Wilson, Co-owner and CTO, Insight HTM
+ 
+Jason Chaffin, Clinical Engineering   BMET Senior , Common Spirit
+ 
+Jason Dobbs, Biomed / SR BMET., CHI
+ 
+Jason Hoffer, Clinical Engineering / Lead Tech, Common Spirit Health
+ 
+Jason Lucas, Biomedical Services/BMET II, FirstHealth of the Carolinas
+ 
+Jason Warner, BMET III, HSS-US , San Luis Valley Regional Medical Center
+ 
+Jay W. Hall, MS,PE, Owner/Principal , Biomedical Consulting Services
+ 
+ 
+Jean roberts, Technical services partnership - BMET III, University of vermont
+ 
+Jean Sydney Humes, Director of Business Development and Board Member, ZRG Medical and
+ 
+California Medical Instrumentation Association
+ 
+Jeff Alvarado, Medical Equipment Management: FS-1, Health Shared Services (HSS)
+ 
+Jeff Gibson, Clinical Engineering / Biomedical Tech, Common Spirit/CHI Clinical Engineering
+ 
+Fargo ND
+ 
+ 
+Jeff Hooper, PhD, Director, Biomedical Engineering and Medical Instrumentation, Children's
+ 
+National Health System
+ 
+Jeff Kelly, Biomedical Services Manager, Moberly Regional Medical Center
+ 
+Jeff Ross, Owner, ACT Biomed
+ 
+Jeffery P. Semple, Clinical Engineering  CE Program Manager, McLaren Healthcare
+ 
+Jeffrey C Lagrutta, Chief Compliance Officer, MultiMedical Systems, LLC.
+ 
+Jeffrey Feldman, MD, Anesthesiology, Prof of Clinical Anesthesia, Children's Hospital of
+ 
+Philadelphia
+ 
+Jeffrey L. Berry, Clinical Engineering / Senior Biomed, Common Spirit Health
+ 
+Jeffrey Ruiz, Biomedical Engineering/Site Manager, Trimedx/Holland Hospital
+ 
+Jeffrey Shier, BMET, Argo Biomedical Services
+ 
+Jeffrey Smith, Clinical Engineering Senior Service Specialist , McLaren
+ 
+Jeffrey Wicks, Business Manager of Surgical Services, ProHealth Care
+ 
+[PAGE 21]
+Jenn Nichols, Chair, California Medical Instrumentation Association (CMIA)
+ 
+Jennifer Ackles, Vice President of Operations, HHs
+ 
+Jennifer Gentry, Clinical Engineering, BMET II, Common Spirit Health
+ 
+Jennifer Long, BMET 1, Trimedx
+ 
+Jennifer Romer, Planning Design and Construction, RN, Senior Program Manager, Medical
+ 
+Equipment, Stanford Health Care
+ 
+Jeremy Spencer, Biomed, FirstHealth of the Carolinas
+ 
+Jerome J. Henehan, BMET  II (Intermediate), ISS Solutions Inc.
+ 
+Jerry Pack, Biomed Imaging Technician II , CHI
+ 
+Jesse Cabrera, State Board Member, California Medical Instrumentation Association
+ 
+Jesse Smith, Clinical Engineering BMET I, Common Spirit Health
+ 
+Jewel C. Newell, Clinical Engineering - Director, JPS Health Network
+ 
+Jim Elhard, Biomed - Manager, TRIMEDX
+ 
+Jim Hollingdale, CBET, Clinical Engineering, Supervisor, MaineGeneral Medical Center
+ 
+Jim Miller, Clinical Engineering Manager , CommonSpirit Health, Good Samaritan Hospital,
+ 
+Cincinnati
+ 
+ 
+Jodi Sherman, Associate Professor of Anesthesiology, Yale University
+ 
+Joe Castanon , Supply Chain , Texas Children's Hospital
+ 
+Joe Kaminski, AVP HTM, Geisinger Health System
+ 
+Joel McIntyre, Biomed Supervisor, ISS Solutions
+ 
+Joel Wirtz, Clinical Engineering, BMET II, Trimedx
+ 
+John (Mike) Danford, Biomed Tech III, Biomed Tech
+ 
+John Chamberlain, Clinical Engineering, BMET, CommonSpirit Health
+ 
+John Crissman CBET, Biomedical Engineering Dept Manager, retired, Beaumont Health, retired
+ 
+John Cude, Manager Clinical Engineering , Yale New Haven Health
+ 
+John Dregne, Biomedical Engineering,  Biomedical Imaging Technician, ProHealth Care, Inc.
+ 
+John DuBuc, Clinical Engineering  CBET, Mclaren Flint
+ 
+John Duffy, Biomed Manager, NY Presbyterian Hospital
+ 
+ 
+John Eidson, Clinical Engineering CBET, CHI
+ 
+John Grace, BMET III, Michigan Medicine
+ 
+John Kirias, Senior Imaging Tech, Clinical Engineering
+ 
+ 
+John Petersen, Sr. Director Clinical Engineering, Trinity Health
+ 
+ 
+John Pritchard, President, Venture Medical ReQuip
+ 
+John S. Moore, Jr., BSBE, CCE, Senior Medical Equipment Planner, DeltaStrac LLC
+ 
+John Shore, Clinical Engineering, Director, Trimedx/Tanner Health System
+ 
+Johnny Hogg, ENTECH Technology Management Sr Manager, Banner Health ENTECH
+ 
+Jojo Gonzales, Clinical Technology / Lead BMET,
+ 
+ 
+Jon Bolles, Clinical Engineering Area Manager, ISS Solutions
+ 
+Jon F Mickletz, HTM Dept, Retired Sr BMET, Guthrie Cortland Medical Center/ISS Solutions
+ 
+Jon Gross, Clinical Engineering Project Manager, Henry Ford
+ 
+Jon P Cloutier, President, EMStat Biomedical, INc.
+ 
+ 
+Jonathan Egan, Clinical Engineer, Department of Biomedical Engineering, Brigham and
+ 
+Women's Hospital
+ 
+[PAGE 22]
+Jonathan Lee, Senior Consultant, HTM Consulting Network
+ 
+Jordan Stansbury, Clinical Engineering, Manager, SCL Health
+ 
+Jose Antillon, Biomedical Engineering, Technician, Biomed
+ 
+Jose Banuelos, ENS/DPT   Equip Support Tech, San Diego State University
+ 
+Jose Sabas, Clinical Technologies, Associate Director, UCSF Health
+ 
+Joseph C Deater, Clinical Engineering, BMET III, Munson Healthcare
+ 
+Joseph Chamakala, Healthcare Technology Management / Biomed Tech II, Advocate Health
+ 
+Care
+ 
+Joseph Dorchuck, Clinical Engineering - BMET III, GE Healthcare
+ 
+Joseph Ouellette, Clinical Systems Engineer, Yale New Haven Health System
+ 
+Joseph Parmentier, Clinical Engineering, Sr. Service Specialist, McLaren Healthcare
+ 
+Joseph Pirillo, HTM , Supervisor, ISS Solutions
+ 
+Joshua Gorman, Healthcare Technology Management - Section Head, Mayo Clinic
+ 
+Joshua Sepulvida, Biomedical Equipment Technician, ERD LLC
+ 
+Joshua Yang, Clinical Technology - Lead Biomed Technician, Kaiser
+ 
+Juan Escobar, Clinical Engineering Field Service Specialist, Common Spirit Health
+ 
+Julio Barrionuevo, Ingenieria Clinica Hospital Italiano de Buenos Aires-- Técnico en
+ 
+Electromedicina, Sociedad Argentina de Bioingeniería
+ 
+Justin Cozadd, Biomed    Associate System Engineer, Spectrum Health Lakeland
+ 
+Justin S. Grissom, Clinical Engineering - Senior Biomedical Technician, Biomedical Technician
+ 
+Karen Ancona, Biomedical Engineering, Washington Hospital Healthcare System
+ 
+Karen Harris, Clinical Engineering / Administrative Assistant, CHI St. Vincent Infirmary
+ 
+Karen Taborda-Marin, Perioperative Clinical Engineering. Clinical Systems Lead, MGH
+ 
+ 
+Keith Gilliam, BMET ll, Firsthealth of the Carolina NCBA member
+ 
+Keith Miller, Clinical Engineering, Lead Tech, St. Mary Mercy Hospital, Livonia Michigan
+ 
+Keith R. Whitby, Healthcare Technology Management--Section Head, Mayo Clinic
+ 
+Kelly Langley, CBET III, DOD US Air Force
+ 
+Ken Ottenberg, Medical Equipment Management, HSS
+ 
+Kenneth Lewis, Clinical Engineering, ISS Solutions
+ 
+Kent Brull, Biomedical Technician II, Trimedx
+ 
+Kent Miller, CBET, RRT, Respiratory Care Supervisor, Michigan Medicine/University of
+ 
+Michigan Hospitals
+ 
+Kerry McLaughlin, Biomedical Engineering - Senior Technologist - Alert Recall Co-ord., The
+ 
+Ottawa Hospital - Ottawa Canada
+ 
+Kevin Davis, Field service BMET and ISO owner operator, ISO
+ 
+ 
+Kevin Heck, Imaging Engineer, Trimedx
+ 
+Kevin McPeek, Biomedical Engineering Clinical Systems Technician, Brigham and Women's
+ 
+Hospital
+ 
+Kevin Melvin, Biomedical Lead Technician, Legacy Health System of Oregon
+ 
+Kevin Rivera, Clinical Engineering , The Metrohealth System
+ 
+Kim Greenwood, Director, Clinical Engineering, The Children's Hospital of Eastern Ontario
+ 
+Kimuel Villanova, Clinical Engineering Biomedical Technician, R/Bmet
+ 
+Kristina Read, CE Coordinator, CommonSpirit Health
+ 
+[PAGE 23]
+Kristofer Caluya, Biomedical Equipment Technician Supervisor, Try Touch Service, Inc.
+ 
+Kristofer Hall, Medical Equipment Management Field Service Engineer III , HSS Inc.
+ 
+Kristopher Lieber, Clinical Engineering/BMET II, Ascension St. John Hospital
+ 
+Larry Barton, biomed Tech, V.A. Healthcare
+ 
+Larry Hamilton, Service Department: Lead Biomedical Technician, Venture Medical
+ 
+Lauren Ebejer, Business Development, ARGO Biomedical Services
+ 
+Lawrence R. Ossege, Clinical Engineering, Manager
+ 
+Lawrence Rochowicz, Biomedical Engineering, Tower Health System
+ 
+Leehans Tang, BMET Manager, BMET
+ 
+ 
+Lenny Jordan, Product Management, Director of Corporate Product Management, STERIS IMS
+ 
+Leticia Reynolds, President, CABMET
+ 
+ 
+Levi Graw, Biomedical technician , Biomedical Services
+ 
+ 
+Lisa Crossley, M.D., Anesthesiology, Perioperative and Pain Medicine, Brigham and Women's
+ 
+Hospital
+ 
+Liz Calhoun, Clinical Engineering Account Manager II, Common Spirit Health
+ 
+Lori Allocca, HTM / Site Coordinator, ISS Solutions
+ 
+Luis Reyes, biomed , biomed
+ 
+Luis Velazquez, Biomed , Bmet II, GE healthcare
+ 
+M. Scott Fishman, MA, CRES, PNW HTM Associates
+ 
+Mack Crabtree , Certified Biomedical Equipment Technician , ISS Solutions
+ 
+ 
+Maggie Berkey, Clinical Engineering, Senior BMET, CommonSpirit Health
+ 
+Maluisa OJEDA, Medical Equipment Planning - Biomedical Engineer, IMEG CORP
+ 
+Mandie Hunter, Biomedical Operations Specialist, Vikand
+ 
+Manuel C Dalayoan Jr, Biomed Technician, Seton Medical Center
+ 
+Manuel E Solano, Clinical technology , Kaiser Permanente
+ 
+ 
+Marc Heroux, Biomedical Technologist, Tech 2, Ottawa Hospital
+ 
+Mark Anthony Johnson, BMET Student, St. Philip's College
+ 
+Mark F. Wakefield, Clinical Engineering, Account Manager II, CommonSpirit Health
+ 
+Mark J. Manning, Healthcare Technology Management - Division Chair, Mayo Clinic
+ 
+Mark Mrozek, Biomedical Engineering (Manager), Weirton Medical Center
+ 
+Mark Slater, Supervisor, Biomedical Electronics,
+ 
+ 
+Matt Steele, Third Party - Operations Manager, Biomed
+ 
+Matthew C. Oetker CHTM, CBET, Medical Equipment Management, Technician III, HSS Inc.
+ 
+Matthew Cunningham, NG HTM, District Operations Manager, ISS Solutions
+ 
+Matthew F. Baretich, P.E., Ph.D., President, Baretich Engineering, Inc.
+ 
+Matthew Keyes, CBET, BMET III, Trimedx
+ 
+Mauricio Lopez, Clinical technology Biomedical equip tech, Kaiser Permanente
+ 
+Maximo Nicolas, Periop Clinical Engineering/Clinical Engineer, Hospital based BMET
+ 
+Melvin Pfirman Jr., Program Manager, EAM, ISS Solutions
+ 
+Mercedes Merchant, EH&S Service Manager, HSS
+ 
+Michael Ashmore, Clinical Engineering , Common Spirit Health
+ 
+Michael Brown, Account Manager, Common Spirit Health
+ 
+Michael C Nesbitt, Biomed, ISS Solutions
+ 
+[PAGE 24]
+Michael Calhoun, Clinical Engineering Director, CommonSpirit Health
+ 
+Michael Cavanaugh Sr cBET(e), Senior Biomed Tech, Retired former technician with Trinity
+ 
+Health
+ 
+ 
+Michael Flood, Clinical Engineering Account Manager, CHI Health Good Samaritan
+ 
+Michael Harakas, BMET, Beaumont Health
+ 
+Michael Howell, Biomedical Engineer Senior, ProHealth Care Inc.
+ 
+Michael Keddie, Clinical Engineering, Lead Technician, CHI St Vincent Little Rock, AR
+ 
+Michael Kelley, Medical Equipment Management - Vice President , HSS
+ 
+Michael L. Tassler, Biomed / CBET-E, COVID-19 self-isolator
+ 
+Michael Lane, Director, University of Vermont
+ 
+Michael Mace , Biomed Radiology Service Tech, Nebraska Methodist Health System
+ 
+Michael Maggio, Biomedical, Senior Biomed Tech , Methodist Hospital
+ 
+Michael McCauley, BMET, Third Party Contract
+ 
+Michael Nott, Biomed, ISS Solutions
+ 
+Michael P McRoberts, SVP Business Development , MultiMedical Systems
+ 
+ 
+Michael Pruitt, MERC, Biomedical Technician , USAF
+ 
+Michael Schilling, Clinical Engineering, Biomedical Electronic Technician, DMC Children's
+ 
+Hospital of Michigan
+ 
+Michael Sturgis, Clinical engineering Coordinator, Munson Healthcare
+ 
+Michael Szabo, Clinical Engineering, BMET II, CommonSpirit Health
+ 
+Miguel Ardila, General Manager, Venture Medical
+ 
+Mike Brockhaus, Field Service, CBET, Bio-Electronics
+ 
+Mike Cobb, Clinical Engineering Lead Tech, Common Spirit
+ 
+Mike Johnson, Lead Technician Clinical Engineering, CHI St Gabriel's Hospital
+ 
+Mike Powell, Clinical Engineering Director, Community Medical Center
+ 
+Mimi Lively, CEO, ZRG Medical
+ 
+Mitchell Spillane, Biomedical Technician II Clinical Engineering, Hospital Employee McLaren
+ 
+Northern Michigan
+ 
+Muhammad.Aleem uddin , Clinical Engineer , Repairs and maintenance
+ 
+ 
+Nader Hammoud , Manager of Biomedical Engineering , ACCE and CMIA
+ 
+Najeeb Haddad, Vice President, EndocorpUSA
+ 
+nathan bell, BMET, Manager, HSS
+ 
+Nathan Howard, Biomedical Equipment Tech, USAF
+ 
+Nathan Swartzendruber, International Service & Sales Director, Prescott's, Inc
+ 
+Nathanael Thayer, Biomedical Equipment Technician II, McLaren Central Michigan
+ 
+Neil Feldmeier, Clinical Engineering - Director , Member
+ 
+Neil Stock, CBET, System Director, Clinical Engineering, CommonSpirit Health
+ 
+Nicholas Hillis, Biomed Dept. / Technician, Washington Hospital
+ 
+Nicholas Petrossi, BioMed Tech LVL I, Common Spirit Health
+ 
+Nicolas Melendez, Biomed Tech, CHOA
+ 
+Nicole Marsh, Biomed, NA
+ 
+Nilesh Modi, Biomedical engineer, Biomedical engineer
+ 
+Norm Rhode CBET, CRES, Senior Service Specialist, Clinical Engineering, Mclaren Health Care
+ 
+[PAGE 25]
+Norman Ramirez, Service Department Manager, Venture Medical Requip, Inc.
+ 
+Oem Dave, Biomedical Engineering Technologist, Children's Hospital of Eastern Ontario
+ 
+Oliver Howe, Technology Specialist, C Change Surgical
+ 
+Oliver Howe, Veteran of the USAF and Biomedical DoD Training Graduate, Former Biomedical
+ 
+Equipment Technician
+ 
+Paul A Neher, Biomed Teal Lead, Lutheran Health Network
+ 
+Paul C. Monahan, Jr., Healthcare Technology Management/Director of Quality, ISS Solutions,
+ 
+Inc.
+ 
+Paul Gudenau, Manager, Clinical Eng., McLaren Healthcare
+ 
+Paul Kelley, Director of Biomedical Engineering and the Green Initiative , Washington Hospital
+ 
+ 
+Paul Mashack, Imaging Technology Manager, ISS Solutions
+ 
+Paul R Collett Jr, CBET, Biomedical Engineering/Biomed Risk Compliance Officer, Nebraska
+ 
+Methodist Health System
+ 
+Paul R Sherman CCE, FACCE, President, Sherman Engineering
+ 
+Payal Mandot, Biomedical Engineering department- Clinical Engineer, The Ottawa Hospital
+ 
+Perry B Kirwan, Vice President, ENTECH Biomedical
+ 
+Peter M Keenan, Senior BMET, Geisinger Healthcare / Nathan Littauer Hospital
+ 
+Phu Ly, ERD, Technician supervisor, Biomed Field service technician
+ 
+Priyanka Upendra , Technology Management - Quality & Compliance Program Director , Banner
+ 
+Health
+ 
+Rafael Ramirez , Clinical Engineering Manager, Franciscan Health
+ 
+Rakesh K. Sood, Clinical Technology CBET, Kaiser Foundation Hospitals
+ 
+Ramakrishna Parchuri, Periop Clinical Engineer/Clinical Engineer-Systems Lead,
+ 
+Massachusetts General Hospital
+ 
+Randall Cowens, VP Clinical Engineering, University Health System, Regional Director of
+ 
+Clinical Engineering, Sodexo
+ 
+Randy Starr, Clinical Eng.   Sr.Bio-Med. Tech., Geisinger / ISS Solutions
+ 
+Rao Bankuru, MS, CHTM, Senior Clinical Engineer, Renovo Solutions LLC
+ 
+Ray Brewster, Clinical Engineering Technician, McLaren Northern Michigan
+ 
+Ray Marden CBET, CHTM, CEO and CO-Founder, Insight HTM, LLC
+ 
+Raymond M Kates, Clinical Engineering - Service Specialist Senior, McLaren Northern Michigan
+ 
+Hospital
+ 
+Raymundo Enrique Acatl Cadena Espinosa, Biomedical engineer at Clinical engineering
+ 
+department, Hospital Santo Tomás
+ 
+ 
+Renee Myers, VP, Venture Medical ReQuip, Inc.
+ 
+ 
+Reynolds Acker, Service Engi. Er Front Range Imaging Team, Sisters of Charity Leavenworth
+ 
+Health
+ 
+Rhiannon Thurmond , Biomed Supervisor , Ultimate Biomedical Solutions
+ 
+ 
+Ricardo Ortiz, Biomed/Manager, United Regional
+ 
+Rich Belan, Area Manager, ISS Solutions
+ 
+Rich Reamer, Regional Manager of Clinical Engineering, McLaren Healthcare
+ 
+Richard Chamberlain, Regional Field Service Specialist, Catholic Health Initiatives
+ 
+Richard Collins , Biomedical technician , DHBIOMEDICAL
+ 
+ 
+[PAGE 26]
+Richard Foster, Biomed Tech III, SCLHS
+ 
+Richard Gustman, Coil repair manager, Avante Health Solutions
+ 
+ 
+Richard Marshall, Medical Equipment Management Regional Operations Manager, HSS
+ 
+ 
+Richard P Walston, Product Specialist, Biomedical Test Equipment Manufacturing
+ 
+Richard Palmer, Clinical Engineering, Systems Manager, Munson Healthcare
+ 
+Richard Salagovich, Clinical Engineering   Radiology Service Engineer, Munson Medical Center
+ 
+Richard Tevis, System Director, Trimedx
+ 
+Rick Bauman, Clinical Engineering, CBET, McLaren Macomb
+ 
+Rick Boudreau, Clinical Engineering Director, MaineGeneral Health
+ 
+Rick Schrenker, Systems Engineering Manager. Biomedical Engineering, Massachusetts General
+ 
+Hospital
+ 
+Robert Bagwill, Clinical Engineering Manager, AdventHealth
+ 
+Robert Bundick, Director HTM and Biomedical Engineering, Hospital
+ 
+Robert Jarden, Biomed, CHI
+ 
+Robert Milward, Biomedical Services, Hospital Service
+ 
+Robert Myers, Director, Biomedical Engineering, Biomedical Engineering Administration
+ 
+Robert Nix, Biomed/Senior Biomedical Imaging Technician, ProHealthCare Inc
+ 
+Robert Pfister, Supervisor of Biomedical Services, Crothall HTS
+ 
+Robert Rankin, CEO, Rankin Biomedical Corporation
+ 
+Robert Stephens, Senior Biomedical Technician, Alegent
+ 
+Robert Toeller, HTM - Biomedical Equipment Technician IV, Saint Luke’s Hospital
+ 
+Robert Wentworth, Sr. Director, Biomedical Operations, ISO
+ 
+Roberto Torres, Manager, Clinical Engineering, Cedars Sinai Medical Center
+ 
+ 
+Rod Zalesky, Clinical Engineering Sr. BMET, Common Spirit Health
+ 
+Rodney Nolen, Senior Director of Clinical Engineering , Penn State Health
+ 
+Rodrigo Rivas, Area Manager, imaging service & support, Kaiser Permanente
+ 
+Roger Wobig, Clinical Engineering, University of Michigan Hospital
+ 
+RON DERU, Biomed technician and owner, Northwest Supply
+ 
+Ron Midlick Jr, BioMed Site Lead, BMET
+ 
+Ronald C. Baumann, MAJ, USA (RET), Medical Equipment Planning / Senior Medical
+ 
+Equipment Planner, IMEG Corporation
+ 
+Ross A. Ward, Clinical Engineering SR Tech., Common Spirit Health
+ 
+Rothtana Thoek, Biomed, Try Touch Service
+ 
+ 
+Russell Furst, Sr. Director Healthcare Tech Management, ISS Solutions
+ 
+ 
+Ryan Bird, Biomedical Electronics Technician, Children's Hospital of Michigan
+ 
+Ryan Flynn, Senior Imaging Technician, ISS Solutions
+ 
+Ryan Leteff, Biomedical Technician, ERD LLC
+ 
+Ryan Motl, Healthcare Technology Management - Section Head, Mayo Clinic
+ 
+Ryan Newgard, Biomed, Radiology Equipment Technician, MaineGeneral Medical Center
+ 
+Salim Kai, Senior Director, Information Services-Biomedical Engineering, Children's Hospital of
+ 
+Philadelphia
+ 
+Sam Nathan, Vice President, Dignatel.com
+ 
+Samantha Jacques, PhD, FACHE, Vice President, Clinical Engineering, McLaren Health
+ 
+[PAGE 27]
+Santosh Dhakal, Director, Himshikhar Biomedicals Pvt. Ltd.
+ 
+Scott Dille, Biomed, Biomed Tech III, CBET
+ 
+Scott Irwin, HTM Area Manager, ISS Solutions
+ 
+Scott Mazure, Biomed,  imaging engineer , Trimedx
+ 
+ 
+Scott Ostrand, Clinical Engineering, Manager, Common Spirit Health
+ 
+Scott Read, Clinical engineering finance, Accountant II, CommonSpirit Health
+ 
+Scott V Newman, Biomedical Services, Director, AAMI
+ 
+Sean Bowden, Clinical Engineering - Field Service Specialist III, Common Spirit Health
+ 
+Sergey Kontsimal, BMET II, Catholic Health Initiatives
+ 
+ 
+Shafin Ali CBET, Chief Biomedical Engineer,
+ 
+ 
+Shana Ryker, Clinical Engineering ASG, CHI Saint Joseph Health
+ 
+Shelby Johns, HTM, Clinical Engineer, Geisinger
+ 
+Sheri Ward, Clinical Engineering, Biomedical Equipment Technician II, CHI Baylor St. Luke's
+ 
+ 
+Sherrie Williams, Purchasing, Advanced Clinical Technology
+ 
+Spencer Graw, Equipment Specialist , ACT Paragon
+ 
+Stan Gordon, Clinical Engineering,  BMET, St Joseph Hospital,  Ann Arbor
+ 
+Stephanie Polk, Business Development Associate for Medical Equipment Management, HSS,
+ 
+Inc.
+ 
+Steve Anthony, Sales Manager , ACT-Paragon
+ 
+Steve Erdosy, CBET, Quality and Regulatory Compliance, Analyst, TRIMEDX
+ 
+Steve Hoffmaster, Special Equipment Technician, ISSSolutions
+ 
+Steve Martin, Biomedical engineer II , Cer Technology
+ 
+Steven Hegel, Biomed BMET II, CHI
+ 
+Sue Jones, Biomed, Supervisor, Nebraska Methodist Hospital
+ 
+Susan R Ramonat, CEO, Spiritus Partners (Exton, PA)
+ 
+Svetlana Montarroyos, Clinical Engineer, Hospital
+ 
+Syed Zain Hasan, Biomedical, Clinical Engineer, Try Touch Services
+ 
+Sylvia Knittel, Clinical Engineering, BMET I, Catholic Health Initiatives
+ 
+Takeo Kushida, Wisconsin territory representative , Prescott surgical microscope
+ 
+Ted Schreur, Clinical Engineering--Field Service Specialist, Common Spirit Health
+ 
+Terry Stephan, SrBMET, CHI St. Vincent
+ 
+Thomas Bauld Ph.D., CCE, President, Biomedical Safety Systems
+ 
+Thomas Brown, Biomed, ACT - Paragon
+ 
+Thomas DeNoville, Sr. Director, HTM NG-CE , Healthcare Technology Management
+ 
+Thomas H Pelletier, Clinical Engineering / Biomedical Technician III, McLaren Macomb
+ 
+Thomas Hulscher, Sr. Director Clinical Engineering, Trinity Health
+ 
+Thomas J. McKillip, Biomedical Network Engineer, Cyber Security, CommonSpirit
+ 
+Thomas Pokorny, BMET II, CHI Health Mercy Council Bluffs
+ 
+Thomas Prich, Clinical Engineering / Senior CBET, Common Spirit Health
+ 
+Thomas Roberts, Senior Biomedical Imaging Technician, ProHealth Care, Waukesha, Wi.
+ 
+Tim Gifford, Equipment Specialist, ACT. Advanced Clinical Technology
+ 
+Tim Keefe, Biomed supervisor , ISS Solutions
+ 
+ 
+Tim LeCuyer, Consultant, various Medical Equipment operations, Consultant
+ 
+[PAGE 28]
+Timothy Hutchison, Clinical Engineering Manager, CommonSpirit Health
+ 
+Timothy K Clements, President and CEO, Tidewater medical Sales & Service Inc
+ 
+Timothy Reitz, Director of Clinical Engineering , Unm Hospital
+ 
+ 
+Tobey Clark, Technical Services Partnership, University of Vermont
+ 
+Todd G. Schmechel, Director of Inside Sales, FOBI Medical
+ 
+Todd W. Lowe, Technology Management Senior Director, Banner Health
+ 
+Tom Fullford, Clinical Engineering/BIOMED,  Prefer not to say
+ 
+Tom Nirschl, Quality Manager, HSS Inc, independent service organization
+ 
+Tommy Lobato, Clinical Engineering, Manager, Good Samaritan Medical Center
+ 
+Tony Cody, Technology Management Director, Banner Health
+ 
+Tony Lively, President, ZRG Medical
+ 
+Tracei Stover, Biomedical Electronic Technician I, Ascension
+ 
+Tracy Horton, Production Supervision , HSS
+ 
+Travis Jeffries, Clinical Engineering System Manager, CommonSpirit Health
+ 
+Travis Reilly, Clinical Engineering Imaging Tech 2, SCL Health St. Joseph Hospital
+ 
+Trisa Workma, Supervisor Clinical Engineering , OhioHealth
+ 
+ 
+Trish Payne, OEM & FDA Liaison , Independent Service Provider of Medical Devices
+ 
+Troy Schmidt, Clinical Engineering - Field Service Specialist II, Common Spirit Health
+ 
+Tyler Harris, Biomedical Technician in Clinical Engineering, McLaren Northern Michigan
+ 
+Hospital
+ 
+Victor L Faignant Jr., Healthcare Technology Management/Regional Direct Mid-Atlantic West,
+ 
+ISS Solutions
+ 
+Victoria Reyes, School of Anesthesia - Asst. Program Director, APSF and STA
+ 
+Wayne E. Howell, Jr., Clinical Engineering, Director Medical Equipment Technology &
+ 
+Cybersecurity, Trinity Health
+ 
+ 
+Wendy Wolfe, HTM - Administrative Supervisor, ISS Solutions
+ 
+Wesley Reid CHTM, CBET, Healthcare Technology Manager, Healthcare Technology
+ 
+Management Consultant
+ 
+William Foster , Equipment Specialist , LMI
+ 
+William Gleason, Clinical Engineering - Clinical Engineering Tech 2, Hospital Clinical
+ 
+Engineering
+ 
+William H. McCarty, Senior Equipment Service Coordinator, Spectrum Health
+ 
+William Hine, Safety, Institutional Safety Manager, PA DHS
+ 
+William Kyle Marks, Clinical Engineering, Account Manager, CommonSpirit Health
+ 
+William L. Johnson, Clinical Engineering - Field Service Specialist II, Common Spirit Health -
+ 
+CHI St. Luke's Health Memorial - Lufkin, TX
+ 
+William Lobsinger, Clinical Engineering, Radiology Engineering Specialist II, Munson Medical
+ 
+Center
+ 
+William McSharry, Clinical Engineering FSS II, Common Spirit Health
+ 
+William Michael Oldstein, Clinical Engineering , laboratory specialist
+ 
+Yofrey Contreras , Biomedical engineering II , Biomedical engineering
+ 
+ 
+Zach Scott, Biomed Supervisor, HSS Inc
+ 
+Zachary Burns, Lead Biomed, Indiana Regional Medical Center
+ 
+[PAGE 29]
+Zella M. Daniel, Clinical Engineering Supervisor, McLaren Health Care Facilities
+ 
+ 
+[PAGE 30]
+EXHIBIT 5 
+[PAGE 31]
+Attorney Docket No. 15259128-000007 
+US_Active\115746170\V-2 
+US_Active\115993155\V-2 
+In Support of Petition of: 
+Transtate Equipment Company, Inc. d/b/a Avante Diagnostic Imaging 
+1040 Derita Rd. 
+Suite A 
+Concord, NC 28027 
+Robert A. Wheeler, President 
+Telephone: 800-710-9996 
+Of counsel: 
+Dentons US LLP 
+233 South Wacker Drive, Suite 5900 
+Chicago, IL 60606 
+David R. Metzger 
+Email: david.metzger@dentons.com
+Telephone: 312-867-2578 
+Taaj Reaves 
+Email: taaj.reaves@dentons.com
+Telephone: 312-867-8176 
+Attorneys for Transtate Equipment Company, Inc. d/b/a Avante Diagnostic Imaging 
+DECLARATION OF KEVIN MELVIN 
+I, Kevin Melvin, am over 18 years old and, based on my personal knowledge, hereby 
+declare as follows: 
+(1) I am the Clinical Engineering Lead at a large hospital system.  I have been 
+with my current employer since May 2006.  I have been a Clinical Engineering Lead for the 
+past two (2) years.  My previous job title was Biomedical Electronics Technician (BMET).  I 
+have experience working as a BMET for an independent service organization (ISO).  In my 
+opinion there are no significant differences in job duties between in house BMETs and ISO 
+BMETs and both encounter the same impediments to servicing of medical equipment. 
+(2) I am an expert in servicing medical equipment such as anesthesia machines, 
+respiratory therapy machines, endoscopy machines, cardiac rehabilitation  monitoring 
+machines, and medical laboratory equipment.  I previously taught how to service respiratory 
+therapy machines, i.e., ventilators, and was an invited speaker at a national conference on 
+respiratory therapy machines.  
+(3) In my 22 years of experience, I personally witnessed the evolution of medical 
+equipment and the increase of use of technical protective measures (TPMs) to prevent 
+access to medical equipment software required for servicing of the medical equipment.  
+Today, access to most of the software is prevented by a TPM, especially in connection with 
+machines made by large OEMs. 
+[PAGE 32]
+DMCA Petition 
+Attorney Docket No. 15259128-000007 
+Page 2 of 3 
+US_Active\115746170\V-2 
+US_Active\115993155\V-2 
+(4) In addition to servicing machines that have experienced a malfunction or 
+anomaly, I and my department also perform preventative maintenance.  Preventative 
+maintenance can also require access to the software on a machine.  For example, 
+ventilators require annual  calibration  
+(5) Some preventative maintenance measures relate to the machine’s 
+mechanical and electrical components  which are not protected by software measures.  But, 
+it is still essential to review the service manual for this type of preventative maintenance 
+and repair.  However, larger OEMs that use TPMs do it to protect the service manual and 
+access to the error logs, which are required to properly diagnose faults and errors in the 
+operation of the medical device.  In other words, the TPMs prevent me from being able to 
+repair, diagnose, and maintain the medical devices at my hospital.  The OEMs are using 
+TPMs to place  data files, including error logs, configuration files, and other protected work 
+behind the same TPMs. 
+(6) Through these practices, hospitals are forced to rely on the OEMs for all 
+repairs and routine maintenance.  Generally, the OEMs charge about $300 for travel 
+expenses and between $1,000 to $,5000 for repair costs.  In my estimation, my employer 
+could save about $1,000 per equipment repair and significantly shorten the medical 
+equipment repair time, if we could bypass the TPMs for our preventative maintenance and 
+repair needs. 
+(7) The current COVID-19 pandemic has exasperated our servicing problems.  
+During the current COVID-19 pandemic, increases to equipment repair time have become 
+an issue.  Prior to the COVID-19 pandemic, the OEMs would take about two (2) weeks to 
+send a technician out to the hospital for machine servicing, and the OEM technicians use 
+about 24 hours to deliver parts to my employer.  However, as a result of the current 
+pandemic,  service times have  increased from an average of two (2) weeks to a month, 
+and part delivery average time has increased from 24 hours to one (1) week.  The OEMs 
+have also changed their service model.  Now, instead of being able to speak to an operator, 
+servicing and repair calls to the OEM are rerouted to an answering machine.  These service 
+and repair calls are placed in a queue to receive a return call from one of the OEM’s 
+technicians.  My understanding is that a lot of the OEM technicians are working from home, 
+and it takes even the OEMs a few days to reach their own technicians.  Additionally, the 
+OEMs seem to have a high turnover for their technicians and they do not readily replace the 
+outgoing technicians.  This lack of available technicians is detrimental to our ability to fulfill 
+all of our maintenance and servicing needs, especially during this pandemic.  In some 
+cases, OEMs may have one technician that is responsible for servicing machines for three 
+[PAGE 33]
+DMCA Petition 
+Attorney Docket No. 15259128-000007 
+Page 3 of 3 
+US_Active\115746170\V-2 
+US_Active\115993155\V-2 
+(3) to six (6) different states, and, as can be appreciated, this means that this hampers their 
+ability to travel quickly and perform service calls.  In this uncertain time, it’s unclear how 
+long the OEMs’ new COVID-19 procedures are going to continue, but this hinders the 
+hospital’s ability to provide proper medical care to its patients.   
+(8) If in house BMETs were able access the service manuals and the software to 
+service and repair medical devices, With planning and parts on the shelf we could repair the 
+medical equipment within 30 minutes to several hours, not the average wait time during the 
+pandemic which has ranged from two weeks to one month. 
+(9) There are also a few third party manufacturers that are able to send 
+replacement parts, such as batteries, faster than the OEMs.  In my opinion, a healthy third 
+party equipment and service/repair market would encourage the OEMs to provide better 
+service packages.  OEMs exploit the current regulations to offer fewer services at higher 
+prices.  Hospitals have no choice but to accept these inflated service packages out of fear 
+of retaliation and other consequences.   
+(10) My understanding is my hospital owns or leases the medical equipment, and 
+the OEM controls the software on the medical equipment.  The OEMs place a proprietary 
+chip in the computer board and an access code is required to gain access to the TPMs.    
+For example, ventilator machines usually have about 15 modes of mechanical ventilation, 
+including a neonatal mode.  All of the different modes are preinstalled in the ventilator 
+machine, and an access code is needed to unlock each mode.  If the computer board 
+needs to be replaced, the OEM has to provide new codes or pull the proprietary chip from 
+the old board and insert it into the new board.   
+(11)Many   OEMs implement TPMs, and larger OEMs tend to be far more 
+stringent in what they make accessible .  At my hospital, we include access to the service 
+manual in the purchase order, but some of the OEMs still do not provide it when they 
+deliver the medical equipment.   
+(12) The undersigned being warned that willful false statements and the like are 
+punishable by fine or imprisonment, or both, under 18 U.S.C. 1001.  The undersigned 
+declares that all statements made of his/her own knowledge are true; and all statements 
+made on information and belief are believed to be true. 
+Date:  
+Kevin Melvin
+12/8/2020
+
+[PAGE 34]
+EXHIBIT 6 
+[PAGE 35]
+
+[PAGE 36]
+
+[PAGE 37]
+
+[PAGE 38]
+
+[PAGE 39]
+EXHIBIT 7 
+[PAGE 40]
+Attorney Docket No. 15259128-000007 
+US_Active\116011030\V-2 
+US_Active\116011030\V-3 
+US_Active\116011030\V-4 
+In Support of Petition of: 
+Transtate Equipment Company, Inc. d/b/a Avante Diagnostic Imaging 
+1040 Derita Rd. 
+Suite A 
+Concord, NC 28027 
+Robert A. Wheeler, President 
+Telephone: 800-710-9996 
+Of counsel: 
+Dentons US LLP 
+233 South Wacker Drive, Suite 5900 
+Chicago, IL 60606 
+David R. Metzger 
+Email: david.metzger@dentons.com
+Telephone: 312-867-2578 
+Taaj Reaves 
+Email: taaj.reaves@dentons.com
+Telephone: 312-867-8176 
+Attorneys for Transtate Equipment Company, Inc. d/b/a Avante Diagnostic Imaging 
+DECLARATION OF ABIGAIL LANE-SAVAGE 
+I, Abigail Lane-Savage, am over 21 years old and, based on my personal 
+knowledge, hereby declare as follows: 
+Background and Information 
+(1) I am a Director of Imaging for Sodexo, Inc.’s Healthcare Technology Management 
+division.  Sodexo has contract to manage the servicing of imaging devices for a large 
+hospital network with facilities in three counties in North Carolina (sometimes “the hospital 
+network” or “my hospital network”).  I am the Operations Manager for the hospital networks’ 
+Imaging Services. 
+(2)  I have been servicing medical devices for 20 years.  I spent the first 18 years of my 
+career as an employee at various hospitals in their technical services departments where I 
+would service Biomedical devices.  At one such hospital I also managed the implementation 
+of electronical medical records software.  For the last two years I have worked for what now 
+is Sodexo, a Fortune 500 company that offers management services in many areas.   
+(3) In my current position, I am responsible for managing the daily operation of the 
+imaging services throughout the hospital network. I oversee  the purchase of medical 
+imaging devices and service contracts. I manage a team of technicians, who like me, are 
+employed by Sodexo, but who work in my department under contract with the hospital 
+network.   My experience is that most hospitals predominantly purchase the imaging 
+[PAGE 41]
+DMCA Petition 
+Attorney Docket No. 15259128-000007 
+Page 2 of 3 
+US_Active\116011030\V-2 
+US_Active\116011030\V-3 
+US_Active\116011030\V-4 
+devices of one manufacturer.  In the hospital network, we use Philips,  GE and Siemens 
+devices, with the Siemens devices predominating. 
+Servicing Activities and Experience with Technological Protective Measures (“TPMs”) 
+(4) My team manages the extended servicing, including maintenance schedules, 
+of medical imaging devices after the manufacturer’s warranty expires.  My hospital network 
+utilizes our technical service technicians in lieu of purchasing the Original Equipment 
+Managers’ (“OEMs”) extended service plans, whenever possible .  My hospital network is 
+hesitant to allow the OEM technicians access to the hospital due to legitimate safety and 
+privacy concerns.  In addition, our services cost much less than the OEM services, and we 
+can deal with service events in a more timely fashion.   
+(5) The OEMs use technological protective measures (TPMs) and  place data 
+files, including error logs, configuration files, and event logs behind these TPMs.  These 
+TPMs hinder my team’s ability to properly and quickly diagnose faults and errors in the 
+operation of a device.  We need the error logs to decipher the causes of errors. 
+(6) My hospital network purchased their medical imaging devices with the 
+understanding that hospital employees would be given access keys for regular 
+maintenance.  However, the OEMs fail to provide my team with the hospital network’s 
+access keys because they see the members of my team as third-party contractors, hence 
+competitors, not hospital network employees.     
+(7) The OEMs that I am particularly aware of that use TPMs are Philips, Siemens, 
+and GE.1  While GE used to be particularly aggressive in restricting access to the software 
+and data files needed for servicing its equipment, in recent years, they seem to have 
+relented somewhat and will now provide an access key to those who train on their 
+equipment via the Radiological Services Training Institute.  Sodexo will send some 
+technicians for training there, but at a cost. 
+(8)  Siemens and Philips are still very aggressive in their use of TPMs.  I am 
+aware that Philips has filed lawsuits against some third parties it believes have accessed 
+the software and data files without a key issued to them by Philips. 
+1 Philips refers to Koninklijke Philips N.V., including its subsidiaries Philips Electronics and Philips Healthcare. 
+Siemens refers to Siemens Healthineers AG (formerly Siemens Healthcare, Siemens Medical Solutions, Siemens Medical 
+Systems), a subsidiary of Siemens AG. GE refers to GE Healthcare, a subsidiary of General Electric Company. 
+[PAGE 42]
+DMCA Petition 
+Attorney Docket No. 15259128-000007 
+Page 3 of 3 
+US_Active\116011030\V-2 
+US_Active\116011030\V-3 
+US_Active\116011030\V-4 
+(9) Siemens will only issue time-limited access codes, and the codes only provide 
+access to restricted levels of software and data files.  For example, error logs are available 
+to those who pay for higher level access. 
+(10) Recently, Siemens  updated their software to require stronger access codes.  
+Siemens also changed the access levels and what software and data files are available at a 
+given access level.  Now we are not able to view the event logs and error codes.  Instead, 
+we have to call Siemens and explain to them why we are asking for access to the 
+information before they will provide us with a code.  Siemens then decides whether they will 
+provide an access code or require a Siemens service technician to travel and enter the 
+access code. 
+(11) When we get access to a Siemens access code, it takes about 24 hours to 
+receive approved access code, and then the access code only good for about 4 days.  On 
+multiple occasions, Siemens has denied us access to higher level access keys.  
+(12) When we cannot get access to the keys, we have to pay the OEMs for tech 
+support.  If the OEM has to send a technician on-site, they charge about $600 to $800 per 
+hour, including travel time, and OEM parts pricing.  For servicing, GE charges $600/hour 
+and Siemens charges $800/hour.      
+(13) The OEMs recently have also increased their service response time from 24 
+hours to 48 hours unless higher priced overtime is pre-approved via a purchase order 
+issued prior to the service call.  This has been detrimental to patient care and public safety 
+as machines requiring the visit of an OEM technician remain unusable for a longer period of 
+time. 
+(14) The unavailability of a machine is also very expensive to a hospital.  Each day 
+that a large machine is unusable, the hospital must cancel services at a cost of lost revenue 
+which I understand to be in the hundreds of thousands of dollars, which also impacts 
+patient care. 
+(15) The OEMs’ field service engineers have the access keys to obtain the error 
+codes.  With the access key, they are able to fix common errors within 15 minutes of 
+coming to the hospital, but the OEMs still charge a minimum of two hours for technical 
+support fees along with hourly travel rates.  My hospital network could greatly reduce the 
+repair time and medical care delays if we have access to the error codes. 
+Adversity Caused by TPMs 
+[PAGE 43]
+DMCA Petition 
+Attorney Docket No. 15259128-000007 
+Page 4 of 3 
+US_Active\116011030\V-2 
+US_Active\116011030\V-3 
+US_Active\116011030\V-4 
+(16) My hospital network must reschedule patients when a machine is down and 
+waiting for an OEM field service engineer to come on-site and repair the machine. On 
+occasion it can take  several days to get the MRI scanner, CT scanner, or Cath Lab device 
+back in service.   
+(17) This problem has only magnified during the COVID-19 pandemic.  My hospital 
+network for many months had one hospital that is solely dedicated to caring for COVID-19 
+patients.  That hospital had dedicated CT machines in the COVID-19 hospital. More 
+recently, given the increase in Covid-19 cases, my hospital network has dedicated floors in 
+four other hospitals to Covid-19 patients. 
+(19) When these critical machines were down, my hospital network had to 
+transport patients from the COVID-19 designated hospital to another campus.  This 
+decision was not taken lightly and potentially compromised my hospital network’s ability to 
+minimize the spread of COVID-19. 
+(20) The FDA acknowledged medical device shortages from the COVID-19 public 
+health emergency (PHE).2  The OEM-caused delays add to the demand for medical devices 
+during the PHE.  My hospital network leases one such medical device for about $22,500 a 
+month because we cannot afford to lose critical time for the OEMs to properly repair the 
+machines. 
+(21) TPMs add cost to the purchase of, among others, the MRI, CT, and Cath-
+Angio labs by as much as $125,000 per machine, just for the access keys.   
+(22) In an effort to quickly restore the machines and minimize the adverse effects, 
+we order parts from third party vendors, under their quickened and technical support, which 
+is also limited due to their own lack of access keys.  We try to diagnose faults using our 
+experience and, as needed, the experience of our third party vendors, and then order the 
+parts, hoping that the diagnosis, without access to the error logs and the like is correct. 
+(23) Patients are understandably frustrated due to unnecessary delays in medical 
+care, and they express this in their negative feedback to the hospital network.  This 
+frustration then is reflected in the hospital network’s view of the performance of my 
+2 U.S. Food and Drug Administration, Medical Device Shortages During the COVID-19 Public Health Emergency, 
+available at https://www.fda.gov/medical-devices/coronavirus-covid-19-and-medical-devices/medical-device-shortages-
+during-covid-19-public-health-emergency#shortage.  
+U.S. Food and Drug Administration, Statement on concerns with medical device availability due to concertation 
+sterilization facility closures, available at https://www.fda.gov/news-events/press-announcements/statement-concerns-
+medical-device-availability-due-certain-sterilization-facility-closures. 
+Thomas Sullivan, FDA CDRH Issues Guidance on Notifications of Medical Device Shortages, Policy & Medicine (May 
+19, 2020), https://www.policymed.com/2020/05/fda-cdrh-issues-guidance-on-notifications-of-medical-device-
+shortages.html.  
+[PAGE 44]
+DMCA Petition 
+Attorney Docket No. 15259128-000007 
+Page 5 of 3 
+US_Active\116011030\V-2 
+US_Active\116011030\V-3 
+US_Active\116011030\V-4 
+department. It also impacts Press Gainy Scores, which are customer satisfaction scores- 
+that impact reimbursements to the hospital by the Centers for Medicare & Medicaid 
+Services (“CMS”).    
+(24) In my opinion, removing the OEMs’ aggressive TPM practices will increase 
+my hospital network’s ability to provide quality medical care while also decreasing medical 
+bills.   
+(25) The undersigned being warned that willful false statements and the like are 
+punishable by fine or imprisonment, or both, under 18 U.S.C. 1001.  The undersigned 
+declares that all statements made of his/her own knowledge are true; and all statements 
+made on information and belief are believed to be true. 
+Date:  
+Abigail Lane-Savage 
+12/9/2020
+
+[PAGE 45]
+EXHIBIT 8 
+[PAGE 46]
+
+[PAGE 47]
+
+[PAGE 48]
+
+[PAGE 49]
+
+[PAGE 50]
+EXHIBIT 9 
+[PAGE 51]
+US_ACTIVE-147022893 
+Active\95542538.v2-5/23/19 
+IN THE UNITED STATES DISTRICT COURT 
+FOR THE NORTHERN DISTRICT OF GEORGIA 
+PHILIPS MEDICAL SYSTEMS 
+NEDERLAND B.V.; PHILIPS NORTH 
+AMERICA LLC; and PHILIPS INDIA 
+LTD.,  
+Plaintiffs, 
+v. 
+TEC HOLDINGS, INC., F/K/A 
+TRANSTATE EQUIPMENT 
+COMPANY, INC., TRANSTATE 
+EQUIPMENT COMPANY, INC., 
+F/K/A TRANSTATE HOLDINGS, 
+INC.; and ROBERT A. (“ANDY”) 
+WHEELER, individually and in his 
+capacity as executor and personal 
+representative of the Estate of DANIEL 
+WHEELER 
+Defendants. 
+Civil Action No.  
+1:17-cv-02864-LMM 
+JURY TRIAL DEMANDED 
+SECOND AMENDED COMPLAINT 
+Plaintiffs Philips Medical Systems Nederland B.V., Philips North America 
+LLC, and Philips India Ltd. (collectively, “Philips” or “Plaintiffs”), by and through 
+their undersigned counsel, hereby bring the following Amended Complaint against 
+TEC Holdings, Inc., formerly known as Transtate Equipment Company, Inc. 
+(“Transtate I”), Transtate Equipment Company, Inc., formerly known as Transtate 
+Holdings, Inc. (“Transtate II”) (collectively, “Transtate”), and Robert A. (“Andy”) 
+Wheeler, individually and in his capacity as executor and personal representative 
+of the Estate of Daniel Wheeler (“the Estate”) (Andy Wheeler and the Estate are 
+Case 1:17-cv-02864-SDG   Document 139   Filed 05/23/19   Page 1 of 91
+[PAGE 52]
+- 48 -
+Active\95542538.v2-5/23/19 
+189. Because he is an officer of both Transtate I and II, and because he 
+oversaw and directly participated in both Transtate I and II’s tortious behavior, 
+Andy Wheeler is personally liable for Transtate I and II’s violations of the CFAA.  
+190. Andy Wheeler’s personal participation in Transtate I and II’s 
+activities was and is knowing, deliberate, willful, reckless, and in utter disregard of 
+Philips’ rights. 
+191. As a result of Andy Wheeler’s participation in Transtate I and II’s 
+CFAA violations, Philips has suffered actual damages in an amount to be proven at 
+trial.   
+192. Philips has been damaged by all of the foregoing and is entitled to an 
+award of damages, including business losses. 
+Count V:  Violations of the Digital Millennium  
+Copyright Act (DMCA), 17 U.S.C. § 1201 (Transtate I and II) 
+193. Philips reasserts, re-alleges, and incorporates by reference the 
+allegations in all other paragraphs of this Amended Complaint as if fully set forth 
+herein under Count V. 
+194. Philips’ medical imaging systems include Philips’ copyrighted and 
+proprietary software.  
+195. Philips’ log files on its medical imaging systems are protected by 
+copyright under Title 17. 
+Case 1:17-cv-02864-SDG   Document 139   Filed 05/23/19   Page 48 of 91
+
+[PAGE 53]
+- 49 -
+Active\95542538.v2-5/23/19 
+196. Philips Internal Software is proprietary software protected by 
+copyright under Title 17.  
+197. Philips electronic documentation is protected by copyright under Title 
+17. 
+198. Philips employs numerous technological measures including, but not 
+limited to, its Access Key protection scheme and protocol, in order to protect and 
+control access to and use of its copyrighted proprietary software and/or portions 
+thereof.   
+199. Transtate I and II intentionally modified Philips’ proprietary software 
+to circumvent a technological measure that controls access to Philips’ protected 
+software.  Specifically, Transtate I and II circumvented the access controls to gain 
+access to the USB drive, then used Transtate’s software exploit to modify 
+computer files in order to deactivate a requirement for an Access Key to access 
+Philips’ proprietary software.  Transtate I and II were thus able to bypass the 
+technological measure and gain unauthorized access to the proprietary software.   
+200. Philips’ technological measures on the Systems also prevent 
+unauthorized access to Philips’ copyrighted log files.  Transtate I and II 
+intentionally circumvent access controls through use of their software exploit and 
+potentially other methods to gain unauthorized access to and copy Philips’ 
+copyrighted log files on the Allura systems.   
+Case 1:17-cv-02864-SDG   Document 139   Filed 05/23/19   Page 49 of 91
+[PAGE 54]
+- 50 -
+Active\95542538.v2-5/23/19 
+201. Philips employs technological measures, including but not limited to, 
+its account authorization and IST Key protection scheme and protocol, in order to 
+protect and control access to and use of its copyright protected Philips Internal 
+Software.  
+202. Transtate I and II employ the circumvention mechanism in order to 
+bypass or circumvent the requirement for a Philips account and an IST Key to 
+access Philips Internal Software.  Transtate I and II were thus able to bypass the 
+technological measure and in each instance gain repeated unauthorized access to 
+the proprietary copyright protected Philips Internal Software by virtue of such 
+bypass or circumvention. 
+203. Philips employs technological measures, including but not limited to, 
+encryption of its proprietary and copyrighted electronic documentation, in order to 
+protect and control access to and use its copyright protected Philips electronic 
+documentation. 
+204. Transtate I and II have intentionally modified Philips’ encrypted 
+electronic documents by decrypting them in order to make unencrypted copies 
+thereof which Transtate I and II can then distribute.  Transtate I and II were thus 
+able to bypass or circumvent the technological measure in order to gain repeated 
+unauthorized access to Philips copyright protected electronic documentation. 
+Case 1:17-cv-02864-SDG   Document 139   Filed 05/23/19   Page 50 of 91
+[PAGE 55]
+- 51 -
+Active\95542538.v2-5/23/19 
+205. Transtate I and II have intentionally and/or knowingly circumvented 
+technological measures that effectively control access to a work or works protected 
+under Title 17, in violation of 17 U.S.C. § 1201(a)(1)(A) of the Digital Millennium 
+Copyright Act. 
+206. Transtate I and II’s unauthorized means of accessing the Systems, 
+including Philips’ proprietary software and copyrighted logs, the Philips Internal 
+Software, and Philips electronic documentation has, and does, entail the 
+unauthorized access, copying, and potential alteration of the contents of Philips’ 
+copyrighted proprietary software, log files, and electronic documentation. 
+207. Philips has been and will continue to be damaged in an amount not 
+presently known with certainty, but that will be proven at trial. 
+208. Philips is entitled to the range of relief provided by 17 U.S.C. § 1203, 
+including but not limited to, injunctive relief, compensatory damages or statutory 
+damages, punitive damages, and Philips’ costs and attorneys’ fees in amounts to be 
+proven at trial.  Transtate I and II’s conduct also has caused irreparable and 
+incalculable harm and injuries to Philips, and, unless enjoined, will cause further 
+irreparable and incalculable injury, for which Philips has no adequate remedy at 
+law.   
+Case 1:17-cv-02864-SDG   Document 139   Filed 05/23/19   Page 51 of 91
+[PAGE 56]
+- 52 -
+Active\95542538.v2-5/23/19 
+Count VI:  Violations of the Digital Millennium 
+Copyright Act (DMCA), 17 U.S.C. § 1202 (Transtate I and II) 
+209. Philips reasserts, re-alleges, and incorporates by reference the 
+allegations in all other paragraphs of this Amended Complaint as if fully set forth 
+herein under Count VI.  
+210. Philips’ electronic documentation is protected by the copyright laws, 
+and Philips owns the copyright in its electronic documentation. 
+211. Philips electronic documentation is made available by Philips to 
+authorized users.  
+212. Philips grants authorization to access Philips InCenter database, and 
+the files therein, to third parties having registered for AIAT level access. 
+213. Philips distributes a wide range of documents through the InCenter 
+database, and controls access to certain electronic documentation by encrypting 
+such documents.  Philips authorized users are authorized to access documentation 
+commensurate with their roles, i.e. AIAT level authorization grants access to AIAT 
+level electronic documentation.  Access is facilitated by virtue of Philips IST Keys, 
+such that a user’s valid IST Key will enable decryption of files that a user is 
+authorized to access. 
+214. Philips electronic documentation includes metadata that may identify 
+the author of the file and that the file originates from Philips, the copyright holder.   
+Case 1:17-cv-02864-SDG   Document 139   Filed 05/23/19   Page 52 of 91
+[PAGE 57]
+- 53 -
+Active\95542538.v2-5/23/19 
+215. Philips electronic documentation’s metadata thus includes copyright 
+management information (“CMI”) pursuant to 17 U.S.C. § 1202.  
+216. Employees of Transtate I and Transtate II download encrypted copies 
+of files that they are not authorized to access, and decrypt those files by making 
+use of Transtate decryption and stripping mechanism.  
+217. Transtate I and Transtate II’s decryption and stripping mechanism 
+first decrypts Philips electronic documentation without authorization, and then 
+removes the metadata, including CMI, from the unauthorized copies of Philips 
+electronic documentation created and distributed by Transtate.  
+218. Employees of Transtate I and Transtate II then distribute such 
+decrypted files stripped of their metadata.  
+219. Transtate I and II have intentionally and/or knowingly removed and 
+altered the copyright management information contained in Philips’ electronic 
+documentation metadata without the authority of the copyright owner or the law 
+knowing, or having reasonable grounds to know, that such behavior will induce, 
+enable, facilitate, or conceal an infringement of Philips rights under Title 17, in 
+violation of 17 U.S.C. § 1202(b)(1) of the Digital Millennium Copyright Act. 
+220. Transtate I and II have intentionally and/or knowingly distributed 
+copyright management information knowing that the copyright management 
+information contained in Philips’ electronic documentation metadata has been 
+Case 1:17-cv-02864-SDG   Document 139   Filed 05/23/19   Page 53 of 91
+[PAGE 58]
+- 54 -
+Active\95542538.v2-5/23/19 
+removed or altered without the authority of the copyright owner or the law 
+knowing, or having reasonable grounds to know, that such behavior will induce, 
+enable, facilitate, or conceal an infringement of Philips rights under Title 17, in 
+violation of 17 U.S.C. § 1202(b)(2) of the Digital Millennium Copyright Act. 
+221. Transtate I and II have intentionally and/or knowingly distributed 
+copies of Philips’ electronic documentation knowing that the copyright 
+management information contained in Philips’ electronic documentation metadata 
+has been removed or altered without the authority of the copyright owner or the 
+law knowing, or having reasonable grounds to know, that such behavior will 
+induce, enable, facilitate, or conceal an infringement of Philips rights under Title 
+17, in violation of 17 U.S.C. § 1202(b)(3) of the Digital Millennium Copyright 
+Act. 
+222. Philips has been and will continue to be damaged in an amount not 
+presently known with certainty, but that will be proven at trial. 
+223. Philips is entitled to the range of relief provided by 17 U.S.C. § 1203, 
+including but not limited to, injunctive relief, compensatory damages or statutory 
+damages, punitive damages, and Philips’ costs and attorneys’ fees in amounts to be 
+proven at trial.  Transtate I and II’s conduct also has caused irreparable and 
+incalculable harm and injuries to Philips, and, unless enjoined, will cause further 
+Case 1:17-cv-02864-SDG   Document 139   Filed 05/23/19   Page 54 of 91
+[PAGE 59]
+EXHIBIT 10 
+[PAGE 60]
+ 
+ 
+UNITED STATES DISTRICT COURT 
+ DISTRICT OF PUERTO RICO 
+  
+PHILIPS MEDICAL SYSTEMS PUERTO 
+RICO, INC., PHILIPS MEDICAL 
+SYSTEMS NEDERLAND B.V.; AND 
+PHILIPS INDIA LIMITED, 
+ 
+     Plaintiff, 
+ 
+v. 
+ 
+ALPHA BIOMEDICAL AND 
+DIAGNOSTIC CORP.,  COOPERATIVA 
+DE SEGURO S MÚLTIPLES DE 
+PUERTO RICO, 
+    
+     Defendant. 
+ 
+CIVIL No. 3:19-cv-01488  
+  
+                
+RE: PERMANENT INJUN CTIVE RELIEF 
+PURSUANT TO THE COMPUTER FRAUD 
+AND ABUSE ACT, 18 U.S.C. § 1030, 
+COPYRIGHT ACT, 17 U.S.C. § 1201, 
+PUERTO RICO’S INDUSTRIAL AND 
+TRADE SECRET PROTECTION ACT, 10 
+P.R. LAWS ANN. §§4131 -4141; UNFAIR 
+COMPETITION; DIGITAL MILLENNIUM 
+COPYRIGHT ACT, 17 U.S.C. § 1201; 
+COPYRIGHT INFRINGEMENT, 17 U.S.C. 
+§ 101, et seq . AND DEMAND FOR JURY 
+TRIAL. 
+ 
+ 
+AMENDED COMPLAINT 
+ 
+TO THE HONORABLE COURT: 
+ 
+ COMES NOW Philips Medical Systems Puerto Rico, Inc.  (“Philips PR ”), Philips 
+Medical Systems Nederland B.V. (“Philips Nederland”) and Philips India L imited 
+(“Philips India ”) ( collectively, “Philips” or  “plaintiffs”), through their undersigned 
+attorneys and, in support of this C omplaint (“Complaint”), respectfully aver and pray as 
+follows: 
+NATURE OF ACTION 
+1. This is an action for permanent injunctive relief to prevent defendant from 
+causing irreparable harm to plaintiff and for damage s to redress injuries suffered by 
+plaintiffs, all because of the wrongful conduct by defendant, in violation of the 
+Computer Fraud and Abuse Act, 18 U.S.C. §1030 (“CFAA”) , the Copyright Act, 17 U.S.C. 
+§ 1201, Puerto Rico’s Industrial and Trade Secret Prote ction Act, 10 P.R. Laws Ann. 
+Case 3:19-cv-01488-BJM   Document 9   Filed 08/02/19   Page 1 of 35
+[PAGE 61]
+ 
+25 
+ 
+TIHRD CAUSE OF ACTION 
+17 U.S.C. § 1201, et seq. 
+(DMCA) 
+ 
+121.       Plaintiffs repeat and reallege the averments set forth above. 
+122. Plaintiffs employ numerous technological measures including, but not 
+limited to, a valid UserID and IST account, a “Smart Card Dongle” – an authentication 
+and service authorization device - the “MR Response Generator Tool” – a protection 
+scheme and protocol - all to protect and control access to copyrighted material in the 
+MRI systems it manufactures.   
+123. Alpha Biomedical has engaged in conduct that circumvents a technological 
+measure that effectively controls access to a copyrighted work, including using and /or 
+creating a deactivated and fake UserID and IST account, and reproducing a copy of a 
+circumvented and/or hacked MR Response Generator Tool , among other infringing 
+conduct to gain access to protected information.  
+124. Defendant intentionally used tools and/or credential s to defeat and 
+circumvent technological measures that control access to Philips’s protected software, 
+the Philips’ CSIP embedded in the MRI systems. 
+125. Alpha Biomedical has intentionally and/or knowingly circumvented 
+technological measures that effectively c ontrol access to a work or works protected 
+under Title 17, in violation of 17 U.S.C. § 1201(a)(1)(A) of the DMCA.  
+126. Defendant has not obtained the right to use or access Philips CSIP  from 
+plaintiffs. All of defendant’s acts were and are performed without permission, license or 
+consent of plaintiffs.  
+127. Upon information and belie f, defendant has received substantial benefits, 
+revenues, compensation and/or cost savings as a direct and proximate result of t he 
+Case 3:19-cv-01488-BJM   Document 9   Filed 08/02/19   Page 25 of 35
+[PAGE 62]
+ 
+26 
+ 
+foregoing unfair and wrongful scheme.  
+128. Plaintiffs are entitled to the remedies provided by 17 U.S.C. § 1203, 
+including but not limited to, injunctive relief, compensatory damages or statutory 
+damages, punitive damages, and costs and attorneys’ fees in a mounts to be proven at 
+trial. 
+129. Defendant has willfully infringed, and unless enjoined will continue to 
+unlawfully infringe plaintiffs’ copyrighted content, as set forth above, by knowingly 
+circumventing access controls to plaintiffs’ copyrighted software in  violation of 17 
+U.S.C. § 1201 et seq.  
+FOURTH CAUSE OF ACTION 
+18 U.S.C. § 1836 
+ (DTSA)  
+ 
+130. Plaintiffs repeat and reallege the averments set forth above. 
+131. Philips’ CSIP and Philips’ Proprietary Material s contained therein 
+constitute trade secrets, since the absconded proprietary information obtained by 
+defendant through the circumvention of access control measures is of high commercial 
+value and importance, and is useful to any entity, which would compete  with plaintiffs, 
+including Philips PR, if publicized.  
+132. Philips’ CSIP and Philips ’ Proprietary Material  contain confidential and 
+proprietary trade secrets , which include, without limitation, maintenance logs, service 
+manuals, documentation, training material, information and software data that assists 
+FSEs with the maintenance and servicing, diagnostic, calibration, and other and 
+functionalities of Systems  - information necessary for Philips to conduct their business 
+in a competitive marketplace.  
+Case 3:19-cv-01488-BJM   Document 9   Filed 08/02/19   Page 26 of 35
+
+[PAGE 63]
+EXHIBIT 11 
+[PAGE 64]
+   
+UNITED STATES DISTRICT COURT 
+SOUTHERN DISTRICT OF FLORIDA 
+Case No.     
+PHILIPS NORTH AMERICA LLC, PHILIPS 
+MEDICAL SYSTEMS NEDERLAND B.V.; 
+PHILIPS INDIA LTD.; PHILIPS MEDICAL 
+SYSTEMS (CLEVELAND), INC; PHILIPS 
+MEDICAL SYSTEM TECHNOLOGIES 
+LTD.; and KONINKLIJKE PHILIPS N.V.,  
+Plaintiff,_______________ 
+vs. 
+626 HOLDINGS, INC., and ALEXANDER 
+KALISH, 
+Defendants.______________ 
+_______________________________/  
+ 
+COMPLAINT 
+ 
+Plaintiffs Philips North America LLC, Philips Medical Systems ( Cleveland), Inc., Philips 
+India Ltd., Philips Medical Systems Technologies Ltd., Philips Medical Systems Nederland B.V., 
+and Koninklijke Philips N.V. (collectively “Philips” or “Plaintiff”), by and through its undersigned 
+counsel, hereby brings the following Complaint against 626 Hold ings, Inc. (“626 Holdings”) and 
+Alex Kalish (“Kalish” or collectively with 626 Holdings, “Defendants”), and pleads as follows: 
+NATURE OF THE ACTION 
+ 
+1. Philips develops, sells, supports, maintains, and services medical imaging systems, 
+such as computed tomography (CT) systems, X-ray systems, nuclea r medicine systems, PET 
+scanners, magnetic resonance (MR) scanners, ultrasound machines, and the like used at hospitals 
+and medical centers, including th e proprietary hardware, softwa re, and documentation used to 
+operate, service, and repair such systems. 
+Case 9:19-cv-81263-RS   Document 1   Entered on FLSD Docket 09/12/2019   Page 1 of 37
+[PAGE 65]
+ - 22 -  
+Count V:  
+Conversion 
+104. Philips reasserts, re-alleges, and incorporates by reference th e allegations in all 
+other paragraphs of this Complaint as if fully set forth herein under Count V. 
+105. On information and belief, Defenda nts have exercised dominion a nd control over 
+Philips’ proprietary material, including restricted confidentia l and trade secret material, obtained 
+from at least Philips InCenter Database. This information is not publicly available.  
+106. Defendants’ intentional, malicious, and willful exercise of dom inion and control 
+over Philips’ property, including trade secrets and confidential information, interferes with Philips’ 
+right to exert control over its property. 
+107. As a direct and proximate result of Defendants’ conversion of P hilips’ property, 
+including trade secrets and confidential information (not risin g to the level of a trade secret), 
+Philips has been harmed and suffered damages.  
+108. By these actions, Defendants are thereby liable to Philips for conversion.  
+109. As a result of Defendants’ conversion, Philips has been damaged and is entitled to 
+return of its property. 
+110. Philips is also entitled to recover punitive damages from Defen dants for their 
+conversion of Philips’ property.  
+Count VI:  
+Violation of the Digital Millennium Copyright Act (DMCA), 17 U.S.C. § 1201 
+111. Philips reasserts, re-alleges, and incorporates by reference th e allegations in all 
+other paragraphs of this Complaint as if fully set forth herein under Count VI. 
+112. Philips medical imaging systems include Philips copyright prote cted proprietary 
+works. 
+Case 9:19-cv-81263-RS   Document 1   Entered on FLSD Docket 09/12/2019   Page 22 of 37
+
+[PAGE 66]
+ - 23 -  
+113. Philips documents and software obtainable from Philips InCenter  service include 
+Philips copyright protected and proprietary works. 
+114. Philips proprietary works within Philips medical imaging system s and accessible 
+through Philips InCenter service are protected by copyright under Title 17.  
+115. Philips employs numerous layered technological measures includi ng, but not 
+limited to, Philips access key, username and password combinati on, access control certificates, 
+and machine specific access controls, to control access to and use of its copyrighted proprietary 
+software and/or portions thereof on Philips medical imaging devices. 
+116. Philips also employed layers of technological measures, includi ng username and 
+password combinations and access control certificates, in order  to protect Philips copyright 
+protected works, including inter alia software and documentation, by controlling access to and the 
+duration of such access to Philips protected works available from Philips InCenter system. 
+117. Defendants have employed softwa re exploit tools to intentionall y modify Philips 
+proprietary software to circumv ent a technological measure that  controls access to Philips’ 
+protected software. Specifically, Defendants software exploit tools access Philips medical imaging 
+systems from a USB drive or other external media in order to modify computer files within Philips 
+medical imaging devices to deactivate a requirement for either a Philips generated key code or a 
+Philips issued access key, bearing a current and duly authorized Philips’ access control certificate, 
+in order to access Philips proprietary software.  Defendants were thus able to bypass technological 
+measures to gain unauthorized access to the proprietary software. 
+118. Defendants have also employed false, modified, or counterfeit a ccess control 
+certificates to circumvent a tec hnological measure that control s access to Philips’ protected 
+software. Specifically, Defendants false, modified, or counterfeit access control certificates enable 
+Case 9:19-cv-81263-RS   Document 1   Entered on FLSD Docket 09/12/2019   Page 23 of 37
+[PAGE 67]
+ - 24 -  
+unauthorized users to access Philips medical imaging systems th ereby circumventing 
+technological measures to gain unauthorized access to the proprietary software.  
+119. Defendants have further employe d their false, modified, or coun terfeit access 
+control certificates in order to decrypt encrypted Philips prop rietary documentation and software 
+accessed by Defendants from Philips InCenter database through Defendants fraudulent scheme of 
+impersonating Philips FSE credentialed users.  Philips encrypte d documents and software from 
+Philips InCenter database are encrypted by Philips specifically  to protect such documents and 
+software from unauthorized access by unlicensed third parties a nd to prevent further distribution 
+of Philips works to others without license to do so. 
+120. Defendants multiple methods of bypassing or circumventing acces s controls 
+protecting Philips’ works and controlling access to Philips’ works also prevent unauthorized access 
+to Philips’ copyright protected log files within Philips medical imaging devices.  Upon information 
+and belief Defendants intentionally circumvent access controls using their exploit tools and 
+unlawful certificates and potentially other methods to gain una uthorized access to and copy 
+Philips’ copyrighted log files on the Philips medical imaging devices. 
+121. Thus, Defendants have intentionally and/or knowingly circumvented technological 
+measures that effectively control access to a work or works pro tected under Title 17, in violation 
+of 17 U.S.C. § 1201(a)(1)(A) of the Digital Millennium Copyright Act. 
+122. Defendants’ unauthorized means of accessing the Philips medical imaging systems, 
+including Philips’ proprietary software and copyrighted logs, and Philips encrypted documentation 
+and software has, and does, entail the unauthorized access, copying, and potential alteration of the 
+contents of Philips’ copyrighted proprietary software, log files, and electronic documentation. 
+Case 9:19-cv-81263-RS   Document 1   Entered on FLSD Docket 09/12/2019   Page 24 of 37
+[PAGE 68]
+ - 25 -  
+123. Philips has been and will continue to be damaged in an amount not presently known 
+with certainty, but that will be proven at trial.  
+124. Philips is entitled to the range of relief provided by 17 U.S.C. § 1203, including but 
+not limited to, injunctive relief, compensatory damages or stat utory damages, punitive damages, 
+and Philips’ costs and attorneys’  fees in amounts to be proven at trial. Defendants’ conduct also 
+has caused irreparable and incalc ulable harm and injuries to Ph ilips, and, unless enjoined, will 
+cause further irreparable and incalculable injury, for which Philips has no adequate remedy at law. 
+Count VII:  
+Violations of the Defend Trade Secrets Act (DTSA), 18 U.S.C. §§ 1836 
+125. Philips reasserts, re-alleges, and incorporates by reference th e allegations in all 
+other paragraphs of this Complaint as if fully set forth herein under Count VII. 
+126. Philips owns and possesses certain confidential, proprietary, a nd trade secret 
+information, including scientific, technical, and engineering i nformation and financial, business, 
+and economic information, as alleged above and below, in Philips’ proprietary software for Philips 
+medical imaging systems, including Philips stand alone software , Philips servi ce and diagnostic 
+software, Philips encrypted documentation from InCenter. 
+127. Philips’ confidential, proprietary, and trade secret informatio n relates to products 
+used in, or intended for use in, interstate or foreign commerce.  
+128. Philips’ proprietary software, documentation, and access contro l systems contain 
+and are trade secrets because Philips restricts access to them and Philips has engaged in reasonable 
+measures to maintain their secrecy. Such reasonable measures to  protect its trade secrets include, 
+for example, implementing systems of access registration, acces s control measures, and other 
+safeguards associated with Philips’ proprietary software, including in the form of physical and/or 
+Case 9:19-cv-81263-RS   Document 1   Entered on FLSD Docket 09/12/2019   Page 25 of 37
+
+[PAGE 69]
+EXHIBIT 12 
+[PAGE 70]
+   
+IN THE UNITED STATES DISTRICT COURT 
+FOR THE NORTHERN DISTRICT OF ILLINOIS 
+ 
+EASTERN DIVISION 
+  
+ 
+ 
+PHILIPS MEDICAL SYSTEMS 
+(CLEVELAND), INC.; PHILIPS INDIA LTD.; 
+PHILIPS MEDICAL SYSTEMS 
+TECHNOLOGIES LTD.; KONINKLIJKE 
+PHILIPS N.V.; and PHILIPS NORTH 
+AMERICA LLC, 
+ 
+ 
+ Plaintiffs, 
+ 
+v. 
+ 
+ZETTA MEDICAL TECHNOLOGIES, LLC; 
+and RONALD J. DUNCAN, 
+ 
+ Defendants. 
+ 
+§ 
+§
+§
+§
+§
+§
+§
+§
+§
+§
+§
+§
+§
+§
+§
+§
+ 
+Civil No: 1:17-CV-03425 
+ 
+Judge Robert M. Dow, Jr. 
+ 
+ 
+ 
+ 
+JURY TRIAL DEMANDED 
+ 
+ 
+ 
+ 
+ 
+ 
+AMENDED COMPLAINT 
+ Plaintiffs Philips Medical Systems (Cleveland), Inc., Philips India Ltd., Philips Medical 
+Systems Technologies Ltd., Koninklijke Philips N.V., and Philips North America LLC 
+(collectively, “Philips” or “Plaintiffs”), by and through their undersigned counsel, hereby bring 
+the following Amended Complaint against Ze tta Medical Technologies, LLC (“Zetta”) and 
+Ronald J. Duncan (“Mr. Duncan”) (collectively, “Defendants”), and now plead as follows: 
+Overview 
+1. As set forth more fully below:  Plaintiffs are collectively, inter alia, involved in 
+the business of developing, manuf acturing, selling, supporting,  maintaining, and servicing 
+medical imaging systems used at hospitals and medical centers, in cluding the proprietary 
+Case: 1:17-cv-03425 Document #: 10 Filed: 05/10/17 Page 1 of 43 PageID #:58
+[PAGE 71]
+ - 18 -  
+thereby causing damages to Philips that include business losses, unfair competition, and intrusion 
+upon trade secrets, and that further include the threat of continuing and ongoing harms relating to 
+the same. 
+Count III:  Violations of the Digital Millennium Copyright Act (DMCA), 17 U.S.C. § 1201 
+80. Philips reasserts, re-alleges, and incorporat es by reference the allegations in all 
+other paragraphs of this Complaint as if fully set forth herein under Count III. 
+81. As set forth in Count II, Defendants have improperly accessed works protected 
+under Title 17 (copyright). 
+82. Philips employs numerous technological measures including, but not limited to, 
+its password and user ID protec tion scheme and protocol, in or der to effectively protect and 
+control access to and use of its copyrighted Philips CSIP and/or portions thereof.  
+83. Upon information and belief, Defendants ma nufacture, import, provide, offer to 
+the public, or otherwise traffic in technology, products, services, de vices, components, or parts 
+thereof, that are primarily de signed or produced for the purpose of circumventing technological 
+measures and/or protection afforded by technologi cal measures that effectively control access to 
+Philips CSIP and/or portions thereof.  
+84. Upon information and belief, Defendants’ technology, products, services, devices, 
+components, or parts thereof have limited or no commercially significant purpose or use other 
+than to circumvent technological measures that effectively control access to Philips’ CSIP and/or 
+portions thereof.  
+85. In the course of doing so, Defendants have intentionally and/or knowingly 
+circumvented technological measures that effectively control access to a work or works protected 
+Case: 1:17-cv-03425 Document #: 10 Filed: 05/10/17 Page 18 of 43 PageID #:75
+
+[PAGE 72]
+ - 19 -  
+under Title 17, in violation of 17 U.S.C. § 12 01(a)(1)(A)—the Digital Millennium Copyright 
+Act. 
+86. Defendants’ unauthorized means of accessi ng the Systems has, and does, entail 
+the unauthorized access, copying, and potential alteration of the cont ents of Philips’ copyrighted 
+CSIP software. 
+87. Philips has been and will continue to be damaged in an amount not presently 
+known with certainty, but will be proven at trial. 
+88. Philips is entitled to the range of re lief provided by 17 U.S. C. §§ 1201-12-3, 
+including but not limited to, injunctive relief, compensatory damages or statutory damages, 
+punitive damages, and Philips’ costs and attorneys’  fees in amounts to be proven at trial.  
+Defendants’ conduct also has caused irrepara ble and incalculable ha rm and injuries to 
+Defendants, and, unless enjoined, will cause furt her irreparable and incalculable injury, for 
+which Philips has no adequate remedy at law.   
+89. By engaging in the conduct set forth in  the preceding paragraphs of this 
+Complaint, Defendants have exceed ed their authorized levels of access to the Systems and the 
+Philips CSIP, in violation of Philips’ copyright s and the Digital Millennium Copyright Act, 
+thereby obtaining valuable diagnostic and propriet ary maintenance log files, and access to other 
+valuable tools and information, and thereby cau sing damages to Philips that include business 
+losses, unfair competition, and intrusion upon trade secr ets, and that further include the threat of 
+continuing and ongoing harms relating to the same.  
+Case: 1:17-cv-03425 Document #: 10 Filed: 05/10/17 Page 19 of 43 PageID #:76
+[PAGE 73]
+EXHIBIT 13 
+[PAGE 74]
+REED SMITH LLP 
+A limited liability partnership formed in the State of Delaware 
+1 
+2 
+3 
+4 
+5 
+6 
+7 
+8 
+9 
+10 
+11 
+12 
+13 
+14 
+15 
+16 
+17 
+18 
+19 
+20 
+21 
+22 
+23 
+24 
+25 
+26 
+27 
+28 
+ 
+ - 1 - 
+US_ACTIVE-145776994 
+COMPLAINT  
+Carla M. Wirtschafter (SBN 292142)  
+Email:  cwirtschafter@reedsmith.com 
+REED SMITH LLP 
+1901 Avenue of the Stars, Suite 700 
+Los Angeles, CA  90067-6078 
+Telephone: (310) 734-5200 
+Facsimile: (310) 734-5299 
+ 
+Kirsten R. Rydstrom (Pro hac vice pending) 
+Email: krydstrom@reedsmith.com 
+Richard A. Graham (Pro hac vice pending) 
+Email: rgraham@reedsmith.com 
+Reed Smith Centre, 225 Fifth Ave  
+Pittsburgh, PA 15222 
+Telephone: (412) 288-3131 
+Facsimile: (412) 288-3063 
+ 
+Attorneys for Plaintiffs 
+Philips North America LLC and Koninklijke 
+Phili
+ps N.V. 
+ 
+UNITED STATES DISTRICT COURT 
+CENTRAL DISTRICT OF CALIFORNIA 
+SOUTHERN DIVISION 
+PHILIPS NORTH AMERICA LLC, a 
+Delaware Company, and 
+KONINKLIJKE PHILIPS N.V., a 
+Company of the Netherlands, 
+ 
+Plaintiffs, 
+ 
+vs. 
+ 
+KPI HEALTHCARE INC., a California 
+Corporation; KPI HEALTHCARE 
+ECOMMERCE, INC., a California 
+Corporation; and DOES 1-10, 
+inclusive, 
+ 
+Defendants. 
+ Case No.: 8:19-cv-01765 
+ 
+COMPLAINT FOR: 
+ 
+(1) TRADEMARK INFRINGEMENT – 
+15 U.S.C. § 1125(a), 15 U.S.C.  1114; 
+(2) FALSE DESIGNATION OF ORIGIN 
+– 15 U.S.C. § 1125(a);  
+(3) FALSE ADVERTISING – 
+15 U.S.C. § 1125(a); 
+(4) CIRCUMVENTING A 
+TECHNOLOGICAL MEASURE – 
+17 U.S.C. § 1201; 
+(5) MODIFYING COPYRIGHT 
+MANAGEMENT INFORMATION – 
+17 U.S.C. § 1202; AND 
+(6) TRADE SECRET 
+MISAPPROPRIATION – 
+18 U.S.C. § 1836; 
+(7) VIOLATIONS OF CALIFORNIA’S 
+UNIFORM TRADE SECRET ACT – 
+CALIFORNIA CIVIL CODE 
+§ 3426, 
+Case 8:19-cv-01765   Document 1   Filed 09/16/19   Page 1 of 48   Page ID #:1
+[PAGE 75]
+REED SMITH LLP 
+A limited liability partnership formed in the State of Delaware 
+1 
+2 
+3 
+4 
+5 
+6 
+7 
+8 
+9 
+10 
+11 
+12 
+13 
+14 
+15 
+16 
+17 
+18 
+19 
+20 
+21 
+22 
+23 
+24 
+25 
+26 
+27 
+28 
+ - 28 - 
+ 
+COMPLAINT 
+ 
+damage and irreparable harm constituting injury for which they have no adequate 
+remedy at law.  Unless restrained and enjoined by this Court, t he wrongful acts of KPI 
+will continue to cause serious irreparable injury and damage to  Philips and the 
+goodwill associated with Philips’ TRADEMARKS. 
+FOURTH CAUSE OF ACTION 
+Circumventing a Technological Measure – 17 U.S.C. § 1201 
+(All Plaintiffs Against All Defendants) 
+109. Philips restates and realleges all of the allegations of all the paragraphs in 
+this complaint as though fully set forth herein this Fourth Cause of Action. 
+110. Philips medical imaging systems in clude Philips’ copyrighted an d 
+proprietary software, which includes Philips’ trade secrets. 
+111. The clinical software and diagnostic and service tools software in Philips’ 
+Ultrasound Systems are protecte d by copyright under Title 17, and include without 
+limitation Philips service tools for updating or modifying the licensed options 
+available on a machine, and for modifying identification number s associated with a 
+machine. 
+112. Philips Ultrasound System licensed optional software is also pr otected by 
+copyright under Title 17. 
+113. Philips employs numerous access controls in order to protect an d control 
+access to and restrict use of its copyrighted proprietary softw are and/or portions 
+thereof.   
+114. Philips’ access controls include  technological measures to prot ect and 
+control access to and limit use of their copyrighted proprietary software and/or 
+portions thereof. 
+115. KPI has and continues to intentionally hack one or more of Phil ips’ 
+technological measures to circumvent these access controls to g ain unauthorized 
+access to Philips’ protected software works, which include Philips trade secrets, and to 
+enable features of these software works which Philips have not licensed or authorized.  
+Case 8:19-cv-01765   Document 1   Filed 09/16/19   Page 28 of 48   Page ID #:28
+
+[PAGE 76]
+REED SMITH LLP 
+A limited liability partnership formed in the State of Delaware 
+1 
+2 
+3 
+4 
+5 
+6 
+7 
+8 
+9 
+10 
+11 
+12 
+13 
+14 
+15 
+16 
+17 
+18 
+19 
+20 
+21 
+22 
+23 
+24 
+25 
+26 
+27 
+28 
+ - 29 - 
+ 
+COMPLAINT 
+ 
+Through these unlawful means, KPI unlawfully gains access to unlicensed Philips 
+software and provides unfettered access to all subsequent users  of KPI’s counterfeit 
+machines.  
+116. KPI’s counterfeit ultrasound systems are created by modifying P hilips’ 
+access controls in order to provide KPI’s customers with unrest ricted and constant 
+access to Philips’ proprietary software without authorization o r an appropriate license. 
+Thus, KPI’s business of selling modified ultrasound systems, ea ch of which include 
+modified machine specific access controls is manufacturing, offering to the public, 
+and/or trafficking in a product,  device, component, or part the reof, that is primarily 
+designed or produced for the purpose of circumventing Philips’ access controls that 
+protect Philips proprietary software and trade secrets. 
+117. KPI has intentionally and/or know ingly illegally hacked Philips ’ systems 
+to circumvent the technological m easures Philips uses to effect ively control access to 
+a work or works protected under Title 17, in violation of 17 U.S.C. § 1201(a)(1) of the 
+Digital Millennium Copyright Act.  
+118. KPI’s counterfeit ultrasound systems are systems that provide K PI’s 
+customers with constant access to Philips’ proprietary software . Thus, KPI’s systems 
+are, or at least include, device s, products, components, or par ts thereof that are 
+primarily designed or produced for the purpose of circumventing  Philips’ access 
+controls that protect Philips software. Thus, KPI’s business of  creating and selling 
+counterfeit systems, is knowingly marketing, manufacturing, off ering to the public, 
+and/or trafficking in a product,  device, component, or part the reof, that is primarily 
+designed or produced for the purpose of circumventing Philips’ access controls that 
+protect Philips software.  
+119. Upon information and belief, Philips alleges that in order to c arry out 
+KPI’s unlawful circumvention of P hilips’ access controls, KPI m a k e s  u s e  o f  t o o l s  
+which have no use but to circumvent access controls. 
+120. KPI has intentionally and/or knowingly manufactured, offered to  t h e  
+Case 8:19-cv-01765   Document 1   Filed 09/16/19   Page 29 of 48   Page ID #:29
+[PAGE 77]
+REED SMITH LLP 
+A limited liability partnership formed in the State of Delaware 
+1 
+2 
+3 
+4 
+5 
+6 
+7 
+8 
+9 
+10 
+11 
+12 
+13 
+14 
+15 
+16 
+17 
+18 
+19 
+20 
+21 
+22 
+23 
+24 
+25 
+26 
+27 
+28 
+ - 30 - 
+ 
+COMPLAINT 
+ 
+public, or otherwise trafficked in technologies, products, serv ices, devices, 
+components, or parts thereof, that are primarily designed or pr oduced for the purpose 
+of circumventing protection afforded by Philips’ access control s and/or which have 
+limited commercially significant purpose other than to circumve nt Philips’ access 
+controls in violation of the DMCA, 17 U.S.C. § 1201(a)(2).  
+121. Philips has been and will continue to be damaged in an amount n ot 
+presently known with certainty, but that will be proven at trial. 
+122. Philips is entitled to the range of relief provided by 17 U.S.C . 1203, 
+including but not limited to, injunctive relief, compensatory d amages or statutory 
+damages, punitive damages, and Philips’ costs and attorneys’ fe es in amounts to be 
+proven at trial.  KPI’s conduct ha s also caused irreparable and incalculable harm and 
+injuries to Philips, and, unless enjoined, will cause further i rreparable and incalculable 
+injury, for which Philips has no adequate remedy at law.  
+FIFTH CAUSE OF ACTION 
+Modifying Copyright Management Information – 17 U.S.C. § 1202 
+(All Plaintiffs Against All Defendants) 
+123. Philips restates and realleges all of the allegations of all the paragraphs in 
+this complaint as though fully set forth herein this Fifth Cause of Action. 
+124. Philips proprietary software is protected by copyright laws, an d Philips 
+owns the copyright in its protected software. 
+125. Philips’ proprietary software in cludes access controls that are accessed 
+and read by Philips’ automated copyright license management sof tware within Philips 
+Ultrasound Systems, which is a standard component of Philips’ proprietary software 
+included in each Philips Ultrasound System.   
+126. Philips authorizes specific mach ines to execute only specific l icensed 
+optional software, and the specif ic software is only available on that specific machine 
+consistent with the features the customer purchases for that specific machine. 
+127. When a Philips Ultrasound System boots up, a Philips access con trol 
+Case 8:19-cv-01765   Document 1   Filed 09/16/19   Page 30 of 48   Page ID #:30
+
+[PAGE 78]
+EXHIBIT 14 
+[PAGE 79]
+ 
+SECOND AMENDED COMPLAINT - 1 
+No. 2:19-cv-01745-JLR 
+ SAVITT BRUCE & WILLEY LLP 
+1425 Fourth Avenue Suite 800 
+Seattle, Washington  98101-2272 
+(206) 749-0500 
+ 
+1 
+2 
+3 
+4 
+5 
+6 
+7 
+8 
+9 
+10 
+11 
+12 
+13 
+14 
+15 
+16 
+17 
+18 
+19 
+20 
+21 
+22 
+23 
+24 
+25 
+26 
+27 
+The Honorable James L. Robart 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+UNITED STATES DISTRICT COURT 
+WESTERN DISTRICT OF WASHINGTON AT SEATTLE 
+ 
+ 
+PHILIPS NORTH AMERICA LLC, a 
+Delaware Company; KONINKLIJKE 
+PHILIPS N.V., a Company of the 
+Netherlands; and PHILIPS INDIA, LTD., an 
+Indian Company, 
+ 
+Plaintiffs, 
+ 
+vs. 
+ 
+SUMMIT IMAGING INC., a Washington 
+Corporation; LAWRENCE R NGUYEN, an 
+individual; and DOES 1-10, inclusive, 
+ 
+Defendants. 
+ 
+NO. 2:19-cv-01745-JLR 
+ 
+SECOND AMENDED COMPLAINT FOR: 
+ 
+(1) CIRCUMVENTING A 
+TECHNOLOGICAL MEASURE – 
+17 U.S.C. § 1201; 
+(2) MODIFYING COPYRIGHT 
+MANAGEMENT INFORMATION – 
+17 U.S.C. § 1202;  
+(3) TRADE SECRET 
+MISAPPROPRIATION –  
+18 U.S.C. § 1836 
+(4) TRADE SECRET 
+MISAPPROPRIATION –  
+RCW 19.108, ET. SEQ 
+(5) FALSE ADVERTISING – 
+15 U.S.C. § 1125(a); 
+(6) UNFAIR COMPETITION –  
+RCW 19.86.020 
+(7) COPYRIGHT INFRINGEMENT -  
+17 U.S.C. §§ 101, 501 ET. SEQ. 
+ 
+JURY DEMAND 
+Case 2:19-cv-01745-JLR   Document 36   Filed 04/20/20   Page 1 of 59
+[PAGE 80]
+ 
+SECOND AMENDED COMPLAINT - 21 
+No. 2:19-cv-01745-JLR 
+ SAVITT BRUCE & WILLEY LLP 
+1425 Fourth Avenue Suite 800 
+Seattle, Washington  98101-2272 
+(206) 749-0500 
+ 
+1 
+2 
+3 
+4 
+5 
+6 
+7 
+8 
+9 
+10 
+11 
+12 
+13 
+14 
+15 
+16 
+17 
+18 
+19 
+20 
+21 
+22 
+23 
+24 
+25 
+26 
+27 
+party in Singapore on August 18, 2019, from which it was shipped to a hospital in Taiwan on 
+October 25, 2019. Philips records also show that this part has been repaired.  
+75. Because Summit did not purchase this part from Philips, Summit knew that 
+the part was not a “new” part.  Thus, Summit falsely advertised that it could sell to the hospital 
+a new replacement part (at a discounted price) fully aware that the part it was offering was not 
+in fact new.   
+76. Upon information and belief, Summit regularly advertises to customers that it 
+can replace broken parts with “new” replacement parts when Summit knows those parts are 
+refurbished, and thus, not new at all.  
+FIRST CAUSE OF ACTION 
+Circumventing a Technological Measure – 17 U.S.C. § 1201 
+(All Plaintiffs Against All Defendants) 
+77. Philips restates and re-alleges all of the allegations of all the paragraphs in 
+this complaint as though fully set forth herein this First Cause of Action. 
+78. Philips medical imaging systems include Philips’ copyrighted and proprietary 
+software, which also include Philips’ trade secrets. 
+79. The clinical software and diagnostic and service tools software in Philips’ 
+Ultrasound Systems are protected by copyright under Title 17, and include without limitation 
+Philips service tools for updating or modifying the licensed options available on a machine, and 
+for modifying identification numbers associated with a machine. 
+80. The log file output and user displays of Philips Ultrasound Systems are also 
+respectively protected by copyright under Title 17 as non-literal elements of Philips software 
+installed on and executing on Philips Ultrasound Systems.  
+Case 2:19-cv-01745-JLR   Document 36   Filed 04/20/20   Page 21 of 59
+
+[PAGE 81]
+ 
+SECOND AMENDED COMPLAINT - 22 
+No. 2:19-cv-01745-JLR 
+ SAVITT BRUCE & WILLEY LLP 
+1425 Fourth Avenue Suite 800 
+Seattle, Washington  98101-2272 
+(206) 749-0500 
+ 
+1 
+2 
+3 
+4 
+5 
+6 
+7 
+8 
+9 
+10 
+11 
+12 
+13 
+14 
+15 
+16 
+17 
+18 
+19 
+20 
+21 
+22 
+23 
+24 
+25 
+26 
+27 
+81. Philips Ultrasound System licensed optional software is also protected by 
+copyright under Title 17. 
+82. Philips employs numerous access controls in order to protect and control 
+access to and restrict use of its copyrighted proprietary software and/or portions thereof.  
+83. Philips’ access controls include technological measures to protect and control 
+access to and limit use of their copyrighted proprietary software and/or portions thereof. 
+84. Summit knowingly and intentionally circumvents Philips’ access controls, 
+using either Summit’s Adepto hacking tool, or other unlawful means, or other unlawfully 
+obtained means, or a combination of the Adepto hacking tool with such other means.  Summit 
+hacks Philips’ access controls in order to gain access to Philips’ medical imaging system 
+onboard tools for updating, modifying, or adding Philips software options—tools that only 
+Philips authorized personnel are able to access using either Philips generated key codes or 
+Philips authorized access control dongles in order to comply with Philips access controls.  
+85. Summit has hacked and continues to intentionally hack one or more of 
+Philips’ technological measures to knowingly and intentionally circumvent these access 
+controls to gain unauthorized access to Philips’ protected software works, which include 
+Philips trade secrets, and to enable features of these software works which Philips has not 
+licensed or authorized Summit, or its customers, to make use of.  Through these unlawful 
+means, Summit unlawfully gains access to unlicensed Philips software and provides 
+unauthorized access to all subsequent users of Philips’ machines hacked by Summit.  
+86. Summit, furthermore, has hacked and continues to knowingly and 
+intentionally hack one or more of Philips’ technological measures to circumvent these access 
+controls to gain unauthorized access to a variety of copyrighted works. Summit does this to 
+Case 2:19-cv-01745-JLR   Document 36   Filed 04/20/20   Page 22 of 59
+[PAGE 82]
+ 
+SECOND AMENDED COMPLAINT - 23 
+No. 2:19-cv-01745-JLR 
+ SAVITT BRUCE & WILLEY LLP 
+1425 Fourth Avenue Suite 800 
+Seattle, Washington  98101-2272 
+(206) 749-0500 
+ 
+1 
+2 
+3 
+4 
+5 
+6 
+7 
+8 
+9 
+10 
+11 
+12 
+13 
+14 
+15 
+16 
+17 
+18 
+19 
+20 
+21 
+22 
+23 
+24 
+25 
+26 
+27 
+circumvent Philips controls that limit access to Philips’ copyright protected software works in 
+order to enable optional features of these software works which Philips has not licensed or 
+authorized Summit, or its customers, to make use of. Philips has the right to employ 
+technological measures to protect, and control access to, Philips copyright protected works 
+within Philips Ultrasound Systems, the operating system within which Philips copyright 
+protected works are executed, and the files stored within the operating systems’ file structure.  
+87. Upon information and belief, Summit knowingly and intentionally employs  
+these hacked machines providing unlicensed access to Philips copyright protected software and 
+files to Summit’s employees in order to provide a parts repair business, and Summit hacks the 
+Philips machines of Summit’s customers in furtherance of both its parts repair business and its 
+service contract business.   
+88. Summit further provides training to Summit’s customers that include 
+instructions about how to circumvent Philips’ access controls with Summit’s hacking tools and 
+techniques. 
+89. Summit’s intentional and knowing circumvention of the technological 
+measures Philips uses to effectively control access to a work or works protected under Title 17, 
+in violation of 17 U.S.C. § 1201(a)(1) of the Digital Millennium Copyright Act.  
+90. Summit’s techniques, including its Adepto hacking tool, are, or at least 
+include, devices, products, components, or parts thereof that are primarily designed or produced 
+for the purpose of circumventing Philips’ access controls that protect Philips software to 
+provide Summit and Summit’s customers constant access to Philips’ proprietary software. 
+Thus, Summit is in the business of knowingly marketing, manufacturing, offering to the public, 
+and/or trafficking in a product, device, component, or part thereof, that is primarily designed or 
+Case 2:19-cv-01745-JLR   Document 36   Filed 04/20/20   Page 23 of 59
+[PAGE 83]
+ 
+SECOND AMENDED COMPLAINT - 24 
+No. 2:19-cv-01745-JLR 
+ SAVITT BRUCE & WILLEY LLP 
+1425 Fourth Avenue Suite 800 
+Seattle, Washington  98101-2272 
+(206) 749-0500 
+ 
+1 
+2 
+3 
+4 
+5 
+6 
+7 
+8 
+9 
+10 
+11 
+12 
+13 
+14 
+15 
+16 
+17 
+18 
+19 
+20 
+21 
+22 
+23 
+24 
+25 
+26 
+27 
+produced for the purpose of circumventing Philips’ access controls that protect and control 
+access to Philips software.  
+91. Upon information and belief, in order to carry out Summit’s unlawful 
+circumvention of Philips’ access controls, Summit makes use of tools which have no use but to 
+circumvent access controls. 
+92. Summit has intentionally and/or knowingly manufactured, offered to the 
+public, or otherwise trafficked in technologies, products, services, devices, components, or 
+parts thereof, that are primarily designed or produced for the purpose of circumventing 
+protection afforded by Philips’ access controls and/or which have limited commercially 
+significant purpose other than to circumvent Philips’ access controls in violation of the DMCA, 
+17 U.S.C. § 1201(a)(2). Upon information and belief obtained from publicly available sources, 
+Nguyen is a principal owner, Governor, Chief Executive Officer (CEO), and Chief Technology 
+Officer (CTO) of Summit.  
+93. In his role, Nguyen oversees and has the right and ability to supervise 
+Summit’s actions addressed in this complaint, including Summit’s use of the Adepto hacking 
+tool, and upon information and belief one or more other hacking tools, in order to circumvent 
+Philips access controls that are technological measures that effectively control access to works 
+protected under Title 17, including Philips proprietary software and logs on at least Philips 
+medical imaging systems, including Philips Ultrasound Systems.  
+94. Nguyen publicly, personally, promotes use of Summit’s hacking tools in 
+Summit’s marketing material.  
+95. Nguyen personally controls and oversees the process of selecting to whom 
+Summit employees distribute the Adepto hacking tool. 
+Case 2:19-cv-01745-JLR   Document 36   Filed 04/20/20   Page 24 of 59
+[PAGE 84]
+ 
+SECOND AMENDED COMPLAINT - 25 
+No. 2:19-cv-01745-JLR 
+ SAVITT BRUCE & WILLEY LLP 
+1425 Fourth Avenue Suite 800 
+Seattle, Washington  98101-2272 
+(206) 749-0500 
+ 
+1 
+2 
+3 
+4 
+5 
+6 
+7 
+8 
+9 
+10 
+11 
+12 
+13 
+14 
+15 
+16 
+17 
+18 
+19 
+20 
+21 
+22 
+23 
+24 
+25 
+26 
+27 
+96. Upon information and belief, Nguyen personally advertises its Adepto 
+hacking tool as available for distribution to Summit’s customers, but Summit only distributes 
+its Adepto hacking tool to contracted customers after such customers have been personally 
+interviewed by Nguyen himself. 
+97. Upon information and belief obtained from publicly available sources, 
+Nguyen designed and created Summit’s Adepto hacking tool and participated in or directed its 
+development.  
+98. As a principal owner, Governor, CEO and CTO, Nguyen has, has had, and 
+continues to have an obvious and direct financial interest in Summit’s circumvention 
+technology.  
+99. Nguyen has, has had, and continues to have the right and ability to supervise 
+the work of Summit’s employees. 
+100. Because Nguyen had the right and ability to supervise the circumvention 
+actions of Summit, and because Nguyen benefitted financially from Summit’s circumvention 
+actions, Nguyen is vicariously liable for Summit’s violations of 17 U.S.C. §§ 1201 and 1202 as 
+set forth in this Complaint. 
+101. In addition, or in the alternative, as an officer of Summit who personally 
+participated in the Summit’s tortious activities, Nguyen is liable for Summit’s torts.  
+102. Specifically, as both the CEO and CTO, Nguyen oversaw and directly 
+participated in Summit’s acts of circumvention of access controls to gain access to copyrighted 
+material that includes Philips’ trade secrets. 
+103. Nguyen was aware of, participated in the use of, created and/or directly 
+developed, Summit’s Adepto hacking tool, and oversees, directs, participates, promotes, and 
+Case 2:19-cv-01745-JLR   Document 36   Filed 04/20/20   Page 25 of 59
+[PAGE 85]
+ 
+SECOND AMENDED COMPLAINT - 26 
+No. 2:19-cv-01745-JLR 
+ SAVITT BRUCE & WILLEY LLP 
+1425 Fourth Avenue Suite 800 
+Seattle, Washington  98101-2272 
+(206) 749-0500 
+ 
+1 
+2 
+3 
+4 
+5 
+6 
+7 
+8 
+9 
+10 
+11 
+12 
+13 
+14 
+15 
+16 
+17 
+18 
+19 
+20 
+21 
+22 
+23 
+24 
+25 
+26 
+27 
+participates in the use and distribution of Summit’s Adepto hacking tool in order to allow 
+Summit to circumvent Philips’ technological measures protecting Philips copyright and thereby 
+enable unlicensed software within Philips Ultrasound Systems and access and create copies of 
+Philips copyright protected log files, and in order to allow Summit’s customers to do the same. 
+104. Nguyen has also personally trained Summit’s employees and Summit’s 
+customers in how to make use of the Adepto hacking tool in order to disable or otherwise 
+circumvent Philips access controls and create copies of Philips copyrighted software and log 
+files. 
+105. Philips has been and will continue to be damaged by the conduct of Summit 
+and Nguyen conduct in an amount not presently known with certainty, but that will be proven 
+at trial. 
+106. Philips is entitled to the range of relief provided by 17 U.S.C. § 1203, 
+including but not limited to, injunctive relief, compensatory damages or statutory damages, and 
+Philips’ costs and attorneys’ fees in amounts to be proven at trial. Defendants’ conduct has also 
+caused irreparable and incalculable harm and injuries to Philips, and, unless enjoined, will 
+cause further irreparable and incalculable injury, for which Philips has no adequate remedy at 
+law. 
+SECOND CAUSE OF ACTION 
+Modifying Copyright Management Information – 17 U.S.C. § 1202 
+(All Plaintiffs Against All Defendants) 
+107. Philips restates and re-alleges all of the allegations of all the paragraphs in 
+this complaint as though fully set forth herein this Second Cause of Action. 
+108. Philips proprietary software is protected by copyright laws, and Philips owns 
+Case 2:19-cv-01745-JLR   Document 36   Filed 04/20/20   Page 26 of 59
+
+[PAGE 86]
+EXHIBIT 15 
+[PAGE 87]
+
+[PAGE 88]
+
+[PAGE 89]
+
+[PAGE 90]
+
+[PAGE 91]
+EXHIBIT 16 
+[PAGE 92]
+
+[PAGE 93]
+
+[PAGE 94]
+
+[PAGE 95]
+
+[PAGE 96]
+
+[PAGE 97]
+EXHIBIT 17 
+[PAGE 98]
+
+[PAGE 99]
+
+[PAGE 100]
+EXHIBIT 18 
+[PAGE 101]
+Medical Equipment Maintenance Market
+marketsandmarkets.com
+/Market-Reports/medical-equipment-maintenance-market-69695102.html
+[202 Pages Report] MarketsandMarkets forecasts the medical equipment maintenance
+market to grow from USD 28.97 billion in 2018 to USD 47.49 billion by 2023, at a
+Compound Annual Growth Rate (CAGR) of 10.4% during the forecast period. The major
+factors that are expected to be driving the medical equipment repair market are rising focus
+on preventive medical equipment maintenance, growth in associated equipment markets,
+adoption of innovative funding mechanisms, and the increasing purchase of refurbished
+medical equipment. The objective of the report is to define, describe, and forecast the
+medical equipment repair market size based on device type (imaging equipment,
+Electromedical Equipment, Endoscopic Devices, Surgical Instruments, and Other Medical
+Equipment), service type, service provider, end user, and region.
+By device type, the imaging equipment segment to witness the highest
+growth during the forecast period (2018–2023).
+Based on device type, the medical equipment repair market is further segmented into
+imaging equipment, endoscopic devices, surgical instruments, electromedical equipment,
+and other medical equipment. The imaging equipment segment is expected to grow at the
+1/8
+[PAGE 102]
+highest CAGR during the forecast period. The high growth of this market segment is
+attributed to the high demand for maintenance services for imaging equipment, due to
+high replacement costs and the need for ensuring maximum equipment uptime.
+By service provider, the original equipment manufacturers (OEMs)
+segment to dominate during the forecast period>
+The original equipment manufacturers (OEMs) segment is expected to dominate the
+market. The large share of the OEMs segment can primarily be attributed to the wide
+geographic presence and strong technical expertise of OEMs.
+North America to account for the largest market size during the forecast
+period.
+North America is expected to hold the largest market size in medical equipment repair
+market during the forecast period, followed by the European region. Factors such as the
+growing aging population and rising incidence of lifestyle-related diseases, access to quality
+healthcare, well-established healthcare infrastructure, high adoption of advanced
+technology, and the presence of prominent players are driving the North American medical
+devices industry in this region. This will significantly boost the growth of the market for
+associated maintenance services in the region. Additionally, the availability of funding to
+purchase advanced medical technologies—through investments and similar initiatives—for
+hospitals and healthcare providers is also expected to aid market growth.
+Asia is the third-largest market for medical equipment repair market and is slated to
+register the highest CAGR of during the forecast period. Factors contributing to this growth
+include increasing patient population, rising awareness on the benefits of early disease
+2/8
+[PAGE 103]
+diagnosis, increasing public and private funding for the development of healthcare
+facilities, government initiatives for the modernization of healthcare infrastructure &
+provision of quality care, and the growing medical tourism in Asian countries.
+Market Dynamics
+Driver: Rising focus on preventive medical equipment maintenance
+The focus on preventive maintenance of medical equipment has grown in recent years, as
+healthcare institutions seek to enhance patient safety and care quality. This involves a
+carefully designed program where maintenance tasks are performed in a scheduled
+manner to avoid larger and costly repairs down the line. It also helps in reducing
+equipment downtime, which enhances day-to-day operations and improves device
+reliability.
+The preventive maintenance approach is gaining prominence as planned inspections and
+medical device maintenance help avoid adverse incidents and medical device-related
+accidents. Regular maintenance services ensure safe, efficient, and long-lasting use of
+medical devices. The growing focus on implementing preventive maintenance strategies
+among healthcare organizations is expected to offer growth opportunities for service
+providers in the coming years.
+Restraint: High initial cost and significant maintenance expenditure
+Maintenance programs for medical devices enable healthcare providers to track and
+monitor their condition, and thereby ensure efficient utilization and maximum uptime.
+This is also essential, given the current focus on preventive maintenance and cost
+pressures, to control total expenditure against a background of austerity measures. Such
+programs include the deployment of asset management solutions which use advanced
+technologies.
+However, the deployment of these solutions incurs high initial installation costs and
+significant maintenance expenditure, while the installation of advanced medical equipment
+incurs a service contract cost (~12% of the cost of medical equipment) to be paid per year.
+The service cost thus paid during the lifespan of the equipment is usually more than the
+cost of the equipment. The high cost associated with the purchase and maintenance of
+advanced medical equipment is restraining end users from adopting them. This stifles the
+demand for associated maintenance services and thereby restrains market growth.
+Opportunity: Emergence of ISOs
+3/8
+[PAGE 104]
+The medical equipment maintenance and services sector was initially dominated by OEMs.
+However, OEMs typically charge more than third-party vendors, and often take longer for
+maintenance, resulting in higher associated costs as well as downtime. This situation,
+especially given the backdrop of continuing austerity measures and the need for cost-
+curtailment in global healthcare systems, has led to the emergence of ISOs dedicated to
+solely providing maintenance services.
+With a strong team of experts, these organizations can cater to customers in situations
+where OEMs fail to offer satisfactory and time-efficient solutions. Moreover, ISOs offer
+services for multiple brands of medical devices, providing end users with a central,
+independent management platform for uniform service delivery across all asset groups,
+while reducing maintenance costs. This also helps reduce operating expenses and capital
+spending. According to hospitals and patient advocacy groups, ISOs typically charge 30–
+50% less than OEMs for maintaining and repairing equipment. Competition among third-
+party service companies and insurance brokers has also driven down response times and
+the cost of services. Additionally, ISO contracts have become highly flexible, with
+negotiable or varied stipulations for parameters, such as response times and spare part
+costs (for example, whether they are included in a fixed price or charged separately).
+Considering their advantages as compared to OEMs, the preference for ISOs has increased
+among end users. The opportunities presented in the ISOs market is expected to draw a
+number of companies in this sector in the coming years.
+Challenge: Interoperability Issues Survival of players in a highly
+fragmented and competitive market
+The medical equipment maintenance market is highly fragmented and competitive and
+comprises a broad range of players, including multinational companies and small local
+players. With a number of service providers offering similar services, the cost is a major
+factor that influences end users selecting a vendor. However, it is usually a challenge for
+service providers to offer the best-in-class services to customers at a lower cost. Also, the
+emergence of ISOs is increasing the pressure on OEMs to reduce the price of their service
+contracts. In this situation, it becomes difficult for players to remain competitive in the
+market; as a result, a number of larger companies look for consolidation. However, smaller
+companies do not have the same option, which affects their long-term survival in the
+medical equipment maintenance market.
+Scope of the Report
+Report
+Metric
+Details
+4/8
+[PAGE 105]
+Market size
+available for
+years
+2017–2023
+Base year
+considered
+2017
+Forecast
+period
+2018–2023
+Forecast
+units
+Billion (USD)
+Segments
+covered
+Device Type (Imaging Equipment, Electromedical Equipment,
+Endoscopic Devices, Surgical Instruments, and Other Medical
+Equipment), Service Type (Preventive Maintenance, Corrective
+Maintenance, Operational Maintenance), Service Provider (Original
+Equipment Manufacturers, Independent Service Organizations, and In-
+House Maintenance), End User (Public Organizations, and Private
+Organizations), and Region
+Geographies
+covered
+North America, Europe, Asia, and Rest of the World
+Companies
+covered
+GE Healthcare
+ (US), 
+Koninklijke Philips N.V
+. (Netherlands), 
+Siemens
+Healthineers
+ (Germany), 
+Toshiba Medical Systems Europe
+ (Germany),
+and 
+Drägerwerk AG & Co. KGaA
+ (Germany), 
+Aramark
+ (US), 
+BC
+Technical, Inc.
+ (US), 
+Alliance Medical Group
+ (UK), and 
+Althea Group
+(Italy).
+The research report categorizes the medical equipment repair market to forecast the
+revenues and analyze the trends in each of the following sub-segments:
+5/8
+[PAGE 106]
+Imaging Equipment
+Advanced Modalities
+CT
+MRI
+Other Advanced Medical Imaging Modalities (PET-CT, SPECT-CT, PET,
+Gamma Cameras, and Angiography Systems)
+Primary Modalities
+Digital X-ray
+Ultrasound
+Others Primary Medical Imaging Modalities (General X-ray Systems,
+Mammography Systems, and Bone Densitometers)
+Endoscopic Devices
+Surgical Instruments
+Electromedical Equipment
+Other Medical Equipment
+On the basis of Service Type, the medical equipment maintenance market
+has been segmented as follows:
+Preventive Maintenance
+Corrective Maintenance
+Operational Maintenance
+On the basis of Service Provider, the medical equipment maintenance
+market has been segmented as follows:
+6/8
+[PAGE 107]
+Original Equipment Manufacturers (OEMs)
+Multi-vendor OEMs
+Single-vendor OEMs
+Independent Service Organizations (ISOs)
+In-house Maintenance
+On the basis of End User, the medical equipment maintenance market has
+been segmented as follows:
+Public-sector Organizations
+Private-sector Organizations
+On the basis of Region, the medical equipment maintenance market has
+been segmented as follows:
+North America
+Europe
+Asia
+RoW
+Key Market Players
+The global medical equipment maintenance market is highly competitive with the presence
+of both OEMs and ISOs. GE Healthcare (US), Koninklijke Philips N.V. (Netherlands),
+Siemens Healthineers (Germany), Toshiba Medical Systems Europe (Germany), and
+Drägerwerk AG & Co. KGaA (Germany) are some of the leading OEMs in this market.
+Aramark (US), BC Technical, Inc. (US), Alliance Medical Group (UK), and Althea Group
+(Italy) are some of the leading ISOs operating in the global medical equipment
+maintenance market.
+Siemens Healthineers (Germany) held the second-largest market share in 2017, due to its
+trend-setting role in the medical imaging, laboratory diagnostics, medical information
+technology, and hearing aid sectors. The company focuses on putting maximum efforts
+into its selected growth fields and prioritizes business for resource allocation. Siemens
+Healthineers also focuses on strengthening its business through partnerships and
+agreements.
+Recent Developments
+In 2018, Koninklijke Philips N.V. (Netherlands) signed a partnership agreement with
+Kliniken der Stadt Köln (Germany) to provide continuous modernization and
+maintenance of imaging systems
+7/8
+[PAGE 108]
+In 2018, Koninklijke Philips N.V. (Netherlands) signed a partnership agreement with
+Städtische Klinikum München (Germany) to provide medical imaging solutions
+which include healthcare consultancy services
+In 2016, Biomedical Srl sugned an agreement with ASST Orobica (Spain) for
+provision of integrated services for the management and maintenance of healthcare
+devices and equipment
+Critical questions the report answers:
+Where will all these developments take the industry in the long term?
+What are the upcoming trends for the medical equipment repair market?
+Which segment provides the most opportunity for growth?
+Who are the leading vendors operating in this market?
+What are the opportunities for new market entrants?
+Available customizations
+With the given market data, MarketsandMarkets offers customizations as per the
+company’s specific needs. The following customization options are available for the report:
+To speak to our analyst for a discussion on the above findings, click 
+Speak to Analyst
+8/8

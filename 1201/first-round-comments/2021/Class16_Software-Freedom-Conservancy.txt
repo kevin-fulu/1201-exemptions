@@ -1,0 +1,409 @@
+[PAGE 1]
+[   ] Check here if multimedia evidence is being provided in connection with this comment
+ITEM A.  COMMENTER INFORMATION 
+The Petition submitter is Software Freedom Conservancy (“Conservancy”), a 501(c)(3) not-for-
+profit organization that helps promote, improve, develop, and defend Free and Open Source 
+Software (“FOSS”) – software developed by volunteer communities and licensed for the benefit 
+of everyone. Conservancy is the nonprofit home for dozens of FOSS projects representing 
+approximately five thousand volunteer contributors. Conservancy's communities maintain some 
+of the most fundamental utilities in computing today, and introduce innovations that will shape 
+how software will be created in the future.
+Among the projects that are a part of Conservancy and for which it provides logistical, 
+administrative, and legal support are BusyBox, Samba, OpenWrt and the GPL Compliance 
+Project for Linux Developers. BusyBox is software that provides a number of key system 
+utilities that enable “smart” or (what can more accurately be called) computer-embedded 
+consumer electronics devices to perform their function. Samba is software that facilitates 
+communication between different file systems, such as between a Windows operating system 
+and a Unix operating system. OpenWrt is wireless router software. Linux, like Windows and 
+macOS, is a computer operating system upon which user applications run. These programs of 
+Conservancy’s focus and interest in particular are ones affected by the absence of the requested 
+exemption. Other non-profit organizations, companies, and individual copyright holders in FOSS
+are similarly impacted regarding the matter of this exemption. 
+Conservancy may be contacted through its authorized representative:
+Karen Sandler, Executive Director
+Software Freedom Conservancy, Inc.
+137 Montague St. Ste, 380
+Brooklyn, NY 11201-3548
+dmca-exemption@sfconservancy.org
+212-461-3245
+
+[PAGE 2]
+ITEM B.  PROPOSED CLASS ADDRESSED
+Class 16: Computer Programs—Copyright License Investigation:
+To permit circumvention of TPMs protecting computer programs for purposes of (a) 
+investigating potential copyright infringement of the computer programs; and (b) 
+making lawful use of computer programs (e.g., copying, modifying, redistributing, 
+and updating free and open source software (FOSS)).1
+ITEM C.  OVERVIEW
+Conservancy’s member software projects all license their software under FOSS licenses. For a 
+license to be considered “free” or “open source,”2 the license must allow software to be freely 
+used, modified and shared.3 Software under FOSS licenses is available without a licensing fee or 
+royalty obligation; anyone can use FOSS (both commercially and non-commercially) subject 
+only to their compliance with the conditions of the license. Some licenses use the word “public” 
+in their title, for example the “Apple Public Source License,” the “Eclipse Public License,” the 
+“European Union Public License,” the “GNU General Public License” and the “Mozilla Public 
+License,”4 to signal that the software is licensed for use by anyone, known and unknown.
+FOSS licenses are commonly characterized as two general types: “non-copyleft” licenses 
+(sometimes called “permissive” or “lax”) and “copyleft” licenses. Non-copyleft licenses have 
+modest conditions for compliance, most often consisting only of the duty to provide a copy of 
+the copyright notice or author attribution and a copy of the FOSS license within the software or 
+its documentation.5 Virtually all FOSS licenses (copyleft or not), include a duty to provide this 
+information. The copyleft variety of licenses includes further requirements designed to expand 
+the FOSS commons and assure rights to the public. Specifically, copyleft licenses impose a duty 
+on those modifying the software to license some or all of their derivative works under the same 
+license and to provide a copy of the source code for the software.6 This provides an important 
+1 Exemptions to Permit Circumvention of Access Controls on Copyrighted Works, 85 Fed. Reg. 65293, 65308 
+(Oct. 15, 2020).2 The two terms represent a philosophical difference, but they both can be understood as ensuring the grant of li-
+censes that allow the use, modification and distribution of software with a limited set of conditions on the grant.3 Open Source Initiative, Licenses and Standards, https://opensource.org/licenses (last visited Dec. 4, 2020).4 Open Source Initiative, Licenses by Name, https://opensource.org/licenses/alphabetical (last visited Dec. 5, 
+2020).5 See for example the MIT License, which grants permission to “use, copy, modify, merge, publish, distribute, 
+sublicense and/or sell copies” of the licensed software subject to the condition that the user include the copy-
+right notice and a copy of the license. Open Source Initiative, The MIT License, https://opensource.org/licenses/
+MIT (last visited Dec. 4, 2020).6 The most widely used licenses of this type are the GNU General Public License, or “GPL,” family of licenses. 
+One of the licenses imposes the copyleft requirement thusly, “You may convey … the modifications ... in the 
+form of source code under the terms of section 4, provided that you also meet all of these conditions: … (c) You
+must license the entire work, as a whole, under this License to anyone who comes into possession of a copy.” 
+GNU General Public License Version 3, https://www.gnu.org/licenses/gpl-3.0.en.html (2007). Another common
+copyleft license, the Mozilla Public License Version 2, creates the obligation this way: “All distribution of Cov-
+ered Software in Source Code Form, including any Modifications that You create or to which You contribute, 
+must be under the terms of this License.” Mozilla Public License Version 2.0, https://www.mozilla.org/en-US/
+MPL/2.0/ (2012). The related obligation to provide a copy of the source code is in Section 3 of the GNU Gen-
+2
+[PAGE 3]
+opportunity for users of devices with copylefted code to better control their own equipment – an 
+ideological goal of the software freedom movement more relevant than ever as devices surveil 
+and otherwise exploit their users. 
+FOSS is also big business. Firms leverage the mix of contributions, coming from hobbyists and 
+corporate contributors alike, to create excellent products cheaply. One survey reports that nearly 
+99% of codebases audited in 2019 contained open source software with an average of 445 FOSS 
+components per code base.7 An analysis of GitHub repositories8 revealed that some of the most 
+active FOSS contributors were using Microsoft, Google, IBM, and Intel employee email 
+addresses.9 “FOSS … has now become an integral component of the modern economy and a 
+fundamental building block of everyday technologies like smart phones, cars, the Internet of 
+Things, and numerous pieces of critical infrastructure.”10 Whether it is a website,11 a personal 
+computer,12 or a thermostat,13 FOSS is there.
+Computer software may be unique among all copyrighted works for the reason that one often 
+cannot detect copying simply by observation.14 For example, a “smart” doorbell will contain an 
+operating system, software to operate the camera, software to operate the microphone, codecs to 
+convert the images and sounds to a specific file format, software for wireless connectivity, and 
+software that conveys information back and forth between the doorbell and the laptop computer 
+or mobile device through which the user controls the doorbell’s functions. All of the software on 
+the doorbell itself and much of the software running the laptop or mobile device is invisible to 
+the user; one cannot know what particular camera program, operating system or networking 
+system is on the doorbell through mere observation. 
+One of the activities Conservancy does on behalf of some of its member projects is to investigate
+whether third parties are using the project software but failing to comply with the license terms. 
+This activity is a public benefit, as it assures all consumers receive rights guaranteed by copyleft 
+licenses. Typically, Conservancy receives reports from concerned consumers who report their 
+eral Public License Version 3 and in Section 3.2 of the Mozilla Public License Version 2.7 Synopsys, 2020 Open Source Security and Risk Analysis Report 7 (2020), https://www.synopsys.com/software-
+integrity/resources/analyst-reports/2020-open-source-security-risk-analysis.html. 8 GitHub is a platform for the collaborative development of software, much of it available under FOSS licenses. 
+GitHub, The Largest Open Source Community In the World, https://github.com/open-source (last visited Dec. 5,
+2020).9 Frank Nagle, Jessica Wilkerson, James Dana & Jennifer Hoffman, Vulnerabilities in the Core 25 (2020), https://
+www.coreinfrastructure.org/programs/census-program-ii/. 10 Harvard Business School, The Linux Foundation and Harvard’s Lab for Innovation Science Release Census for 
+Open Source Software Security, https://www.hbs.edu/news/releases/Pages/census-open-source-software-
+security.aspx (Feb. 18, 2020).11 Solarwinds, 75% of Top 10K Websites Served by Open Source Software, (May 22, 2012) 
+https://www.pingdom.com/blog/75-percent-top-10k-websites-served-by-open-source-software/.12 Lenovo, Lenovo Open Source, https://pcsupport.lenovo.com/us/en/solutions/ht511330-lenovo-open-source-
+portal (last visited Dec. 7, 2020).13 Dan Seifert, Nest Releases Open-source Version of Its Networking Protocol, The Verge (May 11, 2016) https://
+www.theverge.com/circuitbreaker/2016/5/11/11652106/nest-open-source-thread-protocol. 14 Computer programs … are typically distributed for public use in object code form, embedded in a silicon 
+chip or on a floppy disk. For that reason, humans often cannot gain access to the unprotected ideas and 
+functional concepts contained in object code without disassembling that code—i.e., making copies.
+Sega Enters. Ltd. v. Accolade, Inc., 977 F.2d 1510, 1525 (9th Cir. 1992), as amended (Jan. 6, 1993).
+3
+[PAGE 4]
+suspicion that a device contains FOSS but that the terms of the license have not been met. The 
+infringement of FOSS through license non-compliance15 is so pervasive that Conservancy can 
+only pursue approximately 50% of the suspected infringements reported to it. 
+When Conservancy receives a report that a member project’s copyright might be infringed as the
+result of license non-compliance,16 it investigates the device’s software (whether the device is a 
+mobile computing device, entertainment device like a television or game player, a special 
+purpose “Internet of Things” computing device, or other computer) for indications that the 
+device contains one of its projects’ software and that there is an absence of license compliance, 
+particularly that a copyright notice and license are absent, or (for copyleft software) that there is 
+no information about how one can obtain a copy of the source code. 
+By observing the attributes and behavior of the device or the software, or reviewing its 
+advertising or its documentation, Conservancy can make an educated guess about whether there 
+may be a particular FOSS program included on the device or in the program. However,  
+confirming its use usually requires circumvention of technological protection measures. There 
+are currently no statutory or regulatory exceptions that allow circumvention of TPMs for this 
+purpose. Thus, a copyright owner must break the law to learn whether they are being denied their
+lawful right of exclusivity under the Copyright Act. 
+If Conservancy elects to pursue the matter, it contacts the entity that is out of compliance to 
+assist it with remediation of the infringement by providing education and information about how 
+to meet the requirements of the license. As stated in its Principles of Community-Oriented GPL 
+Enforcement,17 the primary goal of the engagement is to bring about compliance. Legal action is 
+a last resort, but it is sometimes a necessary resort.
+Where the accused software includes software under a copyleft license, the remediation may 
+include convincing the infringer to comply with the copyleft terms of the license by releasing its 
+derivative work under the copyleft license. In these cases, Conservancy then makes this new 
+software publicly available for others to use and improve. For example, copyright owners of the 
+software project BusyBox (including Conservancy) filed lawsuits in 2007 through 200918 against
+15 See Sun Microsystems, Inc. v. Microsoft Corp., 188 F.3d 1115, 1121 (9th Cir. 1999) (stating that, where a li-
+censee acts outside the scope of the license, there is an action for copyright infringement); Universal Instru-
+ments Corp. v. Micro Sys. Eng'g, Inc., 924 F.3d 32, 40 (2d Cir. 2019) Jacobsen v. Katzer, 535 F.3d 1373, 1380 
+(Fed. Cir. 2008); ITOFCA, Inc. v. MegaTrans Logistics, Inc., 322 F.3d 928, 940 (7th Cir. 2003); Stenograph 
+L.L.C. v. Bossard Assocs., Inc., 144 F.3d 96, 99 (D.C. Cir. 1998); MacLean Assocs., Inc. v. Wm. M. Mercer-
+Meidinger-Hansen, Inc., 952 F.2d 769, 779 (3d Cir. 1991).16 Conservancy avoids disclosing with any specificity the indications that a device is using FOSS in order to pre-
+serve the confidentiality of its investigative methodology. Historically, infringers, upon learning of the method-
+ologies, implemented countermeasures to thwart Conservancy’s investigation efforts.17 https://sfconservancy.org/copyleft-compliance/principles.html   (last visited Dec. 5, 2020).18 Complaint, Andersen v. Monsoon Multimedia, Inc., No. 07-CV-8205 (S.D.N.Y. Sep. 19, 2007); Complaint, An-
+dersen v. Xterasys Corp., No. 07-CV-10455 (S.D.N.Y. Nov. 19, 2007); Complaint, Andersen v. High-Antennas,
+L.L.C., No. 07-CV-10456 (S.D.N.Y. Nov. 19, 2007); Complaint, Andersen v. Verizon Communications, Inc., 
+No. 07-CV-11070 (S.D.N.Y. Dec. 6, 2007); Complaint, Andersen v. SuperMicro Computer, Inc., No. 08-CV-
+5269 (S.D.N.Y. June 9, 2008); Complaint, Andersen v. Bell Microproducts, Inc., No. 08-CV-5270 (S.D.N.Y. 
+June 9, 2008); Complaint, Software Freedom Conservancy, Inc. v. Best Buy Co., Inc., No. 09-CV-10155 
+(S.D.N.Y. Dec. 14, 2009).
+4
+[PAGE 5]
+companies distributing FOSS on wireless routers and televisions without complying with the 
+GPL license terms. Various license enforcement actions, including lawsuits against Cisco (who 
+at the time owned Linksys) and Verizon, produced and aided in the improvement of software that
+is the foundation of what is now a robust, full-featured FOSS system for wireless routers called 
+OpenWrt, used by commercial companies and individuals alike. A lawsuit against Samsung for 
+televisions produced software that became the SamyGo software project, which can be used as 
+replacement firmware on certain models of Samsung televisions.
+Software is no longer just the purview of companies with business models based primarily on the
+exploitation of copyright, but is offered by banks,19 appliance manufacturers20 and even 
+toothbrushes21 as a component of their primary product or service offering. Conservancy has 
+received credible reports that the following types of devices contain FOSS but that the license 
+requirements have not been met: 
+Servers
+Laptop and desktop computers
+Remote computing environments/cloud virtual machines22
+Network attached storage (NAS) devices
+Tablet computers
+Android phones
+Routers/switches/access points
+Modems
+Speakers and other audiovisual equipment
+Television sets
+Set-top boxes
+DVRs
+Gaming consoles
+VoIP phones/analog telephone adapters
+Video calling appliances
+IP cameras
+Cars
+Aerial drones
+Industrial automation machines/computer numerical control (CNC) routers
+Thermostats
+19 Wells Fargo, Wells Fargo App for Apple and Android Devices, https://www.wellsfargo.com/mobile/apps/ (last 
+visited Dec. 10, 2020).20 GE Appliances, Refrigerator – Software / Firmware Updates, https://products.geappliances.com/appliance/gea-
+support-search-content?contentId=36354 (last visited Dec. 10, 2020).21 S&P Global Market Intelligence, Colgate-Palmolive to Unveil App-enabled Toothbrush with AI, (Jan. 8, 2018), 
+https  ://www.spglobal.com/marketintelligence/en/news-insights/trending/el4ig0fild2u4fdcyi_ptg2   (stating that 
+FOSS is used for the toothbrush).22 A “virtual machine” is a software emulation of a computer system, providing the functionality of a physical 
+computer. Wikipedia, Virtual Machine, https://en.wikipedia.org/wiki/Virtual_machine (last visited Dec. 19, 
+2020).
+5
+[PAGE 6]
+Dashcams
+Alarm systems
+Doorbells
+Watches
+The Office asked Conservancy to “narrow or clarify the specific uses of computer programs that 
+the proposed exemption seeks to permit.”23 As demonstrated above, software is everywhere, both
+programs used on traditional computers – server, desktop, laptop and mobile – and on an 
+increasing kind and number of the devices that are part of our everyday lives. Conservancy is 
+impaired in its ability to investigate all of these uses because of TPMs. The exemption is 
+therefore sought for any device that is capable of running a software program, because these 
+devices are all likely to be using FOSS.24
+The Office further commented about the request for the exemption that “[I]t is somewhat unclear
+whether the requested exemption for ‘lawful use of computer programs’ would apply to any 
+lawful use or seeks merely to allow licensed uses of FOSS software.”25 Conservancy seeks 
+approval of this request for its own work investigating breach of FOSS licenses and its use of 
+FOSS in compliance with its license. However, the rationale that justifies this exception for 
+FOSS is equally applicable to all software. A copyright owner-licensor should not have to break 
+the law to determine whether their copyright is being infringed.
+ITEM D.  TECHNOLOGICAL PROTECTION MEASURE(S) AND METHOD(S) OF CIRCUMVENTION
+With the growth of mobile computing, “smart” electronics and the “Internet of Things,” 
+Conservancy is frequently investigating special-purpose devices driven by software. In these 
+cases, Conservancy can sometimes access the software through a hardware connection with the 
+device or it may be able to obtain a copy by intercepting the upgrade process. Alternatively, a 
+device manufacturer may provide a binary file on their website for the software. For example, 
+device manufacturers often make updated software publicly available, such as updated firmware 
+for a television. 
+Conservancy also investigates software applications that are intended for use on a general 
+purpose computer, server, mobile device, or virtual machine. These software programs are 
+available by download, whether through a mobile device app store or directly from a company’s 
+website or reseller site. 
+However, regardless of the source of the software or the device upon which it is ultimately 
+installed, the software package is likely to have mechanisms that prevent access to the work. 
+These barrier can take many forms. In the easiest of cases, the software package is encrypted or 
+obfuscated by simply using a keyword or other password (often a guessable one, such as the 
+23 Exemptions to Permit Circumvention of Access Controls on Copyrighted Works, 85 Fed. Reg. 65293, 65308 
+(Oct. 15, 2020).24 See also text accompanying note 11 stating that FOSS is the building block of technologies like smart phones, 
+cars, the Internet of Things, and numerous pieces of critical infrastructure.25 Exemptions to Permit Circumvention of Access Controls on Copyrighted Works, 85 Fed. Reg. 65293, 65308 
+(Oct. 15, 2020).
+6
+[PAGE 7]
+name of the firm itself), to obfuscate the firmware. In the most difficult case, the accused 
+software will have end-to-end encryption tied to firmware. In these cases, the firmware uses a 
+TPM to verify that the software contains the digital signature of the manufacturer, and a device 
+will not boot unless the encrypted software is verified to be controlled by the manufacturer. In 
+those cases, Conservancy must sacrifice the motherboard of the device, taking it apart and 
+connecting to it with specialized electronics hardware, to either extract a soft copy of the 
+firmware or view boot messages that may indicate the presence of FOSS components.
+A “technological [protection] measure” is defined as a measure that “effectively controls access 
+to a work if the measure, in the ordinary course of its operation, requires the application of 
+information, or a process or a treatment, with the authority of the copyright owner, to gain access
+to the work.”26 One “circumvents” a technological protection measure by descrambling, 
+decrypting, or “otherwise avoid[ing], bypass[ing], remov[ing], deactivat[ing] or impair[ing]” the 
+technological protection measure.27 The steps taken by Conservancy, whether entering an easily 
+guessable password (a technological measure in the form of information) or tearing a device 
+apart in order to connect it to specialized hardware, are steps taken to “avoid” or “bypass” the 
+technological measures and therefore could be susceptible to an interpretation that they are 
+unlawful under Section 1201(a)(1).
+ITEM E.  ASSERTED ADVERSE EFFECTS ON NONINFRINGING USES 
+The requester offers the following information for the Copyright Office’s use in assessing the 
+merits of the requested exemption. To begin, the Office should first appreciate this is an unusual 
+situation where there are almost always at least two copyrighted works involved – the infringed 
+FOSS work and the accused work, with the accused work protected by a TPM. An example of 
+the former is an operating system, such as Linux (available under the GNU General Public 
+License, version 2), and an example of the latter is the compilation of several software programs 
+that function together to operate a “smart” doorbell, which would include the Linux operating 
+system upon which it is built. In weighing the policy interest in protecting the accused work from
+harm through circumvention of TPMs, the Office should also consider the equal and 
+countervailing interests of the owner of the copyright in the infringed FOSS work, which should 
+be on an equal par with those of the accused work.
+1. Whether the proposed class includes at least some works protected by copyright.
+The subject matter of the proposed class is computer programs, which are protected by 
+copyright.  
+2. Whether the uses at issue are noninfringing under title 17.
+The uses identified in the request for the exemption – the investigation of copyright infringement
+and the re-use of software that is under a FOSS license – are noninfringing uses in all cases. 
+One part of the exemption request is to allow “making lawful use of computer programs (e.g., 
+copying, modifying and redistributing, and updating free and open source software).” Consider 
+26 17 U.S.C. § 1201(a)(3)(B).27 17 U.S.C. § 1201(a)(3)(A).
+7
+[PAGE 8]
+the case where the only work protected by a TPM is a work under a FOSS license. 
+Circumventing the TPM in order to gain access to and use the work as permitted by its license – 
+such as fixing a bug in the software and reinstalling the repaired software on the device – would 
+be an entirely noninfringing use. 
+The other part of the exemption, investigating infringement, will often require the reverse 
+engineering of software code to ascertain whether it is using FOSS code but not meeting all the 
+conditions of the licenses, thusly an infringing use. Reverse engineering code for this purpose is 
+a fair use.28 It may also be possible to examine the software on the device without any reverse 
+engineering by mere observation, that is, simply reading the code. Simply reading the text of the 
+code on the device does not implicate any of the exclusive rights of the copyright owner and is 
+also not infringing.
+This requested exemption is therefore limited solely to non-infringing use of the TPM-protected 
+work.
+3. Whether users are adversely affected in their ability to make such noninfringing uses or, 
+alternatively, whether users are likely to be adversely affected in their ability to make 
+such noninfringing uses during the next three years. 
+The proposed exemption is supported by each of the five statutory factors in 17 U.S.C. § 1201(a)
+(1)(C)(i)-(v).
+i. The availability for use of copyrighted works;
+There are no alternatives to circumvention of TPMs for a copyright infringement investigation. 
+The investigation is whether a particular copy of the accused software is infringing the copyright 
+of a work available under a FOSS license. No other work can serve the same purpose.
+Where the access is simply to make lawful use of the FOSS protected by TPMs, there may be 
+other copies of the same software available from other sources, such as public source code 
+repositories. However, the version protected by the TPM is unique. In nearly all cases, it has 
+been modified or used in ways that are unique to that particular device, so that a publicly 
+available version (aka the “upstream version”) is not a substitute.
+ii. The availability for use of works for nonprofit archival, preservation, and 
+educational purposes;
+As described above, the FOSS components of the accused works may be unique but are not 
+publicly archived or preserved. It is Conservancy’s practice to make the works that it obtains 
+access to through its license compliance work publicly available. As discussed earlier in this 
+document, those works often become the basis of larger FOSS projects, which (through the 
+28 Atari Games Corp. v. Nintendo of Am. Inc., 975 F.2d 832, 843 (Fed. Cir. 1992) (stating that reverse engineering 
+is fair use as long as it does not exceed what is necessary to understand the unprotected elements of the work; an
+infringing use of another’s work would be an unprotected element of a work);  Bond v. Blum, 317 F.3d 385, 397
+(4th Cir. 2003), abrogated on other grounds by Kirtsaeng v. John Wiley & Sons, Inc., 136 S. Ct. 1979, 195 L. 
+Ed. 2d 368 (2016) (affirming district court holding that the defendants' use of a manuscript as evidence in a 
+state-court proceeding fell within the scope of fair use).
+8
+[PAGE 9]
+public and open nature of FOSS development) serves to educate an entire new generation of 
+developers. Indeed, OpenWrt developers who became involved in the earliest days of this project
+educated themselves through that work, and are now some of the most respected wireless device 
+router engineers in the field.29 The circumvention of TPMs therefore advances the public interest 
+by making works that are meant to be available to all accessible for purposes of archiving, 
+preservation and educational purposes.  
+iii. The impact that the prohibition on the circumvention of technological measures 
+applied to copyrighted works has on criticism, comment, news reporting, teaching, 
+scholarship, or research; 
+The prohibition on the circumvention of TPMs has a significant negative impact on criticism, 
+comment, teaching, scholarship and research. The philosophy of FOSS is that the shared, 
+collaborative development of software is a benefit to society.30 Users have the freedom and right 
+to study and learn from the software they use: “Free software means the users have the freedom 
+to run, copy, distribute, study, change and improve the software.”31 TPMs prevent others from 
+being able to learn from, comment on and criticize the accused software’s use and 
+implementation of the FOSS software. 
+iv. The effect of circumvention of technological measures on the market for or value of 
+copyrighted works; 
+With respect to the value of the FOSS work, when someone incorporates FOSS without 
+complying with the license, they have effectively removed the software from the commons. The 
+authors of FOSS do not seek direct income from their creative works – instead their reward 
+comes in the form of public recognition (including for purposes of career advancement) and in 
+contributing to, and being able to use, modify and improve a shared, publicly available commons
+of software.32 An accused infringer’s incorporation of FOSS without meeting the obligations of 
+29 As another example, Conservancy was the first organization to vet and legitimately release source code for the 
+Linux “exfat” module under the GPL after Samsung was discovered distributing infringing versions of Linux 
+with this source code. The code was released to the public at https://github.com/bkuhn/exfat and announced by 
+Conservancy at https://sfconservancy.org/news/2013/aug/16/exfat-samsung/.30 See, e.g., Committee of Best Practices for a Future Open Code Policy for NASA Space Science, Open Source 
+Software Policy Options for NASA Earth and Space Sciences 1-2 (2018) (stating that the purposes of NASA’s 
+Science Mission Directorate’s open source policies are (1) enhance and enable innovation and discovery; (2) in-
+crease the visibility, accessibility, and reuse of NASA-funded code; (3) facilitate scientific reproducibility; (4) 
+encourage collaboration inside and outside NASA; (5) maximize NASA’s benefit to society; (6) respect the se-
+curity and privacy of citizens; and (7) comply with broader government policies.).31 GNU Operating System, https://www.gnu.org/ (last visited Dec. 7 2020).32 Traditionally, copyright owners sold their copyrighted material in exchange for money. The lack of money 
+changing hands in FOSS licensing should not be presumed to mean that there is no economic consideration,
+however. There are substantial benefits, including economic benefits, to the creation and distribution of 
+copyrighted works under public licenses that range far beyond traditional license royalties. For example, 
+program creators may generate market share for their programs by providing certain components free of 
+charge. Similarly, a programmer or company may increase its national or international reputation by incu-
+bating FOSS projects. Improvement to a product can come rapidly and free of charge from an expert not 
+even known to the copyright holder. The Eleventh Circuit has recognized the economic motives inherent in 
+public licenses, even where profit is not immediate. See Planetary Motion, Inc. v. Techsplosion, Inc., 261 
+F.3d 1188, 1200 (11th Cir. 2001) (Program creator “derived value from the distribution [under a public li-
+9
+[PAGE 10]
+the license, such as providing the copyright notice, licensing its own modifications (as may be 
+required by a copyleft license), or providing a copy of the license so that other users are made 
+aware that they may also enjoy the use of the software, deprives the FOSS copyright author of all
+of the benefits of their labor. Furthermore, new FOSS contributors learn and improve in their 
+field by accessing and improving the real-world uses of the FOSS projects in the devices they 
+own. Companies are not only hiding their infringement behind § 1201, they are also impeding 
+the professional development of their next generation of employees in addition to tomorrow’s 
+experts who will further the field of computing.
+With respect to the value of the accused work, there is no negative effect on the value. The 
+circumvention for the investigation of infringement does not create any publicly available copy 
+of the accused software; all copies are solely in possession of the investigating party and not 
+made publicly available.33 Access for the lawful use of the FOSS (which may include its 
+reinstallation and redistribution) does not negatively impact the value of the accused work either:
+since the owner of the accused work is not the copyright owner of the FOSS work, they have no 
+right to claim any value that accrues from the use of the copyright in the FOSS.
+v. Such other factors as the Librarian considers appropriate.
+The absence of an exemption will have the effect of denying the copyright author the benefits 
+promised in the Constitution – “securing for limited Times to Authors and Inventors the 
+exclusive Right to their respective Writings and Discoveries.”34 Without an exemption that 
+allows for the investigation of infringement, infringers have impunity to infringe copyright 
+without any consequences simply by imposing the most trivial of technological circumvention 
+measures, such as incorporating a password string “password,” and threatening a suit under 
+Section 1201 if the copyright owner takes any steps to investigate. 
+The potential for a Section 1201-based lawsuit is not a hypothetical threat but affects how 
+Conservancy goes about its license compliance work. The ultimate outcome of an investigation 
+may be a copyright infringement lawsuit. However, Conservancy is fully aware that if it 
+circumvented TPMs to investigate the infringement claim, without an exemption it will be at risk
+of a counterclaim under Section 1201. Any counterclaim will turn what may be a simple, clear-
+cut infringement case into a legally complicated, fact-intensive suit at significantly higher cost, 
+one that a charitable non-profit or hobbyist FOSS developer can ill afford. 
+cense] because he was able to improve his Software based on suggestions sent by end-users.... It is logical 
+that as the Software improved, more end-users used his Software, thereby increasing [the programmer's] 
+recognition in his profession and the likelihood that the Software would be improved even further.”).
+Jacobsen v. Katzer, 535 F.3d 1373, 1379 (Fed. Cir. 2008); Philpot v. Music Times LLC, No. 16CV1277 (DLC) 
+(DF), 2017 WL 9538900, at *8 (S.D.N.Y. Mar. 29, 2017), report and recommendation adopted, No. 16CV1277
+(DLC), 2017 WL 1906902 (S.D.N.Y. May 9, 2017) (awarding $5,000 in statutory damages for infringement of 
+a work made available under “a ‘free’ [Creative Commons] license, paid for only with the required attribution 
+of copyright ownership.”).33 If not kept confidential, the owner of the accused work would have a claim for infringement of the copyright in 
+any non-FOSS portions of the accused work.34 U.S. Const., Art. I, § 8, cl. 8. 
+10
+[PAGE 11]
+4. Whether the statutory prohibition on circumventing access controls is the cause of the 
+adverse effects.
+The statutory prohibition on circumventing access controls is the only cause of the described 
+adverse effects. Conservancy seeks access only to works to which it is lawfully entitled and the 
+only barrier to its access are technological protection measures. 
+DOCUMENTARY EVIDENCE
+None.
+11

@@ -1,0 +1,44 @@
+[PAGE 1]
+ 
+PRIVACY ACT ADVISORY STATEMENT Required by the Privacy Act of 1974 (P.L. 93-579) 
+The authority for requesting this information is 17 U.S.C. §§ 1201(a)(1) and 705. Furnishing the requested information is voluntary. 
+The principal use of the requested information is publication on the Copyright Office website and use by Copyright Office staff for 
+purposes of the rulemaking proceeding conducted under 17 U.S.C. § 1201(a)(1). NOTE: No other advisory statement will be given 
+in connection with this submission. Please keep this statement and refer to it if we communicate with you regarding this submission. 
+Short Comment Regarding a Proposed Exemption 
+Under 17 U.S.C. 1201 
+  
+Item 1. Commenter Information  
+ 
+Kyle Moschell 
+ 
+Item 2.  Proposed Class Addressed 
+ 
+Proposed Class 17: Jailbreaking—All-Purpose Mobile Computing Devices 
+ 
+Item 3. Statement Regarding Proposed Exemption 
+ 
+I am writing in support of Proposed Class 17, extending the existing exemption allowing jailbreaking of 
+wireless telephones to other all-purpose mobile computing devices. Jailbreaking wireless telephones has 
+become a more common and widely-accepted practice due to the limitations that are continually imposed 
+on wireless telephones by their manufacturers. The restrictions included on wireless telephones may be 
+designed for ease of use or to prevent accidental changes however, for the more connected and tech-
+savvy owners, these limitations prevent using the device to its full potential and have negative 
+consequences which cannot be disabled by default. Since 2010, wireless telephone manufacturers have 
+expanded their product lines to include all-purpose mobile computing devices, such as tablets and touch-
+screen MP3 players. These devices commonly run the same Operating System as a wireless telephone 
+and have inherently the same limitations and restrictions imposed on them by their manufacturers. 
+Therefore owners of mobile computing devices feel the need to jailbreak these devices in the same 
+manner as their mobile telephones, in order to unlock the full capabilities of their device and have more 
+control over what information is being shared with others from that device.  
+ 
+It is my opinion that there are no relevant differences between “wireless telephone handset” and “all-
+purpose mobile computing device” for the purposes of considering a jailbreaking exemption. These 
+devices are becoming integrated with internet services and perform very much the same functions with 
+differences in form factor, cost, and individual performance characteristics. As stated earlier, nearly all-
+purpose computing devices run the same base software, or Operating System, as their wireless 
+telephone counterparts (i.e. Apple iPad and Apple iPhone). These devices are easily distinguished from 
+laptop or desktop computers by their size, shape, and operating system. Laptop and desktop computers 
+are much larger and more expensive, using an advanced operating system, and are designed to be 
+modified and changed by their owners. Jailbreaking in the sense of mobile devices has never been 
+necessary on laptop or desktop computers due to their open and unrestricted nature by default. 

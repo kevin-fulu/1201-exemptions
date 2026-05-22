@@ -1,0 +1,314 @@
+[PAGE 1]
+This is a Word document that allows users to type into the spaces below. The comment may be single -spaced, but 
+should be in at least 12-point type. The italicized instructions on this template may be deleted.  
+ 
+ 
+Please submit a separate comment for each proposed class. 
+NOTE: This form must be used in all three rounds of comments by all commenters not 
+submitting short-form comments directly through regulations.gov, whether the commenter is 
+supporting, opposing, or merely providing pertinent information about a proposed 
+exemption. 
+When commenting on a proposed expansion to an existing exemption, you should focus your 
+comments only on those issues relevant to the proposed expansion.  
+[   ] Check here if multimedia evidence is being provided in connection with this comment 
+Commenters can provide relevant multimedia evidence to support their arguments. Please note 
+that such evidence must be separately submitted in conformity with the Office’s instructions for 
+submitting multimedia evidence, available on the Copyright Office website at 
+https://www.copyright.gov/1201/2018. 
+ITEM A.  COMMENTER INFORMATION  
+Michael Weinberg 
+hello@michaelweinberg.org 
+ITEM B.  PROPOSED CLASS ADDRESSED 
+Proposed Class 12: Computer Programs - 3D Printing 
+ITEM C.  OVERVIEW 
+The Proposed Class proposes to eliminate qualifying language that exists within the current 
+Class 26 - Software - 3D Printers.  The qualifying language is problematic for at least two 
+reasons.  First, it establishes a vague and unworkable standard for applying the existing 
+exemption that effectively eliminates its applicability in the vast majority of situations.  Second, 
+the qualifying language is grounded in concerns that are properly addressed by other regulatory 
+agencies, to the extent that they must be addressed at all. 
+ITEM D.  TECHNOLOGICAL PROTECTION MEASURE(S) AND METHOD(S) OF CIRCUMVENTION 
+The TPMs in question for the proposed exemption are identical to those involved in current 
+[PAGE 2]
+ 
+ 
+2 
+ 
+(and recommended for renewal) Class 26.  They are computer programs that operate 3D 
+printers that employ TPMs to limit the use of feedstock, when circumvention is accomplished 
+solely for the purpose of using alternative feedstocks and not for the purpose of accessing 
+design software, design files or proprietary data. 
+ITEM E.  ASSERTED ADVERSE EFFECTS ON NONINFRINGING USES  
+As the Copyright Office has already recommended the renewal of current Class 26, this 
+comment will not attempt to repeat the arguments and highlight adverse effects relevant to 
+that exemption more broadly.  Instead, this comment focuses on the harms created by the 
+qualifying language in the current exemption targeted in this proposed class: 
+“that the exemption shall not extend to any computer program on a 3D printer 
+that produces goods or materials for use in commerce the physical production of 
+which is subject to legal or regulatory oversight or a related certification process, 
+or where the circumvention is otherwise unlawful.” 
+As detailed below, this language is ambiguous enough to significantly reduce or eliminate the 
+existing exemption.  Individual 3D printers are often used for a mix of commercial and 
+noncommercial purposes and most physical objects are subject to at least some level of legal 
+oversight.  As such, the qualifying language can be credibly read to excludes almost all 3D 
+printers and therefore reinstates the harms that justified the exemption in the first place.  
+Furthermore, the qualifying language was included in the exemption in an attempt to address a 
+harm related to industrial and medical safety that was not adequately established in the record.  
+To the extent that these types of harms do exist, remedying them is well beyond the scope of 
+copyright law and any remedies are best crafted by expert regulatory agencies. 
+With real costs and limited benefits, the qualifying language should be removed from the 
+exemption. 
+Background 
+In order to understand the history and purpose of the qualifying language, it is helpful to trace 
+its original justification and evolution though the previous rulemaking process. 
+  Comments 
+The search for non-copyright-related impacts of the exemption appears to have been first 
+raised by the 3D printing company Stratasys.  In its opposition comments, Stratasys raised the 
+possibility that “[u]se of non-genuine materials in 3D printers also may cause unexpected 
+[PAGE 3]
+ 
+ 
+3 
+ 
+health issues.”1  Stratasys also pointed out that TPMs might have benefits to users unrelated to 
+copyright: “chipped or ‘smart’ cartridges permit printers to measure the amount of material 
+remaining in a cartridge and to notify the printer operator when replacement or service is 
+required.”2  Notably, neither of these concerns were related to the protection or availability for 
+use of copyrighted works.  Nor did they cite evidence to validate their existence.  Nor did they 
+explain why a user willing to forego these benefits should be prevented from doing so for a 
+reason related to copyright law. 
+  Roundtable 
+Stratasys expanded its discussion of non-copyright-related concerns during the roundtable 
+discussions of the proposed exemption by noting that 3D printers are used in the aviation 
+industry: “[s]o the highly integrated machine that produces, that takes the material that prints 
+it in an FAA-certified part is extremely important, highly integrated machine, for parts to be on 
+a commercial airplane.”3  Stratasys did not fully explain why the fact that some 3D printers are 
+used in the aviation industry should prevent informed users from making use of third party 
+feedstock in their own printers.  It also did not explain why existing FAA regulations were 
+inadequate to guarantee the safety and integrity of airline parts regardless of their method of 
+manufacture. 
+The Copyright Office panel further explored this concern, making it clear that it was grounded 
+in safety and counterfeit concerns outside of the scope of copyright law:  
+“Is part of the fear here is that someone that’s not in the normal stream, 
+manufacturing stream, or one of these normal manufacturer that’s used to doing 
+this, that goes and goes around the TPM, gets hold of inferior materials, and 
+then tried to put that part into the manufacturing stream and somehow passes it 
+off, is that what the fear is here, is that there is sort of not just a competition 
+issue but that somebody outside of the normal chain inserts an inferior part and 
+that somehow makes it through the process? . . . And so the fear is that one of 
+these downstream manufacturers, second tier or whatever, that they would 
+                                                      
+1 See Comments of Stratasys, Ltd., In the Matter of Exemption to Prohibition on Circumvention of Copyright 
+Protection Systems for Access Control Technologies, Docket No: RM 2014-07, (Mar. 27, 2015), available at 
+https://copyright.gov/1201/2015/comments-032715/class%2026/STRATASYS_Class26_1201_2014.pdf [“Stratasys 
+Comments”] at 29. 
+2 Id. at 28 
+3 Transcript of Library of Congress United States Copyright Office Triennial 1201 Rulemaking Hearing,  (May 28, 
+2015) availabe at https://www.copyright.gov/1201/2015/hearing-transcripts/1201-Rulemaking-Public-Roundtable-
+05-28-2015.pdf at 154. 
+[PAGE 4]
+ 
+ 
+4 
+ 
+somehow break the TPM, install an inferior material into the part, and then it 
+goes up the chain without being tested adequately or otherwise.”4 
+It is noteworthy that the item being manufactured in this discussion is not a copyrighted work.  
+Instead, it is a functional part that is manufactured by a machine that may use software to 
+verify the provenance of its input material.  While important, in the words of the Copyright 
+Office representatives, the concerns was “a concern about the integrity of the products that are 
+being certified by I guess regulatory agencies.”5 No evidence was provided to suggest that TPMs 
+have any impact on actors intending to introduce inferior products into the supply chain. 
+The Copyright Office should not be expected to understand the nuances of every type of 
+regulatory regime in the United States.  However, the fact that the agency in charge of ensuring 
+material safety in aviation was so far removed from the Copyright Office’s core function as to 
+be unknown (“...products that are being certified by I guess regulatory agencies”) suggests that 
+this proceeding is not the proper venue for its consideration.  It is unreasonable to expect the 
+Copyright Office to understand every regulatory landscape in the United States, let alone 
+develop a nuanced understanding of how TPMs might impact those existing rules. 
+  Additional Questions 
+The Copyright Office submitted an additional written question to the participants after the 
+roundtable.6  It highlighted concerns that “parts made with substantial materials could enter 
+the commercial supply chain and pose risks to the public.”  As noted above, the parts in 
+question were not works protected by copyright. Instead, the Copyright Office’s questions 
+appeared to be motivated by product safety concerns.  In light of those concerns, the Copyright 
+Office asked participants “whether an exemption could or should differentiate between 
+‘commercial’ versus other types of uses.” 
+Both proponents and opponents replied that such a distinction was neither possible nor 
+desirable.  Commenter provided examples where the distinction between consumer and 
+professional users blurred.7  Commenter further noted that there were legitimate reasons why 
+exclusively commercial users of 3D printing would want to make use of third party feedstocks. 
+                                                      
+4 Id. at 159-60. 
+5 Id. at 176. 
+6 Letter from Jacqueline C. Charlesworth, General Counsel and Associate Register of Copyrights, to Stratasys, Ltd. 
+et al, re: Docket No. 2017-7 Exemptions to Prohibition Against Circumvention of Technological Measures Protecting 
+Copyrighted Works, (June 3, 2015) available at https://copyright.gov/1201/2015/post -
+hearing/Post%20hearing%20questions%20for%20class%2026-signed.pdf. 
+7 See Letter from Michael Weinberg to Jacqueline C. Charlesworth, General Counsel and Associate Register of 
+Copyrights, re: Docket No. 2017-7 Exemptions to Prohibition Against Circumvention of Technological  Measures 
+Protecting Copyrighted Works, (June 29, 2015) available at   https://copyright.gov/1201/2015/post -
+hearing/answers/Class_26_Hearing_Response_Weinberg_Docket_No_2014 -07_2015.pdf. 
+[PAGE 5]
+ 
+ 
+5 
+ 
+Stratasys also highlighted the challenges with attempting to differentiate between commercial 
+and noncommercial users, titling the first section of their response “There Is No Meaningful 
+Way to Differentiate Between ‘Commercial’ and Other,  ‘Noncommercial’ Uses of 3D Printing” 
+and noting that ‘[t]oday, an individual 3D printer may be used for a ‘personal’ or 
+noncommercial use one day, and for a commercial purpose the next.”8 
+  FDA Letter 
+At the request of the Copyright Office, the FDA also submitted a letter addressing a number of 
+the proposed exemptions.9  The letter opened with the generally applicable statement  
+“We note that while allowing circumvention of TPMs will not affect FDA’s 
+jurisdiction over products that continue to meet the device definition under 201(h) 
+of the Federal Food, Drug, and Cosmetic Act (the FDCA) (21 USC 321(h)), and 
+the entities that manufacture them, granting such an exemption for such devices 
+could potentially create regulatory confusion for FDA, medical device 
+manufacturers, and third party software developers that choose to modify 
+medical devices.” 
+The FDA’s only specific mention of the 3D printing-related exemption request was the following 
+statement: 
+“Regarding 3D Printing, manufacturers who utilize 3D printing to ultimately 
+manufacture medical devices need to ensure that their products are safe and 
+effective for their intended use. For example, if a 3D printed medical device is 
+intended for insertion into the body, then the manufacturer under FDA regulations 
+would have to demonstrate that the products are safe and effective for that 
+intended use.”10 
+The letter then concluded with two recommendations, neither of which raised a concern 
+regarding the 3D printing-related exemption: 
+“A. FDA recommends that the final rule explain that nothing in the rule will affect 
+the regulation of products that fall within the jurisdiction of other federal agencies. 
+As stated above, third parties that modify medical devices may become regulated 
+manufacturers under the FDCA. As such, it may be useful for those who might 
+                                                      
+8 See Letter from Stratasys, Ltd. to Jacqueline C. Charlesworth, General Counsel and Associate Register of 
+Copyrights, re: Docket No. 2017-7 Exemptions to Prohibition Against Circumvention of Technological Measures 
+Protecting Copyrighted Works, (June 29, 2015) available at  https://copyright.gov/1201/2015/post-
+hearing/answers/Class_26_Hearing_Response_Stratasys_Docket_No_2014-07_2015.pdf 
+9 See Letter from Bakul Patel, Associate Director for Digital Health, Center for Devices and Radiological Health, 
+Food and Drug Administratoin, United States Department of Health and Human Services to Jacqueline C. 
+Charlesworth, General Counsel and Associate Register of Copyrights, re: Section 1201Rulemaking - Proposed 
+Exemption for Medical Devices, (Aug. 18, 2015) available at    https://www.copyright.gov/1201/2015/USCO-
+letters/FDA_Letter_to_USCO_re_1201.pdf [“FDA Letter”].. 
+10 Id. at 4 
+[PAGE 6]
+ 
+ 
+6 
+ 
+circumvent TPMs to understand that other federal laws may apply and that the 
+circumvention exemption is not an exemption from other applicable regulations.  
+B. We recommend that any final rule make a distinction between bench top 
+testing of devices (where the unit tested is not in clinical use and will not be in 
+clinical use in the future) and testing of devices during clinical use unless, for the 
+latter, institutional review board (IRB) oversight is provided and investigational 
+device exemptions (IDE) regulations are followed, as appropriate.”11 
+ Copyright Office Recommendation 
+Building on this record, the Copyright Office released its recommendations regarding the 
+exemptions.  This recommendation included the qualifying language addressed in this 
+Comment. 
+The Copyright Office noted that “[t]he record indicates that 3D printing processes are used to 
+produce medical implants, aerospace parts, and consumer goods, which are subject to strict 
+safety standards. It is reasonable to suspect that if these types of items were manufactured 
+using alternative materials or with altered printer software, the resulting goods might not comply 
+with applicable standards.”12  It did not indicate how these standards are related to copyright law 
+generally or Section 1201 specifically, or why copyright law was the proper mechanism to 
+ensure compliance with the applicable standards.   
+The Copyright Office also explained that the FDA “reinforced this concern in a letter to the 
+Office, explaining that an exemption for this class might create unintended health and safety 
+risks in relation to medical devices produced using 3D printers.”13 
+Relying on this evidence, the Copyright Office explained “[t]hese safety and regulatory concerns 
+are not copyright-related, but are sufficiently weighty to merit consideration in drafting an 
+exemption.”14  Recognizing that all parties rejected attempts to draw a distinction between 
+commercial and noncommercial uses, the Copyright Office introduced the qualifying language at 
+the heart of this exemption requests because “the Register finds that it is appropriate to limit the 
+exemption to exclude uses that may be subject to regulation or certification.”15 
+ The Qualifying Language Excludes Many Legitimate Activities 
+Whatever the original intent, the qualifying language effectively bans a number of legitimate 
+activities.  There are many users that could benefit from using third party feedstock in their 3D 
+printer who are completely unrelated to the medical health or aviation fields.  Even users in 
+those fields could benefit from intentionally replacing printer-supplied feedstocks with third party 
+                                                      
+11 Id. at 5 
+12 See Maria A. Pallante, Register of Copyrights and Director, U.S. Copyright Office, Section 1201 Rulemaking: Sixth 
+Triennial Proceeding to Detemine Exemptions to the Prohobition on Circumvention: Recommendation of the 
+Register of Copyrights, (October 2015) available at  https://www.copyright.gov/1201/2015/registers-
+recommendation.pdf at 374. 
+13 Id. at 375 
+14 Id.  
+15 Id.  
+[PAGE 7]
+ 
+ 
+7 
+ 
+alternatives.  There is no evidence that alternative feedstocks are inherently incompatible with 
+the regulatory regimes that might govern the objects created with them. 
+However, the qualifying language bans all of those uses.  If the 3D printer is used to produce 
+any good or material in commerce and that good or material is subject to any legal or regulatory 
+oversight, the 3D printer operator is excluded from this exemption.  The category of goods 
+“subject to legal or regulatory oversight or a related certification process” is almost unimaginably 
+broad.  The Consumer Product Safety Commission oversees all consumer products.16  The 
+United States Customs and Border Protection has the authority to oversee all merchandise 
+arriving on the United States.17  The legal and regulatory system of the United States is vast and 
+touches on almost any good that could be created by a 3D printer. 
+ There is No Evidence That The Qualifying Language Avoids Harms 
+The prohibition of legitimate activities might be justified if they were the result of necessary 
+steps to prevent real harms.  However, there is no evidence that the qualifying language has 
+any connection to the harms raised to justify its inclusion. 
+As noted above, concerns around health and safety were first raised by opponent Stratasys 
+during the previous review.  Stratasys failed to explain why the requested exemption would 
+negatively impact health and safety, or why the regulatory regimes designed to protect health 
+and safety were inadequate without a prohibition on users having access to third party 
+feedstock. 
+Although the Recommendation suggests that the FDA raised concerns about the exemption’s 
+impact on medical safety, a review of the FDA’s letter fails to reveal such a concern.  The FDA 
+letter began with a general statement that no exemption would impact the FDA’s jurisdiction, 
+immediately followed by a concern that some of the proposed exemptions could create 
+confusion for parties that would modify medical devices.18  The FDA’s only statement 
+specifically addressing 3D printing was an admonition that “manufacturers who utilize 3D 
+printing to ultimately manufacture medical devices need to ensure that their products are safe 
+and effective for their intended use.”19  To the extent that this statement suggests any opinion 
+regarding the relationship between the exemption and medical safety, it is that existing FDA 
+regulations are fully adequate to address medical safety concerns.  Suggesting that the 
+statement reinforces safety concerns related to the exemption is a miscategorization. 
+ Even If the Qualifying Language Was Narrowly Tailored to Address a Real Safety 
+Concern, Such Concerns Are Beyond the Scope of This Proceeding 
+The purpose of Section 1201 is to address TPMs that control access to works protected under 
+copyright law.20  There is no reason to believe that Congress crafted the Section in order to 
+grant the Copyright Office broad authority over issues of health or safety concerns as long as 
+                                                      
+16 See, e.g. 15 U.S.C. § 2054(a). 
+17 See, e.g. 19 C.F.R. 162.6. 
+18 See FDA letter at 1. 
+19 See id. at 4. 
+20 17 USC § 1201(a)(1)(A). 
+[PAGE 8]
+ 
+ 
+8 
+ 
+those concerns had some imaginable nexus with TPMs.  The factors of Section 
+1201(a)(1)(C)(i)-(v) should be read within the confines of copyright law and policy, not as a 
+mandate to right the wrongs of the world.  If the FDA, or any other regulatory agency of the 
+United States Government, believes that it has been insufficiently empowered by Congress to 
+carry out its mission, it should not rely on the Copyright Office to fill the gaps.  Instead, that 
+agency should raise its concerns with Congress directly. 
+In light of this, any attempt to address issues beyond the scope of copyright - and certainly an 
+attempt to wade into areas regulated by entire independent agencies - via this process is 
+improper.  Nothing in this proceeding prevents those independent agencies from continuing to 
+regulate activities within their purview.   
+Neither the Copyright Office nor the participants in this proceeding have the expertise required 
+to address issues as diverse and airline safety and the regulation of implanted medical devices.  
+Participants cannot reasonably be expected to present information regarding non-copyright-
+related issues, nor should they be expected to refute such information provided by others. Even 
+if participants were able to produce and refute such information, the Copyright Office is poorly 
+positioned to evaluate competing arguments in fields well beyond its area of expertise. 
+Therefore, this proceeding should focus on questions of copyright law and policy, leaving 
+unrelated concerns to the relevant expert agencies. 
+ 
+DOCUMENTARY EVIDENCE 
+N/A 

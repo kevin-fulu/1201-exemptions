@@ -1,0 +1,253 @@
+[PAGE 1]
+ 
+ 
+ITEM A.  COMMENTER INFORMATION  
+Consumer Technology Association* 
+ 
+1919 S. Eads Street, Arlington, VA 22202 
+Contact:  Michael Petricone, Senior Vice President, Government Affairs  
+703-907-7544 
+mpetricone@cta.tech  
+Counsel:  Robert S. Schwartz 
+Constantine Cannon LLP 
+1001 Pennsylvania Avenue, N.W. 1300N 
+Washington, D.C. 20004 
+202 204-3508 
+rschwartz@constantinecannon.com 
+ 
+*Some CTA auto manufacturer member companies do not endorse this position.  
+ 
+ITEM B.  PROPOSED CLASS ADDRESSED 
+Proposed Class 7:  Computer Programs – Repair  
+ITEM C.  OVERVIEW 
+CTA, in concert with Auto Care Association, petitioned for a new and more useful exemption for 
+independent repair and upgrade of motor vehicles.  CTA and Auto Care argued that the Register 
+should have accepted the NTIA’s recommendation to exempt lawful user circumvention “by or 
+at the request” of a vehicle owner.1  CTA has also said, in comments on the Sixth Round 
+outcomes, that the Class 21 exclusions for telematics / remote start and security interface 
+modules and modifications to memory storage were unwarranted and, in the case of storage 
+modification, contrary to copyright principles.2  CTA in these Comments maintains its focus 
+exclusively on the need to expand the renewed Sixth Round Class 21 exemption granted for 
+                                                        
+1 The NTIA recommended an exemption for: “Computer programs embedded in motorized land 
+vehicles or agricultural machinery, when circumvention is initiated by or at the request of the 
+owner of the vehicle or machinery, in order to make repairs or modifications to the vehicle or 
+machinery. This exemption does not obviate the need to comply with other applicable laws and 
+regulations, such as those relating to vehicle safety or environmental protection.” 
+2 U.S. Copyright Office Docket No. 2015-8 Section 1201 Study:  Notice of Inquiry and Request 
+for Public Comment, Comments of the Consumer Technology Association, March 3, 2016 
+(“CTA NOI Comments”) at 7 - 8. 
+[PAGE 2]
+ 
+ 
+2 
+ 
+motor vehicle repair and upgrade, so as to make it genuinely useful to the motor vehicle owners 
+as heretofore defined in Sixth Round Class 21.  CTA does not address other devices in these 
+Comments. 
+In the interim between the Sixth Round and this one, the Register has acknowledged the real-
+world inadequacy of having confined exemptions for circumvention only to self-help by vehicle 
+owners.3  The Register’s June Report and this NPRM have suggested that a focus on the 
+statutory language of “user,” rather than strictly the “owner,” can be useful in conforming 
+practice to theory.4  The Register agrees in principle that exemptions for the necessary 
+acquisition of tools for a lawful purpose may be warranted, but posits that granting such an 
+exemption would verge too close to approving “trafficking.”5  CTA welcomes the first insight, 
+but has argued that the second concern is not warranted.6 
+Real-world considerations re vehicular software and firmware 
+The Register’s focus on “user” rather than “owner” is particularly apt with respect to motor 
+vehicles.  In the Office Roundtable in which CTA counsel participated, there was widespread 
+acknowledgement that vehicular software poses special real-world issues:  (1) Software and 
+firmware  have replaced electro-mechanical systems as well as analog systems;7 (2) the user’s 
+concern is in maintaining or improving function rather than gaining access to or copying the 
+work for any literary or other commercial purpose;8 (3) vehicle owners who are capable of 
+making analog or electro-mechanical repairs or upgrades are generally not capable of software 
+repair without expert assistance for which most experts must acquire specialized software tools.9 
+Acknowledging that, in the case of motor vehicles, an expert acting at the request and direction 
+of a vehicle owner is the actual “user” who is circumventing a technical protection measure will 
+be a major step toward making the Librarian’s exemptions useful in the real world.  In the case 
+of automotive repair it is a step amply supported by the record that the Office has compiled since 
+the Sixth Round.  However, the Librarian will still fall short of making the exemption relevant to 
+everyday practice unless the exemption also recognizes that the acquisition of a necessary tool is 
+not “trafficking.”  The June Report also takes a step in this direction, noting that the Register’s 
+concern here is to avoid the appearance of “authorizing the distribution of circumvention 
+tools.”10  Retail experts who assist in auto repair are not engaged in the distribution of 
+circumvention tools, so should not be prevented from acquiring them for a lawful purpose. 
+ 
+                                                        
+3 Section 1201 of Title 17, A Report of the Register of Copyrights, June 2017 (“June Report”) at 
+61 - 62; U.S. Copyright Office, 37 CFR Part 201 [Docket No. 2017-10], Exemptions to Permit 
+Circumvention of Access Controls on Copyrighted Works, Oct. 26, 2017 (“NPRM”) at 42 - 43.   
+4 Id. 
+5 Id. 
+6 CTA NOI Comments” at 8 – 10. 
+7 May 20, 2016 Roundtable at 17 (Love), 20 – 21 (Besek), 28 – 29 (Schwartz), 39 – 41 (Perry). 
+8 Id. at 25 – 26 (Greenstein), 74 – 75 (Besek). 
+9 Id. at 27, 56 – 59 (Greenstein).  Cf. Butler at 34 – 38.   
+10 June report at 60, emph. added. 
+[PAGE 3]
+ 
+ 
+3 
+ 
+It is up to neither the expert user nor the Librarian whether circumvention tools are available.  As 
+Professor Besek noted at the May 20, 2016 Roundtable, the DMCA did not grant the Librarian 
+any authority over “trafficking.”11  So it is simply unnecessary for the Librarian to exclude the 
+acquisition of a tool for a lawful purpose.  Even if acquiring and using a tool were considered 
+“trafficking,” the Librarian would have no power to exempt it, so need not even discuss it.12  At 
+most, the Librarian might note, in the text of an exemption, that its own authority cannot be 
+construed as extending to the distribution of circumvention tools. 
+To the extent the Librarian intends to include recommendations to the Congress, including relief 
+modeled on the Unlocking Act, CTA agrees with the June Report’s suggestion13 that Section 
+1201 be clarified to assure that experts can obtain necessary tools for a lawful purpose. 
+With respect to telematics, there is ample evidence that this data, which is likely not subject to 
+copyright,14 is essential to modern auto repair on behalf of users.  Remote diagnostics, start, and 
+security access by servicers and dealers, on behalf of the vehicle owner, has become an essential 
+tool for vehicle users and anyone who would assist them.15  CTA recognizes that the availability 
+to third parties of such data and related interfaces raises concerns that are outside the scope of 
+this proceeding.  But as the Register has recognized, a servicer acting at the request and direction 
+of a vehicle owner and receiving information, at the direction of the owner, about the status and 
+needs of the vehicle should not be considered a third party.  Indeed, this expert stands closer to 
+the owner than would anyone receiving the data without the owner’s specific knowledge and 
+consent.  
+ITEM D.  TECHNOLOGICAL PROTECTION MEASURE(S) AND METHOD(S) OF CIRCUMVENTION 
+The extent to which automotive systems have been “locked down” by proprietary software as of 
+2015 was set forth comprehensively in EFF’s initial Comments in Docket No. 2014-07 and the 
+Statements that accompanied it.  As EFF and its experts and cited sources laid out, Technical 
+Protection Measures (“TPMs”) take the form of  
+ “Challenge response mechanisms” that involve and require access codes, passwords, 
+keys, or digital signatures;  
+ Encryption, which prevents any access at all to firmware or update files; and  
+ Disabled access to “ports” via which the contents of physical memory, hence data and 
+data bases, can be extracted.   
+                                                        
+11 May 20, 2016 Roundtable at 38 - 39. 
+12 The June Report at n. 338 notes CTA counsel’s Roundtable argument that the Register should 
+not be concerned that an exemption for a tool’s lawful use could impair a court in addressing 
+trafficking where it occurs, because courts are aware that the Librarian was granted no power to 
+impair a court finding of trafficking.   
+13 June Report at 59 - 60. 
+14 Feist Publications, Inc., v. Rural Telephone Service Co., 499 U.S. 340 (1991) 
+15 Auto servicers have documented the importance of such data and why it is essential that they 
+have access to it equal to that afforded franchised dealers.  See, “Your Car. Your Data. Your 
+Choice.” https://yourcaryourdata.org/#homeIndustry.  
+[PAGE 4]
+ 
+ 
+4 
+ 
+ 
+The lawful nature of vehicle user circumvention has been established. 
+EFF’s experts and others who provided statements in support of the Class 21 petitions 
+demonstrated to the satisfaction of the Register16 that:  
+(1) Most of the circumvention necessary to overcome vehicular technical protection measures is 
+for a purpose that does not violate copyright, and  
+(2) Expert assistance, using tools, is necessary in order for a user to benefit from an exemption 
+for such lawful use. 
+In keeping with the Register’s renewal of the Sixth Round exemption and its overall more 
+efficient approach to this Round, CTA sees no need to re-prove what was established to the 
+Register’s satisfaction in the last Round. 
+With respect to vehicles, an expert with tools applied upon request is a “user.” 
+The exemption for autos, where the software in question is primarily functional in nature, 
+provides an excellent case and context for expert assistance with tools.  As the Statements 
+incorporated in the 2015 EFF Comments illustrate, these tasks are highly technical and complex 
+and rely on professional dedication and experience.  Even attempting to understand the cited 
+reference materials requires a sophisticated technical background.17 
+The acquisition of necessary software tools remains vital, notwithstanding progress that has been 
+made in the availability of OEM repair tools to independent dealers and servicers.  The cross-
+industry Memorandum of Understanding18 now provides access to OEM repair tools, as well as 
+diagnostic tools, as of the 2018 model year.  However, these tools remain strictly proprietary and 
+brand-limited.  Independent auto dealers, repair shops, and parts sellers and installers cannot 
+apply essentially identical tools across brands; they must be licensed separately.  Because 
+independent dealers have no interest in otherwise commercializing this software, this 
+requirement protects only the competitive primacy of franchised dealers, not the intellectual 
+property of OEMs.19 
+Experts must acquire tools. 
+The remaining major issue on which CTA has focused is the exemption status of those users – 
+expert retail servicers included – who acquire the necessary tools, and whether the acquisition of 
+such tools should be equated with “trafficking.”  There is sufficient evidence in the record, as 
+                                                        
+16 See Overview discussion. 
+17 See, e.g., the handbook developed by Open Garages, available at 
+http://opengarages.org/handbook/ebook/.  
+18 Memorandum of Understanding, Jan. 25, 2014, 
+http://www.nastf.org/files/public/OtherReference/MOU_SIGNED_1_15_14.pd.f.  
+19 Even franchised dealers, when they sell used cars and service other brands, could and would 
+need such tools and make lawful use of them. 
+[PAGE 5]
+ 
+ 
+5 
+ 
+cited specifically in the section above, supporting CTA’s argument that acquisition is not 
+trafficking: 
+ Where it is clear that copying of the software is not the objective it has not been 
+necessary to limit the location at which circumvention occurs or to discuss the origin 
+of the tools applied.  Hence the 2006 Class 5 exemption for wireless handset 
+unlocking required only that the circumvention be “for the sole purpose of lawfully 
+connecting to a wireless telephone communication network.”20   
+ 
+ Acquiring a tool for a specific intended lawful use, as the Register has now noted, is 
+not the same as distributing one. 
+ 
+ Exemptions as granted by the Librarian are for, and limited to, the specific use set 
+forth in the exemption. 
+ 
+ The Librarian has no authority to grant an exemption for trafficking but does have 
+authority to grant an exemption for a lawful use.  Cognizant of this, courts would 
+remain able to address trafficking even if the Librarian did purport to grant an 
+exemption for more than lawful use. 
+ 
+ The legislative history of both the DMCA and the Unlocking Act each confirm that 
+acquiring a tool for purposes of interoperability is not trafficking. The House 
+Commerce Committee said explicitly that retailer assistance in aid of interoperability 
+would not violate the DMCA.21  The Senate Judiciary Committee said explicitly that 
+nothing in the Unlocking Act was meant to convey any positive or negative inference 
+with respect to the Librarian’s authority.22   
+Users, including those acting on owner request, are entitled to telematics data. 
+With respect to telematics, there are several bases for the Register to recommend that servicers 
+acting at the request of the vehicle owner should face no DMCA liability: (1) The data is not 
+copyrighted, so the Librarian can declare that circumvention raises no copyright or DMCA 
+issue;23 (2) The vehicle owner “owns” the data; (3) Even if copyrighted and the ownership of the 
+data were unclear, the vehicle owner has a compelling interest in making fair use of it with the 
+requested assistance of a servicer (independent or franchised) of the owner’s choice. 
+  
+                                                        
+20 Recommendation of the Register of Copyrights in RM 2005-11; Rulemaking on Exemptions 
+from Prohibition on Circumvention of Copyright Protection Systems for Access Control 
+Technologies, November 17, 2006, at 42. 
+21 See CTA NOI Comments at 4 - 6. 
+22 Id. at 10 and June Report at 59 – 60 and n. 327. 
+23 See Section 1201 Rulemaking: Fifth Triennial Proceeding to Determine Exemptions to the 
+Prohibition on Circumvention, Recommendation of the Register of Copyrights at 13 – 15 and n. 
+66, citing similar outcomes in 2010 and 2003 Final Rules. (Oct. 2012). 
+[PAGE 6]
+ 
+ 
+6 
+ 
+Adding to an owned vehicle’s storage capacity can violate neither copyright nor the DMCA. 
+As to “infotainment” systems, CTA repeats here the argument it made to the Register in CTA’s 
+March 2016 NOI Comments, at 7 - 8: 
+As a matter of copyright law, the Office’s rationale is also directly contrary to the 
+law as established by the Supreme Court in Sony Corp. of America v. Universal 
+City Studios, Inc., 464 U.S. 417, 442 (1984).  The Supreme Court held in Sony 
+that it is lawful to provide consumers with a device that can store both infringing 
+and non-infringing content, so long as there are commercially significant non-
+infringing uses for the stored content.  In the Class 21 exemption discussion, it 
+was only agricultural equipment provider John Deere that even suggested, without 
+proof, that circumvention could result in infringing material being imported into 
+vehicle infotainment storage.24  Hence the only copyright interest or concern that 
+the Office could have had would be about a closed storage system becoming open 
+to storing infringing content.  It was clearly established in Sony that allowing such 
+capacity into the marketplace is not copyright infringement, even where 
+accomplished by a third party with a commercial interest.   
+*** 
+Accordingly CTA believes the Librarian has the power to grant the exemption as petitioned for; 
+to the extent the Register believes legislation is required to avoid doubt or to accomplish 
+additional goals now endorsed by the Register, CTA hopes the appropriate recommendation will 
+be included.  
+ 
+                                                        
+24 No claim of inducement, contributory, or vicarious liability was made – indeed it would be 
+comical to suggest that a user is capable of inducement with respect to his or her own vehicle’s 
+radio. (fn. in 2016 Comments)  

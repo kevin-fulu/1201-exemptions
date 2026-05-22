@@ -1,0 +1,50 @@
+[PAGE 1]
+Short Comment Regarding a Proposed Exemption 
+Under 17 U.S.C. 1201 
+  
+Item 1.Commenter Information  
+Nathan Scandella, Software Engineer, Enscand, Inc. (Seattle, WA, USA) nathan@enscand.com 
+ 
+ 
+Item 2.  Proposed Class Addressed  
+Proposed Class 17: Jailbreaking—All-Purpose Mobile Computing Devices 
+ 
+Item 3.Statement Regarding Proposed Exemption 
+As an independent software developer, I support the ability to keep smartphones and other mobile devices legal to 
+“jailbreak”.  First of all, let it be known that I do not support theft of software or digital piracy.  As the developer of 
+software, including smartphone apps, myself, I am a victim of digital piracy.  Having said that, it’s crucial to 
+understand that jailbreaking does not equate to piracy.  Jailbreaking simply turns a smartphone, or mobile device, 
+into a computing device with comparable restrictions to what every computer user is accustomed to on their desktop 
+or laptop.  The ease with which smartphone vendors like Google, Apple, etc. can develop their products is largely 
+due to the fact that they are using scaled-down “computer” platforms to implement their phone or tablet designs.  If 
+these are computers, why should it be illegal to treat them as such?
+ 
+ 
+Vendors like Apple have burdened their devices with excessive limitations on usage that no consumer would accept 
+on a laptop or desktop computer, including Apple’s OS X.  Yet, increasingly, smartphones cost as much as low-to-
+mid-range computers.  On my computer, I may install software from any source I choose.  It’s unclear to me how the 
+US government even allows a smartphone vendor to lock-down a device so that only that company’s “App Store” 
+may be used to purchase software.  Without jailbreaking, iOS users are forced to Apple’s App Store for software, 
+where Apple takes a 30% share of all sales.
+ 
+ 
+As a developer, part of my job is also testing my software in ways that end-users never do.  I need to run diagnostic 
+tools on my software to ensure that it’s working properly, efficiently, and without security vulnerabilities.  As iOS, 
+for example, is built upon a BSD-style UNIX operating system developed far before the iPhone, there exists a wealth 
+of tools and techniques available to me to test and debug my software.  Unfortunately, the restrictions Apple puts on 
+the iPhone, out-of-the-box, prevents me from using these tools.  This doesn’t make the software I build for their 
+users better.  It makes it worse. 
+ 
+[PAGE 2]
+Finally, consumers need to be able to perform their own audits of the mobile device vendors’ products.  As we saw 
+in recent years, iOS location tracking was saving user location data in such a way as to make many users 
+uncomfortable.  The detection of that issue would have been nearly impossible without having jailbroken devices.   
+ 
+From a consumer protection standpoint, a software quality standpoint, a fairness standpoint, and an 
+antimonopolistic business practice standpoint, jailbreaking must remain legal. 
+ 
+Thank you for your consideration. 
+ 
+Nathan Scandella 
+ 
+ 

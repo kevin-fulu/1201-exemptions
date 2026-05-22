@@ -1,0 +1,1054 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<title>DMCA §1201 Anticircumvention Exemptions &amp; Denied Petitions — Cycle-by-Cycle History (2000–2024)</title>
+<style>
+  :root {
+    --bg: #f8f8f6;
+    --ink: #1a1a1a;
+    --muted: #5a5a5a;
+    --border: #c8c8c2;
+    --header-bg: #2a2a2a;
+    --header-ink: #f8f8f6;
+    --category-bg: #e4e4dd;
+    --category-bg-denial: #e8d6cc;
+    --category-ink: #2a2a2a;
+
+    /* Granted-cell colors */
+    --c-new: #2e7d32;
+    --c-new-ink: #fff;
+    --c-renewed-unchanged: #1565c0;
+    --c-renewed-unchanged-ink: #fff;
+    --c-renewed-expanded: #66bb6a;
+    --c-renewed-expanded-ink: #1a1a1a;
+    --c-renewed-narrowed: #ef6c00;
+    --c-renewed-narrowed-ink: #fff;
+    --c-not-renewed: #b71c1c;
+    --c-not-renewed-ink: #fff;
+    --c-not-yet-proposed: #d8d8d2;
+    --c-not-yet-proposed-ink: #888;
+
+    /* Denial-cell colors */
+    --c-petitioned-denied: #6d1f1f;        /* dark burgundy */
+    --c-petitioned-denied-ink: #fff;
+    --c-petitioned-denied-proc: #6a5a2c;   /* dark olive — procedural */
+    --c-petitioned-denied-proc-ink: #fff;
+    --c-petitioned-denied-dm: #a64b4b;     /* lighter red — de minimis */
+    --c-petitioned-denied-dm-ink: #fff;
+    --c-not-proposed: #ececea;             /* lighter than not_yet_proposed; for denial rows */
+    --c-not-proposed-ink: #aaa;
+
+    /* Partial-denial corner indicator */
+    --c-partial-denial-indicator: #8b0000;
+  }
+  * { box-sizing: border-box; }
+  html, body {
+    margin: 0; padding: 0;
+    background: var(--bg);
+    color: var(--ink);
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+    font-size: 14px;
+    line-height: 1.4;
+  }
+  .wrap { max-width: 1500px; margin: 0 auto; padding: 24px; }
+
+  h1 { font-size: 22px; margin: 0 0 6px; }
+  .subtitle { color: var(--muted); margin: 0 0 16px; font-size: 13px; }
+  .intro {
+    background: #fff;
+    border: 1px solid var(--border);
+    padding: 12px 16px;
+    margin: 0 0 20px;
+    font-size: 13px;
+    color: var(--muted);
+  }
+  .intro p { margin: 0 0 8px; }
+  .intro p:last-child { margin-bottom: 0; }
+  .intro b { color: var(--ink); }
+
+  .legend {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 8px 12px;
+    margin: 0 0 20px;
+    padding: 12px;
+    background: #fff;
+    border: 1px solid var(--border);
+  }
+  .legend h3 {
+    width: 100%;
+    margin: 0 0 6px;
+    font-size: 12px;
+    color: var(--muted);
+    text-transform: uppercase;
+    letter-spacing: 0.04em;
+  }
+  .legend .row {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 8px 12px;
+    width: 100%;
+  }
+  .legend .item {
+    display: inline-flex;
+    align-items: center;
+    gap: 6px;
+    font-size: 12px;
+  }
+  .swatch {
+    display: inline-block;
+    width: 14px;
+    height: 14px;
+    border: 1px solid rgba(0,0,0,0.15);
+    position: relative;
+  }
+  .swatch.partial::after {
+    content: "";
+    position: absolute;
+    top: 0; right: 0;
+    width: 0; height: 0;
+    border-style: solid;
+    border-width: 0 7px 7px 0;
+    border-color: transparent var(--c-partial-denial-indicator) transparent transparent;
+  }
+
+  table.matrix {
+    width: 100%;
+    border-collapse: collapse;
+    background: #fff;
+    border: 1px solid var(--border);
+    font-size: 12px;
+  }
+  table.matrix thead th {
+    background: var(--header-bg);
+    color: var(--header-ink);
+    padding: 8px 6px;
+    text-align: center;
+    font-weight: 600;
+    border-right: 1px solid #444;
+    position: sticky;
+    top: 0;
+    z-index: 2;
+  }
+  table.matrix thead th.name-col { width: 220px; text-align: left; padding-left: 10px; }
+  table.matrix thead th.summary-col { width: 360px; text-align: left; padding-left: 10px; }
+  table.matrix thead th.cycle { width: 84px; font-variant-numeric: tabular-nums; }
+
+  table.matrix tbody td {
+    border: 1px solid var(--border);
+    padding: 6px 8px;
+    vertical-align: top;
+  }
+  table.matrix tbody tr.category-row td {
+    background: var(--category-bg);
+    color: var(--category-ink);
+    font-weight: 700;
+    text-transform: uppercase;
+    letter-spacing: 0.04em;
+    font-size: 11px;
+    padding: 8px 10px;
+    border-top: 2px solid #999;
+  }
+  table.matrix tbody tr.category-row.denial-cat td {
+    background: var(--category-bg-denial);
+  }
+
+  table.matrix tbody tr.exemption td.name {
+    font-weight: 600;
+    color: var(--ink);
+    line-height: 1.3;
+  }
+  table.matrix tbody tr.exemption td.summary {
+    color: var(--muted);
+    line-height: 1.35;
+  }
+  /* Denial rows: italic + slightly muted */
+  table.matrix tbody tr.denial-row td.name {
+    font-style: italic;
+    color: #5a3535;
+    font-weight: 600;
+  }
+  table.matrix tbody tr.denial-row td.summary {
+    color: #6f5454;
+    font-style: italic;
+  }
+
+  td.cell {
+    text-align: center;
+    font-variant-numeric: tabular-nums;
+    font-weight: 600;
+    font-size: 11px;
+    padding: 4px;
+    line-height: 1.25;
+    cursor: default;
+    position: relative;
+  }
+  td.cell .status-label {
+    display: block;
+    font-size: 9px;
+    font-weight: 500;
+    letter-spacing: 0.02em;
+    opacity: 0.85;
+    margin-top: 1px;
+  }
+  td.cell .class-num {
+    font-size: 12px;
+    font-weight: 700;
+  }
+  /* Partial-denial indicator: small triangle top-right */
+  td.cell.partial-denial::after {
+    content: "";
+    position: absolute;
+    top: 0; right: 0;
+    width: 0; height: 0;
+    border-style: solid;
+    border-width: 0 8px 8px 0;
+    border-color: transparent var(--c-partial-denial-indicator) transparent transparent;
+    pointer-events: none;
+  }
+
+  /* Granted-cell color classes */
+  td.s-new { background: var(--c-new); color: var(--c-new-ink); }
+  td.s-renewed_unchanged { background: var(--c-renewed-unchanged); color: var(--c-renewed-unchanged-ink); }
+  td.s-renewed_expanded { background: var(--c-renewed-expanded); color: var(--c-renewed-expanded-ink); }
+  td.s-renewed_narrowed { background: var(--c-renewed-narrowed); color: var(--c-renewed-narrowed-ink); }
+  td.s-not_renewed { background: var(--c-not-renewed); color: var(--c-not-renewed-ink); }
+  td.s-not_yet_proposed { background: var(--c-not-yet-proposed); color: var(--c-not-yet-proposed-ink); }
+  td.s-not_yet_proposed .status-label { opacity: 0.55; }
+
+  /* Denial-cell color classes */
+  td.s-petitioned_denied { background: var(--c-petitioned-denied); color: var(--c-petitioned-denied-ink); }
+  td.s-petitioned_denied_procedural { background: var(--c-petitioned-denied-proc); color: var(--c-petitioned-denied-proc-ink); }
+  td.s-petitioned_denied_de_minimis { background: var(--c-petitioned-denied-dm); color: var(--c-petitioned-denied-dm-ink); }
+  td.s-not_proposed { background: var(--c-not-proposed); color: var(--c-not-proposed-ink); }
+  td.s-not_proposed .status-label { opacity: 0.55; }
+
+  td.cell[title] { cursor: help; }
+
+  footer {
+    margin-top: 20px;
+    font-size: 11px;
+    color: var(--muted);
+  }
+  footer p { margin: 4px 0; }
+  footer code { background: #ececea; padding: 1px 5px; border-radius: 2px; font-size: 11px; }
+</style>
+</head>
+<body>
+<div class="wrap">
+
+<h1>DMCA §1201 Anticircumvention Exemptions &amp; Denied Petitions — Cycle-by-Cycle History</h1>
+<p class="subtitle">Every class that has won an exemption, plus the substantively-significant proposals that were denied, across nine triennial U.S. Copyright Office §1201 rulemakings (2000–2024). Generated 2026-05-22.</p>
+
+<div class="intro">
+  <p>Rows are <b>granted exemptions</b> (regular text) and <b>denied petitions</b> (italic, muted). Both are grouped by equipment/work category. Columns are the nine triennial cycles in chronological order. Each cell shows what happened to that proposal in that cycle, color-coded by status. Matching across cycles is by <b>substance</b>, not by class number.</p>
+  <p>A red triangle in the top-right corner of any cell indicates a <b>partial denial within that cycle</b> — typically a proposed scope expansion that was rejected even though the underlying class was renewed or granted. Hover any cell for the cross-cycle note from <code>exemptions-master.json</code>; hover the row summary for what the proposal would permit and key exclusions.</p>
+  <p><b>Authority.</b> Only the Final Rule grants exemptions. Recommendations are advisory; comments are proposals. Denials cited here all come from the Final Rule (or, where the Final Rule is silent, the Register's Recommendation) — every per-cycle JSON in <code>analysis/</code> carries the supporting [PAGE N] citation.</p>
+</div>
+
+<div class="legend">
+  <h3>Legend</h3>
+  <div class="row">
+    <span class="item"><span class="swatch" style="background:var(--c-new)"></span>new (first granted)</span>
+    <span class="item"><span class="swatch" style="background:var(--c-renewed-unchanged)"></span>renewed unchanged</span>
+    <span class="item"><span class="swatch" style="background:var(--c-renewed-expanded)"></span>renewed expanded</span>
+    <span class="item"><span class="swatch" style="background:var(--c-renewed-narrowed)"></span>renewed narrowed</span>
+    <span class="item"><span class="swatch" style="background:var(--c-not-renewed)"></span>not renewed (dropped)</span>
+    <span class="item"><span class="swatch" style="background:var(--c-not-yet-proposed)"></span>not yet proposed</span>
+  </div>
+  <div class="row">
+    <span class="item"><span class="swatch" style="background:var(--c-petitioned-denied)"></span>petitioned but denied (substantive/evidence/alternatives)</span>
+    <span class="item"><span class="swatch" style="background:var(--c-petitioned-denied-proc)"></span>denied procedural / out-of-scope</span>
+    <span class="item"><span class="swatch" style="background:var(--c-petitioned-denied-dm)"></span>denied de minimis</span>
+    <span class="item"><span class="swatch" style="background:var(--c-not-proposed)"></span>topic not proposed this cycle</span>
+    <span class="item"><span class="swatch partial" style="background:var(--c-renewed-unchanged)"></span>red corner = partial denial within an otherwise-granted cycle</span>
+  </div>
+</div>
+
+<table class="matrix">
+<thead>
+<tr>
+  <th class="name-col">Exemption / Denied Petition</th>
+  <th class="summary-col">What it would permit / key exclusions</th>
+  <th class="cycle">2000</th>
+  <th class="cycle">2003</th>
+  <th class="cycle">2006</th>
+  <th class="cycle">2010</th>
+  <th class="cycle">2012</th>
+  <th class="cycle">2015</th>
+  <th class="cycle">2018</th>
+  <th class="cycle">2021</th>
+  <th class="cycle">2024</th>
+</tr>
+</thead>
+<tbody>
+
+<!-- CATEGORY: Filtering -->
+<tr class="category-row"><td colspan="11">Filtering &amp; Internet Content</td></tr>
+
+<tr class="exemption">
+  <td class="name">Filtering software block-lists</td>
+  <td class="summary" title="Circumvent TPMs on compilations of websites / Internet locations blocked by filtering software, to study or analyze the block-list contents.">Circumvent TPMs on lists of websites blocked by content-filtering software.</td>
+  <td class="cell s-new" title="2000 (b)(1) — first DMCA §1201 cycle; one of two classes granted."><span class="class-num">b(1)</span><span class="status-label">new</span></td>
+  <td class="cell s-renewed_unchanged" title="2003 (b)(1) — renewed; refined to 'lists of Internet locations blocked'."><span class="class-num">b(1)</span><span class="status-label">renewed</span></td>
+  <td class="cell s-not_renewed" title="2006 — renewal petition filed but DENIED (B.1) as having no factual showing. Effectively dropped."><span class="status-label">dropped</span></td>
+  <td class="cell s-not_renewed"><span class="status-label">dropped</span></td>
+  <td class="cell s-not_renewed"><span class="status-label">dropped</span></td>
+  <td class="cell s-not_renewed"><span class="status-label">dropped</span></td>
+  <td class="cell s-not_renewed"><span class="status-label">dropped</span></td>
+  <td class="cell s-not_renewed"><span class="status-label">dropped</span></td>
+  <td class="cell s-not_renewed"><span class="status-label">dropped</span></td>
+</tr>
+
+<!-- CATEGORY: Legacy AC -->
+<tr class="category-row"><td colspan="11">Legacy Access Controls (Obsolete or Broken)</td></tr>
+
+<tr class="exemption">
+  <td class="name">Literary works with malfunctioning/obsolete access controls</td>
+  <td class="summary" title="Broad first-cycle grant subsumed in 2003 into more specific dongle and obsolete-format classes.">Circumvent broken/obsolete TPMs on literary works incl. programs &amp; databases.</td>
+  <td class="cell s-new"><span class="class-num">b(2)</span><span class="status-label">new</span></td>
+  <td class="cell s-not_renewed" title="Replaced by narrower successor classes."><span class="status-label">dropped</span></td>
+  <td class="cell s-not_renewed"><span class="status-label">dropped</span></td>
+  <td class="cell s-not_renewed"><span class="status-label">dropped</span></td>
+  <td class="cell s-not_renewed"><span class="status-label">dropped</span></td>
+  <td class="cell s-not_renewed"><span class="status-label">dropped</span></td>
+  <td class="cell s-not_renewed"><span class="status-label">dropped</span></td>
+  <td class="cell s-not_renewed"><span class="status-label">dropped</span></td>
+  <td class="cell s-not_renewed"><span class="status-label">dropped</span></td>
+</tr>
+
+<tr class="exemption">
+  <td class="name">Obsolete dongles</td>
+  <td class="summary" title="Circumvent obsolete/broken hardware dongles guarding lawfully obtained computer programs.">Circumvent broken/obsolete hardware dongles guarding programs.</td>
+  <td class="cell s-not_yet_proposed"><span class="status-label">—</span></td>
+  <td class="cell s-new"><span class="class-num">b(2)</span><span class="status-label">new</span></td>
+  <td class="cell s-renewed_unchanged partial-denial" title="2006 (b)(3) — renewed unchanged. PARTIAL DENIAL: a request to expand the class to cover broader incompatibilities/obsolete OS/hardware was rejected as procedurally untimely (made for the first time at the hearing)."><span class="class-num">b(3)</span><span class="status-label">renewed</span></td>
+  <td class="cell s-renewed_unchanged"><span class="class-num">b(5)</span><span class="status-label">renewed</span></td>
+  <td class="cell s-not_renewed" title="2012 — not renewed. Legacy dongle problem became historical."><span class="status-label">dropped</span></td>
+  <td class="cell s-not_renewed"><span class="status-label">dropped</span></td>
+  <td class="cell s-not_renewed"><span class="status-label">dropped</span></td>
+  <td class="cell s-not_renewed"><span class="status-label">dropped</span></td>
+  <td class="cell s-not_renewed"><span class="status-label">dropped</span></td>
+</tr>
+
+<tr class="exemption">
+  <td class="name">Computer programs/games in obsolete formats</td>
+  <td class="summary" title="Conceptually revived as the separately-tracked software-preservation-lams class in 2018.">Programs/games in obsolete formats. Narrowed in 2006 to LAM preservation.</td>
+  <td class="cell s-not_yet_proposed"><span class="status-label">—</span></td>
+  <td class="cell s-new"><span class="class-num">b(3)</span><span class="status-label">new</span></td>
+  <td class="cell s-renewed_narrowed"><span class="class-num">b(2)</span><span class="status-label">narrowed</span></td>
+  <td class="cell s-not_renewed"><span class="status-label">dropped</span></td>
+  <td class="cell s-not_renewed"><span class="status-label">dropped</span></td>
+  <td class="cell s-not_renewed"><span class="status-label">dropped</span></td>
+  <td class="cell s-not_renewed" title="The 2018 'software-preservation-lams' class (b)(13) is conceptually related but tracked separately."><span class="status-label">dropped</span></td>
+  <td class="cell s-not_renewed"><span class="status-label">dropped</span></td>
+  <td class="cell s-not_renewed"><span class="status-label">dropped</span></td>
+</tr>
+
+<!-- CATEGORY: Accessibility -->
+<tr class="category-row"><td colspan="11">Accessibility</td></tr>
+
+<tr class="exemption">
+  <td class="name">Literary works (electronic) — accessibility (musical notation added 2021)</td>
+  <td class="summary" title="Circumvent TPMs that block read-aloud / interfere with screen readers, for blind/disabled users or authorized entities under 17 U.S.C. 121. Expanded in 2021 to include previously published musical notation.">Read-aloud / screen-reader / assistive-tech access for blind &amp; print-disabled users.</td>
+  <td class="cell s-not_yet_proposed"><span class="status-label">—</span></td>
+  <td class="cell s-new"><span class="class-num">b(4)</span><span class="status-label">new</span></td>
+  <td class="cell s-renewed_unchanged"><span class="class-num">b(4)</span><span class="status-label">renewed</span></td>
+  <td class="cell s-renewed_unchanged"><span class="class-num">b(6)</span><span class="status-label">renewed</span></td>
+  <td class="cell s-renewed_unchanged"><span class="class-num">b(1)</span><span class="status-label">renewed</span></td>
+  <td class="cell s-renewed_unchanged"><span class="class-num">b(2)</span><span class="status-label">renewed</span></td>
+  <td class="cell s-renewed_unchanged"><span class="class-num">b(3)</span><span class="status-label">renewed</span></td>
+  <td class="cell s-renewed_expanded" title="2021 (b)(6) — expanded: adds 'previously published musical works fixed in text or notation' (musical notation); terminology updated to 'eligible person' (post-Marrakesh)."><span class="class-num">b(6)</span><span class="status-label">expanded</span></td>
+  <td class="cell s-renewed_unchanged"><span class="class-num">b(6)</span><span class="status-label">renewed</span></td>
+</tr>
+
+<tr class="exemption">
+  <td class="name">Motion pictures — captioning &amp; audio description by educational disability services</td>
+  <td class="summary" title="Educational disability services may circumvent CSS/AACS/digital TPMs to caption/audio-describe motion pictures.">Caption / audio-describe motion pictures for students, faculty, or staff (2021+) with disabilities.</td>
+  <td class="cell s-not_yet_proposed"><span class="status-label">—</span></td>
+  <td class="cell s-not_yet_proposed"><span class="status-label">—</span></td>
+  <td class="cell s-not_yet_proposed"><span class="status-label">—</span></td>
+  <td class="cell s-not_yet_proposed"><span class="status-label">—</span></td>
+  <td class="cell s-not_yet_proposed"><span class="status-label">—</span></td>
+  <td class="cell s-not_yet_proposed"><span class="status-label">—</span></td>
+  <td class="cell s-new"><span class="class-num">b(2)</span><span class="status-label">new</span></td>
+  <td class="cell s-renewed_expanded" title="2021 (b)(2) — expanded to students+faculty+staff; adds 'fair market price' standard; adds explicit reuse permission; adds 'accessible version of sufficient quality' definition."><span class="class-num">b(2)</span><span class="status-label">expanded</span></td>
+  <td class="cell s-renewed_unchanged"><span class="class-num">b(2)</span><span class="status-label">renewed</span></td>
+</tr>
+
+<tr class="exemption">
+  <td class="name">Motion pictures — R&amp;D of accessibility players (blind/deaf/HoH)</td>
+  <td class="summary" title="Circumvent CSS/online-distribution TPMs for R&D of accessibility-enhanced players. Resulting player must not itself require circumvention.">R&amp;D of accessibility-enhanced motion-picture players.</td>
+  <td class="cell s-not_yet_proposed"><span class="status-label">—</span></td>
+  <td class="cell s-not_yet_proposed"><span class="status-label">—</span></td>
+  <td class="cell s-not_yet_proposed"><span class="status-label">—</span></td>
+  <td class="cell s-not_yet_proposed"><span class="status-label">—</span></td>
+  <td class="cell s-new"><span class="class-num">b(8)</span><span class="status-label">new</span></td>
+  <td class="cell s-not_renewed"><span class="status-label">dropped</span></td>
+  <td class="cell s-not_renewed"><span class="status-label">dropped</span></td>
+  <td class="cell s-not_renewed"><span class="status-label">dropped</span></td>
+  <td class="cell s-not_renewed"><span class="status-label">dropped</span></td>
+</tr>
+
+<tr class="exemption">
+  <td class="name">Video games — accessibility input methods for physical disabilities</td>
+  <td class="summary" title="Circumvent video-game TPMs (PC only) for non-keyboard/non-mouse input methods for users with physical disabilities.">Alternative input methods for physically disabled video-game players (PC only).</td>
+  <td class="cell s-not_yet_proposed"><span class="status-label">—</span></td>
+  <td class="cell s-not_yet_proposed"><span class="status-label">—</span></td>
+  <td class="cell s-not_yet_proposed"><span class="status-label">—</span></td>
+  <td class="cell s-not_yet_proposed"><span class="status-label">—</span></td>
+  <td class="cell s-not_yet_proposed"><span class="status-label">—</span></td>
+  <td class="cell s-not_yet_proposed"><span class="status-label">—</span></td>
+  <td class="cell s-not_yet_proposed"><span class="status-label">—</span></td>
+  <td class="cell s-new"><span class="class-num">b(21)</span><span class="status-label">new</span></td>
+  <td class="cell s-not_renewed" title="2024 — NO RENEWAL PETITION WAS FILED (per 2024 Final Rule [PAGE 2] n.21). Class lapsed without opposition or denial."><span class="status-label">no petition</span></td>
+</tr>
+
+<!-- CATEGORY: Audiovisual Use -->
+<tr class="category-row"><td colspan="11">Audiovisual Use (Criticism, Comment, Education)</td></tr>
+
+<tr class="exemption">
+  <td class="name">Motion pictures — short clips for criticism, comment, &amp; educational uses</td>
+  <td class="summary" title="Make short clips from DVDs/Blu-ray/digital sources for criticism, comment, documentary, noncommercial video, e-book film analysis, K-12/college/MOOC/digital-literacy education.">Short clips from DVDs/Blu-ray/digital for criticism, comment, documentary, noncommercial video, K-12/college/MOOC/digital-literacy education.</td>
+  <td class="cell s-not_yet_proposed"><span class="status-label">—</span></td>
+  <td class="cell s-not_yet_proposed"><span class="status-label">—</span></td>
+  <td class="cell s-new" title="2006 (b)(1) — first granted; originally limited to film/media studies professors."><span class="class-num">b(1)</span><span class="status-label">new</span></td>
+  <td class="cell s-renewed_expanded"><span class="class-num">b(1)</span><span class="status-label">expanded</span></td>
+  <td class="cell s-renewed_expanded partial-denial" title="2012 — class expanded to 4 sub-classes (DVD/online × full-circ/screen-cap); added K-12 educators and multimedia e-books. PARTIAL DENIAL: short-clip circumvention for fictional filmmakers was denied (noninfringing use not shown)."><span class="class-num">b(4-7)</span><span class="status-label">expanded</span></td>
+  <td class="cell s-renewed_expanded"><span class="class-num">b(1)</span><span class="status-label">expanded</span></td>
+  <td class="cell s-renewed_expanded"><span class="class-num">b(1)</span><span class="status-label">expanded</span></td>
+  <td class="cell s-renewed_expanded"><span class="class-num">b(1)</span><span class="status-label">expanded</span></td>
+  <td class="cell s-renewed_unchanged partial-denial" title="2024 — class renewed unchanged. PARTIAL DENIALS: (1) OTW's proposed rewrite of the noncommercial-videos subpart was denied (no record/evidence); (2) the proposed MOOC-subpart expansion to for-profit and unaccredited educational entities was denied (noninfringing use not shown)."><span class="class-num">b(1)</span><span class="status-label">renewed</span></td>
+</tr>
+
+<!-- DENIED in this category -->
+<tr class="denial-row">
+  <td class="name">Space-shifting / format-shifting (audiovisual, musical, literary)</td>
+  <td class="summary" title="Recurring proposal to permit users to shift lawfully-acquired works to alternative devices, formats, or platforms. Repeatedly denied because Register has not found space-shifting to be a noninfringing use.">Shift lawfully-acquired works to other devices/formats. Denied: not noninfringing.</td>
+  <td class="cell s-petitioned_denied" title="2000 (Proposal E.3 partial) — denied as 'alternatives available' (analog format)."><span class="class-num">E.3</span><span class="status-label">denied</span></td>
+  <td class="cell s-petitioned_denied" title="2003 (Classes 8 + 15) — denied: space-shifting not shown to be noninfringing use."><span class="class-num">C.8,15</span><span class="status-label">denied</span></td>
+  <td class="cell s-petitioned_denied" title="2006 (B.2) — denied: no legal precedent that space-shifting is noninfringing."><span class="class-num">B.2</span><span class="status-label">denied</span></td>
+  <td class="cell s-petitioned_denied" title="2010 (IV.A.1) — denied: mere consumer inconvenience."><span class="class-num">IV.A</span><span class="status-label">denied</span></td>
+  <td class="cell s-petitioned_denied" title="2012 (Class 10) — denied: no adverse impact on noninfringing uses shown."><span class="class-num">C.10</span><span class="status-label">denied</span></td>
+  <td class="cell s-petitioned_denied" title="2015 (Classes 8 + 10) — denied: 'the law of fair use, as it stands today, does not sanction broad-based space-shifting or format-shifting.'"><span class="class-num">C.8,10</span><span class="status-label">denied</span></td>
+  <td class="cell s-petitioned_denied" title="2018 (Class 3) — denied: no basis to depart from 2015 fair-use analysis."><span class="class-num">C.3</span><span class="status-label">denied</span></td>
+  <td class="cell s-petitioned_denied" title="2021 (Class 6) — denied: petitioner failed to provide legal arguments or evidence."><span class="class-num">C.6</span><span class="status-label">denied</span></td>
+  <td class="cell s-not_proposed"><span class="status-label">not proposed</span></td>
+</tr>
+
+<tr class="denial-row">
+  <td class="name">DVD region coding &amp; OS-tethered playback (Linux DVD)</td>
+  <td class="summary" title="Permit circumvention of CSS to play DVDs on Linux or non-licensed platforms, or to bypass region coding. Repeatedly denied — alternative platforms/copies/region-free players available.">Bypass DVD region coding or play CSS DVDs on Linux. Denied: alternatives exist.</td>
+  <td class="cell s-petitioned_denied" title="2000 (Proposal E.3) — denied: matter of preference and inconvenience."><span class="class-num">E.3</span><span class="status-label">denied</span></td>
+  <td class="cell s-petitioned_denied" title="2003 (Classes 11 + 16) — denied: options exist; mere inconvenience."><span class="class-num">C.11,16</span><span class="status-label">denied</span></td>
+  <td class="cell s-petitioned_denied_de_minimis" title="2006 (B.3 + B.4) — denied as de minimis showing."><span class="class-num">B.3,4</span><span class="status-label">de minimis</span></td>
+  <td class="cell s-petitioned_denied" title="2010 (IV.A.2) — denied: CSS-compatible Linux DVD players in fact available."><span class="class-num">IV.A.2</span><span class="status-label">denied</span></td>
+  <td class="cell s-not_proposed"><span class="status-label">not proposed</span></td>
+  <td class="cell s-not_proposed"><span class="status-label">not proposed</span></td>
+  <td class="cell s-not_proposed"><span class="status-label">not proposed</span></td>
+  <td class="cell s-not_proposed"><span class="status-label">not proposed</span></td>
+  <td class="cell s-not_proposed"><span class="status-label">not proposed</span></td>
+</tr>
+
+<tr class="denial-row">
+  <td class="name">Backup copies of optical media (DVDs/CDs)</td>
+  <td class="summary" title="Permit users to make backup copies of lawfully-acquired DVDs/CDs. Denied: not shown to be a noninfringing use.">Backup copies of lawfully-acquired DVDs/CDs. Denied: not noninfringing.</td>
+  <td class="cell s-not_proposed"><span class="status-label">not proposed</span></td>
+  <td class="cell s-petitioned_denied" title="2003 (Class 8) — denied: backup not shown to be a noninfringing use; DVDs not shown to be fragile."><span class="class-num">C.8</span><span class="status-label">denied</span></td>
+  <td class="cell s-petitioned_denied" title="2006 (B.9) — denied: no legal authority that backup is noninfringing (apart from §117 for computer programs)."><span class="class-num">B.9</span><span class="status-label">denied</span></td>
+  <td class="cell s-not_proposed"><span class="status-label">not proposed</span></td>
+  <td class="cell s-not_proposed"><span class="status-label">not proposed</span></td>
+  <td class="cell s-not_proposed"><span class="status-label">not proposed</span></td>
+  <td class="cell s-not_proposed"><span class="status-label">not proposed</span></td>
+  <td class="cell s-not_proposed"><span class="status-label">not proposed</span></td>
+  <td class="cell s-not_proposed"><span class="status-label">not proposed</span></td>
+</tr>
+
+<tr class="denial-row">
+  <td class="name">Broadcast flag circumvention</td>
+  <td class="summary" title="Permit circumvention of a (proposed/struck-down) FCC broadcast-flag mandate. Denied across three cycles — first as speculative, then because the FCC rule had been struck down.">Bypass FCC-style broadcast flag on analog/digital TV. Denied: speculative regime.</td>
+  <td class="cell s-not_proposed"><span class="status-label">not proposed</span></td>
+  <td class="cell s-petitioned_denied" title="2003 (Class 20) — denied: broadcast flag still speculative; broadcast monitoring not shown noninfringing."><span class="class-num">C.20</span><span class="status-label">denied</span></td>
+  <td class="cell s-petitioned_denied" title="2006 (B.10) — denied: no broadcast flag mandate in effect; speculative."><span class="class-num">B.10</span><span class="status-label">denied</span></td>
+  <td class="cell s-petitioned_denied" title="2010 (IV.D) — denied: no DTV broadcast flag mandate; speculative."><span class="class-num">IV.D</span><span class="status-label">denied</span></td>
+  <td class="cell s-not_proposed"><span class="status-label">not proposed</span></td>
+  <td class="cell s-not_proposed"><span class="status-label">not proposed</span></td>
+  <td class="cell s-not_proposed"><span class="status-label">not proposed</span></td>
+  <td class="cell s-not_proposed"><span class="status-label">not proposed</span></td>
+  <td class="cell s-not_proposed"><span class="status-label">not proposed</span></td>
+</tr>
+
+<tr class="denial-row">
+  <td class="name">HDCP / HDMI / Blu-ray Image Constraint Token down-conversion</td>
+  <td class="summary" title="Permit circumvention of HDCP/HDMI or Blu-ray ICT to obtain full-resolution playback/recording. Denied for lack of evidence of active deployment.">Bypass HDCP/HDMI / Blu-ray ICT for full-resolution access. Denied: no evidence.</td>
+  <td class="cell s-not_proposed"><span class="status-label">not proposed</span></td>
+  <td class="cell s-not_proposed"><span class="status-label">not proposed</span></td>
+  <td class="cell s-not_proposed"><span class="status-label">not proposed</span></td>
+  <td class="cell s-petitioned_denied" title="2010 (IV.E) — denied: no evidence ICTs currently used on Blu-ray to restrict resolution."><span class="class-num">IV.E</span><span class="status-label">denied</span></td>
+  <td class="cell s-not_proposed"><span class="status-label">not proposed</span></td>
+  <td class="cell s-not_proposed"><span class="status-label">not proposed</span></td>
+  <td class="cell s-petitioned_denied" title="2018 (Class 4) — denied: record lacked detail and legal support; overly broad and de minimis impact."><span class="class-num">C.4</span><span class="status-label">denied</span></td>
+  <td class="cell s-not_proposed"><span class="status-label">not proposed</span></td>
+  <td class="cell s-not_proposed"><span class="status-label">not proposed</span></td>
+</tr>
+
+<tr class="denial-row">
+  <td class="name">Livestream recording (audiovisual works)</td>
+  <td class="summary" title="Permit circumvention of HTTP Live Streaming TPMs to record audiovisual livestreams. Denied 2021 on procedural grounds.">Record audiovisual livestreams. Denied procedurally.</td>
+  <td class="cell s-not_proposed"><span class="status-label">not proposed</span></td>
+  <td class="cell s-not_proposed"><span class="status-label">not proposed</span></td>
+  <td class="cell s-not_proposed"><span class="status-label">not proposed</span></td>
+  <td class="cell s-not_proposed"><span class="status-label">not proposed</span></td>
+  <td class="cell s-not_proposed"><span class="status-label">not proposed</span></td>
+  <td class="cell s-not_proposed"><span class="status-label">not proposed</span></td>
+  <td class="cell s-not_proposed"><span class="status-label">not proposed</span></td>
+  <td class="cell s-petitioned_denied_procedural" title="2021 (Class 4) — denied procedurally: petitioner provided no legal arguments or evidence and did not participate in hearings."><span class="class-num">C.4</span><span class="status-label">procedural</span></td>
+  <td class="cell s-not_proposed"><span class="status-label">not proposed</span></td>
+</tr>
+
+<tr class="denial-row">
+  <td class="name">Motion picture clips in text messages</td>
+  <td class="summary" title="Permit circumvention to enable sending short motion-picture clips in text messages. Denied 2021 as de minimis.">Send short motion-picture clips in text messages. Denied as de minimis.</td>
+  <td class="cell s-not_proposed"><span class="status-label">not proposed</span></td>
+  <td class="cell s-not_proposed"><span class="status-label">not proposed</span></td>
+  <td class="cell s-not_proposed"><span class="status-label">not proposed</span></td>
+  <td class="cell s-not_proposed"><span class="status-label">not proposed</span></td>
+  <td class="cell s-not_proposed"><span class="status-label">not proposed</span></td>
+  <td class="cell s-not_proposed"><span class="status-label">not proposed</span></td>
+  <td class="cell s-not_proposed"><span class="status-label">not proposed</span></td>
+  <td class="cell s-petitioned_denied_de_minimis" title="2021 (Class 2) — denied: de minimis showing; petitioner did not explain noninfringing-use theory."><span class="class-num">C.2</span><span class="status-label">de minimis</span></td>
+  <td class="cell s-not_proposed"><span class="status-label">not proposed</span></td>
+</tr>
+
+<tr class="denial-row">
+  <td class="name">Copy-protected CDs &amp; game-disc DRM (SecuROM/StarForce)</td>
+  <td class="summary" title="Petitions for circumvention of audio CD TPMs (2003) and computer-game copy-protection (2006). Denied for lack of evidence.">Bypass audio-CD TPMs / game-disc DRM. Denied: no evidence of adverse effects.</td>
+  <td class="cell s-not_proposed"><span class="status-label">not proposed</span></td>
+  <td class="cell s-petitioned_denied" title="2003 (Class 18) — denied: deployment of CD TPMs has been minimal."><span class="class-num">C.18</span><span class="status-label">denied</span></td>
+  <td class="cell s-petitioned_denied" title="2006 (B.6) — denied: no evidence that the adverse effect is the result of an access control."><span class="class-num">B.6</span><span class="status-label">denied</span></td>
+  <td class="cell s-not_proposed"><span class="status-label">not proposed</span></td>
+  <td class="cell s-not_proposed"><span class="status-label">not proposed</span></td>
+  <td class="cell s-not_proposed"><span class="status-label">not proposed</span></td>
+  <td class="cell s-not_proposed"><span class="status-label">not proposed</span></td>
+  <td class="cell s-not_proposed"><span class="status-label">not proposed</span></td>
+  <td class="cell s-not_proposed"><span class="status-label">not proposed</span></td>
+</tr>
+
+<!-- CATEGORY: Research -->
+<tr class="category-row"><td colspan="11">Research (TDM and Security)</td></tr>
+
+<tr class="exemption">
+  <td class="name">Motion pictures — TDM research at nonprofit higher-ed</td>
+  <td class="summary" title="Higher-ed researchers may circumvent CSS/AACS/digital TPMs to deploy text-and-data-mining on a motion-picture corpus, with security conditions.">Higher-ed TDM research on motion-picture corpora. 2024 broadens permitted viewing.</td>
+  <td class="cell s-not_yet_proposed"><span class="status-label">—</span></td>
+  <td class="cell s-not_yet_proposed"><span class="status-label">—</span></td>
+  <td class="cell s-not_yet_proposed"><span class="status-label">—</span></td>
+  <td class="cell s-not_yet_proposed"><span class="status-label">—</span></td>
+  <td class="cell s-not_yet_proposed"><span class="status-label">—</span></td>
+  <td class="cell s-not_yet_proposed"><span class="status-label">—</span></td>
+  <td class="cell s-not_yet_proposed"><span class="status-label">—</span></td>
+  <td class="cell s-new"><span class="class-num">b(4)</span><span class="status-label">new</span></td>
+  <td class="cell s-renewed_expanded" title="2024 (b)(4) — viewing standard broadens; adds trade-association disclosure right; adds secure-connections + authenticated-credentials requirement."><span class="class-num">b(4)</span><span class="status-label">expanded</span></td>
+</tr>
+
+<tr class="exemption">
+  <td class="name">Literary works — TDM research at nonprofit higher-ed</td>
+  <td class="summary" title="Higher-ed researchers may circumvent literary-work TPMs to deploy TDM on a corpus. Excludes computer programs and TDM-purpose compilations.">Higher-ed TDM research on literary-work corpora.</td>
+  <td class="cell s-not_yet_proposed"><span class="status-label">—</span></td>
+  <td class="cell s-not_yet_proposed"><span class="status-label">—</span></td>
+  <td class="cell s-not_yet_proposed"><span class="status-label">—</span></td>
+  <td class="cell s-not_yet_proposed"><span class="status-label">—</span></td>
+  <td class="cell s-not_yet_proposed"><span class="status-label">—</span></td>
+  <td class="cell s-not_yet_proposed"><span class="status-label">—</span></td>
+  <td class="cell s-not_yet_proposed"><span class="status-label">—</span></td>
+  <td class="cell s-new"><span class="class-num">b(5)</span><span class="status-label">new</span></td>
+  <td class="cell s-renewed_expanded"><span class="class-num">b(5)</span><span class="status-label">expanded</span></td>
+</tr>
+
+<tr class="exemption">
+  <td class="name">Video games on PCs — security research (2010-only)</td>
+  <td class="summary" title="Circumvent video-game TPMs on PCs for good-faith security research. Subsumed in 2015 by the broader general security-research class.">PC video-game security research (subsumed 2015 → general class).</td>
+  <td class="cell s-not_yet_proposed"><span class="status-label">—</span></td>
+  <td class="cell s-not_yet_proposed"><span class="status-label">—</span></td>
+  <td class="cell s-not_yet_proposed"><span class="status-label">—</span></td>
+  <td class="cell s-new"><span class="class-num">b(4)</span><span class="status-label">new</span></td>
+  <td class="cell s-not_renewed" title="2012 — not renewed; subsumed into the broader good-faith security research class formalized in 2015."><span class="status-label">dropped</span></td>
+  <td class="cell s-not_renewed"><span class="status-label">dropped</span></td>
+  <td class="cell s-not_renewed"><span class="status-label">dropped</span></td>
+  <td class="cell s-not_renewed"><span class="status-label">dropped</span></td>
+  <td class="cell s-not_renewed"><span class="status-label">dropped</span></td>
+</tr>
+
+<tr class="exemption">
+  <td class="name">Good-faith security research (general)</td>
+  <td class="summary" title="Good-faith security research on any device/machine (and on systems/networks with owner authorization). Heavily expanded over three cycles.">Good-faith security research; broadest in 2018+ (any device/system/network with auth).</td>
+  <td class="cell s-not_yet_proposed"><span class="status-label">—</span></td>
+  <td class="cell s-not_yet_proposed"><span class="status-label">—</span></td>
+  <td class="cell s-not_yet_proposed"><span class="status-label">—</span></td>
+  <td class="cell s-petitioned_denied" title="2010 — Halderman's broader security-testing class (sound recordings, AV, non-game literary works) was DENIED as evidence-insufficient; only the narrow video-game-PC subset was granted. This is the conceptual precursor to the 2015 grant."><span class="status-label">denied (broad)</span></td>
+  <td class="cell s-not_yet_proposed"><span class="status-label">—</span></td>
+  <td class="cell s-new" title="2015 (b)(7) — first granted; limited to 3 device classes (consumer incl. voting machines; motorized land vehicles; implanted medical devices); 12-month delayed effective date."><span class="class-num">b(7)</span><span class="status-label">new</span></td>
+  <td class="cell s-renewed_expanded" title="2018 (b)(11) — device-class limitation removed; coverage added for computers/systems/networks with owner authorization; 12-month delay dropped."><span class="class-num">b(11)</span><span class="status-label">expanded</span></td>
+  <td class="cell s-renewed_expanded" title="2021 (b)(16) — CFAA-non-violation precondition DROPPED. §1201 exemption no longer denied to researchers who incidentally violate CFAA."><span class="class-num">b(16)</span><span class="status-label">expanded</span></td>
+  <td class="cell s-renewed_unchanged"><span class="class-num">b(18)</span><span class="status-label">renewed</span></td>
+</tr>
+
+<tr class="exemption">
+  <td class="name">Sound recordings on CDs with security-flaw TPMs — 'Sony rootkit' testing</td>
+  <td class="summary" title="Single-cycle exemption (2006) responding to Sony BMG rootkit. Audio-CD TPM use case became historical.">Audio-CD security-flaw testing. Direct response to 2005 Sony BMG rootkit.</td>
+  <td class="cell s-not_yet_proposed"><span class="status-label">—</span></td>
+  <td class="cell s-not_yet_proposed"><span class="status-label">—</span></td>
+  <td class="cell s-new"><span class="class-num">b(6)</span><span class="status-label">new</span></td>
+  <td class="cell s-not_renewed"><span class="status-label">dropped</span></td>
+  <td class="cell s-not_renewed"><span class="status-label">dropped</span></td>
+  <td class="cell s-not_renewed"><span class="status-label">dropped</span></td>
+  <td class="cell s-not_renewed"><span class="status-label">dropped</span></td>
+  <td class="cell s-not_renewed"><span class="status-label">dropped</span></td>
+  <td class="cell s-not_renewed"><span class="status-label">dropped</span></td>
+</tr>
+
+<!-- DENIED in research -->
+<tr class="denial-row">
+  <td class="name">Generative AI trustworthiness research</td>
+  <td class="summary" title="Permit circumvention for research on generative AI systems (bias, hallucination, safety). Denied 2024 — Register found the harm arises from third-party ToS, not from §1201.">GenAI bias/safety research. Denied: harm arises from ToS, not from §1201.</td>
+  <td class="cell s-not_proposed"><span class="status-label">not proposed</span></td>
+  <td class="cell s-not_proposed"><span class="status-label">not proposed</span></td>
+  <td class="cell s-not_proposed"><span class="status-label">not proposed</span></td>
+  <td class="cell s-not_proposed"><span class="status-label">not proposed</span></td>
+  <td class="cell s-not_proposed"><span class="status-label">not proposed</span></td>
+  <td class="cell s-not_proposed"><span class="status-label">not proposed</span></td>
+  <td class="cell s-not_proposed"><span class="status-label">not proposed</span></td>
+  <td class="cell s-not_proposed"><span class="status-label">not proposed</span></td>
+  <td class="cell s-petitioned_denied" title="2024 (Class 4) — denied: adverse effects arise from third-party online-platform terms, not from §1201, so an exemption would not ameliorate them."><span class="class-num">C.4</span><span class="status-label">denied</span></td>
+</tr>
+
+<tr class="denial-row">
+  <td class="name">Encryption research (broader than §1201(g))</td>
+  <td class="summary" title="Broaden encryption-research beyond §1201(g)'s statutory carve-out. Denied 2000, 2003 — defined by purpose/use, not by class of works.">Broaden encryption-research beyond §1201(g). Denied: not a class of works.</td>
+  <td class="cell s-petitioned_denied" title="2000 (Proposal E.6) — denied: not focused on a class of works."><span class="class-num">E.6</span><span class="status-label">denied</span></td>
+  <td class="cell s-petitioned_denied" title="2003 (Class 22) — denied for insufficient evidence and failure to explain why existing exemptions are inadequate."><span class="class-num">C.22</span><span class="status-label">denied</span></td>
+  <td class="cell s-not_proposed"><span class="status-label">not proposed</span></td>
+  <td class="cell s-not_proposed"><span class="status-label">not proposed</span></td>
+  <td class="cell s-not_proposed"><span class="status-label">not proposed</span></td>
+  <td class="cell s-not_proposed" title="Effectively subsumed by general security-research class granted this cycle."><span class="status-label">subsumed</span></td>
+  <td class="cell s-not_proposed"><span class="status-label">not proposed</span></td>
+  <td class="cell s-not_proposed"><span class="status-label">not proposed</span></td>
+  <td class="cell s-not_proposed"><span class="status-label">not proposed</span></td>
+</tr>
+
+<tr class="denial-row">
+  <td class="name">Reverse engineering for interoperability (broader than §1201(f))</td>
+  <td class="summary" title="Broaden reverse-engineering exemption beyond §1201(f)'s statutory carve-out (e.g., printer toner remanufacturing). Denied: defined by purpose; §1201(f) adequate.">Broaden reverse-engineering beyond §1201(f). Denied: §1201(f) is adequate.</td>
+  <td class="cell s-petitioned_denied" title="2000 (Proposal E.5) — denied: class cannot be defined by purpose."><span class="class-num">E.5</span><span class="status-label">denied</span></td>
+  <td class="cell s-petitioned_denied" title="2003 (Class 21) — denied: §1201(f) addresses remanufacturers' concerns."><span class="class-num">C.21</span><span class="status-label">denied</span></td>
+  <td class="cell s-not_proposed"><span class="status-label">not proposed</span></td>
+  <td class="cell s-not_proposed"><span class="status-label">not proposed</span></td>
+  <td class="cell s-not_proposed"><span class="status-label">not proposed</span></td>
+  <td class="cell s-not_proposed"><span class="status-label">not proposed</span></td>
+  <td class="cell s-not_proposed"><span class="status-label">not proposed</span></td>
+  <td class="cell s-not_proposed"><span class="status-label">not proposed</span></td>
+  <td class="cell s-not_proposed"><span class="status-label">not proposed</span></td>
+</tr>
+
+<tr class="denial-row">
+  <td class="name">Forensic investigator evidence collection</td>
+  <td class="summary" title="Forensic investigators may circumvent TPMs to collect digital evidence. Denied 2010 — proponent failed to describe the proposed class or provide compelling evidence.">Forensic-investigator evidence collection. Single-cycle denial.</td>
+  <td class="cell s-not_proposed"><span class="status-label">not proposed</span></td>
+  <td class="cell s-not_proposed"><span class="status-label">not proposed</span></td>
+  <td class="cell s-not_proposed"><span class="status-label">not proposed</span></td>
+  <td class="cell s-petitioned_denied" title="2010 (IV.C) — denied: proponent failed to describe the class of works."><span class="class-num">IV.C</span><span class="status-label">denied</span></td>
+  <td class="cell s-not_proposed"><span class="status-label">not proposed</span></td>
+  <td class="cell s-not_proposed"><span class="status-label">not proposed</span></td>
+  <td class="cell s-not_proposed"><span class="status-label">not proposed</span></td>
+  <td class="cell s-not_proposed"><span class="status-label">not proposed</span></td>
+  <td class="cell s-not_proposed"><span class="status-label">not proposed</span></td>
+</tr>
+
+<!-- CATEGORY: Preservation -->
+<tr class="category-row"><td colspan="11">Preservation by Libraries / Archives / Museums</td></tr>
+
+<tr class="exemption">
+  <td class="name">Motion pictures (DVD/Blu-ray) — preservation by LAMs</td>
+  <td class="summary" title="Eligible LAMs may circumvent CSS/AACS on damaged/deteriorating DVDs/Blu-rays when no fairly-priced replacement or LAM-accessible streaming alternative exists.">LAM preservation of damaged/deteriorating DVDs/Blu-rays.</td>
+  <td class="cell s-not_yet_proposed"><span class="status-label">—</span></td>
+  <td class="cell s-not_yet_proposed"><span class="status-label">—</span></td>
+  <td class="cell s-not_yet_proposed"><span class="status-label">—</span></td>
+  <td class="cell s-not_yet_proposed"><span class="status-label">—</span></td>
+  <td class="cell s-not_yet_proposed"><span class="status-label">—</span></td>
+  <td class="cell s-not_yet_proposed"><span class="status-label">—</span></td>
+  <td class="cell s-not_yet_proposed"><span class="status-label">—</span></td>
+  <td class="cell s-new"><span class="class-num">b(3)</span><span class="status-label">new</span></td>
+  <td class="cell s-renewed_unchanged"><span class="class-num">b(3)</span><span class="status-label">renewed</span></td>
+</tr>
+
+<tr class="exemption">
+  <td class="name">Software preservation by LAMs (non-game programs)</td>
+  <td class="summary" title="Eligible LAMs may circumvent TPMs on lawfully acquired non-game programs no longer commercially available, for lawful preservation. 2021+ allows offsite electronic lending to one user at a time.">LAM preservation of non-game programs no longer commercially available.</td>
+  <td class="cell s-not_yet_proposed"><span class="status-label">—</span></td>
+  <td class="cell s-not_yet_proposed"><span class="status-label">—</span></td>
+  <td class="cell s-not_yet_proposed"><span class="status-label">—</span></td>
+  <td class="cell s-not_yet_proposed"><span class="status-label">—</span></td>
+  <td class="cell s-not_yet_proposed"><span class="status-label">—</span></td>
+  <td class="cell s-not_yet_proposed"><span class="status-label">—</span></td>
+  <td class="cell s-new"><span class="class-num">b(13)</span><span class="status-label">new</span></td>
+  <td class="cell s-renewed_expanded" title="2021 (b)(18) — adds offsite electronic distribution to ONE USER AT A TIME, for a limited time, where LAM has no notice of non-private-study use."><span class="class-num">b(18)</span><span class="status-label">expanded</span></td>
+  <td class="cell s-renewed_expanded partial-denial" title="2024 (b)(20) — adds explicit 'one user at a time' definition (per-copy basis). PARTIAL DENIAL: the proposal to REMOVE the single-user limitation entirely was rejected (noninfringing use not shown)."><span class="class-num">b(20)</span><span class="status-label">expanded</span></td>
+</tr>
+
+<tr class="exemption">
+  <td class="name">Video games — preservation when server abandoned (+ offline games by LAMs from 2018)</td>
+  <td class="summary" title="When authentication server abandoned, individuals may restore local gameplay on PC/console; LAMs may preserve. 2018+ extends to offline games no longer commercially available.">Restore local gameplay when server abandoned; LAM preservation of offline games (2018+).</td>
+  <td class="cell s-not_yet_proposed"><span class="status-label">—</span></td>
+  <td class="cell s-not_yet_proposed"><span class="status-label">—</span></td>
+  <td class="cell s-not_yet_proposed"><span class="status-label">—</span></td>
+  <td class="cell s-not_yet_proposed"><span class="status-label">—</span></td>
+  <td class="cell s-not_yet_proposed"><span class="status-label">—</span></td>
+  <td class="cell s-new"><span class="class-num">b(8)</span><span class="status-label">new</span></td>
+  <td class="cell s-renewed_expanded" title="2018 (b)(12) — adds subpart (ii) for LAM preservation of offline games no longer commercially available; 'complete games' definition expanded."><span class="class-num">b(12)</span><span class="status-label">expanded</span></td>
+  <td class="cell s-renewed_unchanged partial-denial" title="2021 (b)(17) — renewed unchanged. PARTIAL DENIAL: Class 14(b) proposed off-premises LAM access to preserved video games — denied (noninfringing use not shown)."><span class="class-num">b(17)</span><span class="status-label">renewed</span></td>
+  <td class="cell s-renewed_unchanged partial-denial" title="2024 (b)(19) — renewed unchanged. PARTIAL DENIAL: Class 6(b) again proposed removing the on-premises limitation for video-game preservation — denied (market harm concerns)."><span class="class-num">b(19)</span><span class="status-label">renewed</span></td>
+</tr>
+
+<tr class="denial-row">
+  <td class="name">DRM authentication server shutdown (broad — beyond video games)</td>
+  <td class="summary" title="General DRM server shutdown across all works. Denied 2010 for insufficient evidence. The narrower video-game-specific version was later granted in 2015.">Broad DRM-server-shutdown access. Narrower video-game version later granted (2015).</td>
+  <td class="cell s-not_proposed"><span class="status-label">not proposed</span></td>
+  <td class="cell s-not_proposed"><span class="status-label">not proposed</span></td>
+  <td class="cell s-not_proposed"><span class="status-label">not proposed</span></td>
+  <td class="cell s-petitioned_denied" title="2010 (IV.B.1 + IV.B.2) — denied: proponent did not sustain the burden of showing adverse effect."><span class="class-num">IV.B</span><span class="status-label">denied</span></td>
+  <td class="cell s-not_proposed"><span class="status-label">not proposed</span></td>
+  <td class="cell s-not_proposed" title="Narrower video-game version granted this cycle as video-games-preservation."><span class="status-label">→ vg-pres</span></td>
+  <td class="cell s-not_proposed"><span class="status-label">not proposed</span></td>
+  <td class="cell s-not_proposed"><span class="status-label">not proposed</span></td>
+  <td class="cell s-not_proposed"><span class="status-label">not proposed</span></td>
+</tr>
+
+<tr class="denial-row">
+  <td class="name">Library-distributed audiobooks (electronic audio format)</td>
+  <td class="summary" title="Library users may circumvent TPMs on electronically-distributed audiobooks. Denied 2006 — held to be a software-incompatibility complaint, not access-control.">Library audiobook access. Denied: not really an access-control issue.</td>
+  <td class="cell s-not_proposed"><span class="status-label">not proposed</span></td>
+  <td class="cell s-not_proposed"><span class="status-label">not proposed</span></td>
+  <td class="cell s-petitioned_denied" title="2006 (B.7) — denied: complaint about software incompatibility, not TPMs."><span class="class-num">B.7</span><span class="status-label">denied</span></td>
+  <td class="cell s-not_proposed"><span class="status-label">not proposed</span></td>
+  <td class="cell s-not_proposed"><span class="status-label">not proposed</span></td>
+  <td class="cell s-not_proposed"><span class="status-label">not proposed</span></td>
+  <td class="cell s-not_proposed"><span class="status-label">not proposed</span></td>
+  <td class="cell s-not_proposed"><span class="status-label">not proposed</span></td>
+  <td class="cell s-not_proposed"><span class="status-label">not proposed</span></td>
+</tr>
+
+<!-- CATEGORY: Wireless -->
+<tr class="category-row"><td colspan="11">Wireless Network Connectivity</td></tr>
+
+<tr class="exemption">
+  <td class="name">Wireless devices — unlocking to connect to a different carrier</td>
+  <td class="summary" title="Unlock a wireless device to switch carrier networks, where new network operator authorizes the connection. Narrowed twice then expanded three times.">Unlock wireless device to switch carriers. Narrowed twice, expanded three times.</td>
+  <td class="cell s-not_yet_proposed"><span class="status-label">—</span></td>
+  <td class="cell s-not_yet_proposed"><span class="status-label">—</span></td>
+  <td class="cell s-new"><span class="class-num">b(5)</span><span class="status-label">new</span></td>
+  <td class="cell s-renewed_narrowed" title="2010 (b)(3) — narrowed to 'used' handsets."><span class="class-num">b(3)</span><span class="status-label">narrowed</span></td>
+  <td class="cell s-renewed_narrowed" title="2012 (b)(3) — narrowed further: 90-day window post-effective-date; carrier-failure-to-unlock condition."><span class="class-num">b(3)</span><span class="status-label">narrowed</span></td>
+  <td class="cell s-renewed_expanded" title="2015 (b)(3) — device classes broadened to cellphones, tablets, mobile hotspots, wearables (all 'used')."><span class="class-num">b(3)</span><span class="status-label">expanded</span></td>
+  <td class="cell s-renewed_expanded" title="2018 (b)(5) — 'used device' requirement DROPPED."><span class="class-num">b(5)</span><span class="status-label">expanded</span></td>
+  <td class="cell s-renewed_expanded" title="2021 (b)(8) — device-class enumeration DROPPED. Any wireless device qualifies."><span class="class-num">b(8)</span><span class="status-label">expanded</span></td>
+  <td class="cell s-renewed_unchanged"><span class="class-num">b(8)</span><span class="status-label">renewed</span></td>
+</tr>
+
+<!-- CATEGORY: Jailbreaking -->
+<tr class="category-row"><td colspan="11">Interoperability / Software Installation (Jailbreaking)</td></tr>
+
+<tr class="exemption">
+  <td class="name">Smartphones &amp; portable mobile devices — jailbreaking (+ removal of software)</td>
+  <td class="summary" title="Install lawfully obtained third-party apps; from 2015 also remove manufacturer/carrier software. The 'iPhone class' (2010), expanded in 2015 to tablets/removal.">Install third-party apps; from 2015 also remove software. The 'iPhone class'.</td>
+  <td class="cell s-not_yet_proposed"><span class="status-label">—</span></td>
+  <td class="cell s-not_yet_proposed"><span class="status-label">—</span></td>
+  <td class="cell s-not_yet_proposed"><span class="status-label">—</span></td>
+  <td class="cell s-new" title="2010 (b)(2) — original 'iPhone class'; handsets only."><span class="class-num">b(2)</span><span class="status-label">new</span></td>
+  <td class="cell s-renewed_unchanged partial-denial" title="2012 (b)(2) — renewed; the Register declined to extend it to tablets. PARTIAL DENIAL: tablet expansion proposal denied (category too 'broad and ill-defined'). Tablet expansion later GRANTED in 2015."><span class="class-num">b(2)</span><span class="status-label">renewed</span></td>
+  <td class="cell s-renewed_expanded" title="2015 (b)(4) — adds 'portable all-purpose mobile computing devices' (tablet-like) AND adds removal-of-software clause."><span class="class-num">b(4)</span><span class="status-label">expanded</span></td>
+  <td class="cell s-renewed_unchanged"><span class="class-num">b(6)</span><span class="status-label">renewed</span></td>
+  <td class="cell s-renewed_unchanged"><span class="class-num">b(9)</span><span class="status-label">renewed</span></td>
+  <td class="cell s-renewed_unchanged"><span class="class-num">b(9)</span><span class="status-label">renewed</span></td>
+</tr>
+
+<tr class="exemption">
+  <td class="name">Smart televisions — jailbreaking (interoperability only)</td>
+  <td class="summary" title="Install lawfully obtained third-party apps on smart TVs. NO removal-of-software clause (narrower than smartphone). 2021 expansion covers separate streaming devices.">Smart-TV apps install. No software-removal. 2021 includes set-top streamers.</td>
+  <td class="cell s-not_yet_proposed"><span class="status-label">—</span></td>
+  <td class="cell s-not_yet_proposed"><span class="status-label">—</span></td>
+  <td class="cell s-not_yet_proposed"><span class="status-label">—</span></td>
+  <td class="cell s-not_yet_proposed"><span class="status-label">—</span></td>
+  <td class="cell s-not_yet_proposed"><span class="status-label">—</span></td>
+  <td class="cell s-new"><span class="class-num">b(5)</span><span class="status-label">new</span></td>
+  <td class="cell s-renewed_unchanged"><span class="class-num">b(7)</span><span class="status-label">renewed</span></td>
+  <td class="cell s-renewed_expanded" title="2021 (b)(10) — definition broadened to include devices physically separate from a TV whose primary purpose is to stream authorized video (Roku/Apple TV/Chromecast etc.)."><span class="class-num">b(10)</span><span class="status-label">expanded</span></td>
+  <td class="cell s-renewed_unchanged"><span class="class-num">b(10)</span><span class="status-label">renewed</span></td>
+</tr>
+
+<tr class="exemption">
+  <td class="name">Voice assistant devices — jailbreaking (+ removal of software)</td>
+  <td class="summary" title="Install lawfully obtained third-party apps on voice-input devices. Includes software removal.">Voice-assistant app install + software removal.</td>
+  <td class="cell s-not_yet_proposed"><span class="status-label">—</span></td>
+  <td class="cell s-not_yet_proposed"><span class="status-label">—</span></td>
+  <td class="cell s-not_yet_proposed"><span class="status-label">—</span></td>
+  <td class="cell s-not_yet_proposed"><span class="status-label">—</span></td>
+  <td class="cell s-not_yet_proposed"><span class="status-label">—</span></td>
+  <td class="cell s-not_yet_proposed"><span class="status-label">—</span></td>
+  <td class="cell s-new"><span class="class-num">b(8)</span><span class="status-label">new</span></td>
+  <td class="cell s-renewed_unchanged"><span class="class-num">b(11)</span><span class="status-label">renewed</span></td>
+  <td class="cell s-renewed_unchanged"><span class="class-num">b(11)</span><span class="status-label">renewed</span></td>
+</tr>
+
+<tr class="exemption">
+  <td class="name">Routers &amp; dedicated network devices — jailbreaking (interoperability only)</td>
+  <td class="summary" title="Install third-party firmware (OpenWrt, DD-WRT, etc.) on routers and dedicated network devices. NO removal-of-software clause.">Third-party firmware (OpenWrt/DD-WRT) on routers / network devices.</td>
+  <td class="cell s-not_yet_proposed"><span class="status-label">—</span></td>
+  <td class="cell s-not_yet_proposed"><span class="status-label">—</span></td>
+  <td class="cell s-not_yet_proposed"><span class="status-label">—</span></td>
+  <td class="cell s-not_yet_proposed"><span class="status-label">—</span></td>
+  <td class="cell s-not_yet_proposed"><span class="status-label">—</span></td>
+  <td class="cell s-not_yet_proposed"><span class="status-label">—</span></td>
+  <td class="cell s-not_yet_proposed"><span class="status-label">—</span></td>
+  <td class="cell s-new"><span class="class-num">b(12)</span><span class="status-label">new</span></td>
+  <td class="cell s-renewed_unchanged"><span class="class-num">b(12)</span><span class="status-label">renewed</span></td>
+</tr>
+
+<tr class="denial-row">
+  <td class="name">Video game console jailbreaking</td>
+  <td class="summary" title="Jailbreak video game consoles for software interoperability. Denied twice — Register cites strong correlation between console jailbreaking and piracy.">Console jailbreaking. Denied: closely associated with piracy.</td>
+  <td class="cell s-not_proposed"><span class="status-label">not proposed</span></td>
+  <td class="cell s-not_proposed"><span class="status-label">not proposed</span></td>
+  <td class="cell s-not_proposed"><span class="status-label">not proposed</span></td>
+  <td class="cell s-not_proposed"><span class="status-label">not proposed</span></td>
+  <td class="cell s-petitioned_denied" title="2012 (Class 3) — denied: evidentiary record did not support adverse impact."><span class="class-num">C.3</span><span class="status-label">denied</span></td>
+  <td class="cell s-petitioned_denied" title="2015 (Class 19) — denied: 'jailbreaking of video game consoles continues to be closely associated with video game piracy.'"><span class="class-num">C.19</span><span class="status-label">denied</span></td>
+  <td class="cell s-not_proposed"><span class="status-label">not proposed</span></td>
+  <td class="cell s-not_proposed"><span class="status-label">not proposed</span></td>
+  <td class="cell s-not_proposed"><span class="status-label">not proposed</span></td>
+</tr>
+
+<tr class="denial-row">
+  <td class="name">E-book reader jailbreaking</td>
+  <td class="summary" title="Jailbreak dedicated e-book readers (Kindle, Nook, etc.) for software interoperability. Denied 2015.">Kindle/Nook jailbreaking. Single-cycle denial.</td>
+  <td class="cell s-not_proposed"><span class="status-label">not proposed</span></td>
+  <td class="cell s-not_proposed"><span class="status-label">not proposed</span></td>
+  <td class="cell s-not_proposed"><span class="status-label">not proposed</span></td>
+  <td class="cell s-not_proposed"><span class="status-label">not proposed</span></td>
+  <td class="cell s-not_proposed"><span class="status-label">not proposed</span></td>
+  <td class="cell s-petitioned_denied" title="2015 (Class 18) — denied: insufficient factual or legal support."><span class="class-num">C.18</span><span class="status-label">denied</span></td>
+  <td class="cell s-not_proposed"><span class="status-label">not proposed</span></td>
+  <td class="cell s-not_proposed"><span class="status-label">not proposed</span></td>
+  <td class="cell s-not_proposed"><span class="status-label">not proposed</span></td>
+</tr>
+
+<tr class="denial-row">
+  <td class="name">Personal computers / OS-restricted programs / secure boot</td>
+  <td class="summary" title="Circumvent access controls on general-purpose PCs, OS-locked programs, or secure-boot mechanisms. Denied 2006 and 2012.">General PC / secure-boot circumvention. Two cycles of denial.</td>
+  <td class="cell s-not_proposed"><span class="status-label">not proposed</span></td>
+  <td class="cell s-not_proposed"><span class="status-label">not proposed</span></td>
+  <td class="cell s-petitioned_denied" title="2006 (B.5) — denied: insufficient evidence."><span class="class-num">B.5</span><span class="status-label">denied</span></td>
+  <td class="cell s-not_proposed"><span class="status-label">not proposed</span></td>
+  <td class="cell s-petitioned_denied" title="2012 (Class 4) — denied: speculative; no specific compelling evidence."><span class="class-num">C.4</span><span class="status-label">denied</span></td>
+  <td class="cell s-not_proposed"><span class="status-label">not proposed</span></td>
+  <td class="cell s-not_proposed"><span class="status-label">not proposed</span></td>
+  <td class="cell s-not_proposed"><span class="status-label">not proposed</span></td>
+  <td class="cell s-not_proposed"><span class="status-label">not proposed</span></td>
+</tr>
+
+<!-- CATEGORY: Repair -->
+<tr class="category-row"><td colspan="11">Repair, Diagnosis, &amp; Modification</td></tr>
+
+<tr class="exemption">
+  <td class="name">Motorized land vehicles (+ marine vessels from 2021) — diagnosis, repair, lawful modification</td>
+  <td class="summary" title="Owner repair/diagnosis/modification of vehicle ECU/computer programs. Subscription-service programs excluded. Marine vessels added in 2021.">Owner repair/diagnose/modify vehicle ECUs. Excludes subscription programs. Marine vessels added 2021.</td>
+  <td class="cell s-not_yet_proposed"><span class="status-label">—</span></td>
+  <td class="cell s-not_yet_proposed"><span class="status-label">—</span></td>
+  <td class="cell s-not_yet_proposed"><span class="status-label">—</span></td>
+  <td class="cell s-not_yet_proposed"><span class="status-label">—</span></td>
+  <td class="cell s-not_yet_proposed"><span class="status-label">—</span></td>
+  <td class="cell s-new" title="2015 (b)(6) — first granted; 12-month delayed effective date; broad telematics/entertainment carve-out."><span class="class-num">b(6)</span><span class="status-label">new</span></td>
+  <td class="cell s-renewed_expanded" title="2018 (b)(9) — 12-month delay DROPPED; telematics/entertainment exclusion replaced with narrower subscription-service exclusion."><span class="class-num">b(9)</span><span class="status-label">expanded</span></td>
+  <td class="cell s-renewed_expanded" title="2021 (b)(13) — adds marine vessels."><span class="class-num">b(13)</span><span class="status-label">expanded</span></td>
+  <td class="cell s-renewed_unchanged"><span class="class-num">b(13)</span><span class="status-label">renewed</span></td>
+</tr>
+
+<tr class="exemption">
+  <td class="name">Vehicles &amp; marine vessels — owner access to operational/diagnostic/telematics data</td>
+  <td class="summary" title="Owners/lessees (or agents) may circumvent to access, store, and share vehicle/vessel operational data including diagnostics and telematics.">Owner access to vehicle/vessel operational, diagnostic, telematics data.</td>
+  <td class="cell s-not_yet_proposed"><span class="status-label">—</span></td>
+  <td class="cell s-not_yet_proposed"><span class="status-label">—</span></td>
+  <td class="cell s-not_yet_proposed"><span class="status-label">—</span></td>
+  <td class="cell s-not_yet_proposed"><span class="status-label">—</span></td>
+  <td class="cell s-not_yet_proposed"><span class="status-label">—</span></td>
+  <td class="cell s-not_yet_proposed"><span class="status-label">—</span></td>
+  <td class="cell s-not_yet_proposed"><span class="status-label">—</span></td>
+  <td class="cell s-not_yet_proposed"><span class="status-label">—</span></td>
+  <td class="cell s-new"><span class="class-num">b(14)</span><span class="status-label">new</span></td>
+</tr>
+
+<tr class="exemption">
+  <td class="name">Consumer devices — diagnosis, maintenance, or repair</td>
+  <td class="summary" title="Right-to-repair for consumer devices. 2018 covered smartphones/home appliances/home systems only; 2021 broadened to any consumer device. Video-game console carve-out: optical-drive repair only, must restore TPMs.">Right-to-repair for consumer devices (broadened 2021); narrow VG-console optical-drive carve-out.</td>
+  <td class="cell s-not_yet_proposed"><span class="status-label">—</span></td>
+  <td class="cell s-not_yet_proposed"><span class="status-label">—</span></td>
+  <td class="cell s-not_yet_proposed"><span class="status-label">—</span></td>
+  <td class="cell s-not_yet_proposed"><span class="status-label">—</span></td>
+  <td class="cell s-not_yet_proposed"><span class="status-label">—</span></td>
+  <td class="cell s-not_yet_proposed"><span class="status-label">—</span></td>
+  <td class="cell s-new" title="2018 (b)(10) — first granted; limited to smartphone/home appliance/home system."><span class="class-num">b(10)</span><span class="status-label">new</span></td>
+  <td class="cell s-renewed_expanded" title="2021 (b)(14) — broadened to any 'device primarily designed for use by consumers'."><span class="class-num">b(14)</span><span class="status-label">expanded</span></td>
+  <td class="cell s-renewed_unchanged partial-denial" title="2024 (b)(15) — renewed unchanged. PARTIAL DENIAL: a proposed broader expansion to all commercial and industrial equipment (Class 5 broader scope) was rejected; only retail food-prep equipment was carved out and granted as the separately-tracked (b)(16) class."><span class="class-num">b(15)</span><span class="status-label">renewed</span></td>
+</tr>
+
+<tr class="exemption">
+  <td class="name">Medical devices &amp; systems — diagnosis, maintenance, or repair</td>
+  <td class="summary" title="Independent repair of lawfully acquired medical devices/systems and related data files.">Independent repair of medical devices &amp; systems.</td>
+  <td class="cell s-not_yet_proposed"><span class="status-label">—</span></td>
+  <td class="cell s-not_yet_proposed"><span class="status-label">—</span></td>
+  <td class="cell s-not_yet_proposed"><span class="status-label">—</span></td>
+  <td class="cell s-not_yet_proposed"><span class="status-label">—</span></td>
+  <td class="cell s-not_yet_proposed"><span class="status-label">—</span></td>
+  <td class="cell s-not_yet_proposed"><span class="status-label">—</span></td>
+  <td class="cell s-not_yet_proposed"><span class="status-label">—</span></td>
+  <td class="cell s-new"><span class="class-num">b(15)</span><span class="status-label">new</span></td>
+  <td class="cell s-renewed_unchanged"><span class="class-num">b(17)</span><span class="status-label">renewed</span></td>
+</tr>
+
+<tr class="exemption">
+  <td class="name">Retail commercial food prep equipment — diagnosis, maintenance, or repair</td>
+  <td class="summary" title="Repair of commercial food-prep equipment (e.g., the McDonald's ice cream machine problem).">Commercial food-prep equipment repair (the 'McDonald's ice cream' problem).</td>
+  <td class="cell s-not_yet_proposed"><span class="status-label">—</span></td>
+  <td class="cell s-not_yet_proposed"><span class="status-label">—</span></td>
+  <td class="cell s-not_yet_proposed"><span class="status-label">—</span></td>
+  <td class="cell s-not_yet_proposed"><span class="status-label">—</span></td>
+  <td class="cell s-not_yet_proposed"><span class="status-label">—</span></td>
+  <td class="cell s-not_yet_proposed"><span class="status-label">—</span></td>
+  <td class="cell s-not_yet_proposed"><span class="status-label">—</span></td>
+  <td class="cell s-not_yet_proposed"><span class="status-label">—</span></td>
+  <td class="cell s-new"><span class="class-num">b(16)</span><span class="status-label">new</span></td>
+</tr>
+
+<tr class="denial-row">
+  <td class="name">Commercial &amp; industrial equipment repair (beyond food prep)</td>
+  <td class="summary" title="Repair of all software-enabled commercial and industrial equipment. Denied 2024 — only the narrow food-prep subset granted; broader scope unsupported on record.">Broader commercial/industrial repair. Denied 2024 (only food-prep granted).</td>
+  <td class="cell s-not_proposed"><span class="status-label">not proposed</span></td>
+  <td class="cell s-not_proposed"><span class="status-label">not proposed</span></td>
+  <td class="cell s-not_proposed"><span class="status-label">not proposed</span></td>
+  <td class="cell s-not_proposed"><span class="status-label">not proposed</span></td>
+  <td class="cell s-not_proposed"><span class="status-label">not proposed</span></td>
+  <td class="cell s-not_proposed"><span class="status-label">not proposed</span></td>
+  <td class="cell s-not_proposed"><span class="status-label">not proposed</span></td>
+  <td class="cell s-not_proposed"><span class="status-label">not proposed</span></td>
+  <td class="cell s-petitioned_denied" title="2024 (Class 5, broader scope) — denied: insufficient evidence on record beyond the food-prep carve-out."><span class="class-num">C.5</span><span class="status-label">denied</span></td>
+</tr>
+
+<!-- CATEGORY: Patient/Owner Data -->
+<tr class="category-row"><td colspan="11">Patient / Owner Data Access</td></tr>
+
+<tr class="exemption">
+  <td class="name">Medical-device data — patient access to own data</td>
+  <td class="summary" title="Patients (or agents from 2021) may circumvent to access data their own medical devices generate. Originally implanted-only with passive-monitoring requirement; 2021 dropped both restrictions.">Patient access to own medical-device data. Major 2021 expansion.</td>
+  <td class="cell s-not_yet_proposed"><span class="status-label">—</span></td>
+  <td class="cell s-not_yet_proposed"><span class="status-label">—</span></td>
+  <td class="cell s-not_yet_proposed"><span class="status-label">—</span></td>
+  <td class="cell s-not_yet_proposed"><span class="status-label">—</span></td>
+  <td class="cell s-not_yet_proposed"><span class="status-label">—</span></td>
+  <td class="cell s-new" title="2015 (b)(10) — first granted (Hugo Campos's class); implanted devices only; passive monitoring only; patient personally."><span class="class-num">b(10)</span><span class="status-label">new</span></td>
+  <td class="cell s-renewed_unchanged"><span class="class-num">b(4)</span><span class="status-label">renewed</span></td>
+  <td class="cell s-renewed_expanded" title="2021 (b)(7) — three expansions: 'by or on behalf of' patient; implantation requirement REMOVED; passive-monitoring restriction REMOVED."><span class="class-num">b(7)</span><span class="status-label">expanded</span></td>
+  <td class="cell s-renewed_unchanged"><span class="class-num">b(7)</span><span class="status-label">renewed</span></td>
+</tr>
+
+<!-- CATEGORY: Feedstock -->
+<tr class="category-row"><td colspan="11">Material / Feedstock Interoperability</td></tr>
+
+<tr class="exemption">
+  <td class="name">3D printers — feedstock / material interoperability</td>
+  <td class="summary" title="Use alternative material in 3D printers locked to manufacturer feedstock. May NOT access design software/files/data.">Use alternative 3D-printer material. Excludes design software/files/data.</td>
+  <td class="cell s-not_yet_proposed"><span class="status-label">—</span></td>
+  <td class="cell s-not_yet_proposed"><span class="status-label">—</span></td>
+  <td class="cell s-not_yet_proposed"><span class="status-label">—</span></td>
+  <td class="cell s-not_yet_proposed"><span class="status-label">—</span></td>
+  <td class="cell s-not_yet_proposed"><span class="status-label">—</span></td>
+  <td class="cell s-new" title="2015 (b)(9) — first granted; 'microchip-reliant' TPMs only; regulated-commerce exclusion."><span class="class-num">b(9)</span><span class="status-label">new</span></td>
+  <td class="cell s-renewed_expanded" title="2018 (b)(14) — regulated-commerce exclusion DROPPED."><span class="class-num">b(14)</span><span class="status-label">expanded</span></td>
+  <td class="cell s-renewed_expanded" title="2021 (b)(19) — 'microchip-reliant' qualifier DROPPED; 'feedstock' generalized to 'material'."><span class="class-num">b(19)</span><span class="status-label">expanded</span></td>
+  <td class="cell s-renewed_unchanged"><span class="class-num">b(21)</span><span class="status-label">renewed</span></td>
+</tr>
+
+<!-- CATEGORY: Software License Compliance -->
+<tr class="category-row"><td colspan="11">Software License Compliance</td></tr>
+
+<tr class="exemption">
+  <td class="name">FOSS programs — investigation of potential license infringement</td>
+  <td class="summary" title="Investigate FOSS license violations (typically GPL compliance) on a lawfully acquired device. Excludes video game consoles. Standing requirement.">FOSS license-compliance investigation. Excludes consoles. Standing required.</td>
+  <td class="cell s-not_yet_proposed"><span class="status-label">—</span></td>
+  <td class="cell s-not_yet_proposed"><span class="status-label">—</span></td>
+  <td class="cell s-not_yet_proposed"><span class="status-label">—</span></td>
+  <td class="cell s-not_yet_proposed"><span class="status-label">—</span></td>
+  <td class="cell s-not_yet_proposed"><span class="status-label">—</span></td>
+  <td class="cell s-not_yet_proposed"><span class="status-label">—</span></td>
+  <td class="cell s-not_yet_proposed"><span class="status-label">—</span></td>
+  <td class="cell s-new"><span class="class-num">b(20)</span><span class="status-label">new</span></td>
+  <td class="cell s-renewed_unchanged"><span class="class-num">b(22)</span><span class="status-label">renewed</span></td>
+</tr>
+
+<!-- CATEGORY: Denied — Class-Definition Disputes & Threshold -->
+<tr class="category-row denial-cat"><td colspan="11">Denied — Class-Definition Disputes &amp; Threshold Issues</td></tr>
+
+<tr class="denial-row">
+  <td class="name">Broad use-based exemptions ('all fair use', 'all noninfringing uses')</td>
+  <td class="summary" title="Recurring blanket-exemption petition. Repeatedly denied: §1201's structure requires defining a class by qualities of the WORK, not by use or user. The most-rejected category in history.">Blanket 'all fair use' exemption. Denied: §1201 requires class-of-works definition.</td>
+  <td class="cell s-petitioned_denied" title="2000 (Proposals E.7 + E.9) — denied: 'a particular class of work' must be determined by qualities of the work itself, not by users or uses."><span class="class-num">E.7,9</span><span class="status-label">denied</span></td>
+  <td class="cell s-petitioned_denied_procedural" title="2003 (Classes 1, 2, 4, 7) — denied procedurally: 'utterly failed to propose a particular class of copyrighted works'."><span class="class-num">C.1–7</span><span class="status-label">procedural</span></td>
+  <td class="cell s-petitioned_denied_procedural" title="2006 (B.8) — denied: failed to articulate a cognizable class."><span class="class-num">B.8</span><span class="status-label">procedural</span></td>
+  <td class="cell s-not_proposed"><span class="status-label">not proposed</span></td>
+  <td class="cell s-petitioned_denied" title="2012 (Class 1) — denied: beyond scope of rulemaking."><span class="class-num">C.1</span><span class="status-label">denied</span></td>
+  <td class="cell s-not_proposed"><span class="status-label">not proposed</span></td>
+  <td class="cell s-not_proposed"><span class="status-label">not proposed</span></td>
+  <td class="cell s-not_proposed"><span class="status-label">not proposed</span></td>
+  <td class="cell s-not_proposed"><span class="status-label">not proposed</span></td>
+</tr>
+
+<tr class="denial-row">
+  <td class="name">Public-domain works behind TPMs</td>
+  <td class="summary" title="Permit circumvention of TPMs on works in the public domain. Denied multiple cycles: §1201 doesn't apply to non-copyrighted works, so no exemption is needed.">Public-domain works behind TPMs. Denied: §1201 doesn't apply; no exemption needed.</td>
+  <td class="cell s-not_proposed"><span class="status-label">not proposed</span></td>
+  <td class="cell s-petitioned_denied" title="2003 (Class 7) — denied: §1201 not applicable to public-domain works; no exemption needed."><span class="class-num">C.7</span><span class="status-label">denied</span></td>
+  <td class="cell s-petitioned_denied" title="2006 (A.2-secondary) — denied: not access controls; no exemption needed."><span class="class-num">A.2'</span><span class="status-label">denied</span></td>
+  <td class="cell s-not_proposed"><span class="status-label">not proposed</span></td>
+  <td class="cell s-petitioned_denied" title="2012 (Class 1) — denied: beyond scope of rulemaking."><span class="class-num">C.1</span><span class="status-label">denied</span></td>
+  <td class="cell s-not_proposed"><span class="status-label">not proposed</span></td>
+  <td class="cell s-not_proposed"><span class="status-label">not proposed</span></td>
+  <td class="cell s-not_proposed"><span class="status-label">not proposed</span></td>
+  <td class="cell s-not_proposed"><span class="status-label">not proposed</span></td>
+</tr>
+
+<tr class="denial-row">
+  <td class="name">Avionics / aircraft data systems</td>
+  <td class="summary" title="Circumvent access controls on aircraft electronic systems to access flight/operations data. Denied 2018 — the data at issue (flight stats, etc.) are facts, not copyrightable, so §1201 doesn't apply.">Aircraft data access. Denied: data is facts, not copyrightable.</td>
+  <td class="cell s-not_proposed"><span class="status-label">not proposed</span></td>
+  <td class="cell s-not_proposed"><span class="status-label">not proposed</span></td>
+  <td class="cell s-not_proposed"><span class="status-label">not proposed</span></td>
+  <td class="cell s-not_proposed"><span class="status-label">not proposed</span></td>
+  <td class="cell s-not_proposed"><span class="status-label">not proposed</span></td>
+  <td class="cell s-not_proposed"><span class="status-label">not proposed</span></td>
+  <td class="cell s-petitioned_denied" title="2018 (Class 11) — denied: aircraft data are facts, not copyrightable; §1201 doesn't apply."><span class="class-num">C.11</span><span class="status-label">denied</span></td>
+  <td class="cell s-not_proposed"><span class="status-label">not proposed</span></td>
+  <td class="cell s-not_proposed"><span class="status-label">not proposed</span></td>
+</tr>
+
+</tbody>
+</table>
+
+<footer>
+  <p><b>Sources.</b> Every granted-exemption cell traces to the codified <code>§ 201.40(b)(N)</code> text in the relevant Final Rule, archived in <code>1201/Final Rules/YYYY-Final-Rule.{pdf,txt}</code>. Every denied-petition cell traces to the corresponding Final Rule preamble (or, where the Final Rule is silent, the Register's Recommendation). Per-cycle granted records (with verbatim quotes and PDF page citations) are in <code>analysis/cycle-YYYY.json</code>; per-cycle denial records in <code>analysis/cycle-YYYY-denials.json</code>; consolidated cross-cycle status in <code>analysis/exemptions-master.json</code>; independent verification in <code>analysis/verification-report.md</code>.</p>
+  <p><b>Coverage of denials.</b> The denial rows here cover (1) every <i>substantively recurring</i> denial topic across cycles, (2) every <i>standalone denied topic</i> from cycles 2010-2024 (where the Final Rule clearly enumerates them), and (3) <i>partial-denial</i> indicators (red corner triangle) on otherwise-granted cells. The cycle-YYYY-denials.json files preserve the full record including minor one-off denials not given their own diagram row.</p>
+  <p><b>One historical note.</b> In 2010 the Librarian of Congress overrode the Register on the literary-works-accessibility class — the Register recommended denial but the Librarian granted it anyway (the only known instance of such an override in this archive). It is shown as 'renewed' on the literary-works-accessibility row because the codified rule was issued, but readers should know that the Register-Librarian distinction can matter.</p>
+  <p><b>Not legal advice.</b> This document describes the §1201 rulemaking record; it does not represent legal conclusions.</p>
+</footer>
+
+</div>
+</body>
+</html>
