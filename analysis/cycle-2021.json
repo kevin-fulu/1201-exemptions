@@ -5,6 +5,7 @@
   "extractor_notes": "Extracted by main session after content-filter blocked sub-agent. 21 codified classes (b)(1) through (b)(21). Renewal_status determined by comparing 2021 codified text to 2018 codified text. The 2021 Final Rule restructures several classes: (b)(7) medical-device data drops the 'passive monitoring' restriction and adds 'by or on behalf of' a patient; (b)(8) unlocking is simplified to 'wireless devices' (the prior 4-class enumeration is collapsed); (b)(14) consumer-device repair broadens from 'smartphone/home appliance/home system' to any 'device primarily designed for use by consumers' (with a narrow carve-out for video game console optical-drive repair); (b)(16) security research drops the CFAA-non-violation precondition and replaces it with a 'no safe harbor' clause; (b)(19) 3D printers drops the 'microchip-reliant' qualifier and uses 'material' instead of 'feedstock'; (b)(18) software preservation adds controlled offsite loan access. INDEX.md labels verified against codified text — no discrepancies.",
   "exemptions": [
     {
+      "class_id": "2021:b1",
       "class_number": "(b)(1)",
       "equipment_or_work": "Motion pictures — short clips for criticism/comment and educational uses",
       "permitted_uses": [
@@ -36,6 +37,7 @@
       }
     },
     {
+      "class_id": "2021:b2",
       "class_number": "(b)(2)",
       "equipment_or_work": "Motion pictures — captioning and audio description by educational disability services (expanded to faculty/staff; permits reuse)",
       "permitted_uses": [
@@ -64,6 +66,7 @@
       }
     },
     {
+      "class_id": "2021:b3",
       "class_number": "(b)(3)",
       "equipment_or_work": "Motion pictures (DVD/Blu-ray) — preservation/replacement copies by eligible libraries/archives/museums",
       "permitted_uses": [
@@ -90,6 +93,7 @@
       }
     },
     {
+      "class_id": "2021:b4",
       "class_number": "(b)(4)",
       "equipment_or_work": "Motion pictures — text-and-data-mining (TDM) research at nonprofit higher-ed",
       "permitted_uses": [
@@ -117,6 +121,7 @@
       }
     },
     {
+      "class_id": "2021:b5",
       "class_number": "(b)(5)",
       "equipment_or_work": "Literary works (electronic) — text-and-data-mining (TDM) research at nonprofit higher-ed",
       "permitted_uses": [
@@ -143,6 +148,7 @@
       }
     },
     {
+      "class_id": "2021:b6",
       "class_number": "(b)(6)",
       "equipment_or_work": "Literary works AND previously published musical works (text/notation), distributed electronically — accessibility (musical notation added)",
       "permitted_uses": [
@@ -170,6 +176,7 @@
       }
     },
     {
+      "class_id": "2021:b7",
       "class_number": "(b)(7)",
       "equipment_or_work": "Compilations of medical-device data — patient access to own data (broadened: 'by or on behalf of' patient; passive-monitoring restriction removed)",
       "permitted_uses": [
@@ -195,6 +202,7 @@
       }
     },
     {
+      "class_id": "2021:b8",
       "class_number": "(b)(8)",
       "equipment_or_work": "Wireless devices — unlocking (simplified; device-class enumeration removed)",
       "permitted_uses": [
@@ -217,6 +225,7 @@
       }
     },
     {
+      "class_id": "2021:b9",
       "class_number": "(b)(9)",
       "equipment_or_work": "Smartphones and portable all-purpose mobile computing devices — jailbreaking (+ removal of software)",
       "permitted_uses": [
@@ -241,6 +250,7 @@
       }
     },
     {
+      "class_id": "2021:b10",
       "class_number": "(b)(10)",
       "equipment_or_work": "Smart televisions — jailbreaking (interoperability only; clarified to include separate streaming devices)",
       "permitted_uses": [
@@ -267,6 +277,7 @@
       }
     },
     {
+      "class_id": "2021:b11",
       "class_number": "(b)(11)",
       "equipment_or_work": "Voice assistant devices — jailbreaking (+ removal of software)",
       "permitted_uses": [
@@ -292,6 +303,7 @@
       }
     },
     {
+      "class_id": "2021:b12",
       "class_number": "(b)(12)",
       "equipment_or_work": "Routers and dedicated network devices — jailbreaking (interoperability only)",
       "permitted_uses": [
@@ -317,6 +329,7 @@
       }
     },
     {
+      "class_id": "2021:b13",
       "class_number": "(b)(13)",
       "equipment_or_work": "Motorized land vehicles AND marine vessels — diagnosis, repair, lawful modification",
       "permitted_uses": [
@@ -341,6 +354,7 @@
       }
     },
     {
+      "class_id": "2021:b14",
       "class_number": "(b)(14)",
       "equipment_or_work": "Consumer devices generally — diagnosis, maintenance, or repair (broadened from 2018's smartphone/home-appliance/home-system class)",
       "permitted_uses": [
@@ -367,6 +381,7 @@
       }
     },
     {
+      "class_id": "2021:b15",
       "class_number": "(b)(15)",
       "equipment_or_work": "Medical devices and systems — diagnosis, maintenance, or repair",
       "permitted_uses": [
@@ -389,6 +404,7 @@
       }
     },
     {
+      "class_id": "2021:b16",
       "class_number": "(b)(16)",
       "equipment_or_work": "Good-faith security research (CFAA-non-violation precondition removed)",
       "permitted_uses": [
@@ -413,6 +429,7 @@
       }
     },
     {
+      "class_id": "2021:b17",
       "class_number": "(b)(17)",
       "equipment_or_work": "Video games — preservation when authentication server abandoned; preservation of offline games by LAMs",
       "permitted_uses": [
@@ -444,6 +461,7 @@
       }
     },
     {
+      "class_id": "2021:b18",
       "class_number": "(b)(18)",
       "equipment_or_work": "Software preservation by LAMs — non-game computer programs (now permits controlled offsite single-user loan)",
       "permitted_uses": [
@@ -470,6 +488,7 @@
       }
     },
     {
+      "class_id": "2021:b19",
       "class_number": "(b)(19)",
       "equipment_or_work": "3D printers — feedstock interoperability (microchip-reliant qualifier removed; 'feedstock' generalized to 'material')",
       "permitted_uses": [
@@ -492,6 +511,7 @@
       }
     },
     {
+      "class_id": "2021:b20",
       "class_number": "(b)(20)",
       "equipment_or_work": "FOSS computer programs — investigation of potential license infringement",
       "permitted_uses": [
@@ -516,6 +536,7 @@
       }
     },
     {
+      "class_id": "2021:b21",
       "class_number": "(b)(21)",
       "equipment_or_work": "Video games — accessibility input methods for users with physical disabilities",
       "permitted_uses": [

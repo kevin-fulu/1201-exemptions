@@ -4,6 +4,7 @@
   "extractor_notes": "Final Rule preamble enumerates six denied proposals in Section IV ('Other Classes Considered, but Not Recommended'), labeled IV.A through IV.E. Section IV.A and IV.B each bundle two sub-proposals from different proponents into a single heading, so they are split here into separate denial entries. A seventh entry captures the partial denial of Halderman's security-testing class (Section III.D): the Register narrowed it to video games and denied the broader scope covering sound recordings, audiovisual works, and other literary works. The NOI yielded 25 initial proposed classes; the Final Rule preamble does not separately discuss proposals that dropped out before the hearings, so this denial list reflects only the proposals the Register expressly addressed.",
   "denials": [
     {
+      "class_id": "2010:div-a-1",
       "proposed_class_number": "IV.A.1",
       "topic_label": "DRM-protected streaming video (Netflix) platform restriction",
       "reason_category": "alternatives",
@@ -12,6 +13,7 @@
       "later_granted_in_cycle": null
     },
     {
+      "class_id": "2010:div-a-2",
       "proposed_class_number": "IV.A.2",
       "topic_label": "CSS-protected DVD playback on Linux",
       "reason_category": "alternatives",
@@ -20,6 +22,7 @@
       "later_granted_in_cycle": null
     },
     {
+      "class_id": "2010:div-b-1",
       "proposed_class_number": "IV.B.1",
       "topic_label": "DRM authentication server shutdown (consumer access)",
       "reason_category": "evidence",
@@ -28,6 +31,7 @@
       "later_granted_in_cycle": null
     },
     {
+      "class_id": "2010:div-b-2",
       "proposed_class_number": "IV.B.2",
       "topic_label": "DRM authentication server study by researchers",
       "reason_category": "evidence",
@@ -36,6 +40,7 @@
       "later_granted_in_cycle": null
     },
     {
+      "class_id": "2010:div-c",
       "proposed_class_number": "IV.C",
       "topic_label": "Forensic investigator evidence collection",
       "reason_category": "evidence",
@@ -44,6 +49,7 @@
       "later_granted_in_cycle": null
     },
     {
+      "class_id": "2010:div-d",
       "proposed_class_number": "IV.D",
       "topic_label": "DTV broadcast flag circumvention",
       "reason_category": "evidence",
@@ -52,6 +58,7 @@
       "later_granted_in_cycle": null
     },
     {
+      "class_id": "2010:div-e",
       "proposed_class_number": "IV.E",
       "topic_label": "Blu-ray Image Constraint Token down-conversion",
       "reason_category": "evidence",
@@ -60,6 +67,7 @@
       "later_granted_in_cycle": null
     },
     {
+      "class_id": "2010:diii-d-partial",
       "proposed_class_number": "III.D (partial)",
       "topic_label": "Security testing of literary works, sound recordings, audiovisual works (broader Halderman class)",
       "reason_category": "evidence",

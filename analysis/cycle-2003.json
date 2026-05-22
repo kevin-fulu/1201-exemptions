@@ -5,6 +5,7 @@
   "extractor_notes": "All four codified classes appear on PDF page 8 of the 2003 Final Rule, matching the INDEX.md expected count of 4. The 2003 Final Rule is unusually compact — the entire codified Sec. 201.40(b) and the associated (c) Definitions section fit on a single PDF page. The codified prose fuses permitted-use and limitation clauses (e.g., classes (1) and (4) each contain a single complex sentence describing the work-class plus exceptions); these have been decomposed into permitted_uses[] and exclusions[]. Definitions in (c) are scoped to specific classes: (c)(1) 'Internet locations' applies to class (b)(1); (c)(2) 'Obsolete' applies to classes (b)(2) and (b)(3); (c)(3) 'Specialized format,' 'digital text,' and 'authorized entities' apply to class (b)(4). Each class record includes only the (c) definition(s) that apply to it; the full (c) chapeau quote is preserved on the most relevant class to support citation.",
   "exemptions": [
     {
+      "class_id": "2003:b1",
       "class_number": "(b)(1)",
       "equipment_or_work": "Compilations of Internet locations blocked by commercial filtering software",
       "permitted_uses": [
@@ -25,6 +26,7 @@
       }
     },
     {
+      "class_id": "2003:b2",
       "class_number": "(b)(2)",
       "equipment_or_work": "Computer programs protected by obsolete malfunctioning dongles",
       "permitted_uses": [
@@ -45,6 +47,7 @@
       }
     },
     {
+      "class_id": "2003:b3",
       "class_number": "(b)(3)",
       "equipment_or_work": "Computer programs and video games in obsolete formats",
       "permitted_uses": [
@@ -66,6 +69,7 @@
       }
     },
     {
+      "class_id": "2003:b4",
       "class_number": "(b)(4)",
       "equipment_or_work": "Literary works in ebook format with disabled read-aloud and screen-reader access",
       "permitted_uses": [

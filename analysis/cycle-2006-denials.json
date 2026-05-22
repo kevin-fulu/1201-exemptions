@@ -4,6 +4,7 @@
   "extractor_notes": "Denials are enumerated in Section III.B 'Other Exemptions Considered, But Not Recommended' (PDF pp. 6-8). The Final Rule lists 11 categories of denied proposals. NOTE on smartphone jailbreaking: the task brief flagged this, but neither the 2006 Final Rule nor the 2006 Register's Recommendation contains the words 'jailbreak', 'iPhone', or 'smartphone'. The cellphone-related class in 2006 was the GRANTED carrier-unlocking class (class 5); no jailbreaking-style class to install third-party apps was proposed in 2006. That issue first appears in the 2010 cycle. The premise that jailbreaking was 'reportedly proposed in 2006 and DENIED' is not supported by the archive. One sub-proposal was denied as a procedural matter within an otherwise GRANTED class: an expansion of the dongle class requested for the first time at the hearing was rejected as untimely (PDF p. 4); that sub-proposal is included below for completeness. Similarly, the Internet Archive's second proposed class (obsolete operating systems/hardware) was not granted, on the substantive ground that it does not involve access controls so no exemption was needed (PDF pp. 3-4); included below.",
   "denials": [
     {
+      "class_id": "2006:db-1",
       "proposed_class_number": "B.1",
       "topic_label": "Censorware blocked-site lists (renewal)",
       "reason_category": "evidence",
@@ -12,6 +13,7 @@
       "later_granted_in_cycle": null
     },
     {
+      "class_id": "2006:db-2",
       "proposed_class_number": "B.2",
       "topic_label": "Space-shifting of audiovisual and musical works",
       "reason_category": "noninfringing_use_not_shown",
@@ -20,6 +22,7 @@
       "later_granted_in_cycle": null
     },
     {
+      "class_id": "2006:db-3",
       "proposed_class_number": "B.3",
       "topic_label": "CSS-protected DVDs unplayable on Linux",
       "reason_category": "alternatives",
@@ -28,6 +31,7 @@
       "later_granted_in_cycle": null
     },
     {
+      "class_id": "2006:db-4",
       "proposed_class_number": "B.4",
       "topic_label": "Region-coded DVDs",
       "reason_category": "de_minimis",
@@ -36,6 +40,7 @@
       "later_granted_in_cycle": null
     },
     {
+      "class_id": "2006:db-5",
       "proposed_class_number": "B.5",
       "topic_label": "Computer programs restricted to a particular platform/OS",
       "reason_category": "evidence",
@@ -44,6 +49,7 @@
       "later_granted_in_cycle": null
     },
     {
+      "class_id": "2006:db-6",
       "proposed_class_number": "B.6",
       "topic_label": "Computer games/software copy protections (SecuROM, StarForce)",
       "reason_category": "evidence",
@@ -52,6 +58,7 @@
       "later_granted_in_cycle": null
     },
     {
+      "class_id": "2006:db-7",
       "proposed_class_number": "B.7",
       "topic_label": "Library-distributed audiobooks in electronic audio format",
       "reason_category": "substantive",
@@ -60,6 +67,7 @@
       "later_granted_in_cycle": null
     },
     {
+      "class_id": "2006:db-8",
       "proposed_class_number": "B.8",
       "topic_label": "All works / all fair use works",
       "reason_category": "procedural",
@@ -68,6 +76,7 @@
       "later_granted_in_cycle": null
     },
     {
+      "class_id": "2006:db-9",
       "proposed_class_number": "B.9",
       "topic_label": "Works protected by access controls preventing back-up copies",
       "reason_category": "noninfringing_use_not_shown",
@@ -76,6 +85,7 @@
       "later_granted_in_cycle": null
     },
     {
+      "class_id": "2006:db-10",
       "proposed_class_number": "B.10",
       "topic_label": "Audiovisual works and sound recordings protected by a broadcast flag",
       "reason_category": "substantive",
@@ -84,6 +94,7 @@
       "later_granted_in_cycle": null
     },
     {
+      "class_id": "2006:db-11",
       "proposed_class_number": "B.11",
       "topic_label": "Miscellaneous one-page proposals (EULAs, satellite TV, user-created content, digital broadcast time-shifting, etc.)",
       "reason_category": "evidence",
@@ -92,6 +103,7 @@
       "later_granted_in_cycle": null
     },
     {
+      "class_id": "2006:da-2-secondary",
       "proposed_class_number": "A.2-secondary",
       "topic_label": "Computer programs/video games requiring obsolete OS or hardware (Internet Archive's 2nd proposed class)",
       "reason_category": "substantive",
@@ -100,6 +112,7 @@
       "later_granted_in_cycle": null
     },
     {
+      "class_id": "2006:da-3-expansion",
       "proposed_class_number": "A.3-expansion",
       "topic_label": "Expanded dongle class (incompatibilities / obsolete OS or hardware)",
       "reason_category": "procedural",

@@ -1,0 +1,1224 @@
+{
+  "schema": "status-grid-v1",
+  "generated_by": "analysis/build/derive.mjs",
+  "cycles": [
+    2000,
+    2003,
+    2006,
+    2010,
+    2012,
+    2015,
+    2018,
+    2021,
+    2024
+  ],
+  "lineages": [
+    {
+      "id": "filtering-software-block-lists",
+      "kind": "grant",
+      "facets": [
+        "filtering"
+      ],
+      "first_granted": 2000,
+      "member_cycles": [
+        2000,
+        2003
+      ],
+      "grid": [
+        "new",
+        "renewed_unchanged",
+        "not_renewed",
+        "not_renewed",
+        "not_renewed",
+        "not_renewed",
+        "not_renewed",
+        "not_renewed",
+        "not_renewed"
+      ]
+    },
+    {
+      "id": "literary-works-with-malfunctioning-obsolete-access-controls",
+      "kind": "grant",
+      "facets": [
+        "legacy-access-control"
+      ],
+      "first_granted": 2000,
+      "member_cycles": [
+        2000
+      ],
+      "grid": [
+        "new",
+        "not_renewed",
+        "not_renewed",
+        "not_renewed",
+        "not_renewed",
+        "not_renewed",
+        "not_renewed",
+        "not_renewed",
+        "not_renewed"
+      ]
+    },
+    {
+      "id": "obsolete-dongles",
+      "kind": "grant",
+      "facets": [
+        "legacy-access-control"
+      ],
+      "first_granted": 2003,
+      "member_cycles": [
+        2003,
+        2006,
+        2010
+      ],
+      "grid": [
+        "not_yet_proposed",
+        "new",
+        "renewed_unchanged",
+        "renewed_unchanged",
+        "not_renewed",
+        "not_renewed",
+        "not_renewed",
+        "not_renewed",
+        "not_renewed"
+      ]
+    },
+    {
+      "id": "computer-programs-games-in-obsolete-formats",
+      "kind": "grant",
+      "facets": [
+        "legacy-access-control"
+      ],
+      "first_granted": 2003,
+      "member_cycles": [
+        2003,
+        2006
+      ],
+      "grid": [
+        "not_yet_proposed",
+        "new",
+        "renewed_narrowed",
+        "not_renewed",
+        "not_renewed",
+        "not_renewed",
+        "not_renewed",
+        "not_renewed",
+        "not_renewed"
+      ]
+    },
+    {
+      "id": "literary-works-electronic-accessibility-musical-notation-added-2021",
+      "kind": "grant",
+      "facets": [
+        "accessibility"
+      ],
+      "first_granted": 2003,
+      "member_cycles": [
+        2003,
+        2006,
+        2010,
+        2012,
+        2015,
+        2018,
+        2021,
+        2024
+      ],
+      "grid": [
+        "not_yet_proposed",
+        "new",
+        "renewed_unchanged",
+        "renewed_unchanged",
+        "renewed_unchanged",
+        "renewed_unchanged",
+        "renewed_unchanged",
+        "renewed_expanded",
+        "renewed_unchanged"
+      ]
+    },
+    {
+      "id": "motion-pictures-captioning-and-audio-description-by-educational-disability-services",
+      "kind": "grant",
+      "facets": [
+        "accessibility"
+      ],
+      "first_granted": 2018,
+      "member_cycles": [
+        2018,
+        2021,
+        2024
+      ],
+      "grid": [
+        "not_yet_proposed",
+        "not_yet_proposed",
+        "not_yet_proposed",
+        "not_yet_proposed",
+        "not_yet_proposed",
+        "not_yet_proposed",
+        "new",
+        "renewed_expanded",
+        "renewed_unchanged"
+      ]
+    },
+    {
+      "id": "motion-pictures-r-and-d-of-accessibility-players-blind-deaf-hoh",
+      "kind": "grant",
+      "facets": [
+        "accessibility"
+      ],
+      "first_granted": 2012,
+      "member_cycles": [
+        2012
+      ],
+      "grid": [
+        "not_yet_proposed",
+        "not_yet_proposed",
+        "not_yet_proposed",
+        "not_yet_proposed",
+        "new",
+        "not_renewed",
+        "not_renewed",
+        "not_renewed",
+        "not_renewed"
+      ]
+    },
+    {
+      "id": "video-games-accessibility-input-methods-for-physical-disabilities",
+      "kind": "grant",
+      "facets": [
+        "accessibility"
+      ],
+      "first_granted": 2021,
+      "member_cycles": [
+        2021
+      ],
+      "grid": [
+        "not_yet_proposed",
+        "not_yet_proposed",
+        "not_yet_proposed",
+        "not_yet_proposed",
+        "not_yet_proposed",
+        "not_yet_proposed",
+        "not_yet_proposed",
+        "new",
+        "not_renewed"
+      ]
+    },
+    {
+      "id": "motion-pictures-short-clips-for-criticism-comment-and-educational-uses",
+      "kind": "grant",
+      "facets": [
+        "audiovisual-use"
+      ],
+      "first_granted": 2006,
+      "member_cycles": [
+        2006,
+        2010,
+        2012,
+        2015,
+        2018,
+        2021,
+        2024
+      ],
+      "grid": [
+        "not_yet_proposed",
+        "not_yet_proposed",
+        "new",
+        "renewed_expanded",
+        "renewed_expanded",
+        "renewed_expanded",
+        "renewed_expanded",
+        "renewed_expanded",
+        "renewed_unchanged"
+      ]
+    },
+    {
+      "id": "space-shifting-format-shifting-audiovisual-musical-literary",
+      "kind": "denial",
+      "facets": [
+        "audiovisual-use"
+      ],
+      "first_granted": null,
+      "member_cycles": [
+        2000,
+        2003,
+        2006,
+        2010,
+        2012,
+        2015,
+        2018,
+        2021
+      ],
+      "grid": [
+        "petitioned_denied",
+        "petitioned_denied",
+        "petitioned_denied",
+        "petitioned_denied",
+        "petitioned_denied",
+        "petitioned_denied",
+        "petitioned_denied",
+        "petitioned_denied",
+        "not_proposed"
+      ]
+    },
+    {
+      "id": "dvd-region-coding-and-os-tethered-playback-linux-dvd",
+      "kind": "denial",
+      "facets": [
+        "audiovisual-use"
+      ],
+      "first_granted": null,
+      "member_cycles": [
+        2000,
+        2003,
+        2006,
+        2010
+      ],
+      "grid": [
+        "petitioned_denied",
+        "petitioned_denied",
+        "petitioned_denied_de_minimis",
+        "petitioned_denied",
+        "not_proposed",
+        "not_proposed",
+        "not_proposed",
+        "not_proposed",
+        "not_proposed"
+      ]
+    },
+    {
+      "id": "backup-copies-of-optical-media-dvds-cds",
+      "kind": "denial",
+      "facets": [
+        "audiovisual-use"
+      ],
+      "first_granted": null,
+      "member_cycles": [
+        2003,
+        2006
+      ],
+      "grid": [
+        "not_proposed",
+        "petitioned_denied",
+        "petitioned_denied",
+        "not_proposed",
+        "not_proposed",
+        "not_proposed",
+        "not_proposed",
+        "not_proposed",
+        "not_proposed"
+      ]
+    },
+    {
+      "id": "broadcast-flag-circumvention",
+      "kind": "denial",
+      "facets": [
+        "audiovisual-use"
+      ],
+      "first_granted": null,
+      "member_cycles": [
+        2003,
+        2006,
+        2010
+      ],
+      "grid": [
+        "not_proposed",
+        "petitioned_denied",
+        "petitioned_denied",
+        "petitioned_denied",
+        "not_proposed",
+        "not_proposed",
+        "not_proposed",
+        "not_proposed",
+        "not_proposed"
+      ]
+    },
+    {
+      "id": "hdcp-hdmi-blu-ray-image-constraint-token-down-conversion",
+      "kind": "denial",
+      "facets": [
+        "audiovisual-use"
+      ],
+      "first_granted": null,
+      "member_cycles": [
+        2010,
+        2018
+      ],
+      "grid": [
+        "not_proposed",
+        "not_proposed",
+        "not_proposed",
+        "petitioned_denied",
+        "not_proposed",
+        "not_proposed",
+        "petitioned_denied",
+        "not_proposed",
+        "not_proposed"
+      ]
+    },
+    {
+      "id": "livestream-recording-audiovisual-works",
+      "kind": "denial",
+      "facets": [
+        "audiovisual-use"
+      ],
+      "first_granted": null,
+      "member_cycles": [
+        2021
+      ],
+      "grid": [
+        "not_proposed",
+        "not_proposed",
+        "not_proposed",
+        "not_proposed",
+        "not_proposed",
+        "not_proposed",
+        "not_proposed",
+        "petitioned_denied_procedural",
+        "not_proposed"
+      ]
+    },
+    {
+      "id": "motion-picture-clips-in-text-messages",
+      "kind": "denial",
+      "facets": [
+        "audiovisual-use"
+      ],
+      "first_granted": null,
+      "member_cycles": [
+        2021
+      ],
+      "grid": [
+        "not_proposed",
+        "not_proposed",
+        "not_proposed",
+        "not_proposed",
+        "not_proposed",
+        "not_proposed",
+        "not_proposed",
+        "petitioned_denied_de_minimis",
+        "not_proposed"
+      ]
+    },
+    {
+      "id": "copy-protected-cds-and-game-disc-drm-securom-starforce",
+      "kind": "denial",
+      "facets": [
+        "audiovisual-use"
+      ],
+      "first_granted": null,
+      "member_cycles": [
+        2003,
+        2006
+      ],
+      "grid": [
+        "not_proposed",
+        "petitioned_denied",
+        "petitioned_denied",
+        "not_proposed",
+        "not_proposed",
+        "not_proposed",
+        "not_proposed",
+        "not_proposed",
+        "not_proposed"
+      ]
+    },
+    {
+      "id": "motion-pictures-tdm-research-at-nonprofit-higher-ed",
+      "kind": "grant",
+      "facets": [
+        "research"
+      ],
+      "first_granted": 2021,
+      "member_cycles": [
+        2021,
+        2024
+      ],
+      "grid": [
+        "not_yet_proposed",
+        "not_yet_proposed",
+        "not_yet_proposed",
+        "not_yet_proposed",
+        "not_yet_proposed",
+        "not_yet_proposed",
+        "not_yet_proposed",
+        "new",
+        "renewed_expanded"
+      ]
+    },
+    {
+      "id": "literary-works-tdm-research-at-nonprofit-higher-ed",
+      "kind": "grant",
+      "facets": [
+        "research"
+      ],
+      "first_granted": 2021,
+      "member_cycles": [
+        2021,
+        2024
+      ],
+      "grid": [
+        "not_yet_proposed",
+        "not_yet_proposed",
+        "not_yet_proposed",
+        "not_yet_proposed",
+        "not_yet_proposed",
+        "not_yet_proposed",
+        "not_yet_proposed",
+        "new",
+        "renewed_expanded"
+      ]
+    },
+    {
+      "id": "video-games-on-pcs-security-research-2010-only",
+      "kind": "grant",
+      "facets": [
+        "research"
+      ],
+      "first_granted": 2010,
+      "member_cycles": [
+        2010
+      ],
+      "grid": [
+        "not_yet_proposed",
+        "not_yet_proposed",
+        "not_yet_proposed",
+        "new",
+        "not_renewed",
+        "not_renewed",
+        "not_renewed",
+        "not_renewed",
+        "not_renewed"
+      ]
+    },
+    {
+      "id": "good-faith-security-research-general",
+      "kind": "grant",
+      "facets": [
+        "research"
+      ],
+      "first_granted": 2015,
+      "member_cycles": [
+        2010,
+        2015,
+        2018,
+        2021,
+        2024
+      ],
+      "grid": [
+        "not_yet_proposed",
+        "not_yet_proposed",
+        "not_yet_proposed",
+        "petitioned_denied",
+        "not_yet_proposed",
+        "new",
+        "renewed_expanded",
+        "renewed_expanded",
+        "renewed_unchanged"
+      ]
+    },
+    {
+      "id": "sound-recordings-on-cds-with-security-flaw-tpms-sony-rootkit-testing",
+      "kind": "grant",
+      "facets": [
+        "research"
+      ],
+      "first_granted": 2006,
+      "member_cycles": [
+        2006
+      ],
+      "grid": [
+        "not_yet_proposed",
+        "not_yet_proposed",
+        "new",
+        "not_renewed",
+        "not_renewed",
+        "not_renewed",
+        "not_renewed",
+        "not_renewed",
+        "not_renewed"
+      ]
+    },
+    {
+      "id": "generative-ai-trustworthiness-research",
+      "kind": "denial",
+      "facets": [
+        "research"
+      ],
+      "first_granted": null,
+      "member_cycles": [
+        2024
+      ],
+      "grid": [
+        "not_proposed",
+        "not_proposed",
+        "not_proposed",
+        "not_proposed",
+        "not_proposed",
+        "not_proposed",
+        "not_proposed",
+        "not_proposed",
+        "petitioned_denied"
+      ]
+    },
+    {
+      "id": "encryption-research-broader-than-1201-g",
+      "kind": "denial",
+      "facets": [
+        "research"
+      ],
+      "first_granted": null,
+      "member_cycles": [
+        2000,
+        2003
+      ],
+      "grid": [
+        "petitioned_denied",
+        "petitioned_denied",
+        "not_proposed",
+        "not_proposed",
+        "not_proposed",
+        "not_proposed",
+        "not_proposed",
+        "not_proposed",
+        "not_proposed"
+      ]
+    },
+    {
+      "id": "reverse-engineering-for-interoperability-broader-than-1201-f",
+      "kind": "denial",
+      "facets": [
+        "research"
+      ],
+      "first_granted": null,
+      "member_cycles": [
+        2000,
+        2003
+      ],
+      "grid": [
+        "petitioned_denied",
+        "petitioned_denied",
+        "not_proposed",
+        "not_proposed",
+        "not_proposed",
+        "not_proposed",
+        "not_proposed",
+        "not_proposed",
+        "not_proposed"
+      ]
+    },
+    {
+      "id": "forensic-investigator-evidence-collection",
+      "kind": "denial",
+      "facets": [
+        "research"
+      ],
+      "first_granted": null,
+      "member_cycles": [
+        2010
+      ],
+      "grid": [
+        "not_proposed",
+        "not_proposed",
+        "not_proposed",
+        "petitioned_denied",
+        "not_proposed",
+        "not_proposed",
+        "not_proposed",
+        "not_proposed",
+        "not_proposed"
+      ]
+    },
+    {
+      "id": "motion-pictures-dvd-blu-ray-preservation-by-lams",
+      "kind": "grant",
+      "facets": [
+        "preservation-lam"
+      ],
+      "first_granted": 2021,
+      "member_cycles": [
+        2021,
+        2024
+      ],
+      "grid": [
+        "not_yet_proposed",
+        "not_yet_proposed",
+        "not_yet_proposed",
+        "not_yet_proposed",
+        "not_yet_proposed",
+        "not_yet_proposed",
+        "not_yet_proposed",
+        "new",
+        "renewed_unchanged"
+      ]
+    },
+    {
+      "id": "software-preservation-by-lams-non-game-programs",
+      "kind": "grant",
+      "facets": [
+        "preservation-lam"
+      ],
+      "first_granted": 2018,
+      "member_cycles": [
+        2018,
+        2021,
+        2024
+      ],
+      "grid": [
+        "not_yet_proposed",
+        "not_yet_proposed",
+        "not_yet_proposed",
+        "not_yet_proposed",
+        "not_yet_proposed",
+        "not_yet_proposed",
+        "new",
+        "renewed_expanded",
+        "renewed_expanded"
+      ]
+    },
+    {
+      "id": "video-games-preservation-when-server-abandoned-offline-games-by-lams-from-2018",
+      "kind": "grant",
+      "facets": [
+        "preservation-lam"
+      ],
+      "first_granted": 2015,
+      "member_cycles": [
+        2015,
+        2018,
+        2021,
+        2024
+      ],
+      "grid": [
+        "not_yet_proposed",
+        "not_yet_proposed",
+        "not_yet_proposed",
+        "not_yet_proposed",
+        "not_yet_proposed",
+        "new",
+        "renewed_expanded",
+        "renewed_unchanged",
+        "renewed_unchanged"
+      ]
+    },
+    {
+      "id": "drm-authentication-server-shutdown-broad-beyond-video-games",
+      "kind": "denial",
+      "facets": [
+        "preservation-lam"
+      ],
+      "first_granted": null,
+      "member_cycles": [
+        2010
+      ],
+      "grid": [
+        "not_proposed",
+        "not_proposed",
+        "not_proposed",
+        "petitioned_denied",
+        "not_proposed",
+        "not_proposed",
+        "not_proposed",
+        "not_proposed",
+        "not_proposed"
+      ]
+    },
+    {
+      "id": "library-distributed-audiobooks-electronic-audio-format",
+      "kind": "denial",
+      "facets": [
+        "preservation-lam"
+      ],
+      "first_granted": null,
+      "member_cycles": [
+        2006
+      ],
+      "grid": [
+        "not_proposed",
+        "not_proposed",
+        "petitioned_denied",
+        "not_proposed",
+        "not_proposed",
+        "not_proposed",
+        "not_proposed",
+        "not_proposed",
+        "not_proposed"
+      ]
+    },
+    {
+      "id": "wireless-devices-unlocking-to-connect-to-a-different-carrier",
+      "kind": "grant",
+      "facets": [
+        "wireless-connectivity"
+      ],
+      "first_granted": 2006,
+      "member_cycles": [
+        2006,
+        2010,
+        2012,
+        2015,
+        2018,
+        2021,
+        2024
+      ],
+      "grid": [
+        "not_yet_proposed",
+        "not_yet_proposed",
+        "new",
+        "renewed_narrowed",
+        "renewed_narrowed",
+        "renewed_expanded",
+        "renewed_expanded",
+        "renewed_expanded",
+        "renewed_unchanged"
+      ]
+    },
+    {
+      "id": "smartphones-and-portable-mobile-devices-jailbreaking-removal-of-software",
+      "kind": "grant",
+      "facets": [
+        "interoperability-jailbreak"
+      ],
+      "first_granted": 2010,
+      "member_cycles": [
+        2010,
+        2012,
+        2015,
+        2018,
+        2021,
+        2024
+      ],
+      "grid": [
+        "not_yet_proposed",
+        "not_yet_proposed",
+        "not_yet_proposed",
+        "new",
+        "renewed_unchanged",
+        "renewed_expanded",
+        "renewed_unchanged",
+        "renewed_unchanged",
+        "renewed_unchanged"
+      ]
+    },
+    {
+      "id": "smart-televisions-jailbreaking-interoperability-only",
+      "kind": "grant",
+      "facets": [
+        "interoperability-jailbreak"
+      ],
+      "first_granted": 2015,
+      "member_cycles": [
+        2015,
+        2018,
+        2021,
+        2024
+      ],
+      "grid": [
+        "not_yet_proposed",
+        "not_yet_proposed",
+        "not_yet_proposed",
+        "not_yet_proposed",
+        "not_yet_proposed",
+        "new",
+        "renewed_unchanged",
+        "renewed_expanded",
+        "renewed_unchanged"
+      ]
+    },
+    {
+      "id": "voice-assistant-devices-jailbreaking-removal-of-software",
+      "kind": "grant",
+      "facets": [
+        "interoperability-jailbreak"
+      ],
+      "first_granted": 2018,
+      "member_cycles": [
+        2018,
+        2021,
+        2024
+      ],
+      "grid": [
+        "not_yet_proposed",
+        "not_yet_proposed",
+        "not_yet_proposed",
+        "not_yet_proposed",
+        "not_yet_proposed",
+        "not_yet_proposed",
+        "new",
+        "renewed_unchanged",
+        "renewed_unchanged"
+      ]
+    },
+    {
+      "id": "routers-and-dedicated-network-devices-jailbreaking-interoperability-only",
+      "kind": "grant",
+      "facets": [
+        "interoperability-jailbreak"
+      ],
+      "first_granted": 2021,
+      "member_cycles": [
+        2021,
+        2024
+      ],
+      "grid": [
+        "not_yet_proposed",
+        "not_yet_proposed",
+        "not_yet_proposed",
+        "not_yet_proposed",
+        "not_yet_proposed",
+        "not_yet_proposed",
+        "not_yet_proposed",
+        "new",
+        "renewed_unchanged"
+      ]
+    },
+    {
+      "id": "video-game-console-jailbreaking",
+      "kind": "denial",
+      "facets": [
+        "interoperability-jailbreak"
+      ],
+      "first_granted": null,
+      "member_cycles": [
+        2012,
+        2015
+      ],
+      "grid": [
+        "not_proposed",
+        "not_proposed",
+        "not_proposed",
+        "not_proposed",
+        "petitioned_denied",
+        "petitioned_denied",
+        "not_proposed",
+        "not_proposed",
+        "not_proposed"
+      ]
+    },
+    {
+      "id": "e-book-reader-jailbreaking",
+      "kind": "denial",
+      "facets": [
+        "interoperability-jailbreak"
+      ],
+      "first_granted": null,
+      "member_cycles": [
+        2015
+      ],
+      "grid": [
+        "not_proposed",
+        "not_proposed",
+        "not_proposed",
+        "not_proposed",
+        "not_proposed",
+        "petitioned_denied",
+        "not_proposed",
+        "not_proposed",
+        "not_proposed"
+      ]
+    },
+    {
+      "id": "personal-computers-os-restricted-programs-secure-boot",
+      "kind": "denial",
+      "facets": [
+        "interoperability-jailbreak"
+      ],
+      "first_granted": null,
+      "member_cycles": [
+        2006,
+        2012
+      ],
+      "grid": [
+        "not_proposed",
+        "not_proposed",
+        "petitioned_denied",
+        "not_proposed",
+        "petitioned_denied",
+        "not_proposed",
+        "not_proposed",
+        "not_proposed",
+        "not_proposed"
+      ]
+    },
+    {
+      "id": "motorized-land-vehicles-marine-vessels-from-2021-diagnosis-repair-lawful-modification",
+      "kind": "grant",
+      "facets": [
+        "repair"
+      ],
+      "first_granted": 2015,
+      "member_cycles": [
+        2015,
+        2018,
+        2021,
+        2024
+      ],
+      "grid": [
+        "not_yet_proposed",
+        "not_yet_proposed",
+        "not_yet_proposed",
+        "not_yet_proposed",
+        "not_yet_proposed",
+        "new",
+        "renewed_expanded",
+        "renewed_expanded",
+        "renewed_unchanged"
+      ]
+    },
+    {
+      "id": "vehicles-and-marine-vessels-owner-access-to-operational-diagnostic-telematics-data",
+      "kind": "grant",
+      "facets": [
+        "repair"
+      ],
+      "first_granted": 2024,
+      "member_cycles": [
+        2024
+      ],
+      "grid": [
+        "not_yet_proposed",
+        "not_yet_proposed",
+        "not_yet_proposed",
+        "not_yet_proposed",
+        "not_yet_proposed",
+        "not_yet_proposed",
+        "not_yet_proposed",
+        "not_yet_proposed",
+        "new"
+      ]
+    },
+    {
+      "id": "consumer-devices-diagnosis-maintenance-or-repair",
+      "kind": "grant",
+      "facets": [
+        "repair"
+      ],
+      "first_granted": 2018,
+      "member_cycles": [
+        2018,
+        2021,
+        2024
+      ],
+      "grid": [
+        "not_yet_proposed",
+        "not_yet_proposed",
+        "not_yet_proposed",
+        "not_yet_proposed",
+        "not_yet_proposed",
+        "not_yet_proposed",
+        "new",
+        "renewed_expanded",
+        "renewed_unchanged"
+      ]
+    },
+    {
+      "id": "medical-devices-and-systems-diagnosis-maintenance-or-repair",
+      "kind": "grant",
+      "facets": [
+        "repair"
+      ],
+      "first_granted": 2021,
+      "member_cycles": [
+        2021,
+        2024
+      ],
+      "grid": [
+        "not_yet_proposed",
+        "not_yet_proposed",
+        "not_yet_proposed",
+        "not_yet_proposed",
+        "not_yet_proposed",
+        "not_yet_proposed",
+        "not_yet_proposed",
+        "new",
+        "renewed_unchanged"
+      ]
+    },
+    {
+      "id": "retail-commercial-food-prep-equipment-diagnosis-maintenance-or-repair",
+      "kind": "grant",
+      "facets": [
+        "repair"
+      ],
+      "first_granted": 2024,
+      "member_cycles": [
+        2024
+      ],
+      "grid": [
+        "not_yet_proposed",
+        "not_yet_proposed",
+        "not_yet_proposed",
+        "not_yet_proposed",
+        "not_yet_proposed",
+        "not_yet_proposed",
+        "not_yet_proposed",
+        "not_yet_proposed",
+        "new"
+      ]
+    },
+    {
+      "id": "commercial-and-industrial-equipment-repair-beyond-food-prep",
+      "kind": "denial",
+      "facets": [
+        "repair"
+      ],
+      "first_granted": null,
+      "member_cycles": [
+        2024
+      ],
+      "grid": [
+        "not_proposed",
+        "not_proposed",
+        "not_proposed",
+        "not_proposed",
+        "not_proposed",
+        "not_proposed",
+        "not_proposed",
+        "not_proposed",
+        "petitioned_denied"
+      ]
+    },
+    {
+      "id": "medical-device-data-patient-access-to-own-data",
+      "kind": "grant",
+      "facets": [
+        "owner-data-access"
+      ],
+      "first_granted": 2015,
+      "member_cycles": [
+        2015,
+        2018,
+        2021,
+        2024
+      ],
+      "grid": [
+        "not_yet_proposed",
+        "not_yet_proposed",
+        "not_yet_proposed",
+        "not_yet_proposed",
+        "not_yet_proposed",
+        "new",
+        "renewed_unchanged",
+        "renewed_expanded",
+        "renewed_unchanged"
+      ]
+    },
+    {
+      "id": "3d-printers-feedstock-material-interoperability",
+      "kind": "grant",
+      "facets": [
+        "feedstock-interoperability"
+      ],
+      "first_granted": 2015,
+      "member_cycles": [
+        2015,
+        2018,
+        2021,
+        2024
+      ],
+      "grid": [
+        "not_yet_proposed",
+        "not_yet_proposed",
+        "not_yet_proposed",
+        "not_yet_proposed",
+        "not_yet_proposed",
+        "new",
+        "renewed_expanded",
+        "renewed_expanded",
+        "renewed_unchanged"
+      ]
+    },
+    {
+      "id": "foss-programs-investigation-of-potential-license-infringement",
+      "kind": "grant",
+      "facets": [
+        "license-compliance"
+      ],
+      "first_granted": 2021,
+      "member_cycles": [
+        2021,
+        2024
+      ],
+      "grid": [
+        "not_yet_proposed",
+        "not_yet_proposed",
+        "not_yet_proposed",
+        "not_yet_proposed",
+        "not_yet_proposed",
+        "not_yet_proposed",
+        "not_yet_proposed",
+        "new",
+        "renewed_unchanged"
+      ]
+    },
+    {
+      "id": "broad-use-based-exemptions-all-fair-use-all-noninfringing-uses",
+      "kind": "denial",
+      "facets": [
+        "denied-threshold"
+      ],
+      "first_granted": null,
+      "member_cycles": [
+        2000,
+        2003,
+        2006,
+        2012
+      ],
+      "grid": [
+        "petitioned_denied",
+        "petitioned_denied_procedural",
+        "petitioned_denied_procedural",
+        "not_proposed",
+        "petitioned_denied",
+        "not_proposed",
+        "not_proposed",
+        "not_proposed",
+        "not_proposed"
+      ]
+    },
+    {
+      "id": "public-domain-works-behind-tpms",
+      "kind": "denial",
+      "facets": [
+        "denied-threshold"
+      ],
+      "first_granted": null,
+      "member_cycles": [
+        2003,
+        2006,
+        2012
+      ],
+      "grid": [
+        "not_proposed",
+        "petitioned_denied",
+        "petitioned_denied",
+        "not_proposed",
+        "petitioned_denied",
+        "not_proposed",
+        "not_proposed",
+        "not_proposed",
+        "not_proposed"
+      ]
+    },
+    {
+      "id": "avionics-aircraft-data-systems",
+      "kind": "denial",
+      "facets": [
+        "denied-threshold"
+      ],
+      "first_granted": null,
+      "member_cycles": [
+        2018
+      ],
+      "grid": [
+        "not_proposed",
+        "not_proposed",
+        "not_proposed",
+        "not_proposed",
+        "not_proposed",
+        "not_proposed",
+        "petitioned_denied",
+        "not_proposed",
+        "not_proposed"
+      ]
+    }
+  ]
+}

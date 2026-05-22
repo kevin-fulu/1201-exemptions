@@ -5,6 +5,7 @@
   "extractor_notes": "Two granted classes, matching INDEX.md. The 2000 codified text in § 201.40(b) is unusually terse: each class is a single descriptive noun phrase with no separately enumerated permitted uses, exclusions, or definitions. The general framing in § 201.40(a) (and the (b) chapeau) merely restates that the § 1201(a)(1)(A) prohibition does not apply to users of the listed classes. No conditions, qualifying users, definitions of 'obsoleteness', or limits on permitted uses are codified at the regulation level in this cycle. The decomposition below pulls the implicit 'permitted use' (i.e., circumvention of the relevant access control) from the (b) chapeau and the (a) general clause, and treats the descriptive qualifiers in each class as definitions/conditions. Sub-paragraph (a) is on PDF p. 19 along with sub-paragraph (b); the full codified § 201.40 is contained on a single PDF page.",
   "exemptions": [
     {
+      "class_id": "2000:b1",
       "class_number": "(b)(1)",
       "equipment_or_work": "Compilations consisting of lists of websites blocked by filtering software applications",
       "permitted_uses": [
@@ -25,6 +26,7 @@
       }
     },
     {
+      "class_id": "2000:b2",
       "class_number": "(b)(2)",
       "equipment_or_work": "Literary works, including computer programs and databases, protected by access control mechanisms that fail to permit access because of malfunction, damage or obsoleteness",
       "permitted_uses": [

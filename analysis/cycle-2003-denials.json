@@ -4,6 +4,7 @@
   "extractor_notes": "All denial entries extracted from Final Rule preamble Section III.B 'Other Exemptions Considered, But Not Recommended' (PDF pp. 4-8). Items numbered 1-25 in the Final Rule; item 25 is labeled 'Other comments beyond the scope of the rulemaking' rather than a discrete proposed class, and is included for completeness. Item 3 contains two sub-proposals from a single commenter, treated as one denial entry as numbered in the Rule. Recommendation file was not consulted; Final Rule preamble was sufficient.",
   "denials": [
     {
+      "class_id": "2003:d1",
       "proposed_class_number": "1",
       "topic_label": "All works for noninfringing/fair/private uses",
       "reason_category": "procedural",
@@ -12,6 +13,7 @@
       "later_granted_in_cycle": null
     },
     {
+      "class_id": "2003:d2",
       "proposed_class_number": "2",
       "topic_label": "Per se educational fair use / fair use works",
       "reason_category": "procedural",
@@ -20,6 +22,7 @@
       "later_granted_in_cycle": null
     },
     {
+      "class_id": "2003:d3",
       "proposed_class_number": "3",
       "topic_label": "Musical/audiovisual works for legitimate research",
       "reason_category": "procedural",
@@ -28,6 +31,7 @@
       "later_granted_in_cycle": null
     },
     {
+      "class_id": "2003:d4",
       "proposed_class_number": "4",
       "topic_label": "Any work to which user had lawful initial access",
       "reason_category": "evidence",
@@ -36,6 +40,7 @@
       "later_granted_in_cycle": null
     },
     {
+      "class_id": "2003:d5",
       "proposed_class_number": "5",
       "topic_label": "Time-limited licensed AV works / sound recordings post-expiration",
       "reason_category": "alternatives",
@@ -44,6 +49,7 @@
       "later_granted_in_cycle": null
     },
     {
+      "class_id": "2003:d6",
       "proposed_class_number": "6",
       "topic_label": "'Thin copyright' works",
       "reason_category": "evidence",
@@ -52,6 +58,7 @@
       "later_granted_in_cycle": null
     },
     {
+      "class_id": "2003:d7",
       "proposed_class_number": "7",
       "topic_label": "Public domain or open-access works behind access controls",
       "reason_category": "substantive",
@@ -60,6 +67,7 @@
       "later_granted_in_cycle": null
     },
     {
+      "class_id": "2003:d8",
       "proposed_class_number": "8",
       "topic_label": "Backup/format-shift musical, sound, AV works (incl. DVDs)",
       "reason_category": "noninfringing_use_not_shown",
@@ -68,6 +76,7 @@
       "later_granted_in_cycle": null
     },
     {
+      "class_id": "2003:d9",
       "proposed_class_number": "9",
       "topic_label": "Skipping unskippable DVD promotional material",
       "reason_category": "de_minimis",
@@ -76,6 +85,7 @@
       "later_granted_in_cycle": null
     },
     {
+      "class_id": "2003:d10",
       "proposed_class_number": "10",
       "topic_label": "Ancillary works on CSS-encrypted DVDs",
       "reason_category": "alternatives",
@@ -84,6 +94,7 @@
       "later_granted_in_cycle": null
     },
     {
+      "class_id": "2003:d11",
       "proposed_class_number": "11",
       "topic_label": "Region-coded DVDs (audiovisual)",
       "reason_category": "alternatives",
@@ -92,6 +103,7 @@
       "later_granted_in_cycle": null
     },
     {
+      "class_id": "2003:d12",
       "proposed_class_number": "12",
       "topic_label": "Region-coded video games on DVD",
       "reason_category": "evidence",
@@ -100,6 +112,7 @@
       "later_granted_in_cycle": null
     },
     {
+      "class_id": "2003:d13",
       "proposed_class_number": "13",
       "topic_label": "Audiovisual works on CSS-encrypted DVDs (general)",
       "reason_category": "evidence",
@@ -108,6 +121,7 @@
       "later_granted_in_cycle": null
     },
     {
+      "class_id": "2003:d14",
       "proposed_class_number": "14",
       "topic_label": "Software for dedicated video game players",
       "reason_category": "evidence",
@@ -116,6 +130,7 @@
       "later_granted_in_cycle": null
     },
     {
+      "class_id": "2003:d15",
       "proposed_class_number": "15",
       "topic_label": "'Tethered' works (ebooks, sound recordings, AV)",
       "reason_category": "alternatives",
@@ -124,6 +139,7 @@
       "later_granted_in_cycle": null
     },
     {
+      "class_id": "2003:d16",
       "proposed_class_number": "16",
       "topic_label": "DVDs tethered to operating systems (e.g., Linux playback)",
       "reason_category": "alternatives",
@@ -132,6 +148,7 @@
       "later_granted_in_cycle": null
     },
     {
+      "class_id": "2003:d17",
       "proposed_class_number": "17",
       "topic_label": "Works gated by End-User License Agreement assent",
       "reason_category": "substantive",
@@ -140,6 +157,7 @@
       "later_granted_in_cycle": null
     },
     {
+      "class_id": "2003:d18",
       "proposed_class_number": "18",
       "topic_label": "Copy-protected CDs that block playback on certain devices",
       "reason_category": "evidence",
@@ -148,6 +166,7 @@
       "later_granted_in_cycle": null
     },
     {
+      "class_id": "2003:d19",
       "proposed_class_number": "19",
       "topic_label": "Webcaster ephemeral copies of copy-protected Red Book CDs",
       "reason_category": "substantive",
@@ -156,6 +175,7 @@
       "later_granted_in_cycle": null
     },
     {
+      "class_id": "2003:d20",
       "proposed_class_number": "20",
       "topic_label": "Broadcast news monitoring / broadcast flag bypass",
       "reason_category": "noninfringing_use_not_shown",
@@ -164,6 +184,7 @@
       "later_granted_in_cycle": null
     },
     {
+      "class_id": "2003:d21",
       "proposed_class_number": "21",
       "topic_label": "Reverse engineering for interoperability (Static Control/printer toner)",
       "reason_category": "substantive",
@@ -172,6 +193,7 @@
       "later_granted_in_cycle": null
     },
     {
+      "class_id": "2003:d22",
       "proposed_class_number": "22",
       "topic_label": "Encryption research, data files, password recovery, PII",
       "reason_category": "evidence",
@@ -180,6 +202,7 @@
       "later_granted_in_cycle": null
     },
     {
+      "class_id": "2003:d23",
       "proposed_class_number": "23",
       "topic_label": "Conversion of data file formats and source code",
       "reason_category": "evidence",
@@ -188,6 +211,7 @@
       "later_granted_in_cycle": null
     },
     {
+      "class_id": "2003:d24",
       "proposed_class_number": "24",
       "topic_label": "Privacy and personally identifying information",
       "reason_category": "evidence",
@@ -196,6 +220,7 @@
       "later_granted_in_cycle": null
     },
     {
+      "class_id": "2003:d25",
       "proposed_class_number": "25",
       "topic_label": "Webcasting, OSP liability, anti-trafficking (out of scope)",
       "reason_category": "procedural",

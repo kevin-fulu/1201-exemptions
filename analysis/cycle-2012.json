@@ -5,6 +5,7 @@
   "extractor_notes": "The 2012 codified Sec. 201.40(b) text spans PDF pages 19-20 (txt lines 3731-3974) and contains 8 granted classes, matching INDEX.md's expected count of 8. The 2012 Final Rule uses the modern style: each class is a single complex sentence with nested conditional clauses (e.g., 'where circumvention is accomplished solely in order to ...'), so permitted_uses[] and exclusions[] were decomposed from those conditional phrases. Notable structural points: classes (b)(4) and (b)(5) are parallel (DVD/CSS vs. online distribution services) and both restrict circumvention to short portions for criticism/comment in four enumerated contexts (noncommercial videos, documentary films, nonfiction multimedia ebooks offering film analysis, and educational purposes in film studies or other courses requiring close analysis); classes (b)(6) and (b)(7) are the parallel screen-capture variants of (b)(4)/(b)(5) and were granted as separate alternative exemptions; class (b)(3) (wireless handset unlocking) is unusual for limiting eligibility to handsets 'originally acquired ... no later than ninety days after the effective date of this exemption'; class (b)(8) is a research-and-development exemption for assistive-player development (blind/visually impaired/deaf/hard of hearing). There is no separate (c) Definitions section in 2012; definitions ('noncommercial videos') are embedded inside the relevant class.",
   "exemptions": [
     {
+      "class_id": "2012:b1",
       "class_number": "(b)(1)",
       "equipment_or_work": "Literary works distributed electronically with TPMs blocking read-aloud or screen readers",
       "permitted_uses": [
@@ -28,6 +29,7 @@
       }
     },
     {
+      "class_id": "2012:b2",
       "class_number": "(b)(2)",
       "equipment_or_work": "Computer programs enabling wireless telephone handsets to execute lawfully obtained software applications (jailbreaking)",
       "permitted_uses": [
@@ -47,6 +49,7 @@
       }
     },
     {
+      "class_id": "2012:b3",
       "class_number": "(b)(3)",
       "equipment_or_work": "Computer programs (firmware/software) enabling wireless telephone handsets acquired no later than 90 days after effective date to connect to a different network (handset unlocking)",
       "permitted_uses": [
@@ -71,6 +74,7 @@
       }
     },
     {
+      "class_id": "2012:b4",
       "class_number": "(b)(4)",
       "equipment_or_work": "Motion pictures on DVDs protected by CSS, for short-portion criticism/comment uses",
       "permitted_uses": [
@@ -97,6 +101,7 @@
       }
     },
     {
+      "class_id": "2012:b5",
       "class_number": "(b)(5)",
       "equipment_or_work": "Motion pictures lawfully acquired via online distribution services and protected by various TPMs, for short-portion criticism/comment uses",
       "permitted_uses": [
@@ -123,6 +128,7 @@
       }
     },
     {
+      "class_id": "2012:b6",
       "class_number": "(b)(6)",
       "equipment_or_work": "Motion pictures on CSS-protected DVDs, where circumvention (if any) is via screen capture technology, for short-portion criticism/comment",
       "permitted_uses": [
@@ -151,6 +157,7 @@
       }
     },
     {
+      "class_id": "2012:b7",
       "class_number": "(b)(7)",
       "equipment_or_work": "Motion pictures lawfully acquired via online distribution services and protected by various TPMs, where circumvention (if any) is via screen capture technology, for short-portion criticism/comment",
       "permitted_uses": [
@@ -179,6 +186,7 @@
       }
     },
     {
+      "class_id": "2012:b8",
       "class_number": "(b)(8)",
       "equipment_or_work": "Motion pictures and other audiovisual works on CSS-protected DVDs or distributed by an online service, for accessibility-player research and development",
       "permitted_uses": [

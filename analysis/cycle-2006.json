@@ -5,6 +5,7 @@
   "extractor_notes": "Extracted 6 granted classes, matching INDEX.md's expected count for the 2006 cycle. All codified text for §201.40(b)(1)-(6) and the (c) definition is contained on PDF page 9 of the Final Rule (the .txt file has no [PAGE 10] marker; subsequent text is unrelated EPA rulemaking). The 2006 rule fuses permitted uses and limitations into single prose blocks per class; I decomposed each fused block into permitted_uses (affirmative scope) and exclusions (restrictions on who/how/when), with technical/term-of-art definitions placed in definitions_or_conditions. The (c) definition of 'specialized format,' 'digital text,' and 'authorized entities' (cross-referencing 17 U.S.C. 121) is incorporated into the definitions_or_conditions of class (b)(4), which is the class those defined terms apply to.",
   "exemptions": [
     {
+      "class_id": "2006:b1",
       "class_number": "(b)(1)",
       "equipment_or_work": "Audiovisual works in college/university film or media studies library",
       "permitted_uses": [
@@ -25,6 +26,7 @@
       }
     },
     {
+      "class_id": "2006:b2",
       "class_number": "(b)(2)",
       "equipment_or_work": "Obsolete computer programs and video games requiring original media or hardware",
       "permitted_uses": [
@@ -47,6 +49,7 @@
       }
     },
     {
+      "class_id": "2006:b3",
       "class_number": "(b)(3)",
       "equipment_or_work": "Computer programs protected by obsolete malfunctioning dongles",
       "permitted_uses": [
@@ -68,6 +71,7 @@
       }
     },
     {
+      "class_id": "2006:b4",
       "class_number": "(b)(4)",
       "equipment_or_work": "Literary works distributed in ebook format with disabled read-aloud or screen-reader access",
       "permitted_uses": [
@@ -88,6 +92,7 @@
       }
     },
     {
+      "class_id": "2006:b5",
       "class_number": "(b)(5)",
       "equipment_or_work": "Firmware on wireless telephone handsets (cell phone unlocking)",
       "permitted_uses": [
@@ -107,6 +112,7 @@
       }
     },
     {
+      "class_id": "2006:b6",
       "class_number": "(b)(6)",
       "equipment_or_work": "Sound recordings and associated audiovisual works on CDs with security-flawed protection (the 'Sony rootkit' exemption)",
       "permitted_uses": [

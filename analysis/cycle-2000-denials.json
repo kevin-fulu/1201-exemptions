@@ -4,6 +4,7 @@
   "extractor_notes": "The 2000 cycle did not use numbered 'Class' labels for proposals; the Final Rule preamble enumerates ten denied proposals in Section III.E ('Other Exemptions Considered, But Not Recommended'), each as a numbered subsection (E.1 through E.10). proposed_class_number reflects that numbering as 'Proposal E.N'. Several denials rest on multiple grounds; reason_category captures the dominant rationale, with overlap noted where relevant.",
   "denials": [
     {
+      "class_id": "2000:dproposal-e-1",
       "proposed_class_number": "Proposal E.1",
       "topic_label": "Thin copyright works (databases/compilations containing largely uncopyrightable material)",
       "reason_category": "evidence",
@@ -12,6 +13,7 @@
       "later_granted_in_cycle": null
     },
     {
+      "class_id": "2000:dproposal-e-2",
       "proposed_class_number": "Proposal E.2",
       "topic_label": "Sole source works (works available only from a single source in protected form)",
       "reason_category": "evidence",
@@ -20,6 +22,7 @@
       "later_granted_in_cycle": null
     },
     {
+      "class_id": "2000:dproposal-e-3",
       "proposed_class_number": "Proposal E.3",
       "topic_label": "Audiovisual works on DVDs (CSS / region coding / Linux playback)",
       "reason_category": "alternatives",
@@ -28,6 +31,7 @@
       "later_granted_in_cycle": null
     },
     {
+      "class_id": "2000:dproposal-e-4",
       "proposed_class_number": "Proposal E.4",
       "topic_label": "Video games in formats playable only on dedicated platforms",
       "reason_category": "de_minimis",
@@ -36,6 +40,7 @@
       "later_granted_in_cycle": null
     },
     {
+      "class_id": "2000:dproposal-e-5",
       "proposed_class_number": "Proposal E.5",
       "topic_label": "Computer programs and other digital works for reverse engineering",
       "reason_category": "substantive",
@@ -44,6 +49,7 @@
       "later_granted_in_cycle": null
     },
     {
+      "class_id": "2000:dproposal-e-6",
       "proposed_class_number": "Proposal E.6",
       "topic_label": "Broader encryption research exemption (beyond §1201(g))",
       "reason_category": "substantive",
@@ -52,6 +58,7 @@
       "later_granted_in_cycle": null
     },
     {
+      "class_id": "2000:dproposal-e-7",
       "proposed_class_number": "Proposal E.7",
       "topic_label": "'Fair use' works (scientific databases, textbooks, scholarly journals, etc.)",
       "reason_category": "evidence",
@@ -60,6 +67,7 @@
       "later_granted_in_cycle": null
     },
     {
+      "class_id": "2000:dproposal-e-8",
       "proposed_class_number": "Proposal E.8",
       "topic_label": "Material that cannot be archived or preserved",
       "reason_category": "substantive",
@@ -68,6 +76,7 @@
       "later_granted_in_cycle": null
     },
     {
+      "class_id": "2000:dproposal-e-9",
       "proposed_class_number": "Proposal E.9",
       "topic_label": "Works lawfully acquired by users who subsequently seek noninfringing uses",
       "reason_category": "substantive",
@@ -76,6 +85,7 @@
       "later_granted_in_cycle": null
     },
     {
+      "class_id": "2000:dproposal-e-10",
       "proposed_class_number": "Proposal E.10",
       "topic_label": "Exemption for public broadcasting entities (sound recordings, musical, pictorial/graphic/sculptural works)",
       "reason_category": "evidence",

@@ -23,9 +23,26 @@ About 20 PDFs in `first-round-comments/2018/` (mostly `Class07_*` and `Class08_*
 - **Prefer `grep` on `.txt` files** for any keyword or regex search — re-parsing PDFs is slow and produces garbage characters. Example: `grep -rn "jailbreak" "1201/Final Rules"`.
 - **Only `Read` the PDFs directly** when you need to see formatting, tables, or signatures — e.g., to verify the Librarian's signature page. PDFs all exceed 10 pages, so unbounded `Read` will fail; pass the `pages` parameter. The 2015 Recommendation (~407 pp.) and 2018 Recommendation (~342 pp.) are the densest.
 - **The `[PAGE N]` markers in the `.txt` files match PDF page numbers**, not the printed Federal Register pagination. Cite as "PDF p. N" or "`.txt` page marker N" to avoid ambiguity.
-- **There is no build, lint, or test step.** There is no code.
-- **The git repository has no commits yet**, so `git log` will fail until the first commit lands.
+- **The archive itself has no build step** — the PDFs/`.txt` files are static. The one piece of code is the exemption-diagram data layer (see the next section); its build is `make build`.
 - If you ever need to re-extract a PDF, the system has Python 3 with `pypdf` 6.10.2 (no poppler). The original extraction script wrapped mid-word hyphens and collapsed triple blank lines — match that if you rebuild.
+
+## The exemption diagrams & data layer
+
+`diagram.html` (exemption × cycle matrix) and `diagram-repair.html` (repair classes by product) are interactive views served via GitHub Pages. **They are generated — do not hand-edit the HTML data or the `.js` files.** `AGENTS.md` has step-by-step recipes for changing the data; `analysis/DATA-LAYER-PROPOSAL.md` has the design rationale and full schemas. Three layers:
+
+- **Layer 1 — facts.** `analysis/cycle-YYYY.json` / `cycle-YYYY-denials.json` — per-cycle codified classes and denials, each cited to a PDF page + verbatim quote. Every record has a `class_id` (`"2018:b10"`, `"2024:d1"`). `analysis/comments.json` is the normalized first-round-comment table.
+- **Layer 2 — lineage.** `analysis/lineages.json` — cross-cycle threads. Each lineage's `members[]` reference Layer-1 `class_id`s; the full per-cycle status grid is *derived*, not stored.
+- **Layer 3 — views.** `analysis/views/diagram.json` and `diagram-repair.json` — per-view ordering and presentation.
+
+**To change a diagram, edit the data layer, then rebuild:**
+
+- `make build` — validate → derive → render → write `diagram-data.js`, `diagram-repair-data.js`, and `analysis/derived/*`.
+- `make check` — same, but verify only (no write).
+- `make comments` — regenerate `analysis/comments.json` (only when a `manifest.csv` changes).
+
+The build is `analysis/build/*.mjs` (Node, stdlib only — no `npm install`). `analysis/build/bootstrap.mjs` is the one-time migration that created the data layer from the old hand-built files; it is kept for provenance and is not part of `make build`.
+
+`analysis/derived/exemptions-master.json` is a **generated** consolidation. The hand-built `analysis/exemptions-master.json` it replaced is retired (kept only because the diagram footers still cite that path — repoint them to `analysis/derived/` next time the HTML is edited).
 
 ## Common cross-cycle questions
 
