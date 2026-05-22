@@ -224,6 +224,24 @@
     font-size: 11px;
     font-weight: 700;
   }
+  td.cell .petitioner-chip {
+    display: inline-block;
+    margin-top: 3px;
+    padding: 1px 5px;
+    background: rgba(255,255,255,0.85);
+    color: #1a1a1a;
+    border: 1px solid rgba(0,0,0,0.12);
+    border-radius: 8px;
+    font-size: 9px;
+    font-weight: 600;
+    letter-spacing: 0.02em;
+    line-height: 1.4;
+    max-width: 72px;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+  }
+  td.cell.s-na .petitioner-chip { display: none; }
 
   /* Cell color classes */
   td.cell.s-new { background: var(--c-new); color: var(--c-new-ink); }
@@ -417,6 +435,72 @@
 // ============================================================
 
 const CYCLES = [2000, 2003, 2006, 2010, 2012, 2015, 2018, 2021, 2024];
+
+// ============================================================
+// PETITIONERS: keyed by [product label] -> [cycle] -> array of supporters.
+// First entry = lead petitioner (shown on chip). Renewal-cycle entries
+// use the renewal-petition signers. Where a row was DENIED, the petitioner
+// is whoever filed the proposal (not the opponent who killed it).
+// ============================================================
+const PETITIONERS = {
+  "Smartphones (phones)": {
+    2018: ["Auto Care + CTA", "EFF", "iFixit"],
+    2021: ["iFixit", "Repair Ass'n"],
+    2024: ["Auto Care/CTA/iFixit/ORI (renewal)"]
+  },
+  "Tablets / portable all-purpose mobile computers": {
+    2021: ["iFixit", "Repair Ass'n"],
+    2024: ["iFixit (renewal coalition)"]
+  },
+  "Laptops / desktops / general-purpose computers": {
+    2012: ["SFLC", "FSF", "Mozilla", "SaurikIT", "NYFU", "Huang"],
+    2021: ["(no petitioner — inferred coverage)"],
+    2024: ["(no petitioner — inferred coverage)"]
+  },
+  "Home appliances (refrigerators, dishwashers, ovens, washers, dryers, microwaves)": {
+    2018: ["EFF", "iFixit", "Auto Care + CTA"],
+    2021: ["iFixit", "Repair Ass'n"],
+    2024: ["iFixit (renewal coalition)"]
+  },
+  "Home systems (HVAC, thermostats, electrical, security)": {
+    2018: ["EFF", "iFixit", "Auto Care + CTA"],
+    2021: ["iFixit", "Repair Ass'n"],
+    2024: ["iFixit (renewal coalition)"]
+  },
+  "Video game consoles": {
+    2012: ["NTIA (narrowed-to-repair proposal)", "(original Class 3: EFF)"],
+    2015: ["iFixit", "EFF"],
+    2021: ["Public Knowledge", "iFixit"],
+    2024: ["Public Knowledge + iFixit (renewal)"]
+  },
+  "Motorized land vehicles (cars, trucks, motorcycles, ATVs, tractors)": {
+    2015: ["EFF", "Auto Alliance opp."],
+    2018: ["Auto Care + CTA", "EFF/ORI/ASCDI", "iFixit", "MEMA", "Farmers (AFBF)"],
+    2021: ["iFixit", "Repair Ass'n"],
+    2024: ["Auto Care/CTA/iFixit/ORI/AFBF/MEMA/SEMA (renewal)"]
+  },
+  "Marine vessels (boats, commercial vessels, agricultural vessels)": {
+    2021: ["iFixit", "Repair Ass'n"],
+    2024: ["iFixit (renewal coalition)"]
+  },
+  "Aircraft / avionics (operational & maintenance data access)": {
+    2018: ["Air Informatics LLC", "Public Knowledge", "FSF"]
+  },
+  "Medical devices & systems (clinical / hospital / professional)": {
+    2021: ["Summit Imaging", "Transtate"],
+    2024: ["TriMedx", "Avante", "Crothall", "Metropolis", "TTG"]
+  },
+  "Commercial food-preparation equipment (commercial ovens, ice machines, soft-serve, etc.)": {
+    2024: ["Public Knowledge", "iFixit"]
+  },
+  "Other commercial / industrial / enterprise equipment (broader scope)": {
+    2021: ["iFixit", "Repair Ass'n"],
+    2024: ["Public Knowledge", "iFixit"]
+  },
+  "Vehicle / vessel operational, diagnostic, telematics data": {
+    2024: ["MEMA", "SEMA"]
+  }
+};
 
 const ROWS = [
 
@@ -831,12 +915,23 @@ function buildMatrix() {
       const labelHtml = `<span class="status-label">${escapeHtml(statusLabel[c.status])}</span>`;
       const tooltipText = c.headline ? c.headline : statusFullLabel[c.status];
 
+      const pets = (PETITIONERS[row.product] || {})[cycle];
+      let chipHtml = "";
+      let chipTooltip = "";
+      if (pets && pets.length) {
+        const lead = pets[0];
+        const extra = pets.length - 1;
+        const chipText = extra > 0 ? `${lead} +${extra}` : lead;
+        chipTooltip = " — Petitioners: " + pets.join("; ");
+        chipHtml = `<span class="petitioner-chip">${escapeHtml(chipText)}</span>`;
+      }
+
       html += `<td class="cell s-${c.status}" `
             + `data-product="${escapeAttr(row.product)}" `
             + `data-cycle="${cycle}" `
             + `data-status="${c.status}" `
-            + `title="${escapeAttr(cycle + " — " + tooltipText)}">`
-            + classNumHtml + labelHtml + `</td>`;
+            + `title="${escapeAttr(cycle + " — " + tooltipText + chipTooltip)}">`
+            + classNumHtml + labelHtml + chipHtml + `</td>`;
     }
 
     html += `</tr>`;
@@ -900,6 +995,11 @@ function showDetail(product, cycle) {
   }
   if (cell.longDesc) {
     html += `<p class="field-value">${escapeHtml(cell.longDesc)}</p>`;
+  }
+  const pets = (PETITIONERS[row.product] || {})[cycle];
+  if (pets && pets.length) {
+    html += `<p class="field-label">Petitioners / proponents</p>`;
+    html += `<p class="field-value">${pets.map(p => escapeHtml(p)).join(" &middot; ")}</p>`;
   }
   if (cell.quote) {
     html += `<p class="field-label">Verbatim</p>`;
