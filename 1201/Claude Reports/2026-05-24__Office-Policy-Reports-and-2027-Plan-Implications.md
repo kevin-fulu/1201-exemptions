@@ -127,11 +127,11 @@ The reports do not contradict each other: the 2016 Study is about underlying cop
 
 **Suggested edit:** add a citation to the Register's permanent-exemption recommendation in the user-community section, and adopt §117(d) language ("original specifications") in the draft class language.
 
-### Filing 2 — Commercial-Service & Scientific Equipment (50/50)
+### Filing 2 — Scientific & Laboratory Equipment
 
-**Strongly supported.** The 2017 Study's broader-is-better framing (Finding 3) is the Office's own argument *for* the 50/50 pairing. The §117(a) ownership analysis (Finding 7) firmly supports both sub-classes. The 2016 Study's "repair supports — rather than displaces" quote (Finding 8) is the doctrinal foundation for our copyright-posture argument.
+**Strongly supported.** This filing was originally framed as a 50/50 commercial-service + scientific pairing; after a strategic reframing (see below), it now stands as Scientific & Laboratory Equipment alone — the commercial-service categories with documented lockouts moved into Filing 5's broader "Commercial Premises Equipment" class. The 2017 Study's permanent-exemption recommendation, the §117(a) ownership analysis (Finding 7), and the 2016 Study's "repair supports — rather than displaces" quote (Finding 8) all apply directly. The 2024 Class 5 deliberate carve-out (Finding 2 in the per-finding list of the 2017 Study, at PDF p. 9 of the Public Knowledge / iFixit Initial Comment) is the §1201-record argument unique to this filing.
 
-**Edits applied:** the copyright-posture entry now cites the 2016 Study at p. 40, the §117(a) analysis at p. 35, the 2017 Study's permanent-exemption recommendation, and the opposition's 2016 concession at p. 93 n.508.
+**Edits applied:** the copyright-posture entry now cites the 2016 Study at p. 40, the §117(a) analysis at p. 35, the 2017 Study's permanent-exemption recommendation, and the opposition's 2016 concession at p. 93 n.508. The "Why now" section anchors to the deliberate 2024 carve-out and the Office's own permanent-exemption recommendation.
 
 ### Filing 3 — American Re-industrialization: Manufacturing Equipment
 
@@ -147,11 +147,16 @@ The reports do not contradict each other: the 2016 Study is about underlying cop
 
 **Risk:** opposition will cite the 2016 Study's "OS is a significant element" language back at us. Pre-rebut by emphasizing that our scope sits on the *hardware* side: component-authentication chips, parts-pairing, T2/Secure Enclave hardware verification — not the OS itself. We are circumventing the *gatekeeper between the user and the hardware they own*, not the gatekeeper between the user and a licensed OS.
 
-### Filing 5 — Building & Energy Infrastructure
+### Filing 5 — Commercial Premises Equipment
 
-**Strongly supported on the safety-framing.** The 2017 Study's safety-belongs-outside-copyright position (Finding 4) is the Office's own framing for our carve-outs.
+**Strongly supported on every front.** This filing was originally framed as Building & Energy Infrastructure; after the strategic reframing, it now covers the full surface of software-enabled equipment installed on commercial premises — HVAC, BMS, building automation, solar, battery, EV charging, commercial laundry, commercial dishwashers, fitness/wellness, cleaning, hospitality. The diversity of equipment categories is *evidence*, not a list of separate asks — the same TPM pattern across the full surface argues that the class needs to be broad.
 
-**Edit applied:** the critical-exclusions section now cites the 2017 Study at p. 94 directly.
+Three of the 2017 Study's findings directly underwrite this:
+- **Finding 3** (recommendation against device-specific limits, PDF p. 94): the Office's own argument *for* breadth. Cite it as the direct response to any "this class is too broad" objection.
+- **Finding 4** (safety belongs outside copyright, PDF p. 94): the Office's own framing for our life-safety / grid-interconnect / EPA-DOE carve-outs.
+- **Finding 7** (§117(a) ownership analysis, 2016 Study at pp. 35–36): commercial-premises equipment sits on the "invisible to the consumer" / owned-firmware side of the line — the device buyer is the §117 owner of the embedded copy.
+
+**Edits applied:** the critical-exclusions section cites the 2017 Study at p. 94 directly. The "Why one broad class" section makes the strategic principle explicit: diversity of examples = record depth, not separate asks.
 
 ---
 
@@ -190,6 +195,14 @@ The Office did *not* endorse:
 - Permanent exemption for modification/tinkering
 
 Our framing must respect these limits. We cannot argue our TPMs are categorically outside §1201(a)'s scope, and we must keep our scope on repair, not modification.
+
+### 5. "Broad class" as pretext for "thin record" — the master strategic principle
+
+Reading the Office's denial history across cycles, the "non-cohesive class" framing repeatedly co-occurs with a thin evidentiary record. Where the record is concrete and named — vehicles (2015), consumer devices (2018), medical devices (2021), food-prep (2024) — the Office accepts substantial breadth. Where the record is thin or speculative — broader commercial / industrial in 2021 (Class 12) and 2024 (Class 5 broader scope) — the Office reaches for "non-cohesive class" as the denial rationale.
+
+The actionable principle: **counter the broad-class objection by building the record, not by shrinking scope.** Specific examples in a filing are record-depth contributions, not arguments for separate filings. The diversity of examples *is the argument* that the class needs to be broad. This is exactly the framing the 2017 Study supports at PDF p. 94 ("recommends against limiting an exemption to specific technologies or devices").
+
+This principle drove the 2027-plan restructuring: Filing 2 became Scientific & Laboratory Equipment alone (clean record advantage on the deliberate 2024 carve-out), and Filing 5 absorbed the commercial-service categories under a broad "Commercial Premises Equipment" frame. The disparate equipment categories in Filing 5 are not asks for separate paragraphs — they are evidence of a systemic problem that one broad class is the appropriate response to.
 
 ---
 

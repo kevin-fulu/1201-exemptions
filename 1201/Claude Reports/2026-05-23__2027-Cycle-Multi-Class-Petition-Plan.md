@@ -20,10 +20,10 @@ The 2024 Register denied "commercial and industrial equipment" broadly (Class 5 
 | # | Filing | Frame |
 |---|---|---|
 | 1 | Agricultural & Construction Equipment | Stationary ag (gap in (b)(13)) + mobile-construction clarification |
-| 2 | Commercial-Service & Scientific Equipment (50/50 balanced) | Parallel sub-classes with identical TPM / copyright posture; broad need, narrow harm |
+| 2 | Scientific & Laboratory Equipment | Closes the deliberate 2024 carve-out (no prior denial, no organized opposition); direct (b)(17) medical-device analog |
 | 3 | American Re-industrialization: Manufacturing Equipment | Reshoring / factory-operator autonomy; 4 sub-asks |
 | 4 | General-Purpose Computing & Networking | Closes the (b)(15) consumer-gate gap for commercial-use PCs / Macs / workstations; folds in enterprise IT |
-| 5 | Building & Energy Infrastructure | Unified by "things attached to a commercial building / property" |
+| 5 | Commercial Premises Equipment | One broad class covering software-enabled commercial-property equipment (HVAC, BMS, solar/battery/EV, commercial laundry, etc.); diversity of examples = record depth, not separate asks |
 
 ---
 
@@ -110,21 +110,16 @@ The hard deadline is **Round 1 (~Dec 2026)** — that's where the substantive ev
 
 ---
 
-## Filing 2 — Commercial-Service & Scientific Equipment (50/50 balanced)
+## Filing 2 — Scientific & Laboratory Equipment
 
-> **Two parallel sub-classes with identical TPM patterns, identical ISO-repair industry structures, and identical copyright posture** — the TPMs at issue (service-mode passwords, OEM calibration software, authenticated parts, encrypted firmware, phone-home license checks) gate device-control firmware, not access to creative works. Per the 2016 Software Study at p. 40, *"repair supports — rather than displaces — the purpose of the embedded programs that control that device"* — and §117(a) *"should adequately protect most repair and maintenance activities"* (2016 Study at p. 35). Combining the two sub-classes does not introduce a new copyright surface; existing §1201(f) (reverse engineering for interoperability) and §1201(j) (security testing) already provide the statutory baseline. The 2017 §1201 Study went further and recommended Congress adopt a **permanent statutory repair exemption** keyed to §117(d)'s "maintenance" and "repair" definitions. Even the opposition coalition conceded that repair "might present a unique and distinguishable set of circumstances" (AAP, ESA, MPAA & RIAA, 2016 record, cited at 2017 Study p. 93 n.508).
->
-> **The combined case: the need is broad (every small commercial operator and every research lab), the harm is narrow (no creative-works content is at issue), and the additional scope of including both sub-classes does not expand copyright risk relative to either sub-class alone.**
->
-> The scientific/lab sub-class has a distinct advantage on the §1201 record: the 2024 Class 5 proponents (Public Knowledge & iFixit, Initial Comment at PDF p. 9) explicitly excluded "devices designed or marketed for medical, scientific, or consumer use" from their petition. Scientific/lab is therefore a *deliberate carve-out, not a denial* — the §1201 record on it is clean and unopposed.
+> **Repair of software-enabled scientific and laboratory instruments — the cleanest filing in the 2027 portfolio.** The 2024 Class 5 proponents (Public Knowledge & iFixit, Initial Comment at PDF p. 9) explicitly excluded *"devices designed or marketed for medical, scientific, or consumer use"* from their petition. Scientific/lab is a **deliberate carve-out, not a denial** — the §1201 record is clean and unopposed. This filing closes that gap with a comprehensive record across the full surface of research instrumentation.
 
-### Service-business scope
-- Commercial fitness / wellness equipment (gym treadmills, strength machines, connected commercial cardio, group-fitness equipment).
-- Commercial laundry (laundromat, hospitality, healthcare-laundry, dry-cleaning).
-- Commercial cleaning (industrial vacuums, floor machines, pressure-wash equipment).
-- Hospitality equipment beyond food-prep (commercial espresso machines, commercial dishwashers not in (b)(16), commercial garment care, hospitality minibar/vending).
+### Why now
+- **The 2024 deliberate carve-out** — the Office has never said "no" to a scientific-instrument repair class because no one has ever asked. Already shown as a gap row in the repair diagram.
+- **The 2017 §1201 Study** formally recommended Congress adopt a permanent statutory repair exemption (PDF pp. 88–96). The Office's own analytical position supports the filing.
+- **The user community is unusually well-organized** for record-building: research universities, biotech, pharma, and ISOs are all heavily reliant on instruments they can't repair when OEM service is unavailable, expensive, or abandoned.
 
-### Scientific & lab scope
+### Example instruments (record depth — not separate asks)
 - Mass spectrometers and analytical chains (HPLC, UPLC, GC, GC-MS, LC-MS).
 - Genomic / proteomic sequencers (Illumina, PacBio, Oxford Nanopore platforms).
 - Electron microscopes (TEM, SEM, FIB, cryo-EM); confocal and super-resolution optical microscopes.
@@ -132,43 +127,41 @@ The hard deadline is **Round 1 (~Dec 2026)** — that's where the substantive ev
 - Spectrophotometers (UV-Vis, FTIR, NMR), thermal cyclers / qPCR machines, ultracentrifuges, plate readers.
 - Calibration, metrology, and electronic test & measurement equipment.
 
+These are *examples* that build the per-category record. The class itself is scientific and laboratory equipment broadly. Naming specific instrument types is record depth, not a list of separate asks — and demonstrates that the same TPM-lockout pattern recurs across the full surface of research instrumentation.
+
+### Copyright posture
+The TPMs at issue (service-mode passwords, OEM calibration software, authenticated parts, encrypted firmware, phone-home license checks) gate the instrument's device-control firmware — they do not gate access to copyrighted creative works. Per the 2016 Software Study at p. 40, *"repair supports — rather than displaces — the purpose of the embedded programs that control that device"* — and §117(a) *"should adequately protect most repair and maintenance activities"* (2016 Study at p. 35). The 2017 §1201 Study went further and recommended Congress adopt a permanent statutory repair exemption keyed to §117(d)'s "maintenance" and "repair" definitions. Even the opposition coalition conceded that repair *"might present a unique and distinguishable set of circumstances"* (AAP, ESA, MPAA & RIAA, 2016 record, cited at 2017 Study p. 93 n.508) — scientific instruments fit that distinguishable-set framing exactly.
+
 ### User community
-- **Service-business leg:** small-to-medium service businesses; the same profile that won the 2024 food-prep grant.
-- **Scientific/lab leg:** research universities and core facilities, biotech and pharma R&D, contract research organizations, independent service organizations (ISOs) serving instrument repair. The user is institutional and budget-constrained — most lab managers depend on ISOs because OEM service contracts are 15–25% of instrument capex per year.
-- Sympathetic Office posture: 2024 Register flagged "more developed record" as the reason food-prep got carved out — replicate that posture here, with scientific/lab as the most-developed sub-record.
+Research universities and core facilities, biotech and pharma R&D, contract research organizations, independent service organizations (ISOs) serving instrument repair, federally-funded research institutions. The user is institutional and budget-constrained — most lab managers depend on ISOs because OEM service contracts are 15–25% of instrument capex per year.
 
 ### Closest precedent
-- 2024 §201.40(b)(16) retail-level commercial food-preparation equipment — direct template for the service-business legs.
-- 2024 §201.40(b)(17) medical devices — closest pattern for the lab leg: same ISO-repair industry structure, same "related data files" issue (calibration files, run-method files), same professional/institutional user posture.
+- 2024 §201.40(b)(17) medical-device repair — closest pattern: same ISO-repair industry structure, same "related data files" issue (calibration files, run-method files), same professional/institutional user posture.
+- 2024 §201.40(b)(16) retail commercial food-prep — analogous "institutional commercial user" template (and direct evidence that the Office grants when the record is concrete).
 
 ### Draft class language
-> Computer programs that are contained in and control the functioning of a lawfully acquired (i) retail-level commercial fitness, laundry, cleaning, or hospitality equipment; or (ii) scientific, laboratory, or research instrument, and related data files (including instrument calibration files, analytical method files, and run logs), when circumvention is a necessary step to allow the diagnosis, maintenance, or repair of such equipment or instrument, and is not accomplished for the purpose of gaining access to other copyrighted works.
+> Computer programs that are contained in and control the functioning of a lawfully acquired scientific, laboratory, or research instrument, and related data files (including instrument calibration files, analytical method files, and run logs), when circumvention is a necessary step to allow the diagnosis, maintenance, or repair of such instrument, and is not accomplished for the purpose of gaining access to other copyrighted works. For purposes of this paragraph, (i) the "maintenance" of an instrument is the servicing of the instrument in order to make it work in accordance with its original specifications and any changes to those specifications authorized for that instrument; and (ii) the "repair" of an instrument is the restoring of the instrument to the state of working in accordance with its original specifications and any changes to those specifications authorized for that instrument. (Definitions mirror those codified at (b)(15)–(b)(17).)
 
-### Evidence requirements
-- McDonald's-ice-cream-equivalent stories for each sub-category. The 2024 grant turned on having a concrete, documented vendor-lock-in case. Replicate per sub-class.
-- Specific named gym chains, laundromat operators, hospitality operators, lab managers with documented harms.
-- **Lab-specific evidence:**
-  - Service-contract cost differentials between OEM and independent ISOs (commonly 2–3× for the same scope of work).
-  - Documented refusal-to-service by OEMs after end-of-life on instruments still in research use.
-  - Downtime-cost impact on grant-funded research — NIH / NSF / DOE cycle delays, missed publication deadlines, lost graduate-student productivity.
-  - Core-facility utilization records from research universities showing instrument-availability shortfalls.
-  - OEM parts-availability gaps for instruments more than ~7 years old.
-  - "Phone-home" authentication that bricks instruments without a manufacturer license check (specific named instrument lines with this behavior).
+### Record-building plan
+- Service-contract cost differentials between OEM and independent ISOs (commonly 2–3× for the same scope of work).
+- Documented refusal-to-service by OEMs after end-of-life on instruments still in research use.
+- Downtime-cost impact on grant-funded research — NIH / NSF / DOE cycle delays, missed publication deadlines, lost graduate-student productivity.
+- Core-facility utilization records from research universities showing instrument-availability shortfalls.
+- OEM parts-availability gaps for instruments more than ~7 years old.
+- "Phone-home" authentication that bricks instruments without a manufacturer license check (specific named instrument lines with this behavior).
 
 ### Witnesses & coalition leads
-- **Primary coalition lead:** Public Knowledge (carried 2024 food-prep) + Repair Association.
-- **Co-leads (service):** NFIB (small business); independent gym, laundromat, and hospitality operator associations.
-- **Co-leads (lab):** University procurement consortia (APLU / AAU member institutions); scientific-instrument ISO industry trade groups; research-society instrumentation interests (ACS analytical division; ASMS for mass-spec; ASCB / similar for microscopy).
-- **Service-leg witnesses:** 2+ gym operators, 2+ laundromat operators, 1+ hotel facilities manager.
-- **Lab-leg witnesses:** 2+ university core-facility directors (mass-spec, sequencing, and EM cores at separate institutions); 1+ biotech or pharma lab manager; 1+ scientific-instrument ISO repair company; 1+ NIH- or NSF-funded PI documenting research delay from equipment lockouts.
-- **Allied amici:** SERI (sustainability — repair = less e-waste); university research-VP offices may write in support.
+- **Primary coalition lead:** Public Knowledge + Repair Association.
+- **Co-leads:** University procurement consortia (APLU / AAU member institutions); scientific-instrument ISO industry trade groups; research-society instrumentation interests (ACS analytical division; ASMS for mass-spec; ASCB / similar for microscopy); SERI (sustainability — abandoned-instrument e-waste).
+- **Witnesses:** 2+ university core-facility directors (mass-spec, sequencing, and EM cores at separate institutions); 1+ biotech or pharma lab manager; 1+ scientific-instrument ISO repair company; 1+ NIH- or NSF-funded PI documenting research delay from equipment lockouts.
+- **Allied amici:** university research-VP offices.
 
 ### Risk assessment
-- **Low-medium.** Each leg is a direct analog of a 2024 grant. The 50/50 framing reinforces the "broad need, narrow harm, low additional copyright risk" argument: both legs face the same kind of TPM and neither involves access to creative works. The lab leg's additional advantage: the Office has not heard "no" on lab equipment specifically — the 2024 denial was for the broader-commercial bucket, which excluded lab by the proponents' own choice. The only structural risk: Office may codify as two paragraphs rather than one — pre-position with "alternatively, each as its own paragraph" fallback in the petition.
+- **Low.** Direct analog of the 2024 medical-device grant. Clean §1201 record (no prior denial); no organized opposition (the deliberate 2024 carve-out means the usual rightsholder coalition has not staked out a position on lab equipment specifically). The strategic variable, as in every filing, is record depth — and the user community is unusually well-organized for record-building.
 
 ### Expected outcome
-- One (b)(N) with separate paragraphs for commercial-service and scientific/lab, OR two adjacent (b)(N) classes. Either outcome is a win.
-- **Confidence: high.**
+- New (b)(N) for scientific and laboratory equipment repair, with related-data-files coverage (calibration files, run-method files) on the (b)(17) model.
+- **Confidence: very high.**
 
 ---
 
@@ -302,71 +295,95 @@ Filed as one petition (preferred) or four depending on Office preference:
 
 ---
 
-## Filing 5 — Building & Energy Infrastructure
+## Filing 5 — Commercial Premises Equipment
 
-> Repair of equipment attached to commercial buildings or to a property's energy / charging infrastructure. **Unified user community: building owners, facility managers, and energy operators** — distinct from Filing 2's small-commercial-service operators and Filing 3's factory operators. Buildings have HVAC, BMS, energy generation/storage, and EV charging; this filing groups them by "where they live" rather than by individual equipment category.
+> **One broad class covering software-enabled equipment installed on commercial, institutional, and multi-family premises that uses TPMs to gate physical repair.** The diversity of equipment categories below is not an argument for separate filings — it is evidence that this is a single systemic problem affecting one coherent user community (operators of commercial premises). The breadth of the class follows from the breadth of the record.
 
-### Building scope
-- Commercial HVAC — rooftop units, chillers, VRF systems, walk-in refrigeration, commercial-scale heating/cooling.
-- Building management systems (BMS) and building automation controllers.
-- Commercial elevator and access controllers — with life-safety carve-out (below).
-- *Excludes Filing 3's industrial-scale factory HVAC (different user, different purpose) and the residential HVAC already reached by (b)(15)'s home-systems leg.*
+### Why one broad class
 
-### Energy scope
-- Solar inverters and microinverter systems (Enphase, SolarEdge, SMA, Fronius, GoodWe).
-- Commercial battery energy-storage systems (Tesla Powerwall- and Megapack-scale, LG, Enphase IQ, EG4).
-- Energy management systems (EMS); microgrid controllers.
-- EV charging infrastructure — Level 2 and DC fast chargers in commercial, fleet, multi-family, and workplace settings.
+A property owner faces the *same* §1201 problem whether the locked equipment is the building's HVAC, the laundry room's washing machines, the parking lot's EV charger, the basement's solar inverter, the lobby's elevator-access controller, or the gym's connected treadmill. Same TPM patterns (service-mode passwords, parts-pairing, OEM-only software, phone-home authentication). Same harm pattern (operator can't repair what they own; OEM monopoly drives up service cost; abandoned-vendor equipment becomes unrepairable e-waste). Same copyright posture (firmware gating device function, not gating access to creative works).
+
+Splitting the class by equipment category would mis-frame a systemic issue as a series of niche concerns. The 2017 §1201 Study itself (PDF p. 94) puts the point explicitly: the Office *"recommends against limiting an exemption to specific technologies or devices, such as motor vehicles, as any statutory language would likely be soon outpaced by technology."*
+
+### Example equipment (record depth — not separate asks)
+
+- **Commercial HVAC** — rooftop units, chillers, VRF systems, walk-in refrigeration, commercial-scale heating/cooling. Heavy lockouts (Carrier, Trane, Daikin, Honeywell, Johnson Controls service-tech-only software). *Excludes Filing 3's industrial-scale factory HVAC and the residential HVAC already reached by (b)(15)'s home-systems leg.*
+- **Building management systems (BMS)** and building automation controllers (Niagara, Tridium, etc.).
+- **Commercial elevator and access controllers** — with life-safety carve-out (see below).
+- **Solar inverters and microinverter systems** — Enphase, SolarEdge, SMA, Fronius, GoodWe. Installer-only software gates everything from a fault-reset to a board replacement.
+- **Commercial battery energy-storage systems** — Tesla Powerwall through Megapack-scale, LG, Enphase IQ, EG4.
+- **Energy management systems (EMS) and microgrid controllers.**
+- **EV charging infrastructure** — Level 2 and DC fast chargers in commercial, fleet, multi-family, and workplace settings (ChargePoint, EVgo, Blink, Tesla). Documented network-collapse bricking incidents.
+- **Commercial laundry** — Alliance/Speed Queen, Continental, Dexter, Maytag Commercial; service-mode lockouts documented in laundromat and hospitality-laundry operations.
+- **Commercial dishwashing equipment** (Hobart service codes) not in (b)(16)'s food-prep class — institutional kitchens, hotels, factories.
+- **Commercial espresso, garment-care, minibar, and vending equipment** — brand-dependent service modes; record-depth varies but contributes to the breadth-of-pattern argument.
+- **Commercial fitness and wellness equipment** — Life Fitness, Precor, Technogym, Matrix, Cybex. Diagnostic service modes; lighter parts-pairing than the heavy-lockout categories above. Included because it costs us nothing and helps establish the equipment-breadth pattern.
+- **Commercial cleaning equipment** — Tennant, Nilfisk, Kärcher Pro; mostly mechanical but increasingly firmware-controlled. Same record-breadth purpose.
+
+These are *examples*, not a menu of separate asks. Each contributes to the record showing the same TPM-gating-repair pattern across the full surface of commercial-premises equipment.
 
 ### Critical framing — safety
+
 - Office will worry about grid-interconnection and life-safety. The class must:
   - Limit repair to restoration of original specifications.
   - Exclude any modification that changes the equipment's grid-interconnect behavior, safety setpoints, or certified parameters (UL 1741, IEEE 1547).
   - Carve out life-safety systems entirely (fire alarm, smoke control, intrusion detection, elevator interlock, sprinkler controls).
   - Carve out modifications that affect HVAC's regulated efficiency or emissions parameters (EPA, DOE).
-- Without these carve-outs, this filing is denied for safety reasons regardless of merits.
 - **The Office's own framing supports this approach.** From the 2017 §1201 Study at p. 94: *"to the extent that commenters oppose an exemption for repair out of non‐copyright related concerns, such as public safety, the Office believes these matters are better addressed through laws or regulations outside of the Copyright Act."* Our carve-outs implement that direction: safety regulation belongs to UL, IEEE, EPA, DOE, and AHJ inspection — not §1201. Cite this when opposition (Tesla, Carrier, Trane, etc.) raises safety arguments against the repair exemption.
 
-### User community
-- Commercial property owners, BOMA members, IFMA members, facilities managers.
-- Energy operators, EV-charging network operators, solar installers servicing commercial accounts.
-- Distinct from Filing 2 (small commercial operators in the *service* business) and Filing 3 (factory operators). The differentiator: this user owns or manages a *building or property*, not a production line or a service business.
+### Unified user community
+
+Operators of commercial-premises equipment: commercial-property owners, BOMA / IFMA members, hospital and university facilities staff, hotel and hospitality operators, laundromat and small-commercial operators, gym and fitness-center owners, energy operators, EV-charging-network operators, and the independent service organizations (ISOs) that serve all of them. The user is defined by *what they own and operate*, not by what specific equipment category we pick out. Distinct from Filing 2 (research institutions), Filing 3 (factory operators), and Filing 4 (general computing). The Office's preferred "cohesive user community" test is satisfied — the breadth comes from the equipment, not the user.
 
 ### Closest precedent
-- 2024 §201.40(b)(13) vehicle/vessel — vehicles have safety-critical components and the Office has accepted "restore original specifications" repair.
-- 2024 §201.40(b)(17) medical devices — for the "professional repair, related data files included" pattern.
-- 2024 §201.40(b)(15) consumer-devices home-systems leg — analogous for the residential side of the same equipment categories (this filing extends the same logic to the commercial side).
 
-### Draft class language (2 paragraphs)
-> (i) Computer programs that are contained in and control the functioning of a lawfully acquired energy-generation, energy-storage, energy-management, or electric-vehicle-charging system installed at a commercial, multi-family, or institutional property — including grid-tied solar inverters, commercial battery energy-storage systems, microgrid controllers, and Level 2 or DC fast EV chargers — when circumvention is a necessary step to allow the diagnosis, maintenance, or repair of such a system.
->
-> (ii) Computer programs that are contained in and control the functioning of a lawfully acquired commercial heating, ventilation, air-conditioning, refrigeration, building management, or building-automation system, other than a fire, security, or life-safety system, when circumvention is a necessary step to allow the diagnosis, maintenance, or repair of such a system.
->
-> In each case: such circumvention shall not modify the system's certified grid-interconnect behavior (UL 1741, IEEE 1547), its life-safety parameters, or its regulated efficiency or emissions parameters (EPA, DOE); and any technological measures circumvented are restored to their original state to the extent reasonably practicable upon completion of the repair.
+- 2024 §201.40(b)(13) vehicle/vessel — vehicles have safety-critical components and the Office accepted "restore original specifications" repair. Direct precedent for safety-bearing equipment.
+- 2024 §201.40(b)(16) retail commercial food-prep — commercial-operator user community; the model for granting commercial repair.
+- 2024 §201.40(b)(17) medical devices — "professional repair, related data files included" pattern.
+- 2024 §201.40(b)(15) consumer-devices home-systems leg — analog for the residential side of the same equipment categories (this filing extends the same logic to the commercial side).
 
-### Evidence requirements
-- **Building leg:** documented commercial-HVAC service-exclusivity by Carrier / Trane / Daikin / Honeywell / Johnson Controls; BOMA-member building-owner testimony on lock-out incidents; BMS bricking and orphan-vendor cases.
-- **Energy leg:** SunPower bankruptcy aftermath (tens of thousands of homeowners with locked monitoring); EV-charger network failures (ChargePoint, EVgo, Blink); documented solar-inverter and battery field failures with vendor-only-repair behavior.
-- Repair-industry economic data: solar-installer service-call patterns, EV-charger uptime statistics, commercial-HVAC service-contract pricing.
-- Grid-impact analysis: demonstrate that "restore original specifications" repair does not affect interconnection compliance.
-- Safety-system carve-out: explicit demonstration of what is in / out of scope.
+### Draft class language
+
+> Computer programs that are contained in and control the functioning of a lawfully acquired equipment system installed on commercial, institutional, or multi-family premises — including, but not limited to, heating, ventilation, air-conditioning, refrigeration, building-management, building-automation, energy-generation, energy-storage, energy-management, electric-vehicle-charging, commercial-laundry, commercial-dishwashing, commercial-fitness, commercial-cleaning, and commercial-hospitality equipment — when circumvention is a necessary step to allow the diagnosis, maintenance, or repair of such equipment.
+>
+> This paragraph does not apply to: (i) fire, security, intrusion, or life-safety systems; (ii) industrial-scale equipment used in manufacturing (which is the subject of paragraph (b)(N+3)); or (iii) factory-floor production equipment.
+>
+> Such circumvention shall not modify the equipment's certified grid-interconnect behavior (UL 1741, IEEE 1547), life-safety parameters, or regulated efficiency or emissions parameters (EPA, DOE); and any technological measures circumvented are restored to their original state to the extent reasonably practicable upon completion of the repair.
+>
+> For purposes of this paragraph, (i) the "maintenance" of equipment is the servicing of the equipment in order to make it work in accordance with its original specifications and any changes to those specifications authorized for that equipment; and (ii) the "repair" of equipment is the restoring of the equipment to the state of working in accordance with its original specifications and any changes to those specifications authorized for that equipment.
+
+### Record-building plan
+
+The record-depth across categories is what wins this filing. Two-witness-per-category target:
+
+- 2+ commercial HVAC operators / building owners with documented lockouts (Carrier, Trane, Daikin, Honeywell, Johnson Controls cases).
+- 2+ BMS service technicians at non-OEM service companies.
+- 2+ solar installers (SunPower-aftermath, abandoned-vendor; Enphase / SolarEdge installer-software gating).
+- 2+ EV-charger operators (including fleet operator).
+- 2+ commercial-laundry operators (laundromat + hospitality / healthcare laundry).
+- 1+ each from commercial-dishwasher, commercial-fitness, commercial-cleaning, and commercial-hospitality (espresso, garment care, vending) categories.
+- 1+ grid-safety engineer (to validate the safety carve-outs).
+- 1+ ISO industry representative covering the cross-category service-monopoly pattern.
+
+For each category: named operators, named OEMs, named lockout incidents, documented service-cost differentials between OEM and independent service, documented refusal-to-service-after-EOL incidents. The 2024 grants turned on concrete vendor-lock-in cases (the McDonald's-ice-cream pattern). Replicate per category — the breadth of evidence IS the argument for the class.
 
 ### Witnesses & coalition leads
+
 - **Primary coalition lead:** BOMA (Building Owners and Managers Association) + SEIA (Solar Energy Industries Association).
-- **Co-leads:** IFMA (International Facility Management Association); ChargePoint and fleet-operator coalitions; local-solar advocates (Solar United Neighbors); IREC (Interstate Renewable Energy Council).
-- **Building witnesses:** 2+ commercial-property facilities managers; 1+ BMS service technician at a non-OEM service company; 1+ commercial HVAC technician.
-- **Energy witnesses:** 2+ solar installers with abandoned-equipment cases; 2+ EV-charger operators (including at least one fleet operator); 1+ grid-safety engineer (to validate the safety-framing).
-- **Opposition:** Tesla (EV chargers + solar + batteries combined), Enphase, SolarEdge; Carrier, Trane, Daikin, Honeywell, Johnson Controls (commercial HVAC). ChargePoint may be opposition or co-lead depending on case selection.
+- **Co-leads:** IFMA (International Facility Management Association); ChargePoint and fleet-operator coalitions; local-solar advocates (Solar United Neighbors); IREC (Interstate Renewable Energy Council); NFIB on the small-commercial-operator side; commercial-laundry trade associations; independent gym, hospitality, and cleaning operator associations.
+- **Opposition:** Tesla (EV chargers + solar + batteries combined), Enphase, SolarEdge; Carrier, Trane, Daikin, Honeywell, Johnson Controls (commercial HVAC); Hobart (dishwashers); Alliance/Speed Queen (commercial laundry). Opposition surface is broader than narrower-class options would produce; the strategic answer is record depth, not scope reduction.
 
 ### Risk assessment
-- **Medium-high.** The unified "building infrastructure" user community is more cohesive than the prior building/energy split. Safety-framing is the make-or-break. Concrete bricking incidents (SunPower bankruptcy, EV-charger network outages) are the strongest wedge. Splitting building from energy is a fallback if the Office prefers narrower scope.
+
+- **Medium-high.** The variable here is record depth, not class breadth. The 2017 Study's "ill-fitting rulemaking" framing and the 2017 recommendation against device-specific limitations (PDF p. 94) both support a broad class. A thin record at Round 1 — not the breadth itself — is what would lose this filing. Plan the next 8 months around evidence development across the categories above.
 
 ### Expected outcome
-- **EV charging** most likely granted (clearest concrete record, smallest opposition).
-- **Commercial HVAC** plausibly granted with life-safety carve-out.
-- **Solar / battery** mixed (heavy vendor opposition).
-- **BMS** tricky (safety-system overlap).
-- **Confidence: medium.**
+
+- Single new (b)(N) for software-enabled commercial-premises equipment, with explicit life-safety and grid-interconnect carve-outs.
+- Office may codify in two paragraphs (e.g., one for HVAC/BMS/elevator-access, one for energy/EV/commercial-operator categories) — pre-position with that fallback in the petition.
+- **Highest-confidence sub-categories under the unified class:** EV charging, commercial HVAC.
+- **Most opposition:** solar/battery.
+- **Confidence: medium-high.**
 
 ---
 
@@ -448,10 +465,10 @@ Based on the 2021 / 2024 patterns:
 | Filing | Likely outcome |
 |---|---|
 | 1. Ag & Construction | **Granted.** Possibly with separate paragraphs for ag and construction-stationary. Mobile-construction clarification recorded. |
-| 2. Commercial-Service + Scientific (50/50) | **Granted.** Likely with separate paragraphs for commercial-service and scientific/lab given the distinct user communities. |
+| 2. Scientific & Laboratory Equipment | **Granted.** Cleanest filing in the portfolio — deliberate 2024 carve-out means no prior denial and no organized opposition. Direct (b)(17) medical-device analog. |
 | 3. American Re-industrialization | **1–2 of 4 sub-asks granted** — most likely abandoned-vendor (3b) plus one of regulated-pharma (3a) or factory-floor (3c). Others build 2030 record. Re-industrialization framing may produce sympathetic Register dicta even where scope is denied. |
 | 4. General-Purpose Computing & Networking | **Partial grant.** Strongest case: commercial workstations + PCs (outside (b)(15)'s consumer gate). Datacenter / enterprise IT denied at full scope; abandoned-vendor IT carve-out plausible. |
-| 5. Building & Energy Infrastructure | **Partial grant** — EV charging most likely; commercial HVAC plausible with life-safety carve-out; solar / battery mixed; BMS tricky. |
+| 5. Commercial Premises Equipment | **Single (b)(N), likely codified in 1–2 paragraphs.** The unified user-community frame and the device-agnostic 2017 Register recommendation both support breadth. Strongest sub-categories under the unified class: commercial HVAC, EV charging. Heavier opposition on solar/battery; record depth across categories carries the filing as a whole. |
 
 **Net new substantive grants: ~3–5 classes.** For comparison, 2024 produced 3 substantively-new grants (food-prep, vehicle/vessel data, plus expansions). This would be a notably-productive cycle.
 
