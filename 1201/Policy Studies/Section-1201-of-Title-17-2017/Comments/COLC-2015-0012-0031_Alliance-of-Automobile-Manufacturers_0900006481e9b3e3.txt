@@ -1,0 +1,512 @@
+[PAGE 1]
+UNITED STATES COPYRIGHT OFFICE 
+ 
+ 
+ 
+Section 1201 Study: Notice and 
+Request for Public Comment 
+ 
+Docket  No.: COLC-2015-
+0012                        
+                             
+* 
+ 
+* 
+ 
+* 
+ 
+* 
+ 
+Comments of: 
+Alliance of Automobile Manufacturers 
+ 
+Submitted on behalf of 
+Jessica L. Simmons, Senior Attorney 
+Alliance of Automobile Manufacturers 
+Washington, DC 
+By 
+Steven J. Metalitz 
+Mitchell Silberberg & Knupp LLP 
+Washington, DC 
+Of Counsel 
+March 2, 2016 
+ 
+****** 
+ 
+The Alliance of Automobile Manufacturers (Auto Alliance) welcomes this opportunity to 
+provide input to the Copyright Office (Office) study on the operation of section 1201 of Title 17. 
+See Section 1201 Study:  Notice and Request for Public Comment, 80 Fed. Reg. 81,369 (Dec. 
+29, 2015) (“Study Notice”).  Our comment takes the form of responses to the questions posed in 
+the Study Notice, which appear in italics below.
+1  
+The Auto Alliance is the leading advocacy group for the auto industry.  Its members 
+represent 77% of all car and light truck sales in the United States, including the BMW Group, 
+FCA US LLC, Ford Motor Company, General Motors Company, Jaguar Land Rover, Mazda, 
+Mercedes-Benz USA, Mitsubishi Motors, Porsche, Toyota, Volkswagen Group of America and 
+Volvo Cars North America.  For further details, see http://www.autoalliance.org/.  
+The Auto Alliance participated actively in the Sixth Triennial rulemaking cycle under 17 
+U.S.C. section 1201(a)(1)(C), with regard to the proposed exemptions applicable to the auto 
+industry.  As Auto Alliance did not participate in previous rulemaking cycles, our comments are 
+focused on our experience in the most recent cycle.  
+General   
+1.  Please provide any insights or observations regarding the role and effectiveness of the 
+prohibition on circumvention of technological measures in section 1201(a).   
+                                                 
+1 See 80 Fed. Reg. at 81,373.
+
+[PAGE 2]
+Comments of the Alliance of Automobile Manufacturers 
+ 2 
+7464950.3/46565-00003 
+Section 1201 (a) of Title 17 plays a key role in safeguarding the integrity of the complex 
+software-driven systems on which modern motor vehicles increasingly rely.  The statute is of 
+great importance to the U.S. auto industry because it provides a clear legal prohibition against 
+the circumvention of the access controls that protect these systems.  Further, as the role of 
+software in motor vehicle design and operation continues to grow, the importance of Section 
+1201 is almost sure to increase.     
+The role of computer programs in the operation of today’s motor vehicles is already 
+pervasive, and is growing rapidly.  This software is critical to safe and efficient performance of 
+virtually every aspect of motor vehicle use, from basic functions of propulsion, braking and 
+steering, to complex systems for driver assistance, crash avoidance, entertainment and 
+emergency communications, telematics, and forthcoming autonomous driving capabilities.  
+These operations are controlled by millions of lines of software code, developed by thousands of 
+programmers employed by auto manufacturers, or licensed by them from third party sources.  
+The prevalence of innovative computer programs in today’s cars helps explain why a recent 
+study found that almost half of the world’s top 20 “Most Innovative Companies” are 
+automakers,
+2 and why, for many Americans, the most sophisticated technological device they 
+own is their car.  
+This software is also critical to meeting the extensive regulatory standards which 
+automakers must satisfy in order to protect the safety of drivers and passengers, conserve energy 
+resources, protect the environment, reduce greenhouse gas emissions, and meet other national 
+goals.  As with any other commercially significant computer program, the protection of 
+copyright law is essential for encouraging further investment in the creation and proliferation of 
+increasingly innovative, flexible and powerful software for motor vehicle operations.   
+Automakers employ technological controls on access to many of these computer 
+programs in order to protect their integrity and ensure their efficient operation.  Preventing 
+tampering with these systems is essential to achieving customer satisfaction and regulatory 
+compliance goals, and was in fact mandated by applicable law and regulations in some 
+instances.
+3  Authorized access to this software is essential for purposes such as diagnosis and 
+repair of motor vehicle systems, and, increasingly, for the delivery of tested and approved after-
+sale updates and improvements that enhance the performance of these systems and make them 
+more reliable.4  But unauthorized access to the software poses potential threats to efficient and 
+predictable operations of these systems.  Thus, it risks frustrating the achievement of 
+fundamental regulatory goals and, in some cases, even threatens the safety and security of 
+drivers, passengers, and pedestrians.  
+                                                 
+2 The Most Innovative Companies 2013, bcg.perspectives, 
+https://www.bcgperspectives.com/content/articles/innovation_growth_most_innovative_companies_2013_lessons_f
+rom_leaders/?chapter=2.   
+3 See Exemptions to the Prohibition on Circumvention of Copyright Protection Systems for Access Control 
+Technologies; Public Hearings Transcripts (May 19, 2015) (“2015 Hearings”), at 57-58, 208-209 (California Air 
+Resources Board mandate for encryption eventually dropped after manufacturers committed to use of TPMs for anti-
+tampering purposes).  
+4 See Jonathan M. Gitlin, Finally, Over-the-air Software Updates For Your Car Are Becoming a Reality, ARS 
+TECHNICA, January, 11, 2016, http://arstechnica.com/cars/2016/01/finally-over-the-air-software-updates-for-your-
+car-are-becoming-a-reality/.
+
+[PAGE 3]
+Comments of the Alliance of Automobile Manufacturers 
+ 3 
+7464950.3/46565-00003 
+2.  How should section 1201 accommodate interests that are outside of core copyright 
+concerns, for example, in cases where circumvention of access controls protecting 
+computer programs implicates issues of product interoperability or public safety?  
+We appreciate the frustration frequently expressed by the Office that the rulemaking 
+proceeding increasingly obligates it to address unaccustomed topics that it believes “have little to 
+do with the consumption of creative content or the core concerns of copyright.”  Study Notice at 
+12.  However, the formulation of this question in the Study Notice requires some unpacking, 
+because the way it is presented may obscure the issues involved, and could lead the Office to 
+overlook some possible solutions. 
+First, the record should be clear that it is not copyright owners, who are employing 
+technological protection measures to control access to their works, who are bringing these “non-
+core-copyright concerns” into the rulemaking proceeding and requiring the Office to address 
+them.  To the contrary, in every case, the parties injecting these issues into the proceeding are 
+interest groups whose main concerns are far removed from copyright, but who assert a need to 
+circumvent the access controls in order to engage in activities unrelated to the “consumption of 
+creative content.”  This was certainly the case with respect to the some of the individuals and 
+organizations most vocally advocating for the exemptions relating to automobiles in the most 
+recent rulemaking cycle.  
+Second, the crux of the issue is less whether the interests involved in defending access 
+controls are “outside of core copyright concerns” (itself a label whose boundaries would be 
+difficult to define), and more whether the behavior sought to be shielded from section 1201 
+liability directly undermines other, non-copyright regulatory regimes that have been adopted to 
+further broad national goals.  The auto-related exemptions sought in the most recent rulemaking 
+cycle are an excellent example, since the main issues in contention concerned the impact of 
+granting the requested exemptions on long-standing regulatory regimes aimed at conserving 
+fossil fuels, providing Americans with clean air to breathe, and making cars safer for drivers, 
+passengers, pedestrians, and the society as a whole.  Quite understandably, being required to 
+make recommendations that could have significant impacts in these areas far outside its expertise 
+was a source of frustration to the Office throughout last year’s proceeding.
+5 
+These observations suggest two steps that the Office might take to ameliorate these 
+problems in future rulemaking cycles.  First, it could seek to apply more consistently and 
+rigorously the burdens of persuasion that the statute and legislative history impose upon 
+proponents of exemptions, and that the Office has repeatedly recited among the proceeding’s 
+ground rules.  Second, the Office could seek to identify early in the triennial process those 
+proposed exemptions that implicate other non-copyright regulatory regimes, and bring the 
+needed expertise to bear on them by giving proponents strong incentives to bring those regulators 
+                                                 
+5 See, e.g., 2015 Hearings at 51-52 (Remarks of Ms. Charlesworth with respect to proposed exemption 22 (security 
+research on automobiles):  “[T]he concern is someone finds a vulnerability and publishes it before there is any 
+opportunity to fix it and then bad actors learn of this, someone who may not have known of it before, and then start 
+doing bad things to cars. I mean that is – how do you address – we're merely the Copyright Office. If someone 
+had told me even three years ago that I would be having this discussion with you today, I would say you are 
+crazy, but here we are thanks to 1201. But the thing is, how do you deal with that? How do you deal with that 
+concern, which is a legitimate concern.” (emphasis added)).
+
+[PAGE 4]
+Comments of the Alliance of Automobile Manufacturers 
+ 4 
+7464950.3/46565-00003 
+into the process of evaluating those proposed exemptions even before they are presented to the 
+Office for consideration.   
+A.  Consistent application of burdens of persuasion:  At the outset of each triennial 
+rulemaking cycle, and again in its recommendations at the conclusion of each cycle, the Office 
+has consistently spelled out that the burden is on proponents of exemptions to demonstrate that it 
+is the legal prohibition on circumvention of access controls that is inflicting “distinct, verifiable 
+and measurable impacts” on their ability to make non-infringing uses of the copyrighted works to 
+which the access controls apply.
+6  Unfortunately, in practice, the Office has not always 
+rigorously applied this test, including in the case of the types of proposed exemptions that most 
+strongly implicate what it calls “non-core copyright concerns.”   
+For instance, Auto Alliance respectfully submits that in the recently concluded rule-
+making cycle, proponents of an exemption to allow circumvention for the purpose of security 
+research involving automobiles presented virtually no concrete evidence that section 
+1201(a)(1)(A) was causing any “substantial diminution” of the availability of ECU software to 
+researchers.7  This contrasted markedly with the record on security-related proposed exemptions 
+in previous cycles, in which threats of litigation or retaliation were allegedly widespread.8  In the 
+end, the sole evidence which the Register cited of any asserted “chilling effect” on independent 
+research in the automotive sector was a single statement by a researcher of subjective and 
+unspecified “fears of the DMCA” which discouraged him from undertaking research, but which 
+were overcome – and the research actually undertaken – after he received a government grant to 
+do so.
+9   
+Certainly when proponents of an exemption present credible evidence that the section 
+1201(a)(1)(A) prohibition is causing “distinct, verifiable and measurable” adverse impacts on 
+activity with respect to copyrighted works that the record shows “is or is likely to be” non-
+infringing
+10, then the Office is obligated to delve into the merits of the proposed exemption.  
+Where the record shows that copyright owners are using section 1201 aggressively to suppress 
+such activity, those burdens might be met.  But surely when there is no evidence of this, and 
+when proponents are not held strictly to their burdens, the frustrations and inconveniences that 
+the Office experiences in grappling with technical issues beyond its expertise are, to that extent 
+at least, self-inflicted wounds.   
+B.  Early identification of collateral regulatory impacts, and incentives to pre-clear.  The 
+Office should consider modifying its rulemaking procedures by asking proponents of exemptions 
+                                                 
+6 Exemption to Prohibition on Circumvention of Copyright Protection Systems for Access Control Technologies; 
+Notice of Inquiry and Request for Petitions, 79 Fed. Reg. 55,687 (Sept. 17, 2014) (“2014 NOI”); Recommendation 
+of the Register of Copyrights, Section 1201 Rulemaking: Sixth Triennial Proceeding (Oct. 8, 2015) (“2015 Rec.”), at 
+12-13.  
+7 See Auto Alliance Class 22 Opposition Comment at 9-12 (refuting allegations of adverse impact made in first two 
+rounds of comments by proponents) (March 27, 2015); 2015 Hearings at 36:20 – 39:2 (refuting allegations made in 
+reply comments by proponents).    
+8 See, e.g., Recommendation of the Register of Copyrights in RM 2008-8; rulemaking on Exemptions from 
+Prohibition on Circumvention of Copyright Protection Sy stems of Access Control Technologies (“2010 Rec.”), at 
+195, 201 (referencing threats of lawsuits and a “regime of panic, protests and litigation”).  
+9 2015 Rec. at 306, n. 2100, citing 2015 Hearings at 45:08-13.    
+10 The non-infringing character of the activity is also an issue on which the proponent bears the burden of proof.  
+2014 NOI, 79 Fed. Reg. at 55690; 2015 Rec. at 13.
+
+[PAGE 5]
+Comments of the Alliance of Automobile Manufacturers 
+ 5 
+7464950.3/46565-00003 
+to identify potential collateral regulatory impacts of their proposals (or to demonstrate that such 
+impacts would be minimal), including specification of the main federal or state regulatory 
+agencies potentially impacted.  When such impacts are identified, whether (optimally) by 
+proponents in their initial submissions, or by opponents in their responses, the Office should be 
+in a position to trigger a formal process of seeking input from applicable regulatory agencies.  
+These agencies should not only be asked their views on how granting the proposed exemption 
+would impact their regulatory efforts, but also to provide suggestions on how any such 
+exemption might be crafted or modified to minimize adverse impacts.  
+An example may show how such a modification to the rulemaking procedure could lead 
+to a smoother process and a better-informed outcome.  In the recently concluded rulemaking 
+cycle, a number of proponents sought, in the initial round of submissions in early November 
+2014, proposed exemptions to allow circumvention of access controls on vehicle ECUs to 
+diagnose, repair or modify automobiles.11  However, the issue of the potential impact of such 
+exemptions on the regulatory regimes administered by the Environmental Protection Agency, the 
+National Highway Traffic Safety Administration, and other agencies did not enter the record 
+until the third submission round, in comments filed in March 2015 in opposition to these 
+proposals.12  It was not until almost two months later, in May 2015, that the Office reached out to 
+these agencies, and their input was not received until July (and in one case, until September) 
+2015.13  Under this timetable there was no opportunity for any input to the Office from either 
+proponents or opponents on the positions taken by the agencies, nor (as far as the record shows) 
+for any dialogue between these agencies and the Office, before the Register’s Recommendations 
+were completed.  Surely this process was far from optimal.   
+Without making any criticism of how the Office handled this issue on an ad hoc basis 
+during the past rulemaking cycle, it would certainly be better to plan for it for next time. If 
+proponents had been asked to identify potential collateral regulatory impacts in their initial 
+petitions, then the views of the relevant agencies could have been sought, and likely obtained, 
+early enough in the process to have made a more meaningful contribution to the outcome.
+14  
+Even if, as in the past cycle, the issues were not brought into the record until the opponents had a 
+chance to make submissions, a better-planned process for seeking agency input likely would 
+have produced statements on the record which could then have been examined in public 
+hearings.  The final decision could then have reflected the perspective of the regulatory agencies, 
+                                                 
+11 University of Southern California (“USC”), Intellectual Property and Technology Law Clinic Initial Submission 
+(Vehicle Software – Modification) (Nov. 3, 2014); USC,  Intellectual Property and Technology Law Clinic Initial 
+Submission (Vehicle Software – Repair) (Nov. 3, 2014); EFF Initial Submission (Vehicle Software – Security 
+Research) (Nov. 3, 2014); EFF Initial Submission (Vehicle Software – Modification and Repair) (Nov. 3, 2014). 
+12 Auto Alliance Class 21 Opposition Comment at 16, 19 (March 27, 2015); Association of Equipment 
+Manufacturers Class 21 Opposition Comment at 1 (March 27, 2015); Association of Global Automakers Class 21 
+Opposition Comment at 2 , 7 (March 27, 2015); General Motors Class 21 Opposition Comment at 6, 8, 23 (March 
+27, 2015).  
+13 Letter from Geoff Cooper, Assistant General Counsel, Environmental Protection Agency to Jacqueline 
+Charlesworth, General Counsel and Associate Register of Copyrights, Copyright Office, (July 17, 2015); Letter 
+from Mary D. Nichols, Chairman, California Air Resources Board to Jacqueline Charlesworth, General Counsel and 
+Associate Register of Copyrights, Copyright Office, (July 21, 2015); Letter from Kathryn B. Thomson, General 
+Counsel, Department of Transportation to Jacqueline Charlesworth, General Counsel and Associate Register of 
+Copyrights, Copyright Office, (Sept. 9, 2015).   
+14 Surely proponents must have been aware that many of the vehicle modifications they sought to facilitate through 
+their proposed exemptions would have an impact on vehicle compliance with emissions, safety, and fuel economy 
+standards.  But under the prevailing ground rules they were under no obligation to flag these issues for the Office.
+
+[PAGE 6]
+Comments of the Alliance of Automobile Manufacturers 
+ 6 
+7464950.3/46565-00003 
+which clearly was not the case this time, except through the use of the blunt instrument of 
+delaying the effective date of the exemption to allow for agency reaction.15  
+Indeed, the rulemaking process could be modified to give proponents strong incentives to 
+approach the relevant regulatory agencies first, before they seek any DMCA exemption, to try to 
+fashion an outcome that minimized adverse impacts on national regulatory objectives.  The best 
+case scenario from the Office’s perspective could be a prior determination by the regulatory 
+agency of the scope of a possible exemption that would not undermine (or conceivably could 
+even advance) those objectives.  A resulting proposed exemption that had been “pre-cleared” of 
+collateral regulatory impacts could be given some level of preference in the rulemaking process.  
+At least, when presented with such a record, the Office could better justify minimizing such 
+collateral regulatory impacts from its analysis under the fifth “catch-all” statutory factor.
+16   
+Rulemaking Process  
+3.  Should section 1201 be adjusted to provide for presumptive renewal of previously 
+granted exemptions—for example, when th ere is no meaningful opposition to renewal—
+or otherwise be modified to streamline the process of continuing an existing exemption?  
+If so, how?  
+Since the inception of the rulemaking process, the concept that the case for exemptions 
+must be demonstrated de novo in each cycle has been a core feature.17  Not only would the 
+Office lack authority to undermine this feature by recognizing presumptive renewal of 
+previously-granted exemptions; such a change would be inconsistent with the fundamental 
+character of the proceeding as a fact-based inquiry that depends on specific evidence of the 
+concrete, real-world impact of the anti-circumvention prohibition on actual non-infringing uses 
+of works.
+18  Most of the markets relevant to proposed exemptions are dynamic and fast-changing 
+(most assuredly this is the case for the automotive marketplace).  Issues such as whether 
+technological changes or market developments have created new alternatives to circumvention 
+that did not exist three years previously, or have made circumvention less (or more) necessary to 
+carry out specified non-infringing uses, inevitably require determinations on the proposed 
+renewal of existing exemptions to be made de novo.  Thus, on policy grounds reflecting the 
+nature of the rulemaking inquiry itself, as well as in order to remain faithful to Congress’s 
+instructions concerning the process, proponents should not be relieved of the obligation to prove 
+their cases anew in each cycle.   
+At the same time, Auto Alliance would not oppose reasonable procedural changes that 
+could expedite consideration of uncontested requests for the “renewal” of specific exemptions.  
+These could include allowing proponents to ask the Office to take administrative notice of 
+relevant portions of the record compiled in the preceding cycle, so long as opponents have a 
+                                                 
+15 37 CFR 201.40 (b)(6) and (b)(7)(i), as revised in Exemption to Prohibition on Circumvention of Copyright 
+Protection Systems for Access Control Technologies; Final Rule, 80 Fed. Reg. 65,944, 65,954 (Oct. 28, 2015) 
+(“2015 Final Rule”).  
+16 17 U.S.C. § 1201 (a)(1)(C)(v).  Of course proponents would still have to meet the burdens allocated to them, such 
+as to show that the activity in which they wish to engage is non-infringing.  See fn. 10, supra.   
+17 See 2014 NOI at 55,689-90 (citing legislative history). 
+18 See Recommendation of the Register of Copyrights, Section 1201: Fifth Triennial Proceeding (Oct. 12, 2012) 
+(“2012 Recommendation”), at 44 (proponents must “address the real-world impact of their proposed exemption”).
+
+[PAGE 7]
+Comments of the Alliance of Automobile Manufacturers 
+ 7 
+7464950.3/46565-00003 
+reasonable opportunity to object.  The process could also be streamlined in those instances in 
+which a fully documented proposal for verbatim renewal of a previously granted exemption is 
+received, and no objection to it is brought forward in the opposition round of comments.  
+However, any “fast-track” procedures should not apply whenever material changes to an existing 
+exemption are proposed; and any presumptions adopted by the Office in this area should be fully 
+rebuttable.   
+4.  Please assess the current legal requirements that proponents of an exemption must 
+satisfy to demonstrate entitlement to an exemption.  Should they be altered?  If so, how?  
+In responding, please comment on the relationship to traditional principles of 
+administrative law.  
+These requirements seem basically sound in principle.  However, they could be refined, 
+and their execution could be improved, as we note in response to questions 2 (with regard to 
+identification and pre-clearance of collateral regulatory impacts) and 8 (with regard to 
+relationship with existing statutory exemptions).  
+5.  Please provide additional suggestions to improve the rulemaking process.  
+(A)  As mentioned in the Study Notice at 10-11, significant adjustments to the 
+rulemaking procedure were introduced in the most recent cycle.  One result was that proponents 
+of exemptions were give three opportunities to advocate for their positions, while opponents 
+were strictly limited to one round of comments.  The Office should consider rebalancing this 
+ratio in future rulemaking cycles, in order to develop a more complete and balanced record for its 
+recommendations.  
+(B)  In another feature of the adjusted rulemaking procedures in the most recent cycle, the 
+Office edited and consolidated the exemptions that were proposed in the initial round, thus 
+providing a clearer and more specific set of proposals for debate in the ensuing rounds.  This 
+brought greater focus to the proceeding.  However, between the unveiling of the proposed 
+exemptions in the December 2014 Notice of Proposed Rulemaking, and the publication 10 1/2 
+months later of the Register’s Recommendations and Final Rule, no further refinements of the 
+proposals were presented for comment and discussion.  As a result, it was not until the Final 
+Rule was published and the entire proceeding concluded that rulemaking participants became 
+aware of unexplained discrepancies between the phrasing of the exemptions as recommended by 
+the Register and the final exemptions promulgated by the Librarian.   
+For example, the Register recommended that the security research exemption “should 
+require explicitly that the covered security research be lawful.”
+19  However, as promulgated, the 
+exemption itself seems to require only that the circumvention made to carry out the research — 
+not the research project itself — “not violate any applicable law.” 20  Since the Register 
+recommended that the exemption be “consistent with  the congressionally enacted exemption in 
+[17 U.S.C.] section 1201(j),”21, it is worth noting that in order to qualify for the statutory 
+exemption, the “act of security testing,” not just the act of circumvention, must “not constitute 
+infringement under this title or a violation of applicable law other than this section.” 17 USC § 
+                                                 
+19 2015 Rec. at 318. 
+20 37 CFR 201.40(b)(7)(i), as revised in 2015 Final Rule at 65, 956. 
+21 2015 Rec. at 318.
+
+[PAGE 8]
+Comments of the Alliance of Automobile Manufacturers 
+ 8 
+7464950.3/46565-00003 
+1201(j)(2).  The Register further recommended that, “in the interest of adhering to Congress’ 
+basic purpose in section 1201(j),” the exemption recognized should track the legislative language 
+as much as possible.22  However, the exemption promulgated by the Librarian deviates without 
+explanation from the statutory phrasing.  For instance, it only requires that the information 
+derived from the security testing “not [be] used or maintained in a manner that facilitates 
+copyright infringement,”
+23 while a statutory factor for consideration is whether such information 
+is used or maintained in a manner that facilitates copyright infringement “or a violation of 
+applicable law other than this section, including a violation of privacy or breach of security.”  17 
+U.S.C. § 1201(j)(3)(B) (emphasis added).  Thus the promulgated exception, without explanation, 
+was broadened beyond the scope of the Register’s Recommendation, and beyond the statutory 
+framework that the Office recommended be followed.   
+The current rulemaking procedure provides no clear avenue for bringing to the attention 
+of either the Office or the Librarian the existence of such unexplained discrepancies, which may 
+well have been inadvertent.
+24  We urge the Office to consider ways to modify the process to 
+reduce the risk of such discrepancies, or else to allow them to be promptly identified and 
+resolved.  For instance, if the exemptions which the Librarian proposes to promulgate were 
+published (or made available to the parties), along with the Register’s Recommendations, a short 
+time prior to the statutory deadline when the exemptions would come into force, the parties could 
+be invited to identify any discrepancies or similar uncertainties so that the Librarian could, if s/he 
+chose, rectify them before the Final Rule was promulgated.  
+(C)  The Register is apparently fully committed to the proposition that the definition of a 
+“particular class of works” for which access controls may be circumvented pursuant to an 
+administrative exemption may be “refined not only by reference to the medium on which the 
+works are distributed, or the particular access controls at issue, but also by reference to the 
+particular type of use and/or user to which the exemption will apply.”
+25  This being so, we urge 
+her to do more to craft the “scope or boundaries of a ‘particular class’” to “limit the adverse 
+consequences of an exemption.” 26  For example, in the most recent rulemaking cycle, the issue 
+arose whether a nationwide MOU entered into by virtually the entire U.S. automobile industry on 
+access to information and tools needed to diagnose and repair cars provided an alternative to 
+circumvention of access controls on motor vehicle software in order to carry out diagnosis and 
+repair activities.  The Register concluded that it did not, principally because “the MOU does not 
+apply to a significant portion of the vehicles that should be covered by the proposed exemption, 
+including pre-2002 and models and mechanized agricultural vehicles.”
+27  It does not appear that 
+                                                 
+22 Id. at 319. 
+23 37 CFR 201.40(b)(7)(ii), as revised in 2015 Final Rule at 65,956. 
+24 We recognize that the example we have provided concerns  an exemption which, by its terms, does not come into 
+force until twelve months after its promulgation, so in this case there is time to rectify the discrepancy before the 
+exemption becomes binding.  However, it is not clear what path the Librarian might follow in order to do so; and in 
+any event, the same problem could well arise in the future wi th regard to other exemptions that are intended to take 
+effect immediately.   
+25 2015 Rec. at 18.   
+26 Id., quoting Recommendation of the Register of Copyrights in RM 2005-11; Rulemaking on Exemptions from 
+Prohibition on Circumvention of Copyright Protection Sy stems for Access Control Technologies (Nov. 17, 2006) 
+(“2006 Rec.”), at 10 and Staff of the House Committee on the Judiciary, 105th Cong., Section-By-Section Analysis 
+of H.R. 2281 as Passed by the United States House of Representatives on August 4, 1998 (Comm. Print 1998), 
+reprinted in 46 J. COPYRIGHT SOC’Y U.S.A. 635 (1999) (“Manager’s Rep.”).   
+27 2015 Rec. at 240.
+
+[PAGE 9]
+Comments of the Alliance of Automobile Manufacturers 
+ 9 
+7464950.3/46565-00003 
+the Register considered “refining” the proposed class of works to exclude vehicles covered by 
+the MOU from its “scope and boundaries,” thereby “limiting the adverse consequences” of an 
+overbroad exemption that covers many situations in which circumvention is not required.  We 
+urge the Office to make greater efforts in future rulemaking cycles to tailor the scope of its 
+recommended exemptions to fit the record more closely.
+ 28  
+Anti-Trafficking Prohibitions  
+6.  Please assess the role of the anti-trafficking provisions of sections 1201(a)(2) and 
+1201(b) in deterring copyright infringement, and address whether any amendments may 
+be advisable.   
+These provisions are very important in preventing the emergence of black markets in 
+circumvention devices and services.  Even a limited authorization for purveying such products 
+and services to those entitled to circumvent pursuant to a lawful section 1201(a)(1)(A) 
+exemption will inevitably spill over to unauthorized users and uses.  These provisions should 
+remain in place. In any case, any changes or exceptions to them should be made by Congress, not 
+in the rulemaking process.  
+7.  Should section 1201 be amended to allow the adoption of exemptions to the 
+prohibition on circumvention that can extend to exemptions to the anti-trafficking 
+prohibitions, and if so, in what way?  For example, should the Register be able to 
+recommend, and the Librarian able to adopt, exemptions that permit third-party 
+assistance when justified by the record?  
+No.  Any such exemptions should be decided by Congress, not the Copyright Office.   
+Permanent Exemptions   
+8.  Please assess whether the existing categories of permanent exemptions are necessary, 
+relevant, and/or sufficient.  How do the permanent exemptions affect the current state of 
+reverse engineering, encryption research, and security testing?  How do the permanent 
+exemptions affect the activities of libraries, archives, and educational institutions?  How 
+might the existing permanent exemptions be amended to better facilitate such activities?  
+The impact of the existing statutory exemptions on the rulemaking process remains an 
+area of confusion.  It is unfortunate that so little case law has developed that could provide 
+guidance to the Copyright Office in evaluating whether proposed rulemaking exemptions are 
+necessary on topics already addressed by the statute, and on how to craft any such exemptions to 
+conform with congressional intent in enacting the statutory exemptions where they overlap or 
+occupy adjacent territory.   
+                                                 
+28 This recommendation is also relevant to the security research exemption recognized for automobiles, as discussed 
+in response to question 2 above. The Office chose to aggregate this proposed exemption, for purposes of analysis, 
+with others related to security research on medical devices and on commercially distributed software.  2015 Rec. at 
+253.  However, this decision may have left it less prepared to appreciate that the record developed was quite 
+different with respect to the “real-world” adverse impact of section 1201 on security research in the automotive 
+sector, as contrasted with what may have been the case in other sectors.
+
+[PAGE 10]
+Comments of the Alliance of Automobile Manufacturers 
+ 10 
+7464950.3/46565-00003 
+The Office could provide a measure of greater clarity by clearly establishing that it is part 
+of the burden assigned to proponents of exemptions to demonstrate that existing statutory 
+exemptions do not cover the activities in which they wish to engage.  Without such a 
+demonstration, proponents cannot establish that these activities are impeded or constrained by 
+the section 1201 prohibition, which of course is inapplicable in the circumstances described in 
+the statutory exemptions.  Since commonly the most that proponents can show is that the 
+statutory exemptions might not apply, the Office needs to exercise caution to avoid shifting to 
+opponents the burden of showing that the statutory exemptions are in fact applicable, a stance 
+that would clearly be inconsistent with congressional intent.  The Office’s current practice of 
+granting exemptions when “there is some uncertainty” about whether a statutory exemption 
+applies, or when “the permanent exemptions embodied in [the statute] do not appear 
+unambiguously to permit the full range of [activities] that could be encompassed by the proposed 
+[administrative] exemption,” seems to skate uncomfortably close to such a de facto shifting of 
+the burden of persuasion.
+29   
+Of course, any amendments or additions to the statutory exemptions themselves must be 
+left to Congress.  Auto Alliance expresses no position at this time on whether any such changes 
+should be made.  We look forward to reviewing the positions of other commenters on this 
+question.   
+9.  Please assess whether there are other permanent exemption categories that Congress 
+should consider establishing—for example, to facilitate access to literary works by print-
+disabled persons? 
+Auto Alliance expresses no views on this question at this time.    
+Other   
+10.  To what extent and how might any proposed amendments to section 1201 implicate 
+the United States’ trade and treaty obligations?   
+Auto Alliance expresses no views on this question at this time.   
+11.  Please identify any pertinent issues not referenced above that the Copyright Office 
+should consider in conducting its study.   
+It would be useful to clarify the applicability (or not) of the Administrative Procedure Act 
+to the rulemaking proceeding, as well as related issues such as the appropriate venue and 
+timetable for seeking judicial review of a rulemaking decision, the applicable standard of review, 
+etc.  None of this is clear under the statute as it now stands.  If Congress undertakes to review 
+section 1201, these could be appropriate topics for clarifying amendments.   
+*  *  *  * 
+Thank you for considering the views of the Auto Alliance.   
+                                                 
+29 2015 Rec. at 308, 309 (with regard to proposed security research exemption).

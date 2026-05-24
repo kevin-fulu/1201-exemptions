@@ -1,0 +1,288 @@
+[PAGE 1]
+February 16, 2016 
+ 
+Ms. Maria Pallante 
+Register of Copyrights 
+United States Copyright Office 
+101 Independence Ave., S.E. 
+Washington, D.C. 20559  
+ 
+Re: Software-Enabled Consumer Products Study; Notice and Request for Public  
+             Comments - Docket No. 2015-6 
+ 
+Dear Ms. Pallante: 
+ 
+BSA | The Software Alliance (“BSA”) appreciates this opportunity to respond to the Copyright 
+Office’s Request for Public Comments on the “role of copyright law with respect to software-
+enabled consumer products.”1 As the leading advocate for the global software industry in the 
+United States and around the world, BSA is uniquely positioned to provide insights from the very 
+companies that are driving the current wave of software-enabled innovation.  BSA members are 
+among the world’s most entrepreneurial companies, creating software solutions that spark the 
+economy and improve modern life.
+2 In short, BSA’s member companies breathe life into the 
+“everyday products” that are the focus of this study by providing the software that makes these 
+devices desirable.   
+ 
+This study’s focus on how “the application of copyright law to software in everyday products 
+enables or frustrates innovation” comes at an interesting time.
+3 Of course, the existence of 
+software in consumer devices is hardly a new phenomenon; a huge number of “everyday 
+products,” including microwave ovens and handheld calculators, have since the early-1970s 
+featured embedded software. However, U.S. software companies are on the leading edge of 
+developing new network-connected technologies that are giving rise to what economists from the 
+Massachusetts Institute of Technology have deemed the “Second Machine Age,” a period in 
+which software-enabled innovations will be “as important and transformational to society and the 
+economy as the steam engine.”4  
+ 
+Given the rapid pace of innovation that is occurring in network-connected intelligent devices, it is 
+unclear what “problems” this study may seek to address through changes to the copyright law. 
+The Office cautions the study “is not intended to examine or address more general questions 
+about software and copyright protection.” However, we are concerned that the Office’s questions 
+may suggest a bias in favor of changing the law to create a sui generis (and perhaps diminished)
+                                                            
+1 U.S. Copyright Office, Library of Congress, Software-Enabled Consumer Products Study; Notice and 
+Request for Comments, 80 Fed. Reg. 77668-71 (Dec. 15, 2015) [hereinafter Software-Enabled Study RFC].  
+2 BSA’s members include: Adobe, ANSYS, Apple, Autodesk, Bentley Systems, CA Technologies, 
+CNC/Mastercam, DataStax, Dell, IBM, Intuit, Microsoft, Minitab, Oracle, Salesforce, SAS Institute, Siemens 
+PLM Software, Symantec, Tekla, The MathWorks, Trend Micro and Workday. 
+3 Software-Enabled Study at 77668. 
+4 Erik Brynjolfsson & Andrew McAffe, The Second Machine Age: Work, Progress and Prosperity in a Time of 
+Brilliant Technologies 9 (W. W. Norton & Co. 2014). 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+20 F Street NW, Suite 800 P 202 -872 -5500 
+Washington, DC 20011 W bsa.org
+
+[PAGE 2]
+Ms. Maria Pallante 
+February 16, 2016 
+Page 2 
+form of copyright protection for software embedded in “everyday products.” Absent a strong 
+evidentiary record that copyright law is – in fact rather than in theory -- having unintended, 
+negative effects on the development of software-enabled products, such a proposal seems very 
+much like “solution” in search of a problem.   
+Furthermore, the entire software industry is highly dynamic and interconnected, which makes it 
+virtually impossible to draw any principled distinction between embedded and non-embedded 
+software. Indeed, the software on phones, tablets, and other personal devices interact directly 
+with, and borrow substantial functionality from, enterprise-grade software running in centralized 
+servers.  As one example, voice recognition technology in many handsets depends heavily on the 
+shared processing of the audio signal between the handset and a central voice processing 
+server.  It is extremely likely that modifications to the law of copyright as it relates to everyday 
+products would have material, and potentially unpredictable, unintended impacts on other areas 
+of the software industry.  In the absence of any evidence of consumer injury, there is no 
+justification for making changes to copyright law as it relates to embedded software. 
+Whether Copyright Protection for Embedded Software is Spurring or Frustrating 
+Innovation 
+As the Copy
+right Office’s Request for Comments observes, Congress extended copyright 
+protection to software in order to promote innovation and creativity.5 Although today’s software 
+industry looks far different from the nascent industry that existed when Congress expressly listed 
+“computer programs” as copyrightable subject matter in 1980, the potential for software to 
+become integral to the daily lives of ordinary people was apparent even then. Indeed, in its 
+recommendation that software receive the full scope of copyright protection afforded to other 
+forms of creative works, the National Commission on New Technological Uses of Copyrighted 
+Works (“CONTU”) recognized that:  
+“The possibilities provided by the technology are virtually lim itless. They are 
+dependent only on the ingenuity employed in developing the programs that enable 
+humans to communicate their ideas to one another through the in termediation of 
+the machine and on the willingness of creators of such works to disseminate them 
+at reasonable prices. In considering the quality of life in this country, failing to weigh 
+the positive contributions of computers and the programs with which they are used 
+would indeed be a mistake.”6    
+By any measure, CONTU’s vision, as ratified by Congress in 1980, has been realized. The 
+existing U.S. copyright framework for software has given rise to the most innovative and diverse 
+software industry in the world. With nine of the top ten software companies by revenue residing in 
+the United States,7 the U.S. software industry is responsible for many of the technological 
+advances that have reshaped virtually every facet of our lives over the past two decades. To 
+name just a few examples, U.S. software companies are helping to: change the face of education 
+by shrinking textbooks to tablets and connecting classrooms across continents; deliver cutting-
+edge health and fitness innovation; make our infrastructure safer, smarter and more collaborative; 
+and improve the efficiency of our transit systems.8  
+5 See Software-Enabled Study RFC at 77669 (“Though the 1976 Act did not expressly list computer 
+programs as copyrightable subject matter, the Act’s legislative history makes it evident that Congress 
+intended for them to be protected by copyright law . . .”) (emphasis added).   
+6 National Commission on New Technological Uses of Copyrighted Works, Final Report of the National 
+Commission on New Technological Uses of Copyrighted Works 26 (1978) (“CONTU Report”).  
+7 Shobhit Set, World’s Top 10 Software Companies, Investopedia.com (Jan. 8, 2015), at 
+http://www.investopedia.com/articles/personal-finance/121714/worlds-top-10-software-companies.asp  
+8 See, BSA | The Software Alliance, You Can Do Amazing Things With Software, at http://withsoftware.org/. 
+20 F Street NW, Suite 800 P 202 -872 -5500 
+Washington, DC 20011 W bsa.org
+
+[PAGE 3]
+Ms. Maria Pallante 
+February 16, 2016 
+Page 3 
+There is no indication that this trend is slowing or will slow anytime soon. In fact, we are on the 
+cusp of an era of even greater software-driven innovation, due in large measure to strong and 
+comprehensive copyright protection for software, that is being enabled by the convergence of 
+Internet-connected devices, cloud computing capabilities, and data analytics. The “Internet of 
+Things” (“IoT”) describes the growing network of “smart” devices that are software-enabled and 
+Internet-connected.  These software-powered devices can collect and exchange data and add 
+intelligence to improve efficiency, bolster performance, and add functionality. Unlike Internet-
+connected devices that have been around for decades, software now enables “devices of all 
+kinds – including smartphones, wearables, appliances, medical equipment, and vehicles – to 
+connect with the Internet and each other to create, share and analyze information, all without 
+human intervention.”9    
+Embedded software is at the very core of IoT innovations that are transforming industries and the 
+manner in which consumers interact with their devices. Consumers now have access to a range 
+of IoT products capable of improving “conservation, efficiency, productivity, public safety, health, 
+education and more.”10  For instance, new automobiles are equipped with more than 10 million 
+lines of software code to control sensors that generate up to 25 gigabytes of data per hour that 
+can be processed to enable safety and crash avoidance systems, reduce congestion and route 
+traffic more efficiently.11 Both Apple and Microsoft have launched wearable devices with sensors 
+that measure biometric data and provide unprecedented insights to help consumers optimize their 
+workouts and live healthier lives.12 And by 2020, analysts predict that there will be more than 50 
+billion IoT devices relied upon by consumers, governments and businesses.13    
+The Request for Public Comments asks whether “copyright law should distinguish between 
+software embedded in ‘everyday products’ and other types of software.”14 In view of the ongoing 
+transformations occurring in consumer technology and the rapid pace at which advances are 
+occurring,  the answer must be “no.” In the past 10 years, embedded software has turned our 
+mobile phones into fully functional computers and connected our home thermostats and other 
+electronic devices to the Internet to improve energy efficiency. And the pace of change is only 
+accelerating.  Over the next 10 years, embedded software may usher an era in which driverless 
+cars are the norm and implantable technologies help to manage chronic diseases. Over time, 
+these developments may raise public policy questions across a range of issues, such as privacy, 
+security and public safety.  But it strains credulity given the success in the market to date that the 
+“application of copyright law to software in everyday products… [is frustrating] innovation.” 
+Whether Copyright Protection for Embedded Software Frustrates Interoperability 
+Con
+sumers increasingly (and justifiably) demand flexibility in the ways they access, use, and 
+enjoy network-connected devices – including in ways that were unimaginable only a few years 
+ago. A well-functioning copyright system should therefore encourage rights holders to make use 
+of emerging technologies to develop new products and services to satisfy consumer demand. 
+When rights holders have the flexibility to experiment with and implement different business 
+9 Deloitte, The Internet of Things Ecosystem: Unlocking the Business Value of Connected Devices 5 (2014), 
+at http://www2.deloitte.com/content/dam/Deloitte/global/Documents/Technology-Media-
+Telecommunications/gx-tmt-Iotecosystem.pdf  
+10 Consumer Electronics Association, Comment to the Federal Trade Commission on Internet of Things, 
+Project No. P135405 (June 10, 2013) 7.  
+11 BSA | The Software Alliance, What’s the Big Deal With Data? 15 (2015), at http://data.bsa.org/wp-
+content/uploads/2015/12/bsadatastudy_en.pdf  
+12 See https://www.microsoft.com/Microsoft-Band/en-us; http://www.apple.com/watch/  
+13 See Valerio, Pablo, Internet of Things: 50 Billion Is Only the Beginning, EE Times, Feb. 28, 2014, 
+http://www.eetimes.com/document.asp?doc_id=1321229  
+14 Software-Enabled Study at 77671. 
+20 F Street NW, Suite 800 P 202 -872 -5500 
+Washington, DC 20011 W bsa.org
+
+[PAGE 4]
+Ms. Maria Pallante 
+February 16, 2016 
+Page 4 
+models, market competition will work to the public’s benefit. One metric for evaluating the health 
+of a copyright system is the extent to which it supports myriad business models. 
+In examining whether copyright is enabling or frustrating interoperability with software-embedded 
+devices, it’s important to bear in mind that interoperability is largely a function of business 
+strategy. Title 17 provides rights holders with the flexibility to develop software-embedded devices 
+and platforms along a continuum of development and business models. Because consumers 
+benefit from being able to select a model that best fits their needs, there is a strong public policy 
+interest in preserving this type of vibrant market competition.   
+Marketplace needs and consumer demands for products that work together (interoperate) within 
+larger information processing systems are in most instances addressed by developing industry 
+standards. In those circumstances, interoperability is effectively promoted through standards 
+setting efforts entered into voluntarily by industry. Such efforts have been underway for decades 
+in many fields where key technologies included in the standard are protected by copyright or 
+patents. IP laws have not been an obstacle; to the contrary, they have enabled creators and 
+inventors to contribute their technologies to the standard knowing their rights are protected and 
+their incentives to further innovate are promoted. IEEE 802.11 is an example of such a standard 
+facilitating multi-vendor interoperability by providing a specification that enables “everyday 
+products” to connect to wireless networks using a common protocol.  
+Like standards, innovative uses of application programming interfaces (“APIs”) are also driving an 
+era of increased interoperability. At their most basic, APIs provide an interface through which 
+software applications are able to communicate and make requests of one another. Software 
+developers are increasingly using APIs to ensure that their products are interoperable with a wide 
+range of hardware and platform configurations. For instance, Autodesk recently launched Spark, 
+an open 3D printing software platform with APIs that enable third party companies to build 3D 
+printing capabilities directly into their products. By opening the Spark platform to 3D printing 
+software developers and manufacturers, Autodesk is creating an ecosystem of interoperable 3D 
+printing software and hardware solutions. 
+In the absence of clear evidence that copyright law is inhibiting consumers from accessing a wide 
+variety of product offerings, we would caution against entertaining potential legislative changes to 
+Title 17.  Any such change could destabilize a legal environment that has supported innovation, 
+fostered consumer choice, and encouraged interoperability over more than three decades. 
+Weakening copyright protection for embedded software in an effort to encourage specific 
+business outcomes -- whether in terms of licensing practices or design choices -- could distort or 
+diminish the existing positive market developments and unnecessarily disrupt stable international 
+norms for the protection of software under copyright. 
+Whether Copyright Protection for Embedded Software Frustrates Secondary Markets 
+The first sale 
+doctrine has since the 1908 Supreme Court decision in Bobbs-Merrill Co. v. 
+Straus15 played an important role in ensuring that copyright protection does not act as an 
+inadvertent restraint on the alienation of physical property. By upholding “the distinction between 
+ownership of the copyright and ownership of the material object” on which a copy of a work 
+resides,16 the first sale doctrine allows the owner of a physical copy of a work to resell or 
+15 210 U.S. § 339 (1908). 
+16 U.S. Copyright Office, A Report of the Register of Copyrights Pursuant to § 104 of the Digital Millennium 
+Copyright Act, 87 (2001), available at http://www.copyright.gov/reports/studies/dmca/sec-104-report-vol-
+1.pdf (“Section 104 Report).
+20 F Street NW, Suite 800 P 202 -872 -5500 
+Washington, DC 20011 W bsa.org
+
+[PAGE 5]
+Ms. Maria Pallante 
+February 16, 2016 
+Page 5 
+otherwise dispose of that copy without the copyright owner’s consent.17 Because Section 109 
+applies without limitation to software that is “embodied in a machine or product and which cannot 
+be copied during the ordinary operation of the machine or product,”18 the first sale doctrine 
+appropriately supports secondary markets for products that contain embedded software.   
+Although the first sale doctrine does not apply to software obtained by license,19 there is 
+remarkably little evidence that companies are structuring their licensing agreements to prevent 
+the emergence of legitimate secondary markets for products with embedded software. In fact, the 
+Department of Commerce’s Internet Policy Task Force recently concluded that the risk of 
+manufacturers using license restrictions on embedded software to prevent the development of 
+secondary markets is largely theoretical.20 Theoretical concerns and decades-old anecdotes are 
+flimsy justification for changing the law.  Absent clear, current evidence of specific problems that 
+are not being addressed by the market, we believe it is premature to recommend legislative 
+changes that could create unintended distortions in a quickly evolving market.   
+Thank you again for the opportunity to share our views on these important issues. 
+Sincerely, 
+Christian Troncoso 
+Director, Policy 
+17 See 17 U.S.C. § 109. 
+18 17 U.S.C. § 109(b)(1)(B)(i). 
+19 17 U.S.C. § 109(d). 
+20 Department of Commerce, Internet Policy Task Force, White Paper on Remixes, First Sale, and Statutory 
+Damages, 64 (2016) (“The Task Force did not hear evidence that licenses purporting to restrict a 
+consumer’s ability to resell have been used with respect to embedded software that operates a functional 
+product, other than a computer or related equipment. Thus, the record before us does not establish that the 
+kinds of consumer products identified above are currently sold subject to such licenses.”) 
+20 F Street NW, Suite 800 P 202 -872 -5500 
+Washington, DC 20011 W bsa.org

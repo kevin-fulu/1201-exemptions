@@ -1,0 +1,6 @@
+Comment ID: COLC-2015-0012-0047
+Title: Initial Comments - Rapid7
+Posted: 2016-03-04T05:00:00Z
+Submitter: Rapid7
+
+Please see attached joint comments from Rapid7, Bugcrowd, and HackerOne. Thank you.

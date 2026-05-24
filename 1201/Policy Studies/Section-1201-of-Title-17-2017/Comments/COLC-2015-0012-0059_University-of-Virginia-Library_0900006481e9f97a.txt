@@ -1,0 +1,110 @@
+[PAGE 1]
+U~tVERSTIY <:1,.\[IRGINIA 
+LIBRARY 
+March 3, 2016 
+OFFI C E ofthe LIB RA RI AN 
+United States Copyright Office 
+Library of Congress 
+To Whom It May Concern, 
+I write today to provide comments in response to the Copyright Office's December 29 
+Notice of Inquiry regarding section 1201 of the Copyright Act. This response has been 
+authored by Brandon Butler, Director of Information Policy, University of Virginia Library. 
+It reflects the views ofthe University of Virginia Library and we offer it for your 
+consideration. 
+When Thomas Jefferson founded the University of Virginia in 1819, he placed a library, not 
+a chapel, at the center of the institution. It was a characteristically radical move, heralding 
+an unwavering commitment to the pursuit of knowledge. As the University has grown and 
+evolved over the ensuing 200 years, so has the University Library. Its collections now 
+include five million print items, 463,000 ebooks, and 16 million manuscripts and archival 
+items. The University Library also holds over 50,000 DVD , Blu-Ray, and streaming titles. 
+Each year the University Library invests more than $13 million acquiring new materials for 
+its collections. 
+The advent of media formats protected by technological protection measures, and the 
+adoption of Section 1201 of the Digital Millennium Copyright Act, created a schism in our 
+collection. One set of rules, the default rules of copyright, applies to non-TPM content, but 
+another, stricter set applies to media with TPMs. Everything we and our patrons have 
+learned over the decades about how to make lawful uses oflibrary materials was 
+ALDERMAN LIBRARY • P.O. Box 4oou4 • C!iARLOTTESVlLLE, V IRG INIA 22904 -4n4 • PHONE (434) 924-7849 • FAX (434) 924-1431 
+http://www.lib. virginia.edu
+
+[PAGE 2]
+destabilized by this move. We welcome the Copyright Office's inquiry into how well this 
+bifurcated system is working, and we offer the following observations. 
+The University of Virginia Library's experience with Section 1201 of the Copyright Act has 
+revealed three key things about the law: 
+1. The endless cycle of petitioning the Copyright Office for special exemptions is 
+inefficient and unfair. Past exemptions should be presumptively renewable, as the 
+Office has suggested in its NOI. This can be done without legislation. 
+2. The sole permanent exemption for libraries is essentially useless. A useful 
+permanent exemption would simply and clearly permit circumvention for all lawful 
+uses, as the Unlocking Technology Act and other reform bills have proposed over 
+the years. 
+3. The complexity of the specially-granted exemptions deters intended beneficiaries 
+from making lawful uses. If the Office is to continue recommending specific 
+exemptions, it should recommend broader and simpler exemptions to foster the 
+lawful uses that the exemption process is supposed to enable. 
+To elaborate on each of these points: 
+First, the current structure of the rule making, where the class of users seeking an 
+exemption bears the same burden every three years to prove the exemption is needed, is 
+one of the most problematic aspects of the law. For librarians and educators, this has meant 
+going to the Copyright Office every three years to prove two facts that haven't changed in 
+over a decade: that their uses are lawful, and that they need to copy clips from consumer 
+sources protected by encryption. Indeed, these facts aren't likely to change for a decade to 
+come. Even the content industries seem to realize this, as in the most recent cycle of the 
+triennial process they did not oppose renewal of several exemptions that have been 
+granted in previous cycles, including those for educational use. 
+T he rule-making process is cumbersome and alien for non-lawyers, which only exacerbates 
+the difficulty of returning to it every three years to re-prove the same facts. It requires 
+investment of substantial resources, including multiple sophisticated filings and 
+appearances at in-person hearings in Washington, D.C., or Los Angeles. Developing fresh
+
+[PAGE 3]
+evidence of faculty need, of technology availability, of the state of the content market, and 
+so on is extremely taxing for the dedicated few who have worked to participate in this 
+ruling. Demanding this kind of investment over and over puts widely disbursed interests 
+like libraries, professors, and students at a disadvantage relative to highly motivated and 
+concentrated interests on the other side. Advocates on both sides should be encouraged to 
+focus their energies on new issues, to the extent that there are any, rather than returning 
+eternally to settled legal questions and unchanged facts. 
+Second, the current permanent exemption for libraries is, by all accounts, completely 
+useless. Indeed, it does serious harm to the extent that it gives the false imp ression that the 
+statute has granted libraries some leeway for circumvention in core use cases. In reality, 
+the only use case covered by the permanent exemption for libraries simply does not exist. 
+We have never encountered a situation where the University Library wanted to circumvent 
+DRM to make a purchasing decision, but could not get permission from the relevant vendor 
+to do so (or, more likely, get temporary authorization such that circumvention is 
+unnecessary). Seventeen years since its passage, we are not aware of anyone ever actually 
+using this provision. 
+A more useful permanent exemption for libraries (and others) would be a blanket 
+exception for any lawful use, as proposed by the Unlocking Technology Act and numerous 
+other reform bills over the years. This would free librarians, educators, and students to 
+focus on the question of whether a use is fair, or permitted by another relevant exception, 
+and do away with the arbitrary disparate treatment of library materials contingent on 
+formats. 
+Third, the complexity of the exemptions granted by the Librarian of Congress in previous 
+rule makings has deterred lawful uses. The triennial rulings have become complex legal 
+docum ents that lay practitioners struggle to parse without expert help. Most colleges and 
+universities simply do not have the capacity to provide individualized legal advice to 
+faculty and students who are trying, in good faith, to comply with these dense rules. While 
+there are certainly some sophisticated faculty and students who are able to decode the 
+rules, and others who are willing to move forward in the face of uncertainty, in our
+
+[PAGE 4]
+experience many students and faculty members will err on the side of caution and refrain 
+from lawful uses. 
+A final, overarching point emerges from each of these more specific concerns: the flaws in 
+the 1201 regime threaten to undermine the credibility of the copyright law in the eyes of 
+faculty and students who must interact with it. When they learn that otherwise lawfu l uses 
+are nevertheless forbidden when they involve TPM-protected media, and then they try to 
+parse the latest set of comp lex rules which may offer an exception to that bar, or they 
+consider proposing a new exemption to permit their own lawful activities only to discover 
+the extraordinary effort involved in obtaining an exemption, it reflects poorly on the law. A 
+balanced and functioning 1201 system, by contrast, would inspire confidence in the law 
+and lead those who interact with it to take all of the law's requirements more seriously. The 
+University Library takes its responsibility to educate the UVA community about copyright 
+very seriously, and a balanced 1201 system would be a boon to our efforts in that regard. 
+We hope these comments are helpful to you.lfyou have follow-up questions, please do not 
+hesitate to contact us. 
+Sincerely, 
+Martha Sites 
+University Librarian and Dean of Libraries

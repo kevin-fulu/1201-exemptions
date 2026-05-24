@@ -1,0 +1,715 @@
+[PAGE 1]
+  
+ 
+March 3
+,
+ 
+U.S. Co
+p
+Docket N
+Section 1
+Notice of
+Commen
+ 
+T
+Office’s 
+1201(a) o
+respect to
+“trafficki
+informal 
+correct re
+recomme
+the vehic
+decline to
+ 
+C
+billion U
+represent
+manufact
+technolog
+ 
+C
+automoti
+their cust
+DMCA d
+specific, 
+               
+1  U.S. C
+for Publi
+2  Comm
+2015 “Fi
+the Com
+m
+http://ww
+3 A comp
+https://ww
+ 
+, 2016 
+pyright Offic
+No. 2015-8 
+1201 Study: 
+f Inquiry and
+nts of the Co
+The Consume
+request for p
+of the Digita
+o the Registe
+ing” provisio
+assistance in
+ecommendat
+end an exem
+cle or machin
+o follow this
+CTA is the pr
+U.S. consume
+tation.  CTA
+turing and d
+gy, multime
+CTA member
+ive products 
+tomers’ or th
+did not consi
+expert assist
+                   
+opyright Off
+c Comment,
+merce Dept. L
+nal Rule,” th
+merce Depar
+ww.copyrigh
+plete list of C
+ww.cta.tech/
+ 
+  
+ce 
+  
+d Request fo
+nsumer Tech
+er Technolog
+public comm
+al Millennium
+er’s recomm
+ons, to deny 
+n exercising
+tion was that
+mption to mak
+nery.”2  CTA
+s sound and 
+reeminent te
+er technology
+A members le
+istribution o
+dia, and acc
+rs who offer 
+should be fr
+heir own com
+ider it to be “
+tance to a co
+               
+ffice Docket 
+, 80 Fed.Reg
+Letter to the 
+he October 8
+rtment to the
+ht.gov/1201/.
+CTA membe
+/Membershi
+ 
+or Public Com
+hnology Ass
+gy Associati
+ment1 on the 
+m Copyright
+mendation, ba
+lawful user 
+g their rights 
+t of the Depa
+ke repairs or
+A believes th
+essential adv
+echnology tra
+y industry th
+ead the consu
+of audio, vide
+essory produ
+services to c
+ree of DMCA
+mmercial exp
+“trafficking”
+onsumer who
+No. 2015-8,
+g. No. 249, D
+Register at 5
+8 Recommen
+e Register on
+.    
+ers is availab
+ip/Membersh
+ 
+  
+mment 
+sociation 
+ion (CTA) is
+Office’s inte
+t Act (DMCA
+ased on the O
+petitioners i
+under Sectio
+artment of C
+r modificatio
+he Office had
+vice.  
+ade associati
+hrough mark
+umer techno
+eo, mobile e
+ucts, as well 
+consumers in
+A constraint
+ploitation of
+” for another
+ose right to e
+, Section 120
+Dec. 29, 201
+58 (emphasis
+ndations of th
+n behalf of th
+ble at 
+hip-Director
+ 
+s pleased to r
+erpretation a
+A) generally
+Office’s inte
+in “Class 21
+on 1201(a).  
+Commerce, w
+ons “by or at
+d no basis in
+ion, promoti
+ket research, 
+ology industr
+electronics, c
+as related se
+n the repair, 
+s that have n
+f copyrighted
+r person or a
+engage in law
+01 Study: No
+5. (“NOI”). 
+s added).  Th
+he Register,
+he Administ
+ry.aspx.  
+respond to th
+and administ
+y, and in part
+rpretation of
+” the benefit
+CTA believ
+which advise
+t the request 
+n law, policy
+ing growth in
+education an
+ry in the dev
+communicati
+ervices sold 
+replacement
+nothing to do
+d works.  Th
+a company to
+wful activity
+otice of Inqu
+he Librarian
+ and the Sep
+tration are al
+he Copyrigh
+tration of Sec
+ticular with 
+f Section 12
+t of formal a
+ves that the 
+ed the Regist
+t of the owne
+y, or procedu
+n the $285 
+nd public po
+velopment, 
+ions, informa
+to consumer
+t, and safety
+o with either
+he drafters of
+o provide 
+y has been 
+uiry and Req
+n’s October 2
+pt. 18 Letter 
+ll linked at 
+ht 
+ction 
+01’s 
+and 
+ter to 
+er of 
+ure to 
+olicy 
+ation 
+rs.3 
+y of 
+r 
+f the 
+quest 
+28, 
+of
+
+[PAGE 2]
+2 
+ 
+confirmed by the Librarian, but who lacks the knowledge or wherewithal to exercise that right.  
+Accordingly, CTA respectfully disagrees with the Register’s recommendation that the Librarian 
+lacks the power to exempt circumvention where expert help is required to gain lawful access to 
+specific content or to software embedded in a device owned by the user.  The DMCA does not 
+say or imply this, nor does, as the Register also suggested, the Unlocking Act. 4    
+ 
+In its NOI the Office poses questions in four categories.  CTA comments on the first 
+three – General issues pertaining to the Office’s interpretation of the statute and the scope of its 
+own authority and discretion; the Rulemaking process; and whether the anti-trafficking 
+provisions of the DMCA have been properly interpreted and applied and / or require legislative 
+amendment.    
+ 
+“General” Issues 
+ 
+The NOI recognizes that the number of exemption petitions has grown in step with the in 
+terrorem use of the DMCA to impair or threaten users’ access to their own devices:  
+ 
+[I]t is … apparent that the prohibition on circumvention impacts a wide range of 
+consumer activities that have little to do with the consumption of creative content 
+or the core concerns of copyright. *** In the 2015 rulemaking, some of the 
+proposed exemptions concerned the ability to access and make noninfringing uses 
+of expressive copyrighted works ….  But others concerned the ability to 
+circumvent access controls on copyrighted computer code in consumer devices.
+5  
+ 
+This is a severe understatement.  Of the 44 exemption petitions filed, the majority – 26 – 
+had nothing to do with any user’s desire to copy or “consume” creative, expressive content.  
+Simply put, the Office has lagged behind the Administration6 and Members of Congress, 
+including drafters of the DMCA, in recognizing that the trend of using the DMCA as a vehicle of 
+industrial protectionism is an unintended, unfortunate, and unnecessary imposition on users’ 
+rights.  The drafters of the DMCA assured their congressional colleagues and the public that such 
+abuse would not occur.  Those still serving in Congress in 2014 labeled lawsuits brought on this 
+basis as “abuse.”7  When the Librarian denied consumers an exemption to control the 
+interoperability of their own phones, the Congress swiftly reversed this decision in the Unlocking 
+Act.   
+                                                 
+4 Unlocking Consumer Choice and Wireless Competition Act, Pub. L. No. 113-144, 128 Stat. 
+1751 (2014). 
+5 NOI at 12 (emphasis added). 
+6 The Commerce Dept. letter uniformly supports user rights in the absence of copyright 
+infringement.  See also National Telecommunications and Information Administration, NTIA 
+Petition for Rulemaking on Unlocking of Mobile Devices, Sept. 13, 2013, available at 
+https://www.ntia.doc.gov/fcc-filing/2013/ntia-petition-rulemaking-unlocking-mobile-devices.  
+7 Chapter 12 of Title 17:  Hearing Before the Subcomm. On Courts, Intellectual Property, and 
+the Internet of the H. Comm. on the Judiciary, 113th Cong. at 1, 64, 77 – 78 (2014) (“House 
+Section 1201 Hearing”).
+
+[PAGE 3]
+3 
+ 
+In the 2015 round, the Librarian exceeded its authority in limiting the scope and period of 
+a clearly deserved exemption for users to control the operation of their own autos, and erred in 
+denying them the benefit of any expert assistance.  These limitations and denials have no basis in 
+the text of Sections 1201(a)(1), 1201(a)(2), or 1201(b)(1), and are contrary to the legislative 
+history of these provisions.   
+ 
+1. The DMCA’s legislative history requires the Librarian to presume that users 
+who do not copy expressive copyrighted works have not violated the DMCA, 
+instead of presuming that they have. 
+ 
+The drafters of Section 1201 emphasized that it was directed to the protection of specific 
+copyrighted works from infringing replication, not to sheltering systems from being “hacked.”  
+Rep. Bob Goodlatte in 1998 emphasized this in his remarks on the House floor: 
+ 
+I would like to state for the record my understanding that [Sections 1201(a) and 
+(b)(1)] are not intended to address computer system security, such as devices used 
+to crack into computer security systems such as firewalls or discover log-on 
+passwords that protect an entire system.  The ban contained in these provisions is 
+intended to cover circumvention devices aimed at technological protection 
+measures that protect particular works covered under Title 17 such as movies, 
+songs or computer programs. Unauthorized hacking into computer programs is 
+already covered by other laws.
+8   
+The Report of the Senate Judiciary Committee emphasized that Section 1201(a)(1), 
+which addresses conduct of particular technology users, was even more narrowly targeted, 
+toward directly infringing conduct, and not to potential consequences, or to secondary liability: 
+Paragraph (a)(1) establishes a general prohibition against gaining unauthorized 
+access to a work by circumventing a technological protection measure put in place 
+by the copyright owner where such protection measure otherwise effectively 
+controls access to a work protected under title 17 of the U.S. Code. This 
+paragraph does not apply to the subsequent actions of a person once he or she 
+has obtained authorized access to a copy of a work protected under title 17, even 
+if such actions involve circumvention of other types of technological protection 
+measures.9 
+The Report of the House Judiciary Committee, as presented by then-subcommittee 
+chairman Howard Coble, employs much the same language, and states flatly and with 
+particularity that a user is not liable for circumvention under Section 1201(a)(1) if the user is 
+entitled to that access as a matter of fair use: 
+                                                 
+8 144 Cong. Rec. H7095 (Aug. 4, 1998), Remarks of Rep. Goodlatte (emphasis added) 
+(“Goodlatte”). 
+9 S. Rep. 105-90 at 29 (1998).
+
+[PAGE 4]
+4 
+ 
+Paragraph (a)(1) does not apply to the subsequent actions of a person once he or 
+she has obtained authorized access to a copy of a work protected under Title 17, 
+even if such actions involve circumvention of additional forms of technological 
+protection measures. In a fact situation where the access is authorized, the 
+traditional defenses to copyright infringement, including fair use, would be fully 
+applicable. So, an individual would not be able to circumvent in order to gain 
+unauthorized access to a work, but would be able to do so in order to make fair 
+use of a work which he or she has acquired lawfully.10 
+ The drafters also emphasized, in legislative history, that the “trafficking” provisions 
+were not meant to frustrate lawful and assisted user access when that access is targeted to works 
+to which the user has lawful rights.  All report and floor statements emphasize that the target of 
+Sections 1201(a)(2) and (b)(1) was the potential commodification of “black box” technologies 
+that are deployed for unlawful access to works.  The House Judiciary Committee Report goes on 
+to say of Section 1201(a)(2): 
+It is drafted carefully to target ‘‘black boxes,’’ and to ensure that legitimate 
+multipurpose devices can continue to be made and sold. For a technology, 
+product, service, device, component, or part thereof to be prohibited under this 
+subsection, one of three conditions must be met. It must: (1) be primarily 
+designed or produced for the purpose of circumventing; (2) have only a limited 
+commercially significant purpose or use other than to circumvent; or (3) be 
+marketed by the person who manufactures it, imports it, offers it to the public, 
+provides it or otherwise traffics in it, or by another person acting in concert with 
+that person, for use in circumventing a technological protection measure that 
+effectively controls access to a work protected under Title 17. This provision is 
+designed to protect copyright owners, and simultaneously allow the development 
+of technology.11 
+The Report of the House Commerce Committee said: 
+The Committee believes it is very important to emphasize that Section 102(a)(2) 
+is aimed fundamentally at outlawing so-called ‘‘black boxes’’ that are expressly 
+intended to facilitate circumvention of technological protection measures for 
+purposes of gaining access to a work. This provision is not aimed at products that 
+are capable of commercially significant noninfringing uses, such as consumer 
+electronics, telecommunications, and computer products—including videocassette 
+                                                 
+10 H. Rep. 105-551 Pt 1 at 18 (1998) (emphasis added) (“House Judiciary Report”).  
+11 Id.
+
+[PAGE 5]
+5 
+ 
+recorders, telecommunications switches, personal computers, and servers—used 
+by businesses and consumers for perfectly legitimate purposes.12 
+In presenting this Report, and the legislation, on the House floor, Commerce Committee 
+Chairman Tom Bliley assured the house that legitimate retailers were not among the 
+“trafficking” targets : 
+ 
+Given our keen interest in the development of new products, in particular digital 
+television monitors, the Committee is particularly concerned that the introduction 
+of such measures not frustrate consumer expectations and that this legislation not 
+be interpreted to in any way limit the authority of manufacturers and retailers to 
+address the legitimate concerns of their customers.13 
+Chairman Bliley went on to address, specifically, concerns that overbroad application of 
+“trafficking” provisions could impair interoperability and consumer convenience, and noted 
+specifically that the DMCA should not impair assistance from “servicers”: 
+ 
+As advances in technology occur, consumers will enjoy additional benefits if 
+devices are able to interact and share information. Achieving interoperability in 
+the consumer electronics environment will be a critical factor in the growth of 
+electronic commerce. In our view, manufacturers, consumers, retailers, and 
+servicers should not be prevented from correcting an interoperability problem 
+resulting from a protection measure causing one or more devices in the home or in 
+a business to fail to interoperate with other technologies.14 
+The denial of expert assistance from “retailers and servicers” was contrary to this explicit 
+legislative history. 
+ 
+ More generally, this legislative history explains the appalled reactions, 16 years later, of 
+several of the House drafters of the DMCA, at a 2014 hearing called to review developments 
+pertaining to Section 1201.  Rep. Goodlatte, now Chairman of the House Judiciary Committee, 
+observed: 
+ 
+As someone who was very active in negotiating all of the DMCA, I am not sure 
+that anyone involved in the drafting would have anticipated some of the TPM 
+uses that have been litigated in court. Such as replacement printer toner cartridges 
+and garage door openers.15 
+ 
+Judiciary Committee Ranking Member Conyers added: 
+                                                 
+12 H. rep. 105 – 551 Pt 2 at 38 (1998) (emphasis added) (“House Commerce Report”). 
+13 144 Cong. Rec. H7094 – 7095 at 7094 (Aug. 4, 1998), Remarks of Rep. Bliley (emph. added) 
+(“Bliley”).  
+14 Id. at 7095 (emphasis added). 
+15 House Section 1201 Hearing at 64; see also statement of Rep. Farenthold at 77 – 78.
+
+[PAGE 6]
+6 
+ 
+For example, some critics contend that copyright owners use Section 1201, as a 
+tool to stifle competition and repeatedly cite the laser printer cartridge 
+replacement and garage door opener cases in support of their contention. 
+Fortunately, courts in both these cases ruled against the companies who had 
+attempted to use Chapter 12 to inhibit competition.
+16   
+Rep. Marino, in an opening statement on behalf of (1998 and 2014) Subcommittee 
+Chairman Coble, said: 
+As everyone knows, Mr. Coble has not been a fan of those who abuse the legal 
+system using our Nation’s intellectual property laws whether they are copyright, 
+patent or trademark laws. And I concur with him. So we’d like to hear more about 
+ways to ensure that Chapter 12 is used to protect copyrighted works rather than 
+printer cartridges and garage door openers as has been attempted before.17 
+ 
+This review of statements of Members of Congress, then and now, shows that the drafters 
+of Section 1201 have been more sensitive than the Copyright Office and the Register have been 
+in assuring that the legitimate rights and expectations of users have been honored.  As CTA 
+discusses further below, the Office, in its recommendations by the Register, has conflated the 
+individual and limited elements of Sections 1201(a)(1), (a)(2), and (b)(1) into a monolith, 
+standing in the way of interoperability, that the DMCA’s drafters explicitly did not intend to 
+erect. 
+ 
+As the Office has repeatedly reminded the public, the Librarian is afforded discretion in 
+interpreting the Act and in granting exemptions.  But this discretion should be used to further the 
+purposes of the Act.  As is shown above, these purposes specifically did not include (1) denying 
+exemptions to a user under Section 1201(a)(1), where the object of circumvention was copyright 
+fair use, and (2) labeling as “trafficking” assistance to a user by a retailer or a servicer to obtain 
+lawful access to a specific work or to the user’s own device for purposes of interoperability.  
+Denial of such consumer rights and assistance was disclaimed by the DMCA’s drafters at the 
+time of its enactment.  Reading the DMCA to deny consumers functional access to their own 
+products has been bemoaned by the drafters in the ensuing years. 
+ 
+2. Section 1201 should neither advance nor constrain interests that lie outside 
+core copyright concerns. 
+ 
+CTA applauds the Office for seeking comment on these and other of its recommendations 
+and on whether it was correct in the Class 21 petitions to consider external, non-copyright factors 
+so as to impair the utility of and shorten the statutory term of exemptions.  CTA believes the 
+Librarian was not granted the power to do this.   
+ 
+Just as Section 1201 should not be an instrument of private sector industrial protection 
+where expressive works are not being infringed, it should also not be turned into an instrument of 
+public sector industrial policy where such policy is at best orthogonal to copyright.  Moreover, 
+                                                
+ 
+16 Id. at 4. 
+17 Id. at 1 - 2.
+
+[PAGE 7]
+7 
+ 
+even if it were appropriate to verge beyond copyright considerations in copyright exemption 
+proceedings, Section 1201(a) places the responsibility to advise the Register only on the 
+Department of Commerce, on behalf of the Administration.  It was contrary to the statute’s text 
+and intent for the Register to seek and accept advice from other agencies of the Administration 
+and to reject the advice of the Department of Commerce, which did not recommend any such 
+limitations in scope or term of exemption. 
+ 
+Rulemaking Process 
+ 
+3. Previously granted exemptions should enjoy a presumption of renewal. 
+ 
+It should not take an act of Congress for the Office to be able to channel its discretion in 
+favor of efficiency.  A groundswell, including the past Register,18 has supported this outcome.  
+CTA is not persuaded that there is any obstacle to the Office taking this common-sense step on 
+its own motion.  There is no reason, however, to limit this presumption to unopposed petitions. 
+ 
+Additionally, the Office should consider extending the renewal presumption to product 
+extensions, such as the use of tablets employing operating systems similar to those of phones 
+whose users previously have enjoyed exemptions.  Presumed renewal would free private sector 
+and Office resources for more constructive contributions.    
+ 
+4. The Copyright Office should not impose a heavy burden on exemption 
+proponents. 
+ 
+The legislative history and assurances of the drafters, reviewed above, do not support the 
+Office’s practice of imposing heavy, and in some cases apparently arbitrary or at least 
+discretionary, burdens on proponents of exemptions.  Nothing in the statute requires the 
+imposition of such burdens.  Where opponents are in a better position to come forward with 
+evidence, they should be obliged to do so.   
+  
+5. The Copyright Office should not credit opposition that is based on 
+projections of secondary liability. 
+ 
+CTA respectfully asserts that the Office misapplied Section 1201(a) and additionally 
+committed both legal and procedural error by denying to Class 21 an exemption for access to 
+“infotainment” systems.  The Office did so on the basis that a system, after circumvention, might 
+be accessible to additional content from an infringing source.  Yet it was plainly stated by the 
+legislation’s sponsors, as set forth above in CTA’s response to question 1, that user liability 
+under Section 1201(a) cannot be based on infringements occurring after circumvention.   
+ 
+As a matter of copyright law, the Office’s rationale is also directly contrary to the law as 
+established by the Supreme Court in Sony Corp. of America v. Universal City Studios, Inc., 464 
+U.S. 417, 442 (1984).  The Supreme Court held in Sony that it is lawful to provide consumers 
+with a device that can store both infringing and non-infringing content, so long as there are 
+                                                 
+18 NOI at 11 & n. 40.
+
+[PAGE 8]
+8 
+ 
+commercially significant non-infringing uses for the stored content.  In the Class 21 exemption 
+discussion, it was only agricultural equipment provider John Deere that even suggested, without 
+proof, that circumvention could result in infringing material being imported into vehicle 
+infotainment storage.19  Hence the only copyright interest or concern that the Office could have 
+had would be about a closed storage system becoming open to storing infringing content.  It was 
+clearly established in Sony that allowing such capacity into the marketplace is not copyright 
+infringement, even where accomplished by a third party with a commercial interest.  Moreover, 
+the courts have recognized that any such importation may occur as a form of lawful 
+timeshifting20 or placeshifting.21     
+ 
+Even if it were not error to consider consequential activity when evaluating user conduct 
+under Section 1201(a), at the very least the Office should have placed the burden on exemption 
+opponents to come forward with some evidence of a copyright law interest being encountered as 
+a result of the circumvention.  The Office’s denial of infotainment access to users was thus 
+procedural error as to burden, legal error in misapplying Section 1201(a) to post-circumvention 
+conduct, and legal error in construing the copyright law.     
+ 
+Anti-Trafficking Provisions  
+ 
+6. The DMCA anti-trafficking provisions of Sections 1201(a)(2) and 1201(b)(1) 
+should not have deterred the Register from recommending that the 
+Librarian grant exemptions in favor of users who receive assistance in 
+accomplishing exempt objectives. 
+ 
+Nothing in the trafficking provisions of the DMCA (Sections 1201(a)(2) and (b)(1)) or 
+any other law requires that users be unable to receive expert assistance in accomplishing a lawful 
+and exempt objective.  As was explained in the legislative history quoted above, these 
+“trafficking” provisions were drafted “carefully to target ‘black boxes’ ….”
+22  The legislative 
+history is explicit that, unlike Sections 1201(a)(2) and 1201(b)(1), Section 1201(a)(1) pertains to 
+particular users, particular uses, and particular works.  The hardware or software “black box” 
+scenario addressed in Sections 1201(a)(2) and 1201(b)(1) as “trafficking” was never meant to 
+apply to a user seeking interoperable access to a work embedded in an automobile that she owns.  
+Nor was it meant to apply to a user seeking access to a vehicle’s system, because Section 
+1201(a)(1) was not meant to lock users out of systems.23  Nor was it meant to deny retail and 
+servicer-level direct assistance to a user in need of it. 
+ 
+                                                 
+19 No claim of inducement, contributory, or vicarious liability was made – indeed it would be 
+comical to suggest that a user is capable of inducement with respect to his or her own vehicle’s 
+radio.   
+20 Sony 464 U.S. at 442 - 456.   
+21 Recording Indus. Ass’n of Am. v. Diamond Multimedia Sys., Inc., 180 F.3d 1072, 1079  (9th 
+Cir. 1999). 
+22 House Judiciary Report at 18; see also House Commerce Report at 38.   
+23 Goodlatte.
+
+[PAGE 9]
+9 
+ 
+In presenting the DMCA on the floor of the House, Commerce Committee Chairman 
+Bliley was explicit that the DMCA was not meant to impair retailer or servicer assistance to 
+consumers, nor was it meant to be construed as impairing device interoperability: 
+ 
+[T]he Committee is particularly concerned that the introduction of such measures 
+not frustrate consumer expectations and that this legislation not be interpreted to 
+in any way limit the authority of manufacturers and retailers to address the 
+legitimate concerns of their customers.
+24 *** Achieving interoperability in the 
+consumer electronics environment will be a critical factor in the growth of 
+electronic commerce. In our view, manufacturers, consumers, retailers, and 
+servicers should not be prevented from correcting an interoperability problem 
+resulting from a protection measure causing one or more devices in the home or in 
+a business to fail to interoperate with other technologies.25 
+ 
+The Unlocking Act became necessary only because the Librarian failed to renew previous 
+exemptions that had been widely construed as authorizing assisted retail and servicer-level 
+unlocking, so that phones could interoperate with new networks.  The result of this departure 
+from previous presumptions was a Presidential Petition and congressional reversal.26  In the 
+legislative history discussion of the Unlocking Act it was noted that servicer assistance in aid of 
+interoperability was essential for many consumers.27 Yet when prior phone unlocking 
+exemptions were granted there had been no public or congressional concern expressed that 
+specific permission for such assistance was necessary and had been withheld.  Hence, there was 
+no basis for the Office to assume that Congress, in specifying a right to such assistance, was 
+under the impression that prior grants had excluded such a right.  Indeed, in reporting out the 
+final version28 of the bill that reversed the Librarian’s denial, the Senate Judiciary Committee 
+was emphatic that it intended no positive or negative inference with respect to the Librarian’s 
+authority in other exemption proceedings: 
+ 
+While there are larger ongoing debates about the scope and application of Section 
+1201 of the DMCA, as well as other aspects of phone unlocking, those issues are 
+not addressed by the legislation, which makes no changes to Section 1201 of the 
+DMCA. The bill respects the independence of the Library of Congress under 
+existing law to conduct the triennial rulemakings set forth in Section 1201(a)(1) 
+and does not alter the authority of the Librarian in future rulemakings.
+29 
+ 
+Thus the Register was simply incorrect, in the recommendation as to Class 21, in reading 
+the Unlocking Act as containing any “negative pregnant” preventing the Librarian from allowing 
+assistance to users in appropriate cases, in order to achieve interoperability.  Given the explicit 
+                                                 
+24 Bliley at 7094 (emphasis added). 
+25 Bliley at 7095 (emphasis added). 
+26 See Senate Report No. 113-212 (Comm. On the Judiciary) at 3 & n. 9 (“Senate Unlocking Act 
+Report”). 
+27 Id. at 4, 6.   
+28 See 160 Cong. Rec. S4510 – 11 (2014) and 160 Cong. Rec. H6835-36. 
+29 Senate Unlocking Act Report at 5.
+
+[PAGE 10]
+10 
+ 
+intent of the DMCA’s drafters that it should not be read to impair user interoperability for lawful 
+purposes, the Unlocking Act could not and did not pose any barrier to the Librarian’s following 
+the Administration’s specific advice to include a right to assistance in its Class 21 exemption, as 
+it did for Class 11.    
+ 
+To the extent the Unlocking Act is relevant to autos it should have been understood by 
+the Office as furthering the rights of users generally, rather than constraining them.  The only 
+caution and constraint cited by the drafters of the Unlocking Act was that the assistance must be 
+rendered be for purposes of interoperability:  
+ 
+[N]othing in the bill permits third parties to unlock devices independently of the 
+device owner’s direction, or for a purpose other than allowing the owner or a 
+family member to connect to a new wireless network.
+30 *** Unlike many other 
+situations where an exemption from the circumvention prohibition may be sought 
+or granted, unlocking a cell phone to connect to a wireless network typically does 
+not facilitate copyright infringement.31 
+ 
+The rationale for the Unlocking Act simply recapitulates the rationale of the DMCA 
+drafters in assuring that the DMCA would not impair device interoperability.  The Unlocking 
+Act should have been viewed by the Librarian as an additional reason to specifically approve 
+assistance to users of owned devices in exemptions, not one for denying it.  
+ 
+7. Section 1201 should be clarified to confirm that expert assistance, whether formally 
+or informally rendered, is not trafficking. 
+ 
+The fact that the Copyright Office and the NTIA, the expert agencies identified by the 
+Congress to administer exemptions from Section 1201, have not agreed on whether expert 
+assistance to consumers in aid of lawful access is “trafficking” suggests that legislative 
+clarification of this important issue would be helpful.  More generally, DMCA drafters have 
+complained about lawsuits that would impair users’ ability to repair, upgrade, or replace 
+components or media of their own devices.  Therefore CTA recommends that in addition to 
+interpreting existing law as we propose, the Office should advocate for substantive, as well as 
+procedural, reform of Section 1201. 
+ 
+First, the scope of Section 1201 should be clarified so as to comport with the drafters’ 
+intention that it should protect only access to and copying of expressive literary and musical 
+works for the purpose of exploiting those works in ways that infringe copyright.  Second, the text 
+should reflect the drafters’ intention that Section 1201(a)(1) constrains only user access to 
+particular works, so it is not “trafficking” to assist such access so long as the user’s objective is 
+lawful.  Third, the text should be clearer that access to a functional work embedded in a product 
+that the user owns is lawful. 
+  
+                                                
+ 
+30 Senate Unlocking Act Report at 4.   
+31 Id. at 6.
+
+[PAGE 11]
+11 
+ 
+CTA appreciates this opportunity to provide its views. 
+ 
+ Respectfully submitted,  
+ 
+ 
+  
+ Michael E. Petricone 
+ Senior Vice President 
+      G o v e r n m e n t  A f f a i r s

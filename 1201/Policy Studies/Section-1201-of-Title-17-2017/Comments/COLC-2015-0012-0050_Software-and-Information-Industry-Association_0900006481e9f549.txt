@@ -1,0 +1,321 @@
+[PAGE 1]
+ 
+ 
+ 
+ 
+Docket No. 2015-8 
+ 
+ 
+ 
+Section 1201 Study 
+ 
+ 
+ 
+Initial Comments of the Software and Information Industry 
+Association 
+ 
+ 
+March 3, 2016
+
+[PAGE 2]
+2 
+ 
+The Software & Information Industry Association (“SIIA”) 
+respectfully submits these comments to the United States 
+Copyright Office in response to the Notice of Inquiry entitled 
+“Section 1201 Study,” 80 Fed. Reg. 81369 (Dec. 29, 2015). 
+ 
+Introduction 
+SIIA is the principal trade association of the software and 
+information industries and represents over 800 companies that 
+develop and market software and digital content for business, 
+education, consumers, the Internet, and entertainment.   SIIA’s 
+members range from start-up firms to some of the largest and 
+most recognizable corporations in the world, and one of SIIA’s 
+primary missions is to protect their intellectual property and 
+advocate a legal and regulatory environment that benefits the 
+software and digital content industries.  SIIA member 
+companies are market leaders in many areas, including but by 
+no means limited to: 
+ 
+ software publishing, graphics, and photo editing tools 
+ corporate database and da ta processing software 
+ financial trading and investing services, news, and 
+commodities exchanges 
+ online legal information and legal research tools 
+ protection against software viruses and other malware 
+and 
+ education software and online education services  
+ 
+Our members depend on section 1201 to protect their works 
+from infringement, and SIIA has participated in every 
+rulemaking since the statute’s enactment.   In our view, 
+Section 1201 has succeeded in performing its intended purpose: 
+namely, to accomplish the “mutually supportive” goals of a 
+“thriving electronic marketplace [that] provides new and 
+powerful ways for the creators of intellectual property to make 
+their works available to legitimate consumers in the digital 
+environment,” and a “plentiful supply of intellectual property” 
+to drive the demand for a more flexible and efficient
+
+[PAGE 3]
+3 
+ 
+marketplace.”1  Congress properly recognized that “the digital 
+environment poses a unique threat to copyright owners” and 
+that it “necessitates protection against devices that undermine 
+copyright interests.”2    
+The anti-circumvention provisions of the statute contain 
+three provisions intended to advance these goals.   First, 
+section 1201(a)(1) prevents a user from circumventing a 
+technological measure that controls access to a copyrighted 
+work.  “The act of circumventing a technological measure put 
+in place by the copyright owner is the equivalent of breaking 
+into a locked room to obtain a copy of a book.”
+3   Congress 
+thought, with good reason, that once protected software, film, 
+or music was available in the clear, it could be exploited in a 
+way that seriously harmed the copyright owner’s legitimate 
+market.  
+Second, 1201(a)(2) prevents the trafficking in devices 
+primarily designed to  circumvent technological measures, only 
+prohibiting devices primarily designed for that purpose or that 
+have only a limited commercially significant purpose other 
+than circumventing.   The provision is “aimed primarily at 
+black boxes that have virtually no legitimate uses,” and not at 
+“legitimate consumer products such as personal computers, 
+VCRS and the like.”
+4 
+Finally, as a check on section 1201, Congress also enacted a 
+rulemaking provision enabling the Library of Congress, in 
+consultation with the Department of Commerce (e.g., NTIA), to 
+offer an exemption to the ban on circumvention to petitioners 
+that have shown that they are likely to be adversely affected by 
+the prohibition on circumvention.  Congress intended that 
+exemptions issue only on “specific evidence” that a diminution 
+of the availability of a particular work for noninfringing 
+purposes is “
+actually occurring.”5  To the extent that the office 
+                                                 
+1  H. Rep. 105-551 (1998) (Part II), at 23. 
+2  Id. at 25. 
+3  House Committee on the Judiciary, Section-by-section 
+Analysis of H.R. 2281 as Passed by the House of Representatives 
+(1998) (Comm. Print. No. 6), at 5 [hereinafter “House Manager’s 
+Report”]. 
+4  House Manager’s Report, at 9. See also id. (rejecting standard 
+for secondary liability established by Sony Corp. of America v. 
+Universal City Studios, 464 U.S. 417 (1984)).   
+5  House Manager’s Report, at 6 (emphasis in original).
+
+[PAGE 4]
+4 
+ 
+is issuing exemptions based on fears of what might happen, 
+those exemptions should issue “only in extraordinary 
+circumstances in which the evidence of likelihood of future 
+impact during that time period is highly specific, strong and 
+persuasive.”
+6  Moreover, it must be the statute that causes any 
+alleged problems: “marketplace trends, other technological 
+developments, or changes in the roles of libraries, distributors 
+or other intermediaries--or that are not clearly attributable to 
+[the statute’s] prohibition, are outside the scope of the 
+rulemaking.”
+7 
+Read together, the text, structure, purpose, and history of 
+the DMCA’s circumvention provisions reflect an intention to 
+create a liability regime preventing device manufacturers and 
+others from exposing works to risks of digital piracy.  Section 
+1201 neither expands nor contracts the scope of the copyright 
+owner’s exclusive rights.
+8  Instead, it creates a legal backstop to 
+technological protection in order to protect copyrighted works 
+from piracy, and encourage copyright owners to find new ways 
+to get their creativity to the public.  In the United States, that 
+backstop has prevented capital formation around “black box” 
+businesses dedicated to circumvention or the sale of 
+circumvention devices, and the U.S. has successfully exported 
+that model in a number of trade agreements.
+9  To the extent 
+that the circumvention ban directly causes unjustifiable 
+adverse effects on noninfringing use, section 1201 allows the 
+Librarian to exempt certain classes of works.   
+                                                 
+6  Id. at 6. 
+7  Id.  
+8  See 17 U.S.C.  1201(c) (1) (stating that the statute does not 
+affect rights, liabilities, remedies or defenses to copyright 
+infringement).    
+9  E.g., CAFTA chapter 15, art. 7(a),  
+https://ustr.gov/sites/default/files/uploads/agreements/cafta/asset_upl
+oad_file934_3935.pdf; Singapore FTA Art. 16.4 (7)(a) (anti-
+circumvention statute combined with exceptions), 
+https://ustr.gov/sites/default/files/uploads/agreements/fta/singapore/as
+set_upload_file708_4036.pdf; Australia FTA, Art. 17.7 (paralleling 
+1201(a), and listing permissible exceptions analogous to those in U.S. 
+law), 
+https://ustr.gov/sites/default/files/uploads/agreements/fta/australia/as
+set_upload_file469_5141.pdf.
+
+[PAGE 5]
+5 
+ 
+As an organization that has monitored and participated in 
+every triennial event, we appreciate that the rulemaking 
+process has become cumbersome.  In part, that has occurred 
+because of the application of the statute in ways that Congress 
+did not foresee in 1998, and in part because of the need to 
+review each proposed exemption 
+de novo  every three years.  In 
+short, while we believe the rulemaking process could be 
+improved, the statute as a whole is being well interpreted by 
+the courts. 
+1. 
+Please provide any insights or observations regarding the 
+role and effectiveness of the prohibition on circumvention of 
+technological measures in section 1201(a). 
+Section 1201 enabled SIIA members to build new ways 
+of transmitting wo rks (Question 1). 
+The DMCA helped ensure the investment of billions of 
+dollars by our members in making works available through 
+both interactive and static digital formats.  For example, many 
+SIIA members have made their works available as e-books on 
+different types of readers including stand-alone devices 
+dedicated to that purpose as well as applications enabling 
+reading on cell phones, tablets and personal computers.   When 
+making works available in those formats, they apply 
+technological protection measures to ensure that their works 
+are not made available in the clear.   
+In addition, our members have used technological protection 
+measures to create innovative interactive services in a variety 
+of disciplines.  For example, our members’ web-enabled 
+education products allow teachers to customize lesson plans 
+from a variety of suggested course formats.   Their online 
+offerings supplement the material in textbooks with video, 
+audio, and interactive learning tools, and wrong-answer 
+feedback designed to guide students based on the kind of error 
+that they make.   
+Nonetheless, threats abound. Paywalls, passwords, and 
+multi-level authentication systems face thousands of 
+circumvention attempts each day from both domestic and 
+international sources, and tools can be found to circumvent 
+TPMs applied to e-books and other SIIA-member works.    As 
+the Office is well aware, piracy of these works remains a 
+persistent and serious problem.  In spite of these threats, 
+section 1201 can be credited with keeping consumers honest by 
+preventing circumvention tools from being conveniently 
+available at Amazon or Newegg.   SIIA therefore opposes any
+
+[PAGE 6]
+6 
+ 
+weakening of the anti-trafficking provisions, or an expansion of 
+the rulemaking that would allow persons to traffic in particular 
+devices.   
+2. How should section 1201 accommodate interests that are outside 
+of core copyright concerns, for example, in cases where circumvention 
+of access controls protecting computer programs implicates issues of 
+product interoperability or public safety? 
+During the last rulemaking, disputes arose over software in 
+tractors, automobiles, and the like—situations that Congress 
+did not envision when passing the law eighteen years ago.  But 
+there are doctrines which limit the application of statutes to 
+situations that Congress did not anticipate.  Indeed, we note 
+that attempts to apply the DMCA to secondary markets in 
+printer cartridges, garage door openers, and similar devices 
+have failed.
+10   
+With these decisions as a backdrop, we are especially 
+concerned by advocates of overbroad “right to repair” 
+amendments based on scant or minimal evidence, and the 
+argument that a software or other vendor provides technical 
+support for a particular product or service entitles others to 
+modify it.  SIIA members routinely spend millions in providing 
+technical support to their customers. The mere existence of an 
+extensive support network does not justify unfettered and 
+harmful access to our members’ intellectual property.  
+Although we remain open to new evidence, our experience is 
+that issues of “product interoperability” are adequately 
+addressed by the DMCA’s reverse engineering provision in 
+section 1201(f).  To the extent that such issues inject 
+                                                 
+10   E.g., Storage Tech. Corp. v. Custom Hardware Eng'g & 
+Consulting, Inc., 421 F.3d 1307 (Fed. Cir. 2005) (rejecting application 
+of statute to prevent servicing of machines by ISO);  
+Chamberlain Group, Inc. v. Skylink Technologies, Inc., 381 F.3d 1178 
+(Fed. Cir. 2004) (rejecting application of DMCA to universal remote);  
+Lexmark International, Inc. v. Static Control Components, 387 F.3d 
+522 (6th Cir. 2005). But see  TracFone Wireless, Inc. v. Anadisk LLC, 
+685 F. Supp. 2d 1304, 1317 (S.D. Fla. 2010) (finding commercial, 
+large-scale unlocking of subsidized cell phones from the subsidizing 
+carrier to be a violation of the DMCA); The Unlocking Consumer 
+Choice and Wireless Competition Act, Pub. L. No. 113-144 (Aug. 1, 
+2014), and S. Rep. No. 113-112 at 4 (2014) (stating that cell phone 
+unlocking statute not intended to permit large-scale unlocking and 
+commercial resale of subsidized cell phones).
+
+[PAGE 7]
+7 
+ 
+themselves into the rulemaking, we believe the Office did the 
+right thing in contacting other agencies with relevant 
+expertise. 
+    
+3. Should section 1201 be adjusted to provide for presumptive 
+renewal of previously granted exemptions—for example, when there is 
+no meaningful opposition to renewal—or otherwise be modified to 
+streamline the process of continuing an existing exemption? If so, 
+how? 
+Once an exemption is issued, we are unclear what 
+“meaningful resistance” would look like, but we agree that any 
+presumption that exists should be rebuttable.  It seems a 
+“presumption” already exists in practice, as the vast majority of 
+issued exemptions are renewed, even when resisted.  That said, 
+in order for any kind of presumption for renewal to exist, the 
+person seeking that presumption should have to demonstrate 
+specific evidence of use in the triennial after the exemption 
+issued.  The presumption should only apply to the exemption 
+exactly as it issued the first time.    And, of course, evidence of 
+the presumption’s use to commit or facilitate infringement 
+would be grounds for requiring 
+de novo review.   
+Questions 6 and 7:  
+6. Please assess the role of the antitrafficking provisions of sections 
+1201(a)(2) and 1201(b) in deterring copyright infringement, and 
+address whether any amendments may be advisable.  
+7. Should section 1201 be amended to allow the adoption of 
+exemptions to the prohibition on circumvention that can extend to 
+exemptions to the antitrafficking prohibitions, and if so, in what way? 
+For example, should the Register be able to recommend, and the 
+Librarian able to adopt, exemptions that permit third-party assistance 
+when justified by the record? 
+Given the success of the provisions in preventing the 
+manufacture of circumvention devices and based on what we 
+know of the marketplace, SIIA would not support either 
+weakening of the anti-trafficking provisions or an expansion of 
+the rulemaking to allow trafficking in circumvention devices.
+
+[PAGE 8]
+8 
+ 
+8. Please assess whether the existing categories of permanent 
+exemptions are necessary, relevant, and/or sufficient. How do the 
+permanent exemptions affect the current state of reverse engineering, 
+encryption research, and security testing? How do the permanent 
+exemptions affect the activities of libraries, archives, and educational 
+institutions? How might the existing permanent exemptions be 
+amended to better facilitate such activities? 
+SIIA is unaware of any information that supports amending 
+the existing exemptions. 
+ 
+ 
+Respectfully submitted, 
+/s/ 
+Christopher A. Mohr 
+Vice President for Intellectual Property and 
+General Counsel 
+Software and Information Industry 
+Association 
+1090 Vermont Avenue 
+Washington, D.C. 20005

@@ -1,0 +1,263 @@
+[PAGE 1]
+ 
+ 
+UNITED STATES COPYRIGHT OFFICE 
+ 
+ 
+    *  
+Section 1201 Study: Request                                     Additional Comments of:  
+For Additional Comments                              *       Association of American Publishers,       
+  Entertainment Software Association,      
+  Motion Picture Association of America, 
+                                                *       Recording Industry Association of  
+Docket  No. 2015-8                                                      America 
+    * 
+  
+****** 
+ 
+ 
+I. Introduction 
+The Association of American Publishers (“AAP”) is the largest national trade 
+organization of U.S. book and journal publishers, representing over 400 members, ranging from 
+major commercial book and journal publishers to small non-profit, university, and scholarly 
+presses.  AAP seeks to promote the effective and efficient protection of copyright to enable 
+publishers and our technology partners to create and disseminate literary, scholarly, and 
+educational works in new and convenient formats for consumers around the world to enjoy. 
+The Entertainment Software Association (“ESA”) is the United States trade association 
+serving companies that publish computer and video games for video game consoles, handheld 
+gaming devices, personal computers, and the internet.  It represents nearly all of the major video 
+game publishers and major gaming platform providers in the United States. 
+The Motion Picture Association of America, Inc. (“MPAA”) is a trade association 
+representing some of the world’s largest producers and distributors of motion pictures and other 
+audiovisual entertainment material for viewing in theaters, on prerecorded media, over broadcast 
+TV, cable and satellite services, and on the internet.  The MPAA’s members are: Paramount 
+Pictures Corp., Sony Pictures Entertainment Inc., Twentieth Century Fox Film Corp., Universal 
+City Studios LLC, Walt Disney Studios Motion Pictures, and Warner Bros. Entertainment Inc. 
+The Recording Industry Association of America (“RIAA”) is the trade organization that 
+supports and promotes the creative and financial vitality of the major music companies.  Its 
+members are the music labels that comprise the most vibrant record industry in the world.  RIAA 
+members create, manufacture and/or distribute approximately 85% of all recorded music 
+produced in the United States. 
+As AAP, ESA, MPAA and RIAA have stated in comments and reply comments in this 
+proceeding, and at the public roundtables, the protections provided in Chapter 12 of Title 17 are 
+extremely important to their members.  These protections have enabled the music, publishing, 
+entertainment software, movie, and television industries to bring to market the diverse digital 
+products that millions of consumers enjoy today.  Moreover, these protections are an essential 
+component of these creative industries’ plans for the future.
+
+[PAGE 2]
+ 
+ 
+ 2 
+ 
+AAP, ESA, MPAA and RIAA appreciate the Copyright Office’s careful and thoughtful 
+approach to this proceeding.  They also urge the Copyright Office not to recommend any action 
+– legislative or otherwise – that could have the unintended consequence of enabling copyright 
+infringement or deterring investment in new digital entertainment products and business models.  
+The record in this docket demonstrates that Section 1201 has worked well and helped to generate 
+the vibrant digital offerings that Congress sought to incentivize.   
+Although Ranking Member Conyers of the House Judiciary Committee asked the 
+Copyright Office to consider whether any changes to the statute are necessary, nothing presented 
+to date in two rounds of comments and multiple public roundtables has established that to be the 
+case.  The current statute and the triennial rulemaking process already provide the requisite 
+flexibility and protections for both consumers and copyright owners.  When a statute of this 
+import has worked so well based on distinctly integrated elements to achieve its objectives, 
+legislative efforts to fix what is not broken will cause more harm than good.
+1    
+II. Response to Notice of Inquiry 
+During the roundtables conducted by the Copyright Office earlier this year, as well as in 
+filed comments, a notable consensus emerged that the process for the triennial rulemaking should 
+be adjusted to provide for streamlined renewal of previously-granted exemptions, at least where 
+adverse impact on noninfringing uses of the kind previously demonstrated to exist would likely 
+recur in the absence of renewal of the exemption and there is no meaningful opposition to such 
+renewal.  See, e.g., Comments of AAP, MPAA, and RIAA at 11-12; see also Comments of ESA 
+at 9-10.  If the Copyright Office formally adopts a streamlined approach to renewal of previously 
+granted exemptions, then it will be even more evident that the flexibility provided by the 
+rulemaking process is preferable to attempts to make ostensibly permanent changes to the statute 
+through legislation. 
+ 
+                                                 
+1 The DMCA – including the provisions codified in 17 U.S.C. sections 1201 and 512 – embodies 
+a compromise negotiated at length among all stakeholders, including creators and copyright 
+owners, Internet service and website providers, consumer electronics companies, libraries, and 
+organizations representing the interests of consumers.  See 144 Cong. Rec. S12376 (Oct. 12, 
+1998) (statement of Mr. Hatch) (commending the “hard-fought, but ultimately fruitful, private-
+sector negotiations”).  This compromise included securing adequate prohibitions against 
+undermining the integrity of technological protection measures and incentives for service 
+provider cooperation in dealing with the proliferation of infringing material online in exchange 
+for limitations on liability for service providers and the creation of a regulatory process by which 
+consumers, libraries and others could propose new, temporary exemptions to the anti-
+circumvention prohibitions.  See 144 Cong. Rec. H7095 (Aug. 4, 1998) (statement of Mr. 
+Goodlatte) (“After a great deal of meetings and negotiation sessions, the copyright community 
+and the service provider community were able to successfully reach agreement.  That agreement 
+is included in the bill we are considering today.  No one is happier, except maybe those in each 
+community who spent countless hours and a great deal of effort trying to reach agreement, than I 
+am with the agreement contained in this bill.”).  We expect the Register– and Congress – to be 
+mindful of this bigger picture when considering how any changes to portions of Section 1201 
+would affect the delicate balance that the DMCA represents.
+
+[PAGE 3]
+ 
+ 
+ 3 
+ 
+The NOI asks whether new “permanent exemptions” should be codified, and then 
+immediately turns to ask what changes, if any, should be made to existing permanent 
+exemptions.  See generally Section 1201 Study: Request for Additional Comments, 81 Fed. Reg. 
+66,296 (Sept. 27, 2016).  This only highlights the problem with permanent exemptions:  their 
+language is likely to become outdated and incapable of keeping up with evolving technology, 
+business practices and marketplace developments.  Unlike exemptions that may be renewed, 
+updated, or sunset every three years, if they are perceived to be inadequate, ineffective, or no 
+longer needed, statutory exemptions are difficult to change.   
+For this reason, legislative action is unlikely to prove capable of addressing with 
+specificity, flexibility, and with lasting impact, any perceived problems – many of which are 
+manufactured, academic or philosophical – with current exemptions.  As a result, legislative 
+action is also unlikely to reduce the number of new exemption proposals submitted during 
+triennial proceedings or to reduce the associated workload that these proposals create for the 
+Copyright Office’s staff.  Rather than recommending the investment of substantial agency, 
+congressional and stakeholder resources in amending Section 1201, the Copyright Office should 
+remain focused on managing the rulemaking process, which has proven the Office is capable of 
+hearing concerns, assessing their validity and potential solutions, and adopting regulations 
+responsive to changing market and technological developments without excessively harming 
+rights holders in their statutorily-protected use of technological measures.     
+1. Proposals for New Permanent Exemptions 
+Although the NOI identifies issues worthy of attention, these issues are better addressed 
+in the context of the rulemaking than through legislation.  Congress understood when it created 
+the rulemaking that matters related to how we interact with digital copies of copyrighted works 
+are, by definition, ever-changing.  Staff of House Comm. On the Judiciary, 105th Cong., 
+Section-by-Section Analysis of H.R. 2281 as passed by the United States House of 
+Representatives on August 4, 1998, at 6 (Comm. Print 1998) (‘‘Manager’s Report’’)  
+(“technology evolves so rapidly that it would be impractical to freeze in time the applicability of 
+these provisions”).  That is why a flexible proceeding reconvened every three years is preferable 
+to new legislation.   
+As discussed above, AAP, ESA, MPAA and RIAA do not oppose the Office adopting a 
+streamlined approach to requests for renewal of existing exemptions, such as those listed in the 
+NOI.  The record thus far supports the conclusion that this change in procedure would reduce 
+unnecessary burdens without discarding the benefits offered by the opportunity to reassess 
+marketplace conditions every three years to determine whether exemptions remain necessary or 
+require alterations to retain relevance.  The standard for codifying an exemption in the statute 
+should be more rigorous than the standard for granting a temporary regulatory exemption.  By 
+creating the rulemaking, Congress acknowledged that few issues justified statutory exemptions 
+and that in most cases a regulatory approach is preferable.  But if the Copyright Office 
+nevertheless considers recommending that Congress make some or all of the exemptions 
+mentioned in the NOI permanent, the Office should only do so if the Register is certain that 
+legislative changes (i) would not be, as the NOI states, “likely to result in economically harmful 
+unauthorized uses of copyrighted works” and (ii) would “preserv[e] congressional intent in 
+supporting new ways of disseminating copyrighted materials to users[.]”  81 Fed Reg. at 66,297.
+
+[PAGE 4]
+ 
+ 
+ 4 
+ 
+2. Proposed Amendments to Existing Permanent Exemptions 
+As discussed above, altering statutory provisions is unlikely to resolve perceived 
+problems with the existence or application of the anti-circumvention and anti-trafficking 
+prohibitions.  Meanwhile, removing existing safeguards from the statute could result in misuse of 
+the newly modified exemptions.  AAP, ESA, MPAA and RIAA have serious concerns regarding 
+whether some of the safeguards mentioned in the NOI could be deleted without harming rights 
+holders, undermining the integrity of the systems used by consumers to access entertainment 
+products, and running afoul of international agreements.  However, they will review the 
+additional comments submitted by other stakeholders in response to the NOI and offer their more 
+specific views in the context of reply comments.  For now, they simply note that Congress 
+included these safeguards for good reasons after careful deliberation and agreement reached 
+through extensive stakeholder negotiations.  See Manager’s Report at 15 (“Recognizing … that 
+making circumvention information or tools generally available would undermine the objectives 
+of this Act, the [reverse engineering] provision imposes strict limitations.”); H.R. Rep. No. 105-
+551, pt. 2, 105th Cong., 2d Sess., at 44 (July 22, 1998) (“The Committee recognizes that courts 
+may be unfamiliar with encryption research and technology, and may have difficulty 
+distinguishing between a legitimate encryption research[er] and a so-called ‘hacker’ who seeks to 
+cloak his activities with this defense.  Section 102(g)(3) therefore contains a non-exhaustive list 
+of factors a court shall consider in determining whether a person properly qualifies for the 
+encryption research defense.”); H.R. Rep. No. 105-796, 105th Cong. 2d Sess., at 67 (Oct. 8, 
+1998) (“[T]he scope of permissible security testing under the Act should be the same as 
+permissible testing of a simple door lock:  a prospective buyer may test the lock at the store with 
+the store’s consent, or may purchase the lock and test it at home in any manner that he or she 
+sees fit …What that person may not do, however, is test the lock once it has been installed on 
+someone else’s door, without the consent of the person whose property is protected by the 
+lock.”).     
+3. Anti-Trafficking Provisions 
+As emphasized in prior comments and reply comments, as well as in statements made at 
+stakeholder roundtables earlier this year, the anti-trafficking prohibitions contained in Section 
+1201 are critically important to the members of AAP, ESA, MPAA and RIAA.  In the words of 
+the NOI, “because circumvention tools may be used for lawful and unlawful purposes alike, it 
+would be impossible to ensure that tools manufactured and distributed pursuant to an exemption, 
+once available in the marketplace, would be employed solely for authorized uses.”  81 Fed. Reg. 
+at 66,299.  Accordingly, any diminishment in the scope of the prohibitions would have a 
+deleterious impact on their effectiveness for preventing infringement and unauthorized access to 
+works.  Thus, AAP, ESA, MPAA and RIAA are highly skeptical of the statutory interpretations 
+proffered by exemption proponents and mentioned in the NOI.  These interpretations, even at 
+this late stage in the proceeding, remain vague and unsubstantiated.     
+The NOI’s request for comments on whether some forms of “third party assistance” fall 
+outside the scope of the anti-trafficking prohibitions and are permissible under current law is 
+particularly troubling.  Although the Office does not provide citations to anything specific in the 
+record, it appears the NOI alludes to testimony and comments by the Electronic Frontier 
+Foundation arguing that if the objective of a service provider is not only to circumvent but also 
+to enable a consumer to enjoy some level of access to a work to accomplish some goal that is
+
+[PAGE 5]
+ 
+ 
+ 5 
+ 
+otherwise prevented by a technological measure, that service is not prohibited by Section 1201.  
+See San Francisco May 25, 2016 Transcript at 181 (statement of Mr. Stoltz).  Such a view would 
+gut the statute.  Of course, the end goal of trafficking in circumvention services is not the 
+circumvention in and of itself.  The goal is to enable unauthorized access to a copyrighted work 
+such that it can be adapted, copied or enjoyed in ways that extend beyond the terms of use 
+incorporated into the transaction by which the copy of the work was obtained.  Reading the 
+statute to allow all hacking services that market themselves as providing some benefit beyond 
+circumvention for its own sake (i) would be inconsistent with congressional intent and (ii) would 
+cause significant harm to copyright owners, including the members of AAP, ESA, MPAA and 
+RIAA. 
+III. Conclusion 
+AAP, ESA, MPAA and RIAA look forward to reviewing the additional comments 
+submitted by other interested parties and to continued participation in this proceeding. 
+DATE: October 27, 2016 
+Respectfully submitted: 
+ 
+_____________________ 
+Allan R. Adler 
+General Counsel 
+Vice President for Government Affairs 
+Association of American Publishers 
+455 Massachusetts Ave., NW, 7th Floor 
+Washington, DC 20001 
+(phone)  202-220-4544 
+(email)   adler@publishers.org 
+ 
+ 
+_____________________ 
+Stanley Pierre-Louis 
+Senior Vice President and General Counsel 
+Entertainment Software Association 
+601 Massachusetts Avenue NW 
+Suite 300 
+Washington, DC 20001 
+(phone) 202-223-2400 
+(email) stan@theESA.com
+
+[PAGE 6]
+ 
+ 
+ 6 
+ 
+ 
+_____________________ 
+Benjamin S. Sheffner 
+Vice President, Legal Affairs 
+Motion Picture Association of America, Inc. 
+15301 Ventura Blvd., Bldg. E 
+Sherman Oaks, CA 91403 
+(phone) 818- 935-5784 
+(email) Ben_Sheffner@mpaa.org 
+ 
+ 
+_____________________ 
+Susan B. Chertkof 
+Senior Vice President, Business and Legal Affairs 
+Recording Industry Association of America, Inc. 
+1025 F Street NW, 10th Floor 
+Washington, DC 20004 
+(phone) 202-775-0101 
+(email) schertkof@riaa.com

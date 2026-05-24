@@ -1,0 +1,296 @@
+[PAGE 1]
+    
+   Bruce Turnbull  
+  on behalf of  
+  DVD CCA and AACS LA 
+ 
+Before the  
+United States Copyright Office  
+Library of Congress  
+Washington, D.C.  20559 
+ 
+ 
+ 
+ 
+ In the Matter of: 
+ 
+  Section 1201 Study 
+ 
+ 
+ 
+ 
+Docket No. 2015-8 
+ 
+ 
+ 
+JOINT ADDITIONAL COMMENTS OF THE DVD COPY CONTROL 
+ASSOCIATION AND THE ADVANCED ACCESS CONTENT SYSTEM 
+LICENSING ADMINISTRATOR, LLC 
+ 
+1.  Proposals for New Permanent Exemptions 
+a.  Assistive Technologies for Use by Persons Who Are Blind, Visually 
+Impaired, or Print Disabled. 
+[Text of the Request Omitted] 
+RESPONSE 
+ DVD CCA and AACS LA have no additional comments at this time.   
+b.  Device Unlocking.  
+[Text of the Request Omitted] 
+RESPONSE 
+ DVD CCA and AACS LA have no additional comments at this time.
+
+[PAGE 2]
+ 
+ 2 
+c.  Computer Programs. Several commenters expressed concern over the scope of 
+section 1201 in the context of copyrighted computer programs that enable the operation of a 
+machine or device. These commenters suggested that by prohibiting the circumvention of access 
+controls on such programs, the statute prevents the public from engaging in legitimate activities, 
+such as the repair of automobiles or the use of third-party device components, that seem far 
+removed from the protection of creative expression that section 1201 was intended to address.  . . 
+.  To respond to this concern, some commenters argued that Congress should establish a statutory 
+exemption that would permit circumvention of technological protection measures (‘‘TPM’’s) 
+controlling access to such software in appropriate circumstances. . . .  To what extent would the 
+combination of such an exemption with the current language of 1201(f) 12— which allows 
+circumvention for purposes of facilitating interoperability under certain circumstances— 
+adequately address users’ concerns regarding section 1201’s impact on consumer activities? 
+RESPONSE 
+ DVD CCA and AACS LA again caution that any amendment should not come at the 
+expense of weakening the DMCA and its effectiveness in protecting core copyright interests.  As 
+DVD CCA and AACS LA have previously stated – and as is evident by even a casual look at 
+today’s digital marketplace – the existing legal system, including specifically the DMCA 
+circumvention protections, have enabled a burgeoning market for audiovisual content, delivered 
+through many platforms to numerous types of devices.  To the extent that DMCA circumvention 
+issues have arisen outside of core copyright areas, courts thus far have declined to apply section 
+1201 in a way that would lead to the results suggested by some commenters as identified by the 
+Copyright Office.  See, e.g., Chamberlain Group v. Skylink Tech., Inc., 381 F. 3d 1178 (Fed. Cir. 
+2004); Lexmark Intern. v. Static Control Components, 387 F. 3d 522 (6th Cir. 2004).  DVD CCA 
+and AACS LA must therefore insist that any recommendations from the Copyright Office retain 
+the critical circumvention protections for core copyright interests and avoid making any changes, 
+which would risk weakening the legal structure supporting the digital marketplace.   
+d.  Obsolete Technologies.  
+[Text of the Request Omitted]
+
+[PAGE 3]
+ 
+ 3 
+RESPONSE 
+DVD CCA and AACS LA have no additional comments at this time. 
+e.  International Considerations.  
+[Text of the Request Omitted] 
+RESPONSE 
+ DVD CCA and AACS LA have no additional comments at this time. 
+2.  Proposed Amendments to Existing Permanent Exemptions 
+Some parties expressed the view that the existing permanent exemptions for security 
+testing, encryption research, and reverse engineering19 do not adequately accommodate good-
+faith research into malfunctions, security flaws, and vulnerabilities in computer programs.20  
+[Text of the Request Omitted] 
+a.  In the 2015 rulemaking, the Register recommended, and the Librarian of 
+Congress adopted, an exemption that permits circumvention of TPMs controlling access to 
+computer programs in the following circumstances: 
+(i) . . . the circumvention is undertaken on a lawfully acquired device or machine 
+on which the computer program operates solely for the purpose of good-faith 
+security research and does not violate any applicable law, including without 
+limitation the Computer Fraud and Abuse Act of 1986, as amended and codified 
+in title 18, United States Code; . . . and the device or machine is one of the 
+following:  
+(A) A device or machine primarily designed for use by individual consumers 
+(including voting machines);  
+(B) A motorized land vehicle; or  
+(C) A medical device designed for whole or partial implantation in patients or 
+a corresponding personal monitoring system, that is not and will not be used by 
+patients or for patient care.  
+(ii) For purposes of this exemption, ‘‘good-faith security research’’ means 
+accessing a computer program solely for purposes of good-faith testing, 
+investigation and/or correction of a security flaw or vulnerability, where such 
+activity is carried out in a controlled environment designed to avoid any harm to 
+individuals or the public, and where the information derived from the activity is 
+used primarily to promote the security or safety of the class of devices or 
+machines on which the computer program operates, or those who use such 
+devices or machines, and is not used or maintained in a manner that facilitates 
+copyright infringement.21
+
+[PAGE 4]
+ 
+ 4 
+The Office is interested in commenters’ views on whether this language would be 
+appropriate for adoption as a permanent exemption, or whether there are specific changes or 
+additional provisions that Congress may wish to consider. 
+RESPONSE 
+ DVD CCA and AACS LA believe that the adoption of this particular exemption as a 
+permanent exemption is unwarranted.  DVD CCA and AACS LA have objected to the creation 
+of any new statutory exemptions, in part, because any new statutory exemptions based on those 
+previously created as a result of the rulemaking process (“administrative exemptions”) will likely 
+be overbroad and will become anachronistic.  Administrative exemptions are established and 
+tailored to specific facts and conditions that warrant the creation of that particular exemption at 
+that time.  As technologies and user experience evolve, some exemptions may become 
+unnecessary and others may require modification.  A fixed statutory exemption, however, either 
+would have to be so broad as to the sweep in conduct and products that are not the focus of the 
+basis for the exemption or would be focused on conduct and products that will not be relevant in 
+a few years.  The administrative exemptions are more responsive to changing circumstances and 
+technologies and can be more precisely focused on the specific needs as those evolve over time.   
+That said, this particular administrative exemption appears to have been an exception to 
+the general point made just above in that it may sweep in conduct and products beyond the 
+specific need demonstrated in the rulemaking process.  It deviated from the record evidence 
+relating to voting machines and established an exemption for any device or machine primarily 
+designed for use by individual consumers (“consumer products”).  This overly broad exemption 
+exemplifies the value in establishing an exemption tailored to record evidence.  As currently 
+drafted, some might improperly read the exemption as being broad enough to permit the “hack” 
+of Blu-ray or DVD player software.  The software that plays back a DVD or Blu-ray disc is a 
+computer program, whether included in a stand-alone consumer electronics product or provided
+
+[PAGE 5]
+ 
+ 5 
+as an application running on a consumer computer.  To be clear, DVD CCA and AACS LA do 
+not believe the exemption applies to computer programs designed to control access to 
+audiovisual works, as opposed to computer programs.  But given the arguments made 
+unsuccessfully in the past by those defendants seeking to justify hacking of CSS, as highlighted 
+below, it would not be surprising to see some argue that the the plain language of the exemption 
+should be read to include such products even though there is no record evidence supporting this 
+interpretation or indicating that the Librarian intended an additional exemption for the 
+circumvention of CSS or AACS.  Consequently, DVD CCA and AACS LA strongly object to 
+this specific exemption becoming a statutory exemption. 
+b.  The exemption for security testing under section 1201(j) is limited to activities 
+undertaken ‘‘with the authorization of the owner or operator of [the] computer, computer system, 
+or computer network.’’22 In the 2015 rulemaking, the Register noted that in some cases ‘‘it may 
+be difficult to identify the relevant owner’’ for purposes of this requirement and that ‘‘it may not 
+be feasible to obtain authorization even where there is an identifiable owner.’’23  Echoing those 
+concerns, one group of commenters argued that the authorization requirement should be 
+eliminated, while another urged Congress to provide greater clarity in situations involving 
+multiple owners. Please assess whether legislation may be appropriate in this area and discuss 
+any specific legislative proposals that you believe should be considered. 
+ 
+c. Section 1201(j) provides a two factor framework to determine whether a person 
+qualifies for the security testing exemption.24 In the 2015 rulemaking, the Register noted that 
+these factors ‘‘would appear to be of uncertain application to at least some’’ security research 
+activities.25 Some commenters advocated the removal of one or both of these factors from the 
+statute.26 Please assess the advisability of such changes, or discuss any other specific legislative 
+proposals you believe should be considered. 
+ 
+d. The exemption for encryption research in section 1201(g) is similarly limited to 
+activities qualifying under a four-factor framework that includes making ‘‘a good faith effort to 
+obtain authorization’’ before the circumvention.27 In the 2015 rulemaking, the Register noted 
+that meeting these requirements ‘‘may not always be feasible’’ for researchers.28 Please assess 
+whether legislation may be appropriate in this area and discuss any specific legislative proposals 
+that you believe should be considered. 
+ 
+e. Section 1201(f) permits circumvention for the ‘‘sole purpose’’ of identifying and 
+analyzing elements of computer programs necessary to achieve interoperability.29 In the 2015 
+rulemaking, the Register noted that ‘‘section 1201(f)(1) is limited to circumvention solely for the 
+identification and analysis of program elements necessary for interoperability, and does not
+
+[PAGE 6]
+ 
+ 6 
+address circumvention after that analysis has been performed.’’30 Please assess whether 
+legislation may be appropriate in this area and discuss any specific legislative proposals that you 
+believe should be considered. 
+RESPONSE TO PARAGRAPHS B, C, D, AND E 
+DVD CCA and AACS LA object to relaxing any of the requirements for these statutory 
+exemptions.  DVD CCA was involved in the first action under the DMCA against defendants, 
+who claimed that their circumvention was intended to permit “security research,” “security 
+testing,” “encryption research,” and “interoperability,” whereas their actual intent was to provide 
+a circumvention tool for mass use to defeat the technology, not to actually do the exempted 
+activities.  See Universal City Studios, Inc. v. Reimerdes, 111 F. Supp.2d 294, 319 (S.D.N.Y. 
+2000).  In that case, the defendants’ efforts to claim application of these exemptions were 
+rebuffed, see Reimerdes, 111 F. Supp.2d. at 321-22, but under the proposed revisions that might 
+not have been the case.  In our view, the statutory requirements have made it actually easier for 
+courts to resolve such arguments.  See id. at 321-22.  DVD CCA and AACS LA also remain 
+open to the possibility of licensing any reasonable non-infringing use such as security research, 
+security testing, encryption research, and interoperability.  Consequently, there is no reason to 
+relax these requirements.   
+3.  Anti-Trafficking Provisions 
+The Office is interested in receiving additional views on this topic, and specifically invites 
+comment on the following issues: 
+a. A few parties argued that section 1201 contains an implied right permitting a 
+beneficiary of a statutory or administrative exemption to make a tool for his or her own use in 
+engaging in the permitted circumvention. What are commenters' views regarding this 
+interpretation of the statute? To what extent, if any, does the statutory prohibition on the 
+“manufacture” of circumvention tools affect the analysis? [31] If such a right is not currently 
+implied, or the question is uncertain, should Congress consider amending the statute to expressly 
+permit such activity, while maintaining the prohibition against trafficking in such tools?
+
+[PAGE 7]
+ 
+ 7 
+RESPONSE 
+DVD CCA and AACS LA are unaware of any case or incident where this question has actually 
+been disputed or where a potential user of an exemption has been unable to obtain the tool he or she 
+needed, at least insofar as exemptions applicable to CSS and AACS technologies are concerned.   
+On the other hand, as DVD CCA and AACS LA explained in our earlier comments, the anti-
+trafficking prohibitions have been crucial to the efforts to create a stable market for the distribution of 
+copyrighted movies on DVDs and Blu-ray discs.  Enforcement efforts rely on the statutory prohibitions to 
+counter those parties who would otherwise enable large scale circumvention for non-exempted uses, 
+including those parties who would manufacture a circumvention product for the broader marketplace, 
+such as 321 Studios and DVDFab, and those parties who would traffic in circumvention tools, such as 
+DeCSS.  Thus, the existing language of the statute is wholly consistent with the real-world experience of 
+DVD CCA and AACS LA in enforcing the anti-trafficking prohibitions.  Put another way, the concerns 
+raised by the instant question are meritless, and any proposal would be a solution looking for a problem. 
+Finally, DVD CCA and AACS LA have previously objected to any legislation because any 
+potential benefit is not worth the risk of altering the framework that supports the digital marketplace.  The 
+concern is that a maker of a circumvention tool or device would claim that the purpose of its tool was to 
+support users of an exemption, complicating the ability of DVD CCA, AACS LA or other proprietors of a 
+technological protection measure, or holders of copyrights protected by a technological protection 
+measure, to block circumvention tools and devices in legal actions. 
+b. Some parties suggested that, in certain circumstances, third-party assistance may 
+fall outside the scope of the anti-trafficking provisions and therefore may be permissible under 
+current law. What are commenters' views regarding this interpretation of the statute? Are there 
+forms of third-party assistance that do not qualify as a “service” within the meaning of sections 
+1201(a)(2) and 1201(b)(1)? If so, what considerations are relevant to this analysis?
+
+[PAGE 8]
+ 
+ 8 
+RESPONSE  
+The pressure to enable third party assistance stems from the expansion of section 1201 
+into areas beyond the copyright industries.  See, e.g., 1201 Rulemaking, Recommendation at 247 
+(2015) (“[S]ome consumers may find it challenging to circumvent TPMs protecting the computer 
+programs that control the functioning of their vehicles themselves.”).  DVD CCA and AACS LA 
+remain concerned that in attempting to address such a concern, the Librarian (or Congress if the 
+change is made legislatively) should not “throw the baby out with the bath water,” or in this case, 
+undermine the basic protections for core copyright interests. 
+In relation to the exemptions related to core copyrighted works, the Librarian has 
+occasionally addressed a similar issue, but in each case in a narrow and focused manner.  For 
+example, the education exemptions have permitted audio visual or library staff to perform the 
+circumvention even though they would do so on behalf of the professors or classroom teachers 
+(i.e., on behalf of another).  While this example granted third party assistance relief from section 
+1201(a), the prohibitions under section 1201(a)(2) and 1201(b) remained in place and more 
+importantly, if the activity conducted under the auspices of the exemption proved to be 
+intolerable, then copyright owners could still avail themselves of the anti-trafficking provisions 
+to mitigate against any resulting harm.  To date, because these exemptions were narrowly 
+tailored to facilitate a specific non-infringing use, including who would be qualified to provide 
+circumvention assistance, the rulemaking has served as a fail-safe without removing the 
+underpinnings of the digital marketplace.   
+Finally, (and also potentially relevant to the prior question in paragraph a)., both DVD 
+CCA and AACS LA have stated their willingness to work with the relevant parties to license 
+specific tools to facilitate exemptions that the Librarian has granted (or to include such licensed 
+tools in the context of the actual grant of an exemption).  Licensed tools could be accommodated
+
+[PAGE 9]
+ 
+ 9 
+in the same way that exemptions for screen capture technology were included in some of the 
+audiovisual-related exemptions, permitting the use of technology in the marketplace to facilitate 
+the act of circumvention to the extent that there is a concern that the facilitating technology is 
+itself circumventing.  Similarly, even if the rulemaking is unable to accommodate the requisite 
+third party assistance, DVD CCA and AACS LA could issue a license permitting third parties to 
+provide circumvention assistance so long as that assistance is reasonable.  
+Date: October 27, 2016 
+ Respectfully submitted,  
+ 
+ 
+ /s/ Bruce H. Turnbull    
+ Bruce H. Turnbull 
+ Turnbull Law Firm PLLC 
+ 5335 Wisconsin, Avenue, NW STE 440 
+ Washington, DC 20015 
+ 202-274-1801 
+ turnbull@bhtlawfirm.com 
+  
+ /s/ David J. Taylor    
+ David Jonathan Taylor 
+ Right Size Law PLLC 
+ 621 G ST SE 
+ Washington, DC 20003 
+ 202-546-1536 
+ david.taylor@rightsizelaw.com

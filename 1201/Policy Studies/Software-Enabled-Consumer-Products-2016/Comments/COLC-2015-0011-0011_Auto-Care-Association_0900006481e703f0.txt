@@ -1,0 +1,505 @@
+[PAGE 1]
+1 
+ 
+Auto Care Association 
+7101 Wisconsin Ave., Suite 1300 
+Bethesda, MD 20814 
+Submitted by:  Aaron Lowe, Senior Vice President, Regulatory and Government Affairs 
+ 
+Before the  
+United States Copyright Office, Library of Congress 
+Washington, D.C. 
+ 
+In the Matter of    ) 
+Software-Enabled Consumer Products  ) Docket No. 2015-16 
+Study: Notice of Inquiry and    ) 
+Request for Public Comment    ) 
+ 
+Comments of Auto Care Association 
+Auto Care Association (“Auto Care”) is a national trade organization of 2,000 members 
+representing more than 150,000 independent businesses that manufacture, distribute, and sell 
+motor vehicle parts, accessories, tools, equipment, materials, and supplies, and perform vehicle 
+service and repair.  The subject of this inquiry – assertions of copyright over software embedded 
+in consumer products that controls the operation of those products – affects daily our members 
+and the consumers they serve by making motor vehicle repair more expensive and legally risky.  
+Physical parts can be customized, repaired, and replaced under clear patent law principles; there 
+is no reason why a manufacturer’s choice to replace physical parts with copyrighted software 
+should change that result.    
+ 
+Current copyright law, properly interpreted, achieves this result.  Yet, the need for 
+interpretation of copyright defenses and doctrines, and the absence of clear statutory direction, 
+creates unnecessary risk for manufacturers, servicers, and consumers that their otherwise-lawful 
+actions will lead to litigation.  The expense and disruption of litigation, and the risk of crippling 
+statutory damages for copyright infringement, chills innovation and reduces competition for 
+service and parts.  As a result, original equipment manufacturers and dealerships can exact 
+supracompetitive prices for parts and service; whereas aftermarket competitors, fearing 
+infringement allegations, must incur added risks, costs, and delays before bringing new and 
+competing products and services to market. 
+ 
+Auto Care therefore welcomes this study to clarify a set of consistent legal principles for 
+embedded software that controls the function of physical equipment:   
+ 
+First, copyright law should expressly permit lawful repair of products whose physical 
+operation relies on software, regardless of whether the software must be altered or
+
+[PAGE 2]
+2 
+ 
+reproduced for such repairs to occur.  Copyright should not diminish the right to repair 
+granted under patent law. 
+ 
+Second, copyright law should acknowledge and accommodate fair uses and 
+noninfringing uses of such embedded software, including reproduction and decompilation 
+for lawful purposes such as facilitating interoperability, accessing or altering 
+noncopyrighted elements in the software, developing replacement software, and 
+customizing product performance.  
+ 
+Third, federal copyright law should treat parts that incorporate such embedded software 
+as a unitary object for purposes of the first sale and maintenance provisions of Sections 
+109 and 117 respectively.  Where a product is sold to the consumer, the copy of 
+embedded software that operates the product’s parts also should be deemed to have been 
+sold.   
+ 
+Finally, the transfer of a single copy of software from one physical part to another should 
+be treated as noninfringement under the first sale doctrine—just as patent law permits the 
+re-use of parts (and the re-use of parts of parts in other parts) as lawful repair.  
+ 
+The Automotive Parts and Repair Industry, and the Ubiquity of Embedded Software 
+ 
+The independent aftermarket industry employs more than 4,300,000 people in the United 
+States.  Nearly $341 billion dollars was spent on motor vehicle care in the United States in 2015, 
+or more than 1.9 percent of the U.S. gross domestic product. Following expiration of a new car 
+warranty, over 70 percent of car owners who patronize auto repair shops rely on independent 
+repair shops over new car dealers. Approximately 20 percent of American consumers buy 
+automotive parts and products to maintain, repair, and customize their own vehicles.  
+ 
+The right to repair motor vehicles has attained greater importance over the last decade. A 
+steady trend shows American consumers and businesses are keeping their cars and trucks in 
+service longer. On average, new car buyers in 2015 keep their vehicles for 6.5 years, and used 
+car buyers keep those cars on the road for 5.3 more years – a total of more than 11-1/2 years, and 
+more than 4 years longer than the average in 2006.1 As cars advance in age, so does the need for 
+consumers and businesses to repair and replacement vehicle parts. Studies confirm that 
+                                                            
+1  News Release, IHS, “Average Age of Light Ve hicles in the U.S. Rises Slightly in 2015 to 
+11.5 years,”  July 29, 2015, http://press.ihs.com/press-release/automotive/average-age-light-
+vehicles-us-rises-slightly-2015-115-years-ihs-reports; Phil LeBeau, “Americans holding onto 
+their cars longer than ever,” CNBC (July 29, 2015) http://www.cnbc.com/2015/07/28/americans-
+holding-onto-their-cars-longer-than-ever.html
+
+[PAGE 3]
+3 
+ 
+consumers prefer to obtain parts and service from independent businesses rather than 
+dealerships—benefitting from reduced costs,  greater convenience, and higher consumer 
+satisfaction from local repair shops and neighborhood mechanics.2   
+ 
+Vehicle repair by Auto Care members also contributes to a cleaner environment.  Repair 
+and customization improves vehicle performance and efficiency, increases gas mileage and 
+reduces energy consumption, and lowers emissions. Repair of motor vehicles using rebuilt 
+automotive parts typically re-uses 88 percent of the raw material from the original parts, and 
+rebuilding engines saves 50 percent of the energy required to produce a new engine. 
+ 
+Consumers have the right to repair their motor vehicles. Cleaning, repairing, and 
+refurbishing parts, or replacing worn or broken parts, historically has been considered 
+permissible repair, not infringing reconstruction, under patent law. When repairing motor 
+vehicles, a servicer may replace a broken part, or repair or rebuild the consumer’s existing part. 
+Where replacement parts are needed, the servicer (and consumer) often may have a choice of 
+new original equipment manufacturer (OEM) parts, new parts from an independent producer, or 
+rebuilt parts from either the OEM or an independent.  In many cases, a used part removed from a 
+vehicle may be refurbished or rebuilt and used to repair other vehicles.  For example, replacing 
+one vehicle’s engine or transmission with parts taken from other vehicles has always been 
+accepted as lawful as well as economically and ecologically beneficial. 
+ 
+As parts increasingly incorporate computer software, functions that used to be performed 
+by hardware components now are controlled by software embedded in those parts or centralized 
+in an electronic control unit (“ECU”).  Today’s engines, transmissions, oxygen sensors, 
+ignitions, brakes, emissions systems, electric windows, air blowers, air bags, and even 
+windshield wipers are just a few of the systems in which manufacturers have replaced purely 
+electro-mechanical parts with microprocessors and software controls. The function of these parts 
+is the same regardless of whether implemented in hardware or software. Logically, the law 
+applicable to software-controlled parts should be the same as for hardware—repairing, 
+refurbishing, modifying, adjusting, or replacing software that functions as a part in a motor 
+vehicle should be treated no differently than a brake caliper or a universal joint.  
+ 
+Specifically, Auto Care submits that the Copyright Office should affirm that, under 
+copyright law as under patent law: 
+ 
+ Where a vehicle is sold to a consumer, the consumer owns the vehicle and its 
+parts, including the copy of any embedded software.   
+                                                            
+2  “Independent vs. dealer shops for car repair,” Consumer Reports, Jan. 22, 2015, 
+http://www.consumerreports.org/cro/magazine/2015/03/best-places-to-get-your-car-
+repaired/index.htm
+
+[PAGE 4]
+4 
+ 
+ 
+ Where the parts require adjustment to function at maximum efficacy and 
+efficiency, the servicer or consumer has the right to change the software 
+parameters or code, or to change out the software itself.   
+ 
+ Where servicers or consumers need to understand the workings of a part for 
+purposes of repair, customization, or interoperability, they have the right to copy 
+or decompile the software in that part.   
+ 
+ Where a part is disassembled, whether for purposes of repairing that part or 
+rebuilding another part, the servicer or consumer has the right to transfer the copy 
+of the software in that part to another medium and to re-install that software either 
+in that same part or in another working part.    
+ 
+Responses to Copyright Office Questions 
+ Auto Care comments below on questions  posed by the Copyright Office Notice, 
+according to the topics identified in the letter from Senators Grassley and Leahy.  The focus of 
+these responses reflects primarily the role of repair services as users of copyrighted software.3  
+However, Auto Care members include businesses that develop their own software for motor 
+vehicles, for example as a replacement for or as enhancements to OEM software.     
+ 
+1. The provisions of the copyright law that are implicated by the ubiquity of 
+copyrighted software in everyday products;  
+From the user perspective, the most relevant sections are: 
+Section 102—which delineates the extent to which elements of software may not 
+be protectable by copyright, by excluding from protection facts, ideas, procedures, 
+processes, systems, methods of operation, concepts, principles, or discoveries.  As 
+pertinent to software, these would include numerical parameters governing the 
+performance of automobile parts; code expression that is constrained by externalities, 
+such as the hardware and software language platforms that run the software; and security 
+codes used to lock out competitors.  See, e.g., Lexmark Int’l Inc. v. Static Control 
+Components, Inc., 387 F.3d 522, 534-536 (6th Cir. 2004); Gates Rubber Co. v. Bando 
+Chem. Indus., Ltd., 9 F.3d 823, 838 (10th Cir. 1993); Computer Assocs. Int’l, Inc. v. 
+Altai, Inc., 982 F.2d 693 (2d Cir. 1992). 
+                                                            
+3   Auto Care and its members remain concerned at the misuse of Section 1201 by 
+automakers that apply technological measures as a means to prohibit competition for the sale of 
+motor vehicle parts.  Auto Care will address those issues separately in response to the Copyright 
+Office’s notice initiating its study of Section 1201.
+
+[PAGE 5]
+5 
+ 
+Section 107—which ensures that certain uses of copyrighted software remain 
+noninfringing fair uses. These may include, for example, reproduction and decompilation 
+to access the underlying code for purposes of analyzing its operation, accessing and 
+altering noncopyrightable elements, and developing interoperable products. See Sony 
+Computer Entm’t, Inc. v. Connectix Corp., 203 F.3d 596, 603 (9th Cir. 2000); Sega 
+Enters., Ltd. v. Accolade, Inc., 977 F.2d 1510 (9th Cir. 1992). 
+Section 109—which extends th e doctrine of exhaustion or “first sale” to the type 
+of computer programs ordinarily embedded in motor vehicles. 
+Section 117—which permits the copying of so ftware as an essential step in using 
+a machine, and the adaptation of software for purposes of maintenance or repair and 
+archiving.  
+Notwithstanding the legal and logical underpinnings of these principles, independent 
+vehicle parts manufacturers and servicers have been sued and threatened with suit for copyright 
+infringement merely for engaging in repairs of software-controlled parts that would have been 
+permissible repair under patent law.  Copyright should not be misused as leverage to control or 
+restrain competition in markets for non-copyrightable parts and services.4  The application of 
+copyright statutes, doctrines, and limitations on rights should be clarified to specifically 
+immunize activities inherent to otherwise lawful motor vehicle maintenance and repair where the 
+embedded computer program controls the operation of a motor vehicle or its constituent parts. 
+2. Whether, and to what extent, the design, distribution, and legitimate uses of 
+products are being enabled and/or frustrated by the application of existing 
+copyright law to software in everyday products;  
+Legal certainty provides the incentives needed as the springboard for investment and 
+innovation. Uncertainty over copyright law and its consequent legal risks unfairly advantages 
+incumbents over competitors. In the case of software-controlled vehicle parts, gray areas of 
+copyright law have been exploited by copyright owners to stymie competition in the market for 
+non-copyrightable parts and service.  
+Although consumers prefer to patronize local independent car services, and to acquire 
+less expensive replacement parts for their vehicles, independents face steep challenges trying to 
+compete against original equipment manufacturers and dealerships. Using embedded software 
+code as the equivalent of a physical part gives additional inherent advantages to OEMs and 
+dealers. Cars are more difficult to service without access to the software (or to a diagnostic tool 
+                                                            
+4  See Omega, S.A. v. Costco Wholesale Corp., CV 04-05443 TJH, 2011 WL 8492716 (E.D. 
+Cal. Nov. 9, 2011) (application of copyrighted image to wristwatch solely to prevent importation 
+was misuse), aff’d, Omega, SA v. Costco Wholesale Corp., 776 F.3d 692, 696-706 (9th Cir. 
+2015) (Wardlaw, J. concurring).
+
+[PAGE 6]
+6 
+ 
+provided by the OEM to dealers). Consequently, the need to acquire or to develop interoperable 
+tools extends dealers’ time-to-market advantage and increases costs for independents and 
+consumers.   
+Saddling independents with the threat of copyright litigation or liability further 
+exacerbates the risks to independents, and complicates the calculus of whether or when an 
+independent should invest in competitive products and services.  If copyright infringement 
+liability is found, actual or statutory damages could inflict fatal damage to the present and future 
+prospects of a company’s product, or of the company itself.   
+Independent competitors have long and deep experience with patent law, and the lines 
+between permissible repair and infringing reconstruction are well drawn in precedent.  The same 
+cannot be said for copyright as applied to software embedded in car parts. Consequently, even 
+where companies consult copyright counsel and read pertinent case law, they still may be left 
+without a sufficiently definitive answer. In the interim, our members read in the press OEMs’ 
+extravagant claims that the first sale doctrine cannot apply because consumers merely “license” 
+and do not own the copy of the software embedded in vehicle parts. And, they are aware that 
+other independent companies that have dared to compete have been sued for attempting to repair 
+cars without a license from the manufacturer, or for attempting to sell replacement parts. As a 
+result, Auto Care is concerned that their efforts to compete in these consumer markets will be 
+thwarted by such overbroad assertions of copyright.   
+Finally, our members report that new software-based schemes are being deployed by 
+original equipment manufacturers, in a cat and mouse game specifically intended to lock-out 
+competition. For example, manufacturers tie the copy of the software installed in a car’s parts to 
+the Vehicle Identification Number (VIN). As a result, a part removed from one vehicle for 
+refurbishment cannot be used in another car of the same model. Similarly, some car 
+manufacturers embed software in car parts whose primary or sole purpose is to authenticate with 
+the car’s ECU module so as to “verify” that any replacement part has been installed by an 
+“authorized” servicer and is a “genuine” part made by the manufacturer.  Because these tactics 
+are deployed in copyrighted software, our members report serious concerns that any effort to 
+alter the software will expose them to suits for infringement (as well as the potential threat of 
+suits under Section 1201). 
+3. Whether, and to what extent, innovative services are being enabled and/or 
+frustrated by the application of existing copyright law to software in everyday 
+products;  
+The concerns expressed in response to Question 2 apply equally to vehicle maintenance, 
+customization, and repair services. These services need to access, alter, or replace the software in 
+motor vehicle parts in order to provide consumer services for vehicle hardware. Any uncertainty 
+over the right under copyright law of services to engage in these activities—which constitute
+
+[PAGE 7]
+7 
+ 
+lawful repair under patent law—should be el iminated and clarified by the Copyright Office 
+study. 
+4. Whether, and to what extent, legitimate interests or business models for 
+copyright owners and users could be undermined or improved by changes to 
+the copyright law in this area;  
+ One suggestion to rectify the chilling effect s of excessive assertions of copyright would 
+be to clarify the application of Sections 109 and 117 in circumstances where embedded software 
+controls the operations of products. As the Copyright Office learned during the most recent 
+Section 1201 triennial review, motor vehicle companies take the position that a vehicle owner 
+does not own the copy of any software in the vehicle parts.5 Section 109(b)(2)(B)(i) goes 
+partway by providing an exception to an exception to the first sale doctrine, thus allowing the 
+assertion of the first sale exemption to the owner of a copy of embedded software. Similarly, 
+Section 117 privileges the use software in the course of maintenance and repair, but only for the 
+owner of the copy.  
+ To be sure, the activities of independent services and parts manufacturers are exempt 
+from liability under the principles of fair use. However, the determination of privileges under 
+Sections 109 and 117 are black-and-white inquiries compared to the gray of fair use. The market 
+therefore would benefit from clarifying that the owner of the motor vehicle is also the owner of 
+the copy of any embodied software that controls the operation of the motor vehicle—thus 
+specifically invoking the users’ rights and privileges under Sections 109 and 117 and 
+immunizing independent businesses from manufacturer overreach.  
+5.  Key issues in how the copyright law intersects with other areas of law in 
+establishing how products that rely on software to function can be lawfully 
+used.  
+                                                            
+5  See, e.g., Comments of John Deere in Proposed Exemption Class 21, at 5:  “A vehicle 
+owner does not acquire copyrights for software in the vehicle, and cannot properly be considered 
+an ‘owner’ of the vehicle software”; Comments of General Motors in Proposed Exemption Class 
+21, at 10-12. While these comments ignore the distinction between the owner of the software and 
+the owner of a copy of the software, the clear intention behind the comments is to deny the 
+applicability of the first sale doctrine to any purchaser of a motor vehicle. The press immediately 
+understood the impact of these arguments, and took these companies to task.  See “Brave New 
+Tractor: John Deere And General Motors Pretty Sure They Own All Your Stuff,” 
+http://wonkette.com/583917/brave-new-tractor-john-deere-and-general-motors-pretty-sure-you-
+dont-own-your-stuff#fweCZLCTDyb7ICxz.99 (Apr. 27, 2015); Mike Masnick, “GM Says That 
+While You May Own Your Car, It Owns The Software In It, Thanks To Copyright,” Techdirt 
+(Apr. 23, 2015), https://www.techdirt.com/articles/20150421/23581430744/gm-says-that-while-
+you-may-own-your-car-it-owns-software-it-thanks-to-copyright.shtml
+
+[PAGE 8]
+8 
+ 
+The primary concern of independent motor vehicle parts manufacturers and servicers is 
+the uncertainty of copyright law versus the dependability of legal analysis under patent law. The 
+distinction between repair and reconstruction under patent law is well defined: Repair or 
+replacement of worn-out, damaged, or destroyed parts merely extends the life of a product that 
+the purchaser has the right to use; making the article anew constitutes infringement.6 The 
+outcome of the copyright law analysis where physical parts are controlled by software should be 
+equally discernible to these businesses. As Justice Black observed in his concurrence in Aro, 
+small repair and service businesses such as those represented by Auto Care need bright line rules 
+to avoid the “disastrous or even lethal consequences” of infringement suits:   
+[B]usinessmen are certainly entitled to know when they are committing an 
+infringement. … But to what avail these congressional precautions if this Court, 
+by its opinions, would subject small businessmen to the devastating uncertainties 
+of nebulous and permissive standards of infringement under which courts could 
+impose treble damages upon them for making parts, distinct, separable, minor 
+parts, or even major parts of a combination patent, upon which parts no patent has 
+been or legally could have been issued.7 
+ Auto Care therefore urges the Copyright O ffice in its Study to develop these principles 
+into clear guidance. To further assist the Office, we address below the specific issues in the 
+Notice: 
+1. Whether copyright law should distinguish between software embedded in ‘‘everyday 
+products’’ and other types of software, and, if so, how such a distinction might be drawn in an 
+administrable manner.  
+a. Whether ‘‘everyday products’’ can be distinguished from other products that 
+contain software, such as general purpose computers—essentia lly how to define 
+‘‘everyday products.’’ 
+ b. If distinguishing between software embedded in ‘‘everyday products’’ and 
+other types of software is impracticable, whether there are alternative ways the Office can 
+distinguish between categories of software.  
+Response:  The definition depends more on the function of the software than the nature of the 
+product. A bright line distinction can be drawn for software that controls the physical operation 
+                                                            
+6  See Aro Mf’g Co., Inc. v. Convertible Top Replacement Co., Inc., 365 U.S. 336, 342-343 
+(1961) replacement fabric convertible tops); Dana Corp. v. American Precision Co., 827 F.2d 
+755 (Fed. Cir. 1987) (rebuilding automobile clutches using new parts and used parts from many 
+disassembled worn clutches held permissible repair).   
+ 
+7   Id., 365 U.S. at 358-359.
+
+[PAGE 9]
+9 
+ 
+of a product.8 Typically, software in motor vehicles is found either in electronic control units (for 
+larger systems such as the engine or transmission), or in discrete microprocessor units collocated 
+with physical and electromechanical controls. Because such embedded software only controls the 
+operation of a motor vehicle system or part, it is inseparable and indistinguishable from the 
+systems and parts themselves.   
+2. The rationale and proper scope of copyright protection for software embedded in 
+everyday products, including the extent to which copyright infringement is a concern with 
+respect to such software.  
+Response: As an initial consideration, many elem ents of embedded software, and some 
+embedded software routines in their entirety, may not be protectable by copyright. Because the 
+software controls physical part operations and has to operate within a specific hardware and 
+system environment, the expression in the software code will be highly constrained. For 
+example, some routines are short implementations of mathematical equations and data upon 
+which the operations are performed, and may not meet the bare requisites of originality and 
+authorship. 
+Where such embedded software does meet the test for copyrightability, the scope of 
+protection should be limited. To preserve the right to repair, maintain, and customize the 
+function and performance of the physical products, businesses must be free to access, analyze, 
+and alter the software for that product. Copyright therefore should not preclude the ability to 
+engage in those activities for a particular product, regardless if it is necessary to reproduce or 
+create a derivative work for that particular product. Similarly, copyright law should not preclude 
+creation of a replacement software program that does not literally copy copyright-protectable 
+code.  
+3. The need to enable interoperability with software-embedded devices, including 
+specific examples of ways in which the law frustrates or enables such interoperability.  
+Response:  Businesses have always had the right to sell motor vehicle parts that improve the 
+performance of the original equipment. Historically, for example, consumers have 
+“turbocharged” their vehicles, or updated vehicles with better engines, transmissions, safety 
+features, and emission systems. Auto Care believes that such interoperability is lawful, and is not 
+frustrated by copyright law when correctly applied. That said, investment in developing 
+interoperable software and parts has been chilled by overreaching legal claims, in lawsuits as 
+well as in the press, by original equipment vendors. And Auto Care expects, although companies 
+will not make such information known either to the public or to Auto Care, that companies have 
+withheld or canceled plans to introduce products and services to the public for fear of the 
+                                                            
+8     As an analogy, software that controls the rotation speed or the recording heads of a 
+personal computer’s hard disk drive can readily be distinguished from the audio, audiovisual 
+works, photographic, graphical, or software and other literary works recorded on the drive.
+
+[PAGE 10]
+10 
+ 
+expense, disruption, and risk of copyright litigation that they believed to be unfounded.9  Clarity 
+in the law, and greater availability of attorney fees to successful defendants in copyright cases, 
+will therefore provide greater incentives for investment and innovation by independent 
+manufacturers and services. 
+4. Whether current limitations on and exceptions to copyright protection adequately 
+address issues concerning software embedded in everyday products, or whether amendments or 
+clarifications would be useful. Specific areas of interest include:  
+a-c. The idea/expression dichotomy (codified in 17 U.S.C. §102(b)); merger 
+doctrine; and scenes a faire doctrine  
+Response:  Auto Care believes that these statutory and analytical doctrines have been properly 
+applied in past cases to software used to control the operation of products. The cases cited by the 
+Copyright Office Notice, particularly Lexmark v. Static Control Components, and Computer 
+Assoc. v. Altai, have explained how these doctrines constrain the originality of software.10 Such 
+software must conform to the computer language and system requirements of parts in the 
+vehicle, must run on a specific hardware platform, and must meet size and programming 
+requirements for storage and operation in the microprocessor. Typically, the code reflects little if 
+any creativity. It merely uses mathematical equations designed to manipulate and operate 
+physical equipment, in order to produce optimal performance specifications for the physical parts 
+or systems. Thus, these doctrines remain highly pertinent to the evaluation of copyrightability of 
+embedded software, and to the extent to which copying of elements (or all) of embedded 
+software code is noninfringing.   
+                                                            
+9   Auto Care moreover notes that companies have little motivation to challenge overreaching 
+claims of original equipment manufacturers, where the cost of litigating novel or difficult 
+copyright principles could eclipse the successful defendant’s potential profits from offering the 
+products or services.  See Assessment Technologies of WI, LLC v. Wiredata, 361 F.3d 434, 437 
+(7th Cir. 2004) (“When the prevailing party is the defendant, who by definition receives not a 
+small award but no award, the presumption in favor of awarding fees is very strong”). Auto Care 
+submits that the Copyright Office should take these considerations into account in connection 
+with the position of the United States in Kirtsaeng v. John Wiley & Sons, Inc., No. 15-375, on 
+certiorari to the Supreme Court.  
+ 
+10    The Sixth Circuit in Lexmark also correctly determined that these doctrines should be 
+applied to the analysis of embedded software as limits on copyrightability rather than as defenses 
+to infringement. 387 F.3d at 535-536. Hardware and system constraints, and security and 
+authentication measures applied by the OEM, compel code to be written in specific ways that 
+permit the parts to function within the automotive system as a whole. While it may be 
+appropriate to apply these doctrines to weigh noninfringement in cases based on substantial 
+similarity, the doctrines are only pertinent to copyrightability of the original embedded software 
+code where literal copying is necessary to enable operability and/or interoperability of parts.
+
+[PAGE 11]
+11 
+ 
+d. Fair use (codified in 17 U.S.C. §107)  
+Response:  Fair use remains a fundamental principle for independent businesses that make 
+compatible replacement software or interoperable software enhancements, or that seek to repair 
+motor vehicle parts using software. As in Sega and Connectix, competitors must have access to 
+the software code to create compatible software for or to perform maintenance on replacement 
+parts, and must make copies of the code and decompile it in order to offer competing products 
+and services. Fair use also can assure that the scope of repair under patent law is not diminished 
+by copyright law, and can fill gaps where the existing copyright statutory framework provides no 
+explicit guidance. For example, just as a repair shop can take physical parts from one car to put 
+them in another, fair use can protect transferring the copy of a program from one part to another; 
+or can protect adjustment of software parameters or code to improve a part’s performance, in the 
+same way that repair shops adjust and customize the performance of physical parts.   
+e. The first-sale doctrine (codified in 17 U.S.C. §109)  
+Response:  The first-sale doctrine as codified does not explicitly reflect the realities of the market 
+for embedded software that controls the operation of motor vehicle parts. As suggested above, 
+the Study should clarify that the owner of the physical object also owns the copy of any 
+embedded software—such that a sale of a product or  part should also be deemed to encompass a 
+sale of the copy of software used to control the part or product’s physical operation.  As so 
+clarified, the Study would eliminate legal uncertainty and reduce threats of unjustified litigation 
+by assuring uniform application of the first sale doctrine to embedded software.   
+f. Statutory limitations on exclusive rights in computer programs (codified in 17 
+U.S.C. §117)  
+Response:  Auto Care believes that, properly interpreted, the current limitations on copyright in 
+the software maintenance provisions of Section 117 should adequately protect most repair and 
+maintenance activities engaged in by independent services. Any additional maintenance 
+activities can be addressed as a matter of fair use, to assure that the scope of lawful repair for 
+products with embedded software is the same under copyright law as under patent law. 
+5. The state of contract law vis-a-vis software embedded in everyday products, 
+and how contracts such as end user license agreements impact investment in 
+and the dissemination and use of everyday products, including whether any 
+legislative action in this area is needed.  
+Response:  The Copyright Office Study should clarify that sale of a product or part whose 
+operation is controlled by embedded software constitutes a sale of the copy of the embedded 
+software. Comments submitted in the most recent Section 1201 triennial review by and on behalf 
+of original motor vehicle equipment manufacturers suggest they compel consumers to accept 
+“licenses” for embedded software in order to use the vehicle they already have purchased. Where
+
+[PAGE 12]
+12 
+ 
+the software is integral to the physical operation of parts or systems of motor vehicles, 
+manufacturers should be preempted from imposing copyright-based license restrictions on the 
+right to use and repair products that the consumer owns. In many circumstances, these licenses 
+could constitute copyright misuse, inasmuch as copyright protection is being used as leverage to 
+stifle competition in markets for non-copyrightable goods and services. Thus, clarifying that the 
+purchaser of the vehicle owns the copy of the embedded software will promote competition and 
+consumer rights in a manner fully consistent with the promotion and purposes of copyright law. 
+6. Any additional relevant issues not raised above. 
+Response:  As noted above, Auto Care is deeply concerned about the application of technological 
+protection measures in vehicle systems, to stymie competition for parts and service rather than to 
+protect copyrighted works.  Auto Care separately will address these comments to the Copyright 
+Office in the parallel Section 1201 study proceeding. 
+ Auto Care wishes to bring to the atten tion of the Copyright Office another concern 
+relating to the scope of exhaustion applicable to copyright.  On February 12, 2016, the U.S. 
+Court of Appeals for the Federal Circuit held en banc that a patent owner who made an 
+authorized sale of a patented product could preclude patent exhaustion by means of a “single use 
+only” legend.  Lexmark Int’l Inc. v. Impression Prods. Inc., No. 14-1617.  The United States as 
+amicus in that case took the opposite view: the authorized sale of the product exhausted the 
+patentee’s rights against the repair and maintenance of the product, and any such contract-based 
+restriction on the post-sale uses of the product were enforceable, if at all, under contract law and 
+not under patent law. Auto Care urges the Copyright Office to continue to apply the principles 
+reflected in the United States amicus under copyright law. Any contract-based restrictions on the 
+post-sale use of embedded software cannot and should not be enforceable under copyright law.  
+ 
+ Auto Care thanks the Copyright Office fo r conducting this Study.  We look forward to 
+continuing our participation in this proceeding.  Should the Office have any questions, please 
+feel free to contact us at your convenience. 
+Respectfully submitted,  
+/s/ Aaron Lowe 
+Senior Vice President, Regulatory and Government Affairs 
+Auto Care Association 
+7101 Wisconsin Ave., Suite 1300 
+Bethesda, MD 20814 
+301-654-6664, ext. 1021 
+www.autocare.org

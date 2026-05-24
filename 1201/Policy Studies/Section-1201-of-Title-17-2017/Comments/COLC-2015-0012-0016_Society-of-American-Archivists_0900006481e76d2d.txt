@@ -1,0 +1,230 @@
+[PAGE 1]
+ 
+Comments on Section 1201 Study Page 1 of 6 Society of American Archivists 
+Before the 
+Copyright Office 
+Library of Congress 
+Washington, D.C. 20024 
+ 
+ 
+ 
+ 
+ 
+In the Matter of   
+  
+Section 1201 Study: Notice and  Docket No. 2015-8 
+Request for Public Comment  
+  
+ 
+ 
+ 
+ 
+ 
+COMMENTS 
+OF 
+THE SOCIETY OF AMERICAN ARCHIVISTS 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Dennis E. Meissner, President  
+Society of American Archivists 
+17 North State Street, Suite 1425 
+Chicago, IL 60602-4061
+
+[PAGE 2]
+ 
+Comments on Section 1201 Study Page 2 of 6 Society of American Archivists 
+ 
+The Society of American Archivists (SAA) congratulates the Copyright Office on its desire to assess and 
+improve the operation of section 1201 of Title 17, including the triennial rulemaking process.  
+SAA is the oldest and largest organization of archivists in North America. It serves the education and 
+information needs of its members, including more than 6,200 individual archivists and institutions, and 
+provides leadership to help ensure the identification, preservation, and use of the nation's historical 
+record. To fulfill this mission, SAA exerts active leadership on significant archival issues by shaping 
+policies and standards, and serves as an advocate on behalf of both professionals who manage archival 
+records and the citizens who use those records.  
+SAA is convinced that section 1201 has the potential to harm archivists’ ability to identify, acquire, and 
+preserve records that ensure the rights of individuals and document American culture. Section 1201’s 
+impediments are particularly troublesome given the absence of any empirical evidence that section 
+1201 has lessened the incidence of piracy or “been useful in expanding consumer choice and the 
+avenues for dissemination of creative works,” as the notice suggests. 
+SAA’s responses to the specific subjects posed by the Copyright Office follow. 
+General 
+1. Please provide any insights or observations regarding the role and effectiveness of the prohibition on 
+circumvention of technological measures in section 1201(a). 
+ 
+It is SAA’s understanding that the measures intended to outlaw the circumvention of access control 
+tools had two major goals: the elimination of “piracy” of copyrighted content and the 
+encouragement of new business models for the distribution of digital content. SAA cannot speak to 
+either of these issues; it does not have the data that the Copyright Office needs. SAA does, however, 
+encourage the Copyright Office to undertake a careful empirical study to determine if the anti-
+circumvention measures in section 1201 have led to a decrease in “piracy” and the development of 
+consumer-desired new digital distribution channels. Until one has a clear sense of any benefits from 
+the implementation of section 1201, it is difficult to know how to evaluate the section in light of its 
+real costs (detailed below).  
+2. How should section 1201 accommodate interests that are outside of core copyright concerns, for 
+example, in cases where circumvention of access controls protecting computer programs implicates 
+issues of product interoperability or public safety? 
+ 
+SAA fears that the more the copyright statute moves away from core copyright concerns, the harder 
+it becomes to understand and enforce basic copyright principles. Just as copyright should not be 
+used as a mechanism to enforce the privacy interests of individuals, so too should it not be used to 
+endorse and enforce particular business practices. The Copyright Office should focus on the core 
+copyright concerns of reproduction, distribution, public performance, public display, and, for sound 
+recordings, public performance by means of digital audio transmission utilized in support of the 
+public good. Issues of product interoperability and public safety should be left to agencies (and laws) 
+that are better able to evaluate the competing interests involved.
+
+[PAGE 3]
+ 
+Comments on Section 1201 Study Page 3 of 6 Society of American Archivists 
+Rulemaking Process 
+3. Should section 1201 be adjusted to provide for presumptive renewal of previously granted 
+exemptions—for example, when there is no meaningful opposition to renewal—or otherwise be 
+modified to streamline the process of continuing an existing exemption? If so, how?  
+ 
+Streamlining the renewal of existing exemptions is an excellent idea. In material submitted to the 
+House Judiciary Committee’s Subcommittee on Courts, Intellectual Property, and the Internet as 
+part of its comprehensive review of the nation’s copyright law, the Library Copyright Alliance 
+proposed that after an exemption is granted, the burden in subsequent rulemakings “should be on 
+those opposed to renewal to demonstrate why the exemption should not be renewed or should be 
+modified in some manner. Moreover, if a second renewal is granted, the exemption should become 
+permanent.”1 These are excellent suggestions that should be implemented. 
+ 
+4. Please assess the current legal requirements that proponents of an exemption must satisfy to 
+demonstrate entitlement to an exemption. Should they be altered? If so, how? In responding, please 
+comment on the relationship to traditional principles of administrative law.  
+ 
+Archivists preserve a wide variety of primary sources for the benefit of future generations. 
+Preserving materials is a means to this end, not an end in itself. Archival materials provide 
+surrogates for human memory, both individually and collectively, and when properly maintained, 
+they serve as evidence against which individual and social memory can be tested. Archivists know 
+that materials that are password-protected, encrypted, or otherwise encumbered with access 
+control mechanisms are going to come into their collections. We have heard from some who have 
+received this material and have been able to secure “keys” or other mechanisms that can, with the 
+permission of the content owner, unlock the content. Other archivists may have received such 
+material and used anti-circumvention tools to bypass the technical protection measures on the files 
+in order to make non-infringing uses of the material. These archivists are understandably unwilling 
+to go on record as to their potentially infringing actions.  
+ 
+The requirement that future adverse impact during any three-year period must be proven through 
+“concrete evidence, examples and data supporting their responses” has therefore impeded SAA’s 
+participation in the rule-making process.2 Furthermore, in many cases the three-year window is too 
+long. A grant-funded preservation project that encounters protected digital files may not have 
+enough funding to allow the archivists to wait for the next triennial rulemaking process and seek 
+permission to bypass the measures that are preventing them from making lawful use of the files. By 
+the time SAA will have assembled a portfolio of “concrete evidence, examples and data,” it may be 
+too late for many critical preservation actions. Given the rapid pace of technical change, it may no 
+longer be possible to bypass an anti-circumvention mechanism.  
+                                                           
+1 Chapter 12 of Title 17: Hearing Before the Subcomm. on Courts, Intellectual Prop., and the Internet of the H. 
+Comm. on the Judiciary, 113th Cong. (2014) (‘‘Chapter 12 of Title 17 Hearing’’) at 24. 
+2 Exemption to Prohibition on Circumvention of Copyright Protection Systems for Access Cont rol Technologies, 
+Notice of Inquiry, 64 FR 66139 (Nov. 24, 1999), at 66142.
+
+[PAGE 4]
+ 
+Comments on Section 1201 Study Page 4 of 6 Society of American Archivists 
+The second major barrier has been the narrow definition of what constitutes a “particular class of 
+copyrighted works.” Often digital archival material is donated by heirs or successor business 
+executives who may not be aware that the collection contains encrypted content and often are not 
+in possession of the encryption keys or passwords. Protected or encrypted material could be in any 
+of the section 1201 categories. What defines them is not their content but rather where they are 
+being stored and the kinds of uses that are being made of them. The recent recommendation from 
+the Copyright Office that a “class of works” may be defined by reference to the particular type of 
+use and/or user to which the exemption should apply is an important and welcome first step in 
+addressing this problem. 3 The proper approach would be to provide a blanket exemption for 
+archives engaging in non-infringing activities. At a minimum, the blanket exemption would 
+encompass all acts authorized in section 108 of the Copyright Act. Even better would be a blanket 
+exemption for any lawful use. It makes no sense to have the Copyright Act restrict in any way acts 
+that are non-infringing. 
+5. Please provide additional suggestions to improve the rulemaking process.  
+ 
+There is inherent in the entire 1201 rulemaking process a fundamental flaw: The rulemaking should 
+not apply to anti-circumvention actions undertaken to accomplish a non-infringing use. At a 
+minimum, more reasonable permanent exemptions should be adopted (as discussed below in the 
+response to question 8) to minimize the effort we all must expend on this procedure. 
+ 
+Anti-Trafficking Prohibitions 
+6. Please assess the role of the anti-trafficking provisions of sections 1201(a)(2) and 1201(b) in 
+deterring copyright infringement, and address whether any amendments may be advisable.  
+ 
+SAA is not aware that the anti-trafficking provisions of section 1201(a)(2) and 1201(b) have had any 
+impact in deterring copyright infringement. We do know, however, that the provisions have created 
+an absurd, Catch-22 situation for any archives that sought to adhere to the letter of the law. Imagine 
+that an archives petitioned successfully for an exemption to allow it to bypass an anti-circumvention 
+measure on a file in its collection. It would then have to develop the technology that would allow for 
+the anti-circumvention. But digital preservation is a community-based activity. No one institution 
+can afford to develop all of the software tools needed to ensure the accessibility of digital materials 
+over the long term. Instead, our work is conducted using software that is shared among institutions. 
+For many years, the Library of Congress itself maintained a repository of shared digital preservation 
+tools.4 That role has now been assumed by the Community Owned Digital Preservation Tool Registry 
+(COPTR).5 It lists 410 shared tools that can be used in digital preservation. Yet because of the 
+prohibition on trafficking in anti-circumvention tools, few of the available tools can assist archives in 
+                                                           
+3 U.S. Copyright Office, Recommendation of the Register of Copyrights in RM 2005 -11, Rulemaking on Exemptions 
+from Prohibition on Circumvention of Copyright Protection Systems for Access Control Technologies 9-10 (Nov. 17, 
+2006), http://www.copyright.gov/1201/docs/1201_recommendation.pdf . 
+4 http://www.digitalpreservation.gov/tools/. 
+5 http://coptr.digipres.org/Main_Page.
+
+[PAGE 5]
+ 
+Comments on Section 1201 Study Page 5 of 6 Society of American Archivists 
+circumventing technical protection measures even when the purpose for circumventing the 
+measure is non-infringing. Without the ability to acquire and use anti-circumvention tools from third 
+parties, the 1201 rulemaking process is pointless. 
+ 
+7. Should section 1201 be amended to allow the adoption of exemptions to the prohibition on 
+circumvention that can extend to exemptions to the anti-trafficking prohibitions, and if so, in what 
+way? For example, should the Register be able to recommend, and the Librarian able to adopt, 
+exemptions that permit third-party assistance when justified by the record?  
+ 
+As the Copyright Office’s notice notes, it is often impossible for an individual or an agency to carry 
+out anti-circumvention activities even if authorized through the rulemaking. SAA suggests that the 
+normal principles of agency should apply to anti-circumvention. If it is legal for an archives to 
+undertake an activity, it should also be legal for the agents of that archives to conduct that activity 
+for the repository. 
+ 
+Permanent Exemptions 
+8. Please assess whether the existing categories of permanent exemptions are necessary, relevant, 
+and/or sufficient. How do the permanent exemptions affect the current state of reverse engineering, 
+encryption research, and security testing? How do the permanent exemptions affect the activities of 
+libraries, archives, and educational institutions? How might the existing permanent exemptions be 
+amended to better facilitate such activities? 
+ 
+There are a number of elements in the 1201 rulemaking process that seem to have been designed 
+merely to encourage contempt of copyright law. None, however, is as ridiculous as the permanent 
+exemption found in section 1201(d). No library or archives asked for this exemption and none would 
+ever use it. If an institution wished to gain access to a commercially exploited, copyrighted work in 
+order to make a good-faith determination of whether to acquire such a work, it would simply ask 
+the vendor for test access. The idea that a repository would instead develop tools to allow it hack 
+into a commercial system is simply absurd. 
+ 
+A reasonable permanent exemption is possible. Section 1201(d) should be amended to allow 
+archives and libraries to circumvent technical protection measures restricting access when the 
+purpose is non-infringing, such as when it is authorized by sections 107, 108, 109, 110, or 117 of the 
+Copyright Act. Further, the prohibition against trafficking in tools that enable the circumvention 
+should be lifted for such purposes.  
+9. Please assess whether there are other permanent exemption categories that Congress should 
+consider establishing—for example, to facilitate access to literary works by print-disabled persons? 
+ 
+All archives face the difficult challenge of providing equal access to people with disabilities, including 
+those individuals with visual or hearing impairments as well as those whose physical disabilities may 
+make it difficult for them to travel to a repository. Anything that can be done to make archival 
+resources more available to all citizens is welcomed and encouraged.
+
+[PAGE 6]
+ 
+Comments on Section 1201 Study Page 6 of 6 Society of American Archivists 
+Other  
+10. To what extent and how might any proposed amendments to section 1201 implicate the United 
+States’ trade and treaty obligations? 
+ 
+11. Please identify any pertinent issues not referenced above that the Copyright Office should consider in 
+conducting its study.

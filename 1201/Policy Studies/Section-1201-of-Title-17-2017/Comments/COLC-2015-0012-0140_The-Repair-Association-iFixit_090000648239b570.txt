@@ -1,0 +1,193 @@
+[PAGE 1]
+Before The 
+United States Copyright Office
+Library of Congress
+In the Matter of 
+Section 1201 Study: 
+Request for Additional Comments
+Docket 2015-0012
+Reply Comments of 
+The Repair Association and iFixit
+Submitted on behalf of 
+The Repair Association and iFixit by 
+Luis Villa
+Law Office of Luis Villa
+luis@lu.is
+(415) 938-4552
+November 15, 2016
+
+[PAGE 2]
+Table of Contents
+Introduction.......................................................................................................................3
+About The Repair Association........................................................................................3
+About iFixit.....................................................................................................................3
+Reply..................................................................................................................................4
+The market in “commercially available” software..........................................................4
+Public safety and the environment..................................................................................6
+“Economic disadvantage”..............................................................................................6
+Conclusion.........................................................................................................................7
+2
+
+[PAGE 3]
+Introduction
+About The Repair Association 
+The Repair Association, formerly known as the Digital Right to Repair Coalition, is a 
+501(c)6 trade association founded in July of 2013 to support individuals and businesses 
+engaged in repair, reuse, and recycling of digital electronic parts and products. Our 
+members range in size from individual hobbyists to multinational repair and services 
+providers, and include consumer rights organizations, sustainability advocates, 
+agricultural organizations, flexible labor networks, equipment trading networks, and 
+logistical services networks.
+The Repair Association has advised state governments on right to repair laws based on 
+the 2012 Massachusetts Automotive Right to Repair law.1 This bill provided a clear path 
+for state legislative action, and also served as the foundation of major national voluntary 
+agreements adopted by automotive2 and commercial vehicle3 manufacturers. The 
+success of this approach strongly suggests that commercial interests and consumer 
+repair are complementary values that can both be served by well-considered policy.
+About iFixit
+iFixit.com is an international, open-source, online repair manual for everything. Our 
+mission is to provide people with the knowledge they need to make their things work for 
+as long as possible.
+iFixit represents a global community of makers, tinkerers, fixers, and repair 
+professionals. In 2015, the iFixit community taught repair to over 80 million people from
+almost every country in the world. The strongly collaborative group has published over 
+20,000 repair guides. This massive, free resource has helped people fix everything from 
+cellphones to game consoles, toys to musical instruments. iFixit also stands firm in its 
+1 “An Act protecting motor vehicle owners and small businesses in repairing motor vehicles” , 
+Massachusetts Session Law of 2012, Chapter 368, available at 
+https://malegislature.gov/Laws/SessionLaws/Acts/2012/Chapter368. 
+2 Memorandum of Understanding, January 14, 2014, available at 
+http://www.nastf.org/files/public/OtherReference/MOU_SIGNED_1_15_14.pdf. 
+3 Memorandum of Understanding, available at http://www.nastf.org/files/public/OtherReference/HD-
+MOU_2015.pdf. 
+3
+
+[PAGE 4]
+support of the tinkerers and independent repair professionals in our community. We 
+believe that owners should have the right to repair, modify, and tinker with the things 
+that they own.
+Reply
+The Repair Association and iFixit thank the Copyright Office for this opportunity to 
+reply to the comments of the Association of Equipment Manufacturers (AEM) and the 
+Equipment Dealers Association (EDA).4 
+The market in “commercially available” software
+In their filing, the AEM and EDA argue against exemptions on a broad class of software, 
+saying that:
+“AEM and EDA caution against enactment of any permanent exemption where 
+the copyrighted work, such as vehicle software or software updates, are 
+commercially available products or services. If the works are already 
+commercially available, the proposed permanent exemption would diminish or 
+destroy the value of the vehicle software or software updates and unfairly disrupt
+the competitive landscape for both AEM and EDA members.” (p. 2)
+This argument, and particularly these examples, presumes that software integrated into 
+equipment is “commercially available to consumers.” This is not, and has never been, 
+the case. Instead, this sort of software (often called embedded software or firmware) is 
+included with the product. This is not surprising, since if it was not included, or was 
+sold for an additional fee, the product would not work! As a result, vehicle software and 
+software updates are not typically available separate from the hardware they power. This 
+is particularly true in a world where, as we noted in our original filing, software is “eating
+the world” and therefore is included in essentially every product and category of 
+product.
+As a result, it is not surprising that there is no public market in firmware distinct from 
+the market in the underlying products — you can’t browse to Amazon’s “firmware” 
+section, or find a firmware aisle at Best Buy. Instead, the software produced by AEM’s 
+members is typically offered free of charge to consumers. For example, one can visit the 
+4 Available at https://www.regulations.gov/document?D=COLC-2015-0012-0105. 
+4
+
+[PAGE 5]
+Intel website and download firmware for any of its products at no charge.5 Similarly, 
+Bosch is the leading manufacturer of Engine Control Units that are used within most 
+motor vehicles worldwide. Bosch makes their firmware publicly available.6 
+Because of this availability, owners that need to return firmware to the original settings, 
+or obtain updates, can do so easily, without any economic harm to manufacturers like 
+Bosch, their retail distributors, or to future owners. The same type of firmware access is 
+common for thousands of other components and presents no economic risk, nor any risk
+of piracy, to manufacturers. There is no economic value to firmware outside of the 
+unique part and no value to preventing restoration or use.
+This economic model for the production of firmware predates the DMCA, and will 
+survive any broadened exceptions. First, as already noted, the economic driver for 
+manufacturers is the sale of hardware, not software. This effect is strengthened by the 
+nature of firmware, which is specific to particular pieces of hardware. Bosch ECU 
+firmware, for example, will not work on ECUs made by other manufacturers, which both
+incentivizes Bosch to produce new firmware for new hardware, and essentially 
+eliminates the supposed market discussed by AEM’s comments. In addition, no-cost 
+distribution of updated firmware is a form of safety and security defect support, and so 
+this software will continue to be produced for those reasons – no additional protection, 
+above and beyond that already offered by copyright law, is needed. 
+The real market in this area is not in selling software, but rather in going beyond 
+software to limit competition in the market for repair, and to allow consumer-hostile 
+behaviors that break devices owned by consumers without the consent or participation 
+of their owners. For example, Apple recently shipped an iOS “update” that broke the 
+iPhone for hundreds of thousands of users who had done nothing more sinister than 
+replace broken physical screens.7 Similarly, a recent update to HP printers prevented 
+them from operating with ink bought by a vendor other than HP.8 These “updates” 
+suggest that AEM’s interest is not in fostering a market for firmware (which would be 
+5 See, for example, Intel firmware available at https://downloadcenter.intel.com/download/18363/Intel-
+SSD-Firmware-Update-Tool.
+6 See, for example, Bosch’s firmware search engine at http://www.bosch-automotive-
+catalog.com/en/vehicle-search.
+7 “Apple Apologizes And Updates iOS To Restore iPhones Disabled By Error 53” , TechCrunch, Feb. 18, 
+2016, available at https://techcrunch.com/2016/02/18/apple-apologizes-and-updates-ios-to-restore-
+iphones-disabled-by-error-53/.
+5
+
+[PAGE 6]
+impossible in any case) and rather in using software to impact policy and markets well 
+outside the statutory and Constitutional purpose of copyright.
+Public safety and the environment
+Under the logic of the AEM/EDA response, copyright law should be used to regulate 
+and enforce matters of public safety, environment and economic policy. In their 
+response, as well as submissions to past triennial DMCA rulemakings, AEM/EDA 
+propose that employees of manufacturers and dealerships help enforce federal policies 
+by refusing to allow competition for repair. As AEM/EDA’s comments read:
+“… the restriction of this information to a finite number of highly qualified and 
+readily identifiable parties aids in the efficient and effective enforcement of safety and 
+environmental regulations.” (emphasis added) (p. 3)
+When making this argument, AEM/EDA fail to cite to relevant statutory language, 
+because there is none. But pursuing this route would not just be a violation of clear 
+statutory and Congressional intent. It would also take the Office outside of its core 
+competencies, inevitably creating inefficiencies both for the Office and for the newly 
+regulated industries that would come under its purview. 
+The Copyright Office should reject this interpretation of its role, and leave the 
+enforcement of safety and environmental regulations to the agencies best situated to do 
+so.
+“Economic disadvantage”
+AEM/EDA’s comments suggest that any exceptions to the DMCA will enable and 
+encourage repair businesses to make unsafe modifications to firmware, and put “safe” 
+providers at an economic disadvantage. (p. 1)
+This position ignores the existence of a mass of federal, state, and local statutes and 
+regulations that deal with safety and other issues. These rules have been created through
+the deliberate action of appropriate legislative, administrative, and judicial bodies. 
+Refocusing enforcement of the Copyright Act on copyright concerns will not impact or 
+lessen the application of those laws and regulations.
+8 “HP: Disabling 3rd-party ink ensures ‘best printing experience’” , Ars Technica, Sep. 28, 2016, available 
+at http://arstechnica.com/information-technology/2016/09/hp-to-issue-optional-firmware-update-
+allowing-3rd-party-ink/.
+6
+
+[PAGE 7]
+The use of electronic locks that prevent repair, or use of consumables such as printer 
+ink9, are rarely, if ever, been about safety – instead, they have been about protecting the 
+competitive position of manufacturers for repair services or consumable purchases.   
+The “economic disadvantage” that AEM/EDA seeks to avoid is that of competition for 
+goods and services provided by those who would seek to repair and improve the original 
+products. 
+Where hardware manufacturers are actually providing firmware that meets the needs of 
+consumers, new entrants will have no “unfair” advantage. Instead, limited by the same 
+safety and environmental regulations as the original manufacturers, they will advance 
+the “useful arts” through the basic rights of fair use, first sale, interoperability, and 
+repair – rights that a broad interpretation of Section 1201 has taken away from them. 
+Conclusion
+As software has come to be embedded in everything, Section 1201 has come to have a 
+direct bearing on the right of every American, including both consumers and businesses,
+to repair and modify the devices they have purchased. The current review process has 
+served mostly to show that existing exemptions, and the exemption process, are broken. 
+For Americans to regain the right to repair their devices, they must be broadly reformed.
+Respectfully submitted-
+Gay Gordon-Byrne
+Executive Director, The Repair Association
+Kyle Wiens, 
+CEO, iFixit
+9 Id.
+7

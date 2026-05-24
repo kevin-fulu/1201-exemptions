@@ -1,0 +1,244 @@
+[PAGE 1]
+March 3, 2016 
+  
+Ms. Maria Pallante, Register of Copyrights 
+United State Copyright Office, 101 Independence Avenue S.E. 
+Washington, D.C. 20559 
+  
+RE: Section 1201 Study, Notice and Request for Public Comment, FR Doc. 2016­03515 
+  
+Dear Ms. Pallante, 
+  
+Thank you for the opportunity to submit comments on the Copyright Office’s ​Section 1201 
+Study​. Mozilla’s mission as a non­profit organization is to promote openness, innovation, and 
+opportunity online. As a core principle, we believe that the open Internet, as the most significant 
+social and technological medium of our time, is an invaluable public resource that must be 
+protected. It is from this perspective that we offer our comments.  
+ 
+In practice, the combination of law and technology associated with technological protection 
+measures establishes a different, and more restrictive, balance of interests than that of existing 
+copyright law, posing risk of harm to fair use, competition, and innovation. We encourage the 
+Copyright Office to revise the Section 1201 exemptions process to improve this balance, and to 
+advocate for greater changes in the law and surrounding policy framework going forward. In 
+particular, the Copyright Office can help by establishing a presumption of renewal for 
+exemptions, providing a broader scope for granted exemptions, and raising awareness and 
+understanding of copyright and the exemptions process for a wider audience. 
+ 
+Section 1201(a) overly restricts openness online. 
+Broad definitions in Section 1201(a) restrict activities that do not otherwise infringe 
+copyright law. 
+The restrictions of Section 1201(a) in practice impact broader socio­economic interests 
+than just core copyright concerns. 
+Existing statutory exceptions do not sufficiently protect reverse engineering and security 
+research. 
+Rights management technology and law should be aligned with copyright law, limiting 
+infringing uses without prohibiting non­infringing uses. 
+The Copyright Office can promote openness by improving the section 1201 exemption 
+process. 
+A presumption of renewal will streamline the process and maintain beneficial 
+exemptions, and objectors should prove a lack of public interest. 
+Exemptions should allow third­party actions. 
+The Copyright Office can also educate around the exemption process. 
+The Copyright Office should oppose the use of trade negotiations to pre­empt copyright 
+policy discussions.
+
+[PAGE 2]
+Section 1201(a) overly restricts openness online. 
+Broad definitions in Section 1201(a) restrict activities that do not otherwise 
+infringe copyright law. 
+Question 1 of the Notice asks for observations about the role and effectiveness of Section 
+1201(a). In creating new liability for otherwise non­infringing acts, it is important to balance 
+broad definitions with exceptions and limitations to protect competition, innovation, and creativity 
+and maintain the Internet as a powerful public resource. 
+ 
+The scope of Section 1201 covers a broad range of activities within the scope of circumvention 
+of technological protection measures (TPMs), including “otherwise to avoid, bypass, remove, 
+deactivate, or impair” a measure that “requires the application of information… to gain access to 
+the work.” Thus, its historical scope ranges from security checks, to video game servers, to 
+downloaded or streaming audiovisual works with encryption. 
+ 
+Mozilla’s primary product experience with TPMs is with Digital Rights Management (DRM), used 
+to restrict distribution and use of media works. Two years ago, we expressed our view that 
+encryption­based ​DRM is a poor balance between empowering users and protecting content​; 
+that sentiment remains true today. A year ago,​ ​we enabled the integration of third­party DRM 
+into our core Firefox product​, and although we believe we have built a comparatively good 
+implementation of a fundamentally bad model, we nevertheless continue to study the possibility 
+of alternatives. 
+  
+Section 1201’s prohibition on circumvention encompasses all access to content, for either 
+infringing or non­infringing use, including for example de minimis copying and other uses of 
+protected works that would fall under fair use, as well as licensed copying. This combination of 
+restrictive technical controls and circumvention liability functions as an extra­legal mechanism 
+allowing copyright owners to establish the boundaries of acceptable and prohibited uses of 
+content and technology, above and beyond those established under the law alone. The result, if 
+not carefully balanced through exceptions and limitations, is harm to competition, innovation, 
+and creativity ­ the very things that make the Internet such a powerful public resource. Although 
+the statutory language includes some permanent exemptions, presumably written with an 
+intention of balancing the interests of content users and rightsholders, in practice, the 
+combination of technical locks and legal risks restricts too many activities that do not infringe on 
+copyright exclusionary rights. 
+The restrictions of Section 1201(a) in practice impact broader socio­economic 
+interests than just core copyright concerns. 
+Question 2 of the Notice of Inquiry asks about the impact of Section 1201(a) on interests outside 
+traditional, core copyright concerns. The breadth of impact here implicates broader cultural,
+
+[PAGE 3]
+market, and growth considerations that relate to the core of copyright’s purpose “to promote the 
+progress of science and useful arts” yet deviate significantly from the narrower scope of 
+interests typically examined in policy analysis. 
+ 
+As indicated above, we are concerned that the mechanisms established by TPMs and 
+circumvention liability erect a barrier to competition, innovation, and creativity, with broad impact 
+for openness online. These mechanisms create new walled gardens, in a sense; rather than 
+restricting access itself, they restrict legitimate use of that content beyond a predetermined and 
+prescribed form of consumption. And the result is risk of harm to competition and innovation with 
+the potential for significant market and growth impact. Historically, in many cases where 
+competitors or innovators have tried to build interoperable pieces of technology, such as ink 
+cartridges or batteries designed to work with another company’s printer or laptop computer, the 
+result has been extensive litigation with its inherently uncertain outcomes – despite the statute’s 
+inclusion of reverse engineering for interoperability as a clear and permanent exemption. 
+ 
+Furthermore, Section 1201 has a particularly deleterious effect for creative, transformative 
+works building on copyrighted content. Securing content through encryption renders it 
+inaccessible for modification, even to the degree that would be considered fair use as a 
+transformative work, or lawful as a result of expiration of the copyright term. Over time, more 
+media has been, and will continue to be, delivered through digital stream and download formats, 
+and secured through TPMs that include encryption. This media represents copyrighted works, 
+but it also represents cultures, and the building blocks for future works. As these building blocks 
+become more and more locked down, future creators will have less and less material that they 
+can work with. 
+Existing statutory exceptions do not sufficiently protect reverse engineering 
+and security research. 
+Question 8 asks whether existing categories of exemptions are sufficient. The current 
+exceptions do not cover all non­infringing, socially beneficial activities under their nominal scope 
+of security research and reverse engineering for interoperability.  
+ 
+Section 1201 does include permanent exemptions for two categories of behavior considered to 
+be worth explicit protections: security research (1201(g) and (j)) and reverse engineering for the 
+purpose of interoperability (1201(f)). In practice, these exemptions are insufficient even for their 
+intended purposes – and they certainly do not extend to cover other categories of desirable, 
+non­infringing end­user activity. 
+  
+The current exceptions do not cover all non­infringing, socially beneficial security research 
+activities.​ ​The Notice quotes the Register as concurring with this observation. NTIA came to the 
+same conclusion in its​ strong ​fall 2015 recommendations​. The NTIA comments (at page 72, 
+footnote 357) highlight one security researcher, Mark Stanislav of Rapid7, who identified 
+security vulnerabilities in “Internet of Things” devices, and was threatened with legal action
+
+[PAGE 4]
+under Section 1201 for attempting to engage with the device manufacturers to report and 
+resolve the issues. Temporary exemptions under the current process are not sufficient to 
+alleviate the harms imposed by this policy oversight. 
+  
+The exception for reverse engineering under section 1201(f) is similarly flawed. The NTIA 
+recommendations articulate a range of gaps related to mobile devices. Mozilla has previously 
+supported temporary exemptions for mobile devices, exemptions that have not been universally 
+granted, resulting in a considerable lack of clarity for users and for industry. 
+Rights management technology and law should be aligned with copyright law, 
+limiting infringing uses without prohibiting non­infringing uses. 
+Question 11 asks for any pertinent issues not referenced in previous questions. Generally, the 
+Copyright Office should consider the gap in practice between copyright law’s balance and that 
+permitted to be imposed unilaterally by copyright holders as a result of the combination of 
+technical measures and liability against circumvention under Section 1201. 
+ 
+The pairing of TPMs and circumvention liability effectively prohibits fair use of copyrighted 
+works. Rather than providing blanket prohibitions on certain types of circumventions, an ideal 
+legal and technical realization of section 1201 would explicitly allow circumvention for 
+non­infringing purposes, but not for infringing purposes. This would put section 1201 more in 
+line with the balance drawn by indirect, or secondary, copyright liability. However, in practice, 
+the functional result of circumvention measures is access to the content for uses not directly 
+offered to the user, and it’s impossible to design technologies that can perfectly identify and 
+separate fair uses from infringing uses, allowing the former while blocking the latter at a 
+technical level. 
+  
+But perfect differentiation through technology is an unnecessary problem to solve. The current 
+framework for TPMs is built on an illusion: that technology can completely prevent all 
+infringement. Mass scale infringement of copyrighted works continues today, including with the 
+most valuable and most heavily protected examples of such content. Section 1201 and TPMs 
+don’t prevent all infringement; at best, they reduce its impact on market success. And it’s not 
+clear that the current framework is the most effective way to achieve the goal of reducing the 
+impact of infringement on market success. Other approaches may be able to achieve 
+substantial benefit with fewer or no restrictions on fair use, for example relying more on 
+investigatory actions to identify and hold accountable direct infringers, or other means. 
+  
+The purpose of Section 1201 is to support the policy balance of copyright law by protecting the 
+use of technology to limit the harm of infringement. But as it exists today, not only does 
+infringement continue, but also, a more nefarious harm is realized, in the form of restrictions on 
+fair use and non­infringing uses of content, with resulting harm to competition, innovation, and 
+the availability of input material for culture and creativity. Legislative and administrative changes
+
+[PAGE 5]
+to permit broader and more reliable exceptions for non­copyright­infringing activities are 
+necessary (but not sufficient) to achieve a better balance. 
+The Copyright Office can promote openness by improving the section 
+1201 exemption process.  
+We appreciate the Copyright Office’s clear intention to seek improvements to the current 
+three­year exemption process. We suggest three improvements to help restore balance. 
+A presumption of renewal will streamline the process and maintain beneficial 
+exemptions, and objectors should prove a lack of public interest. 
+Question 3 asks whether Section 1201 should be adjusted to presume renewal of previously 
+granted exemptions or otherwise streamline the exemption process. Mozilla supports this 
+presumption of renewal. 
+ 
+Exemptions which encounter no substantive opposition, or which are granted twice in 
+succession over objections, should be automatically considered (without any party needing to 
+file an affirmative request), and should receive a ​presumption of renewal​. The burden of proof 
+should in these instances shift to the objectors to demonstrate that the balance of interests 
+favors non­renewal. 
+  
+Objectors to renewal should be required to ​demonstrate what circumstances have changed 
+that make the exemption no longer in the public’s interest, and in particular, to ​identify actual 
+harm​ (cognizable under copyright law) as a result of the exemption. Objectors to a new 
+exemption should be required to articulate the harms that would result from granting of the 
+exemption, and the alleged harms must not be speculative in nature. 
+Exemptions should allow third­party actions. 
+Question 7 asks whether the adoption of exemptions should extend to exemptions to 
+anti­trafficking provisions. Mozilla supports this as well as extensions to other third­party actions. 
+ 
+Exemptions should automatically ​cover third­party actions​, including actions taken for others 
+as well as the development and supply of tools to perform the actions. When an exemption 
+covers an action such as unlocking phones, for example, it should also cover the action when 
+done for others (e.g. unlocking a family member’s phone), whether directly or through the 
+development and distribution of relevant tools. In practice, omitting this exemption extension, as 
+currently happens, risks worsening a social divide ­ technically savvy users would have even 
+more advantages over non­savvy users, as they are the only ones who have the skills to 
+engage in the socially beneficial exempted action without help.
+
+[PAGE 6]
+The Copyright Office can also educate around the exemption process. 
+Question 5 asks for further suggestions to improve the rulemaking process. 
+ 
+In addition to our substantive recommendations, the Copyright Office should also undertake 
+education, advocacy, and media efforts regarding the rulemaking process, and should endeavor 
+to make it easy for non­copyright experts to propose exemptions and to engage in discussions 
+over potential exemptions. In the digital world, copyright touches the lives of everyone, and so it 
+is vital that the process be as broadly understood and useable as possible. 
+The Copyright Office should oppose the use of trade negotiations to 
+pre­empt copyright policy discussions. 
+Question 10 asks about how Section 1201 amendments might implicate U.S. trade and treaty 
+obligations. While we do not comment on potential changes, we urge the Copyright Office to 
+preserve open processes for this and other topic Internet policy challenges. 
+  
+Without question, trade and copyright policy intersect in complex ways. The recently negotiated 
+Trans­Pacific Partnership (TPP)​ includes numerous provisions related to copyright law. If the 
+text of trade agreements like TPP does ultimately prohibit the Copyright Office and Congress 
+from making key changes to Section 1201, then the democratic, multistakeholder principles that 
+ought to guide Internet policy development have been violated. Negotiations behind closed 
+doors would have “resolved” Internet policy issues without allowing all stakeholders to be heard. 
+The result would be poor policy, ​reflecting a skewed balance away from the interests of users​, 
+unable to adapt to changing circumstances in the future. 
+ 
+We deeply appreciate this open Inquiry conducted by the Copyright Office in this request for 
+comments. To preserve the spirit of this open process, we encourage the Register of Copyrights 
+and the Office to oppose the use of closed­door trade negotiations as vehicles to address 
+complex Internet policy challenges, such as those raised in this proceeding. 
+ 
+   
+Respectfully submitted, 
+   
+ 
+ 
+  Chris Riley, Head of Public Policy 
+Gervase Markham, Policy Engineer 
+  Heather West, Senior Policy Manager 
+  Mozilla

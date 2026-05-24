@@ -1,0 +1,268 @@
+[PAGE 1]
+I-ITC and Static Control Additional Comments to Section 1201 Study - Page 1 of 6
+Before the
+UNITED STATES COPYRIGHT OFFICE
+Library of Congress
+Washington, D.C.
+__________________________________________
+)
+In the Matter of: )
+) Docket No. 2015-8
+Section 1201 Study )
+Notice of Inquiry and )
+Request for Additional Comments )
+__________________________________________ )
+Additional Comments of 
+International Imaging Technology Council and Static Control Components, Inc. 
+International Imaging Technology Council (“I-ITC”) and Static Control Components, 
+Inc. (“Static Control”) appreciate this opportunity to submit these additional comments on the 
+questions and issues posed by the Copyright Office in the September 27, 2016 Notice of Inquiry 
+in support of its Section 1201 Study.  
+I. Background
+International Imaging Technology Council represents the interests of the imaging 
+supplies industry, including office-machine retail and repair, office-supply retail, computer retail, 
+repair and networking companies, and all related industry suppliers. An estimated 2,000 
+domestic businesses employ some 50,000 people in the United States to recondition and repair 
+office imaging supplies. In 2014, consumers spent more than $13 billion for repair and 
+maintenance of electronic and precision equipment, approximately $6 billion of which was 
+attributable to computer and office machine repair and maintenance.1 Approximately 30% of 
+toner and ink-jet cartridges sold last year were aftermarket products, at a price approximately 50-
+60% less than new cartridges sold by the original equipment manufacturer.
+Static Control began in 1987 and is headquartered in Sanford, North Carolina. Static 
+Control employs approximately 800 workers and manufactures and sells printer components and 
+supplies, including microchips that it sells to third-party companies for use in the repair and 
+remanufacture of toner and inkjet cartridges.  Static Control also, regrettably, has extensive 
+experience in complex litigation entailing Section 1201 anti-circumvention and reverse 
+engineering, as well as patent, copyright, contract, antitrust, and Lanham Act false advertising 
+issues.2
+   
+1  U.S. Census Bureau, 2014 Annual Services Report, Table 2: Estimated Revenue by Tax Status for Employer 
+Firms: 2007 through 2014, www.census.gov/services/index.html.
+2 Lexmark Int’l Inc. v. Static Control Components, Inc., 572 U.S. __, 134 S. Ct. 1377 (2014); Lexmark Int’l Inc. v. 
+Static Control Components, Inc., 387 F.3d 522 (6th Cir. 2004).
+
+[PAGE 2]
+I-ITC and Static Control Additional Comments to Section 1201 Study - Page 2 of 6
+For more than 150 years, the right of businesses and consumers to repair equipment has 
+been a central tenet of patent law. But since the passage of the DMCA, the imaging products 
+repair industry has been shrouded in a “cloud of uncertainty [that] discourages perfectly 
+reasonable and legal activity.”3 Companies that repair products controlled by functional 
+software, such as printers and printer cartridges, garage door openers, and auto parts, have 
+battled original equipment manufacturers to re-establish their right of repair under the laws of 
+patent exhaustion, copyright exhaustion, and DMCA Section 1201.  
+Static Control was the first in the imaging industry to face litigation under the DMCA, 
+and successfully defended against one of the most notorious attempts to use Section 1201 against 
+aftermarket competition. In 2003, Static Control petitioned for an exemption from Section 1201, 
+and appeared at a hearing conducted by the Copyright Office to advocate why Section 1201 
+should not apply to circumvention of a technological measure intended to lock-out competition 
+for remanufactured printer cartridges.4 From that hearing to the present proceeding, a broad 
+consensus of opinion has supported the Sixth Circuit’s holding that Section 1201 should not 
+cover these types of circumventions.5  
+Despite these victories, printer manufacturers continue to apply technological measures 
+designed to shut out aftermarket competition.6 These companies need to be able to repair 
+products and ensure that they interoperate with other devices, without fear of being hauled into 
+court.  This uncertainty was noted by the former Register of Copyrights, the National 
+Telecommunications and Information Administration (NTIA), Public Knowledge, and the 
+Library Copyright Alliance as grounds for a proposed and later accepted exemption for 3D 
+printers.7  To address the continuing attempts of intellectual property owners to expand their 
+rights under the DMCA in contravention of the intent of the legislation, I-ITC and Static Control 
+support an express exemption to both the anticircumvention and trafficking provisions. Such an 
+   
+3 Public Knowledge and Library Copyright Alliance, Long Comment Regarding a Proposed Exemption Under 17 
+U.S.C. §1201, at 3 (Feb. 6, 2015 (“Public Knowledge and LCA Supp.”).
+4 See Anticircumvention Rulemaking Hearing (May 9, 2003) 
+http://www.copyright.gov/1201/2003/hearings/transcript-may9.pdf
+5 See, Chapter 12 of Title 17: Hearing Before the Subcomm. On Courts, Intellectual Property, and the Internet of 
+the H. Comm. on the Judiciary, 113th Cong. (2014) at 1-2, 4 (comments of Rep. Marino), at 64 (comments of 
+Ranking Member Conyers) and 77-78 (comments of Rep. Farenthold); Transcripts of the U.S. Copyright Office 
+Public Roundtable on Section 1201, Section 1201 Study, May 19, 2016 at 26-27, 50 (comments of Jonathan Zuck, 
+ACT The App Association) and 65 (comments of Raza Pajwani, Public Knowledge); May 20, 2016 at 25 (comments 
+of Seth Greenstein, Auto Care Association) and 76 (comments of James Love, Knowledge Ecology Int’l); May 25, 
+2016 at 56 (comments of Ben Sheffner, MPAA), 69 (comments of Susan Chertkof, RIAA), 69 -71 (comments of 
+Professor Pamela Samuelson, Univ. of Cal., Berkeley), and 71 (comments of Mitch Stoltz, Electronic Frontier 
+Foundation).
+6 See, e.g., Alex Hern, “HP ‘timebomb’ prevents inkjet printers from using unofficial cartridges,” The Guardian ( 
+Sept. 20, 2016) available online at https://www.theguardian.com/technology/2016/sep/20/hp-inkjet-printers-
+unofficial-cartridges-software-update; James Walker, “HP printer ‘timebomb’ leaves third-party ink cartridges 
+unusable,” Digital Journal, (Sept. 19, 2016) available online at http://www.digitaljournal.com/tech-and-
+science/technology/hp-printer-timebomb-leaves-third-party-ink-cartridges-unusable/article/475211
+7 U.S. COPYRIGHT OFFICE, SECTION 1201 RULEMAKING: SIXTH TRIENNIEAL PROCEEDING TO DETERMINE
+EXEMPTIONS TO THE PROHBITION ON CIRCUMVENTION, RECOMMENTATION OF THE REGISTER OF COPYRIGHTS at 361 
+(2015), http://copyright.gov/1201/2015/registers-recommendation.pdf  (citing Public Knowledge and LCA Supp. at 
+3, 10); NTIA, SIXTH TRIENNIEAL SECTION 1201 RULEMAKING, RECOMMENTATIONS OF THE NATIONAL 
+TELECOMMUNICATIONS AND INFORMATION ADMINISTRATION TO THE REGISTER OF COPYRIGHTS, at 90, Sep. 18, 2015 
+(“2015 NTIA Recommendation”) ((internal citations omitted)).
+
+[PAGE 3]
+I-ITC and Static Control Additional Comments to Section 1201 Study - Page 3 of 6
+exemption is justified by the need to secure, to businesses and consumers, a meaningful 
+exercisable right to access, repair, replace, and customize products and parts that include control 
+software. Specifically, as Static Control recommended in its initial March 3, 2016 comments in 
+this proceeding, legislative action to amend Section 1201 is needed to—
+• Confirm that circumvention of technological measures is permissible to repair and 
+refurbish products and parts whose functional operation is controlled by embedded 
+software;
+• Confirm that such circumvention is allowed to enable interoperability of repaired or 
+replacement parts with the original equipment, and to develop new interoperable software 
+that replaces or augments the functionality of the original equipment software; and,
+• Extend the exemptions for anti-circumvention to the anti-trafficking provisions.
+II. Comments to Subjects of Notice of Inquiry
+A. Section 1(c):  Computer Programs
+The imaging products aftermarket provides a paradigmatic example of the abuses of 
+Section 1201 that amply justify these exemptions.  Increasingly, printer manufacturers, seeking 
+to preserve their market share for the lucrative consumable replacement ink jet and toner 
+cartridges, apply a technological measure that disables printer functionality in the presence of an 
+“unauthorized” cartridge made or remanufactured by a competitor. In some cases, the printer 
+manufacturer registered a copyright over a minuscule software program and embedded it in a 
+chip on a cartridge, specifically to leverage the DMCA anticircumvention laws and penalties 
+against competitors.8 Although thus far companies have successfully defended against these 
+specious claims, the threat of crippling damages and injunctive relief, and the expense and 
+disruption of “bet the company” litigation, chills legitimate innovation and competition. 
+I-ITC and Static Control submit that the law should prevent companies from devising 
+clever tactics that improperly attempt to restrict repair and interoperation and reduce confidence 
+in the copyright law. Many companies have misused TPMs and access controls in an attempt to 
+protect an unprotected product rather than an expressive or original copyrighted work. Concerns 
+over such misuse of Section 1201 to reach “anti-competitive goals” were echoed by the NTIA in 
+its recommendations to the Copyright Office.9  As NTIA warned, such a “fundamental misuse of 
+§ 1201 … can lead to the reduced respect for the DMCA and cop yright law.”10
+In many cases, manufacturers substitute software to control or perform operations that 
+could have been performed, and in the past were performed, in hardware. This software shares 
+common characteristics:  it is primarily functional; it is embedded in the product permanently or 
+in firmware; it is protected against alteration by anyone other than the original equipment 
+   
+8 The district court in the Lexmark case held on summary judgment that the program code embedded on Lexmark’s 
+cartridge chip that was asserted to have been protected by Lexmark’s technological protection measure lacked the 
+requisite originality and was not copyrightable. Lexmark Int’l v. Static Control, 5:04-cv-00084-GFVT, Dkt. 975 at 7 
+(E.D. Ky. Apr. 18, 2007). 
+9 2015 NTIA Recommendations at 7.
+10 Id.
+
+[PAGE 4]
+I-ITC and Static Control Additional Comments to Section 1201 Study - Page 4 of 6
+manufacturer or its “authorized” service representative; it is not intended to transmit or display 
+another copyrightable work to the user; and it is used specifically to control the operation of 
+physical machine components and products. The Copyright Act has encountered this type of 
+software before in other contexts, and has found it necessary and just to create an exception to 
+the Section 106 distribution right to avoid absurd results contrary to the public interest.11
+Repairs and modifications that in the past could have been made to hardware now must 
+be done in software. Currently, whether the purpose of a specific circumvention falls under the 
+doctrine of fair use or within the interoperability realm is a decision done on a case-by-case, 
+court-by-court basis, which risks inconsistent results and threatens innovation.12 Aftermarket 
+competitors should not have to face an additional threshold anticircumvention claim even before 
+reaching the questions of fair use or interoperability. The Copyright Office should make clear 
+that these repair activities remain lawful, and are not precluded by Section 1201.
+Companies should not be able to use the DMCA to restrict interoperability or 
+competition, as they are necessary and lawful components for advancement and innovation of 
+intellectual property. Toward that end, I-ITC and Static Control request that the Copyright Office 
+adopt a permanent exemption for circumvention for the purpose of repair, and advocate 
+legislative action to protect lawful repair against these types of claims under Section 1201(a) and 
+(b). These regulatory and legislative actions should insulate from liability all activities normally 
+incident to repair of physical products, and particularly products with embedded software.  
+Specifically, these measures must protect: 
+(1) gaining access to the embedded software13
+(2) making interim copies of the software to facilitate analysis
+(3) decompiling the software
+(4) analyzing the software 
+(5) accessing, copying, decompiling, and analyzing any software with which the 
+embedded software interacts, to the extent necessary to facilitate interoperability
+(6) revising, augmenting, or replacing all or part of the software code in order to repair 
+or customize the operation of the component or product, and 
+(7) making, using, and trafficking in tools that make these specific repair activities 
+possible (including circumvention of technological protection measures, and 
+decompilation, revision, and replacement ).
+We recognize that the Copyright Office may take that position that a rulemaking exemption may 
+not reach all of these activities necessary and incident to lawful repair.  Nevertheless, the 
+   
+11 See 17 U.S.C. § 109(b)(1)(B)(i) (first sale exemption for software “embodied in a machine or product and which 
+cannot be copied during the ordinary operation or use of the machine or product”).
+12 See generally Lexmark Int’l, Inc. v. Static Control Components, Inc., 387 F.3d 522 (6th Cir. 2004); Sega 
+Enterprises, Ltd. v. Accolade, Inc., 977 F.2d 1510 (9th Cir. 1993) (use of copyrighted computer work to gain 
+understanding of unprotected functional elements was fair use); Chamberlain Group, Inc. v. Skylink Tech., Inc., 381 
+F.3d 1178 (Fed. Cir. 2004) (universal transmitter that allowed consumers to access copyrighted software embedded 
+in manufacturer’s “rolling code” garage door openers did not violate anticircumvention section of DMCA). 
+13 “Software” as used in these comments should be understood to also include the types of data tables and
+compilations commonly used to set machine parameters. Such data represents functional operations rather than 
+copyrightable expression (for example, print speeds or ink or toner deposit), and so should not be cop yrightable in 
+the first place. To the extent a collection of these data could be considered copyrightable, the ability to alter or 
+replace these parameters is essential to repair and customizing machine performance.
+
+[PAGE 5]
+I-ITC and Static Control Additional Comments to Section 1201 Study - Page 5 of 6
+granting of a permanent exemption to the limits of Section 1201 will instruct the courts that 
+repair and interoperability are lawful fair uses even if circumvention or copying is required to 
+allow that repair or interoperability.  The granting of that permanent exemption also should give 
+aftermarket manufacturers and repair services confidence that they should prevail against any 
+attempts to enforce the anticircumvention or anti-trafficking provisions against activities that 
+otherwise are permissible under patent and copyright law.
+We suggest below for your consideration the text of a permanent exemption, whereby the 
+prohibition against circumvention in Section 1201(a) shall not apply to persons who engage in 
+noninfringing uses of the following class of copyrighted works:
+Computer programs, as defined in 17 U.S.C. § 101, that control access to or 
+operation of a physical machine or device, including a component or part thereof, 
+where the circumvention is undertaken to effectuate repair, customization, or 
+replacement of the functional operations of such machine or device.
+B. Section 3: Anti-Trafficking Provisions
+Exemptions from the anti-trafficking provisions of Section 1201(a) and (b) are 
+fundamental to the right to engage in noninfringing conduct that the Librarian believes should be 
+available to businesses, institutions, and individuals. Our industry has firsthand experience with 
+the level of sophistication required to understand and lawfully circumvent the technological 
+measures applied by original equipment manufacturers. For nearly 20 years, remanufacturers 
+have dedicated months of effort to analyze and solve each OEM technology measure, only to be 
+undone by a new OEM chip or firmware download that starts the cat-and-mouse game all over 
+again. Circumvention of these measures requires skill and tools that are not available to most 
+remanufacturers, and almost certainly not to the typical owner of a computer ink jet or laser 
+printer. Few companies, like Static Control, have the ability or have committed the resources to 
+reverse engineering these technological measures in order to make compatible solutions 
+available for remanufacturers.  
+Two weapons used by companies intending to impose unlawful and anticompetitive 
+restrictions are the anti-trafficking provisions of Section 1201(a)(2) and 1201(b).  The underlying 
+requirement for each prong of liability in the anti-trafficking provisions is that the work must be 
+“protected under this title.”14 Thus, the work must have copyright protection before any of these 
+provisions may be applied. However, as discussed above, business models that protect 
+uncopyrightable products, code, and data have been used in anticompetitive ways to block 
+interoperability and to lay claim to rights not granted under intellectual property laws. The anti-
+trafficking provisions need to be amended to clarify that repair and interoperability are lawful 
+fair uses even if circumvention or copying is required to allow said repair or interoperability.
+I-ITC and Static Control believe that the right to develop circumvention tools is implicit
+in the grant of an exemption. The right to circumvent is meaningless without the means to 
+circumvent. As explained above, the means to circumvent are generally unavailable without the 
+assistance of companies capable of devoting the skill, time, and expense to develop the necessary 
+tools.  Congress did not intend the exemptions to be mere paper promises, and it would have 
+   
+14 17 U.S.C. §§ 1201(a)(2) and 1201(b).
+
+[PAGE 6]
+I-ITC and Static Control Additional Comments to Section 1201 Study - Page 6 of 6
+been pointless for Congress to instruct the Librarian to undertake a triennial review only to 
+define exemption rights that can never be exercised.  Therefore, Section 1201(a) exemptions 
+properly should be interpreted to include exemptions to the anti-trafficking prohibitions.  
+If the Librarian of Congress concludes that she lacks authority to adopt exemptions for 
+the anti-trafficking prohibitions in Section 1201(a)(2) or (b), congressional action and legislation 
+are needed to extend such rights.15 Otherwise, a lawful act of creating and developing a work 
+under one portion of Section 1201 would be barred from being manufactured, imported, or sold, 
+and the majority of consumers who are entitled to the exemption would see no benefit from it.16
+Therefore, extending the exemptions to anti-trafficking provisions not only makes common 
+sense, but harmonizes the letter of the legislation with its plain intent.  
+I-ITC and Static Control thank the Copyright Office for this opportunity to submit 
+additional comments.  We respectfully request that the Copyright Office recommend to Congress 
+to amend Section1201 so that lawful repair and interoperability cannot be impeded by claims of 
+circumvention or trafficking in circumvention tools; and that the Librarian adopt a permanent 
+exemption from the anti-circumvention and the anti-trafficking provisions in order to enable 
+otherwise lawful repair, customization, and replacement of products and parts with embedded 
+software. We look forward to reviewing the comments of others, and to the opportunity to 
+provide further comments in reply.
+Respectfully submitted,
+/s/Tricia Judge
+Tricia Judge William L. London
+Executive Director Vice President & General Counsel
+International Imaging Technology Council Static Control Components, Inc.
+3157 N. Rainbow 3010 Lee Avenue
+Suite 340 PO Box 152
+Las Vegas, NV 89108 Sanford, NC 27331
+702-838-4279 800-488-2426
+tricia@i-itc.org skipl@scc-inc.com
+   
+15 Copyright Office, Library of Congress, Final Rule: Exemption to Prohibition on Circumvention of Copyright 
+Protection Systems for Access Control Technologies, 37 C.F.R. 201, Docket No. 2014-07, Effective Oct. 28, 2015, 
+dated Oct. 20, 2015, available at http:federal register/gov/a/2015-27212.
+16 17 U.S.C. §§ 1201(a)(2) and 1201(b).

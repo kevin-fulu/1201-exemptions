@@ -1,0 +1,181 @@
+[PAGE 1]
+ 
+Docket No. 2015-6  
+ 
+Reply Comments of the Software and Information Industry 
+Association 
+ 
+March 18, 2016 
+ 
+SIIA thanks the Copyright Office for the opportunity to submit 
+these reply comments, in which we wish to make two brief points.  
+First, despite the rather different perspectives of copyright owners 
+and users, the comments generally agreed that no changes t o 
+existing law were necessary to accommodate problems dealing 
+with embedded software.  Second, to the extent that problems 
+with existing law were identified, many of those critiques rest on 
+flawed foundations, identifying judicial confusion when in fact 
+none exists. 
+ 
+The record reflects a consensus that embedded software does 
+not require its own set of rules .  Even those commenters with 
+whom we disagree acknowledge that the primary  question asked 
+in the NOI—whether changes to the Copyright Act are necessary 
+to accommodate software in everyday consumer devices —should 
+be answered in the negative. 1  Indeed, the initial round of 
+comments revealed consistent and persuasive  evidence that 
+existing law spurs substantial investment and innovation not only 
+in smart goods, but software generally. 2  Assertions of adverse 
+effects routinely come hedged by conditional language:  
+                                                
+1  See, e.g., Computer & Communications Industry Association 
+Comments, at 5 (“neither policymakers nor stakeholders can confidently 
+define an administrable class of “everyday products ””); Comments of 
+Aaron Perzanowski et al. , at 11 (“Because the problems described above 
+result primarily from misinterpretation of the  terms of §§ 101, 109, and 
+117, legislative intervention is not strictly necessary.”)  [hereinafter “Law 
+Professor Comments”] ; Comments of Public Knowledge, at 2  (“Many of 
+the policy difficulties that could arise in the embedded software context 
+can be eliminated by simply following the text of the Copyright Act.”).  
+The omission of a particular comment does not signal SIIA’s 
+endorsement or rejection of its contents.  
+2  See, e.g., Microsoft Comments, at 2 -3 (describing level of 
+investment in cloud and other  services); Chamber of Commerce, at 2 -3
+
+[PAGE 2]
+ 
+2 
+ 
+• “These comments identify contexts in which copyright 
+may be improperly applied” 3 
+ 
+• “Many of the policy difficulties that could arise in the 
+embedded software context can be eliminated by simply 
+following the text of the Copyright Act” 4 
+ 
+• “[extension of existing licensing models to embedded 
+software] raises 
+the possibility of overlapping copyright 
+and patent protection for the func tional features of the 
+same device, not to mention the potential for copyright 
+protection for devices that fail to meet the more 
+stringent standards of possibility [ sic].”5 
+ 
+And so on.  Instead, as some commenters candidly admit, their 
+comments have little or nothing to do with problems having to do 
+with embedded software.  Their discontents flow from the fact 
+that modern software licensing exists.
+6   Those broader questions, 
+however, have been asked and answered during the Department of 
+Commerce’s preparation of its recent white paper on first sale— a 
+process in which many (if not most) of the same stakeholders 
+participated.  At the end of three years of examination, the 
+Department of Commerce found no evidence to warrant 
+                                                                                                                
+(noting that the commercial software industry has doubled since the 
+beginning of the century, and now accounts for 3.2% of GDP); Law 
+Professor Comments, at 9 (conceding that “In recent years, device 
+makers and servic e providers have developed no shortage of new and 
+innovative offerings.”).  
+3  CCIA, at 2 (emphasis added).  
+4  Public Knowledge, at 1 (emphasis supplied).  
+5  Law Professor Comments, at 1 1. 
+6  E.g., Law Professor Comments, at 1 (decrying licensing as 
+“software exceptionalism”); Music Library Comments, at 1 (“our 
+comments respond to the question of end user licenses in general, rather 
+than specifically to the software -enabled consumer products 
+contemplated by the NOI.”); Owners’ Rights Initiative  Comments, at 2 ( 
+stating that “we will not distinguish between business products  
+and consumer products… . The impact of copyright and contract law on 
+all these products is the same.”).
+
+[PAGE 3]
+ 
+3 
+ 
+amendment to existing law.  Tellingly, neither that white paper 
+,nor the record on which its conclusions rest  were mentioned once 
+by those critical of the existing licensing regime.  That silence, in 
+our view, speaks volumes.    
+ 
+Second, some of the comments have described the law of 
+licensing in fairly misleading or incomplete ways, taking 
+particular issue with the decision in Vernor v. Autodesk, 621 F.3d 
+1102 (9th Cir. 2010).  In particular, some commenters have 
+suggested a split between the Second and Ninth Circuits on 
+practices that give rise to a license vs. a sale. 7  A cursory 
+examination of each of these cases disproves that contention . 
+ 
+The defendant in 
+Vernor sold unlicensed software on ebay, 
+having acquired software from a company that had paid $495 for 
+upgrade versions of Autodesk software  that normally sold for 
+$3750.  As a condition of that lower price, the company promised 
+to destroy the older versions of the softwar e.8  The license 
+agreement with Autodesk not only reserved title in all versions of 
+the software, it required destruction of prior versions within sixty 
+days, and reserved the right to demand proof of that destruction. 9   
+Autodesk enforced its license agre ements through not only 
+tracking registered licensees, but requiring the use of activation 
+codes.
+10  The Ninth Circuit found that if the copyright owner 
+specifies that the user is granted a license, significantly restricts 
+the user’s ability to transfer the  software, and imposes notable use 
+restrictions, then it has licensed the software —not sold it.11   
+ 
+In contrast, in Krause v. Titleserv, Inc., 402 F.3d 119, 120 (2d 
+Cir. 2005) the plaintiff had written thirty five computer programs 
+for the defendant over the course of a decade, without evidence of 
+                                                
+7  Owner’s Rights Initiative, at 6.  
+8  See Vernor, 621 F.3d at 1105.  Autodesk also  brought suit against 
+the company, who stipulated to an injunction banning it from further 
+infringement.  Id.  n. 2. 
+9  Id. at 1104. 
+10  See id. at 1104-05. 
+11  Krause, 402 F.3d at 120-21 (noting that the plaintiff had 
+prevented executable files from being decompiled into source code).
+
+[PAGE 4]
+ 
+4 
+ 
+a written license agreement. 12  The defendant could not, among 
+other things, add new clients to its customer database or update 
+the addresses of existing clients without modifying the source 
+code.13  When he found out that he would have to report to a chief 
+information officer, the plaintiff quit and prevented the existing 
+programs from easily being upgraded. 14 The software was 
+designed for the defendant’s sole benefit, and was customized for 
+its operations. 15  The copies were stored on a server owned by the 
+defendant, and could be possessed and used indefinitely. 16    
+ 
+The contextual differences between these two cases are readily 
+obvious.  Indeed, given the Ninth Circuit and Second Circuit’s 
+emphasis on usage restricti ons,
+17 it seems more than plausible 
+that Krause would affirm the same results as Vernor.   SIIA 
+respectfully suggests that these two cases do not represent a 
+“split” on the law of licensing, as the contexts are dramatically 
+different.  That same difference in context also explains the result 
+in 
+Augusto.18  All these cases represent is courts reaching 
+different results on different sets of facts --a state of affairs that 
+does not warrant legislative intervention on any front.  
+ 
+Respectfully submitted, 
+ 
+/s/ 
+Christopher A. Mohr 
+Vice President for Intellectual 
+Property and General Counsel  
+Software and Information Industry 
+Association   
+                                                
+12   Id. at 124 & n.3.  
+13  Id. at 121. 
+14  Krause, 402 F.2d at 121.  
+15  Id. at 124. 
+16  See id. 
+17  See Krause, 402 F.2d at 124; Vernor, 621 F.3d at 1105. 
+18  UMG Recordings,  Inc. v. Augusto, 628 F.3d 1175 (9th Cir. 2011).

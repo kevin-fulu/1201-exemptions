@@ -1,0 +1,369 @@
+[PAGE 1]
+ 
+ 
+ 
+February 16, 2016 
+ 
+The Honorable Maria A. Pallante 
+Register of Copyrights 
+U.S. Copyright Office 
+101 Independence Avenue, SE 
+Washington, DC 20559-6000   
+ 
+RE:  Comments of ACT | The App Association in Response to the U.S. Copyright Office’s Notice of 
+Inquiry, Software-Enabled Consumer Products Study: Notice and Request for Public Comment, 80 
+FR 77668 (Dec. 15, 2015) 
+ 
+Dear Ms. Pallante: 
+ACT | The App Association, representing over 5,000 app companies and software firms creating and 
+licensing digital content, writes to submit input to the United States Copyright Office (“USCO”) in 
+response to its Notice of Inquiry.1 ACT is widely recognized as the foremost authority on the $120 billion 
+mobile app economy and its intersection with governmental interests. As the only organization focused 
+on the needs of small business app developer entrepreneurs around the world, ACT advocates for an 
+environment that inspires and rewards innovation while providing resources to help its members 
+leverage their intellectual assets to raise capital, create jobs, and continue innovating. 
+I. General Views 
+Copyright protections are foundational to rewarding the creativity and innovation that sustains and 
+grows much of the U.S. economy. With the rise of the digital economy and the increasing Internet-
+enabled connectivity of consumer products, these copyright protections have only become more 
+important for those who utilize this global marketplace. ACT applauds the USCO for seeking public 
+comment to inform to its review of the role of copyright law with respect to software-enabled consumer 
+products. 
+As detailed in ACT’s latest State of the Mobile App Economy report,2 the app industry has existed for less 
+than a decade and has experienced exponential growth alongside the rise of smartphones. It now 
+represents a $120 billion ecosystem which is led by U.S. companies, the vast majority of which are 
+                                                           
+1 Software-Enabled Consumer Products Study: Notice and Request for Public Comment, 80 FR 77668 (Dec. 15, 2015) 
+(“RFI”). 
+2 ACT’s annually-released State of the Mobile App Economy provides further information on this growing industry 
+that continues to grow, creating jobs and revolutionizing how consumers work, play, and manage their health. See 
+http://actonline.org/2016/01/04/act-the-app-association-releases-latest-app-industry-report/.
+
+[PAGE 2]
+2 
+ 
+startups or small businesses. The explosion of business-to-consumer and business-to-business mobile 
+apps being deployed by non-traditional software companies is dramatically changing the independent 
+software vendor economy, specifically with regard to exposure to digital risks and vulnerabilities. These 
+deployments include a variety of content delivery options, security and monitoring services, tech 
+support services, payment processing services, patents, licensing agreements, and diverse revenue 
+models. Copyright protections should contemplate dynamic industries like the mobile app economy, and 
+are a crucial underpinning to ACT’s thousands of software development member companies’ business 
+models, such as: 
+ Health devices with embedded software that are relied upon for related decisions, ranging from 
+lifestyle changes to medical treatments. 
+ Automotive products with embedded software that drivers rely on to protect their safety on 
+American roadways. 
+ Software-enabled financial tools used by countless Americans to handle financial transactions. 
+ Consumer and home-oriented products enabled by embedded software apps that are relied 
+upon for alertness and safety, as well as convenience and entertainment. 
+Piracy presents a major threat to the success of ACT members and the billions of consumers who rely on 
+digital products and services. Piracy, whether originating within the U.S. or abroad, threatens not only 
+the creators of digital content by undermining their ability to innovate, invest, and hire; but also the 
+end-users’ confidence in software-enabled products and services as there is potential for consumers to 
+be victimized by illegal sellers who pose as legitimate content owners and sellers. Counterfeiting 
+software apps can lead to customer data loss, interruption of service, and revenue loss and reputational 
+damage. Further, with the rise of enterprise mobile app development, apps are being used as a means 
+to attack mobile users of an entire enterprise. While the criminal penalties for these activities (e.g., 
+attacking a bank’s clients through a counterfeit version of their app) are likely more of a deterrent than 
+the copyright laws being violated when the counterfeit app is created, these criminal acts all begin with 
+first misappropriating application logic and application media content (brands, etc.). These threats have 
+caused significant damage, and continue to pose substantial hazards, to app development companies 
+that service every sector of the economy for countless end-users.  
+For example, ACT member BusyBee Studios’ children’s app Zoo Train3 was featured in the GooglePlay 
+app store for sale at $0.99. This app uses colorful animal shapes and animations in providing educational 
+puzzles and spelling lessons for young children. During a search for the product, the developers found 
+another app in the GooglePlay store using the same name and artwork, but from a different publisher. 
+This pirated app was free in the GooglePlay store and was displayed as a result of a search query for 
+“Zoo Train,” and – unlike the true Zoo Train app – displayed advertisements to earn bogus revenue as 
+well as gained permission to control a user’s device in order to access phone dialer information, the 
+address book, and the network stack to install itself to run in the phone’s operating system background 
+to collect this information (in other words, a malware “stub” that sits inactive but can be activated with 
+                                                           
+3 https://itunes.apple.com/us/app/zoo-train/id407870968?mt=8.
+
+[PAGE 3]
+3 
+ 
+a command). It took nearly 12 months to have the counterfeit Zoo Train app removed from the 
+GooglePlay store. 
+Zoo Train is not alone in facing such risks. Further innovative mobile app innovators that rely on 
+technological protection measures (“TPMs”) such as authentication and encryption to mitigate serious 
+piracy threats include: 
+ Mimir Health,4 which makes cloud-based analytic software for healthcare executives and 
+clinicians. The company’s products combine disparate healthcare data into one place, 
+eliminating time wasted on data consolidation and preparing reports by hand. 
+ DrinkMate,5 producer of the smallest breathalyzer in the world that plugs into a smartphone. 
+Once plugged into a smartphone and activated via its software app, a user can blow into the 
+device and get an immediate reading of blood alcohol content. DrinkMate’s goal is to promote 
+safe and responsible drinking habits and personal/public safety. 
+ PreEmptive Solutions,6 which provides application protection solutions, and works directly with 
+many thousands of software development organizations to help them manage these specific 
+risks. Leveraging PreEmptive’s application analytics and protection solutions, development 
+organizations materially improve application quality, user satisfaction, and development ROI 
+across today’s distributed and increasingly heterogeneous computing architectures. 
+ 
+The app industry effectively did not exist when the Digital Millennium Copyright Act7 (“DMCA”) became 
+law in 1998 after a comprehensive negotiation between policymakers, copyright interests, tech firms, 
+network operators, and nonprofits. The DMCA is not without flaws, but it has proven effective and 
+flexible enough to provide for and deal with continued innovation in the tech sector as well consumer 
+protection; further, courts have reined in attempts to abuse the law on many key issues. To educate 
+policymakers, the developer community, and consumers about the DMCA, ACT published a white paper 
+on the 15th anniversary of the DMCA titled “Quick Guide to the DMCA: The Digital Millennium Copyright 
+Act Basics,”8 a resource with easy-to-understand facts about what the law actually does and how it 
+impacts innovation. 
+                                                           
+4 http://www.mimirhealth.com/.  
+5 http://www.getdrinkmate.com/.  
+6 https://www.preemptive.com/.  
+7 Pub. L. No. 105-304, 112 Stat. 2860 (Oct. 28, 1998). 
+8 ACT | The App Association, Quick Guide to the DMCA (2014), available at http://actonline.org/wp-
+content/uploads/2014/10/DMCA_fullpage9-17-14.pdf.
+
+[PAGE 4]
+4 
+ 
+ACT’s views on the role of copyright with respect to software-enabled consumer products are informed 
+by several principles that we strongly urge the USCO to incorporate into its related report to Congress. 
+These include: 
+ Copyright Laws Should Encourage Innovation while Protecting Consumer Interests: the United 
+States’ copyright laws were created to stimulate innovation for the general public good. As laws 
+like the DMCA are nearly 20 years old and debate around copyright reform continues to 
+intensify, it is important that the Congressional intent underlying copyright law remain a 
+priority, such as ensuring that the copyright owner’s exclusive rights remain meaningful and 
+effective and through the properly-scoped application limitations on those rights, such as of the 
+fair use and first sale doctrines. 
+ Copyright Laws Should Permit for the Securing of Digital Content: software application 
+developers continue to face significant monetary and reputational risks due to piracy. The tools 
+to address these threats provided by the DMCA--incentives to intra-industry consensus 
+approaches and the use of TPMs (such as the use of digital rights management [“DRM”] 
+technologies)--should be enabled and not discouraged. While no technology is impervious to 
+attack, the DMCA has been a driving force in establishing the use of TPMs which have allowed 
+for rights holders to reasonably protect their creative works. 
+ Copyright Laws Should Provide Legal Certainty: software application developers must deal with 
+complex laws and regulations, including copyright, in the context of the United States (and very 
+often) globally. Copyright owners need clear legal mechanisms, including in the criminal context, 
+to ensure that they can leverage the Internet to export their software or services to consumers 
+in the United States and other countries, and a predictable process to protect their rights. 
+ Changes to Copyright Laws Should be Responsive to Proven Harms: calls for sweeping changes 
+to U.S. copyright law based on theoretical legal theories and undemonstrated impacts should be 
+carefully scrutinized. ACT urges the USCO to ensure its report to Congress is based on data-
+driven proven – not theoretical – harms. 
+ Changes to U.S. Copyright Law and Global Impacts: policymakers examining changes to U.S. 
+copyright law should always consider the impact changes made to copyright law in the context 
+of a digital economy may have in creating precedent outside of the United States. 
+ Sector-Specific Issues should be Addressed by Relevant Federal Actors, Not Through Altering 
+the Copyright Laws: policymakers should carefully approach proposals for changes to the 
+Copyright Act to address sector-specific issues, and ensure that changes to the Copyright Act do 
+not supplant the mechanisms and processes in place to address the public interest for regulated 
+segments of the economy, whether through specific Federal agency jurisdiction, competition, or 
+other relevant areas of law.
+
+[PAGE 5]
+5 
+ 
+II. Responses to Questions in the NOI 
+ 
+1. Whether copyright law should distinguish between software embedded in ‘‘everyday 
+products’’ and other types of software, and, if so, how such a distinction might be drawn in an 
+administrable manner.  
+a. Whether ‘‘everyday products’’ can be distinguished from other products that contain 
+software, such as general purpose computers—essentially how to define ‘‘everyday 
+products.’’  
+b. If distinguishing between software embedded in ‘‘everyday products’’ and other types 
+of software is impracticable, whether there are alternative ways the Office can 
+distinguish between categories of software.  
+ 
+To date, the Copyright Act, coupled with the DMCA’s protections, have enabled innovation, helped 
+combat piracy, and facilitated appropriate public access and fair use. As noted above, the exponential 
+growth of the mobile app economy (and the “Internet of Things” [IoT]) gives rise to a wider application 
+of copyright law to many “everyday” products. These “everyday” products are and will be enabled by 
+the same digital technologies that Congress contemplated when adopting the DMCA’s changes to the 
+1976 Copyright Act. 
+Functionally, whether a product is an “everyday” product is a relative determination that will change at 
+an increasing rate as technological innovation escalates across segments of the economy. Moreover, 
+technological innovation consistently outpaces legislative and regulatory processes, virtually assuring 
+that any statutory articulation of a distinction will quickly become outdated, leading to more confusion 
+and frustration in the marketplace. Attempting to determine a stagnant definition of “everyday 
+products” from “others” in the context of copyright law is not feasible, and would therefore generate 
+increased uncertainty by creating new and complicated differentiations in the law, discouraging 
+investment and innovation (e.g., the “bring your own device” model). Alternatively, uniform and 
+predictable application of the copyright laws will provide clarity in legal responsibilities and expectations 
+for all stakeholders. 
+Based on the above, ACT strongly discourages Congress and the USCO from attempting to distinguish 
+between software embedded in ‘‘everyday products’’ and other types of software (as well as 
+“alternative ways [to] distinguish between categories of software”) in the copyright context because 
+such an exercise is impractical and would multiply confusion around the application of copyright law. 
+While there are certainly opportunities to continue to refine copyright law that will embrace the next 
+generation of technological advances, Congress should be wary of dismantling the compromises 
+underlying existing law that have served innovation and creativity well, and should only proceed after 
+extensive and careful consultation with stakeholders. 
+ACT also encourages the USCO’s report to Congress to include discussion of the impact the United 
+States’ copyright laws have globally. Should the USCO recommend to Congress that it consider taking a 
+radical step such as attempting to differentiate between software in “everyday products” and “others,” 
+it could push other nations to undertake a similar approach, multiplying legal uncertainty around the 
+globe.
+
+[PAGE 6]
+6 
+ 
+ 
+ 
+2. The rationale and proper scope of copyright protection for software embedded in everyday 
+products, including the extent to which copyright infringement is a concern with respect to 
+such software.  
+Since the 1976 Act's enactment, the scope of copyright protections for computer programs has been 
+refined by Congress, as well as judicially, creating precedents that underlie the software industry and 
+the potential benefits that will result from the increasing digitization and connectivity of “everyday” 
+products. Consistent with our views above, ACT strongly urges for the most clear and consistent 
+approach to software copyright as is possible, regardless of whether it is embedded in so-called 
+“everyday” products or in “other” products. 
+The DMCA, and the Copyright Act itself, was never expected to end unlawful uses of content. No laws, 
+for that matter, prevent unlawful behavior entirely. While the DMCA has not eliminated digital piracy, it 
+has provided important tools for copyright owners to protect their copyrights online. Similarly, for 
+software embedded in “everyday” products, copyright owners will face an ongoing battle to mitigate 
+infringement. If Congress undertakes a legislative initiative in this area, ACT encourages Congress to 
+consult extensively with stakeholders before proposing statutory change. 
+ 
+3. The need to enable interoperability with software-embedded devices, including specific 
+examples of ways in which the law frustrates or enables such interoperability.  
+Interoperability – at its highest level, the ability to communicate with other interfaces – can sometimes 
+be a necessity for app developers, but the practice of reverse engineering must be balanced with the 
+need to adequately maintain the integrity of software using TPMs (such as authentication and 
+encryption). The use of TPMs is crucial to maintaining the integrity of software and in protecting end-
+user data collected by consumer products with embedded software, not only from nefarious actors but 
+also in furtherance of the obligation to protect end-users’ privacy rights. 
+While the USCO has requested that input related to the effectiveness of Section 1201 be shared in a 
+separate Request for Information,9 ACT notes that Congress’ safeguarding provision requiring an 
+examination of Section 1201’s efficacy in the DMCA10 is a valuable means to evaluate fair use and its 
+relation to interoperability. Section 1201 allows a lawful user of a computer program to circumvent a 
+technological measure “for the sole purpose of identifying and analyzing those elements of the program 
+that are necessary to achieve interoperability of an independently created computer program with 
+other programs, and that have not previously been readily available to the person engaging in the 
+circumvention, to the extent that any such acts of identification and analysis do not constitute 
+infringement…”.11 Since the DMCA came into effect, the courts have provided further clarity around this 
+                                                           
+9 See RFI at 77671. 
+10 17 U.S.C. § 1201(a)(1)(C). 
+11 17 U.S.C. § 1201(f)(1).
+
+[PAGE 7]
+7 
+ 
+exemption that has provided increased certainty for copyright holders and the public.12 ACT continues to 
+monitor these developments, and discourages sweeping changes to copyright law based on theoretical 
+legal arguments and speculative harms. 
+Furthermore, interoperability raises a number of issues that fall beyond the USCO’s purview (e.g., 
+antitrust issues handled by the Department of Justice and/or Federal Trade Commission) or are sector-
+specific (e.g., the Federal Communications Commission’s efforts to ensure interoperability in public 
+safety communications13). ACT urges the USCO to ensure that its decisions around the application of 
+copyright law to software embedded in devices are made in full consideration and coordination with the 
+regulatory agencies best positioned to understand the issues unique to each sector. 
+ 
+4. Whether current limitations on and exceptions to copyright protection adequately address 
+issues concerning software embedded in everyday products, or whether amendments or 
+clarifications would be useful. Specific areas of interest include:  
+ 
+*** 
+d. Fair use (codified in 17 U.S.C. 107)  
+The fair use doctrine is an important component of the U.S. copyright system, which provides for the 
+ability to copy, distribute, or otherwise use a copyrighted work under certain circumstances. ACT 
+believes that the DMCA has advanced the Congressional intent of “fair use” while reasonably protecting 
+copyright owners. The Copyright Act contains a list of the various purposes for which that may be 
+allowed and the factors a court must consider in determining whether a use was fair, to be determined 
+on a case-by-case basis.14 ACT continues to monitor developments in the courts, but at this time does 
+not hold specific recommendations for changes to 17 U.S.C. 107.  
+ 
+e. The first-sale doctrine (codified in 17 U.S.C. 109)  
+Software apps are often licensed for use by consumers, and this digital content is therefore not owned 
+by licensees for the purposes of Section 109 of the Copyright Act. This contrasts with a marketplace for 
+sale of physical goods, which suffer from generational losses and therefore deteriorate over time. The 
+“physical” manifestation of software only applies in limited cases when it had been previously installed 
+on a computer that is resold. Licensing allows app developers to offer low-cost, consumer-friendly 
+products in a thriving marketplace, making it possible for consumers to get amazing, innovative products 
+for as little as $0.99. To be clear, the software industry at large, and in particular the mobile app 
+economy, has flourished using this licensing business model, which has directly resulted in baseline 
+                                                           
+12 See, e.g., Davidson & Associates v. Jung, 422 F.3d 630 (8th Cir. 2005). 
+13 E.g., Interoperability, FCC Public Safety & Homeland Security Bureau, Interoperability, 
+https://transition.fcc.gov/pshs/emergency-information/interoperability.html (last accessed Feb. 16, 2016). 
+14 These factors are: (1) the purpose and character of your use; (2) the nature of the copyrighted work; (3) the 
+amount and substantiality of the portion taken; and (4) the effect of the use upon the potential market. See 17 
+U.S.C. 107.
+
+[PAGE 8]
+8 
+ 
+consumer expectations related to the licensing of software (e.g., warranties on the product and related 
+consumer support). 
+Proposals to expand the first sale doctrine to software and the app market would significantly threaten 
+the industry’s viability, putting the quality of consumer software in peril, as treating software as if it had 
+the same attributes as a physical product would require app makers to radically change their pricing 
+structure. Aside from the technical challenges associated with such an assurance that the seller deletes 
+the original copy before resale in a secondary market, it is reasonable to infer that app sales in the 
+primary market will decline substantially. Since most app companies are small businesses, this threat to 
+revenues would force them to dramatically increase prices and forego consumer-friendly business 
+models to ensure a financial return on investment. In some cases, such a change would very likely lead 
+to some app developers exiting the market, decreasing competition among the remaining developers, 
+and reducing the overall diversity of the marketplace. 
+Expanding the first sale doctrine to digitally licensed content would also discourage investment in one of 
+the fastest growing sectors of our economy. When forced to raise prices, app makers would have far 
+fewer customers, leading to marketplace uncertainty. Investment in mobile services would fall sharply 
+and the pace of new innovations that make our lives easier would slow to a crawl. App companies not 
+only create and license content but also obtain software licenses in the development of their products. 
+Without the incentive for innovators to license their inventions, many software companies would no 
+longer have access to the component parts of code, created by others, that are necessary to make new 
+apps. Without access to these tools, the vast majority of companies in the app marketplace would lack 
+the resources to continue production.  
+In rejecting the notion that the first sale doctrine should extend to digital transmissions of copyrighted 
+works, the Department of Commerce’s Internet Policy Task Force (“IPTF”) recognized the flexibility that 
+the licensing model has brought to the software marketplace. Specifically, it noted that an “overly broad 
+application of the first sale doctrine could also impede the continued development of the growing range 
+of flexible new licensing models and variable pricing[, and that c]onsiderable evidence [demonstrates] 
+that such models are becoming more and more prevalent and that they provide real value to consumers 
+above and beyond traditional ownership models.”15 
+ 
+*** 
+ 
+                                                           
+15 INTERNET POLICY TASK FORCE, DEP’T OF COMMERCE, WHITE PAPER ON REMIXES, FIRST SALE, AND 
+STATUTORY DAMAGES (2015) at 65-68, https://www.ntia.doc.gov/report/2016/white-paper-remixes-first-sale-
+and-statutory-damages.
+
+[PAGE 9]
+9 
+ 
+5. The state of contract law vis-a-vis software embedded in everyday products, and how 
+contracts such as end user license agreements impact investment in and the dissemination 
+and use of everyday products, including whether any legislative action in this area is needed.  
+Many copyrighted products, including apps, are distributed subject to license agreements that use 
+“click-through” agreements facilitated by the app store platform (e.g., iOS). These license agreements 
+are a business necessity and create the terms of service for the use of the software, and may 
+appropriately include copyright limitations based on a balance of interests and the specific product, its 
+end user(s), etc. Adherence to licensing terms, for example, is crucial to ensuring data integrity and 
+resiliency, as well as end user privacy. ACT believes that the freedom to contract serves as a major 
+reason underlying the innovation seen in the mobile app economy. 
+The USCO should carefully consider, based on actual proven harms, its recommendations to Congress 
+related to state of contract law vis-a-vis software embedded in everyday products in order to ensure 
+that its recommendations are aligned with the existing body of contract laws, regulations, and 
+precedents; and the wide reliance of the business community, including those participating in the digital 
+economy, on them. ACT supports ensuring that app developers maintain the ability to dictate the terms 
+by which the product they sell is used through end user license agreements. Undercutting the balance in 
+place today that would alter the fundamentals underlying the digital economy at large, and would 
+impede the proliferation of innovative software-enabled consumer products. 
+ 
+***
+
+[PAGE 10]
+10 
+ 
+ACT | The App Association appreciates the opportunity to submit comments to the USCO to help inform 
+the record and its study on copyright issues for software-enabled consumer products, and looks forward 
+to the opportunity to meet with you and your team to discuss these issues in more depth. Thank you for 
+your consideration.  
+ 
+Sincerely,  
+ 
+Morgan Reed 
+Executive Director 
+ACT | The App Association

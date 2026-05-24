@@ -1,0 +1,129 @@
+[PAGE 1]
+GENERALCOUNSEL the 
+�ECEtVEO 
+Publtc Information Office 
+L--�O�F C!::!::O�PV� Rx:m.:lo-t€�&tt�s copyright Off ice, 
+OCT 27 2016 
+LIBRARY OF CONGRESS 
+ADDRESS 
+In the matter of: 
+Section 1281 Study 
+Notice and Request 
+for Public Comment 
+) 
+) 
+) 
+) Docket No. 2815-8 
+) 
+) 
+) 
+) 
+COMMENTS BY THE FREE SOFTWARE FOUNDATION 
+October 23rd, 2816 
+Background 
+Donald Robertson, III 
+Free Software Foundation 
+51 Franklin St. 
+Fifth Floor 
+Boston, MA 82118 
+On December 29th, 2015, the United States Copyright Office (Copyright Office) released a public call 
+for comment, Section 1201 Study: Notice and Request for Public Comment (Docket No. 2015-8) in 
+order to assess the operation of Section 1201, Title 17, including the triennial rulemaking process 
+established under the Digital Millennium Copyright Act (DMCA) to adopt exemptions to the 
+prohibition against circumvention of technological measures that control access to copyrighted works. 
+On September 21st, 2016, the Copyright Office issued a request for additional comments regarding 
+proposed new permanent exemptions, modifications to current permanent exemptions, and changes to 
+anti-trafficking provisions. In response to this call, the Free Software Foundation submits the following 
+comment. 
+About the Free Software Foundation 
+The Free Software Foundation (FSF) is a charitable 501(c)(3) corporation, founded in 1985, with the 
+mission to expand and defend computer user freedom. The FSF is the largest single contributor to the 
+GNU operating system (used widely today in its GNU/Linux variant), and the FSF's GNU General
+
+[PAGE 2]
+Public License (GPL) is the most widely used free software license, covering major components of the 
+GNU operating system and tens of thousands of other computer programs used on hundreds of millions 
+of computers around the world. The FSF has inspired and significantly influenced numerous other 
+initiatives focused on creating free licenses and free works, including Creative Commons and 
+Wikipedia. 
+The FSF's Licensing and Compliance Lab is the preeminent resource of free licensing information for 
+developers and publishers of free software and free documentation. The Licensing and Compliance Lab 
+provides numerous resources and public services including: no-cost licensing consultation for 
+developers of free works; continuing legal education workshops; certification of devices that run 
+exclusively on free software via the Respects Your Freedom certification program; maintaining a 
+directory of over 15,000 works of free software; and myriad educational publications on choosing and 
+making use of free licenses. 
+Comment 
+The DMCA's anti-circumvention provisions should be repealed, and the exemptions process ended. 
+Technological protection measures and Digital Restrictions Management (DRM) play no legitimate 
+role in protecting copyrighted works. Instead, they are a means of controlling users and creating "lock 
+in." Companies use this control illegitimately with an eye toward extracting maximum revenue from 
+users in ways that have little connection to actual copyright law. In fact, these restrictions are 
+technological impediments to the rights users have under copyright law, such as fair use. DRM enables 
+companies to spy on their users, and use that data for profit. DRM requires the use of proprietary 
+software, which exposes users to security vulnerabilities, as was the case in 2005 when Sony infected 
+users' computers with a rootkit as part of their music album DRM system, or last week, when users' 
+locked-down Digital Video Recorder machines were hijacked and used to launch a giant Distributed 
+Denial of Service attack on the Internet. 
+Companies seek to use DRM to lock down and control users, using potential copyright violations as an 
+excuse. DRM is frequently used to spy on users by requiring that they maintain a connection to the 
+Internet so that the program can send information back to the DRM provider about the user's actions. 
+DRM is used to restrict the ability of users to switch to a competing piece of software on their devices, 
+or to prevent them from switching to a competing digital store for the purchase of software, movies and 
+music. Even if it were about enforcing copyright law, the power given to companies by DRM and the 
+DMCA is unacceptably over broad. We should not give companies the authority to pursue criminal 
+charges against users seeking simply to have full control over their own computer systems and security, 
+just because some users might use that control to violate copyright law. 
+The FSF is the copyright holder for much of the software that comprises the GNU/Linux operating 
+system, one of the most ubiquitous operating systems in the world. FSF-copyrighted software is found 
+in thousands of devices, from wireless routers to the web servers that run much of the Internet. The FSF
+
+[PAGE 3]
+faces numerous copyright violations every day on the software to which it holds copyright, and has a 
+long and successful track record of resolving these violations without resorting to the use of DRM. 
+Thousands of other free software developers likewise do not utilize DRM, and are actually harmed by 
+the DMCA's anti-circumvention rules, which grant anti-competitive advantages to developers who 
+chose to harm their users. Free software has spread all around the world, enriching the lives of users 
+and the bottom lines of developers who understand the value in respecting the rights of everyone by 
+avoiding harmful DRM. 
+The exemptions process was supposed to address some of these concerns, but it does not. Exemptions 
+are of no value if they cannot be practically enjoyed by average users. Sharing tools and asking third 
+parties for assistance are always required for ordinary users to be able to exercise their rights. The 
+1201(b) restrictions on sharing tools necessary to exercise their rights should be rescinded, so that users 
+can help each other break free of the control imposed by DRM. Users should be free to ask third parties 
+to disable DRM on their behalf. 
+All DRM is a violation of the rights of users. The exemptions process as outlined by section 1201 is 
+completely broken beyond repair. No amount of exemptions, except a permanent exemption for all 
+uses, can rectify the situation. Requiring users to continually fight for exemptions in order to maintain 
+them is inherently unfair. The ultimate solution to the problem is not to try and fix a broken process, 
+but to end it. It is unethical and harmful for the law to treat all users as criminals -- which is exactly 
+what DRM does. The DMCA's anti-circumvention provisions do too much harm and should be 
+repealed, so that users may once again enjoy their rights under the law without interference. 
+Failing a full repeal of the anti-circumvention provisions, extending permanent exemptions to more 
+uses can help alleviate the damage caused by those provisions. Users that rely on assistive technologies 
+should not have the tools they need toyed with by a broken process. Granting a permanent exemption 
+on these tools will ensure at least that these users are not locked out from their everyday lives by 
+restrictive DRM. Additionally, DRM should not be permitted to lock users into abusive contracts by 
+holding their devices hostage. Congress has already had to intervene previously in the DMCA's 
+exemptions process to correct the failure to renew the right to unlock mobile devices. The exemption 
+for unlocking devices should be made permanent, and should extend to all devices, including tablets. 
+The ability to research or repair devices should likewise not be impaired by DRM. The simplest 
+permanent exemption for ensuring the right to research or repair a device is simply to make all uses 
+permanently exempt. Finally, the DMCA's anti-circumvention provisions should not lock away older 
+technologies for all eternity. Users should be able to continue to have full control over their devices 
+regardless of how long they possess them. DRM is malfunctioning software as it does not serve the 
+interests of users; when this malfunctioning software further breaks down and ceases to allow access to 
+the work, users have every right to disable this software to regain access. Exempting the ability to 
+disable broken DRM from the DMCA's anti-circumvention provisions permanently will help to reduce 
+the damage created by this unfair system. 
+The FSF's previous comment in this study calling for the end of the DMCA's anti-circumvention 
+provisions received over 1200 co-signers. There is a great deal of interest in ending the broken system
+
+[PAGE 4]
+brought about by the DMCA, but failing a full repeal of the DMCA's anti-circumvention provisions, we 
+encourage any efforts to limit the damage caused, and granting permanent exemptions would be 
+beneficial to that cause. 
+Sincerely, 
+Donald Robertson, III 
+Copyri ght and Licensing Associate 
+Free Software Foundation

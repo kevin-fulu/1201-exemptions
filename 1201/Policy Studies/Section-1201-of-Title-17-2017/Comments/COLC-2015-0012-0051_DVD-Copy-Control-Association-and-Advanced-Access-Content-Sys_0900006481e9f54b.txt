@@ -1,0 +1,590 @@
+[PAGE 1]
+Bruce Turnbull on behalf of 
+DVD CCA and AACS LA 
+ 
+Before the  
+United States Copyright Office  
+Library of Congress  
+Washington, D.C.  20559 
+ 
+ 
+ 
+ 
+ In the Matter of: 
+ 
+  Section 1201 Study 
+ 
+ 
+ 
+ 
+Docket No. 2015-8 
+ 
+ 
+ 
+JOINT COMMENTS OF THE DVD COPY CONTROL ASSOCIATION AND THE 
+ADVANCED ACCESS CONTENT SYSTEM LICENSING ADMINISTRATOR, LLC 
+INTRODUCTION 
+The DVD Copy Control Association (“DVD CCA”), a not-for-profit corporation with its 
+principal office in Morgan Hill, California, licenses the Content Scramble System (“CSS”) for 
+use to protect against unauthorized access to or use of prerecorded video content contained on 
+DVD discs.  Its licensees include the owners of such content and the related authoring and disc 
+replicating companies; producers of encryption engines, hardware and software decrypters; and 
+manufacturers of DVD players and DVD-ROM drives. 
+The Access Content System Licensing Administrator, LLC (“AACS LA”), is a cross-
+industry limited liability company with its principal offices in Beaverton, Oregon.  AACS LA 
+developed and licenses the Advanced Access Content System (“AACS”) technology for the 
+protection of audiovisual content on optical media, in particular Blu-ray Discs (“BDs”).  The 
+Founders of AACS LA are Warner Bros, Disney, Microsoft, Intel, Toshiba, Panasonic, Sony, 
+and IBM.
+
+[PAGE 2]
+ 
+ 
+ 2 
+As both encryption-based technologies have relied on section 1201 to protect prerecorded 
+content distributed in digital formats, DVD CCA and AACS LA jointly file these comments in 
+response to the Notice of Inquiry. 
+General 
+1. Please provide any insights or observations regarding the role and effectiveness of the 
+prohibition on circumvention of technological measures in section 1201(a). 
+DVD CCA and AACS LA have each found that section 1201 has been essential for the 
+development of the digital marketplace where content owners first released their high quality 
+content in a digital format on DVDs and then subsequently on BDs.  Specifically, the availability 
+of CSS incentivized content owners to risk releasing their valuable content in a digital format on 
+DVDs because CSS allowed content owners to protect their copyrighted works from 
+unauthorized access (and, as discussed further below, from unauthorized copying or other uses).  
+The technology does so by allowing content owners to encrypt their content on DVDs, and then 
+this encrypted content can be lawfully played back only on licensed players that have the 
+requisite keys and other technology necessary to decrypt the content on the DVD. 
+As the digital format shifted to high definition, AACS technology similarly promoted the 
+release of content owners’ high quality content in high definition for that part of the consumer 
+market that still prefers to play back content from a physical medium such as BDs.  Accordingly, 
+content owners use AACS technology to encrypt the content for recording on BDs, such that it 
+can only be lawfully played back on licensed Blu-ray disc players that have the requisite keys 
+and other technology to decrypt the content from the BD.  In addition to utilizing improved 
+encryption technology, AACS includes other specific enhancements such as key revocation 
+capabilities that prevent non-compliant devices from playing back subsequently released AACS 
+encrypted content.  Although a non-compliant device may still be able to play back the content
+
+[PAGE 3]
+ 
+ 
+ 3 
+released on BDs prior to the key revocation, it will not be able to play back content newly 
+released after the date of revocation. 
+As mentioned above, both CSS and AACS are intended to function only with licensed 
+products.  In other words, for a manufacturer of a play back product to have the necessary keys 
+and other technology to decrypt CSS or AACS content, the manufacturer must obtain a license 
+from DVD CCA or AACS LA.  
+The creation of the market for content distributed on DVDs, which inevitably led the way 
+to today’s robust digital marketplace, was only possible through the legal prohibitions 
+established under section 1201(a) that have protected both CSS technology and its licensing 
+regime.  Various individual activities and products in the marketplace have threatened CSS and 
+the protection that it affords copyrighted content distributed on DVDs. 
+One of the earliest courts to consider section 1201 noted that lawmakers had suggested 
+that the first prohibition (against the act of circumventing an access control technology) guarded 
+against “the electronic equivalent of breaking into a locked room in order to obtain a copy of a 
+book[,]” while the second prohibition (against the trafficking of an access control circumvention 
+product) “supplements the prohibition against the act of circumvention in paragraph (a)(1) with 
+prohibitions on creating and making available certain technologies . . . developed or advertised to 
+defeat technological protections against unauthorized access to a work.”  See Universal City 
+Studios, Inc. v. Reimerdes, 111 F. Supp. 2d 294, 316 (S.D.N.Y. 2000).  The Second Circuit, 
+which considered the appeal of that trial court’s decision, further explained the purpose in 
+approving the two different prohibitions: 
+Congress targeted not only those pirates who would circumvent these digital walls 
+(the “anti- circumvention provisions,” contained in 17 U.S.C. § 1201(a)(1)), but 
+also anyone who would traffic in a technology primarily designed to circumvent a
+
+[PAGE 4]
+ 
+ 
+ 4 
+digital wall (the “anti-trafficking provisions,” contained in 17 U.S.C. § 
+1201(a)(2), (b)(1)). 
+Universal City Studios Inc. v. Corley, 273 F.3d 429, 435 (2nd Cir. 2001). 
+Not surprisingly, DVD CCA and its content owner CSS licensees have spent their 
+energies in court enforcing the antitrafficking prohibitions as those products posed the greatest 
+harm to CSS and the copyrighted content it protected on DVDs.  See, e.g., Universal Studios Inc. 
+v. Corley, 273 F.3d 429 (2nd Cir. 2001), Universal Studios Inc. v Reimerdes, 111 F. Supp.2d 294 
+(S.D.N.Y. 2000); 321 Studios v. Metro Goldwyn Mayers Studios, Inc., 307 F. Supp.2d 1085 
+(N.D. Ca. 2004) and RealNetworks v. DVD Copy Control Ass’n, 641 F. Supp.2d 913 (N.D. Ca. 
+2009). 
+In each of those cases, CSS content owner licensees alleged that the challenged product 
+was a circumvention device and that the trafficking of the device would harm CSS protected 
+DVDs.  The courts agreed and enjoined the distribution of these products.  In so doing, the courts 
+readily found trafficking liability.   
+Reimerdes  
+In Universal City Studios, Inc. v. Reimerdes, 111 F. Supp.2d 294 (S.D.N.Y. 2000), the 
+defendants had developed DeCSS, a program that would decrypt CSS, and sought to distribute 
+the program from their website.  The plaintiffs moved to enjoin the publication and further 
+distribution of DeCSS.  On the admission of the defendants that all DeCSS does is decrypt CSS, 
+the court said that it was “perfectly obvious” that DeCSS was designed primarily to circumvent 
+CSS.  See Reimerdes, 111 F.Supp.2d at 318-19. 
+321 Studios 
+ In 321 Studios v. Metro Goldwyn Mayer Studios, Inc., 307 F. Supp.2d 1085 (N.D. Ca. 
+2004), the manufacturer of two different DVD copying software products sought a declaratory
+
+[PAGE 5]
+ 
+ 
+ 5 
+ruling that the products were not prohibited under the DMCA.  The software made “use of a CSS 
+‘player key’ [and] publicly known computer code that performs the algorithms to decode the 
+DVD data[,]” 321 Studios, 307 F. Supp.2d at 1089, even though the manufacturer had no license 
+to make use of the player key.  In considering the defendants’ motion for summary judgment on 
+whether 321 Studios was liable under the DMCA, the court noted that circumvention is defined 
+in part by decrypting a technological measure without the authority of the copyright holder.  321 
+Studios, 307 F. Supp.2d at 1095.  The court went on to find that having a license for CSS was 
+critical to engage in lawful decryption of a CSS-protected DVD, and because the manufacturer 
+lacked a CSS-license, its products circumvented CSS.  321 Studios, 307 F. Supp.2d at 1096. 
+As far as liability under the antitrafficking prohibitions the court determined that 321 
+Studios was liable under both the first and third provisions, respectively sections 1201(a)(2)(A) 
+and 1201(a)(2)(C).  321 Studios had admitted that one feature of the software had the ability to 
+unlock CSS.  See 321 Studios, 307 F. Supp.2d at 1098.  The court agreed with defendants that 
+this challenged feature was enough for liability as the statute bars “any technology, product, 
+service, device, component, or part thereof that is primarily designed or produced for the 
+purpose of circumventing §§ 1201(a)(2) and (b)(1) (emphasis added).”  Id. (emphasis in 
+original).  The court concluded that “portion of the software, therefore, violate[d] 17 U.S.C. § 
+1201(a)(2)(A).”  Id. at 1098. 
+The court also found 321 Studios liable under the third prong for marketing a 
+circumvention product.  321 Studios did not dispute that it marketed its products for use in 
+circumvention.  It instead argued that the antimarketing provision violated the First Amendment.  
+321 Studios, 307 F. Supp.2d at 1098.  The court reasoned that the First Amendment line of cases 
+cited by 321 Studios did not protect illegal activity such as the circumvention involved here.  Id.
+
+[PAGE 6]
+ 
+ 
+ 6 
+After rejecting that argument, the court concluded “321's DVD copying software is in violation 
+of the marketing provisions of [§] 1201(a)(2).”  321 Studios, 307 F. Supp.2d at 1099. 
+RealNetworks  
+In RealNetworks, Inc. v. DVD Copy Control Association, 641 F. Supp.2d 913 (N.D. Ca. 
+2009), a manufacturer that was also a CSS-licensee sought a declaratory judgment against DVD 
+CCA that its product, RealDVD, did not violate either the CSS license or the DMCA.  At the 
+same time, the movie studios sought to enjoin the distribution of the RealDVD product.  The 
+RealDVD product included a feature that allowed the CSS-protected content on the DVD to be 
+copied on to a computer hard drive and that copy could be played back without the DVD in the 
+DVD drive.   
+The court found that the RealDVD product circumvented CSS when it saved a copy on to 
+the hard drive.  That process involved  
+RealDVD [accessing] DVD content from the hard drive without going through 
+most of the CSS protection steps, such as DVD drive-locking, CSS authentication 
+and CSS bus encryption. Once RealDVD has copied a DVD, it does not 
+authenticate the DVD drive or receive encrypted keys at that time. The record 
+shows that CSS technology requires that a DVD drive “lock” upon insertion of a 
+CSS-protected DVD and prevent access to its contents until an CSS authorized 
+player engages in an authentication procedure, none of which RealDVD does 
+when it reads back DVD content from its hard drive.  
+RealNetworks, 641 F. Supp.2d at 933.  The court concluded that the “process of authentication 
+with the DVD drive, and subsequent content decryption, is thereby circumvented by the 
+RealDVD products.”  Id. 
+The court also addressed the circumvention that a CSS-licensee can engage in when it 
+exceeds the scope of the CSS license.  Following the earlier decision in 321 Studios, that “only 
+licensed DVD players can legally access the CSS keys in order to play DVDs” the court 
+explained that “[l]icensed DVD players are not shielded from the DMCA for accessing the CSS
+
+[PAGE 7]
+ 
+ 
+ 7 
+keys in order to perform non-licensed functions, such as copying DVD content and later 
+accessing that DVD content from the hard drive.”  RealNetworks, 641 F. Supp.2d. at 934.  
+According to the court,  
+The only time RealDVD accesses the CSS keys with authorization is the first time 
+RealDVD reads a physical DVD that is inserted in the DVD Drive. Thereafter, 
+RealDVD circumvents CSS when it accesses the DVD content from its hard 
+drive, . . . . Every time the RealDVD product, . . . accesses DVD content from the 
+hard drive, it does so by circumventing CSS technology and violating the access-
+control provision of the DMCA. 
+RealNetworks, 641 F. Supp.2d at 934. 
+The court found that RealNetworks had violated the antitrafficking prohibition because 
+the manufacturer had “admitted its intent upon initial development [of the RealDVD] was to 
+create a software product that copies DVDs to computer hard drives so that the user does not 
+need the physical DVD to watch the content.”  RealNetworks, 641 F. Supp.2d 913 at 933.  
+According to the court this admission did not require it to look beyond the first antitrafficking 
+provision as the product was indeed designed primarily for circumvention of CSS technology.  
+Id. at 933.  
+DVDFab 
+ AACS LA sued the manufacturer and distributors of DVDFab software products for 
+trafficking in circumvention products.  AACS LA v. DVDFab, No. 14-cv-01112, Complaint 
+(S.D.N.Y.).  AACS LA alleged that the software removed AACS encryption, thereby permitting 
+the content on the disc to be copied to another disc or hard drive.  Complaint ¶ 24.  Those copies 
+had no AACS technology protection against further reproduction and distribution and could be 
+played back on unlicensed devices and software media players.  Id. 
+In its complaint, AACS LA also alleged that on defendants’ websites, the defendants 
+marketed the products to “remove all Blu-ray copy protections,” are “powerful enough to rip any
+
+[PAGE 8]
+ 
+ 
+ 8 
+Blu-ray since it can remove nearly all Blu-ray protections,” and “can remove . . . all known 
+AACS copy protections.”  Complaint ¶ 26. 
+ After a show cause hearing at which the defendants failed to appear, the court issued a 
+preliminary injunction that enjoined the distribution of the products, shut down defendants’ 
+various websites, and prevented third-party service providers, such as banks and credit card 
+processors, from doing business with the defendants.  See DVDFab, No. 14-cv-01112 (Mar. 4, 
+2014) (Preliminary Injunction).  Subsequently, the defendants sought, among other things, to 
+amend the scope of the injunction.  At that time the court reviewed the legality of the injunction 
+issued from the bench during the show cause hearing.  The court found: 
+There is no doubt that AACS is a technological measure designed to control 
+access to copyright protected materials. Nor is there any doubt that Defendants’ 
+primary, if not sole, business purpose is to decrypt these technological measures. 
+As far as the standard for the preliminary injunction, the court found that plaintiff made a 
+clear showing that injunctive relief was appropriate.  It noted, plaintiff  
+lacks an adequate remedy at law, because its business model rests upon its being 
+able to prevent the copying of copyrighted works. If it is unable to prevent the 
+circumvention of its technology, its business goodwill will likely be eroded, and 
+the damages flowing therefrom extremely difficult to quantify.  
+DVDFab, No. 14-cv-01112 at 15 (Mar. 16, 2015) (citing Macrovision v. Sima Products Corp., 
+No. 05-CV-5587, 2006 WL 1063284, at *3 (S.D.N.Y. Apr. 20, 2006)) (Order) (quotations 
+omitted).  The court also pointed to the RealNetworks’ interpretation of the statutory authority 
+for an injunction.  “By making it a DMCA violation to distribute products that enable consumers 
+to override copyright owner preferences against unauthorized copying, Congress determined that 
+the public interest is best served by outlawing such products.”  DVDFab, Order at 15 (citing 
+RealNetworks, Inc., 641 F. Supp. 2d at 943). 
+*  *  *
+
+[PAGE 9]
+ 
+ 
+ 9 
+Whether the challenge is from bad actors or legitimate businesses – some of whom may 
+even hold licenses – enforcement of section 1201(a) has been critical to creating a stable 
+marketplace.  Content providers have taken the risk to introduce their products into the consumer 
+home market.  They did so based on the faith that CSS and AACS technologies and their 
+respective licensing regimes will be sufficient to keep their products protected while widely 
+distributed to consumers.  Consequently, today consumers enjoy an unprecedented plethora of 
+options for consuming digital content.  Essential to this market development is the legal 
+framework provided by the DMCA, which has encouraged both more aggressive engagement in 
+the legitimate digital marketplace and cooperative efforts between content and technology 
+providers to develop tools, like CSS and AACS, that enable that marketplace.  Section 
+1201(a)(1) (the prohibition against circumvention) discourages individuals from engaging in acts 
+of circumventing access controls.  Section 1201(a)(2) (the antitrafficking provisions) keeps those 
+tools that would circumvent access controls out of the marketplace.  Our experience has shown 
+that when CSS and AACS technologies have been challenged by either circumventing tools or 
+products, the courts have consistently been able to apply the law and issue injunctive relief to 
+prevent them from establishing a damaging foothold in the legitimate marketplace.  
+2. How should section 1201 accommodate interests that are outside of core copyright 
+concerns, for example, in cases where circumvention of access controls protecting 
+computer programs implicates issues of product interoperability or public safety? 
+Section 1201 implements into U.S. law the anticircumvention obligations that the U.S. 
+committed to when it entered into the WIPO Internet treaties.  Specifically, section 1201 
+provides legal protections in connection with the use of technological protection measures like 
+CSS and AACS to protect motion picture content from unauthorized access and uses.  In so 
+doing, these technological protection measures preserve the value of the underlying copyrighted 
+content distributed in the digital marketplace.  This achievement is exactly what the legislative
+
+[PAGE 10]
+ 
+ 
+ 10 
+history discusses with respect to adoption of the WIPO Treaties’ anticircumvention obligations.  
+See, e.g., S. Rep. No. 105-190 at 10 (May 11, 1998).  While the legislative history discussed 
+promoting the continued successful growth and economic importance of the copyright industries 
+in the digital age, it distinguished the copyright industries from the “manufacturing sectors, 
+including chemicals, industrial equipment, electronics, food processing, textiles and apparel and 
+aircraft” and “the major industry sectors, including agriculture, automobiles and auto parts, and 
+the aircraft industry.”  Id.  Undoubtedly, section 1201 was designed for the protection of motion 
+picture copyright content, and for the advancement of the industries creating that content, 
+holding the copyrights for such content, and making and marketing the legitimate devices for 
+playing back and displaying such content in ways authorized through the use of the technological 
+protection measures.  All of this was foreseen as critical to the then-budding digital age.   
+ As far as interests outside of the core copyright interests protected by CSS and AACS, 
+DVD CCA and AACS LA have no particular views on how section 1201 should accommodate 
+those interests.  But regardless of whatever approach may be taken with respect to those 
+interests, that approach must preserve (and not weaken) the availability and application of 
+section 1201 to core copyright interests. 
+Rulemaking Process 
+3. Should section 1201 be adjusted to provide for presumptive renewal of previously 
+granted exemptions—for example, when there is no meaningful opposition to renewal—
+or otherwise be modified to streamline the process of continuing an existing exemption?  
+If so, how?   
+DVD CCA and AACS LA would oppose the creation of a presumption of renewal for an 
+exemption, as it would not be consistent with the principles of administrative law.  Moreover, the 
+recurring nature of the rulemaking process was intended to allow it to be flexible and responsive 
+to changes in the marketplace.  There were good reasons why the rulemaking requires
+
+[PAGE 11]
+ 
+ 
+ 11 
+proponents to put on their case and meet their burden of proof de novo.  DVD-CCA and AACS 
+LA believe those reasons continue to be sound today and are not advocating change.  However, 
+they would not oppose a streamlined process for meeting the burden for renewal of an existing 
+exemption under the conditions noted below.  Provided there is no substantive objection to a 
+simple renewal request submitted to the Registrar, proponents of a renewal could choose either 
+to use the streamlined process to renew previously granted exemptions without any 
+modifications or to proceed through the normal deliberations of the rulemaking to determine if a 
+modified exemption is warranted.   
+Based on the experience of DVD CCA participating in every one of the triennial 
+rulemakings and AACS LA participating in the most recent two rulemakings, it is our 
+observation that requesting parties rarely seek renewal of the same exact exemption that was 
+previously granted.  Instead, the requests have been for modifications of previously granted 
+exemptions.  Historically, DVD CCA has generally not opposed the continuation of the same 
+CSS-related exemptions.  So, the issue in the proceedings has been whether the modifications are 
+justified, not whether the previous exemption should be renewed on the same terms as granted in 
+the prior proceeding. 
+DVD CCA has raised concerns with respect to, and often objected to, modifications of 
+previously granted exemptions, particularly when proponents sought expansion of the 
+exemption.   
+In the most recent rulemaking, for example, in their first round of comments the Joint 
+Educators sought a modified exemption.  The previously granted exemption allowed college 
+professors and college-level students to utilize short clips from DVD movies for class-based 
+educational uses but only if the DVD quality available from circumventing CSS is necessary for
+
+[PAGE 12]
+ 
+ 
+ 12 
+the educational purpose and only if no alternative to circumvention was available (e.g., through 
+the use of screen capture software).  The modification sought in the most recent proceeding 
+would have extended the exemption by removing the limitations that (i) the particular use must 
+require the higher resolution quality and (ii) alternatives to circumvention must first be sought 
+and determined to be inadequate for the particular use.1  Further, the modification would have 
+extended the exemption to include circumvention of AACS technology to enable the use of high 
+definition content from Blu-ray discs.  These were major changes to the previously requested 
+exemption that DVD CCA and AACS LA believe must meet the standard of evidence and proof 
+for an exemption, and not be subject to some kind of pro forma extension proceeding.  
+Another example from the most recent proceeding is illustrated in the Register’s 
+Recommendation as follows:  
+Authors Alliance generally seeks renewal of a previously granted exemption 
+permitting circumvention of TPMs for purposes of facilitating uses of motion 
+picture excerpts in nonfiction multimedia e-books offering film analysis. The 
+petition requests a few modifications to the previously granted exemption. First, 
+the petition requests that any exemption include the circumvention of AACS-
+protected Blu-ray discs, a proposal that the Register declined to recommend in 
+2012.  Second, the petition seeks an exemption in order to “make fair use of 
+motion picture content” in any genre of multimedia e-book, as opposed to the 
+more limited language of the 2012 exemption for uses “in nonfiction multimedia 
+e-books offering film analysis.” Third, the petition is not limited to uses of “short 
+                                                           
+1 The specific request from the Joint Educators was stated as follows:  
+The previous exemption must be renewed and expanded to allow college and 
+university students and faculty to engage critically with audiovisual materials. 
+The exemption must be expanded to include all audiovisual works in all courses 
+and to include high definition formats such as Blu-ray discs protected by the 
+Advanced Access Content System.   
+ . . .  
+[A]n exemption must be renewed and expanded renewed and expanded to include 
+audiovisual works accessed by college and university professors, students, and 
+staffs of all disciplines.  
+Joint Educators’ Initial Comments at 2-3.
+
+[PAGE 13]
+ 
+ 
+ 13 
+portions” of audiovisual material, a limitation the Register found critical in 2012. 
+Finally, although the initial proposal was limited to “motion pictures” at the 
+public hearing, Authors Alliance suggested that video game excerpts should be 
+included within this exemption. 
+2015 Recommendation at 33 (footnotes omitted).   
+This example also shows that the exemption proponents were either not able to articulate 
+the request precisely at the beginning of the proceeding or actually modified their request even at 
+the very last stage of the proceeding during the hearings.  Hence, while the Register may have 
+developed a practice of ultimately limiting her recommendations to renewing past exemptions, 
+the “burden” on the parties and the Copyright Office has come from the fact that actual 
+deliberations over the proposed exemptions are not simply to extend past exemptions but rather 
+determining whether the exemption should be expanded as the proponents request.  
+In light of this experience, DVD CCA and AACS LA believe that a streamlined process 
+could include the following elements while remaining consistent with the de novo requirements 
+of the law.  Proponents that choose to use the streamlined approach for a simple renewal could 
+request a nonmodified renewal by stating that the circumstances remain unchanged and they are 
+relying on the past findings of the Register along with prior submissions to support the renewal.  
+The opponents could then choose whether to challenge the renewal or not.  They could challenge 
+by providing a statement of a substantive basis for their objection.  For example, market 
+developments or abuse of the previously granted exemption could be reasons that opponents may 
+object to the renewal.  If substantive objections are proffered, then a streamlined approach would 
+not be available, and proponents would proceed through regular deliberations of the rulemaking.  
+But assuming no such objection, then the Register should be able to cite to the undisputed record 
+of the proceeding showing both the assertion from the proponents that circumstances remain as 
+demonstrated in the previous proceeding and the lack of substantive opposition to renewal as
+
+[PAGE 14]
+ 
+ 
+ 14 
+sufficient to support the recommendation of renewal.  This streamlined approach would be 
+consistent with principles of administrative law sufficient to satisfy the current law’s 
+requirements that an exemption be granted on a de novo determination.  
+4. Please assess the current legal requirements that proponents of an exemption must satisfy 
+to demonstrate entitlement to an exemption. Should they be altered? If so, how? In 
+responding, please comment on the relationship to traditional principles of administrative 
+law. 
+DVD CCA and AACS LA agree with the Copyright Office’s current interpretation of the 
+legal requirements that exemption proponents must show in order to demonstrate an exemption 
+is warranted. 
+5. Please provide additional suggestions to improve the rulemaking process. 
+In the most recent rulemaking, the Copyright Office introduced a new procedural 
+approach that gave the proponents three opportunities to make written submissions in the course 
+of the proceeding.  Opponents however only had one opportunity to submit a written response.  
+This approach gave the proponents ample opportunity to make their case for an exemption, while 
+it handicapped the opponents’ ability to respond.  
+Notwithstanding the Copyright Office’s instructions to the contrary, the proponents made 
+use of the reply comments to introduce new evidence and new arguments.  That evidence and the 
+associated arguments could have been introduced - and should have been introduced - in their 
+earlier submissions.  Opponents’ only opportunity to respond to the “new case” was during the 
+hearing.  The hearing, however, is intended for the Copyright Office to inform itself on those 
+issues that it perceives to be relevant – which may, but not necessarily, provide the opportunity 
+for the opponents to adequately respond.  DVD CCA and AACS LA would point out that if the 
+opponents had the chance to respond to the newly introduced matters before the hearing, an
+
+[PAGE 15]
+ 
+ 
+ 15 
+additional written response on the new matters could have helped inform the Copyright Office to 
+better pursue those issues that it believed to be most relevant. 
+In addition to pursuing exemptions to circumvent CSS and AACS technology through the 
+triennial rulemaking, DVD CCA and AACS LA would point out that interested parties with 
+reasonable and achievable requests consistent with those uses facilitated by previously granted 
+exemptions may possibly be able to obtain voluntary solutions to their requests.  DVD CCA and 
+AACS LA have repeatedly stated a willingness to discuss issues with bona fide proponents to 
+ascertain whether a voluntary solution could be reached.  The legislative history recognizes the 
+value of private sector and consultative approach to the adoption and deployment of 
+technological measures.  At the time, the approach was lauded for identifying and mitigating the 
+“adverse effects” that a TPM technology may have on the performance of IT and consumer 
+electronic equipment.  See H.R. Rep. No 105-796 at 64-65 (Conference Report).  In the 
+circumstances in which DVD CCA and AACS LA provide our technological protection 
+measures – although we recognize that other circumstances could be different in this regard – we 
+believe that a consultative approach could be useful in certain instances to resolve particular 
+possible adverse effects on fair use alleged to be caused by CSS or AACS technology.  Such 
+instances would, of course, need to be confined to situations in which bona fide proponents come 
+to DVD CCA and AACS LA with reasonable and achievable requests consistent with those uses 
+facilitated by previously granted exemptions. 
+Antitrafficking Prohibitions 
+6. Please assess the role of the antitrafficking provisions of sections 1201(a)(2) and 1201(b) 
+in deterring copyright infringement, and address whether any amendments may be 
+advisable.
+
+[PAGE 16]
+ 
+ 
+ 16 
+As previously discussed in response to Question 1, DVD CCA and AACS LA and their 
+licensees have found the antitrafficking provision of section 1201(a) crucial to keeping 
+circumvention tools and circumventing products out of the marketplace.  In two of the cases 
+already discussed, RealNetworks and 321 Studios, the courts found that the challenged products 
+also violated the antitrafficking prohibition of section 1201(b).  See RealNetworks, 641 F. 
+Supp.2d at 936. (“[T]he court finds that Real has violated section 1201(b) of the DMCA by 
+trafficking in RealDVD products for the purpose of circumventing CSS technology.”); 321 
+Studios, 307 F. Supp.2d at 1099 (“[T]his Court finds that 321's software is in violation of . . . § 
+1201(b)(1), because it is both primarily designed and produced to circumvent CSS, and marketed 
+to the public for use in circumventing CSS.”).  Because courts have been successful in the 
+application of sections 1201(a)(2) and1201(b), and the availability of the remedies provided by 
+those provisions have been essential to the development of the DVD and BD markets through the 
+use of CSS and AACS technologies, DVD CCA and AACS LA see no reason to amend either 
+section and would strongly oppose any such amendments.   
+7. Should section 1201 be amended to allow the adoption of exemptions to the prohibition 
+on circumvention that can extend to exemptions to the antitrafficking prohibitions, and if 
+so, in what way? For example, should the Register be able to recommend, and the 
+Librarian able to adopt, exemptions that permit third-party assistance when justified by 
+the record? 
+DVD CCA and AACS LA object to any proposal that would encourage the development 
+of a legitimate marketplace for circumvention tools or circumventing products.  It is axiomatic 
+that legal frameworks enable the development of a marketplace.  In fact, Congress approved the 
+DMCA to foster the development of the online and digital marketplace.  The Senate Committee 
+Report states that without the legal protection content providers would not have readily entered 
+the market:
+
+[PAGE 17]
+ 
+ 
+ 17 
+Due to the ease with which digital works can be copied and distributed worldwide 
+virtually instantaneously, copyright owners will hesitate to make their works 
+readily available on the Internet without reasonable assurance that they will be 
+protected against massive piracy. Legislation implementing the treaties provides 
+this protection and creates the legal platform for launching the global digital on-
+line marketplace for copyrighted works. It will facilitate making available quickly 
+and conveniently via the Internet the movies, music, software, and literary works 
+that are the fruit of American creative genius. It will also encourage the continued 
+growth of the existing off-line global marketplace for copyrighted works in digital 
+format by setting strong international copyright standards. 
+S. Rep. N. 105-190 at 8.  The ubiquity of high quality content available to consumers today is 
+indisputable proof that the DMCA has worked just as Congress envisioned.   
+Crucial to the foundation of the legal framework established by the DMCA is Congress’ 
+decision to ban those tools and products that would jeopardize this framework.  The 
+RealNetworks court explained this decision at length:  
+By making it a DMCA violation to distribute products that enable consumers to 
+override copyright owner preferences against unauthorized copying, Congress 
+determined that the public interest is best served by outlawing such products.  
+ . . .  
+The DMCA . . . clearly rebalance[d] the competing interests of copyright owners 
+against copyright users.  In so doing, the DMCA tipped the balance towards the 
+copyright owners.  The DMCA makes illegal the act of trafficking in 
+circumvention tools. 17 U.S.C. §§ 1201(a), (b). The DMCA prohibits the 
+circumvention of technological measures that guard copyrighted material, but 
+does not prohibit the downstream or end use of those materials after 
+circumvention has occurred.  It is the technology itself at issue, not the uses to 
+which the copyrighted material may be put. [W]hile it is not unlawful to 
+circumvent [copy controls] for the purpose of engaging in fair use, it is unlawful 
+to traffic in tools that allow fair use circumvention. That is part of the sacrifice 
+Congress was willing to make . . . . 
+RealNetworks, 641 F. Supp.2d at 943-44.  Thus, Congress has unequivocally banned 
+circumventing tools and products. 
+ As far as facilitating a fair use that would otherwise only be achievable by the use of a 
+circumvention tool, DVD CCA and AACS LA have represented previously that they are willing 
+to discuss how they could facilitate particular fair uses where their technologies are allegedly
+
+[PAGE 18]
+ 
+ 
+ 18 
+having an adverse effect on that fair use.  DVD CCA and AACS LA wish to reiterate their 
+willingness to pursue voluntary solutions.  
+Permanent Exemptions 
+8. Please assess whether the existing categories of permanent exemptions are necessary, 
+relevant, and/or sufficient.  How do the permanent exemptions affect the current state of 
+reverse engineering, encryption research, and security testing? How do the permanent 
+exemptions affect the activities of libraries, archives, and educational institutions? How 
+might the existing permanent exemptions be amended to better facilitate such activities? 
+DVD CCA and AACS LA are not aware of any issues with the existing categories of 
+permanent exemptions.   
+9. Please assess whether there are other permanent exemption categories that Congress 
+should consider establishing—for example, to facilitate access to literary works by print-
+disabled persons? 
+ 
+DVD CCA and AACS LA are not aware of any additional categories of permanent 
+exemptions that Congress should consider establishing.   
+Other 
+10. To what extent and how might any proposed amendments to section 1201 implicate the 
+United States’ trade and treaty obligations? 
+In the absence of a specific proposal, DVD CCA and AACS LA are unable to comment 
+on whether an amendment is consistent with trade and treaty obligations.   
+Conclusion 
+ As discussed above, section 1201 has played a crucial role in fostering today’s successful 
+online and digital environments.  More importantly, the triennial rulemaking process has been 
+robust enough to accommodate various parties’ interests in fair use – even if DVD CCA and 
+AACS LA have not agreed with the recommendations for exemptions.  Those interests have 
+been accommodated as far as the core copyright interests are concerned.  As far as addressing 
+those interests outside the core copyright industries, DVD CCA and AACS LA caution that any
+
+[PAGE 19]
+ 
+ 
+ 19 
+approach to resolve those outside interests should not come at the expense of weakening any of 
+the strong protections that the DMCA has afforded to copyright owners and purveyors of TPM 
+technologies.   
+Date: March 3, 2016 
+ Respectfully submitted,  
+ 
+ 
+ /s/ Bruce H. Turnbull    
+ Bruce H. Turnbull 
+ Turnbull Law Firm PLLC 
+ 5335 Wisconsin, Avenue, NW STE 440 
+ Washington, DC 20015 
+ 202-274-1801 
+ turnbull@bhtlawfirm.com 
+  
+ /s/ David J. Taylor    
+ David Jonathan Taylor 
+ Right Size Law PLLC 
+ 621 G ST SE 
+ Washington, DC 20003 
+ 202-546-1536 
+ david.taylor@rightsizelaw.com

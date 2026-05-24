@@ -1,0 +1,564 @@
+[PAGE 1]
+1  
+Before the 
+U.S. COPYRIGHT OFFICE, LIBRARY OF CONGRESS 
+In the matter of Section 1201 Study: Notice and Request for Public 
+Comment 
+Docket No. 2015-08 
+Comments of Organization for Transformative Works 
+ 
+The OTW is a nonprofit organization established in 2007 to protect and defend 
+fanworks from commercial exploitation and legal challenge. “Fanworks” are new, 
+noncommercial creative works based on existing media. The OTW’s nonprofit website 
+hosting transformative noncommercial works, the Archive of Our Own, has over 
+770,000 registered users and receives over 115 million page views per week. 
+ 
+We represent artists who make works commenting on and transforming existing works, 
+adding new meaning and insights—from reworking a film from the perspective of the 
+“villain” to retelling the story as if a woman, instead of a man, were the hero.  
+Noncommercial remix cultures provide important benefits to participants and to society 
+at large.  Historically, painters have learned to paint by studying, and copying, the work 
+of existing painters, developing their techniques and learning to create their own styles, 
+both building on and diverging from what’s gone before. Composers historically have 
+followed a similar arc; singers also regularly learn their craft from singing existing 
+songs and learning from existing performers’ styles.  So too with writers, who often 
+begin with pastiche as they master the relevant skills.  And so too with more recent arts, 
+including audio editing and video editing.
+1  Section 1201 makes it illegal to use 
+traditional artistic techniques in new media, which is both counterintuitive and 
+destructive.  Section 1201’s overbreadth prevents the planting of the seed corn of the 
+next generation of artists and scholars, to the detriment of the vibrant creativity 
+copyright should encourage. 
+ 
+I. Subjects of Inquiry 
+ 
+General 
+ 
+1. Please provide any insights or observations regarding the role and effectiveness 
+of the prohibition on circumvention of technological measures in section 
+1201(a). 
+ 
+We have nearly eighteen years of experience with §1201.  In that time, it hasn’t prevented 
+the widespread availability of circumvention technology.  Copyright infringers don’t pause 
+to ask whether they’re violating a second law, §1201 (of which they are almost certainly 
+unaware).  Unfortunately, §1201 therefore is more likely to harm people trying to do the 
+right thing than to deter people trying to do the wrong thing. 
+ 
+The Librarian of Congress has repeatedly determined that circumvention technology has 
+                                                           
+1 For a review of the empirical evidence of the value of remix, politically, culturally, educationally, and 
+otherwise, see the OTW’s 2013 comment to the NTIA Green Paper, available at 
+https://www.ntia.doc.gov/files/ntia/organization_for_transformative_works_comments.pdf .
+
+[PAGE 2]
+2  
+remained readily accessible to anyone with an internet connection.2   The reason most 
+people don’t use circumvention technology if they want to acquire unauthorized copies is 
+that they don’t need to: for pure consumption purposes, illegal downloads are widely 
+available.  Fortunately, legitimate services are increasingly competing to provide simple 
+and timely access for consumptive uses.  Ironically, anticircumvention thus weighs most 
+heavily on remixers and others who need to do more than just consume.  Section 1201 is an 
+arrow that has overshot its mark.  
+ 
+2. How should section 1201 accommodate interests that are outside of core 
+copyright concerns, for example, in cases where circumvention of access 
+controls protecting computer programs implicates issues of product 
+interoperability or public safety? 
+ 
+The OTW views the rise of non-copyright concerns to distracting prominence during the 
+rulemaking proceedings as an unfortunate side effect of the overbreadth of §1201, and 
+another reason to reform §1201 so that it is more clearly directed at deterring infringement, 
+not at protecting “digital locks” for their own sake. 
+ 
+It is also worth emphasizing that public safety is expressly safeguarded by other laws and 
+agencies, who bear direct responsibility and have relevant expertise.  Safeguarding 
+constitutionally-protected interests like free expression, by contrast, is the responsibility of 
+all laws and agencies (whether those laws are otherwise focused on copyright, public 
+safety, or any other interest). It is therefore the Copyright Office’s responsibility to ensure 
+that §1201 does not hinder free expression, but not the Copyright Office’s responsibility to 
+ensure that §1201 promotes public safety.   
+ 
+Rulemaking Process 
+ 
+3. Should section 1201 be adjusted to provide for presumptive renewal of 
+previously granted exemptions—for example,  when there is no meaningful 
+opposition to renewal—or otherwise be  modified to streamline the process of 
+continuing an existing exemption?  If so, how? 
+ 
+“Meaningful” is a subjective term that invites further strife.   There are participants in the 
+process who routinely oppose every exemption, and could be expected to argue in every 
+case that their opposition is “meaningful,” creating yet another issue the Office would have 
+to seek submissions on and then resolve.  Instead, at a minimum, there should be a 
+presumption of renewal for all granted exemptions, which could only be overcome by 
+evidence that the exemptions are facilitating substantial infringing uses. 
+ 
+4. Please assess the current legal requirements that proponents of an exemption 
+must satisfy to demonstrate entitlement to an exemption.  Should they be 
+                                                           
+2 Indeed, there must be an implied right to make a tool to engage in a privileged circumvention, or else the 
+exemptions granted, either by statute or by the rulemaking process, are meaningless. See Pamela Samuelson, 
+Intellectual Property and the Digital Economy: Why the Anti-Circumvention Rules Need to Be Revised, 14 
+Berkeley Tech. L.J. 519, 554 (1999).   The main reason §1201 is not impeding more lawful uses is because 
+circumvention tools are easy to find.
+
+[PAGE 3]
+3  
+altered?  If so, how?  In responding, please comment on the relationship to 
+traditional principles of administrative law. 
+ 
+The Office has, in many instances, imposed additional requirements on exemptions that are 
+not required by the statute.  Adherence to the statute would simplify the process for all 
+concerned.  Specifically: 
+ 
+(1) Substantiality: The Office has at times imposed a “substantiality” requirement for 
+interference with noninfringing uses.  As the NTIA and others point out, this is not 
+dictated by the statute, nor by the legislative history of the bill that was actually 
+passed by Congress.  See Section 1201 Rulemaking, 65 Fed. Reg. 64,556, 64,562 
+(Oct. 27, 2000) (recognizing “NTIA’s observation that the word ‘substantial’ does 
+not appear in section 1201(a)(1)(C)”); Bill D. Herman & Oscar H. Gandy, Catch 
+1201: A Legislative History and Content Analysis of the DMCA Exemption 
+Proceedings, 24 Cardozo Arts & Ent. L.J. 121, 169 (2006). 
+ 
+(2) Harm: Section 1201 requires the Librarian of Congress, assisted by the Office’s 
+recommendation, to determine any and all classes of copyrighted works whose 
+users “are, or are likely to be in the succeeding 3-year period, adversely affected … 
+in their ability to make noninfringing uses” by Section 1201(a)(1)(A)’s prohibition 
+on circumvention.  No further evidence of harm other than that inability to make 
+noninfringing uses is required.  The Office often seeks to identify harm other than 
+interference with noninfringing uses, such as potential physical risks associated 
+with inability to modify medical devices; this is unnecessary and unduly 
+burdensome to all concerned. 
+ 
+(3) Additional limitations on noninfringing uses: Similarly, the Office departs from 
+the statutory standard when it insists that it must give “guidance” to the public on 
+the nature of the underlying noninfringing uses, and that the existing Copyright Act 
+is insufficient to define lawfulness.
+3    Such a standard presupposes that certain 
+lawful uses, particularly fair uses, will be excluded from the exemption solely 
+because they can’t be defined with tax-code like precision in advance.  It also defies 
+the experience of prior rulemakings, which is that the Office’s “guidance” is in fact 
+usually so baroque as to make unclear when a use falls within its scope.4 
+ 
+The Office should not create additional requirements for lawfulness that are not in 
+the underlying law authorizing the relevant conduct, such as fair use or face-to-face 
+teaching.  Recent rulemaking is an example, where the Office imposed a 
+requirement of criticism or commentary over and above a noninfringing, 
+noncommercial fair use.  There is no need to prejudge potential types of 
+transformative fair uses, or to create an extra category that would need to be 
+                                                           
+3 Hearing Transcript, Statement of Jacqueline Charlesworth, May 28, 2015, at 55, available at 
+http://copyright.gov/1201/2015/hearing-transcripts/1201-Rulemaking-Public-Roundtable-05-28-2015.pdf 
+(also repeating the insistence on “substantial adverse effects” as a justification for providing “guidance” 
+beyond the requirements of the Copyright Act). 
+4 See id. at 240-41 (statement of Rebecca Tushnet) (summarizing past panels’ debates over meanings of terms 
+in prior rulemakings).
+
+[PAGE 4]
+4  
+separately analyzed even after a factfinder determined that a remix was fair use. 
+Rather, imposing such a requirement creates new uncertainties, mandating 
+distinctions that courts have increasingly recognized they are unequipped to make.5 
+Transformativeness recognizes the variety of interpretive contexts and wisely 
+exempts the factfinder from having to identify a specific critical message or 
+commentary—something that can be especially hard to reduce to words when it is 
+expressed in sounds and images. Indeed, courts routinely find fair use when there are 
+multiple interpretations of the meaning of a use.
+6 Punishing or suppressing work that 
+was transformative fair use, but not “critical” according to an outsider’s view, puts 
+artistic speech and artistic evolution at risk. 
+ 
+5. Please provide additional suggestions to improve the rulemaking process. 
+ 
+The Notice of Inquiry stated that: “the Office has done what it can within the existing 
+statutory framework to streamline the proceedings.  For the recent sixth triennial 
+rulemaking proceeding, the Register … adjusted the administrative procedures to make the 
+process more accessible and understandable; facilitate participation, coordination, and the 
+development of the factual record; and reduce administrative burdens on both the 
+participants and the Copyright Office.”  Notice of Inquiry at 10. 
+ 
+The aim was admirable.  The success was minimal.  The OTW, like the other public 
+interest organizations of which we are aware, spent at least as many person-hours on the 
+proceeding as in prior rulemakings, and the schedule was concentrated around particularly 
+difficult periods of the academic calendar.  Asking for a short initial proposal did not 
+change the burdens on participants, especially because the Copyright Office then asked 
+proponents to defend every key element of the exemption, rather than narrowing the issues 
+in any noticeable way.  (No previous rulemaking, for example, involved any dispute over 
+whether DVD-ripping software is widely available.)   
+ 
+The “more organized and complete administrative record” was not noticeably more 
+organized or complete than previous rounds, which also involved numerous back-and-forth 
+replies.  In part, the difficulty is because the Office combines repeated rounds of 
+submissions on an administrative law model with an adversarial approach that treats factual 
+development as solely the job of the contending participants.  Advance submission of 
+multimedia evidence is convenient and sensible, but it has no impact on the overall burden 
+in these proceedings. 
+ 
+Specific suggestions: 
+ 
+(4) De novo review is not a new evidence standard.  De novo review should not be 
+                                                           
+5 Cariou v. Prince, 714 F.3d 694, 706 (2d Cir. 2013) (“The law imposes no requirement that a work comment 
+on the original or its author in order to be considered transformative, and a secondary work may constitute a 
+fair use even if it serves some purpose other than those . . identified in the preamble to the statute.”; district 
+court erred as a matter of law in requiring criticism or commentary). 
+6 See, e.g., Seltzer v. Green Day, 725 F.3d 1170 (9th Cir. 2013); Cariou, 714 F.3d at 706-07; see also 
+Rebecca Tushnet, Judges as Bad Reviewers: Fair Use and Epistemological Humility, 25 L. & Lit. 20 (2013) 
+(discussing relevance of interpretive communities); Rebecca Tushnet, Worth a Thousand Words: The Images 
+of Copyright Law, 125 Harv. L. Rev. 683, 754-55 (2012) (discussing fair use and images).
+
+[PAGE 5]
+5  
+construed to mean that new evidentiary submissions are required.  Absent some 
+good reason to think that evidence on which a previous exemption was based is no 
+longer relevant, such evidence should be considered still valid, and new evidence of 
+harm may be particularly difficult to develop while an exemption is in force.  This 
+is especially important for smaller entities that lack the resources to endure a year-
+long (sometimes longer, such as the 20 months spanning 2009-2010) process every 
+three years.  The negative effects were felt acutely in the 2012 rulemaking, in which 
+the Office initially determined that an exemption for the visually impaired was no 
+longer justified because there was no new evidence in its support.  Fortunately, the 
+Librarian recognized the need to renew the exemption, but much controversy could 
+have been avoided by accepting previous evidence as still valid if there was no 
+reason to think that anything else had changed.  In addition, the result in 2015 was 
+that entities representing the visually impaired, and the Office, had to do substantial 
+extra work on an exemption that no one opposed, creating a new record not 
+substantively different from the old.  Considering evidence to continue to be 
+evidence even if it was previously submitted is also important to provide greater 
+certainty for anyone who relies on an exemption as part of their ongoing operations, 
+such as documentary filmmakers. 
+ 
+(5) The Office should recognize the widespread misuse of access controls as rights 
+controls.   In theory, no exemptions should be needed to circumvent copy controls.  
+In practice, copyright owners argue that access and rights controls are the same, and 
+thus the very acts that Congress deliberately left unregulated are now illegal.
+7 
+Remixers, for example, have lawful access—they pay for works in order to take 
+clips from them.  They don’t circumvent to get access they would otherwise lack; 
+they circumvent so that they can make short clips for their communicative 
+purposes, whether that’s commentary on Washington’s football team or on the 
+absence of nonwhite voices in popular film.8  The fact that, from the perspective of 
+rights controls, their acts are perfectly lawful should itself indicate an adverse 
+impact on noninfringing uses.  One way to correct this problem would be to hold 
+that persistent access controls, such as CSS, are not in fact access controls under 
+§1201(a)(1)(A), but rather rights controls. 
+ 
+(6) Alternatives to circumvention need to be realistic.  In its substantive 
+                                                           
+7 See R. Anthony Reese, Will Merging Access Controls and Rights Controls Undermine the Structure of 
+Anticircumvention Law?, 18 Berkeley Tech. L.J. 619, 650-51 (2003) (explaining how overuse of access 
+control has left rights control provisions a dead letter); Letter from Martine Courant Rife, Researcher, Mich. 
+State University, to U.S. Copyright Office, Library of Congress (July 10, 2009), available at 
+http://www.copyright.gov/1201/2008/answers/7_10_responses/final-rife_response-to-questions-july-10-
+2009.pdf (response to Copyright Office post-hearing questions) (arguing that the Copyright Office should 
+treat CSS, the technology that protects DVDs, as a rights control technology such that no exemption is 
+required to allow individual circumvention of CSS); Neil J. Conley, Circumventing Rights Controls: The 
+Token Crack in the Fair Use Window Left Open by Congress in 1201 May Be Open Wider than Expected--
+Technically Speaking, 8 Chi.-Kent J. Intell. Prop. 297, 316 (2009) (arguing that classifying technologies as 
+rights controls rather than access controls has undermined congressional intent to preserve fair use).  
+8 See NPR Staff, He’s Shared ‘Every Single Word’ — But It’s The Silence That Rings Louder, NPR, July 11, 
+2015, available at http://www.npr.org/2015/07/11/421822860/hes-shared-every-single-word-but-its-the-
+silence-that-rings-louder (discussing Dylan Marron’s edits of hit films reducing them to every single word 
+spoken by a person of color in the film—often leading to totals under a minut e long).
+
+[PAGE 6]
+6  
+consideration of whether an exemption is needed, the Office considers alternatives 
+to circumvention.  In this evaluation, the Office should weigh not just whether 
+alternatives exist in theory, but whether the relevant group understands and 
+practically can and will use those alternatives.  Section 1201, which is complicated 
+and counterintuitive, is unknown to most people, leaving users at risk of 
+inadvertently breaking the law if an exemption is not granted.  We’ve had over 
+fifteen years for knowledge of §1201 to permeate ordinary consciousness.  It hasn’t.  
+It’s not going to.  Even experienced IP lawyers sometimes don’t know about §1201; 
+the drafter of this comment has interacted with highly experienced trademark 
+attorneys who told her that, if a use was fair, anticircumvention law couldn’t apply.  
+Denying an exemption because an alternative is theoretically available, when the 
+relevant user group doesn’t know about it and won’t use it, is inconsistent with the 
+statute, which asks for evidence about harms to noninfringing uses in the real 
+world.  Looking at reality on the ground would provide a more innovation-friendly 
+environment.  
+ 
+(7) The standard should recognize the burdens of participating in the exemption 
+proceeding.  The Office’s evidentiary standards should specifically recognize that 
+many applicants for exemptions have limited resources and are often pro se.
+9  A 
+more limited evidentiary showing may be appropriate for smaller entities.  This 
+issue interacts with the Office’s unjustified “substantiality” requirement, as the 
+Office too often dismisses the evidence provided at its hearings— given by the few 
+people who know about the DMCA and have the resources to show up to provide 
+testimony— as anecdotal.   
+ 
+Anti-Trafficking Prohibitions 
+ 
+6. Please assess the role of the anti-trafficking provisions of sections 1201(a)(2) 
+and 1201(b) in deterring copyright infringement, and address whether any 
+amendments may be advisable. 
+ 
+The OTW has seen no evidence that these provisions deter circumvention itself, let alone 
+copyright infringement.  Clear copies of almost any work are available through 
+unauthorized sources, in significant part because, once copy protection is broken once, 
+that copy can seed other copies with no further need for anticircumvention tools.  People 
+interested in engaging in or facilitating piracy already have a demonstrated lack of regard 
+for the law, so adding a second law atop the first doesn’t deter them.  People trying to 
+comply with the law, by contrast, may be over-deterred by the law if and when they learn 
+of it, or, as the OTW routinely experienced before the noncommercial video exemptions 
+were in effect, they may decline to assert fair use or counternotify in the face of abusive 
+DMCA takedowns.  Thus, the only thing that §1201 is likely to deter is other otherwise-
+                                                           
+9 Over time, fewer individuals are even trying to participate in the process, and “[e]ven interested parties, 
+such as copyright holders, advocacy groups, educational and research institutions, must often resort to 
+attorneys and experts in the field to build a case for them.  As a result, the notice and comment process, 
+which was intended to have broad public participation, is now dominated by legal experts.” Maryna 
+Koberidze, The DMCA Rulemaking Mechanism: Fail or Safe?, 11 Wash. J.L. Tech. & Arts 211, 248-49 
+(2015) (footnotes omitted).
+
+[PAGE 7]
+7  
+noninfringing conduct.   
+ 
+The idea that it could be unlawful to perform the steps necessary to take a lawful act is 
+mystifying to most people. It is particularly notable that, in six rounds of rulemaking, 
+exemption opponents have developed no evidence that anticircumvention law is known to 
+creators.
+10  As researcher Katharina Freund discovered in her empirical work interviewing 
+remixers: “The complexity of copyright law makes it very difficult for non-experts to 
+understand, particularly, the anti-circumvention requirements of the DMCA.”11 Indeed, as 
+researcher Lucas Hilderbrand observed, “when people learn about the extent of the DMCA 
+restrictions, they respond with shock and outrage, which tends to turn either to pessimism 
+or to willful disregard for the law.”
+12  
+ 
+Many fair users are not part of preexisting artistic or political communities, and have no 
+reason to know about the specialized requirements of §1201.  Successful fair users like the 
+anti-abortion group Center for Bio-Ethical Reform
+13 or a critic of an anti-Muslim speaker14 
+made speech about specific matters, using circumvention to do so, rather than starting from 
+an intent to make transformative works.  Likewise, the anti-Redskins video highlighted by 
+the Office in the recent exemption proceeding was made within a political community, not 
+by people who routinely deal with technical copyright issues.
+15   
+ 
+Counterintuitive, unknown laws can’t deter wrongdoers, and they can easily be used to 
+suppress otherwise lawful and fair conduct carried out in good faith. 
+ 
+7. Should section 1201 be amended to allow the adoption of exemptions to the 
+prohibition on circumvention that can extend to exemptions to the anti-
+trafficking prohibitions, and if so, in what way?  For example, should the 
+Register be able to recommend, and the Librarian able to adopt, exemptions 
+that permit third-party assistance when justified by the record? 
+ 
+Yes, for the reasons given above.  That which is lawful to do ought to be lawful to get 
+assistance in doing, or large entities with in-house programmers are rewarded over small 
+entities, a particularly egregious discrimination when it comes to First Amendment-
+protected activities such as journalism and criticism. 
+ 
+The simplest solution would be as follows: Section 1201(a)(1) should allow 
+                                                           
+10 See also Krzysztof Bebenek,  Strong Wills, Weak Locks: Consumer Expectations and the DMCA 
+Anticircumvention Regime, 26 Berkeley Tech. L.J. 1457 (2011) (“[B]ecause the DMCA’s anticircumvention 
+regime relies on a combination of complex law and porous technology that fails to reflect consumer 
+expectations, there is good reason to believe that it is also fairly ineffectual.”). 
+11 See Katherine Freund “Fair use is legal use”: Copyright Negotiations and Strategies in the Fan-Vidding 
+Community, 17 New Media & Society 1, 5 (2014). 
+12 Lucas Hilderbrand, Inherent Vice: Bootleg Histories of Videotape and Copyright 79 (2009). 
+13 See Northland Family Planning Clinic, Inc. v. Ctr. for Bio-Ethical Reform, 868 F. Supp. 2d 962, 972, 982-
+93 (C.D. Cal. 2012) (re-edited video critiquing original video was fair use). 
+14 Caner v. Autry, 2014 WL 2002835 (W.D. Va. May 14, 2014).  As explained in the EFF/OTW comment, 
+Autry was sued over multiple critical videos, including his remix video, though the court only ultimately 
+ruled on one video.  EFF/OTW 2014 Comment, at 9. 
+15 Section 1201 Rulemaking: Sixth Triennial Proceeding, Recommendation of the Register of Copyrights 86 
+(Oct. 2015).
+
+[PAGE 8]
+8  
+circumvention for the purpose of making a non-infringing use of a protected work.  
+Section 1201(a)(2) and Section (b)(1) should be amended to permit the making and 
+distribution of tools capable of enabling substantial non-infringing use of a work, in order 
+to give those making lawful uses the practical ability to circumvent.  In the alternative, 
+TPM users should be required to facilitate access to exempted classes of works. 
+ 
+Permanent Exemptions 
+ 
+8. Please assess whether the existing categories of permanent exemptions are 
+necessary, relevant, and/or sufficient. How do the permanent exemptions 
+affect the current state of reverse engineering, encryption research, and 
+security testing? How do the permanent exemptions affect the activities of 
+libraries, archives, and educational institutions?  How might the existing 
+permanent exemptions be amended to better facilitate such activities? 
+ 
+The best result would be a permanent exemption for noninfringing uses, avoiding the 
+extended, wasteful wrangling involved in present discussions.  The Copyright Office, 
+copyright owners, and public interest organizations could focus elsewhere, where 
+numerous other copyright issues remain in need of attention.  Providing that exemptions 
+that have been granted and then renewed (and thus twice evaluated) become permanent 
+would also at least reduce the burden on the Copyright Office on a long-term basis. 
+ 
+It is important to recall that, just as the MPAA predicted that the VCR would destroy the 
+film industry,
+16 the MPAA, along with like-minded organizations, repeatedly claimed that 
+any exemption at all to §1201 would lead to the collapse of TPMs.17  Indeed, they 
+specifically predicted that the 2006 exemption for college film studies would, like the VCR 
+                                                           
+16 “[T]he VCR is to the American film producer and the American public as the Boston strangler is to the 
+woman home alone.”  Jack Valenti, the MPAA lobbyist who made this claim, conceded a few minutes later 
+that he owned and used a video tape recorder.  1982 Home Recording Hearing, Home Recording of 
+Copyrighted Works: Hearing on H.R. 4783, H.R. 4794, H.R. 4808, H.R. 5250, H.R. 5488, and H.R. 5705 
+Before the Subcomm. on Courts of the H. Comm. on the Judiciary, 97th Cong. (1982), at 8, 10 (testimony of 
+Jack Valenti, Motion Picture Association of America); see also Michael A. Carrier, Innovation for the 21st 
+Century: Harnessing the Power of Intellectual Property and Antitrust Law 107 (1st Ed. 2009) (recounting the 
+content industries’ grim and inaccurate history of predicting that new technologies—including player pianos 
+and records— would destroy the production of creative works). 
+17 Transcript of Testimony at 76, Section 1201 Rulemaking, Docket No. RM 2005- 11A (U.S. Copyright 
+Office Apr. 3, 2006), available at http:// www.copyright.gov/1201/2006/hearings/transcript -april03.pdf 
+(testimony of Fritz Attaway, Motion Picture Ass’n of Am.) (opposing any exemptions as threats to the 
+effectiveness of entire 1201 regime); Comments of Motion Picture Ass’n of Am. (MPAA) at 11, Section 
+1201 Rulemaking, Docket No. RM 2008-8 (U.S. Copyright Office Feb. 2, 2009), available at 
+http://www.copyright.gov/1201/2008/responses/mpaa-46.pdf (same); Comments of DVD Copy Control 
+Ass’n, Inc. at 2, Section 1201 Rulemaking, Docket No. RM 2002-3 (U.S. Copyright Office Feb. 19, 2003), 
+available at http://www.copyright.gov/1201/2003/reply/028.pdf (“even . . . ‘limited exemptions’ will 
+essentially render CSS ineffective as a means of protecting copyrighted content”); see also Comments of the 
+DVD Copy Control Ass’n, Inc. at 14, Section 1201 Rulemaking, Docket No. RM 2005-11 (U.S. Copyright 
+Office Feb. 2006), available at http://www.copyright.gov/1201/2006/reply/01taylor_DVDCCA.pdf (nearly 
+identical argument); Comments of Time Warner, Inc. at 10-11, Section 1201 Rulemaking, Docket No. RM 
+2005-11 (U.S. Copyright Office Feb. 2006), available at 
+http://www.copyright.gov/1201/2006/reply/18aistars_TWI.pdf (“Granting [an exemption] with respect to any 
+particular [DRM] technology would be tantamount to outlawing the use of that technology.”).
+
+[PAGE 9]
+9  
+before it, destroy the film industry.18  They’ve been wrong each time, and in the 2015 
+proceedings abandoned opposition to the renewal of many existing exemptions, conceding 
+their prior errors.   
+ 
+Clearer rules are better than murkier ones.  But arguments against exemptions “stand[] in 
+stark contrast to the DMCA’s actual prohibition on circumvention, which has always been 
+anything but clear or bright.”
+19  
+ 
+9. Please assess whether there are other permanent exemption categories that  
+Congress should consider establishing—for example,  to facilitate access to 
+literary works by print-disabled persons? 
+ 
+See above. 
+ 
+Other 
+ 
+10. To what extent and how might any proposed amendments to section 1201  
+implicate the United States’ trade and treaty obligations? 
+ 
+They would not.  The treaties we have signed provide for permanent exceptions, and 
+require only that copyright owners be protected against circumvention that violates their 
+rights, not that anticircumvention law create rights to control otherwise lawful uses. 
+ 
+For example, Article 11 of the WIPO Copyright Treaty requires that “Contracting Parties 
+shall provide adequate legal protection and effective legal remedies against the 
+circumvention of effective technological measures that are used by authors in connection 
+with the exercise of their rights under this Treaty or the Berne Convention and that restrict 
+acts, in respect of their works, which are not authorized by the authors concerned or 
+permitted by law.” Under the language of the treaty, the concern is not purely whether 
+access controls are circumvented, but whether anticircumvention is used to prevent acts 
+“which are not authorized by the authors concerned or permitted by law.”  As Dan Burk 
+explained:  
+ 
+[T]he treaty requires only that signatory states provide ‘adequate legal protection 
+and effective legal remedies’ against circumvention of technological controls. In 
+the United States, such protection would already have been provided under the 
+doctrine of contributory infringement, which attributes copyright liability to 
+providers of technical devices that lack a substantial noninfringing use…. The 
+compliance of U.S. law with the requirements of the treaty was so substantial that 
+the Clinton administration initially considered submitting the WIPO Treaty to the 
+                                                           
+18 Joint Reply Comments of Ass’n of Am. Publishers et al. at 30, Section 1201 Rulemaking, Docket No. RM 
+2005-11 (U.S. Copyright Office Feb. 2, 2006), available at 
+http://www.copyright.gov/1201/2006/reply/11metalitz_ AAP.pdf (“[T]he very medium that educators have 
+grown to appreciate and desire to use in their classrooms would be threatened by the recognition of the 
+requested exemption.”). 
+19 Krzysztof Bebenek,  Strong Wills, Weak Locks: Consumer Expectations and the DMCA 
+Anticircumvention Regime, 26 Berkeley Tech. L.J. 1457, 1474 (2011).
+
+[PAGE 10]
+10  
+Senate for ratification without accompanying implementing legislation.20 
+ 
+Subsequent treaties have equally preserved flexibility in implementing anticirumvention 
+rules.  For example, TPP Article 18.68: Technological Protection Measures (TPMs) 
+(which, if it comes into force, will supersede various other treaties such as the Australia-US 
+FTA) allows limitations and exceptions on both circumvention and trafficking rules in any 
+case where there is an “actual or likely” adverse impact on “non-infringing” uses.  Now is 
+the time for the US to evaluate §1201 as a whole and accept that, by definition, when 
+§1201 creates possible civil or criminal liability for noninfringing use, it has had such an 
+impact.  This finding, whether made by legislation or administrative proceeding, more than 
+satisfies our treaty obligations.
+21 
+ 
+11. Please identify any pertinent issues not referenced above that the Copyright  
+Office should consider in conducting its study. 
+ 
+The Office should consider the overriding objective of understanding of and respect for the 
+law. As Lucas Hildebrand observed above, the DMCA’s provisions create contempt for the 
+law.  One reason so many laypeople are dismissive of copyright law is because it is 
+counterintuitive and arcane, resulting in seeming unfairness and futility.  Jessica Litman 
+has explained: 
+ 
+The less workable a law is, the more problematic it is to enforce. The harder it is to 
+explain the law to the people it is supposed to restrict, the harder it will be to 
+explain to the prosecutors, judges, and juries charged with applying it. The more 
+burdensome the law makes it to obey its prescriptions, and the more draconian the 
+penalties for failing, the more distasteful it will be to enforce. The more people the 
+law seeks to constrain, the more futile it can be to enforce it only sporadically. 
+Finally, the less the law’s choices strike the people it affects as legitimate, the less 
+they will feel as if breaking that law is doing anything wrong. In other words, if a 
+law is bad enough, large numbers of people will fail to comply with it, whether they 
+should or not.
+22 
+ 
+The United Kingdom’s Intellectual Property Office surveyed numerous copyright 
+stakeholders, and heard the same point that simple rules promote understanding and 
+compliance: 
+                                                           
+20 Dan L. Burk, Market Regulation and Innovation: Legal and Technical Standards in Digital Rights 
+Management Technology, 74 Fordham L. Rev. 537, 558 (2005) (footnotes omitted); id. at n. 100 (“the 
+[DMCA’s] anticircumvention provisions contain language very close to that rejected by the treaty Diplomatic 
+Conference as overbroad and detrimental to the public domain.”); Pamela Samuelson, The U.S. Digital 
+Agenda at WIPO, 27 Va. J. Int’l L. 369, 387 (1997). 
+21 A footnote to this provision specifically allows the parties to make permanent, without further factfinding, 
+any existing exemptions at the time of accession; again, at a minimum, this should be done. 
+22 Jessica Litman, Digital Copyright 195 (2001); see also Joyce E. Cutler, On Copyright’s 300th Anniversary, 
+Scholars Question Effectiveness of Current Formulation, 15 Electronic Com. & L. Rep. 641 (2010) 
+(“Copyright law is ‘out of balance’ and action must be taken to restore the public’s respect for copyright, 
+[then-]Register of Copyrights Marybeth Peters said. . . . ‘[W]e have lost the respect of the public in many 
+ways,’ Peters said. . . . Copyright law should be understandable so that people will obey and respect it, Peters 
+said. Further, the way copyright is viewed has changed, and there are lots of new players, including 
+consumers, who Peters said ‘are really key in the copyright debate.’”).
+
+[PAGE 11]
+11  
+ 
+[Some stakeholders] saw the complexity of copyright as the main challenge to 
+lawful use of works. In their view, the current situation online was too confusing to 
+understand and as a result many people gave up trying. Even some long-time 
+professionals in the creative industries indicated a lack of knowledge of all relevant 
+copyright developments in their area. 
+ 
+The copyright system suffers from a marked lack of public legitimacy. . . . The 
+system is often unable to accommodate certain uses of copyright works that a large 
+proportion of the population regards as legitimate fair and reasonable. . . . The 
+problems become more pronounced as people feel a sense of ownership or 
+attachment to material in which the copyright is owned by others. Consumers may 
+have strong ties to material . . . because of the time and effort they have devoted to 
+it . . . .
+23  
+ 
+While they encourage disrespect from some people, incomprehensible rules also deter risk-
+averse creators from making fair uses.  The solution, as the UK IPO report put it, is to 
+“hid[e] the wiring”—to simplify copyright law so that it comes into better alignment with 
+ordinary logic.
+24  Reforming §1201 is a significant part of that solution. 
+ 
+                                                           
+23 U.K. Intellectual Prop. Office, © the Way Ahead: A Strategy for Copyright in the Digital Age 24 , 27 
+(2009), available at http://www.ipo.gov.uk/c-strategy-digitalage.pdf (citations omitted). 
+24 U.K. Intellectual Prop. Office, supra, at 33 (“Calls have been made for solutions which lessen or remove a 
+non-commercial consumer’s need to understand copyright law. The analysis above would suggest that 
+‘hiding the wiring’ by simplifying the situation for users could help tackle some of the problems of the 
+copyright system.” (citation omitted)).

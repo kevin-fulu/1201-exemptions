@@ -1,0 +1,382 @@
+[PAGE 1]
+1
+KERNOCHAN CENTER FOR LAW, MEDIA AND THE ARTS
+COLUMBIA LAW SCHOOL
+BEFORE THE
+U.S. COPYRIGHT OFFICE
+Section 1201 Study Docket No. 2015-8
+Comments of the Kernochan Center for Law, Media and the Arts
+Columbia Law School
+Introduction
+The Kernochan Center for Law, Media and the Arts appreciates the opportunity to 
+respond to the Notice of Inquiry concerning the study of Section 1201 published by the U.S. 
+Copyright Office, 80 Fed. Reg. 81,369-73 (Dec. 29, 2015). 1  
+The Kernochan Center for Law, Media, and the Arts at Columbia Law School is one of 
+the leading centers for intellectual property research in the United States. Its faculty and staff 
+dedicate their research and writing to copyright, trademarks, and related areas as they concern 
+traditional and emerging media, entertainment and the arts. The Center offers students an in-
+depth program of instruction, lectures, internships and externships while providing symposia, 
+lectures, research studies and publications to the broader legal community. Founded as the 
+Center for Law and the Arts, it was renamed in 1999 to honor Professor John M. Kernochan, its 
+founder and a pioneer in teaching copyright in American law schools. 
+Section 1201 of Title 17 was passed with the goal of encouraging content producers to 
+release their content on the internet, and to develop new distribution methods, such as providing 
+different price points for different levels of consumption.  Given the vast range of content now 
+available on the internet, it’s easy to forget how rudimentary such content offerings were in the 
+early 1990s when protection for technological protection measures was initially proposed.   
+                                                     
+1 Research assistance from Neal Burstyn, Columbia Law School (’16), is gratefully acknowledged.
+
+[PAGE 2]
+2
+As we discuss in our response to Question 1, below, section 1201 has been highly 
+effective.  Experience in the years since passage of the DMCA suggests that while certain 
+changes to the law may be warranted, such changes should be carefully considered and 
+incremental in nature, lest we undermine the positive effects that the statute has had.
+1. Please provide any insights or observations regarding the role and effectiveness of the 
+prohibition on circumvention of technological measures in section 1201(a).
+Section 1201 (a) has provided content owners with confidence that technological 
+protection for copyrighted works can be reasonably effective, and encouraged them to 
+experiment with various means of content distribution in the digital environment.  New forms of 
+distribution reliant on technological protection measures include sales of DVDs and Blu-Ray 
+Discs; on demand access to sound recordings (Spotify, for example, offers free access based on 
+an advertising model, and paid subscriptions that provide on demand access without advertising); 
+on demand digital downloads and on demand streaming of television programs and movies, 
+individually and through subscription models; live streaming of performances; availability of 
+books, music, television, movies and other content by means of mobile telephone and tablet 
+computers, and so on.  
+Many more examples are provided in the comments submitted by the Copyright Alliance 
+in this proceeding, as well as in testimony to Congress in its September 17, 2014 hearing on 
+chapter 12 of Title 17.  In those hearings, Jonathan Zuck, president of ACT | The App 
+Association maintained that the DMCA created an environment that contributed to “explosive 
+growth in technological innovations and content delivery options.”  He pointed to iTunes, Hulu 
+and Spotify, as well as numerous apps that can be made available to consumers with little risk 
+that they will contain viruses or malware.2 Christian Genetski of the Entertainment Software 
+Association stated that section 1201’s anti-circumvention provisions successfully provided 
+incentives to the videogame industry to expand consumer choices by “exponentially growing the 
+universe of authorized uses across multiple platforms with increased flexibility and at a wider 
+range of price points.”3
+                                                     
+2 Chapter 12 of Title 17: Hearing Before the Subcomm. on Courts, Intellectual Property, and the Internet 
+of the H. Comm. on the Judiciary, 113th Cong. 21 (2014) (testimony of Jonathan Zuck).
+3 Id. at 28 (testimony of Christian Genetski).
+
+[PAGE 3]
+3
+2. How should section 1201 accommodate interests that are outside of core copyright concerns, 
+for example, in cases where circumvention of access controls protecting computer programs 
+implicates issues of product interoperability or public safety?
+Congress was aware of interoperability concerns when it passed the DMCA (see 17 
+U.S.C.§ 1201 (f) re reverse engineering), but it is unlikely that it anticipated the vast range of 
+products now governed by computer programs or the potential for products manufacturers to use 
+the DMCA to control the markets for replacement parts or repair services.  The courts have thus 
+far rejected such attempts, see, e.g., Lexmark v. Static Control Components, 387 F.3d 522 (6th
+Cir. 2004) (re printer cartridges) and Chamberlain v. Skylink, 381 F.3d 1178 (Fed. Cir. 2004) (re 
+garage door openers).  While the results of these cases surely comport with Congressional intent 
+– it seems clear from the history of the DMCA that Congress meant to protect expressive works 
+of authorship, not markets for functional products or replacement parts – the reasoning of these 
+cases is somewhat strained, as the law provides no express exemption for circumvention of 
+access controls for these purposes.  
+In the most recent rulemaking proceeding, the Copyright Office was presented with a 
+number of requests for exemptions to circumvent technological controls to access software that 
+protects various consumer products, in order to create replacement parts or diagnose and repair 
+problems. The Office granted exemptions to, among other things, circumvent technological 
+access controls on 3D printers to allow use of alternative feedstock,4 and circumvent 
+technological access controls on motorized land vehicles where necessary to allow diagnosis, 
+repair and lawful modification of a vehicle function. 5
+                                                     
+4  The exemption reads:
+Computer programs that operate 3D printers that employ microchip-reliant technological 
+measures to limit the use of feedstock, when circumvention is accomplished solely for the purpose 
+of using alternative feedstock and not for the purpose of accessing design software, design files or 
+proprietary data; provided, however, that the exemption shall not extend to any computer program 
+on a 3D printer that produces goods or materials for use in commerce the physical production of 
+which is subject to legal or regulatory oversight or a related certification process, or where the 
+circumvention is otherwise unlawful.  37 CFR §201.40(b) (9).
+5 The exemption reads:
+Computer programs that are contained in and control the functioning of a motorized land 
+vehicle such as a personal automobile, commercial motor vehicle or mechanized agricultural 
+vehicle, except for computer programs primarily designed for the control of telematics or 
+entertainment systems for such vehicle, when circumvention is a necessary step undertaken by the 
+authorized owner of the vehicle to allow the diagnosis, repair or lawful modification of a vehicle 
+function; and where such circumvention does not constitute a violation of applicable law, including 
+without limitation regulations promulgated by the Department of Transportation or the
+
+[PAGE 4]
+4
+While it seems clear that section 1201 should not be used to protect a manufacturer of 
+consumer products against competition in the repair or supply of materials used in conjunction 
+with that product, in the recent proceeding, health and safety concerns were cited as potential 
+adverse consequences of allowing circumvention of technological controls that protect, for 
+example, emissions controls on automobiles.  While these may be legitimate concerns, they are 
+not within the expertise or jurisdiction of the Copyright Office.  The Office handled these issues 
+appropriately, by notifying the relevant federal agencies and granting certain exemptions with a 
+year’s delay before they go into effect, to give the relevant agencies time to take action if they 
+deem it appropriate.
+A fundamental question is whether circumvention of access controls that protect 
+primarily functional products rather than expressive works should continue to be addressed in the 
+rulemaking process, or whether a permanent exemption should be adopted.  In light of the 
+various considerations reflected in these exemptions and others related to circumvention of 
+protections on software that governs primarily functional products that were granted in the most 
+recent rulemaking, we believe it is premature to try to formulate a permanent exemption now.
+3. Should section 1201 be adjusted to provide for presumptive renewal of previously granted 
+exemptions—for example, when there is no meaningful opposition to renewal—or otherwise be 
+modified to streamline the process of continuing an existing exemption? If so, how?
+In light of the demands that section 1201 places on the proponents of an exception and on 
+the Copyright Office itself, some adjustment to the rulemaking process may be warranted.  
+Rather than the Copyright Office simply presuming that a previously granted exception should 
+be renewed, however, a proponent of the exemption should be required to file a simple request 
+for renewal, affirming that the exemption is still warranted and that there have been no material 
+substantive changes in the circumstances that supported the earlier determination to grant an 
+exemption.6  A party who opposes the exemption would have the obligation to come forth with 
+                                                                                                                                                                          
+Environmental Protection Agency; and provided, however, that such circumvention is initiated no 
+earlier than 12 months after the effective date of this regulation. Id. §201.40(b) (6).
+6 Requiring a proponent of the exemption (who need not be the original proponent) to come forward with 
+a simple filing requesting the exemption and indicating that it is relying on the earlier record: (1) seems to 
+better comport with the Administrative Procedure Act (see our response to Question 4), and (2) eliminates 
+the possibility of leaving on the books numerous exemptions that have become completely irrelevant to  
+the stakeholders.  It is possible that these concerns might be satisfied in other ways.
+
+[PAGE 5]
+5
+evidence that there has been a change in circumstances, e.g., evidence that there is greater ability 
+to make fair uses without circumvention than there was when the earlier exemption was granted, 
+or evidence that the circumvention of technological access controls is having an adverse effect 
+on the market for or value of copyrighted works.  At that point, the Copyright Office should 
+consider the application for the exemption de novo, and the burden of proof should be on the 
+proponent. 
+4. Please assess the current legal requirements that proponents of an exemption must satisfy to 
+demonstrate entitlement to an exemption.  Should they be altered?  If so, how?  In responding, 
+please comment on the relationship to traditional principles of administrative law.
+Currently, proponents of an exemption must demonstrate that they “are, or are likely to 
+be in the succeeding 3-year period, adversely affected by the prohibition [on circumvention of 
+technological measures that control access to copyrighted works] in their ability to make 
+noninfringing uses under [Title 17] of a particular class of copyrighted works.”  17 U.S.C. 
+§1201(a)(1)(C).   As a practical matter, the proponent of an exemption must identify the class of 
+works for which the exemption is sought, demonstrate that the uses for which the exemption is 
+sought are or are likely to be noninfringing, and that the technological access control measure is 
+diminishing the ability to use these works in an otherwise lawful manner.  Consistent with the 
+Administrative Procedure Act, 5 U.S.C. § 556 (d),7 the Office has placed the burden of proof on 
+the proponent of the exemption.          
+Section 556 (d) is a default rule and can be altered,8 and we are aware that the Breaking 
+Down Barriers to Innovation Act of 20159 would amend section 1201 to shift the burden away 
+from the proponents of an exemption.  However, the current procedure appears to be working 
+reasonably well, as demonstrated by the success of proponents of exemptions in the last 
+rulemaking.  Changing the burden of proof is unwarranted, and granting the Librarian discretion 
+to conduct rulemakings outside the triennial process (another provision of the Breaking Down 
+Barriers to Innovation Act), would overburden the Copyright Office and the stakeholders, and 
+lead to confusion.  In short, we don’t recommend altering the requirements at this time, but we 
+                                                     
+7 5 U.S.C. § 556 (d) provides: “Except as otherwise provided by statute, the proponent of a rule or order 
+has the burden of proof.”
+8 See id.
+9 See H.R. 1883, 114th Cong. (2015); S. 990, 114th Cong. (2015).
+
+[PAGE 6]
+6
+will review other comments filed in this proceeding to determine whether changes may be 
+warranted.
+5. Please provide additional suggestions to improve the rulemaking process.
+Our principal suggestion for improving the rulemaking process is contained in our 
+response to Question 3, above.  In the Sixth Triennial Proceeding, the Copyright Office 
+reorganized the procedures for the rulemaking, so that proponents first filed petitions for 
+proposed exemptions containing the basic elements of the exemptions, and then the Copyright 
+Office grouped the proposed exemptions into categories and sought comments thereon.  This  
+“administrative streamlining” benefited the rulemaking process and should be retained.  This 
+does not necessitate a statutory amendment, however.
+6. Please assess the role of the antitrafficking provisions of sections 1201(a)(2) and 1201(b) in 
+deterring copyright infringement, and address whether any amendments may be advisable.
+The anti-trafficking provisions in section 1201 are critical to the overall scheme of 
+protecting technological controls against circumvention.  Almost any technological protection 
+measure can be broken, so without the ban against trafficking, circumvention devices useable by 
+even the most technology-challenged of consumers would undoubtedly be readily available, and 
+TPMs would be largely ineffective.  Any changes to the anti-trafficking provisions should be 
+approached with great caution, as discussed below.
+7. Should section 1201 be amended to allow the adoption of exemptions to the prohibition on 
+circumvention that can extend to exemptions to the antitrafficking prohibitions, and if so, in what 
+way? For example, should the Register be able to recommend, and the Librarian able to adopt, 
+exemptions that permit third-party assistance when justified by the record?
+In some circumstances individuals or organizations have the right but not the ability to 
+circumvent access controls on copyrighted works.  We suspect that this occurs less frequently 
+that it might appear on the surface, as in many cases circumvention tools are available (e.g., for 
+DVDs) and in other cases, it can be assumed that the beneficiaries of the exception have the 
+technical expertise to circumvent (e.g., where the underlying work is sought for the purpose of
+
+[PAGE 7]
+7
+reverse engineering).  Nevertheless, there are circumstances in which the beneficiaries of an 
+exemption lack the technical expertise to circumvent access controls.
+We urge that the ban on trafficking in anti-circumvention devices should not be modified.  
+The Copyright Office defines exemptions not only by type of work but by type of use.  Devices 
+capable of circumventing particular technological controls can perform this function regardless 
+of the use to which the clear copy may be put. Once a circumvention device is on the market, it 
+will be readily available to anyone who wants to circumvent, not just to those who have a valid 
+purpose.
+Accordingly, other alternatives for making works available free of encryption should be 
+explored.  One possibility would be to permit circumvention services, subject to who can decrypt 
+for another and under what conditions, so that circumvention services would be allowed only in 
+limited circumstances.  Another might be to permit circumvention but only after providing the 
+right holders of the relevant copyrighted works an opportunity to make them available for the 
+permitted uses.10  
+To the extent that beneficiaries of exemptions are permitted to seek circumvention 
+services, it should be the Copyright Office that makes that determination, as part of the 
+rulemaking process.  The Office can determine whether such a provision is warranted, and 
+fashion an appropriate solution.  Ultimately, it can provide a more nuanced solution directed to 
+the particular circumstances for which circumvention is sought.
+8. Please assess whether the existing categories of permanent exemptions are necessary, 
+relevant, and/or sufficient. How do the permanent exemptions affect the current state of reverse 
+engineering, encryption research, and security testing? How do the permanent exemptions affect 
+the activities of libraries, archives, and educational institutions? How might the existing 
+permanent exemptions be amended to better facilitate such activities?
+We are not in a position to judge the current state of reverse engineering, encryption 
+research or security testing.  With respect to libraries, archives and educational institutions, it 
+appears that commentators’ suggestion that the current permanent exemption contained at 
+section 1201 (d) is “woefully inadequate”11 is not borne out by the evidentiary record.
+                                                     
+10 See June M. Besek, Anti-Circumvention Laws and Copyright:  A Report from the Kernochan Center for 
+Law, Media and the Arts, 27 COLUM. J. L. & ARTS 385, 491-96 (2004).
+11 Pan C. Lee et al., Samuelson Law, Technology & Public Policy Clinic, University of California, 
+Berkeley School of Law, on behalf of Public Knowledge, Updating 17 U.S.C. 1201 for Innovators,
+
+[PAGE 8]
+8
+The number of exemptions requested by libraries and affiliated associations12 during the 
+sixth triennial rulemaking represents the high water mark for requests by libraries in the triennial 
+rulemaking process (those requests are discussed below).  An examination of all six rulemaking 
+proceedings indicates that the perceived inadequacy of section 1201 (d) is overstated.  
+Presumably, a deficient statutory structure triggering the need for a broader permanent 
+exemption would force libraries to consistently and repeatedly request numerous new 
+exemptions and renewals every three years, but that has not been the case.  
+Libraries and affiliated associations have remained active participants in the triennial 
+rulemaking process, but not to the extent that demonstrates a need to expand the permanent 
+exemption contained in section 1201 (d).  For example, in the fifth triennial rulemaking the 
+Library Copyright Alliance (LCA) requested renewal of only one exemption, that for use of short 
+portions of motion pictures.  During the sixth triennial rulemaking, the LCA requested renewal 
+of the previous motion picture exemption, but requested broadening it to include new storage 
+technologies, such as Blu-Ray.  This request was ultimately recommended by the Register.13
+Therefore, contrary to the assertion that the current statutory structure is inadequate, it would 
+appear that the triennial rulemaking process is not only used by libraries to a limited extent, but 
+also that it is in fact functioning consistently with legislative intent by enabling libraries to keep 
+the Copyright Office and the Register apprised of changing technologies and the changing needs 
+of users.
+Moreover, many of the exemptions requested by associations such as the Music Library 
+Association (MLA) in the sixth triennial rulemaking were declined based on insufficient records.  
+For example, the MLA requested broad exemptions for audiovisual and literary works for the 
+purpose of noncommercial space-shifting or format-shifting.  The Register found that based on 
+the record, it was not conclusive that the activities were “noninfringing, or that the prohibition on 
+                                                                                                                                                                          
+Creators, and Consumers in the Digital Age 52 (2010), 
+https://www.publicknowledge.org/assets/uploads//2_Circumvention.pdf.
+12 For the purpose of this response we focus primarily on nonprofit libraries and archives.  Educational 
+institutions have been regular participants in the rulemaking proceedings and have been successful in 
+obtaining a number of exemptions.  Those exemptions, which have been very fact-based, do not easily 
+lend themselves to permanent exemptions, and currently the rulemaking proceeding (modified as 
+discussed above) seems like a more appropriate means of seeking and granting educational exemptions.
+13 U.S. Copyright Office, Section 1201 Rulemaking: Sixth Triennial Proceeding to Determine Exemptions 
+to the Prohibition on Circumvention, Recommendation of the Register of Copyrights 103-06 (2015), 
+http:// copyright.gov/1201/2015/registersrecommendation.pdf.
+
+[PAGE 9]
+9
+circumvention has, or is likely to have, an adverse impact on noninfringing uses of the 
+underlying works.”14  A record that is insufficient to support an exemption in the triennial 
+rulemaking process is equally insufficient to support broadening the existing permanent 
+exemption.
+We recognize, however, that the needs of nonprofit libraries and archives, the nature of 
+technological protection and the scope of copyright exceptions continue to evolve.  Accordingly, 
+the record of future rulemakings may demonstrate a need to revisit the permanent exemption for 
+libraries.
+9. Please assess whether there are other permanent exemption categories that Congress should 
+consider establishing – for example, to facilitate access to literary works by print-disabled 
+persons.
+Congress should consider an appropriately drafted permanent exemption to facilitate 
+access to literary works by print-disabled persons.  The history of the triennial rulemaking 
+indicates that this is an exemption that has been regularly sought and granted, and there are 
+strong public policy reasons for raising it to the level of a permanent exemption.
+With respect to additional new permanent exemptions, we refer to our discussion above 
+concerning broadening the exemption for libraries.  Where the records of previous rulemaking 
+proceedings indicate that the potential beneficiaries have not sought an exemption in the past, or 
+sought it but failed to provide sufficient evidence to justify it, there is insufficient basis to create 
+a new permanent exemption.  
+We do not, however, suggest that every exemption that has been granted in past 
+rulemaking proceedings should become a permanent exemption.  Doing so would minimize 
+flexibility and make it difficult to alter the scope of the exemption as circumstances change.  It is 
+clear that in some areas, technology, distribution methods and the means available to access 
+copyrighted works are changing rapidly. Also, some of the exemptions contain detailed 
+conditions that are better suited to regulations than to incorporation into section 1201 as 
+permanent exemptions.  Streamlining the process for seeking exemptions and allowing a party to 
+rely on the record of a prior rulemaking, discussed elsewhere, should make the process of getting 
+exemptions easier.
+                                                     
+14 Id. at 126.
+
+[PAGE 10]
+10
+10. To what extent and how might any proposed amendments to section 1201 implicate the 
+United States’ trade and treaty obligations?
+The extent to which any proposed amendments would implicate US trade and treaty 
+obligations depends in large part on the nature of the proposal.  The WIPO Copyright Treaty 
+provides:
+Contracting Parties shall provide adequate legal protection and effective legal 
+remedies against the circumvention of effective technological measures that are 
+used by authors in connection with the exercise of their rights under this Treaty or 
+the Berne Convention and that restrict acts, in respect of their works, which are 
+not authorized by the authors concerned or permitted by law.15
+There are strong arguments to be made that the fundamental structure of section 1201 –
+that is, protection against circumvention of access controls, and anti-trafficking provisions – is 
+necessary to provide “adequate legal protection and effective legal remedies” for technological 
+measures used by authors in connection with their works.16  But at the same time, it is clear that 
+the WIPO Copyright Treaty allows contracting parties some latitude with respect to the specific 
+terms of their legislation, as long as they effectively implement this provision.  So there is room 
+for the United States to make minor amendments to its legislation and remain consistent with the 
+WIPO treaties, as long as it maintains adequate and effective protection against circumvention.  
+Some of the bilateral trade agreements that the US has with other countries detail with 
+specificity obligations with respect to technological protection in a way that tracks the U.S. 
+statute.  See, e.g., the U.S.-Colombia Agreement, art. 16.7 (4) (2006), available at 
+https://ustr.gov/trade-agreements/free-trade-agreements/colombia-fta/final-text, which largely 
+tracks the obligations and limitations and exceptions of section 1201.  For example, subsection 
+(f) of that provision allows the parties to provide additional exceptions and limitations for:
+Noninfringing uses of a work, performance, or phonogram, in a particular class of 
+works, performances, or phonograms, provided that any exception or limitation 
+                                                     
+15 WIPO Copyright Treaty, art. 11, Dec. 20, 1996, 36 I.L.M. 65 (1997), available at
+http://www.wipo.int/treaties/en/text.jsp?file_id=295166#P87_12240. The WIPO Performances and 
+Phonograms Treaty has a similar provision.  WIPO Performances and Phonograms Treaty, art. 18, Dec. 
+20, 1996, 36 I.L.M. 76 (1997), available at http://www.wipo.int/treaties/en/text.jsp?file_id=295577. 
+16 II Sam Ricketson and Jane C. Ginsburg, International Copyright and Neighbouring Rights 15.10-15.21 
+(2d ed. Oxford Univ. Press 2006).
+
+[PAGE 11]
+11
+adopted in reliance on this subparagraph shall be based on the existence of 
+substantial evidence, as found in a legislative or administrative proceeding, of an 
+actual or likely adverse impact on those noninfringing uses; and provided further 
+that a review of such finding, conducted in an administrative or legislative 
+proceeding, shall be completed at intervals of not more than four years to 
+determine whether there still exists substantial evidence of an actual or likely 
+adverse impact on those noninfringing uses.
+The agreement also largely tracks the permanent exemptions in section 1201.  Any substantial 
+change in the exemptions provided in section 1201, or to the rulemaking proceeding, could 
+theoretically impact US obligations under this and similar agreements. See also U.S. Chile Free 
+Trade Agreement 17 (5) (2004), available at https://ustr.gov/trade-agreements/free-trade-
+agreements/chile-fta/final-text. Not all such changes would necessarily do so, but any proposed 
+exemption would have to be considered in light of the terms of these agreements.
+11. Please identify any pertinent issues not referenced above that the Copyright Office should 
+consider in conducting the study.
+Congress recognized that there were tradeoffs when it enacted section 1201.  It was well 
+aware that it might foster innovation in the means of content delivery at the cost of making 
+certain noninfringing uses of copyrighted works less convenient.  The benefits of that decision 
+are obvious, but often taken for granted when permission for circumvention for particular uses is
+sought.  Section 1201, including its exceptions and limitations, represents a balancing of interests 
+among the various stakeholders, and the rulemaking is an important tool in refining that balance.
+We urge that changes to section 1201 designed to make it easier for users to legally circumvent 
+technological access controls, or to obtain circumvention devices and services, be carefully 
+considered in light of the fundamental goals of the statute.
+Respectfully submitted,
+June M. Besek
+Executive Director,
+Kernochan Center for Law, Media and the Arts
+Columbia Law School  
+435 West 116th Street
+New York, NY 10027

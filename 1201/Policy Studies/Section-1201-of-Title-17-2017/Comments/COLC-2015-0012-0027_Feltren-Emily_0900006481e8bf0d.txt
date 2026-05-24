@@ -1,0 +1,217 @@
+[PAGE 1]
+ 
+ 
+Submitted by Emily Feltren, Director of Government Relations 
+ 
+February 26, 2016 
+ 
+Ms. Maria Pallante 
+Register of Copyrights 
+United States Copyright Office 
+101 Independence Avenue S.E. 
+Washington, D.C. 20559 
+ 
+RE: Section 1201 Study: Notice and Request for Comment (80 F.R. 81369, Docket No. 2015-8) 
+ 
+Dear Ms. Pallante: 
+ 
+The American Association of Law Libraries (AALL) is pleased to submit these comments in 
+response to the Copyright Office’s December 29, 2015 Section 1201 Study: Notice and Request 
+for Public Comment. We appreciate the Copyright Office’s inquiry into section 1201 of Title 17, 
+including the triennial rulemaking process. 
+ 
+Section 1201 has been plagued with issues since its enactment in 1998. Throughout our 
+participation in the legislative process that led to the enactment of the Digital Millennium 
+Copyright Act (DMCA), AALL expressed concern that the Act’s complicated rules would 
+prevent circumvention for noninfringing, legitimate uses; today, nearly twenty years later, we 
+still hold that view. Section 1201’s restrictions and rulemaking process are cumbersome and do 
+not adequately address issues with circumvention of technological protection measures.  
+ 
+While AALL would like to see a complete revision of section 1201, we focus these comments on 
+advocating for clarification of the role of existing copyright exemptions and changes to the 
+rulemaking process, particularly de novo review of previously granted exemptions and 
+permanent exemptions. 
+ 
+I.
+                DMCA’s Relationship with Copyright Law Requires Clarity 
+ 
+A primary problem with the DMCA is its uncertain relationship with the remainder of copyright 
+law. While section 1201(c) explicitly states that “[n]othing in this section shall affect rights, 
+remedies, limitations, or defenses to copyright infringement, including fair use,” courts have 
+reached opposite conclusions as to whether the bans on circumvention and trafficking are 
+applicable where a limitation or defense to copyright infringement applies, such as fair use.
+1  
+1 Compare Chamberlain Group, Inc. v. Skylink Technologies, Inc., 381 F.3d 1178, 1203 (Fed. Cir. 2004) (finding 
+that circumvention is only prohibited when it “infringes or facilitates infringing a right protected by the Copyright 
+Act”) with MDY Industries, LLC v. Blizzard Entertainment, Inc., 629 F.3d 928 (9 th Cir. 2010) (declining to follow 
+Chamberlain and stating that “Congress created a distinct anti-circumvention right under § 1201(a) without an 
+infringement nexus requirement.”) and United States v. Elcom, Ltd., 203 F. Supp. 2d 1111 (N.D. Cal. 2002) (“The 
+statute does not distinguish between devices based on the uses to which the device will be put. Instead, all tools that 
+enable circumvention of use restrictions are banned, not merely those use restrictions that prohibit infringement.
+
+[PAGE 2]
+ 
+Commenters and members of Congress have long recognized this as a significant flaw in the 
+DMCA, as evidenced by repeated proposed legislation that would bring the scope of the DMCA 
+back to the contours of copyright law.
+2 AALL agrees with the Library Copyright Alliance and 
+other commenters who have suggested that liability should only attach to circumvention that 
+enables infringement.
+3  
+ 
+II.             The DMCA Rulemaking Process Needs Revision 
+ 
+AALL agrees that the rulemaking process requires revision. Commenters and scholars have 
+repeatedly bemoaned the burdensome nature of the de novo review process.
+4 AALL agrees with 
+these commenters, and agrees with the framework set forth by the Library Copyright Alliance in 
+its written testimony before Congress. 5 The burden of proof should be placed on those opposing 
+renewal of exemptions, and exemptions should become permanent upon granting of a second 
+renewal. 
+ 
+In many instances, technology is unpredictable and an exemption sought today can be 
+unnecessary in three years. Alternatively, sometimes technology persists and an exemption may 
+be necessary for an undeterminable amount of time. A change in the rulemaking, such as the one 
+above, permits flexibility and predictability. Groups and individuals should be able to rely upon 
+some exemptions as they seek access to information and push technological innovation. 
+III.
+           Exemptions Should Extend to the Anti-trafficking Provisions 
+ 
+As currently written, the anti-trafficking provisions of section 1201(a)(2) and 1201(b) effectively 
+prevent the legal usage of exemptions to the anti-circumvention provisions. Section 
+1201(a)(1)(C) allows for lawful circumvention of access controls pursuant to exemptions granted 
+by the Librarian of Congress; however, there is no allowance for exemptions to the anti-
+trafficking provisions, which prohibit not only the importation, offering to the public, or 
+provision of products and services primarily designed to facilitate circumvention, but also the 
+“manufacture” of such products and services.
+6 Circumvention of copy controls is not prohibited 
+Thus… Section 1201(b) imposes a blanke t ban on trafficking in or marketing of any device that circumvents use 
+restrictions.”). 
+2 See, e.g., Unlocking Technology Act of 2013, H.R. 1892, 113th Cong. (2013), 
+https://www.congress.gov/113/bills/hr1892/BILLS-113hr1892ih.pdf; Digital Media Consumers’ Rights Act of 2005, 
+H.R. 1201, 109th Cong. (2005), https://www.congress.gov/109/bills/hr1201/BILLS-109hr1201ih.pdf. 
+3 Chapter 12 of Title 17: Hearing Before the Subcomm. on Courts, Intellectual Property, and the Internet of the H. 
+Comm. on the Judiciary¸ 113th Cong. 115 (2014) (statement of the Library Copyright Alliance) ; Chapter 12 of Title 
+17: Hearing Before the Subcomm. on Courts, Intellectual Property, and the Internet of the H. Comm. on the 
+Judiciary¸ 113th Cong. 60 (2014) (testimony of Corynne McSherry, Intellectual Property Director, Electronic 
+Frontier Foundation). 
+4 See, e.g., Christopher Moseng, The Failures and Possible Redemption of the DMCA Anticircumvention 
+Rulemaking Provision, 12 J. TECH. L. & POL’Y 333, 352-354 (2007); Krista L. Cox, Flaws of the 1201 Rulemaking 
+Process, ARL POLICY NOTES (Jan. 21, 2015), http://policynotes.arl.org/?p=852. 
+5 Chapter 12 of Title 17: Hearing Before the Subcomm. on Courts, Intellectual Property, and the Internet of the H. 
+Comm. on the Judiciary¸ 113th Cong. 115 (2014) (statement of the Library Copyright Alliance). 
+6 See Pamela Samuelson, Intellectual Property and the Digital Economy: Why the Anti -Circumvention Regulations 
+Need to be Revised, 14 BERKELEY TECH. L.J. 519, 551 (1999) (“It is unclear whether Congress intended for the 
+technologically savvy who could ‘do it themselves’ to be the only ones who could engage in privileged acts of
+
+[PAGE 3]
+by the DMCA; however, manufacturing or trafficking in the means by which copy controls can 
+be circumvented, even if for a noninfringing use, is prohibited.7 
+ 
+AALL supports proposals to extend exemptions to the anti-trafficking prohibitions. Requiring 
+that the Librarian adopt separate exemptions to anti-trafficking provisions in addition to the anti-
+circumvention provisions, however, unnecessarily complicates and increases the administrative 
+burden of the triennial rulemaking. Rather, exemptions granted during a triennial rulemaking 
+should automatically include relevant exemptions to 1201(a)(2) and 1201(b).  
+ 
+IV.  Permanent Exemptions Should Be Expanded 
+ 
+Congress should revise the current permanent exemption for nonprofit libraries, archives, and 
+educational institutions to establish exemptions addressing persistent needs.  
+ 
+The current exemption in 1201(d) is inadequate for the needs of libraries and archives. The 
+exemption, which only allows for circumvention of access controls for the purpose of making a 
+purchasing decision, allows circumvention in a comparatively rare situation. What is more 
+troubling is that the exemption, as currently framed, only recognizes the needs of libraries and 
+archives as acquirers of information; the DMCA entirely ignores the important roles that 
+libraries and archives play as preservers and providers of information. A reframed exemption 
+should address all of these roles. 
+ 
+Libraries and archives need an exemption that takes into account their need to preserve for public 
+access information locked behind technological protection measures. The current exemption in 
+section 1201(d) does not account for the changing nature of technology and the ways in which 
+libraries collect and provide access to electronic materials. For example, as more scholarly works 
+are only available online, libraries face increasing challenges in archiving materials to allow for 
+permanent access. As technology related to older born-digital materials becomes obsolete, so too 
+do any technological protection measures (TPMs) attached to those works. By not permitting 
+libraries to circumvent or permanently remove obsolete TPMs, the DMCA frustrates 
+preservation of and access to materials.  
+ 
+The development of video technology is an appropriate example. Over the past century, video 
+formats have shifted dramatically, from reels to VHS tapes to laserdiscs to DVDs and digital 
+media files. Ebooks have been released in a variety of formats, including proprietary formats 
+such as AZW and iBooks. Only a fraction of the works released in an obsolete format are 
+rereleased in a newer format; as they are unable to acquire materials in current formats, libraries 
+and archives rely upon section 108(c) to fulfill their important role as preservers of the cultural 
+record. Just as formats become obsolete, so will TPMs, necessitating their circumvention for 
+preservation of the underlying work. However, the DMCA currently does not allow for 
+circumvention. Yet… even the technically sophisticated will often need to devel op a tool to accomplish a privileged 
+circumvention; this would seem to put them at risk under a strict reading of section 1201(b)(1).”). 
+7 Bill D. Herman & Oscar H. Gandy, Jr., Catch 1201: A Legislative History and Content Analysis of the DMCA 
+Exemption Proceedings, 24 CARDOZO ARTS & ENT. L.J. 121, 132 (2006) (noting that “not even librarians can 
+develop” technology needed to circumvent copy controls).
+
+[PAGE 4]
+circumvention of access controls for preservation.8 As such, AALL recommends a permanent 
+exemption for libraries and archives for the purpose of activities permitted under section 108.  
+ 
+In addition to an expanded exemption for libraries and archives, AALL also supports permanent 
+exemptions to facilitate access by print-disabled persons and to allow for circumvention of TPMs 
+on motion pictures for educational uses. These exemptions have proven their necessity in 
+repeated rulemakings. Print-disabled persons are a defined and protected class of individuals that 
+will always need technology to assist with accessing information. Similarly, the use of films is 
+often necessary in classrooms, whether as an accommodation for different learning styles or 
+because the information needed is only available in a film.  
+ 
+V.  Treaty Obligations 
+ 
+Amending the DMCA and the rulemaking process as outlined above does not, to our knowledge, 
+interfere with the obligations of the United States under the WIPO Copyright Treaty or the 
+WIPO Performances and Phonograms Treaty. While Section 1201 was enacted to comply with 
+the requirements of these treaties, it is important to note that Section 1201 as written imposes a 
+far broader ban on circumvention than required under the WIPO treaties.
+9 Article 11 of the 
+WIPO Copyright Treaty and Article 18 of the WIPO Performances and Phonograms Treaty 
+contain matching mandates that signatory states provide “adequate legal protection and effective 
+legal remedies” against circumvention of TPMs used to protect rights they are accorded by 
+law.10 None of the changes suggested here would fall below this standard.  
+ 
+Amendments to the DMCA and the rulemaking process may, however, implicate provisions of 
+most free trade agreements entered into by the United States, including the pending Trans-Pacific 
+Partnership. The language of the anti-circumvention provisions of these agreements varies; for 
+example, the United States-Jordan free trade agreement only contains one brief paragraph 
+covering circumvention of effective technological protection measures,
+11 while the United 
+States-Korea free trade agreement contains much longer, more detailed anti-circumvention 
+provisions.12 Anti-circumvention provisions are also included in the Trans-Pacific Partnership.13  
+8 Bill D. Herman & Oscar H. Gandy, Jr., Catch 1201: A Legislative History and Content Analysis of the DMCA 
+Exemption Proceedings, 24 CARDOZO ARTS & ENT. L.J. 121, 131 (2006) (“Even a librarian who wants only to 
+preserve a decaying digital artifact is prohibited from circumventing an access-controlling TPM to do so.”). 
+9 WIPO Copyright Treaties Implementation Act; and Online Copyright Liability Limitation Act: Hearing on H.R. 
+2281 and H.R. 2280 Before the Subcomm. on the Courts and Intellectual Property of the H. Comm. on the Judiciary  
+105th Cong. 62 (1997) (testimony of Bruce A. Lehman); Stephen E. Blythe, The U.S. Digital Millennium Copyright 
+Act and the E.U. Copyright Directive: Comparative Impact on Fair Use Rights , 8 TUL. J. TECH. & INTELL. PROP. 
+111 (2006). 
+10 World Intellectual Property Organization Copyright Treaty, art. 11, Dec. 20, 1996, S. Treaty Doc. 105-17 (1997); 
+World Intellectual Property Organization Performances and Phonograms Treaty, art. 18, Dec. 20, 1996, S. Treaty 
+Doc. 105-17 (1997). 
+11 Agreement between the United States of America and the Hashemite Kingdom of Jordan on the Establishment  of 
+a Free Trade Area, art. 4, para. 13, U.S.-Jordan, Oct. 24, 2000, 
+https://ustr.gov/sites/default/files/Jordan%20FTA.pdf.  
+12 Free Trade Agreement between the United States of America and the Republic of Korea, art. 18.1, para. 7, U.S. -
+Korea, Apr. 1, 2007, 
+https://ustr.gov/sites/default/files/uploads/agreements/fta/korus/asset_upload_file273_12717.pdf.  
+13 Trans-Pacific Partnership, art. 18.68, https://ustr.gov/sites/default/files/TPP -Final-Text-Intellectual-Property.pdf 
+(last visited Feb. 25, 2016).
+
+[PAGE 5]
+VI.  Conclusion 
+ 
+Copyright law has often been referred to as a “delicate balance” between the rights of creators 
+and the rights of users. Unfortunately, section 1201 has too often shifted this balance toward 
+rightsholders over the public good. By bringing section 1201 in harmony with the rest of 
+copyright law, providing for less onerous renewal of exemptions, and creating meaningful 
+permanent exemptions, the Copyright Office and Congress can help restore the balance.  
+ 
+AALL reiterates its appreciation to the Copyright Office for undertaking this inquiry into section 
+1201 and for the opportunity to comment.

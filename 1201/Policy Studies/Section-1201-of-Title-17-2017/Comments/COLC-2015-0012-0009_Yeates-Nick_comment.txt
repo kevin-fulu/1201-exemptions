@@ -1,0 +1,6 @@
+Comment ID: COLC-2015-0012-0009
+Title: Initial Comments -  Nick Yeates
+Posted: 2016-03-04T05:00:00Z
+Submitter: Yeates-Nick
+
+Anti circumvention provision in the current 17 U.S.C Sec. 1201 hinders open innovation, fair use, research, competition, and mostly a users right to do what they want with a device that they have purchased. A person hacking on their smartphone or car&#39;s stereo has the ability to receive criminal proceedings, really?! Lets get real and admit that circumvention is going to happen whether this provision is there or not... bad people will continue to do what they do. Lets not also punish the good, the curious, and the innovative people.<br/><br/>As a solution, rid of this confusing circumvention provision and exemption process. Yes, it means that businesses will have to come up with new ways to assure their profits on copyrighted works do not &quot;fly out the door&quot;, but why did we choose businesses over users in the first place? A business commonly has many alternatives and resources at its disposal, while individual users have only their own resources. Right now, the balance is in unfair favor of business retention of technologies that keep their interests and do not serve the end user. Right that balance.

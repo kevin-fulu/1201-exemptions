@@ -1,0 +1,122 @@
+[PAGE 1]
+ 
+1 
+ 
+Before the 
+Copyright Office 
+Library of Congress 
+Washington, D.C. 20024 
+ 
+ 
+ 
+ 
+ 
+In the Matter of   
+  
+Section 1201 Study: Request for  Docket No. 2015-8 
+Additional Comments  
+  
+ 
+ 
+ 
+ 
+ 
+COMMENTS 
+OF 
+THE SOCIETY OF AMERICAN ARCHIVISTS 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Nancy McGovern 
+President  
+Society of American Archivists 
+17 North State Street, Suite 1425 
+Chicago, IL 60602-4061
+
+[PAGE 2]
+ 
+2 
+ 
+The Society of American Archivists (SAA) welcomes the opportunity to provide additional comments on 
+the need for a new permanent exemption in Section 1201 for obsolete technologies. This is identified as 
+subject 1(d) in the Notice of Inquiry. 
+As the oldest and largest organization of archivists in North America, SAA is deeply interested in the 
+challenges that obsolete technology presents. Archivists select, preserve, and make available primary 
+sources that document the activities of institutions, communities, and individuals. These archival 
+sources can be used for many purposes, including providing legal and administrative evidence, 
+protecting the rights of individuals and organizations, and securing the cultural heritage of society.  
+Archivists provide important benefits and services, such as identifying and preserving essential parts of 
+the cultural heritage of society; organizing and maintaining the documentary record of institutions, 
+groups, and individuals; assisting in the process of remembering the past through authentic and reliable 
+primary sources; and serving people who seek to locate and use valuable evidence and information.1 
+When archival research sources are embedded in obsolete media, archivists cannot fulfill their 
+democratic, cultural, and professional missions. 
+Through the previous rulemaking proceedings, the Copyright Office has learned how an obsolete access 
+control method can prevent a contemporary user from accessing content. VisiCalc software is a perfect 
+example of the kinds of problems that archivists face when trying to preserve and provide access to 
+older software. VisiCalc was the first spreadsheet program for the personal computer. Many consider it 
+to be the application that turned what had been a toy for computer enthusiasts into a serious business 
+tool.2 Several years ago the developer of VisiCalc, Dan Bricklin, wanted to run a copy of the original 
+program, but the copy protection system on the diskette kept him from being able to create a copy that 
+he could distribute to others.  Fortunately there was a “test” copy that did not have the copy protection 
+mechanism on it, and Bricklin could use that copy to give people today a sense of what the seminal 
+software for the personal computer was like. But it is not quite the same as the software that was 
+actually distributed, which remains inaccessible because of an obsolete copy control mechanism.3 A part 
+of our social, intellectual and cultural heritage has been lost.  As software and storage media age, there 
+will be a flood of stories similar to Bricklin’s.   
+SAA believes that there should be a blanket exemption in Section 1201 that would allow anyone to 
+circumvent an access control mechanism for a lawful purpose. If such a provision were included in 
+Section 1201, there would be no need to single out special exemptions for obsolete media. Preservation 
+activities are authorized in 17 U.S.C. §108(b) and 108(c), and those sections should take precedence 
+over the Section 1201 restrictions.  Preservation can also be justified under 17 U.S.C. §107, which has 
+the added benefit of being available as a right to all users, not just archives and libraries. The 
+preservation of our digital heritage is so enormous a challenge that we will need input from a wide 
+range of actors to ensure that we do not enter a digital “dark age.”  The most effective solution would 
+be to exempt legal activities from the limitations imposed by Section 1201. 
+If it proves to be impossible to make this critical change to Section 1201, an acceptable alternative 
+would be to allow archives and libraries to bypass Section 1201 when they are engaged in legal 
+                                                           
+1 Society of American Archivists, “Core Values of Archivists,” May 2011.  
+http://www2.archivists.org/statements/saa-core-values-statement-and-code-of-ethics. 
+2 “VisiCalc” from Wikipedia, accessed on 18 October 2016, https://en.wikipedia.org/wiki/VisiCalc. 
+3 Dan Bricklin, “Copy Protection Robs the Future,” http://www.bricklin.com/robfuture.htm.
+
+[PAGE 3]
+ 
+3 
+ 
+activities. A permanent exemption could be added for “Original works of authorship fixed in a digital 
+medium of expression that are currently in the collection of a library or archives of the type described by 
+clause (2) of subsection (a) of 17 USC §108 when circumvention is accomplished for the sole purpose of 
+managing, maintaining, and preserving its collection pursuant to 17 USC §107 and §108.” 
+It is not necessary to specify in the exemption that it is the access control mechanism that is obsolete, 
+i.e., “is no longer manufactured or is no longer reasonably available in the commercial marketplace.”  
+Given the difficulty of bypassing an access control mechanism, an archivist’s preferred method of 
+operation would be to work with the manufacturer of the software and/or the access control 
+mechanism to gain access to the underlying work. It is possible, however, that a commercially active 
+manufacturer of an access control may not wish to assist an archives in gaining access to content that 
+has become “orphan,” i.e., for which no owner can be found. In this case, the access control would not 
+be faulty, but archivists still could not gain access to the content. Therefore obsolescence of the access 
+control mechanism should not be a precondition to avoid legal penalty when a circumvention is 
+undertaken for a lawful purpose. 
+Archivists are not a threat to the creative endeavor. Instead, our labor preserves and makes available 
+the raw material for imaginative, innovative, and inventive new works. It is truly in the nation’s interest 
+to allow us to circumvent access protection mechanisms in the pursuit of our lawful and valuable 
+mission—to preserve our essential cultural heritage. 
+ 
+Respectfully submitted, 
+ 
+ 
+Nancy McGovern, President 
+Society of American Archivists 
+17 North State Street, Suite 1425 
+Chicago, IL 60602-4061 
+ 
+Date: 25 October 2016

@@ -1,0 +1,238 @@
+[PAGE 1]
+ 
+ 
+March 3, 2014 
+Comments of 
+George P. Slover, Senior Policy Counsel  
+Consumers Union 
+To the U.S. Copyright Office 
+Section 1201 Study  
+[Docket No. 2015–8] 
+ 
+ 
+ Consumers Union, the policy and advocacy arm of Consumer Reports,1 respectfully 
+submits these comments in the above-referenced matter, to assist the Copyright Office in its 
+reassessment of the operation of the Triennial Review procedure under section 1201 of the 
+Digital Millennium Copyright Act, for fashioning appropriate exceptions to the prohibition 
+against circumvention of technological protection measures that control access to copyrighted 
+works.  
+ 
+When Congress was considering the legislation that became the Digital Millennium 
+Copyright Act of 1998, there were concerns that the effort to construct a legal shield around 
+access to digitized copyrighted works had not been subjected to sufficient care and scrutiny, and 
+that that effort, embodied in section 1201 of the Act, would prove to be overbroad and have 
+unintended consequences. 
+ 
+Unfortunately, those concerns have been borne out.  The prohibition against 
+circumvention of technological protection measures has gone far beyond the purpose of 
+protecting copyrighted creative works against infringement.  As everyday consumer products 
+increasingly contain computer software and firmware that enables and governs their functioning, 
+and that restricts their functioning and their interoperability with other products, the section 1201 
+prohibition has had far-reaching effects, undermining fundamental consumer expectations of 
+what ownership means.  These anti-consumer effects will take on a new, breathtaking order of 
+magnitude as more and more consumer products become part of the Internet of Things.  
+ 
+The process of reviewing, every three years, whether section 1201 is inappropriately 
+interfering with commerce and with consumer rights, and in which specific respects, and whether 
+and how to craft temporary exemptions to the prohibition, in order to temporarily mitigate that 
+                                                           
+1 Consumers Union is the public policy and advocacy division of Consumer Reports , an expert, independent, 
+nonprofit organization whose mission is to work for a safe, fair, and just marketplace for all consumers and to 
+empower consumers to protect themselves.  Consumers Union conducts its policy and advocacy work in the areas of 
+telecommunications reform, health reform, food and product safety, financial reform, and other areas.  Consumer 
+Reports is the world’s largest independent product-testing organization.  Using its more than 50 labs, auto test 
+center, and survey research center, the nonprofit organization rates thousands of products and services annually.  
+Founded in 1936, Consumer Reports has over 8 million subscribers to its magazine, website, and othe r publications.
+
+[PAGE 2]
+2 
+ 
+interference, has proven to be too cumbersome and uncertain to effectively remedy these ever-
+widening ill effects.  
+ 
+Consumers Union has had first-hand experience with the shortcomings of the Triennial 
+Review process.  We supported the exemption created in the Third Triennial Review, ten years 
+ago, for unlocking mobile phones, to enable them to be used for connection to a different 
+wireless network, under contract with a different service provider.  We supported the 
+exemption’s first renewal in the Fourth Triennial Review.  And we formally petitioned for its 
+second renewal in the Fifth. 
+ 
+We were surprised with the announcement in October 2012 that the exemption would be 
+sunset. And we were surprised at the rationale given, that there were already enough used mobile 
+phones in circulation, that more were not needed.  When the predictable outcry ensued, we 
+joined with others in urging the President and Congress to act to restore consumers’ right to 
+unlock the mobile phones they had purchased.  We helped lead the effort that resulted in 
+enactment of the Unlocking Consumer Choice and Wireless Competition Act, to restore and 
+clarify this right.  And we helped lead the effort to once again renew the right, in the Sixth 
+Triennial Review. 
+ 
+Importantly, the technological protection measures obstructing access to the software 
+enabling a phone’s connection to another wireless network – and the legal challenges and threats 
+brought against consumers and unlockers – had nothing to do with protecting copyrighted 
+creative works against infringement.  Instead, they were part of a business model conceived by 
+wireless service providers and mobile phone manufacturers to make it harder for consumers to 
+change providers, and harder for them to re-purpose their phones when doing so.  One result was 
+many perfectly functional used mobile phones gathering dust in desk drawers, or slowly wasting 
+away in landfills.  Another result was consumers needlessly incurring the expense of a new 
+phone.  And another result was suppression of competition and innovation in the ways mobile 
+phones and wireless services were sold and provided. 
+ 
+It was frustrating to have to establish repeatedly, in de novo proceedings, these same 
+basic facts, to obtain an exception to a prohibition that should never have applied in the first 
+place. 
+ 
+It is in light of these experiences and frustrations that we comment on the questions the 
+Copyright Office has posed. 
+ 
+1. Please provide any insights or observations regarding the role and effectiveness 
+of the prohibition on circumvention of technological measures in section 1201(a). 
+ 
+As noted above, the prohibition has been applied far more broadly than just to the 
+prevention of copyright infringement in the Digital Age.  We generally support tying application 
+of the prohibition more clearly to that purpose, to help keep the prohibition from becoming, as it 
+did with mobile phones, an instrument for eroding the incidents of ownership of products that 
+depend on software inside them to function.
+
+[PAGE 3]
+3 
+ 
+ In this regard, we note that when the mobile phone unlocking exemption was renewed in 
+2010, a new limitation was added – that the right to unlock would belong not to the consumer 
+who had purchased the phone, but instead would belong to “the owner of the copy of the 
+computer program” inside the phone that enabled it to connect to a network.  This created a 
+hidden legal cloud over the right to unlock, under which the phone manufacturer or the wireless 
+service provider could potentially nullify the right simply by slipping a sentence into the fine 
+print of the service contract, retaining technical ownership of the technology inside the phone, 
+while granting the consumer only a “license” to use the technology.  It would come as a surprise 
+to most consumers that the phone they purchased is not really a phone, but merely the shell of a 
+phone. 
+ 
+In working for enactment of the Unlocking Consumer Choice and Wireless Competition 
+Act, we succeeded in clarifying that the right to unlock would belong to the owner of the phone.  
+But similar technical sleights of hand are all too available, and all too likely to become 
+widespread in consumer products, when the DMCA circumvention prohibition is unmoored from 
+the purpose of preventing copyright infringement. 
+ 
+2. How should section 1201 accommodate interests that are outside of core 
+copyright concerns, for example, in cases where circumvention of access controls 
+protecting computer programs implicates issues of product interoperability or 
+public safety? 
+ 
+Ensuring the safety of products and services has been a bedrock objective of Consumers 
+Union’s mission since its founding 80 years ago.  We fully recognize that for some products and 
+services, altering the software inside could have potentially significant impacts on safety.  
+However, we also recognize that a company might also use a professed concern for protecting 
+safety as a pretext for blocking competition and consumer choice. 
+ 
+While safety concerns are of the utmost importance, they generally do not implicate 
+copyright law, and generally fall outside the Copyright Office’s expertise.  So in our view, they 
+should generally not be part of the Copyright Office’s own deliberations in considering 
+exemptions under section 1201.  We would recommend that the Copyright Office instead 
+consider, when safety issues are implicated, referring those issues to regulatory agencies whose 
+missions and expertise are directed at safety. 
+ 
+There may be times when delaying the availability of a new exemption is warranted, to 
+give the regulatory agency prior notice and a reasonable opportunity to establish appropriate 
+conditions on accessing and altering a product’s software, in keeping with the need to ensure 
+safety.  For example, in the most recent Triennial Review, the Copyright Office granted an 
+exemption for access to computer programs that control the functioning of an automobile, for 
+lawful alterations as well as diagnosis and repair. But it subjected the exemption to regulations 
+promulgated by the Department of Transportation and the Environmental Protection Agency, and 
+delayed the effective date in order to enable the agencies to consider and develop appropriate 
+regulations.
+
+[PAGE 4]
+4 
+ 
+We would anticipate that in many instances, appropriate input could be obtained from the 
+regulatory agency during the Copyright Office’s consideration of the exemption, so that a further 
+delay would not be necessary. 
+ 
+3. Should section 1201 be adjusted to provide for presumptive renewal of 
+previously granted exemptions – for example, when there is no meaningful 
+opposition to renewal – or otherwise be modified to streamline the process of 
+continuing an existing exemption?  If so, how? 
+ 
+ Consumers Union believes presumptive renewal would significantly improve the section 
+1201 Triennial Review process by reducing unnecessary burden and uncertainty.  As noted 
+above, we have recently been involved in re-justifying and re-defending an exemption that had 
+previously been granted; then renewed; and then, when it was sunset, for reasons having more to 
+do with a perception that it was somehow not important enough than that it was not justified, was 
+renewed statutorily by Congress.  And still, in the most recent Triennial Review, we were placed 
+in the position of having to re-establish its justification de novo, essentially making the case from 
+scratch.  Although we believe that, as a practical matter, the Copyright Office was cognizant of 
+the history of this exemption, and likely took that history into account in the most recent Review, 
+it would better serve the interests of all concerned if that could be done openly, 
+straightforwardly, and efficiently. 
+ 
+ The notion that the exemptions should be determined de novo is found nowhere in the 
+statute.  Instead, it is found in a sentence in the report of one of the two House committees that 
+considered the bill – the committee with secondary jurisdiction, who had proposed to assign the 
+exemption process to the Department of Commerce.  This one sentence in the secondary 
+committee’s report is at most a useful indication of that committee’s view at the time the report 
+was prepared; it should not be treated as dispositive law.  Experience has shown that requiring de 
+novo determination is unnecessary and ill-advised. 
+  
+ We believe that a presumption for renewal should apply regardless of whether there is 
+opposition.  Any opposition should be carefully taken into account in determining whether the 
+presumption is overcome; but the burden of proof should be on those seeking to overcome it.  
+Likewise, if developments in technology or in industry practice, or other experience in the years 
+since an exemption was most recently granted or renewed, lead to calls for its expansion or 
+updating, reopening the exemption for that purpose should not eliminate the presumption.  The 
+starting point should still be a presumption for renewal; and to the extent that the proposed 
+expansion or updating is an adaptation of the existing exemption to new technology or new 
+industry practice, that may warrant including the expansion or updating within the presumption 
+as well.      
+ 
+4. Please assess the current legal requirements that proponents of an exemption 
+must satisfy to demonstrate entitlement to an exemption.  Should they be 
+altered?  If so, how?  In responding, please comment on the relationship to 
+traditional principles of administrative law. 
+ 
+ While we believe the statutory elements listed for consideration are generally well-
+founded, we also believe that, in their implementation, the Copyright Office has given undue
+
+[PAGE 5]
+5 
+ 
+emphasis to looking for macro effects, to the exclusion of the impact on individual consumers.  
+For example, in deciding to sunset the mobile phone unlocking exemption in the Fifth Triennial 
+Review, the Copyright Office was, in our view, too dismissive of the concrete adverse impact of 
+the resulting forced obsolescence of perfectly functional phones –on the individual consumers 
+who owned them, and on the individual consumers who might be interested in purchasing them.  
+Millions of phones were consigned prematurely to the scrapheap, on the premise that there were 
+enough other used phones already in circulation – including older phones of diminishing 
+usefulness and desirability. 
+ 
+ We would suggest that the Copyright Office’s assessment of “whether the 
+implementation of access controls impairs the ability of individuals to make noninfringing uses” 
+not be subjected to an additional hurdle that individuals merit protection only if they are harmed 
+in sufficiently high numbers.  (No “de minimis” hurdle is found in either the statute or in the 
+legislative history, much less any indication of required showing of harm to large numbers of 
+individuals.) 
+ 
+7.   Should section 1201 be amended to allow the adoption of exemptions to the 
+      prohibition on circumvention that can extend to exemptions to the anti- 
+      trafficking prohibitions, and if so, in what way? For example, should the 
+      Register be able to recommend, and the Librarian able to adopt, exemptions 
+      that permit third-party assistance when justified by the record? 
+ 
+We believe a clarification is warranted so that where a right to circumvention has been 
+recognized in an exemption, the exemption should also protect the right to assist another with 
+that circumvention.  We worked to ensure that the Unlocking Consumer Choice and Wireless 
+Competition Act protected such assistance. 
+_______________ 
+ 
+ We look forward to reviewing the submissions of other interested parties and to working 
+with the Copyright Office and Congress to improve the operation of section 1201, so that the 
+circumvention prohibitions are focused more effectively on the objective of preventing copyright 
+infringement and are not employed to undermine reasonable and long-held consumer 
+expectations regarding their ability to exercise the incidents of ownership, dominion, and control 
+over the products and services they have paid for or have otherwise lawfully acquired. 
+ 
+Respectfully, 
+ 
+       
+  George P. Slover 
+  Senior Policy Counsel 
+  Consumers Union

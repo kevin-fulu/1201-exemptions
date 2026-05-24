@@ -1,0 +1,43 @@
+[PAGE 1]
+Jay Freeman (saurik) +1 (805) 895-7209 saurik@saurik.com
+Hello. My name is Jay Freeman, and I am the developer of Cydia, popularly known as "an 
+alternative to the App Store for jailbroken iOS devices (iPhone, iPad, and iPod Touch)". I have 
+been involved in the 1201 exemption process since 2009, when the EFF ﬁled for an exemption 
+on the work in which I am embedded. I attended the hearings in 2012, and in 2015 I was on the 
+panel for multiple requests. (If there will be hearings for this study, I would like to be involved.)!
+!Speciﬁcally, what I provide are the tools required to "add features" to existing software. Rather 
+than having to wait for mobile phone operating system vendors (such as Apple or Google) or 
+application developers (such as Facebook or Twitter) to decide that your need is a high enough 
+priority to add the functionality you might want in your own device, I provide the tools that allow 
+third-party developers to modify the software and add whatever you might need themselves.!
+!These tools do not involve copying the original software. These tool work in a similar way to the 
+Game Genie, which provided this functionality on the Nintendo gaming platform. This device sat 
+"between" a software cartridge and the game console, allowing the code as read by the system 
+to be modiﬁed; but at no point was there a modiﬁed copy of the whole program in a form that 
+could be used as a derived work. This device ended up in litigation, and was established as not 
+creating a derived work in the case law (with a fallback position that it would still be fair use).!
+!https://en.wikipedia.org/wiki/Lewis_Galoob_Toys,_Inc._v._Nintendo_of_America,_Inc.!
+!I believe that some of my colleagues in this area will be making much better arguments about 
+the issue with transient exemptions, so I'm going to limit my comments to aspects of 1201 that I 
+believe others are less likely to cover: the anti-trafﬁcking clause and the requirements of ﬁling.!
+!The reality is that modifying an iPhone to strip away the software encryption locks that prevent 
+this kind of functionality is extremely complex. One key developer has described it as "you have 
+to send the following 10 pages of numbers, followed by, *exactly* 23 milliseconds later, the new 
+following 10 pages of numbers". This is not something that anyone can do by themselves: they 
+need a tool developed by an expert to make these modiﬁcations, for whatever needed purpose.!
+!And there are many purposes: in a world where increasingly more devices involve encryption-
+based software locks to verify their software, we are rapidly running into the situation where all 
+of the use cases we wish to provide exemptions for (blind people reading books using a third-
+party screenreader, deaf people using timecode information to synchronize closed captioning 
+with the playback of a DVD, educators being able to use snippets of content during lectures) 
+require these extremely complex gymnastics (often using an identical set of general tools).!
+!This means that the anti-trafﬁcking clause becomes extremely onerous, as exemptions for those 
+who distribute the tools required to allow users to make these difﬁcult changes are every bit as 
+important as the exemptions for the users themselves. The existence of this anti-trafﬁcking 
+clause thereby undermines the entire purpose of the 1201 exemption process existing at all.!
+!The other issue that I would like to point to is that the requirement in the exemption submission 
+process that the digital lock being defeated be exactly described means that it is easy to claim 
+that exemption petitions are incomplete or that the resulting exemptions don't apply to a product 
+from a speciﬁc company because the speciﬁc mechanism or arbitrary layering of encryption 
+techniques being used to sign the ﬁrmware is different. It needs to be sufﬁcient to simply talk in 
+higher-level abstractions: it should be a use case that drives an exemption, not the technology.

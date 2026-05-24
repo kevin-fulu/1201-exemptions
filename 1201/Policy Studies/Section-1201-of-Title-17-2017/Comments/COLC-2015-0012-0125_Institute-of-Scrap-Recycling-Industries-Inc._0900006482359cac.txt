@@ -1,0 +1,223 @@
+[PAGE 1]
+ 
+ 
+Juelsgaard Intellectual Property  
+and Innovation Clinic 
+Mills Legal Clinic 
+Stanford Law School 
+Crown Quadrangle 
+559 Nathan Abbott Way 
+Stanford, CA 94305-8610 
+jipic@law.stanford.edu 
+650.724.1900 
+Before the 
+U.S. COPYRIGHT OFFICE 
+LIBRARY OF CONGRESS 
+In the Matter of Section 1201 Study 
+Docket No. 2015-8 
+Additional Comments of the 
+Institute of Scrap Recycling Industries, Inc. 
+ Phil Malone 
+Jef Pearlman  
+ Counsel for Commenter 
+ 
+October 27, 2016
+
+[PAGE 2]
+ii 
+ 
+ 
+Table of Contents 
+Question 2(b) – Permanent Exemption for Device Unlocking ....................................................... 1 
+The exemptions for phone, tablet, and other mobile connectivity devices should be 
+made permanent. ....................................................................................................................... 1 
+ISRI supports broadening the exemption to all types of used and unused mobile 
+communication devices. ............................................................................................................ 2 
+The Copyright Office can and should implement presumptive renewal regardless of 
+congressional action. ................................................................................................................ 3 
+Question 3 - Anti-Trafficking ......................................................................................................... 3 
+Section 1201 should be read as containing an implied right for the beneficiary of 
+a § 1201 exemption to make a tool for his or her own use in engaging in the permitted 
+circumvention. ........................................................................................................................... 3 
+To avoid doubt, Congress should amend § 1201 to expressly permit the beneficiary of 
+a § 1201 exemption to make a tool for his or her own use to take advantage of that 
+exemption. ................................................................................................................................. 4
+
+[PAGE 3]
+1 
+ 
+The Institute of Scrap Recycling Industries, Inc. (“ISRI”) submits these comments in 
+response to the Copyright Office’s Section 1201 Study: Request for Additional Comments.1 
+The Institute of Scrap Recycling Industries, Inc. is the "Voice of the Recycling Industry." 
+ISRI and its 21 chapters represent approximately 1,300 companies operating in nearly 4,000 
+locations in the U.S. and 34 countries worldwide that process, broker, and consume scrap 
+commodities, including metals, paper, plastics, glass, rubber, electronics, and textiles. With 
+headquarters in Washington, DC, ISRI provides education, advocacy, safety and compliance 
+training, and promotes public awareness of the vital role recycling plays in the U.S. economy, 
+global trade, the environment and sustainable development. Generating more than $105 billion 
+annually in U.S. economic activity, the scrap recycling industry provides nearly half a million 
+Americans with good jobs. More information about ISRI can be found at www.isri.org. 
+As detailed in its recent triennial petition, comments, and reply comments, as well as its 
+initial comments in this proceeding, over the past decade ISRI, other organizations, and 
+individual consumers have spent significant time, effort, and money repeatedly requesting the 
+same core exemption: allow lawful owners of mobile communication devices to modify the 
+software on their devices to allow those devices to be used with the owner’s service of choice.  
+Some version of this exemption has been granted in each triennial since 2006, and when 
+the exemption was narrowed in 2012, Congress stepped in to expand it again and direct the 
+consideration of other devices in the next triennial. Opposition to these exemptions is minimal, 
+yet ISRI faces the prospect of expending more time, effort and, resources in 2018 to fight this 
+fight once more, with little certainty that it will again be successful and its members will be able 
+to continue their non-infringing activities without fear of DMCA liability. Perhaps worse, 
+because the exemption will likely mitigate the adverse impacts ISRI members otherwise would 
+suffer without it, it may actually be harder to meet these high burdens in 2018. Thus, the 
+exemptions for device unlocking should be made permanent. 
+In addition, for the device-unlocking and other exemptions to be meaningful, the 
+beneficiaries of such exemptions, as well as third parties assisting them, must be permitted to 
+make and offer appropriate circumvention tools to accomplish the permitted, lawful unlocking.  
+ISRI therefore submits these comments supporting a permanent exemption for mobile 
+communications device unlocking and a reading of and/or amendment of § 1201 to permit ISRI 
+and others to rely on the assistance of others, including permitting the lawful manufacture of 
+necessary tools, to exercise the right to lawfully unlock devices granted by the 2015 and future 
+exemptions. 
+Question 2(b) – Permanent Exemption for Device Unlocking 
+The exemptions for phone, tablet, and other mobile connectivity devices should be made 
+permanent. As explained in detail in its triennial comments, ISRI and other proponents of phone 
+                                                 
+1 Section 1201 Study: Request for Additional Comments, 81 Fed. Reg. 66,296 (Sept. 27, 2016) 
+[hereinafter Request for Additional Comments].
+
+[PAGE 4]
+2 
+ 
+(and, later, tablet) unlocking exemptions have requested and received exemptions in every 
+triennial for more than a decade.2 When, in 2012, the exemption was significantly narrowed, 
+Congress stepped in and expanded the exemption to its prior scope, demonstrating a clear intent 
+that phone unlocking remain lawful. Each year fewer and fewer parties oppose unlocking: in 
+2015 only one party opposed the phone and tablet unlocking exemptions, and ultimately did not 
+object to the language as granted.
+3 And although the details of the exemptions have varied over 
+time, the core has remained the same: to permit lawful owners of mobile communications 
+devices to circumvent TPMs and make the necessary changes to switch wireless communications 
+providers.  
+ISRI supported the current exemption language during the 2015 triennial, and believes 
+that this or similar language would be appropriate for a permanent exemption. As explained 
+below, ISRI would also support certain changes to the exemption language. Device unlocking 
+does not infringe copyright, and an exemption for it has been consistently granted over more than 
+a decade and has been ratified by Congress. Regardless of the language chosen, if any additional 
+exemptions are to be made permanent, device unlocking should be among them. 
+ISRI supports broadening the exemption to all types of used and unused mobile 
+communication devices. ISRI does not see any need to enumerate the types (e.g., phones vs. 
+tablets vs. smartwatches) of mobile communication devices that can be lawfully unlocked. 
+Certainly the diversity of such devices is growing rapidly, and the lines between different types 
+are blurring equally fast. Yet throughout these proceedings, no opponents have come forward to 
+demonstrate why unlocking a particular type of device would be a copyright violation and 
+therefore should remain subject to the DMCA’s prohibition on circumvention. Rather than 
+locking in the categories appropriate to the year in which Congress acts, a permanent exemption 
+should be technology-neutral. If the future creates a new need to enforce the DMCA against 
+particular device unlockers, Congress can address the matter at that time. 
+ISRI also supports removing the restriction that only “used” devices can be unlocked. 
+While ISRI members historically did not regularly purchase new, unused handsets for recycling 
+or reuse, they should have the right to unlock lawfully obtained new devices going forward. 
+Whether a device is new or used has no effect on whether unlocking it involves infringing 
+copyright. Parties concerned about “trafficking” in pre-paid, subsidized new phones have 
+demonstrated that they have other, more appropriate legal regimes to rely upon in combating that 
+activity.4 Expanding the exemption to new and used phones may now be necessary for some 
+                                                 
+2 See generally Comments of Petitioner Institute of Scrap Recycling Industries, Inc., Proposed 
+Class 11: Unlocking—Wireless Telephone Ha ndsets, Docket No. 2014-07 (Feb. 26, 2015), 
+http://www.copyright.gov/1201/2015/comments-020615/
+InitialComments_LongForm_ISRI_Class11.pdf [hereinafter ISRI 2015 Triennial Comments]. 
+3 Comments of TracFone Wireless, Inc., Docket No. 2014-07 (Mar. 27, 2015), http://
+www.copyright.gov/1201/2015/comments-032715/class%2011/
+TracFone_Wireless_class11_1201_2014.pdf.  
+4 Reply Comments of Petitioner Institute of Scrap Recycling Industries, Inc., Proposed Class 11: 
+Unlocking—Wireless Telephone Handsets 6-8, Docket No. 2014-07 (May 1, 2015), http://
+
+[PAGE 5]
+3 
+ 
+ISRI members to make non-infringing uses of the devices they have purchased. In addition, ISRI 
+supports the freedom of consumers and others to unlock any wireless device they own for the 
+purpose of using that device on the wireless network of their choice. 
+The Copyright Office can and should implement presumptive renewal regardless of 
+congressional action. ISRI recognizes that the current Notice of Inquiry does not directly address 
+presumptive renewal without legislative changes and that the Office is continuing to study 
+comments regarding such renewal.5 However, because the issues are so closely interrelated, ISRI 
+believes it is important to reiterate its prior arguments that the Copyright Office can and should 
+move away from its unnecessary de novo review requirement for previously granted exemptions, 
+and that it possesses the authority to do so even without additional congressional action.6 
+Sensible and permissible reforms by the Office of the triennial rulemaking process, including 
+presumptive renewal and placing the burden of opposing such renewal on opponents, would 
+provide many of the benefits of a statutory permanent exemption without the delay and 
+uncertainty associated with congressional action.  
+Question 3 - Anti-Trafficking 
+Section 1201 should be read as containing an implied right for the beneficiary of 
+a § 1201 exemption to make a tool for his or her own use in engaging in the permitted 
+circumvention. It also should be read as containing an implied right, like the right explicitly 
+authorized in the Unlocking Act,7 for third parties to assist beneficiaries in unlocking devices or 
+to unlock devices for them,8 as well as for third parties to make and offer tools for beneficiaries 
+to use in engaging in the permitted circumvention.  
+As ISRI explained in its Initial 1201 Study Comments, an exemption permitting an ISRI 
+member or other device owner legally to unlock a covered device is largely meaningless when 
+doing so is technically difficult but third parties are prohibited from assisting or developing tools 
+to help the device owner engage in this lawful behavior.9 Because circumvention is often a 
+complex, technical process, requiring custom software development and knowledge of software, 
+hardware, and cryptography, the typical ISRI member and certainly individual device owners 
+and users are technologically incapable of circumventing TPMs on their own. For device 
+unlocking exemptions, whether statutory or granted in the triennial rulemaking, to allow the 
+intended non-infringing uses, third parties must be permitted to assist beneficiaries to utilize the 
+                                                                                                                                                             
+www.copyright.gov/1201/2015/reply-comments-050115/class%2011/
+ReplyCommentsInstituteofScrapRecyclingIndustries_Class11.pdf.  
+5 Request for Additional Comments, supra note 1, at 66296. 
+6 Comments of the Institute of Scrap Recycling Industries, Inc. 8-11, Docket No. 2015-8 (Mar. 3, 
+2016), https://www.regulations.gov/contentStreamer?documentId=COLC-2015-0012-
+0065&attachmentNumber=1&disposition=attachment&contentType=pdf [hereinafter ISRI 1201 
+Study Comments]. 
+7 Unlocking Consumer Choice and Wireless Competition Act, Pub. L. No. 113-144, 128 Stat. 
+1751 (Aug. 1, 2014). 
+8 Id. § 2(c). 
+9 ISRI 1201 Study Comments, supra note 6, at 15-16.
+
+[PAGE 6]
+4 
+ 
+exemption, and beneficiaries as well as third parties must be permitted to develop and offer the 
+tools necessary to do so. 
+To avoid doubt, Congress should amend § 1201 to expressly permit the beneficiary of a 
+§ 1201 exemption to make a tool for his or her own use to take advantage of that exemption. 
+Permitting owners to lawfully unlock their devices but preventing them (and anyone else) from 
+legally creating tools to do so renders the exemption far less meaningful than it should be. As 
+noted above, circumvention is complex and technical, and it makes little sense to conclude that 
+Congress intended to allow lawful circumvention of technological measures but also to continue 
+to outlaw the creation of any of the technological tools necessary to achieve such lawful 
+circumvention. To remove any uncertainty about whether such rights are implied in § 1201, 
+Congress should amend the statute to correct this serious disconnect. 
+In addition, Congress should amend § 1201 to expressly permit, as it did in the Unlocking 
+Act, third parties to unlock the devices of beneficiaries of exemptions or to assist them in 
+unlocking their devices. Moreover, because of the technical complexity and sophisticated 
+knowledge-requirements described above, § 1201 should be amended to permit third parties to 
+make and distribute tools for use in lawful circumvention activity permitted by an exemption. 
+Without third-party assistance and lawful tool creation, beneficiaries of exemptions will be 
+largely stymied in making the lawful, non-infringing uses that the exemptions were intended to 
+allow. Failure to amend § 1201 in these ways will significantly diminish the value of any 
+exemptions and of the § 1201 rulemaking process itself. 
+As noted in the Request for Additional Comments, various copyright owners in 
+their § 1201 Study comments asserted that permitting the manufacture of circumvention tools 
+that could be used for both lawful and unlawful purposes should be outlawed because of the risk 
+that, once such tools were created and made available, they would be used for some unlawful 
+purposes in addition to the lawful purposes permitted by § 1201 exemptions.10 While the validity 
+of these concerns in other contexts can be debated, they bear no weight in the context of 
+permitting tools tailored to unlocking of phones, tablets, and other connectivity devices as 
+authorized in the 2015 Rulemaking. There is little or no danger that tools created specifically for 
+circumventing the TPM that protects the software or data that keeps such devices locked and 
+bound to the network of a particular wireless carrier—and for modifying just that software or 
+data—will be useful or used for other, una uthorized circumvention of other TPMs. The 
+exemption was specifically drafted to allow circumvention only of TPMs used to keep a device 
+locked to a network and solely for the limited purpose of unlocking that device. Circumvention 
+tools permitted by this exemption likewise focus solely on the TPMs that protect these locks and 
+on subsequently unlocking the devices, and thus they are very unlikely to be used by non-
+beneficiaries for non-authorized purposes.  
+ 
+                                                 
+10 Request for Additional Comments, supra note 1, at 66299.

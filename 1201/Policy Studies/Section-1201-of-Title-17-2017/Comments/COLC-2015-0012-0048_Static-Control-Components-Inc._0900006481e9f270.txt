@@ -1,0 +1,133 @@
+[PAGE 1]
+Static Control Comments to § 1201 Study - Page 1 of 3 
+Before the 
+UNITED STATES COPYRIGHT OFFICE 
+Library of Congress 
+Washington, D.C. 
+ 
+__________________________________________ 
+        ) 
+In the Matter of:      ) 
+        )  Docket No. 2015-8  
+Section 1201 Study      ) 
+__________________________________________ ) 
+ 
+Comments of Static Control Components, Inc.  
+ Static Control Components, Inc. (“Static Control”) appreciates the opportunity to 
+comment upon the issues posed by the Copyright Office in the § 1201 Study.  The issues 
+addressed by the study permeate our field of printer supplies and components where the ability to 
+interoperate and repair parts is paramount.  The Copyright Office requested comments in its 
+Notice of Inquiry dated December 15, 2015 in the United States Federal Register, Volume 80, 
+Number 249, pages 81369 – 81373 and extended the comment period in the United States 
+Federal Register, Volume 81, Number 33, page 8545.  Static Control is focusing its comments on 
+questions two, six, and seven posed by the Copyright Office. 
+I. Summary  
+ Static Control recommends legislative action to amend §1201 to state that repair and 
+interoperability are allowed and lawful fair uses even if circumvention or copying is required to 
+allow said repair or interoperability.  Static Control also recommends legislative action to amend 
+§1201 to extend the exemptions for anti-circumvention to the anti-trafficking provisions. 
+II. Background 
+ Static Control began in 1987 and is headquartered in Sanford, North Carolina.  Static 
+Control employs approximately 800 workers and manufactures and sells printer components and 
+supplies, including microchips that it sells to third-party companies for use in the repair and 
+remanufacture of toner and inkjet cartridges.  With almost 30 years of experience in the repair 
+and remanufacturing industry Static Control is well suited to offer valuable insights and 
+recommendations in response to the Copyright Office’s § 1201 questions.  Static Control also 
+has extensive experience in complex litigation entailing questions of relating to § 1201 anti-
+circumvention and reverse engineering, as well  patent, contract, anti-trust and false advertising 
+issues.  
+ To practice the lawful activity of repair, Static Control, and the repair industry as a 
+whole, has encountered a “cloud of uncertainty [that] discourages perfectly reasonable and legal 
+activity.”1 The repair industry includes many other companies like Static Control that sell 
+                                                 
+1 Public Knowledge and Library Copyright Alliance, Long Comment Regarding a Proposed Exemption Under 17 
+U.S.C. 1201, at 3, Feb. 6, 2015 (“Public Knowledge and LCA Supp.”).
+
+[PAGE 2]
+Static Control Comments to § 1201 Study - Page 2 of 3 
+products containing software, such as garage door openers and auto parts.  These companies 
+need to be able to repair products and ensure that they interoperate with other devices without 
+fear of being hauled into court.  Such uncertainty was noted by the Registrar of Copyrights, the 
+National Telecommunications and Information Administration (NTIA), Public Knowledge and 
+the Library Copyright Alliance as grounds for a proposed and later accepted exemption for 3D 
+printers.2  As intellectual property owners continue to attempt to expand their rights under the 
+DMCA in ways that are not supported by the intent of the legislation, Static Control recommends 
+the following to protect interoperability and promoter certainty, creativity and innovation.  
+III. Comments on Interoperability and Anti-trafficking Provisions Posed by the § 1201 
+Study (Questions 2, 6 and 7) 
+ Static Control recommends Congress add language to § 1201 to clearly state that 
+circumvention of access controls and technological protection measures (TPMs) to enable 
+interoperability of products is an allowed fair use.  Static Control further seeks language that 
+rejects purported contracts with end users that inhibit lawful interoperation as nothing more than 
+masked business models of companies attempting to misuse the DMCA to “create monopolies of 
+manufactured goods”.3   Currently, whether a specific circumvention falls under the doctrine of 
+fair use or within the interoperability realm is a decision done on a case-by-case, court-by-court 
+basis, which causes inconsistent results and stifles innovation.4   
+ Section 1201 has been used by parties attempting to derive benefits not given by the 
+DMCA.  One unsuccessful attempt to use the DMCA to prevent repair was Lexmark’s attempt to 
+use access controls to enforce a non-copyright related business model that attempts to limit an 
+end user’s right to repair or reuse a printer cartridge after purchase.5 Many companies similarly 
+misuse TPMs and access controls in an attempt to protect an unprotected work. Concerns of such 
+misuse of § 1201 to reach “anti-competitive goals” was echoed by the NTIA in its 
+recommendations to the Registrar.6  
+ Static Control wants to prevent more clever companies from devising similar tactics that 
+improperly attempt to restrict repair and interoperation and reduce confidence in the copyright 
+law.  This sentiment was echoed by the NTIA warning that such a “fundamental misuse of § 
+1201 … can lead to the reduced respect for the DMCA and copyright law.”7   Therefore, Static 
+Control respectfully requests that the language of § 1201 is amended to specifically heed the 
+                                                 
+2 U.S. COPYRIGHT OFFICE, SECTION 1201 RULEMAKING: SIXTH TRIENNIEAL PROCEEDING TO DETERMINE 
+EXEMPTIONS TO THE PROHBITION ON CIRCUMVENTION, RECOMMENTATION OF THE REGISTER OF COPYRIGHTS at 361 
+(2015), http://copyright.gov/1201/2015/registers-recommendation.pdf  (citing Public Knowledge and LCA Supp. at 
+3, 10); NTIA, SIXTH TRIENNIEAL SECTION 1201 RULEMAKING,  RECOMMENTATIONS OF THE NATIONAL 
+TELECOMMUNICATIONS AND INFORMATION ADMINISTRATION TO THE REGISTER OF COPYRIGHTS, at 90, Sep. 18, 2015 
+(“2015 NTIA Recommendation”) ((internal citations omitted)). 
+3 Lexmark Int’l, Inc. v. Static Control Components, Inc., 387 F.3d 522, 551 (6th Cir. 2004) (Merritt, J. concurring). 
+4 See generally Lexmark Int’l, Inc. v. Static Control Components, Inc., 387 F.3d 522 (6th Cir. 2004); Sega 
+Enterprises, Ltd. v. Accolade, Inc., 977 F.2d 1510 (9th Cir. 1993) (use of copyrighted computer work to gain 
+understanding of unprotected functional elements was fair use); Chamberlain Group, Inc. v. Skylink Tech., Inc., 381 
+F.3d 1178 (Fed.Cir. 2004) (universal transmitter that allowed consumers to access copyrighted software embedded 
+in manufacturer’s “rolling code” garage door openers did not violate anticircumvention section of DMCA).  
+5 Lexmark Int’l, Inc. v. Static Control Components, Inc., 387 F.3d 522 (6th Cir. 2004). 
+6 2015 NTIA Recommendations at 7. 
+7 Id.
+
+[PAGE 3]
+Static Control Comments to § 1201 Study - Page 3 of 3 
+warnings of the Sixth Circuit and NTIA in protecting against the use of the DMCA as an anti-
+competitive weapon.  Companies should not be able to restrict interoperability or competition as 
+they are necessary and lawful components for the advancement and innovation of intellectual 
+property.   
+ Two weapons used by companies intending to impose unlawful and anticompetitive 
+restrictions are the anti-trafficking provisions §§ 1201(a)(2) and 1201(b).  The underlying 
+requirement for each prong of liability in the anti-trafficking provisions is that the work must be 
+“protected under this title”.8 Thus, the work must have copyright protection before any of these 
+provisions may be applied.  However, as discussed above, business models that protect 
+uncopyrightable work can be used in an anti-competitive ways to block interoperability and 
+attempt to add rights not granted under intellectual property laws. The anti-trafficking provisions 
+need to be amended to clarify that repair and interoperability are lawful fair uses even if 
+circumvention or copying is required to allow said repair or interoperability. 
+  In furtherance of these aims, Static Control believes that § 1201 should be amended to 
+allow adoption of exemptions to the prohibition on circumvention and extend the exemptions to 
+the anti-trafficking prohibitions.  As noted by the Librarian of Congress, he has no authority to 
+adopt exemptions for the anti-trafficking prohibitions in §1201(a)(2) or (b) and therefore, 
+congressional action and legislation is needed to extend such rights.9  Otherwise, a lawful act of 
+creating and developing a work under one portion of §1201 would be barred from being 
+manufactured, imported, or sold.10  Therefore, the extension of the exemptions to anti-trafficking 
+provisions not only makes common sense, but will help to harmonize the current legislation.   
+IV. Conclusion 
+ Static Control respectfully requests that the Copyright Office recommend to Congress to 
+amend §1201 to state that repair and interoperability are allowed and lawful fair uses even if 
+circumvention or copying is required to allow said repair or interoperability and to extend the 
+exemptions for anti-circumvention to the anti-trafficking provisions. 
+ Respectfully submitted, 
+  
+ William L. London 
+ Vice President & General Counsel 
+ Static Control Components, Inc. 
+                                                 
+8 17 U.S.C. §§ 1201(a)(2) and 1201(b).   
+9 Copyright Office, Library of Congress, Final Rule: Exemption to Prohibition on Circumvention of Copyright 
+Protection Systems for Access Control Technologies, 37 C.F.R. 201, Docket No. 2014-07, Effective Oct. 28, 2015, 
+dated Oct. 20, 2015, available at http:federal register/gov/a/2015-27212. 
+10 17 U.S.C. §§ 1201(a)(2) and 1201(b).

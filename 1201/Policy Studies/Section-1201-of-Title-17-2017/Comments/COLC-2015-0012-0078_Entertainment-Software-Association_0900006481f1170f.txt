@@ -1,0 +1,263 @@
+[PAGE 1]
+ 
+Before the 
+U.S. Copyright Office 
+Library of Congress 
+ 
+ 
+In the Matter of: 
+ 
+Section 1201 Study: Notice and 
+Request for Public Comment 
+ 
+ 
+ 
+Docket No. 2015-8 
+ 
+REPLY COMMENTS OF THE ENTERTAINMENT SOFTWARE ASSOCIATION 
+ 
+The Entertainment Software Association (“ESA”) is pleased to provide these Reply 
+Comments in response to the Copyright Office’s Notice of Inquiry (“NOI”) concerning the 
+operation of Section 1201 of the Copyright Act.1   
+ESA’s initial comments in this proceeding explained how Section 1201 has benefitted 
+both consumers and creators by providing important legal protection to back up the technological 
+measures that protect creative works and enable new products, services and business models.  
+Section 1201 has been critical in the development of the modern digital marketplace, and that is 
+particularly so within the video game industry.  Video game publishers and online game platform 
+providers rely on access and copy controls to limit infringement of their games, and protections 
+applied to video game consoles have allowed them to become platforms for lawful distribution of 
+a wide variety of game-related and non-game content.  Confronted with hackers working hard to 
+break every new security measure, and with commercial operators seeking to profit from video 
+game infringement enabled by circumvention, the video game industry has successfully invoked 
+the Copyright Act’s protections against circumvention on numerous occasions.  
+1 Section 1201 Study: Notice and Request for Public Comment, 80 Fed. Reg. 81,369 (Dec. 29, 2015).
+
+[PAGE 2]
+ 
+Despite this record of policy success, some of the initial comments in this proceeding 
+seek to undermine Section 1201 in every way possible.  Commenters seek a narrower prohibition 
+on circumvention per se,2 little or no protection against trafficking,3 broad permanent 
+exemptions,4 and lower standards for granting further exemptions in triennial proceedings.5  In 
+effect, they seek to render Section 1201 null and void.  ESA opposes any amendment to Section 
+1201, because Section 1201 is fundamentally working.   
+Other comments seek to relitigate specific issues addressed in previous triennial 
+proceedings.  However, the purpose of this proceeding is “to assess the operation of section 
+1201,”6 not to assess the merits of exemptions targeted to specific current products and uses.  
+That is the function of the triennial rulemakings.   
+Because ESA’s initial comments broadly addressed the issues raised in this proceeding, 
+these Reply Comments address only a few points raised by other commenters that specifically 
+concern video games. 
+2 E.g., Library Copyright Alliance Comments, at 3-27; Owners’ Rights Initiative Comments, at 1-3; Public 
+Knowledge Comments, at 1-3.  Among other things, these comments address the question whether Section 1201 
+does (or should) prohibit circumvention of access controls when the access does not constitute copyright 
+infringement.  An important case in that regard is the Ninth Circuit’s decision in MDY Industries, LLC v. Blizzard 
+Entertainment, Inc., 629 F.3d 928 (9th Cir. 2010).  ESA disagrees with significant aspects of the decision in that 
+case.  For example, when a copyright owner and licensee expressly agree that a license is conditioned on specified 
+limits, exceeding any of those limits ought to be considered an infringement.  See id . at 937-42.  However, ESA 
+believes that the court was right that Section 1201’s prohibition on circumvention is and should be independent of 
+any claim of infringement.  See id. at 943-52; see also Universal City Studios, Inc. v. Corley, 273 F.3d 429, 443 (2d 
+Cir. 2001) (“the DMCA targets the circumvention of digital walls guarding copyrighted material . . . , but does not 
+concern itself with the use of those materials after circumvention has occurred”).  Circumvention of access controls 
+undermines new business models and modes of distribution for creative works, regardless whether copying or other 
+infringing activity is involved.  Thus, it is important to protect against circumvention as well as infringement.   
+ 
+3 E.g., Consumer Technology Association Comments, at 8-10; Public Knowledge Comments, at 7-8; Organization 
+for Transformative Works Comments, at 6-7. 
+ 
+4 E.g., Electronic Frontier Foundation Comments, at 11-12; MIT Comments, at 5. 
+ 
+5 E.g., Consumer Technology Association Comments, at 7-8; Electronic Frontier Foundation Comments, at 9-10; 
+Library Copyright Alliance Comments, at 33-35; Organization for Transformative Works Comments, at 8-9; Public 
+Knowledge Comments, at 5-7. 
+ 
+6 80 Fed. Reg. at 81,369. 
+2
+
+[PAGE 3]
+ 
+1. A new exemption for “assistive technology” is not necessary, at least as to video 
+game products. 
+DIYAbility’s initial comments propose a broad new exemption to allow circumvention of 
+any technological protection applied to any kind of work, if the purpose is to accommodate a 
+disability.  DIYAbility justifies this proposal based on “concern[]” that its project to develop an 
+adaptable video game controller “could implicate” Section 1201.7 
+To be clear, ESA and its member companies are deeply concerned about persons with 
+disabilities, and seek to deliver engaging and innovative video game experiences to all 
+consumers, including individuals with disabilities.  Not only is that the right thing to do, but 
+there are good business reasons to do so, because games succeed when they reach the largest 
+possible audience.  For that reason, the video game industry is pursuing many initiatives to 
+improve game play accessibility, and communities of gamers are working to assist disabled 
+persons to enjoy video games as well.8  While accessibility presents continuing challenges due to 
+the diversity of game products and disabilities, and the fast pace of both technological change 
+and game play, all the major console providers have included significant accessibility features in 
+their systems.  These include features such as text to speech, remapping of controller buttons, 
+and high contrast display modes.
+9  On the software side of the industry, the International Game 
+7 DIYAbility Comments, at 1 & 3 n.6. 
+ 
+8 See, e.g., AbleGamers Foundation website, http://www.ablegamers.com/; D.A.G.E.R.S. website, 
+http://www.dagersystem.com/; Accessible Video Gaming - XBox - Nintendo Wii – Playstation, 
+http://www.apparelyzed.com/forums/forum/67-accessible-video-gaming-xbox-nintendo-wii-playstation/. 
+ 
+9 See, e.g., Ease of Access settings on Xbox One, https://support.xbox.com/en-US/xbox-one/games/ease-of-access-
+settings; Accessibility, Xbox One, and Kinect FAQ, http://support.xbox.com/en-US/xbox-one/games/accessibility-
+faq; PlayStation4 User’s Guide, Accessibility, available at 
+http://manuals.playstation.net/document/en/ps4/settings/accessibility.html; PS4 Accessibility Settings, 
+https://support.us.playstation.com/articles/en_US/KC_Article/PS4-Accessibility-Settings; Craig Kaufman, 
+AbleGamers’ WII U Accessibility Review (Dec. 12, 2012), http://www.unstoppablegamer.com/ablegamers-wii-u-
+accessibility-review/; Nintendo & Accessibility: An Asset or Liability to Nintendo’s Game Design?, 
+http://www.ign.com/boards/threads/nintendo-accessibility-an-asset-or-liability-to-nintendos-game-
+design.452898373/. 
+3
+
+[PAGE 4]
+ 
+Developers Association has long had a group devoted to game accessibility.10  Others also 
+provide resources to assist developers in developing accessible games.11  These efforts are 
+bearing fruit.  Over 350 games have documented accessibility features.12  And in announcing its 
+2015 Accessible Game of the Year, AbleGamers explained that in 2015 “many advances 
+occurred within the gaming industry to further allow gamers with disabilities options to improve 
+their gaming experiences.”13  In short, the drive for game accessibility is a major movement 
+among gamers and the game industry, and disabled persons have far greater access to game play 
+today than ever before.   
+Because the industry is increasingly working to design products for accessibility, 
+independent third-party projects such as DIYAbility’s controller project represent a 
+comparatively small feature on the overall game accessibility landscape.  In addition, 
+DIYAbility’s initial comments do not provide sufficient information to know whether what it 
+would like to do would actually violate Section 1201, rather than, for example, being permitted 
+by Section 1201(f).  Under those circumstances, there is insufficient justification for a broad new 
+permanent exemption to allow circumvention for accessibility purposes of any protection 
+measure applied to any kind of work.  Moreover, this proceeding is supposed to concern the 
+10 See IGDA Game Accessibility Special Interest Group website, http://igda-gasig.org/. 
+ 
+11 See, e.g., Making Video Games Accessible: Business Justifications and Design Considerations, 
+https://msdn.microsoft.com/en-us/library/windows/desktop/ee415219(v=vs.85).aspx; Game Accessibility 
+Guidelines, http://gameaccessibilityguidelines.com/; AbleGamers Foundation Game Accessibility Guidelines, 
+http://www.includification.com/. 
+ 
+12 International Game Developers Association, Game Accessibility Special Interest Group, Building a Manifesto for 
+Game Accessibility, at 26 (2015). 
+ 
+13 Announcing the AbleGamers 2015 Accessible Game of the Year (Jan. 21, 2016), 
+http://www.ablegamers.com/ablegamers-news/announcing-the-ablegamers-2015-accessible-game-of-the-year. 
+4
+
+[PAGE 5]
+ 
+operation of Section 1201,14 rather than to involve a searching examination of new proposed 
+exemptions.  
+2. The Office should not recommend a permanent repair exemption as to video game 
+devices. 
+Static Control’s initial comments propose a permanent exemption for “repair and 
+interoperability” of manufactured goods.15  While its focus is on repair and interoperability of 
+printer cartridges, its proposed solution to perceived problems in the printer cartridge market 
+would extend to video game consoles and other devices as well.  iFixit similarly argued for broad 
+rights to repair, and specifically asked that a repair exemption extend to “third-party agents.”16  
+iFixit focused its comments on tractors, but mentioned ESA,17 and likewise couched its 
+proposals in terms broad enough to encompass video game devices. 
+However, in both the fifth and sixth triennial rulemakings, the Librarian rejected 
+proposed exemptions for circumvention of video game console protections that had been 
+justified in part based on claims concerning repair.18  Even proponents of such an exemption 
+“conceded that consoles can also be repaired without circumvention, including through official 
+repair channels.”19  In the end, the Register found that the record: 
+still does not support the need for an exemption.  The major game 
+console manufacturers appear to offer repair services for in- and 
+out-of-warranty consoles either for free or at reasonable prices.  
+14 80 Fed. Reg. at 81,369. 
+ 
+15 Static Control Comments, at 1. 
+ 
+16 iFixit Comments, at 3. 
+ 
+17 Id. at 2. 
+ 
+18 80 Fed. Reg. at 65,961; Exemption to Prohibition on Circumvention of Copyright Protection Systems for Access 
+Control Technologies, 77 Fed. Reg. 65,260, 65,272-74 (Oct. 26, 2012). 
+ 
+19 Recommendation of the Register of Copyrights in the Sixth Triennial Proceeding to Determine Exemptions to the 
+Prohibition on Circumvention, at 196 (Oct. 2015) [hereinafter “2015 Register’s Recommendation”]. 
+5
+
+[PAGE 6]
+ 
+Moreover, the record shows that proponents themselves are able to 
+offer repair services without the need to circumvent.  Proponents 
+did not provide any examples of an actual inability to repair a 
+console through one of these means.
+20 
+The commenters in this proceeding provide no reason for the Office to reverse that 
+finding.  Technological measures are critical to the protection of creative works on consoles and 
+other gaming devices, and circumvention of those measures is closely linked to infringement.  To 
+protect the security of these measures, the diagnostic repair tools used by device manufacturers’ 
+in-house engineers are closely guarded.  Static Control and iFixit effectively ask for exemptions 
+that would open up game platforms to infringement, and give anyone who claimed to provide 
+repair services the power to assist others in opening up game platforms to infringement.  Such a 
+result cannot be justified. 
+3. This proceeding is not a proper forum for the Office to consider proposed 
+exemptions targeting games. 
+Mr. Peter Hunt’s initial comments generally criticize the overall structure of Section 
+1201.  However, when those comments get down to specifics, the thrust of Mr. Hunt’s argument 
+is that the Librarian should have adopted a broader exemption with respect to video games 
+requiring server communications (Class 23) in the sixth triennial rulemaking.
+21  Mr. Hunt’s 
+request to, in effect, reconsider the scope of an exemption the Librarian just adopted is not what 
+this study was intended to accomplish.  Moreover, the Register and Librarian specifically 
+rejected exactly these arguments in their consideration of Class 23 only a few months ago.  The 
+arguments have no more merit now. 
+20 Id. at 200-01. 
+ 
+21 Peter Hunt Comments, at 2-3; see Exemption to Prohibition on Circumvention of Copyright Protection Systems 
+for Access Control Technologies, 80 Fed. Reg. 65,944, 65,956-58 (Oct. 28, 2015). 
+6
+
+[PAGE 7]
+ 
+A Mr. or Ms. McKeehen commenting under the name “Starelikemckeehen Poker Club” 
+professes to be a professional game player who wishes to circumvent access controls on 
+unspecified “gaming software or web-based software” both (1) to determine if his or her 
+“personal and non-personal data is being tracked or transmitted to third parties” and (2) to make 
+certain game data “interoperable with other software tools.”22  Based on this commenter’s 
+pseudonym, it appears that the comments may address gambling software and services, and raise 
+regulatory and content protection issues distinct from those raised by the game products and 
+services represented by ESA.  Moreover it is it is difficult to discern what kind of activities are 
+being discussed in this comment, and thus not clear to what extent the actions this commenter 
+wishes to take might already be covered by Section 1201(f) or (i).  The comment does not seem 
+to raise the kinds of broad policy questions concerning the operation of Section 1201 that this 
+proceeding was intended to address.
+23  
+Conclusion 
+For the reasons set forth above and in ESA’s initial comments, ESA urges the Office to 
+keep a clear eye on Section 1201’s record of success at reducing infringement and promoting the 
+creation and dissemination of new creative works, and not to recommend changes to Section 
+1201 that would, as a practical matter, eviscerate its important protections. 
+ 
+22 Starelikemckeehen Poker Club Comments, at 1. 
+ 
+23 The commenter also has not provided the kind of evidentiary foundation that would warrant serious consideration 
+of an exemption. 
+7
+
+[PAGE 8]
+April 1, 2016 
+Stanley Pierre-Louis, 
+Senior Vice President and General Counsel 
+Ben Golant, 
+Chief Counsel for Intellectual Property Policy 
+Entertainment Software Association 
+575 7th Street, N.W., Suite 300 
+Washington, D.C. 20004 
+(v) 202-223-2400 
+stan@theESA.com 
+bgolant@theESA.com 
+Of Counsel 
+8 
+Stewfl R. Englund 
+Kenneth L. Doroshow 
+JENNER & BLOCK LLP 
+1099 New York Ave., N.W. 
+Washington, D.C. 20001 
+(v) 202-639-6000 
+senglund@jenner.com 
+kdoroshow@jenner.com 
+Counsel for the Entertainment Software 
+Association

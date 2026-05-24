@@ -1,0 +1,357 @@
+[PAGE 1]
+Commenting Party: Competitive Carriers Association (“CCA”)
+Contact: Rebecca Murphy Thompson, EVP & General Counsel
+Email: rthompson@ccamobile.org
+Telephone: (800) 722-1872
+Comment Submission: Section 1201 Study: Notice and Request for Public Comment
+Notice of Inquiry
+U.S. Copyright Office Docket No. 2015-8
+Docket ID: COLC-2015-0012
+Date: March 3, 2016
+COMMENTS OF COMPETITIVE CARRIERS ASSOCIATION
+Competitive Carriers Association (“CCA”) submits the following comments in response 
+to the Notice of Inquiry (“Notice”), in which the United States Copyright Office seeks comment 
+on the operation and effectiveness of the Section 1201 rulemaking process under the Digital 
+Millennium Copyright Act (“DMCA”).  These comments focus on the proposal to create a 
+presumption in favor of renewal when there is no meaningful opposition to the continuation of
+an exemption (Subject of Inquiry # 3) and on the proposal seeking other permanent exemption 
+categories (Subject of Inquiry # 9).  
+CCA has been an active participant in several triennial rulemaking proceedings and
+supports adoption of a presumption of renewal. A presumption will streamline the rulemaking 
+process, thereby easing the burden of participation in rulemaking proceedings for all 
+stakeholders.  CCA also submits that the wireless device unlocking exemption should be 
+recommended for a permanent exemption category.
+I. INTRODUCTION
+CCA is the nation’s leading association for competitive wireless providers and 
+stakeholders across the United States.  CCA’s membership includes nearly 100 competitive
+
+[PAGE 2]
+2
+wireless providers ranging from small, rural carriers serving fewer than 5,000 customers to 
+regional and national providers serving millions of customers.  The licensed service area of 
+CCA’s carrier members covers more than 95 percent of the nation.  CCA also represents nearly 
+200 associate members consisting of small businesses, vendors (including manufacturers and 
+distributors), and suppliers that serve carriers of all sizes.
+CCA applauds the Register of Copyrights (the “Register”) for recommending that 
+Congress revise Section 1201 to create a presumption in favor of renewal when there is no
+meaningful opposition to the continuation of an exemption.1  CCA has long advocated for this
+presumption. The unlocking exemption for wireless devices fosters competition in the mobile 
+broadband marketplace, benefitting consumers and carriers alike.  The exemption also eases the 
+burden on those seeking to participate in the resource-intensive triennial rulemaking proceeding.2  
+CCA also agrees that it is time for Congress to review and revamp its permanent exemption 
+categories, and that exemptions to the prohibition on circumvention for wireless devices are ripe 
+for permanent consideration.  
+   
+1 See The Register’s Perspective on Copyright Review: Hearing Before the H. Comm. on the 
+Judiciary, 114th Cong. 21 (written statement of Maria A. Pallante, Register of Copyrights and 
+Dir., USCO) (2015) http://judiciary.house.gov/_cache/files/1c82a3a6-3b1b-4a51-b212-
+281454d1e56e/written-testimony-of-register-maria-a-pallante.pdf (“The Register’s Perspective 
+on Copyright Review Hearing”); U.S. COPYRIGHT OFFICE, SECTION 1201 RULEMAKING:  SIXTH 
+TRIENNIAL PROCEEDING TO DETERMINE EXEMPTIONS TO THE PROHIBITION ON CIRCUMVENTION,
+RECOMMENDATION OF THE REGISTER OF COPYRIGHTS 4 (2015), available at
+http://copyright.gov/1201/2015/registers-recommendation.pdf  (“2015 Recommendation”); See 
+also U.S. Copyright Office, Library of Congress, Section 1201 Study: Notice and Request for 
+Public Comment, Notice of Inquiry, Docket No. 2015-8 at 11 (rel. Dec. 22, 2015) (the “Notice”).  
+2 See Testimony of Steven Berry before the United States Copyright Office, at pps. 33 – 34 
+(May 31, 2012), available at http://copyright.gov/1201/2012/hearings/transcripts/hearing-05-31-
+2012.pdf; see also Testimony of Steven Berry before the United States House of Representatives 
+Committee on the Judiciary, Subcommittee on Courts, Intellectual Property and the Internet, H.R. 
+1123, the “Unlocking Consumer Choice and Wireless Competition Act” (June 6, 2013), available 
+at http://judiciary.house.gov/index.cfm/hearings?ID=379A2DB0-9D53-E193-4DBB-
+9687D1DFA54C.
+
+[PAGE 3]
+3
+The triennial rulemaking proceeding is a burdensome process, which requires a great deal 
+of time and resources from organizations like CCA to ensure that consumers continue to have the 
+ability to use unlocked devices on networks of their choice, thus promoting competition and 
+innovation.  There are steps that Congress and the Copyright Office can take to ease these 
+burdens for both commenters like CCA and the Copyright Office itself, to ensure a more 
+efficient path to achieving the goals of the Section 1201 triennial rulemaking process.  
+Specifically, Section 1201 should be revised to provide for presumptive renewal of previously 
+granted exemptions when there is no meaningful opposition to the renewal. Congress also 
+should consider the adoption of new permanent exemptions, including for unlocking wireless 
+devices.
+II. CCA HAS BEEN AN ACTIVE PARTICIPANT IN THE SECTION 1201 
+TRIENNIAL RULEMAKING PROCEEDINGS
+Over the past decade, CCA has participated in several rounds of the Section 1201 
+triennial proceedings, due in large part to the considerable adverse effect that the outcome of the 
+proceedings may have on competition in the wireless broadband marketplace and, therefore, on
+consumers.  Specifically, CCA has sought exemptions that would allow circumvention of access 
+controls on wireless devices such as mobile phones and tablets to permit users to connect to 
+wireless networks through the carrier of their choice. These efforts have largely been successful;
+the Librarian of Congress adopted exemptions permitting unlocking of wireless handsets in 
+2006, 2010, 2012, and 2015.3  
+   
+3 See 2015 Recommendation at 138.  In 2012, the adopted exemption was more restrictive and 
+limited to wireless handsets obtained by January 26, 2013.  In response to vocal public 
+disapproval and advocacy from stakeholders, Congress passed the Unlocking Act, which, among 
+other things, reinstated the more broad 2010 unlocking exemption for wireless handsets.  
+Congress also directed the Copyright Office to examine and consider in the 2015 rulemaking 
+proceeding whether additional types of devices should be included under this exemption.  See
+
+[PAGE 4]
+4
+In the most recent proceeding, CCA pursued a continuation of the unlocking exemption 
+for wireless telephone handsets and sought to extend the exemption to other types of wireless 
+devices through five separate petitions for the following classes of “unlocking” exemptions:  (1) 
+wireless telephone handsets; (2) all-purpose tablet computers; (3) mobile connectivity devices 
+(i.e., mobile hotspots); (4) wearable wireless devices; and (5) consumer machines (the Internet of 
+Things).4  In addition, CCA submitted several rounds of comments for each proposed 
+exemption,5 and provided testimony during a hearing before the Copyright Office concerning the
+renewal of the exemption for unlocking handsets.6 To prepare the written submissions and oral 
+testimony, CCA and other participating organizations invested a great deal of time and resources 
+in reviewing the record and meeting the extensive requirements necessary to qualify for an 
+exemption.  While CCA recognizes the Copyright Office’s intent of creating a more robust 
+record by subdividing the categories, increased burdens associated with more granular divisions, 
+particularly where it does not make sense “from a technology perspective,”7 in fact make 
+     
+Unlocking Consumer Choice and Wireless Competition Act, Pub. L. No. 113-144, 128 Stat. 1751 
+(2014) (the “Unlocking Act”).
+4 For consistency and efficiency, CCA also requested that th ese exemptions and other similar 
+exemptions be consolidated int o a single ”wireless device” exemption, as they all involve 
+computer programs used in devices that connect to a telecommunications and/or broadband 
+network.  
+5 See Comments of the Competitive Carriers Association, Proposed Class 11 Unlocking –
+Wireless Telephone Handsets, Sixth Triennial Section 1201 Proceeding (filed Feb. 6, 2015); 
+see also Comments of the Competitive Carriers Association (“CCA”) and TracFone 
+Wireless, Inc. (“TracFone”), Proposed Class 11 Unlocking  –  Wireless Telephone Handsets, 
+Sixth Triennial Section 1201 Proceeding (filed May 1, 2015).
+6 See Statement of Michael Lazarus to the Library of Congress United States Copyright Office,
+Proposed Class 11-12: Unlocking – wireless telephone handsets and tablet, Sixth Triennial 
+1201 Rulemaking Hearing, (May 26, 2015), available at http://copyright.gov/1201/2015/hearing-
+transcripts/1201-Rulemaking-Public-Roundtable-05-26-2015.pdf.
+7 See Oversight of the United States Copyright Office Before the Subcomm. on Courts, Intellectual 
+Prop., & the Internet of the H. Comm. on the Judiciary, 113th Cong. 113-116, p. 57 (2014) 
+(testimony of the Hon. Maria A. Pallante, Register of Copyrights and Director, U.S. Copyright 
+Office).
+
+[PAGE 5]
+5
+participation harder and can be a barrier to technological innovation that has nothing to do with 
+infringement.    
+Ultimately, the Copyright Office recommended an unlocking exemption that covered a 
+variety of portable wireless devices, including handsets, tablets, mobile hotspots, and wearable 
+devices, which corresponded with Congress’s directive in the Unlocking Act.  The Register of 
+Copyrights’ recommendation for this exemption was due in large part to the fact that there was 
+no meaningful opposition to the majority of these classes.8  
+Notably, after reviewing the record and offering recommendations for exemptions, the 
+Register also recognized that “a number of proposals essentially seek renewal of existing 
+exemptions – for example, unlocking of cellphones.”9  Therefore, the Register called for 
+Congress to revise Section 1201 to “create a presumption in favor of renewal when there is not 
+meaningful opposition to the continuation of an exemption.”10
+III. SUBJECT INQUIRY #3:  ADOPTING A PRESUMPTION IN FAVOR OF 
+RENEWAL WHEN THERE IS NO MEANINGFUL OPPOSITION WILL 
+EASE SIGNIFICANT BURDENS ON PARTICIPANTS AND THE 
+COPYRIGHT OFFICE, AND WILL MINIMIZE UNCERTAINTY FOR 
+CONSUMERS
+Under the current framework of the Section 1201 triennial review process, the burden of 
+proof for extending an existing exemption rests on the proponents of the exemption.  The 
+   
+8 Although TracFone initially filed comments in opposition to the handset unlocking 
+exemption, as the Register recognized, “at bottom it [was] not opposed to a narrow ‘pro -
+consumer’ exemption.”  2015 Recommendation at 156.  In fact, CCA and TracFone worked
+collaboratively to prepare and submit reply comments in support of the proposed exemption, 
+which eliminated TracFone’s original concerns. 
+9 2015 Recommendation at 4.
+10 Id.
+
+[PAGE 6]
+6
+Copyright Office conducts each triennial proceeding de novo because it believes that Congress 
+“made clear” this standard of review was required.11  This is not correct.  
+While CCA is in favor of a congressional solution, CCA believes the Copyright Office 
+has the authority to revise its procedures if congressional intervention is not obtained.  The 
+Copyright Office relies on legislative history to guide its understanding of the de novo review, 
+which does not appear in the statute itself.12  Indeed, the DMCA is silent as to whether or not the 
+Copyright Office can establish a presumption in favor of existing exemptions.  
+A de novo review further burdens proponents as it requires a fresh new case to be made 
+to continue exemptions every three years.  The cost involved to take part in this effort often 
+proves too onerous for meaningful participation by all stakeholders. CCA can attest that many 
+regional and rural competitive carriers— who are placed at a competitive disadvantage when 
+nationwide carriers are allowed to lock up the marketplace with exclusive access to the most 
+sought-after devices— are ill-equipped to mobilize every three years. To decrease the burdens 
+placed on proponents, the Register should abandon its de novo review requirement for existing 
+exemptions, and should permit a presumption of renewal.  
+Indeed, the Register has previously found that, where similar facts are presented, the 
+Register is likely to reach a similar conclusion with respect to the renewal of a particular 
+exemption.  Specifically, absent a significant change in circumstances and given the adverse 
+effects that will result in allowing exemptions to expire, the Copyright Office should presume 
+that the exemption remains valid, and opponents should have the burden of proving otherwise.  
+Therefore, it is important that previous decisions to approve and extend an exemption have 
+   
+11 Notice at 8.
+12 See H.R. Rep. No. 105-551, pt. 2, at 37 (explaining that for every rulemaking, “the 
+assessment of adverse impacts on particular categories of works is to be determined de novo”); 
+Cf. 17 U.S.C. § 1201.
+
+[PAGE 7]
+7
+precedential value.  Such an approach would be consistent with the overarching goals of the 
+Copyright Act and would minimize uncertainty for individuals affected by the exemptions.  
+a. A Presumption of Renewal Would Ease The Burdens Associated With The 
+Resource-Intensive Triennial Rulemaking Process 
+The Copyright Office should specifically establish a presumption in favor of existing 
+exemptions.  The triennial rulemaking proceedings are extremely resource- and time- intensive,
+requiring the preparation of several rounds of written submissions, reviewing a substantial 
+written record,13 and potentially participating in a hearing before representatives of the Copyright 
+Office. While CCA appreciates the Copyright Office’s recent adjustment to the administrative 
+procedures surrounding the Section 1201 exemption review, it agrees that “[e]ven with these 
+improvements, however, the rulemaking procedure, as enacted by Congress, is resource-
+intensive for both participants and the Office.”14  This is because proponents for existing 
+exemptions must seek re-approval of uncontroversial exemptions – that is they must 
+continuously prove their case every three years.  Proponents seeking an exemption must establish 
+that “persons who are users of a copyrighted work are, or are likely to be in the succeeding 3-
+year period, adversely affected by the prohibition . . . in their ability to make non-infringing uses 
+under this title of a particular class of copyrighted works.”15  If proponents are seeking an 
+exemption for more than one proposed class, even if the classes are substantially similar, they 
+must file separate submissions for each proposed class during each stage of the public comment 
+period.16  
+   
+13 Nearly 40,000 comments were submitted in the sixth triennial rulemaking.  Notice at 5. 
+14 Id. at 11.
+15 See 17 U.S.C. 1201(a)(1)(C).
+16 See 79 FR 73856, at 73857 (Dec. 12, 2014) (“NPRM”).
+
+[PAGE 8]
+8
+On several occasions, CCA has expressed concern over the administrative burdens 
+associated with the triennial rulemaking proceedings and requested adoption of a presumption of 
+renewal.17  As the Register has recognized, other stakeholders have also expressed frustration at 
+the lack of a presumptive renewal.18  CCA agrees that the “public record supports amending 
+Section 1201 to make it easier to renew exemptions that have been previously adopted and are in 
+force at the time of the triennial rulemaking proceeding.”19  CCA’s experience also supports 
+adoption of a presumption in favor of existing exemptions.  Although many of the different 
+unlocking classes proposed by CCA in the 2015 rulemaking proceeding possessed similar 
+attributes – that is, they had similar asserted non-infringing uses and similar asserted adverse 
+effects20 – CCA still was required to prepare and file separate petitions and rounds of comments 
+   
+17 See Testimony of Steven Berry before the United States Copyright Office, at pps. 33 – 34 (May 
+31, 2012), available at http://copyright.gov/1201/2012/hearings/transcripts/hearing-05-31-
+2012.pdf; see also Testimony of Steven Berry before the United States House of Representatives 
+Committee on the Judiciary, Subcommittee on Courts, Intellectual Property and the Internet, H.R. 
+1123, the “Unlocking Consumer Choice and Wireless Competition Act” (June 6, 2013), available 
+at http://judiciary.house.gov/index.cfm/hearings?ID=379A2DB0-9D53-E193-4DBB-
+9687D1DFA54C. 
+18 See The Register’s Perspective on Copyright Review Hearing21 n.86; Chapter 12 of Title 17: 
+Hearing Before the Subcomm. on Courts, Intellectual Prop., & the Internet of the H. Comm. on 
+the Judiciary, 113th Cong. 19-20 (2014) (statement of Mark Richert, Director of Public Policy, 
+American Foundation for the Blind) (“[W]e we urge Congress to take action to relieve the burden 
+of repeatedly seeking re-approval of uncontroversial exemptions like the one we must re-propose 
+during each review.”). Representatives of copyright owners likewise agreed that the process of 
+renewing uncontroversial exemptions could be streamlined. Id. at 64 (statement of Christian 
+Genetski, Senior Vice President and General Counsel, Entertainment Software Association) (“I 
+think that we all share the frustration expressed by Mr. Richert in his testimony about the need to 
+return repeatedly and use extensive resources to seek a renewal of an exemption where no one is 
+opposing the exemption.”); Id. at 79 (statement of Jonathan Zuck, President, ACT | The App 
+Association) (“I certainly think that the renewal process of an exemption is something that could 
+be modified and streamlined especially when there are no objections to that renewal which is very 
+often the case.”); Id. at 125 (written statement of Allen Adler, General Counsel & Vice President 
+for Government Affairs, Association of American Publishers) (noting that “stakeholders broadly 
+agree that reauthorization of non-controversial exemptions could be more efficient”).
+19 See The Register’s Perspective on Copyright Review Hearingat 21. 
+20 Indeed, even the presented arguments under the statutory factors were the same or similar 
+and accordingly, in addressing these factors in the Recommendation, the Register
+
+[PAGE 9]
+9
+for each class, even if an exemption was already in place.  CCA, as noted above, filed five 
+separate petitions all essentially seeking the same exemption.  In addition, CCA also prepared
+five separate sets of initial comments for each proposed class, and one set of reply comments for 
+one proposed class.  This is a requirement that even the Copyright Office has recognized requires 
+“added effort.”21 Here, the five proposed classes were all forms of wireless devices that contain 
+computer programs used in devices that connect to a telecommunications and/or broadband 
+network, which is at the forefront of the exemption.  If the proposed presumption of renewal is 
+not adopted, then CCA and other potential proponents will need to decide in 2018, and then 2021 
+and so on, whether it can expend substantial resources that may be otherwise directed in a more 
+efficient manner. 
+b. A Presumption of Renewal Is In The Public Interest 
+Exemptions are recommended by the Register (and ultimately adopted by Congress) 
+based on several factors, but largely on whether the inability to circumvent the technological 
+measure at issue has or is likely to have adverse effects on the proposed non-infringing uses.22  
+Indeed, a reason that proponents initially seek an exemption is to avoid adverse effects that are 
+not in the public interest.  While CCA can specifically attest to the technological measures and 
+exemptions that it has direct knowledge of – that is, exemptions permitting the unlocking of 
+wireless devices – it stresses that a failure to extend any exemption, whether due to the inability 
+     
+combined four of the device classes together in its response (which were ultimately 
+included under the exemption).  2015 Recommendation at 154 (noting that “[p]roponents of 
+all of the unlocking classes ma[de] the same basic arguments under the 1201(a)(1) 
+statutory factors.”).  
+21 Id.
+22 See 17 U.S.C. § 1201(a)(1)(D).
+
+[PAGE 10]
+10
+of resource-strained proponents to participate or otherwise, could likely have substantial adverse 
+effects on the attested non-infringing uses.23  
+Absent an exemption to wireless device unlocking, wireless device owners may be forced 
+to purchase a new wireless device, which are getting increasingly expensive, to change service 
+providers and connect to the wireless network of their choice.  This may result in substantial 
+consumer costs in the form of the price paid for a new wireless device (while their current device
+becomes obsolete), and in the form of lost personal information stored on the device such as 
+contacts, music, apps, and other investments made in peripheral items.  Further, unlocking is 
+particularly important for rural and regional carriers that lack the scope and scale to gain access 
+to the latest, most in-demand devices directly from the equipment manufacturers, which then 
+prevents millions of consumers from accessing the latest devices, and stifles competition and 
+innovation. Consumers should not be forced to choose between keeping their devices and being 
+locked to an undesirable network or losing their device and the data that comes with it.  
+Moreover, without a presumption of renewal, consumers and beneficiaries of the adopted 
+exemption would live in an uncertain world where the rules may change every three years.  
+Consumers should not have to worry about losing the right to use their devices on a network of 
+their choosing every few years.  Without this exemption, consumers would be forced to purchase 
+a new wireless device to change service providers, which may result in substantial costs to the 
+consumer – both in price as well as in the replacement of purchased features specific to the 
+   
+23 In short, the exemption(s) for which CCA advocates allow consumers to unlock certain used 
+portable wireless devices they purchased from wireless carriers or their authorized dealers in 
+order to use them on other carriers’ networks.  In this instance, a failure to extend the exemption 
+would have a substantial adverse effect on non-infringing uses of wireless devices and their 
+associated firmware, software, and data.
+
+[PAGE 11]
+11
+device.  These costs may hinder a consumer’s ability to switch service providers, thus stifling 
+competition.
+In addition, there is no harm to adopting a presumption.  A presumption would only be in 
+place if meaningful opposition was not presented during a proceeding.  Thus, if meaningful 
+opposition to an exemption was presented, parties would then have to justify the continuation of 
+the exemption.  This provides a fallback option in the instance that there are significant changes 
+in circumstances between proceedings.  If no meaningful opposition arises, it is in the public 
+interest for an exemption to be preserved.   
+IV. SUBJECT MATTER INQUIRY #9:  THE 2015 EXEMPTION ALLOWING THE 
+UNLOCKING OF PORTABLE WIRELESS DEVICES SHOULD BE 
+INCLUDED IN THE PERMANENT EXEMPTION CATEGORY
+The Notice also seeks comment on whether Congress should consider establishing other 
+permanent exemption categories for the statute.24  An exemption permitting the unlocking of 
+portable wireless devices is a prime candidate for a permanent exemption.  Notably, Congress 
+has continuously provided its stamp of approval for this exemption.  In passing the Unlocking 
+Act, Congress “permanently established” that circumvention under any exemption to permit a 
+wireless telephone handset or other wireless device to connect to a different telecommunications 
+network may be initiated by the owner of the handset or device, or other specific individuals. 25  
+While the Copyright Office has expressed concern that current Section 1201 permanent 
+exemptions “have failed to keep up with changing technologies,”26 the unlocking exemption is 
+quite the opposite.  The 2015 unlocking exemption as adopted is broad and covers a wide array 
+of wireless devices, from mobile phones to “smart watches.”  As such, this exemption is 
+   
+24 Notice at 18. 
+25 Id. at 9; Unlocking Act, § 2(a), (c), 128 Stat. at 1751-52; see also 37 C.F.R. 201.40(b)(3) (2012). 
+26 Notice at 13.
+
+[PAGE 12]
+12
+designed to evolve alongside devices using the underlying software.  The Register should 
+therefore recommend that Congress adopt a permanent wireless device unlocking exemption.  
+V. CONCLUSION
+For the foregoing reasons, CCA supports a revision of Section 1201 to provide for
+presumptive renewal of previously granted exemptions when there is no meaningful opposition 
+to renewal, or the adoption of a permanent exemption for wireless device unlocking, consistent 
+with the 2015 exemption.
+Respectfully submitted,
+/s/ Rebecca Murphy Thompson        
+Steven K. Berry
+Rebecca Murphy Thompson
+COMPETITIVE CARRIERS ASSOCIATION
+805 15th Street NW, Suite 401
+Washington, DC 20005
+March 3, 2016

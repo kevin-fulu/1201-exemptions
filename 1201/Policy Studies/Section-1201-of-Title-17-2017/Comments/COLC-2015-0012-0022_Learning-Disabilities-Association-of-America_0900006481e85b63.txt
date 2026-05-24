@@ -1,0 +1,95 @@
+[PAGE 1]
+1 | Page
+Comments	to	the	United	States	Copyright	Office	(COLC)
+Re: Request for Public Comments: Digital Millennium Copyright Act, Access to Copyrighted 
+Works
+Submitted by Steve Noble on behalf of the Learning Disabilities Association of America 
+Steve.noble@louisville.edu / 502-969-3088 
+Date: February 25, 2016
+Section 1201 Study Submission of Comments
+I. Background
+SUMMARY: The United States Copyright Office is undertaking a public study to assess the 
+operation of section 1201 of Title 17, including the triennial rulemaking process established 
+under the DMCA to adopt exemptions to the prohibition against circumvention of technological 
+measures that control access to copyrighted works. To aid this effort, and to ensure thorough 
+assistance to Congress, the Office is seeking public input on a number of key questions.
+The Learning Disabilities Association of America provides the following comments regarding the 
+interests of people with language-based learning disabilities who routinely use assistive 
+technologies, such as computerized text-to-speech software, in order to access information. 
+Americans with learning disabilities which impact reading, including but not limited to such 
+conditions as dyslexia and visual processing disorder, arguably constitute the largest 
+percentage of people with "print disabilities" in the United States, making their access needs 
+highly pertinent to the accessibility implications of the DMCA.  
+II. Subjects of Inquiry
+Rulemaking	Process
+3.	Should	section	1201	be	adjusted	toprovide	for	presumptive	renewal	ofpreviously	granted	
+exemptions—forexample,	when	there	is	no	meaningfulopposition	to	renewal—or	otherwise	be	
+modified	to	streamline	the	process	ofcontinuing	an	existing	exemption?	If	so,how?
+Yes. This is particularly true when circumvention is required to meet the accessibility needs of 
+people with print disabilities who would not otherwise be afforded the effective use of literary 
+works when electronic materials have been locked by Digital Rights Management (DRM) 
+techniques. The circumstances surrounding the need for this exemption have remained 
+essentially unchanged since the inception of the DMCA, and having to repeat the regulatory 
+process every three years represents an unfair burdening of disability advocacy organizations 
+who must submit comments which will remain essentially unchanged each time a Request for
+
+[PAGE 2]
+2 | Page
+Public Comments is issued. This is certainly true for this specific exemption, as it was 
+unchallenged during the last triennial rulemaking process. At the very least, Congress should 
+amend the rulemaking process to create a presumption in favor of renewal when there is no 
+meaningful opposition to the continuation of an exemption.
+Anti-Trafficking	Prohibitions
+7.	Should	section	1201	be	amended	to	allowthe	adoption	of	exemptions	to	the	prohibitionon	
+circumvention	that	can	extendto	exemptions	to	the	anti-traffickingprohibitions,	and	if	so,	inwhat	
+way?	For	example,	should	theRegister	be	able	to	recommend,	and	theLibrarian	able	to	adopt,	
+exemptions	thatpermit	third-party	assistance	whenjustified	by	the	record?
+Yes. As neither the vast majority of persons with learning disabilities nor the majority of agency 
+staff who may assist them will have the advanced technical knowledge needed to circumvent 
+DRM mechanisms, they will rely heavily on the assistance of third parties who have the ability to 
+create and distribute the advanced tools and services needed to make locked e-books and 
+other digital materials accessible. Extending the exemption to the DMCA anti-trafficking 
+prohibitions for the explicit purpose of making DRM-unlocking technology for accessibility more 
+widely available would be of great assistance to persons with learning disabilities. Congress 
+should amend the DMCA accordingly.
+Permanent	Exemptions
+9.	Please	assess	whether	there	areother	permanent	exemption	categoriesthat	Congress	should	
+considerestablishing—for	example,	to	facilitateaccess	toliterary	works	by	print-disabledpersons?
+Yes. The ability to override DRM locking mechanisms in order to facilitate access to literary 
+works by print-disabled persons should be a permanent exemption. This issue is especially 
+pertinent to the needs of students with learning disabilities who are enrolled in courses at the 
+elementary, secondary and postsecondary level. In these settings, students with learning 
+disabilities are commonly assisted by disability resource staff, teachers, or other school 
+personnel who are obligated to provide accessible educational material to students under other 
+laws, such as Section 504, the IDEA and the ADA. Sometimes these educational materials are 
+purchased by the school, but in other cases (especially in postsecondary settings) these 
+materials are purchased directly by the student. In cases where these materials are only 
+available in a digital format which has been locked through DRM, educational institutions (as 
+well as third-party access organizations or contractors who may assist in providing such 
+services to the school) are left with the difficult legal position of requiring personnel or 
+contractors to violate the anti-circumvention provisions of the DMCA in order to provide 
+accessible materials to their students, as required under such other federal laws.
+In some cases, a digital resource such as an e-book which has been locked through DRM will 
+have to be "unlocked" through the use of third-party software or services in order to allow an 
+assistive technology, such as a computerized text-to-speech application, to access the textual 
+content for reading by a person with a learning disability. In other cases, even if the digital 
+product has some form of embedded speech tool which will facilitate computerized reading of 
+the words, the text may nonetheless require human editing for accessibility due to the way it has
+
+[PAGE 3]
+3 | Page
+been assembled, such as the use of inaccessible images used to express mathematical 
+formulas instead of accessible digital text such as Mathematical Markup Language (MathML). In 
+either case, school personnel will have to utilize DRM circumvention which is currently not lawful 
+under the DMCA without the benefit of temporary exemptions granted by the Register. The 
+same can be said for businesses that need to make training and resource materials accessible 
+so that their employees with learning disabilities can effectively do their job. Further, people with 
+learning disabilities who are simply trying to access digital materials for enjoyment or self-
+development deserve similar equitable access to information as those with disabilities enjoy. 
+The Register has previously determined that converting e-books into accessible formats is likely 
+a non-infringing use both as a matter of fair use and under 17 U.S.C. 121, also known as the
+‘‘Chafee Amendment,’’ which allows authorized entities to create accessible versions of works 
+exclusively for use by persons who are blind, visually impaired, or print-disabled. In light of the 
+common application of these two mechanisms of non-infringing use for the purpose of disability 
+access, Congress should amend the DMCA to explicitly exempt DRM circumvention actions 
+when they are done so to provide such access.

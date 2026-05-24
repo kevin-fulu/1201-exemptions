@@ -1,0 +1,590 @@
+[PAGE 1]
+U.S. Copyright Ofﬁce 
+Software-Enabled Consumer Products Study 
+Docket No. 2015-6 
+Comment of Intellectual Property Professors 
+Introduction 
+The increasing prevalence of consumer goods that incorporate embedded software highlights 
+two longstanding problems in copyright law—the RAM copy doctrine and the characterization 
+of sales as licenses.  Both of these trends arose in cases involving software, but they are now 1
+poised to spread beyond that isolated and somewhat idiosyncratic corner of copyright law to 
+the market for consumer goods generally, where they could inﬂict unforeseen harms on the 
+intellectual property system, the economy, and the public. 
+Today’s consumer products and devices—from smartphones and home appliances to vehicles 
+and medical devices—integrate software code. That code doesn’t just offer new bells and 
+whistles that improve on existing products; it is essential to the basic functionality of many 
+devices. Without that software, these products are at best collections of spare parts and at 
+worst expensive paper weights. If consumers are denied their statutory rights to use, transfer, 
+and modify the software at the heart of this new generation of goods, they don’t really own the 
+products they buy. Control over embedded software gives copyright holders unanticipated and 
+unprecedented control over how those products are used, if and under what circumstances 
+they can be resold, who if anyone can repair them, and what replacement parts and supplies 
+are compatible with them. While copyright law was intended to give rights holders some 
+measure of control over protected works—subject to principles of exhaustion and fair use, 
+among others—copyright was never meant to provide such a powerful tool to control markets 
+for devices. In this sense, software-embedded goods push copyright law uncomfortably close 
+to regulating utilitarian devices properly within the scope of patent law. 
+Allowing rights holders to dictate the terms of use, transfer, and repair for tractors, Barbie dolls, 
+and coffee makers also serves to discredit the copyright system in the public mind. Reasonable 
+consumers can be convinced to accept limitations on their ability to download movies without 
+paying for them or photocopy expensive college textbooks. But so far, they appear far less 
+accepting of software that tells them who can repair their tractor or their iPhone or code that 
+restricts which brand of coffee or ink cartridge they can use with their device. On a nearly 
+weekly basis, the popular press reports on a new collision between the well-established 
+expectations of consumers to use the products they buy as they see ﬁt and the altogether new 
+degree of control software code allows rights holders to wield. A copyright law that embraces 
+those restrictions puts its legitimacy at risk. 
+The challenge that software-embedded goods presents for the copyright system is a direct 
+result of over two decades of software exceptionalism. For a variety of reasons, courts have 
+reshaped copyright doctrine to accommodate the unique nature of software code and the 
+ The anticircumvention provisions of the DMCA present a third, related set of concerns that are 1
+the subject of a separate Copyright Ofﬁce study. See 80 FR 81369 . In the context of software-
+enabled goods, a stark divide between these issues is artiﬁcial and obscures the important 
+ways in which they are intertwined. Nonetheless, this comment will make an effort to set aside 
+issues that relate primarily to DRM.
+  of  1 13
+
+[PAGE 2]
+market preferences of the software industry. Unless we are willing to allow that brand of 
+software exceptionalism to infect the digital economy as a whole, it is time to rethink the rules 
+that developed during the infancy of software copyright. 
+Courts have treated software as a special case for a number of reasons. For one, it has always 
+been an awkward ﬁt within our copyright system. After the legislative acceptance of software 
+copyright in 1980, courts and Congress have felt the need to make a number of 
+accommodations to traditional copyright principles to make room for software. Consider 
+§  102(b) and its exclusion of any “procedure, process, system, [or] method of operation” from 
+the scope of copyright protection.  Courts have managed to reconcile protection for software 2
+with that fundamental limitation, although their precise relationship remains a contested 
+question.  From protectability to infringement, copyright doctrine has been molded and 3
+stretched to address the unique problems software presents. Software is different from other 
+works in another respect. Copies of software have little intrinsic value in isolation. Unlike books, 
+paintings, or even musical compositions, the value of software is only realized within an 
+operating environment, where running the code requires loading it into memory. Software also 
+stands apart because the software industry has characterized transactions as licenses since the 
+early days of mass markets for software.  Book publishers, record labels, and others attempted 4
+to impose licensing restrictions on copies in the past. Consumers and courts saw those efforts 
+as anomalous departures from existing transactional forms and established expectations. 
+Accordingly, they rejected them. But in the software realm, attempts to characterize 
+transactions as licenses have been around from the beginning. A key feature of those early 
+licenses was the idea that the software developer does not sell copies of the program, but 
+merely licenses them.  Early efforts to license software reﬂected the uncertainty surrounding 5
+available copyright protection and concerns over conﬁdential trade secret information. But once 
+that uncertainty was resolved, the license remained. It was and remains a powerful tool for 
+undermining exhaustion rules, controlling secondary markets, and limiting competition. 
+Even if software exceptionalism was justiﬁed in the past, it isn’t any longer. Digital copies of all 
+sorts share many of the characteristics of software. They are useless outside of a computing 
+environment, and they are subject to pervasive licensing efforts. The distinction between 
+software and other kinds of copyrighted works, which was never particularly clear as a statutory 
+or conceptual matter, is breaking down from a practical perspective.  And as computers take 6
+the shape of phones, cars, and pacemakers, software is no longer some isolated corner of the 
+marketplace conﬁned to virtual machines. It is a ubiquitous component of the physical world. 
+Equally importantly, the intervening years have provided a clearer picture of the troubling 
+consequences of software exceptionalism. 
+ 17 USC § 102(b).2
+ Lotus v. Borland, 49 F .3d 807 (1st Cir. 1995); Oracle v. Google, 750 F .3d 1339 (Fed. Cir. 2014). 3
+ Watts S. Humphrey, “Software Unbundling: A Personal Perspective, ” IEEE Annals of the 4
+History of Computing 34, no. 1 (2002): 60.
+ Id.5
+ See A.M. Turing, On Computable Numbers, with an Application to the Entscheidungsproblem, 6
+42 Proc. London Math. Soc. 230 (1936); Allen Newell, The Models Are Broken, The Models Are 
+Broken!, 47 U. PITT . L. REV . 1023, 1033 (1986).
+  of  2 13
+
+[PAGE 3]
+One such consequence is the RAM copy doctrine, which treats temporary instantiations of 
+information in memory that persist for as little as a few seconds as ﬁxed copies for 
+infringement purposes.  That misstep has cast the shadow of infringement liability over nearly 7
+every use—personal and commercial, private and public—of a digital work. If merely reading a 
+digital book or turning on a device with embedded code is potentially an act of infringement, the 
+economy—from cars and tractors to toys and coffee makers—operates at the mercy of 
+software copyright holders.  It means that powering on Mattel’s Hello Barbie requires a 8
+copyright holder permission, not only for the original purchaser, but for all subsequent users and 
+purchasers as well. And if Mattel decides to clamp down on the secondary market for used 
+toys, it could quite simply refuse to grant permission to aftermarket purchasers to load the 
+software that runs the device. For that matter, so could Ford or Volkswagen. 
+But the clearest illustration of software exceptionalism is the Ninth Circuit’s inconsistent 
+handling of the question of copy ownership in software and non-software cases. On June 7 , 
+2010, the same Ninth Circuit panel heard oral arguments UMG v. Augusto  and Vernor v. 
+Autodesk.  Both cases turned on the question of copy ownership; both involved the allegedly 9
+infringing resale of lawfully-made copies; both cases featured license terms that imposed 
+similar restrictions and purported to preclude copy ownership by the defendants. But despite 
+those similarities, the panel reached very different conclusions relying on two inconsistent 
+approaches. The best explanation for this disparity is that one case was about software, and the 
+other was not.  
+In Augusto, the court focused on the practical reality of the transaction. But in the software 
+case, Vernor, it was concerned almost exclusively with the text announcing restrictions and 
+reservations in the licensing agreement. Had the court applied the Vernor standard, Augusto 
+would have been decided quite differently: UMG characterized the transaction as a license; it 
+prohibited recipients from transferring the discs to others; and it conﬁned them to “personal” 
+use of the discs. Each of the three Vernor factors were satisﬁed. Instead, the Ninth Circuit 
+created two parallel frameworks for distinguishing licenses from sales. In software cases, it 
+applies a test that turns on factors entirely within the control of the rights holder. In non-
+software cases, it looks to the nature and consequences of the transaction.  
+These two mistakes are linked. By ﬁnding infringing reproductions around every corner—every 
+time a work is privately displayed, every time a device with embedded code is turned on, every 
+time a copy in long term storage is loaded into short term memory—the RAM copy doctrine 
+necessitates licenses for the most mundane and expected uses of a work. If every act is 
+infringing, every act requires permission. That necessity reinforces the narrative that consumers 
+aren’t really buying their software, they are merely paying for permission to use it. 
+In order to address the pressing issue of software-enabled products, copyright law must 
+undertake a substantial course correction. It must recognize the RAM copy doctrine and the 
+ See MAI Systems v. Peak Computer, 991 F2d 511 (9th Cir 1993). Courts have started to push 7
+back on the most obvious excesses of the RAM copy doctrine. Cartoon Network v. CSC 
+Holdings, 536 F3d 121 (2d Cir 2008). But there is little certainty about its viability and scope. 
+See Aaron Perzanowski, Fixing RAM Copies, 104 Northwestern L. Rev. 1067 (2010). 
+ See Jessica Litman, The Exclusive Right to Read, 13 Cardozo Arts & Ent. L.J. 29, 31-32 (1994).8
+ UMG Recordings, Inc. v. Augusto, 628 F .3d 1175 (9th Cir. 2011); Vernor v. Autodesk, Inc., 621 F .9
+3d 1102 (9th Cir. 2010).
+  of  3 13
+
+[PAGE 4]
+widespread acceptance of the consumer license as costly mistakes. And it must reafﬁrm the 
+strong commitment to balancing the exclusive rights of copyright holders with the personal 
+property interests of consumers reﬂected throughout the Copyright Act. If instead, copyright 
+law continues down the existing path of software copyright, those mistakes will be ampliﬁed 
+throughout the economy. 
+1. The provisions of the copyright law that are implicated by the ubiquity of copyrighted 
+software in everyday products 
+At least six provisions of the Copyright Act are implicated by software-enabled devices. 
+Section 101 provides that “[a] work is ‘ﬁxed’ in a tangible medium of expression when its 
+embodiment in a copy or phonorecord, by or under the authority of the author, is sufﬁciently 
+permanent or stable to permit it to be perceived, reproduced, or otherwise communicated for a 
+period of more than transitory duration .”  (emphasis added). By treating the very act of loading 10
+software into memory when a device or product is powered on or used, the RAM copy doctrine 
+ignores this durational requirement and introduces unnecessary uncertainty about the legality 
+of consumers using the devices they own.  
+Section 102(b) excludes “any idea, procedure, process, system, method of operation, concept, 
+principle, or discovery” from the scope of copyright protection.  Among the many goals of 11
+§  102(b) is maintaining the boundary between the copyright and patent systems.  A device 12
+maker should not, by virtue of their copyright interest in a software program, be permitted to 
+control the use, transfer, and repair of a device. As the Court explained in Baker v. Selden, “That 
+is the province of letters patent, not of copyright. ”  But without meaningful exhaustion and 13
+corresponding consumer property rights, that is precisely the control copyright offers for 
+makers of software-enabled devices.  
+Section 106(3) deﬁnes the types of transactions available to copyright holders under the 
+exclusive right of public distribution. It provides that copyright holders have the exclusive right 
+“to distribute copies or phonorecords of the copyrighted work to the public by sale or other 
+transfer of ownership, or by rental, lease, or lending. ”  This language recognizes two categories 14
+of transactions: (1) sales and other transfers of ownership, like gifts; and (2) transfers of limited 
+duration: rental, lease, or lending. Some transactions commonly referred to as licenses are easy 
+to ﬁt into category (2). Borrowing a library book or subscribing to Netﬂix doesn’t transfer 
+ownership. Other transactions, like the exchange of perpetual possession of a physical copy in 
+exchange for a one-time payment, ﬁt more naturally into category (1), regardless of how they 
+are characterized in license terms. In any case, the text of the Act makes clear that there is no 
+free-standing transactional form called a “license” when it comes to the transfer of particular 
+copies, such as those embedded in a phone, watch, or tractor. 
+ 17 USC § 101 .10
+ 17 USC § 102(b).11
+ See Pamela Samuelson, Why Copyright Law Excludes Systems and Processes From the 12
+Scope of Its Protection, 85 Tex. L. Rev. 1921 (2006).
+ Baker v. Selden 101 U.S. 99 (1879).13
+ 17 USC § 106(3).14
+  of  4 13
+
+[PAGE 5]
+Section 202 reinforces the distinction between “[o]wnership of a copyright, ” which the rights 
+holder retains even after the sale of an embedded copy, and “ownership of any material object 
+in which the work is embodied. ”  Nonetheless, license agreements and the courts that enforce 15
+them often lose sight of this basic distinction. A rights holder can license certain uses of their 
+copyrighted work at the very same time they transfer ownership through the sale of a particular 
+copy stored in a device or product.  
+Section 109(a) reﬂects the longstanding ﬁrst sale rule, limiting the power of copyright holders to 
+interfere with downstream transfers of copies owned by consumers, and § 109(b) ensures that 
+the owner of a copy is entitled to display it publicly. 
+Section 117 secures additional rights for owners of copies of computer programs. It permits the 
+creation of copies essential to the use of the program, archival copies, and adaptation copies  
+necessary to translate between programming languages, move the program from one device to 
+another, and to add new features.  The statute also permits the transfer of exact essential step 16
+and archival copies as part of a transfer of the original copy, triggering a duty to delete any 
+remaining archival copies.  17
+Together, §§ 109 and 117 deﬁne the rights of owners of copies.  Applying the principle of 18
+copyright exhaustion, these two provisions demonstrate the steps the Copyright Act takes to 
+preserve the personal property interests of owners. Section 117 , like § 109, reﬂects 
+congressional recognition of the fact that copyright has the potential to interfere with the 
+legitimate personal property interests of owners of copies. That potential conﬂict is even 
+greater when software leaves the familiar conﬁnes of our computers and makes its way into 
+nearly every electronic device that surrounds us.  
+To solve that problem, § 117 recognizes a set of rights that belong to copy owners. But that 
+solution only works in a legal environment that acknowledges the purchasers of software 
+products and software-embedded devices as owners. Too many courts have ignored this 
+congressional purpose and fallen for the software industry’s myth of licensed copies. In doing 
+so, those courts have created a legal framework that bestows on copyright holders set of rights 
+the Copyright Act was simply never intended to grant. 
+2. Whether, and to what extent, the design, distribution, and legitimate uses of products 
+are being enabled and/or frustrated by the application of existing copyright law to 
+software in everyday products 
+A range of legitimate uses are frustrated by the application of the RAM copy doctrine and the 
+acceptance of software transactions as licenses rather than sales. Combined, those doctrines 
+give rights holders the power to control whether and how consumers use the devices they 
+own; when and under what conditions they can lend, resell, or give them away; who can repair 
+ 17 USC § 202.15
+ 17 USC § 117(a); National Commission on New Technological Uses of Copyrighted Works, 16
+Final Report 13 (1979).
+ 17 USC § 117 (a)-(b).17
+ 17 USC §§ 109 & 117 .18
+  of  5 13
+
+[PAGE 6]
+them;  what interoperable products, replacement parts, and components can be used with 19
+them; the degree to which those products can be researched and tested; the possibility of 
+tinkering and user innovation; and the availability of interoperable products. 
+Below are just a few examples of how control over the software embedded in consumer 
+devices frustrates their legitimate use. Many of the harms these examples represent are 
+compounded by the anticircumvention provisions of the DMCA.  But even putting § 1201 20
+aside, the unauthorized use, transfer, and modiﬁcation of copies of software arguably violate 
+§  106 if we accept the RAM copy doctrine and reject consumer ownership of embedded 
+software copies. 
+- Amazon used the software embedded in its Kindle devices to remotely delete 
+purchased books—including George Orwell’s 1984—and to disable consumer accounts, 
+effectively rendering the devices unusable.  21
+- Nintendo used the software embedded in its Wii U gaming device to force owners to 
+accept a revised end user license agreement. Device owners were given no option to 
+refuse the update. The software prevented all attempts to access games or other data 
+until device owners clicked “ Agree” to the new terms. 22
+- Google’s terms of use for its Glass wearable computer prohibit owners from reselling, 
+loaning, transferring, or giving away the device. And its embedded software allowed 
+Google to remotely deactivate the device in the event of an unauthorized transfer.  23
+- Cisco insists that owners of its hardware are not entitled to transfer copies of the 
+software they contain, software that is essential to their function. Device owners, Cisco 
+claims, “[do] not own the software on the product - and therefore [have] no rights to sell 
+  Section 117 permits the owner or lessee of a machine to create a copy of software for the 19
+purposes of repair. 17 § USC 117(c). However, the provision contains two crucial limitations that 
+severely narrow its scope and has never been applied to common consumer goods.
+ Some have been addressed by exemptions granted in the recent § 1201 rulemaking, but such 20
+exemptions do not preclude infringement liability, nor do they permit modiﬁcation of the 
+underlying code. Moreover, those exemptions are temporary, requiring renewal every three 
+years, and the exemption related to motor vehicles does not go into effect until October 2016.
+ Brad Stone, Amazon Erases Orwell Books from Kindle, New Y ork Times, July 17 , 2009, http://21
+www.nytimes.com/2009/07/18/technology/companies/18amazon.html; Mark King, Amazon 
+Wipes Customer’s Kindle and Deletes Account with No Explanation, Guardian (UK), October 22, 
+2012, http://www.theguardian.com/money/2012/oct/22/amazon-wipes-customers-kindle-deletes-
+account.
+ Kit Walsh, Nintendo Updates Take Wii U Hostage Until Y ou "Agree" to New Legal Terms, 22
+Deeplinks, Oct. 14, 2014, https://www.eff.org/deeplinks/2014/10/nintendo-updates-take-wii-u-
+hostage-until-you-agree-new-legal-terms.
+ David Kravets & Roberto Baldwin, Google Is Forbidding Users from Reselling, Loaning Glass 23
+Eyewear, Wired, April 17 , 2013, http://www.wired.com/2013/04/google-glass-resales; Long 
+Comment Regarding a Proposed Exemption Under 17 U.S.C. 1201 (Proposed Class # 21) at 6, 
+Section 1201 Exemptions to Prohibition Against Circumvention of Technological Measures 
+Protecting Copyrighted Works: Second Round of Comments, accessible at http://copyright.gov/
+1201/2015/comments-032715/class%2021/John_Deere_Class21_1201_2014.pdf.
+  of  6 13
+
+[PAGE 7]
+it to you. This means that if you purchased the product from that seller, your company ... 
+would be in violation of Cisco’s intellectual property rights. ”  24
+- John Deere tractors contain a variety of control units—hardware and software 
+components that regulate functions ranging from running the engine to adjusting the 
+armrest. John Deere leverages its control over that software to prevent home repairs 
+and shut out independent repair shops. Instead, tractor owners are forced to pay for 
+expensive service at authorized John Deere dealers. John Deere defends this policy on 
+the grounds that its customers don’t actually own the software embedded in their 
+tractors. In John Deere’s estimation, tractor owners merely have “an implied license for 
+the life of the vehicle to operate the vehicle. ”  25
+- Apple created software for the iPhone that detects “unauthorized” repairs of the 
+devices. For iPhone owners who choose to opt for an independent repair shop, the 
+consequences can be catastrophic. The device displays the cryptic “Error 53” and 
+renders the device unusable and the data stored on it inaccessible. To date, Apple has 
+announced no remedy to ﬁx Error 53. As a result unknown numbers of iPhone owners 
+have seen their devices rendered worthless by Apple’s software.  26
+- Companies like Keurig have relied on embedded software to control the market for 
+consumable products like coffee pods. The DMCA reinforces these software 
+restrictions, but § 1201 is not necessary to restrain consumer choice. A software license 
+that prohibits modiﬁcation or removal of the lockout software could trigger traditional 
+infringement liability under the RAM copy doctrine.  27
+- Similarly, companies like Apple have relied on embedded software to prevent device 
+owners from installing or using interoperable products. Only approved applications from 
+Apple’s app store can be installed on the iPhone and iPad, for example. Modifying a 
+device’s operating system to avoid these restrictions violates license restrictions and 
+could constitute infringement.  Concerns about potential infringement liability can also 28
+discourage research and testing of consumer devices. As recent safety recalls of Ford 
+and Chrysler vehicles demonstrate—along with Volkswagen’s environmentally 
+disastrous defeat device—the software that operates our nation’s vehicles requires 
+outside scrutiny. But carmakers insist that car owners have no right to inspect or modify 
+that software. GM, for example, recently told the Copyright Ofﬁce that car owners 
+mistakenly “conﬂate ownership of a vehicle with ownership of the underlying computer 
+software in a vehicle. ” In a world that embraces the RAM copy doctrine and refuses to 
+ Cisco, Third Party Maintenance Services, http://www.cisco.com/c/dam/en_us/about/24
+doing_business/legal/service_descriptions/docs/Third_Party_Maintenance_Services_FAQ.pdf
+ Kyle Wiens, We Can’t Let John Deere Destroy the Idea of Ownership, Wired, April 21, 2015, 25
+http://www.wired.com/2015/04/dmca-ownership-john-deere.
+ Cory Doctorow, Error 53: Apple remotely bricks phones to punish customers for getting 26
+independent repairs, BoingBoing, Feb. 5, 2016, http://boingboing.net/2016/02/05/gerror-53-apple-
+remotely-bric.html.
+ Hayley Peterson, Keurig's New Coffee Machine Got A Ton Of Hype, But Customers Seem To 27
+Hate It, Business Insider, Nov. 25, 2014, http://www.businessinsider.com/keurig-20-scathing-
+reviews-2014-11.
+ Tom Krazit, Apple: iPhone Jailbreaking Violates Our Copyright, Cnet, Feb. 13, 2009, http://28
+www.cnet.com/news/apple-iphone-jailbreaking-violates-our-copyright.
+  of  7 13
+
+[PAGE 8]
+recognize consumer ownership of software copies, the specter of copyright liability 
+stands in the way of this important work.  29
+- Current software copyright law can also interfere with user innovation. Owners of 
+medical devices like pacemakers and insulin pumps are understandably motivated to 
+test and improve the devices that are implanted in their bodies and keeping them alive. 
+But because they are not considered the owners of the embedded software copies that 
+make these modern devices work, they are denied the opportunity to innovate even 
+when their lives rest in the balance. In some instances, embedded software even 
+denies patients access to data about their own health.  30
+These examples make clear that copyright law frustrates a host of socially valuable, legitimate 
+uses. Rejecting an approach that treats all RAM instantiations as copies and recognizing owners 
+of devices as owners of the copies of software embedded in them would go a long way 
+towards addressing these and similar scenarios. 
+With regard to interoperable products, the Federal Circuit’s recent opinion in Oracle v. Google 
+introduces a related but distinct set of concerns.  In ﬁnding the structure, sequence, and 31
+organization of Oracle’s Java API copyrightable, that opinion signiﬁcantly increases the barriers 
+facing developers of products that interoperate with existing devices and software platforms. 
+First, it misinterpreted § 102(b) as nothing more than a restatement of the idea/expression 
+distinction, giving no independent meaning to the statutory exclusion of procedures, processes, 
+systems, and methods of operation. In doing so, the Federal Circuit misapplied Ninth Circuit 
+precedent by limiting consideration of interoperability to the fair use inquiry. But in Sega v. 
+Accolade, the court based its holding on the fundamental premise that software elements 
+necessary to achieve interoperability are beyond the scope of copyright protection.  Second, 32
+the Federal Circuit adopted an unreasonably narrow interpretation of the merger doctrine when 
+it reasoned that merger was inapplicable so long as Oracle’s own engineers could exercise 
+creative judgment in the creation of the API; the choices left available to developers of follow-on 
+interoperable software or devices was, in the Federal Circuit’s estimation, irrelevant.  This 33
+ Andy Greenberg, After Jeep Hack, Chrysler Recalls 1 .4M Vehicles for Bug Fix, Wired, July 24, 29
+2015, http://www.wired.com/2015/07/jeep-hack-chrysler-recalls-1-4m-vehicles-bug-ﬁx; Alisa 
+Priddle, Ford Recalls 433,000 Cars Because Engines Won’t Shut Off, USA Today, July 2, 2015, 
+http://www.usatoday.com/story/money/cars/2015/07/02/ford-recall/29620683; Andrea Peterson 
+and Brian FungThe Tech Behind How Volkswagen Tricked Emissions Tests, Washington Post, 
+Sept. 22, 2015, https://www.washingtonpost.com/news/the-switch/wp/2015/09/22/the-tech-
+behind-how-volkswagen-tricked-emissions-tests; Comments of General Motors LLC (Proposed 
+Class #21) at 10, Exemption to Prohibition on Circumvention of Copyright Protection Systems 
+for Access Control Technologies, No. 2014-07 (U.S. Copyright Ofﬁce March 27 , 2015), accessible 
+a t h t t p : / / c o p y r i g h t . g o v / 1 2 0 1 / 2 0 1 5 / c o m m e n t s - 0 3 2 7 1 5 / c l a s s % 2 0 2 1 /
+General_Motors_Class21_1201_2014.pdf.
+ Emily Singer, Getting Health Data from Inside Y our Body, MIT Technology Review, November 30
+22, 2011, http://www.technologyreview.com/news/426171/getting-health-data-from-inside-your-
+body; Andrew Gregory and Graham Morrison, Karen Sandler: Full Interview, TuxRadar, 
+September 26, 2013, http://www.tuxradar.com/content/karen-sandler-full-interview.
+ Oracle v. Google, 750 F .3d 1339 (Fed. Cir. 2014)31
+ See Sega Enters., Ltd. v. Accolade, Inc., 977 F .2d 1510, 1522 (9th Cir. 1992).32
+ Oracle, 750 F .3d at 1361.33
+  of  8 13
+
+[PAGE 9]
+result is inconsistent with the prevailing view in many circuits, including the Ninth.  The Federal 34
+Circuit’s rewriting of software copyright law gives copyright holders far greater power to limit 
+interoperability not only with software code, but with the consumer devices that depend on 
+that code. 
+3. Whether, and to what extent, innovative services are being enabled and/or frustrated 
+by the application of existing copyright law to software in everyday products 
+In recent years, device makers and service providers have developed no shortage of new and 
+innovative offerings. From media streaming services like Netﬂix and Spotify to wearable 
+technology like Fitbit and the Apple Watch, developers have found new ways to deliver goods 
+and services to meet the demands of consumers.  
+But none of these goods and services depend on copyright law continuing down the dangerous 
+path outlined above. Although device makers are eager to limit competition, control consumer 
+behavior, restrict secondary markets, and extract higher prices for services, consumables, and 
+replacement parts, there is no reason copyright law should indulge those whims. First, it is far 
+from clear that the development and introduction of these new products depends on this 
+degree of downstream control. And to the extent such control is necessary, it is available 
+through other means that do not conscript the Copyright Act into the effort to gain control over 
+the market for devices and related services. That is not the job of copyright law, nor should it 
+be. If device makers want to exert that control, they can turn to other bodies of law including 
+patents and contracts. Even within the copyright framework, if it is essential to control post-sale 
+use of a product, device makers and service providers have a clear and workable option—don’t 
+sell your product to consumers. Products can be offered as rentals, leases, or subscriptions—
+transactions that consumers understand do not confer the rights associates with ownership. 
+But when a consumer buys a car, a phone, or a pacemaker, they expect to own it. And that 
+expectation is not limited to the physical components; it reasonably includes the software that 
+is equally, if not more, responsible for the device’s characteristics, features, and performance. 
+4. Whether, and to what extent, legitimate interests or business models for copyright 
+owners and users could be undermined or improved by changes to the copyright law in 
+this area 
+The current state of the law surrounding software-enabled devices poses a signiﬁcant risk to a 
+number of legitimate interests and business models. It threatens secondary markets and 
+intermediaries like eBay that facilitate resale. It threatens portions of the sharing economy, 
+including sites like Neighborgoods, that enable the lending of tools and other equipment. It 
+threatens independent service and repair shops across the electronics, telecommunications, 
+automative, and other sectors. It threatens the makers of low cost add-on products and 
+compatible consumables, including amateur user-innovators.  
+Ironically, the uncertainty surrounding exactly what rights consumers acquire in the devices 
+they buy could dissuade them making such purchases in the future. This assumes that a 
+sufﬁcient number of consumers are aware of the limited set of rights they acquire when it 
+ See Sega, 977 F .2d at 1522; Sony Computer Entertainment, Inc. v. Connectix, Corp., 203 F .3d 34
+596, 602-03 (9th Cir. 2000); Lexmark Int’l, Inc. v. Static Control Components, Inc., 387 F .3d 522, 
+535-36 (6th Cir. 2004); Computer Associates International, Inc. v. Altai, Inc., 982 F .2d 693, 
+709-10 (2d Cir. 1992).
+  of  9 13
+
+[PAGE 10]
+comes to “licensed” devices. And while there have been notable consumer backlashes to 
+some instances of over-reaching rights holders, there is good reason to suspect that the public 
+at large remains in the dark about the assertions rights holders make about their ongoing right 
+to control devices after their sale. 
+Given the troubling consequences of allowing copyright holders to assert control over software 
+embedded in devices sold to consumers, in conﬂict with the text and purpose of § 117 , rights 
+holders should be expected to demonstrate a concrete and signiﬁcant risk of meaningful 
+infringement of their software code. But they can’t. No one buys a John Deere tractor to extract 
+its software code. No one buys a pacemaker to share its operating system via BitTorrent. 
+Assertions of copyright in this space are not driven by a desire to prevent or discourage 
+infringement; they are motivated by a desire to control how consumers use utilitarian devices, 
+to limit competition and increase prices by curtailing secondary markets, and to leverage the 
+limited copyright monopoly into the service and repair markets. Not only is that far from a 
+compelling justiﬁcation for copyright exclusivity, it is the deﬁnition of copyright misuse. 
+5. Key issues in how the copyright law intersects with other areas of law in establishing 
+how products that rely on software to function can be lawfully used 
+In the context of software-enabled devices, copyright law intersects with at least four other 
+bodies of law.  
+First, to the extent copyright law interferes with the ability of device owners to use, transfer, 
+and repair the products they buy, the balance between the statutory rights of copyright holders 
+and the personal property rights of consumers are implicated. Copyright law’s exhaustion rules 
+are intended to achieve a balance between those conﬂicting sets of interests.  But to the 35
+extent copyright law fails to acknowledge consumers as the owners of not only the physical 
+devices they buy, but also the software copies responsible for the functionality, the copyright 
+system is responsible for a massive erosion of personal property rights.  
+  
+Second, since license terms that purport to prevent a transfer of ownership are often 
+characterized by licensors—and interpreted by courts—as contracts, the intersection of 
+copyright and contract law is a necessary consideration.  Contract law has undergone a 36
+transformation in recent decades that replaced the traditional paradigm of negotiated terms, a 
+meeting of the minds, and explicit acceptance with a contemporary view that permits contract 
+formation by notice alone, and constructive notice at that. Under those conditions, contracts no 
+longer create purely in personam rights. Instead, they effectively attach restrictions that run 
+with a piece of personal property; they create servitudes on chattels, a property restriction that 
+faced hostility at common law historically.  These so-called agreements seek to enlist copyright 37
+law in achieving an outcome that courts have rejected for centuries. Putting aside issues of 
+formation, this suggests that license agreements imposing restrictions on the use of a device 
+ See Aaron Perzanowski & Jason Schultz, Reconciling Intellectual and Personal Property, 90 35
+Notre Dame L. Rev. 1211 (2015). 
+ There are good reasons, however, to resist the notion that licenses are at their core 36
+contractual in nature. See Christopher M. Newman, A License Is Not A "Contract Not to Sue": 
+Disentangling Property and Contract in the Law of Copyright Licenses, 98 Iowa L. Rev. 1101 
+(2013).
+ See Molly Shaffer Van Houweling, The New Servitudes, 96 Geo. L.J. 885 (2008).37
+  of  10 13
+
+[PAGE 11]
+or its embedded software should be enforced not with copyright remedies, but with contractual 
+ones—subject to internal contract law limitations and copyright preemption. 
+Third, false advertising is a relevant area of law that is typically overlooked in this discussion. 
+Recent research suggests that when consumers buy digital goods, they often expect to acquire 
+the same sorts of rights to use and transfer those goods that they acquire when they purchase 
+analog products.  By characterizing transactions as sales or purchases when, in fact, the ﬁne 38
+print imposes signiﬁcant and unexpected limitations, device makers are misleading consumers 
+about the fundamental nature of the transaction. At the very least, the law should ensure that 
+consumers are able to make informed choices. 
+Finally, software-enabled devices present an increased potential for conﬂict with patent law. 
+Historically, copyright law has made great effort to avoid extending protection to utilitarian 
+devices. This is evident not only in § 102(b), but also on the useful article limitation on protection  
+for pictorial, graphic, and sculptural works.  But if rights holders can exercise the kinds of 39
+control over devices described above by virtue of their copyright interests in the software that 
+operates these devices, copyright has effectively embraced protection of utilitarian articles as 
+such. This raises the possibility of overlapping copyright and patent protection for the functional 
+features of the same device, not to mention the potential for copyright protection for devices 
+that fail to meet the more stringent standards of possibility—protection that persists decades 
+longer than the comparatively short patent duration.  
+Recommendations 
+Because the problems described above result primarily from misinterpretation of the terms of 
+§§ 101, 109, and 117 , legislative intervention is not strictly necessary. But courts clearly require 
+some guidance regarding the ﬁxation’s durational requirement in order to put to rest the legacy 
+of MAI v. Peak. Similarly, the courts would beneﬁt from some clariﬁcation regarding the impact 
+of license terms on the question of whether a “sale or other transfer of ownership” has 
+occurred for purposes of determining who counts as an “owner” of a copy under §§ 109 and 
+117 . The Copyright Ofﬁce is well positioned to offer that interpretive guidance. In doing so, it 
+should follow the lead of the Second Circuit in Cartoon Network and emphasize the distinct 
+statutory durational requirement ignored in MAI v. Peak . Likewise, It should encourage an 
+approach to resolving the license/sale question that looks to the economic reality of a 
+transaction rather than the self-serving language of license terms drafted by copyright holders, 
+as the Ninth Circuit did in Augusto and Second Circuit did in Krause v. Titleserv.  These 40
+recommendations apply with equal force to software and non-software disputes. 
+ See Aaron Perzanowski & Jason Schultz, The End of Ownership (MIT Press, forthcoming 38
+2016) (describing survey data that reveal a substantial percentage of consumers believe that 
+they acquire the rights to resell, lend, and give away digital books, music, and movies after 
+clicking the ubiquitous “Buy Now” button).
+ 17 USC § 101(deﬁning a “useful article” as one “having an intrinsic utilitarian function that is 39
+not merely to portray the appearance of the article or to convey information” and providing that 
+“the design of a useful article ... shall be considered a pictorial, graphic, or sculptural work only 
+if, and only to the extent that, such design incorporates pictorial, graphic, or sculptural features 
+that can be identiﬁed separately from, and are capable of existing independently of, the 
+utilitarian aspects of the article”).
+ 402 F .3d 119 (2d Cir. 2005)40
+  of  11 13
+
+[PAGE 12]
+If legislation is necessary, promising models have been proposed in Congress and enacted in 
+other jurisdictions. The Y ou Own Devices Act (YODA)  addresses some of the most 41
+troublesome implications of current copyright law as applied to software-enabled devices. It 
+would entitle the owner of a device to transfer an authorized copy of a computer program that 
+enables operation of that device when the owner sells, leases, or otherwise transfers the 
+device. That right cannot be waived. YODA would greatly improve the current state of 
+uncertainty regarding transfers of devices, but it could go further by giving owners the right to 
+modify their software, as currently permitted under § 117 . 
+A statutory deﬁnition of a “transfer of copy ownership” or an “owner” for exhaustion purposes 
+could also offer much needed clariﬁcation. To the extent those terms are deﬁned, they should 
+recognize that a transaction characterized by a one-time payment in exchange for perpetual 
+possession of or access to a copy should be considered a sale regardless of the terms of a 
+license. 
+When it comes to the RAM copy doctrine, existing legislation in Canada and Israel provide 
+useful starting points. In 2012, Canada added § 30.71 of the Copyright Act which provides that it 
+is “not an infringement of copyright to make a reproduction of a work or other subject-matter if 
+(a) the reproduction forms an essential part of a technological process; (b) the reproduction’s 
+only purpose is to facilitate a use that is not an infringement of copyright; and (c) the 
+reproduction exists only for the duration of the technological process. ” Similarly, Copyright Act,. 
+§ 26 of the Israeli Copyright Act provides: “The transient copying, including incidental copying, 
+of a work, is permitted if such is an integral part of a technological process whose only purpose 
+is to  enable transmission of a work as between two parties, through a  communications 
+network, by an intermediary entity, or to enable any other lawful use of the work, provided the 
+said copy does not have signiﬁcant economic value in itself.” By incorporating a similar provision 
+in the Copyright Act, much of the harm of the RAM copy doctrine could be avoided. 
+The Request for Public Comment asks “whether copyright law should distinguish between 
+software embedded in ‘everyday products’ and other types of software . ” Since the problems 
+highlighted here have their origins in cases dealing with traditional computer software, it would 
+be unwise to distinguish software embedded in everyday products from software installed on 
+traditional computers. While the concerns are more obvious and startling when we talk about 
+software-enabled devices, those same worries exist for software installed on desktops and 
+laptops. In both cases, the takeaway is the same—when a product is sold to consumer, she 
+should be entitled to treat that product as her property, as deﬁned by §§ 109 and 117 . If the 
+rights of public are contingent on the kindness of licensors, in the near future copyright law will 
+regulate nearly every device with which we interact. 
+Respectfully, 
+Aaron Perzanowski 
+Professor of Law 
+Case Western Reserve University School of Law 
+Timothy K. Armstrong 
+Professor of Law 
+University of Cincinnati College of Law 
+ H.R. 862, 114th Cong. (2015)41
+  of  12 13
+
+[PAGE 13]
+Joshua Fairﬁeld 
+Professor of Law 
+Washington and Lee University School of Law 
+Shubha Ghosh 
+Crandall Melvin Professor Law 
+Director, Technology Commercialization Law Program 
+Syracuse University College of Law 
+Ariel Katz 
+Associate Professor 
+Innovation Chair in Electronic Commerce 
+University of Toronto Faculty of Law 
+Stacey M. Lantagne 
+Assistant Professor of Law 
+The University of Mississippi School of Law 
+Mark A. Lemley 
+William H. Neukom Professor 
+Stanford Law School 
+Michael J. Madison  
+Professor of Law 
+University of Pittsburgh School of Law 
+Betsy Rosenblatt 
+Associate Professor 
+Director of the Center for Intellectual Property Law  
+Whittier Law School 
+Michael L. Rustad  
+Thomas F . Lambert Jr. Professor of Law  
+Co-Director Intellectual Property Law Concentration 
+Suffolk University Law School  
+Pamela Samuelson  
+Richard M. Sherman Distinguished Professor of Law  
+Berkeley Law School 
+Rebecca Tushnet 
+Professor of Law 
+Georgetown Law 
+  of  13 13

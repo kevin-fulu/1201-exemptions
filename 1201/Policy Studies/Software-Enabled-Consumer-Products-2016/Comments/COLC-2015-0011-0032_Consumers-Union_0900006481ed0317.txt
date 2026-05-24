@@ -1,0 +1,230 @@
+[PAGE 1]
+ 
+ 
+March 18, 2014 
+ 
+Comments of Consumers Union 
+To the U.S. Copyright Office 
+ Software-Enabled Consumer Products Study 
+[Docket No. 2015-6] 
+ 
+ 
+ Consumers Union, the policy and advocacy arm of Consumer Reports,1 respectfully 
+submits these reply comments in the above-referenced matter, to assist the Copyright Office in 
+its consideration of the application of copyright law to software-enabled consumer products.  
+Having had the opportunity to review and consider the initial comments submitted, we wish to 
+highlight the following points: 
+ 
+As we indicated in our comments in the Copyright Office’s other open proceeding, 
+reassessing the operation of section 1201 of the Digital Millennium Copyright Act, we are 
+concerned that inconsistent and unsettled application of copyright law to software that enables 
+and governs, and restricts, the functioning of everyday consumer products in which it is 
+embedded, threatens to cause far-reaching harm to fundamental consumer rights. 
+ 
+The reach of copyright law has expanded dramatically from its origins in response to the 
+invention of the printing press.  For many years, it applied only to books, stories in periodicals, 
+and other original writings.  As the technological means available for publishing and distributing 
+compositions evolved, copyright came to apply over time to phonograph and other audio 
+recordings, and then to film and other video recordings. But throughout this evolution, the 
+limiting concept was still the written expression of spoken language, or close audio-visual 
+equivalents. 
+ 
+With the arrival of computer technology, however, and the fateful decision to declare 
+computer code to be a “language” for copyright purposes, the stage was set for the jarring 
+collision we are now witnessing between this new frontier of copyright law and the core 
+protections of a far more ancient body of law, property law.  The right of consumers to own 
+property was well-established back at least as far as the ancient civilizations of Rome, Athens, 
+Israel, and Mesopotamia. 
+ 
+                                                           
+1 Consumers Union is the public policy and advocacy division of Consumer Reports, an expert, independent, 
+nonprofit organization whose mission is to work for a safe, fair, and just marketplace for all consumers and to 
+empower consumers to protect themselves.  Consumers Union conducts its policy and advocacy work in the areas of 
+telecommunications reform, health reform, food and product safety, financial reform, and other areas.  Consumer 
+Reports is the world’s largest independent product-testing organization.  Using its more than 50 labs, auto test 
+center, and survey research center, the nonprofit organization rates thousands of products and services annually.  
+Founded in 1936, Consumer Reports has over 8 million subscribers to its magazine, website, and other publications.
+
+[PAGE 2]
+2 
+ 
+We recognize the value of copyright law in nurturing and protecting incentives for 
+innovation, both generally and in particular with respect to computer software.  At the same time, 
+it is important that the monopoly rights conferred on creators by the copyright laws be kept 
+appropriately contained, so they do not spill over into broader, unjustified and counterproductive 
+restraints on competition and consumer choice, and do not undermine long-established, 
+fundamental rights and expectations of consumers regarding their ownership and dominion over 
+the products they have lawfully acquired.  Beyond these immediate effects on consumer rights 
+and expectations, broader innovation is impeded if a product’s manufacturer is given 
+inordinately sweeping power to control how it is used once it has been released into the 
+marketplace. 
+ 
+While we agree with those who urge care in making significant changes to the bedrock of 
+copyright law, we believe specific and discrete clarifications to address specific legal 
+uncertainties that have arisen in this collision of copyright law and property law are warranted in 
+order to preserve those long-established consumer rights and expectations, as more and more 
+consumer products – from toys to household appliances to medical devices to cars and farm 
+tractors – become part of the Internet of Things. 
+ 
+Essentially, those consumer rights and expectations should be as equivalent as possible 
+with respect to software-enabled consumer products as they have been for products containing 
+no software.  A consumer who purchases a product or otherwise lawfully acquires it should own 
+it, and be able to use it – as he or she sees fit.  That also includes selling or giving the product to 
+someone else, complete with all its parts and contents and accessories.  It includes being able to 
+tinker with the product, to customize it, to improve its utility or performance, to get it repaired, 
+or to remove its parts and use them in some other product.  And it includes being able to choose 
+how to accomplish any of those, or who to enlist or hire for assistance.  Just as a dress can be 
+resold in a consignment shop, or given to a friend, or donated to a thrift store; or re-hemmed, or 
+mended, or have its buttons removed and used on another dress, either by the owner herself, or 
+by hiring a seamstress. 
+ 
+And as more products collect and store data as one of their core functions, or in 
+connection with those functions, ownership should also include ownership of that data and the 
+right to access it.  Just as a consumer can store photographs and term papers and lists and letters 
+in a trunk and is free to retrieve them at any time, or keep notes on a pad in the glove 
+compartment of a vehicle. 
+ 
+There is perhaps a natural inclination for courts and policymakers to be intimidated by 
+the complexities of computer and digital technology, and to give undue deference to industry 
+claims that products containing this complex technology require different treatment, more under 
+the control of the manufacturer or original inventor.  That inclination should be resisted.  There is 
+no reason that consumers should have to surrender their rights just because products have 
+become more technologically complex. 
+ 
+We recognize that some product changes can have serious implications for safety.  
+Ensuring product safety has been a bedrock objective of Consumers Union’s mission since its 
+founding 80 years ago.  But safety considerations should not be dragged into copyright law,
+
+[PAGE 3]
+3 
+ 
+where they are more apt to be used as a pretext for blocking competition and consumer choice 
+and undermining rights of ownership. 
+ 
+The consumer rights issues at stake here were illuminated further for Consumers Union 
+through our experience in recent years advocating for the right for consumers to unlock their 
+mobile phones, to enable them to be used for connection to a different wireless network, under 
+contract with a different service provider.  In our comments in the other open proceeding, we 
+recounted our frustrations with the need to keep litigating and re-litigating the justifications for 
+an legal exemption to the Digital Millennium Copyright Act’s prohibitions on accessing the 
+software in the mobile phone to accomplish that unlocking – to remove the legal cloud over the 
+right to keep phone manufacturers and wireless providers from arbitrarily turning useful phones 
+into worthless junk. 
+ 
+Ownership of Product Should Include Ownership of Contents 
+ 
+But in working to restore that right in Congress, we also had to deal with a hidden trap – 
+that the right to unlock, in its most recent iteration, had not been granted to the consumer who 
+owned the phone, but had instead been limited to “the owner of the copy of the computer 
+program” inside the phone.  This meant that, if we simply restored the right as it had most 
+recently existed, the software creators and the phone manufacturers and the wireless service 
+providers could have easily nullified the right.  They could simply have slipped a sentence into 
+the fine print of the standard-form contract that consumers are supposedly agreeing to when they 
+click the “I agree” box as directed by the sales clerk. That sentence would state that they were 
+retaining technical ownership of the technology inside the phone, specifying that the consumer 
+was being granted only a “license” to use the technology.  It would have come as a surprise to 
+most consumers that the phone they purchased was not really a phone, but merely the shell of a 
+phone. 
+ 
+We were able to get this hidden trap fixed in the legislation restoring the right to unlock, 
+and to get it fixed permanently, so that the right to unlock is held by the owner of the phone.  
+That’s consistent with common-sense consumer expectations of what ownership means.  
+ 
+This same hidden trap is potentially lurking in all software-enabled consumer product 
+sales, and we believe it should be clarified for all of them.  If you buy the product, or otherwise 
+lawfully acquire it, you own it, and that should mean owning not just the shell of the product, or 
+its packaging, but its contents, what makes it function, and the fruits of its use.  Those contents 
+are yours to do with as you see fit.  And when you resell or give away or donate the product to 
+someone else, the ownership rights to the contents of the product stay with it unless, as in the 
+case of personal data the product collects, you decide to remove that data and keep ownership. 
+ 
+That wouldn’t mean, as some suggest, that owning the copy of the software inside the 
+product means having an unlimited right to make copies of the software and use the software in 
+in other products or sell it multiple times.  There is an essential, categorical difference between 
+owning a copy of the software inside your product, and owning a copyright interest in it.  
+However, we do believe that the consumer should have the right to transfer that single copy of 
+the software into a different product for use there, as long as the copy does not remain in (or is
+
+[PAGE 4]
+4 
+ 
+no longer used in) the original product in which it was contained – just as a button may be 
+removed from one dress and sewn onto another.  
+ 
+Nor would it mean, as some suggest, that a service agreement must always travel with the 
+product.  If someone sells or gives you an electric hair dryer, you still have to pay for electric 
+power.  But you do own the electric plug at the end of the cord, which enables you to 
+interconnect to access the electric power; the same should be true for more technologically 
+complex interfaces that enable the operation and interconnection desired by the consumer.  In 
+addition, whatever software updates and error correction patches are provided to the original 
+purchaser of the product, whether pursuant to the sales agreement or pursuant to company policy, 
+should be provided on the same terms to the person who acquires the product from the original 
+purchaser.  That’s an essential element of full transferability of ownership of the product, a right 
+inherent in ownership. 
+ 
+Simple Use of a Product Is Not Infringement 
+ 
+Another uncertainty in consumer rights that was illuminated in our efforts to restore the 
+right to unlock mobile phones is how the law treats the fact that often the engagement of 
+computer software in a product, simply in order to operate the product, technically entails 
+copying the software, within the product, as part of its operation.  In the context of crafting an 
+exemption to the section 1201 prohibitions on access to software, this issue was resolved 
+implicitly as part of the restoration of the right to unlock.  But it needs to be resolved explicitly, 
+and definitively, for all products.  This is not “copying” in the infringement sense, and should not 
+require the user of the product to obtain permission from the holder of the copyright in the 
+software. 
+ 
+Addressing Uncertainty in the Law 
+ 
+These two principles – that a product includes its component parts and contents, and that 
+being able to use the product is an inherent right of having lawfully acquired it – would seem 
+beyond dispute.  They are embodied in some of our earliest copyright law precedents, including 
+the doctrines of fair use and first sale, and they have been recently reaffirmed in the specific 
+context of computer software.2  Congress has attempted to further clarify their applicability to 
+computer software in section 117 of the Copyright Act, as amended on several occasions.  And 
+yet in the software world, they continue to be litigated and re-litigated, keeping them in legal 
+limbo.  It is time to make an effort to lay them to rest. 
+ 
+Making these two discrete clarifications, of what many believe to be well-established 
+principles of copyright law, would go far toward addressing the concerns that have been voiced 
+regarding the appropriate and balanced application of those principles to software-enabled 
+consumer products, in the best interests of consumers, and in the best interests of competition 
+and innovation, which benefits both consumers and the overall economy.  Although in an ideal 
+world, these clarifications might be accomplished in the courts, legislation may be warranted to 
+accomplish it expeditiously.  One possible approach for clarifying the issues surrounding 
+                                                           
+2 See, e.g., Kirtsaeng v. John Wiley & Sons, ___ U.S. __, 133 S. Ct. 1351 (2013); Adobe Systems v. Christenson, __ 
+F.3d __ (9th Cir., Dec. 30, 2015); Krause v. Titleserv, 402 F.3d 119 (2d Cir. 2005); Chamberlain Group v. Skylink 
+Technologies, 381 F.3d 1178 (Fed. Cir. 2004).
+
+[PAGE 5]
+5 
+ 
+ownership and transferability of these consumer products, for example, is embodied in the You 
+Own Devices Act, or YODA, H.R. 862. 
+ 
+We urge the Copyright Office to help lead the way, with definitive statements in its report 
+in this proceeding recommending these clarifications in the law. 
+ 
+Conclusion 
+ 
+As Internet of Things technology revolutionizes consumer products, the response of 
+copyright law should not be, “Sorry, consumers, the world has changed fundamentally, products 
+are now far more complex technologically, and consumers must now abandon their expectations 
+of ownership as understood for many centuries.”  Instead, it should be, “Yes, the technological 
+world may have changed, but the law still makes sense, and consumers still have essentially the 
+same ownership rights as before.” 
+ 
+There is no need to undermine or weaken copyright protections as they have historically 
+applied, consistent with their mission.  What is needed is some modest, common-sense 
+clarification that the limits to their application also remain consistent, and that consumers 
+continue to have the rights to exercise the incidents of ownership, dominion, and control over the 
+products and services they have paid for or have otherwise lawfully acquired, as they have come 
+to understand and rely on those rights based on centuries of experience. 
+ 
+Respectfully, 
+ 
+       
+  George P. Slover 
+  Senior Policy Counsel 
+  Consumers Union

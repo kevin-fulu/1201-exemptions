@@ -1,0 +1,278 @@
+[PAGE 1]
+  
+         
+ 
+October 27, 2016   
+ 
+U.S. Copyright Office 
+Docket No. 2015-8 
+Section 1201 Study:   
+Notice of Inquiry and Request for Additional Comments 
+Comments of the Consumer Technology Association 
+ 
+The Consumer Technology Association (CTA) applauds the Copyright Office for 
+specifically requesting comments on CTA’s view, expressed in its March 3, 2016 Comments  
+and an ensuing Roundtable, that supplying expert assistance and components to a user for a 
+purpose ruled exempt under Section 1201(a)(1) is not and should not be considered “trafficking” 
+under separate provisions of the DMCA.  Thus the Office should not have recommended a Class 
+21 exemption narrower than the one advised by the Administration’s expert agency, the 
+Department of Commerce.
+1  CTA said in its Comments: 
+ 
+CTA believes that the correct recommendation was that of the Department of 
+Commerce, which advised the Register to recommend an exemption to make 
+repairs or modifications “by or at the request of the owner of the vehicle or 
+machinery.”
+2    
+ 
+CTA respectfully requests that the Office and Librarian urgently reconsider and revise the 
+Class 21 outcome, and accept the Commerce Department’s recommendation.  New aftermarket 
+technologies are becoming available that promise to dramatically enhance auto safety.  Sensors, 
+lane change detectors and visibility enhancing devices, if installed, promise to save many of the 
+30,000 lives lost every year on American highways.  It is imperative – even a moral obligation – 
+that we allow these new technologies to find their way into vehicles as quickly as 
+possible.  Ensuring that drivers can, if needed, avail themselves of third party assistance to install 
+these revolutionary technologies is a profound and necessary social good.   
+                                                 
+1 Commerce Dept. Letter to the Register at 58 (emphasis added).  The Librarian’s October 28, 
+2015 “Final Rule,” the October 8 Recommendations of the Register, and the Sept. 18 Letter of 
+the Commerce Department to the Register on behalf of the Administration are all linked at 
+http://www.copyright.gov/1201/.    
+2  U.S. Copyright Office Docket No. 2015-8, Section 1201 Study: Notice of Inquiry and Request 
+for Public Comment, 80 Fed.Reg. No. 249, Dec. 29, 2015, Comments of the Consumer 
+Technology Association, March 3, 2016, at 1 (“CTA Comments”).
+
+[PAGE 2]
+2 
+ 
+CTA members3 and others who offer services to consumers in the repair, replacement, 
+and safety of automotive products should be free of DMCA objections that have nothing to do 
+with commercial exploitation of copyrighted works.  The drafters of the DMCA did not consider 
+it to be “trafficking” for a retailer to provide specific, expert assistance or necessary materials to 
+a consumer, where that consumer’s right to engage in lawful activity has been specifically 
+confirmed by the Librarian.  The Office erred in interpreting the Unlocking Act4 as implying by 
+negative inference that the offer of expert assistance or necessary components for an exempt 
+purpose constitutes “trafficking.”  That law (passed to correct a different determination by the 
+Librarian) contained no such language – indeed, its legislative history cautioned against negative 
+inference. 
+ 
+The Office’s May Roundtable 
+ 
+In the Office’s May 20, 2016 roundtable CTA’s counsel made these points in elaboration 
+of CTA’s March Comments: 
+ 
+Expert Assistance For A Lawful Purpose Is Not Trafficking. 
+ 
+ As the Office’s roundtable moderator pointed out, the Act’s provision’s pertaining to 
+trafficking are contained in DMCA sections 1201(a)(2) and 1201(b); they do not appear in 
+Section 1201(a)(1).5 
+ 
+ Any exemption to use tools, components, or advice is granted only in the context of the 
+specific limitations set forth by the Librarian.  Thus, with or without expert assistance, to use 
+a tool or product or receive or install a component in conformity with these limitations 
+cannot be “trafficking” because it is not conduct beyond that which the Librarian has  
+declared exempt under Section 1201(a)(1).6   
+ 
+ To the extent the furnishing of tools, components, or advice may go beyond the defined 
+limits of the granted exemption, it would extend beyond the safe harbor of Section 
+                                                 
+3 CTA is the preeminent technology trade association, promoting growth in the $285 billion U.S. 
+consumer technology industry through market research, education and public policy 
+representation.  CTA members lead the consumer technology industry in the development, 
+manufacturing and distribution of audio, video, mobile electronics, communications, information 
+technology, multimedia, and accessory products, as well as related services sold to consumers.  
+A complete list of CTA members is available at https://www.cta.tech/Membership/Membership-
+Directory.aspx. 
+4 Unlocking Consumer Choice and Wireless Competition Act, Pub. L. No. 113-144, 128 Stat. 
+1751 (2014). 
+5 U.S. Copyright Office Section 1201 Public Roundtable Transcript, May 20, 2016, at 9 (“May 
+20 Transcript”). 
+6 Id. at 28 – 29, 69 – 71.
+
+[PAGE 3]
+3 
+ 
+1201(a)(1), so would not be exempt.  Any such tool, component, or assistance could still be 
+successfully challenged in court as “trafficking,” irrespective of the Librarian’s exemption.  
+Any court would understand that the exemption as granted by the Librarian is limited and 
+conditioned.  Thus the Librarian’s action should not and would not be understood by any 
+court as impairing the court’s ability to make a “trafficking” determination as appropriate 
+under Sections 1201(a)(2) or 1201(b).  Accordingly, there was no reason for the Office to 
+conflate Section 1201(a)(1) with these other provisions. 
+ 
+ The legislative history cited in CTA’s March Comments, which was contemporaneous with 
+and a functional part of the passage of the DMCA, clearly supports this interpretation.  In 
+presenting this legislation on the House floor, the Chairman of the House Commerce 
+Committee referred specifically to the “authority of manufacturers and retailers to address 
+the legitimate concerns of their customers.”7 The only sensible interpretation of this and 
+similar statements made in presenting the legislation to the full House is that aftermarket 
+assistance to consumers for a lawful purpose should not be assumed to be “trafficking.” 
+ 
+ If there were any public policy basis with respect to safety or the environment for such 
+assistance to be nevertheless forbidden as “trafficking,” it would have been the responsibility 
+of the Administration, through the Department of Commerce, to provide such basis.  Instead, 
+the Commerce Department, through NTIA’s analysis and guidance, affirmatively 
+recommended that the exemption should include modifications and installations “by or at the 
+request” of the user.  The Office could and should have accepted this guidance. 
+In the same Roundtable it was also asserted by expert commentators: 
+ 
+ The automotive context in which expert assistance, components, and tools are provided is 
+non-expressive.8 
+ 
+ Any software involved is essentially functional.9 
+ 
+ Any vehicle software that is accessed or modified is likely to have been purchased by the 
+consumer along with the vehicle.10 
+ 
+ The context in which attachment of third party components has been challenged has been the 
+avoidance of competition, rather than the protection of expression or rights in intellectual 
+property.
+11  Such attempts to suppress competition are not aimed at “trafficking.”  Rather, 
+                                                 
+7 144 Cong. Rec. H7094 – 7095 at 7094 (Aug. 4, 1998), Remarks of Rep. Bliley (emph. added) 
+(“Bliley”).  
+8 May 20 Transcript at 17, 26 – 27, 39 - 41, 45. 
+9 Id. at 11, 20, 23, 25 - 27, 30, 39 - 41, 45, 55 – 59, 74 – 75. 
+10 Id.  at 26. 
+11 Id.  at 26, 58 – 59, 175 - 176
+
+[PAGE 4]
+4 
+ 
+they constitute conduct labeled by leading members of the House Judiciary Committee in its 
+2014 oversight review as abuse.12 
+ 
+The Unlocking Act Neither Says Nor Implies That Lawful Expert Assistance Is 
+Trafficking. 
+ 
+ Members of Congress, in reviewing the Librarian’s historical dealing with phone unlocking, 
+were well aware that a consumer’s ability to unlock a phone depended on expert assistance.  
+The Librarian had not cautioned against such assistance in previously granting unlocking 
+exemptions.13   
+ 
+ The Congress, in undertaking to reverse the Librarian’s failure to grant the phone exemption 
+in the previous round, was simply reversing one action of the Librarian.  That the Act also 
+clarified that lawful unlocking may include expert assistance was no more significant than 
+had been the unstated assumption, in previous rounds, that such assistance could and would 
+be rendered, because otherwise phone unlocking would not have been possible.14   
+ 
+ There is nothing in the law or the legislative history to suggest that Congress intended any 
+negative inference about necessary assistance in any other context or with respect to any 
+other determination by the Librarian.15   
+ 
+ The Administration supported the Unlocking Act and the President signed it into law.  Yet 
+the Administration, through the Commerce Department, thereafter recommended that the 
+Class 21 exemption should include work and installations performed at the request of the 
+user.  Thus the negative inference seen by the Office was seen by no other responsible 
+agency of government and lacked any foundation.16 
+ 
+The DMCA Drafters Recognized The Importance of Aftermarket Interoperability. 
+ 
+In presenting the DMCA on the floor of the House, Commerce Committee Chairman 
+Bliley emphasized that the Act was not meant to restrict interoperability in a post-sale, 
+aftermarket environment.  He specifically cautioned that the DMCA should not be interpreted as 
+unduly restricting the ability of retailers and servicers to maintain or enhance the performance of 
+the devices for which consumers pay: 
+ 
+[T]he Committee is particularly concerned that the introduction of such measures 
+not frustrate consumer expectations and that this legislation not be interpreted to 
+in any way limit the authority of manufacturers and retailers to address the 
+                                                 
+12 See Class 11 Comments of Gazelle and eBay, Feb. 6, 2015, and Class 21 Reply Comments of 
+Consumer Electronics Association, May 1, 2015. 
+13 May 20 Transcript at 31 – 33, 41 
+14 Id. 
+15 Id. 
+16 Id.
+
+[PAGE 5]
+5 
+ 
+legitimate concerns of their customers. *** As advances in technology occur, 
+consumers will enjoy additional benefits if devices are able to interact and share 
+information. Achieving interoperability in the consumer electronics environment 
+will be a critical factor in the growth of electronic commerce. In our view, 
+manufacturers, consumers, retailers, and servicers should not be prevented from 
+correcting an interoperability problem resulting from a protection measure 
+causing one or more devices in the home or in a business to fail to interoperate 
+with other technologies.17 
+The Unlocking Act Drafters Recognized The Importance of Interoperability Generally. 
+ 
+In the legislative history discussion of the Unlocking Act it was noted that servicer 
+assistance in aid of interoperability was essential for many consumers.18 Yet when prior phone 
+unlocking exemptions were granted there had been no public or congressional concern expressed 
+that specific permission for such assistance was necessary and had been withheld.  Hence, there 
+was no basis for the Office to assume that Congress, in specifying a right to such assistance, was 
+under the impression that prior grants had excluded such a right.  Indeed, in reporting out the 
+final version19 of the bill that reversed the Librarian’s denial, the Senate Judiciary Committee 
+was emphatic that it intended no positive or negative inference with respect to the Librarian’s 
+authority in other exemption proceedings: 
+ 
+While there are larger ongoing debates about the scope and application of Section 
+1201 of the DMCA, as well as other aspects of phone unlocking, those issues are 
+not addressed by the legislation, which makes no changes to Section 1201 of the 
+DMCA. The bill respects the independence of the Library of Congress under 
+existing law to conduct the triennial rulemakings set forth in Section 1201(a)(1) 
+and does not alter the authority of the Librarian in future rulemakings.
+20 
+ 
+Given the explicit intent of the DMCA’s drafters that it should not be read to impair user 
+interoperability for lawful purposes, or to impair the Librarian in granting exemptions, the 
+Unlocking Act could not and did not pose any barrier to the Librarian’s following the 
+Administration’s specific advice to include a right to assistance in its Class 21 exemption, as it 
+did for Class 11.  To the extent the Unlocking Act is relevant to autos it should have been 
+understood by the Office as furthering the rights of users generally, rather than constraining 
+them.  The only caution and constraint cited by the drafters of the Unlocking Act was that the 
+assistance must be rendered be for purposes of interoperability:  
+ 
+                                                 
+17 144 Cong. Rec. H7094 – 7095 at 7094 (Aug. 4, 1998), Remarks of Rep. Bliley (emph. added) 
+(“Bliley”).  
+18 See Senate Report No. 113-212 (Comm. On the Judiciary) at 4, 6 (“Senate Unlocking Act 
+Report”). 
+19 See 160 Cong. Rec. S4510 – 11 (2014) and 160 Cong. Rec. H6835-36. 
+20 Senate Unlocking Act Report at 5.
+
+[PAGE 6]
+6 
+ 
+[N]othing in the bill permits third parties to unlock devices independently of the 
+device owner’s direction, or for a purpose other than allowing the owner or a 
+family member to connect to a new wireless network.21 *** Unlike many other 
+situations where an exemption from the circumvention prohibition may be sought 
+or granted, unlocking a cell phone to connect to a wireless network typically does 
+not facilitate copyright infringement.22 
+ 
+These observations apply identically in the case of consumers who own automobiles and 
+wish to maintain or update their performance.  The rationale for the Unlocking Act simply 
+recapitulates the rationale of the DMCA drafters in assuring that the DMCA would not impair 
+device interoperability.  The Unlocking Act should have been viewed by the Librarian as an 
+additional reason to specifically approve assistance to users of owned devices who receive 
+exemptions, not one for denying the necessary assistance.  
+ 
+The Office Should Revisit Its Recommendation And Should Support Clarifying Legislation 
+ 
+Although CTA believes that the Office and the Librarian should revisit and modify the 
+Class 21 outcome now, CTA also renews its legislative recommendations as provided in CTA’s 
+March 3, 2016 Comments:   
+ 
+ The scope of Section 1201 should be clarified to protect only access to and copying of 
+expressive works. 
+ 
+ Functional access to a work embedded in a product that the user owns should be clearly 
+lawful. 
+ 
+ Expert assistance and component enhancements in aid of repair, upgrade, or interoperability 
+should not be regarded as “trafficking.” 
+ 
+CTA appreciates this opportunity to provide its views. 
+ Respectfully submitted,  
+ 
+ 
+  
+ Michael E. Petricone 
+ Senior Vice President 
+      G o v e r n m e n t  A f f a i r s  
+                                                 
+21 Senate Unlocking Act Report at 4.   
+22 Id. at 6 (emph. Added)

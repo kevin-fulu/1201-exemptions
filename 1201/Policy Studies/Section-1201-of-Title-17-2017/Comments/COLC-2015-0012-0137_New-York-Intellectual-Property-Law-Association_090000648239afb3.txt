@@ -1,0 +1,327 @@
+[PAGE 1]
+ 
+BOARD OF DIRECTORS 
+OFFICERS 
+PRESIDENT 
+Walter E. Hanley 
+1.212.908.6263 
+walterhanley@andrewskurthkenyon.com 
+PRESIDENT-ELECT 
+Annemarie Hassett 
+1.212.998.6595 
+annemarie.hassett@nyu.edu 
+1st VICE PRESIDENT 
+Matthew B. McFarlane 
+1.212.980.7400 
+mbmcfarlane@rkmc.com 
+2nd VICE PRESIDENT 
+Peter G. Thurlow 
+1.212.413.2832 
+pthurlow@polsinelli.com 
+TREASURER 
+Robert J. Rando 
+1.516.799.9800 
+rrando@randolawfirm.com 
+SECRETARY 
+Heather Schneider 
+1. 212.728.8685 
+hschneider@willkie.com 
+ 
+MEMBERS 
+Mark H. Bloomberg 
+Garrett E. Brown Jr. 
+Frank A. DeLucia Jr. 
+Robert M. Isackson 
+Charles R. Macedo 
+William J. McCabe 
+Kathleen E. McCarthy 
+Colman B. Ragan 
+Jeanna M. Wacker 
+ 
+IMMEDIATE PAST PRESIDENT 
+Dorothy R. Auth 
+1.212. 504.6018 
+dorothy.auth@cwt.com 
+ 
+ 
+ 
+NYIPLA EXECUTIVE OFFICE 
+2125 Center Avenue, Suite 406 
+Fort Lee, NJ 07024-5874 
+Tel: 1.201.461.6603 
+Fax: 1.201.461.6635 
+E-Mail: admin@nyipla.org 
+Website: www.nyipla.org 
+November 16, 2016 
+ 
+U.S. Copyright Office 
+101 Independence Avenue, SE  
+Washington, DC 20559-6000  
+ 
+Attn: Kevin R. Amer, Senior Counsel for Policy and International 
+Affairs 
+Re:  NYIPLA Reply Comments  
+ “Section 1201 Study: Request for  Additional Comments 
+ Docket No. 2015-8 
+ 81 FR 66296 (Sept. 27, 2016). 
+ 
+Dear Mr. Amer: 
+ 
+The New York Intellectual Property Law Association (“NYIPLA”) 
+welcomes the opportunity to respond to the Section 1201 Study: Notice 
+and Request for Public Comment. 
+ 
+The NYIPLA is a professional association comprised of over 1,000 
+lawyers interested in Intellectual Property law who live or work within 
+the jurisdiction of the United States Court of Appeals for the Second 
+Circuit, and members of the judiciary throughout the United States as 
+ex officio Honorary Members. The NYIPLA’s mission is to promote 
+the development and administration of intellectual property interests 
+and educate the public and members of the bar on Intellectual Property 
+issues. Its members work both in private practice and government, and 
+in law firms as well as corporations, and they appear before the federal 
+courts and the United States Patent and Trademark Office (“USPTO”). 
+The NYIPLA provides these comments on behalf of its members 
+professionally and individually and not on behalf of their employers. 
+In response to the request for additional written comments in connection with the study of 17 
+U.S.C. 1201 by the United States Copyright Office (the “Office”), the NYIPLA offers the 
+following reply comments to those of the Free Software Foundation dated October 23rd, 2016, 
+with particular focus on inquiries numbers 1 and 2.
+
+[PAGE 2]
+1.a. Proposals for New Permanent Exemptions: Assistive Technologies for Use by 
+Persons Who Are Blind, Visually Impaired, or Print Disabled 
+ 
+The Office requested commenters' views on whether the following language would be 
+appropriate for adoption as a permanent exemption, or whether there are specific changes or 
+additional provisions that Congress may wish to consider: 
+ 
+(i) When a copy of such a work is lawfully obtained by a blind or other person with a disability, 
+as such a person is defined in 17 U.S.C. 121; provided, however, that the rights owner is 
+remunerated, as appropriate, for the price of the mainstream copy of the work as made available 
+to the general public through customary channels, or 
+(ii) When such work is a nondramatic literary work, lawfully obtained and used by an authorized 
+entity pursuant to 17 U.S.C. 121. 
+NYIPLA Reply Comment: 
+ 
+As an initial matter, the anti-circumvention provisions of Section 1201 are critical to protecting 
+rights holders and encouraging digital dissemination of works, and the triennial rulemaking 
+process is essential to ensuring that those rights are balanced against the interests of content 
+users.  It is the NYIPLA’s belief, as a general matter, that refining the rulemaking process to 
+make it more efficient and consistent while preserving its inherent nimbleness and flexibility will 
+likely do more long term good than implementing specific, hard-and-fast “permanent” 
+exemptions that will, in all likelihood, require revision down the line.  The NYIPLA agrees, for 
+example, with those who have stated that de novo review of previously entered exemptions in the 
+absence of meaningful opposition is inefficient, and would be in favor of entering presumptions 
+to reduce unnecessary burdens.1  Technology changes rapidly and in ways that are difficult to 
+foresee.  Time and again, forward-looking or technology-agnostic provisions have proved 
+difficult to craft.  Copyright law must remain adaptable to avoid being outmoded. 
+ 
+The proposed permanent exemption in 1a is an example of a well-intentioned proposal that is 
+nevertheless problematic.  As drafted, the exemption is consistent with 17 U.S.C. 121, which 
+addresses nondramatic literary works.  However, as others have pointed out, when President 
+Obama submitted the Treaty of Marrakesh, which has since entered into effect, to the Senate for 
+ratification earlier this year, he recommended expanding 17 U.S.C. 121 to address other literary 
+                                                           
+1 AIPLA Comments on 1201 Study, page 2 (Mar. 3, 2016) 
+(http://www.aipla.org/advocacy/executive/Documents/AIPLA%20Comments%20on%201201%
+20Study%20FINAL%203416.pdf, last visited Nov. 7, 2016); Comments of Public Knowledge, 
+page 4 
+(https://www.publicknowledge.org/assets/uploads/blog/Public_Knowledge_Section_1201_Com
+ments.pdf, last visited Nov. 7, 2016)); Comments Of The Library Copyright Alliance On Section 
+1201 Of The Digital Millennium Copyright Act, pages 3, 33-34 (Mar. 3, 2016) 
+(http://www.librarycopyrightalliance.org/storage/documents/1201NOILCAfinal.pdf, last visited 
+Nov. 7, 2016)); Comments Of The Center For Democracy & Technology,
+
+[PAGE 3]
+works as well as to musical works fixed in the form of text or notation.2   
+ 
+For the purposes of this reply comment only, the NYIPLA submits that if an exemption is 
+necessitated, its language be clarified so as not to improperly encumber rights holders.  For 
+example, to the extent that the Copyright Office intends to propose a Permanent Exemption 
+along the lines of what is provided in Section 1a, the organization agrees with those who would 
+broaden it by eliminating the reference to “remuneration.”  Where remuneration is called for, it is 
+addressed by the language “lawfully obtained copy.”  In some instances, therefore, the reference 
+to remuneration would be redundant; in others, it may impose an obligation that is inconsistent 
+with the law.  Additionally, given the minimal impact such an exemption would have on users,3 
+the NYIPLA would also provide further clarity to the exemption as follows: 
+ 
+(i) When a lawfully obtained copy of such a work is configured for consumption by a blind or 
+other person with a disability, as such a person is defined in 17 U.S.C. 121, or 
+(ii) When such work is lawfully obtained and used by an authorized entity pursuant to 17 U.S.C. 
+121. 
+1.b. Proposals for New Permanent Exemptions: Device Unlocking 
+ 
+The Office requested comment on whether an unlocking exemption would be appropriate for 
+adoption as a permanent exemption or whether such activities are more properly considered as 
+part of the triennial rulemaking. For commenters who favor consideration of a permanent 
+exemption, the Office requested their views on whether the language of the 2015 unlocking 
+exemption would be appropriate for adoption as a permanent exemption, or whether there are 
+specific changes or additional provisions that Congress may wish to consider. 
+ 
+NYIPLA Reply Comment: 
+ 
+Considering the number of other potential issues to be handled during the triennial rulemaking, 
+                                                           
+2 Marrakesh Treaty Implementation Act of 2016, Legislative Implementation Documents, United 
+States Patent and Trademark Office, available at https://www.uspto.gov/learning-and- 
+resources/ip-policy/copyright/legislative-implementation-documents. 
+3  AFB Class 9 Comments at 8-10 (discussing how TPMs in e-books generally restrict text-to-
+speech screen readers and refreshable Braille displays from accessing the literary work); Class 9 
+Comments of iFixit (iFixit Class 9 Comments) at 1-2, Docket No. 2014-07, available at 
+http://copyright.gov/1201/2015/comments-
+020615/InitialComments_LongForm_iFixit_Class09.pdf (noting that “DRM on legally 
+purchased e-books blocks the ability of owners to access the book through text-to-speech 
+programs – many of which come preinstalled on ereaders” and that “[o]nly 1% of published 
+books are available in braille”); Comments of the Association of American Publishers at 1, 
+Docket No. 2014-07, available at http://copyright.gov/1201/2015/comments- 
+020615/InitialComments_ShortForm_AAP_Class09.pdf (access controls can “prevent the use of 
+screen readers for the print-disabled, and if no other format is available, can effectively block 
+access to digital print content”).
+
+[PAGE 4]
+including rules that may operate to exempt certain forms of device unlocking, the NYIPLA 
+believes that making the unlocking exemption of 2015 permanent would be premature. 
+ 
+1.c. Proposals for New Permanent Exemptions: Computer Programs 
+ 
+The Office requested commenters' views on the advisability of various approaches for exempting 
+circumvention of access controls on computer programs that prevent arguably lawful diagnosis, 
+maintenance and repair, among other activities. The Office asked: “Which of these models, if 
+any, would facilitate users' ability to engage in permissible uses of software, while preserving 
+congressional intent in supporting new ways of disseminating copyrighted materials to users?”  
+The Office encouraged responding parties to suggest alternate formulations, keeping in mind the 
+Office's goal of focusing discussion on this topic. 
+ 
+NYIPLA Reply Comment: 
+ 
+To the extent the Copyright Office employs an exemption, the NYIPLA offers the following 
+helpful starting point which is based upon language from the Unlocking Technology Act of 
+2015.4  
+It is not an infringement to copy or adapt the software or firmware of a user-purchased 
+device for the sole purpose of repairing or refurbishing the device to operate as intended 
+if: (1) the copying or adapting is initiated by, or with the consent of, the owner of that 
+device or the owner's agent; (2) the owner or agent is in legal possession of the device; 
+and (3) the device is repaired or refurbished as a result of the copying or adapting.  
+The NYIPLA believes that any proposed exemption should balance the owner’s maintenance of 
+the device with its illegitimate use for any other purpose other than repairing it or refurbishing it 
+to perform in substantially the same manner as when the owner acquired the device.  Item (3) of 
+the above proposed rule would, in the NYIPLA’s view, prevent alleged repairs and 
+refurbishments that do nothing to actually repair or refurbish the device, or that did repair or 
+refurbish the device but also modified it to operate in a manner in which it could not operate 
+before. 
+The doctrine of repair and reconstruction in patent law would not be useful because permissive 
+replacement/refurbishment is tied to constituents of a claim, which in isolation are not the 
+intellectual property covered by the patent claim.5  In contrast, a replacement/refurbishment of a 
+portion of a copyrighted work may itself still be subject to copyright protection in isolation (e.g., 
+replacement of one algorithm with another that provides the same functionality, may still qualify 
+as a copyright infringement). 
+ 
+1.d. Proposals for New Permanent Exemptions: Obsolete Technologies 
+ 
+The Office requested commenters' views on whether Congress should consider a legislative 
+                                                           
+4  Unlocking Technology Act of 2015, H.R. 1587, 114th Cong. (2015-2016). 
+5  Aro Mfg. Co. v. Convertible Top Replacement Co., 365 U.S. 336 (U.S. 1961).
+
+[PAGE 5]
+amendment to permit circumvention of faulty access controls, or whether there are other specific 
+changes or additional provisions that Congress may wish to consider to address this issue. 
+ 
+NYIPLA Reply Comment: 
+ 
+To the extent the Copyright Office employs an exemption, the NYIPLA recommends that such 
+an exemption allow circumvention of an access control mechanism that meets the definition of 
+“obsolete” under Section 108,6 but that the exemption not apply to “malfunction” or “damage,” 
+to the extent either of these circumstances do not comport with Section 108. 
+ 
+1.e. Proposals for New Permanent Exemptions: International Considerations  
+ 
+The Office requested commenters' views on the interactions of the foregoing proposals with 
+existing international obligations of the United States, including free trade agreements. 
+ 
+NYIPLA Reply Comment: 
+ 
+In the NYIPLA’s view, there are no inconsistencies between the Office’s proposals and the 
+United States’ current international obligations.7   Indeed, Article 11 of the WIPO Copyright 
+Treaty and Article 18 of the WIPO Performances and Phonograms Treaty expressly provide 
+similar requirements effected by Section 1201, namely, that the signatory state provides 
+“adequate legal protection and effective legal remedies” against protection technology 
+circumvention.8   It is also worthy of note that the Trans-Pacific Partnership, Agreement between 
+the United States of America and the Hashemite Kingdom of Jordan, and the Free Trade 
+Agreement between the United States of America and the Republic of Korea contain similar, 
+albeit less detailed, circumvention of effective technological protection measures.9   
+                                                           
+6  Bill D. Herman & Oscar H. Gandy, Jr., Catch 1201: A Legislative History and Content 
+Analysis of the DMCA Exemption Proceedings, 24 CARDOZO ARTS & ENT. L.J. 121, 131 
+(2006) (“Even a librarian who wants only to preserve a decaying digital artifact is prohibited 
+from circumventing an access-controlling TPM to do so.”).   
+7  WIPO Copyright Treaties Implementation Act; and Online Copyright Liability Limitation Act: 
+Hearing on H.R. 2281 and H.R. 2280 Before the Subcomm. on the Courts and Intellectual 
+Property of the H. Comm. on the Judiciary 105th Cong. 62 (1997) (testimony of Bruce A. 
+Lehman)   
+8  World Intellectual Property Organization Copyright Treaty, art. 11, Dec. 20, 1996, S. Treaty 
+Doc. 105-17 (1997); World Intellectual Property Organization Performances and Phonograms 
+Treaty, art. 18, Dec. 20, 1996, S. Treaty Doc. 105-17 (1997).   
+9 Trans-Pacific Partnership, art. 18.68, https://ustr.gov/sites/default/files/TPP-Final-Text-
+Intellectual-Property.pdf (last visited Oct. 12, 2016); Agreement between the United States of 
+America and the Hashemite Kingdom of Jordan on the Establishment of a Free Trade Area, art. 
+4, para. 13, U.S.-Jordan, Oct. 24, 2000, (https://ustr.gov/sites/default/files/Jordan%20FTA.pdf); 
+Free Trade Agreement between the United States of America and the Republic of Korea, art. 
+18.1, para. 7, U.S.-Korea, Apr. 1, 2007
+
+[PAGE 6]
+ 
+2.a. Proposed Amendments to Existing Permanent Exemptions: TPM’s controlling 
+access to computer programs  
+ 
+The Office requested commenters' views on whether the following should be adopted as a 
+permanent exemption: 
+ 
+(i) . . . the circumvention is undertaken on a lawfully acquired device or machine on which the 
+computer program operates solely for the purpose of good-faith security research and does not 
+violate any applicable law, including without limitation the Computer Fraud and Abuse Act of 
+1986, as amended and codified in title 18, United States Code; . . . and the device or machine is 
+one of the following: 
+(A) A device or machine primarily designed for use by individual consumers (including voting 
+machines); 
+(B) A motorized land vehicle; or 
+(C) A medical device designed for whole or partial implantation in patients or a corresponding 
+personal monitoring system, that is not and will not be used by patients or for patient care. 
+(ii) For purposes of this exemption, “good-faith security research” means accessing a computer 
+program solely for purposes of good-faith testing, investigation and/or correction of a security 
+flaw or vulnerability, where such activity is carried out in a controlled environment designed to 
+avoid any harm to individuals or the public, and where the information derived from the activity 
+is used primarily to promote the security or safety of the class of devices or machines on which 
+the computer program operates, or those who use such devices or machines, and is not used or 
+maintained in a manner that facilitates copyright infringement. 
+NYIPLA Reply Comment: 
+ 
+2(b) – (e) and 3(a)-(b)  No comments provided. 
+ 
+While the NYIPLA takes no position on any particular amendment to Section 1201 at this time, 
+it encourages the Copyright Office to explore potential modifications aimed at providing greater 
+recourse against clever infringers and ever-evolving means of infringement and copyright theft.  
+Additionally, the Copyright Office might consider whether individuals and organizations that 
+regularly engage in circumvention of  technology protection measures (TPM) and other device 
+locks be required to file notices of circumvention with the office so that any stated purpose of the 
+circumvention may be viewed by rights holders, and if a dispute exists, be handled in an efficient 
+manner rather than allow continued conduct to go unabated if in fact a dispute exists between the 
+circumventing party and the rights holder.  Such an approach would need to be balanced against 
+considerations of fair use, and the reality that whether a given act of circumvention is of the type 
+                                                                                                                                                                                           
+(https://ustr.gov/sites/default/files/uploads/agreements/fta/korus/asset_upload_file273_12717.pdf
+).
+
+[PAGE 7]
+that the Copyright law was designed to protect. 
+ 
+Thank you for giving the NYIPLA the opportunity to provide feedback on Section 1201. We 
+look forward to providing the Copyright Office with additional feedback in the future. 
+ 
+Respectfully submitted, 
+ 
+Walter Hanley, President 
+Lauren Emerson and Joseph Farco, Co-Chairs, Copyright Law & Practice Committee 
+ 
+New York Intellectual Property Law Association

@@ -1,0 +1,92 @@
+[PAGE 1]
+Before the 
+U.S. COPYRIGHT OFFICE, LIBRARY OF CONGRESS 
+  
+In the Matter of 
+Public Study to assess the operation of section 1201 of Title 17 
+ 
+  
+Comments of iFixit 
+March 3, 2016 
+Submitted by: 
+Kyle Wiens, co­founder iFixit 
+1330 Monterey St. 
+San Luis Obispo, CA 93401 
+ 
+About iFixit 
+iFixit is the international, open­source, online repair manual for everything. iFixit represents a 
+global community of makers, hardware hackers, fixers, tinkerers, and repair professionals. The 
+iFixit community is over one million people strong—and the collaborative group has published 
+nearly 20,000 repair guides on iFixit.com. As a founding member of The Repair Association, 
+iFixit also stands firm in its support of tinkerers and independent repair professionals.  
+iFixit also joins in and supports the comments submitted by the USC Intellectual Property Law 
+Clinic, addressing the second and seventh inquiries in the Notice.  
+A Preliminary Comment Concerning Section 1201   
+How many people does it take to fix a tractor? A year ago, I would have said it took just one 
+person. One person with a broken tractor, a free afternoon, and a box of tools. I would have been 
+wrong. 
+When the repair involves a tractor's computer, it actually takes an army of copyright lawyers, 
+dozens of representatives from U.S. government agencies, an official hearing, hundreds of pages
+
+[PAGE 2]
+of legal briefs, and nearly a year of waiting. Waiting for the Copyright Office to make a decision 
+about whether people like me can repair, modify, or hack their own stuff. 
+I’m a repairman by trade and a software engineer by education. I fix things—especially things 
+with computers in them. And I run an online community of experts called iFixit  that teaches 1
+other people how to fix broken equipment. When a farmer friend of mine wanted to know if 
+there was a way to tweak the copyrighted software of his broken tractor,  I knew it was going to 2
+be rough. Because it required an exemption to the DMCA—and getting an exemption is easier 
+said than done.  
+Anyone can petition the office for an exemption, but realistically speaking, you can only 
+shepherd an exemption through the process if you possess (a) limitless free time and a 
+superhuman knowledge of copyright law or (b) the funding to hire expensive intellectual 
+property lawyers. 
+I did everything a layperson could do. I wrote comments in support of several exemptions; I 
+helped the document how difficult it was for local farmers to repair their equipment; I testified in 
+front of the Copyright Office; I helped collect 40,000 public comments  in support of copyright 3
+reform. But when it came down to it, the Copyright Office requires a well­defended legal 
+argument for proposed exemptions. And a well­defended legal argument meant lawyers—lots of 
+them—working on the issue for a year. 
+Regular people can’t hire an army of copyright lawyers. The financial burden would be 
+crippling. The only people who have enough money and enough time to participate in the 
+process are the people trying to defeat the exemptions in the first place. Almost every​ single one 
+of the 27 ​exemption​s, including security research for vehicles and DVD ripping for educational 
+uses, was met with opposition from well­funded, well­lawyered copyright interests—the Motion 
+Picture Association of America, the Recording Industry Association of America, the 
+Entertainment Software Association, and the Alliance of Automobile Manufacturers. 
+The rulemaking process is stacked in the favor of copyright interests. It’s up to proponents to 
+show that an exemption is necessary, and that it meets the legal standard for fair use. Which 
+means petitioners are caught in a Catch­22: In order to meet the standard for relevance, we need 
+to show that there’s overwhelming market demand ​if only it were legal.​ But in order to argue we 
+are practicing fair use, we have to admit to already breaking these locks, and therefore the law. 
+Consequently, the very people who need the exemptions most are often reluctant to participate. 
+Especially since few proposed exemptions historically survive the rulemaking. 
+Last year, however, was different. A huge group of pro bono intellectual property lawyers 
+donated their time and expertise to defend exemptions. Without the thousands of hours—and 
+hundreds of thousands of dollars—of legal time donated by institutions like the USC’s 
+1 iFixit.com 
+2 Kyle Wiens, ​New High­Tech Farm Equipment Is a Nightmare for Farmers​, ​WIRED ​(Feb. 5, 2015), 
+http://www.wired.com/2015/02/new­high­tech­farm­equipment­nightmare­farmers/. 
+3 Julia Bluff, ​We Just Sent 40,000 Comments Demanding Reform to the Copyright Office, ​iFixit (Feb 10, 
+2015), http://ifixit.org/blog/7018/copyright­office/
+
+[PAGE 3]
+Technology Law Clinic, the Stanford Law Clinic, and the Electronic Frontier Foundation, these 
+exemptions would never have gotten off the ground. 
+Even though we earned an exemption for tractor repair, it was so narrow as to become 
+functionally useless. The Copyright Office said that only the farmer, and not her mechanic, could 
+tinker with the software. This restriction is out of touch with the real world, where independent 
+technicians are critical. 
+Worse, these hard­won exemptions last only until three years. (In the case of motor vehicles, the 
+exemption doesn’t even go into effect for a year after the ruling.) Soon, proponents will have to 
+find a way to do this all over again. This is not sustainable process—not for participants and not 
+for the Copyright Office. There were 27 different exemptions considered during the last 
+rulemaking. Next time, there will be even more. 
+I am respectfully urging the Copyright Office to make these exemptions less narrowly crafted. 
+For the purposes of repair and modification, third­party agents—like mechanics or 
+programmers—should be able to act on the behalf of the owner. Without third­party assistance, 
+many of these exemptions are useless in the real world. Instead of making supporters go to 
+extreme lengths to show that an exemption is absolutely necessary, how about asking the 
+opposition to show that an exemption is absolutely unnecessary? At the very least, the three­year 
+expiration date on exemptions should be removed. Once granted, exemptions should be 
+automatically renewed, especially when there is no meaningful opposition to renewal.

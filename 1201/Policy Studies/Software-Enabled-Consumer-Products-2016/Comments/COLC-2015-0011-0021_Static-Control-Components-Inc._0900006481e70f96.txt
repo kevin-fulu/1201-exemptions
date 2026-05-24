@@ -1,0 +1,121 @@
+[PAGE 1]
+ 
+ 
+Before the 
+UNITED STATES COPYRIGHT OFFICE 
+Library of Congress 
+Washington, D.C. 
+ 
+__________________________________________ 
+        ) 
+In the Matter of:      ) 
+        )  Docket No. 2015-6  
+Software-Enabled Consumer Products Study  ) 
+__________________________________________ ) 
+ 
+Comments of Static Control Components, Inc.  
+ Static Control Components, Inc. (“Static Control”) appreciates the opportunity to 
+comment upon the issue of software-enabled consumer products.  This issue permeates the 
+consumer products industry, especially in our field of printer supplies and components where the 
+ability to have interoperability and repair parts is paramount.  The Copyright Office requested 
+comments in its Notice of Inquiry dated December 15, 2015 in the United States Federal 
+Register, Volume 80, Number 240, pages 77668 – 77672 and Static Control is focusing its 
+comments on fifth general topic and fifth specific issue posed by the Copyright Office. 
+I. Summary of Recommendation 
+ Static Control recommends legislative action to prevent the use of contracts to expand the 
+scope of intellectual property rights such as copyrights after the first sale of a product containing 
+patented or copyrighted materials.   
+II. Background 
+ Static Control began in 1987 and is headquartered in Sanford, North Carolina.  Static 
+Control currently employs approximately 800 workers and manufactures and sells printer 
+components and supplies, including microchips that it sells to third-party companies for use in 
+repair of toner and inkjet cartridges.  Static Control understands all too well the Copyright 
+Office’s request for comments and need for clarity on the listed topics, especially how copyright 
+law intersects with other law in establishing how products that rely on software to function can 
+be lawfully used.  Static Control has been involved in complex litigation concerning copyright, 
+patent, contract, anti-trust and false advertising.  
+ In 2002 Lexmark Static Control was sued by Lexmark International, Inc. (“Lexmark”).1  
+Lexmark is a large publicly traded corporation headquartered in Lexington, Kentucky that has 
+sold printers and cartridges for its printers since 1991.  Lexmark sued Static Control under three 
+copyright based theories of liability: violation of the copyright statute, 17 U.S.C. § 106, by 
+reproducing the “Toner Loading Program” (“TLP”) in Static Control’s SMARTEK chip; 
+violation of the Digital Millennium Copyright Act (“DMCA”) by selling a product that 
+                                                 
+1 Lexmark International, Inc. v. Static Control Components, Inc., 387 F.3d 522 (6th Cir. 2004).
+
+[PAGE 2]
+ 
+ 
+circumvents access controls on the TLP; and violation of the DMCA by selling a product that 
+circumvents access controls on the “Printer Engine Program” (“PEP”).2   
+ The Sixth Circuit Court of Appeals vacated the injunction and held that the TLP on the 
+microchips was a lock-out code and thus not a copyrightable work due to the merger and scènes 
+à faire doctrines.3  Although the Court found the work uncopyrightable and did not need to 
+address the fair use defense raised by Static Control, it did so solely for the purpose of clarifying 
+the application of the fair use doctrine.4  While the district court had correctly outlined the 
+factors required, it failed to properly apply the factors to the facts at hand.5  It is this lack of 
+certainty that legislation is needed to correct.  Clear guidance would reduce cost and litigation. 
+  This legislation should clarify that companies cannot  use copyright law coupled with 
+lockout codes to restrict competition in replacement parts. Lexmark, and corporations like it, 
+attempt to use copyright law as a weapon to burden their competition with defending themselves 
+in litigation to hide their anti-competitive conduct and fall back on the shields of contract law 
+and patent law when their copyright claims fail.  They do so because of the breadth of copyright 
+protection and the onerous task of overcoming the validity of a copyright once it is granted.6   
+III. Intersection of Copyright Law with Other Laws and the Impact of Agreements on 
+Lawful Use [General Topic 5, Specific Issue 5]  
+ Intellectual property owners attempt to use contracts to give themselves rights under 
+copyright and patent law that they could not give themselves by contract alone.  For example, the 
+Lexmark created something it called the “Prebate program”.  The program was a label placed on 
+their cartridges that purported to be a contract between Lexmark and the end user of the 
+cartridge.  The label further claimed that this contract was that type of contract known as a patent 
+license.  Normally a contract is enforceable against the parties, but not (with limited exceptions) 
+against third parties.  Lexmark, however, has never sought to enforce any if its contracts against 
+end users.  Instead, Lexmark has sued numerous competitors for patent infringement, based on 
+its claim that the contract prevented its patent rights from being exhausted after the sale.  What is 
+worse, is the Federal Circuit has recently upheld this program in part.7   
+ Lexmark is not alone in its tactics as many companies require consumers to accept 
+agreements in order to use their products.  Virtually all products have patents or copyrights 
+associated with them.  This is particularly true with any consumer electronics.  However, unlike 
+the “click-wrap” licenses common on downloadable software, which require the user to perform 
+action that evidences acceptance of the terms of the contract, the “Prebate contract” was simply a 
+                                                 
+2 Id.; Static Control will keep its comments to this study limited to the issues detailed above and will address the 
+specifics of the anti-circumvention issues in its comments to the concurrent Copyright Office § 1201 Study.   
+3 Id. at 536 (“To the extent compatibility requires that a particular code sequence be included in the component 
+device to permit its use, the merger and scenes a faire doctrines generally preclude the code sequence from obtaining 
+copyright protection.” (internal citation omitted). 
+4 Id. at 544. 
+5 Id. at 544. 
+6 17 U.S.C. § 140(c). 
+7 Lexmark Intern., Inc. v. Impression Products, Inc., App. No. 2014-1617, ___ F.3d ____ (Fed. Cir. Feb. 12, 2016) 
+(en banc). En banc order available at 785 F.3d 565 (Fed. Cir. 2015).
+
+[PAGE 3]
+ 
+ 
+label on a box.8  By the clever use of labels, or packaging instructions, copyright holders can 
+attempt to use their copyrights (or patent holders their patent rights) to prevent the resale or 
+repair of products.   
+ Agreements with end users are not bad per se, but both parties to the agreement must 
+know and understand the terms to which they are agreeing.  Breaches of these agreements should 
+be enforceable in contract law only, not patent or copyright law.  While companies spend money 
+investing in creating products with embedded software, they should not be able to use single-use, 
+no-resale and end user license agreements to restrict interoperability or competition.  Allowing 
+such a result hurts consumers who then lack choice in the market place and stifles innovation of 
+companies lawfully repairing or remanufacturing products that will work with software 
+embedded products.   
+IV. Conclusion 
+ Static Control respectfully requests that the Copyright Office recommend to Congress the 
+creation of legislation that will bring a set standard for end user license agreements, single-use 
+agreements, and no-resale agreements so as not to stifle the innovation and creativity that the 
+copyright law seeks to protect. 
+ 
+ Respectfully submitted, 
+ 
+  
+ William L. London 
+ Vice President & General Counsel 
+ Static Control Components, Inc. 
+                                                 
+8 During the 2009 jury trial, Lexmark’s own management was unable to discern exactly when the agreement was 
+finalized – whether it was simply opening the box, using the cartridge or even what the exact terms meant.

@@ -1,0 +1,561 @@
+[PAGE 1]
+ 
+ 
+ 
+Juelsgaard Intellectual Property  
+and Innovation Clinic 
+Mills Legal Clinic 
+Stanford Law School 
+Crown Quadrangle 
+559 Nathan Abbott Way 
+Stanford, CA 94305-8610 
+jipic@law.stanford.edu 
+650.724.1900 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Before the 
+ 
+U.S. COPYRIGHT OFFICE 
+LIBRARY OF CONGRESS 
+ 
+In the Matter of Section 1201 Study 
+ 
+ 
+Docket No. 2015-8  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Comments of the American Foundation for the Blind 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ Bethany Bengfort 
+William C. Koch IV 
+Brian P. Quinn 
+ Certified Law Students 
+Phil Malone 
+Jef Pearlman  
+ Counsel for Commenter
+
+[PAGE 2]
+2 
+THE AMERICAN FOUNDATION FOR THE BLIND  
+The American Foundation for the Blind (“AFB”) is a leading national advocate for blind, 
+visually-impaired, and print-disabled individuals. AFB works to expand access and opportunity 
+for those individuals via consumer publications, technology evaluation and development, public 
+education, research, and public policy advocacy. As a publisher of conventional and electronic 
+media and a holder of copyrights, AFB understands and remains committed to safeguarding the 
+rights of producers of digital materials. At the same time, AFB is equally committed to ensuring 
+that disabled individuals can make non-infringing, fair use of materials in all formats, including 
+digital literary works. AFB has participated in every triennial rulemaking since the 2003 cycle, 
+and has consistently advocated for an exemption class that would facilitate access to 
+technologically locked eBooks.
+1  
+BRIEF OVERVIEW OF COMMENTS 
+The following comments are responsive to questions 3 and 9 of the Office’s Notice and 
+Request for Public Comment. AFB agrees with the Librarian of Congress that the Section 1201 
+“regulatory process . . . is at best ill-suited to address the larger challenges of access for blind and 
+print-disabled.”2 In fact, AFB believes that the access of blind, visually-impaired, and print-
+disabled individuals to legally-purchased literary works should not hinge upon a positive 
+outcome in the triennial rulemaking proceeding. The rulemaking has become a burdensome and 
+uncertain process for the Office and for proponents and opponents of exemption classes. Over 
+time, the Office’s inquiry has become unmoored from Congress’s ultimate goal: protecting 
+copyrighted works from piracy without impinging on legal, non-infringing uses of those works.  
+AFB is particularly well-positioned to describe this gradual mission-creep: it first 
+advocated for an exemption class in 2003, and supported renewal of that class in the 2006 and 
+2010 rulemakings. AFB was surprised when the Register declined to recommend renewal of the 
+exemption class in 2010, particularly because there was no evidence that eBook manufacturers 
+had changed their products in a way that obviated the need for the exemption, and because the 
+Office appeared to impose novel evidentiary requirements that did not appear in the text of 
+Section 1201. Although the Librarian ultimately intervened to save the exemption that year, the 
+process is still characterized by pervasive uncertainty, burdensome evidentiary requirements, and 
+                                                      
+1 See generally Am. Found. for the Blind, Comment on Exemption to Prohibition on Circumvention of Copyright 
+Protection Systems for Access Control Technologies [hereinafter 2003 AFB Comment], Docket No. RM 2002-4, 
+http://copyright.gov/1201/2003/comments/026.pdf; Am. Found. for the Blind, Comment on Exemption to 
+Prohibition on Circumvention of Copyright Systems for Access Control Technologies [hereinafter 2006 AFB 
+Comment], Docket No. RM 2005-11, http://www.copyright.gov/1201/2006/comments/discipio_afb.pdf; Am. Found. 
+for the Blind, Comment on Exemption to Prohibition on Circumvention of Copyright Protection Systems for Access 
+Control Technologies [hereinafter 2010 AFB Comment], Docket No. RM 2008-8, http://www.copyright.gov/1201/
+2008/comments/american-foundation-blind.pdf; Am. Council of the Blind & Am. Found. for the Blind, Joint 
+Comment on Exemption to the Prohibition of Circumvention of Copyright Protection Systems for Access Control 
+Technologies [hereinafter 2012 AFB Comment], Docket No. RM 2011-7, http://www.copyright.gov/1201/2011/
+initial/american_foundation_blind.pdf; Am. Found. for the Blind, Petition for Exemption: Ebook Accessibility for 
+People Who Are Blind, Visually Impaired, or Print Disabled [hereinafter 2015 AFB Comment], Docket No. RM 
+2014-07, http://copyright.gov/1201/2014/petitions/American_Foundation_for_the_Blind_et_al_1201_Initial_
+Submission_2014.pdf. 
+2 Exemption to Prohibition on Circumvention of Copyright Protection Systems for Access Control Technologies, 75 
+Fed. Reg. 43,825, 43,839 (July 27, 2010) (codified at 37 C.F.R. 201.40) [hereinafter 2010 Final Rule].
+
+[PAGE 3]
+3 
+disconnect from Congress’s purpose. With these problems in mind, and with the benefit of 
+thirteen years of experience with the process, AFB submits the following comments on the 
+Office’s notice of inquiry. 
+NOI QUESTION 3: SHOULD SECTION 1201 BE ADJUSTED TO PROVIDE FOR PRESUMPTIVE 
+RENEWAL OF PREVIOUSLY GRANTED EXEMPTIONS-FOR EXAMPLE, WHEN THERE IS NO 
+MEANINGFUL OPPOSITION TO RENEWAL-OR OTHERWISE BE MODIFIED TO STREAMLINE THE 
+PROCESS OF CONTINUING AN EXISTING EXEMPTION? IF SO, HOW? 
+Yes, the Section 1201 process should be adjusted to provide for presumptive renewal of 
+previously-granted exemptions. The process should provide for presumptive renewal even in the 
+face of meaningful opposition, provided opponents do not show that the adverse impacts that 
+initially justified the exemption are no longer relevant. In fact, the Copyright Office already has 
+the authority under 17 U.S.C. § 1201 (“Section 1201”) to provide for presumptive renewal, and it 
+should adjust its existing process accordingly. After designating an exemption class, the Office 
+should renew the class unless opponents establish that market changes have resolved the adverse 
+impacts that justified the initial grant.  
+We understand that other comments have explained that the Office’s requirement of a de 
+novo showing of adverse impact at each triennial proceeding is rooted in shaky legal 
+foundations; this comment will not reiterate those arguments.3 Rather, AFB’s comment will 
+explain how the triennial review process saddles exemption proponents with a significant 
+practical burden. Even after AFB has successfully demonstrated that an exemption is warranted, 
+and even when subsequent AFB exemption proposals have engendered no meaningful opposition 
+(or no opposition at all),4 AFB still has had to invest significant amounts of time and resources, 
+and the time and resources of legal representatives, to comply with the Office’s evidentiary 
+prerequisites. The de novo review process—oste nsibly intended to serve as a “fail safe” 
+mechanism that balances anti-circumvention with non-infringing use5—has become a never-
+ending exemptions treadmill, even when the exemption occasions little to no opposition. This 
+comment will describe the current 1201 exemption process, illustrate some of the ways in which 
+the process impairs those seeking authorization or reauthorization of an exemption, and explain 
+why a different exemptions paradigm is desirable. 
+A. AFB has been a longstanding participant and advocate in the triennial Section 1201 
+rulemaking proceedings, and is well positioned to provide prospective on the process 
+as a whole. 
+AFB has a long history of participation in the triennial rulemaking process under Section 
+1201, proposing classes of exceptions ultimately designated by the Librarian in 2003, 2006, 
+2010, 2012, and 2015. This participation comes with a cost, however, and AFB and its pro bono 
+representatives have had to invest significant amounts of time and resources in explaining why 
+these exemption classes are essential to ensuring equal access to digital literary works. 
+                                                      
+3 See Harvard Law School Cyberlaw Clinic, Comment Regarding Section 1201 Study, Docket No. 2015-8, at 3–7. 
+4 See Section 1201 Study: Notice and Request for Public Comment, 80 Fed. Reg. 81,369, 81,371 (Dec. 29, 2015). 
+5 See id. at 81,370.
+
+[PAGE 4]
+4 
+2003 Proceeding. AFB first participated in the triennial rulemaking process in the 2003 
+round (the second triennial process), requesting an exemption for a class simply defined as 
+“literary.” In that first seven-page submission, AFB briefly described Congress’s solicitude for 
+the blind and disabled in the copyright context, explained how technological protection measures 
+were inhibiting access to eBooks and other digital literary works, and provided a succinct list of 
+technologically locked digital works that illustrated the problem.6 The Association of American 
+Publishers (AAP) opposed the proposed exemption class, drawing a distinction between “access” 
+and “accessibility” that the Register ultimately dismissed as a “red herring.”7 Although AFB did 
+not provide exhaustive evidence detailing “the number of works or the particular works that 
+prevented accessibility,” and “[d]espite the difficulty in establishing the exact scope of the 
+[inaccessibility] problem,” the Register ultimately recommended designation of a tailored 
+exemption class to address Section 1201’s adverse impacts on blind, visually-impaired, and 
+print-disabled individuals.8 The Librarian accepted the Register’s recommendation, and adopted 
+an exemption class of: 
+Literary works distributed in ebook format when all existing ebook editions of the 
+work (including digital text editions made available by authorized entities) contain 
+access controls that prevent the enabli ng of the ebook’s read-aloud function and 
+that prevent the enabling of screen reader s to render the text into a “specialized 
+format.” For purposes of this exemption, “s pecialized format,” “digital text” and 
+“authorized entities” shall have the same meaning as in 17 U.S.C. 121.9  
+2006 Proceeding. In the 2006 rulemaking, AFB submitted a one-page class exemption 
+request seeking continuation of the 2003 exemption.10 In its supporting comment, AFB explained 
+that the market situation remained largely the same: “copyright protection continue[d] to prevent 
+access for people who [were] blind or visually impaired.”11 The Register applied more scrutiny 
+to the AFB’s arguments in the 2006 comment round, castigating the AFB for providing only a 
+small sample of digital literary texts and failing to provide statistical evidence that disabled 
+individuals were actually using the 2003 exemption.12 Notwithstanding the perceived evidentiary 
+lacunae, the Register—recognizing the dear th of meaningful opposition to renewal—
+recommended that the Librarian reauthorize the existing exemption class for another three years, 
+                                                      
+6 See generally 2003 AFB Comment. 
+7 See Recommendation of the Register of Copyrights in RM 2002-4 at 68, Rulemaking on Exemptions from 
+Prohibition on Circumvention of Copyright Protection Systems for Access Control Technologies (Oct. 27, 2003) 
+[hereinafter 2003 Recommendation], available at www.copyright.gov/1201/docs/registers-recommendation.pdf. 
+8 Id. at 75–76, 80–82. 
+9 Exemption to Prohibition on Circumvention of Copyright Protection Systems for Access Control Technologies, 68 
+Fed. Reg. 62,011, 62,014 (Oct. 31, 2003) (formerly codified at 37 C.F.R. 201.40) [hereinafter 2003 Final Rule]. 
+10 See Am. Found. for the Blind, Proposed Class or Classes of Copyrighted Work(s) to Be Exempted [hereinafter 
+2006 AFB Proposed Exemption Class], Docket No. RM 2005-11, http://www.copyright.gov/1201/2006/comments/
+discipio-sum.pdf. 
+11 See 2006 AFB Comment at 2. 
+12 Recommendation of the Register of Copyrights in RM 2005-11 at 39, Rulemaking on Exemptions from 
+Prohibition on Circumvention of Copyright Protection Systems for Access Control Technologies (Nov. 16, 2006) 
+[hereinafter 2006 Recommendation], available at www.copyright.gov/1201/docs/1201_recommendation.pdf.
+
+[PAGE 5]
+5 
+and incorporated AFB’s suggested modifications to the exemption class.13 The Librarian agreed, 
+and adopted the Register’s recommendation for the modified class.14 
+2010 Proceeding. After proposing exemption classes in 2003 and 2006 that were 
+supported more by first-hand anecdotal evidence than by extensive and expensive statistical 
+studies, and having those exemptions recommended by the Register and adopted by the 
+Librarian, AFB submitted a fifteen-page exemption proposal in the 2010 rulemaking cycle that 
+was based on similar types and quantities of evidence.15 The Register upbraided the AFB for 
+submitting an evidentiary record to renew a twice-granted exemption that she characterized as 
+“even weaker than the minimal, borderline showing” made in AFB’s 2006 submissions.16 
+Although there was no opposition to renewal of the existing exemption class,17 and despite 
+AFB’s best efforts to provide representative examples of technological problems associated with 
+locked eBooks, the Register concluded that AFB’s evidence “amount[ed] to the kind of de 
+minimis showing that [did] not justify relief in [the Section 1201] proceeding.”18 Professing 
+support for broad accessibility for the blind and disabled, the Register nevertheless made clear 
+that AFB carried the burden of overcoming its “unwillingness or inability to survey a more 
+substantial number of book titles and to determine whether the titles they presented were 
+accessible in any format.”19 Finally, concluding that the absence of large-scale empirical 
+evidence relating to use of the 2003 and 2006 exemption classes was evidence of the absence of 
+a need for a continuing exemption, the Register declined to recommend the proposed exemption 
+class for the following three-year period.20  
+The Librarian of Congress, in an unprecedented and as yet unrepeated decision, 
+ultimately rejected the Register’s recommendation with regard to the AFB’s proposed 
+                                                      
+13 Id. at 40. 
+14 Exemption to Prohibition on Circumvention of Copyright Protection Systems for Access Control Technologies, 
+71 Fed. Reg. 68,472, 68,475 (Nov. 27, 2006) (formerly codified at 37 C.F.R. 201.40) [hereinafter 2006 Final Rule]. 
+The exemption class was modified to prioritize screen-reader accessibility, and was revised to include eBooks where 
+all editions “contain access controls that prevent the enabling either of the book’s read–aloud function or of screen 
+readers that render the text into a specialized format.” Id. at 68,475. 
+15 See 2010 AFB Comment at 6, 8–9. 
+16 Recommendation of the Register of Copyrights in RM 2008-8 at 255, Rulemaking on Exemptions from 
+Prohibition on Circumvention of Copyright Protection Systems for Access Control Technologies (June 11, 2010) 
+[hereinafter 2010 Recommendation], available at www.copyright.gov/1201/2010/initialed-registersrecommendation-
+june-11-2010.pdf. At a May 8, 2009 hearing, the Copyright Office’s then-General Counsel David Carson suggested 
+that AFB had either failed to take the Office’s evidentiary standards into account, or ignored them altogether. See 
+Copyright Office Hearing Transcript, May 8, 2009, at 11–20, available at http://www.copyright.gov/1201/hearings/
+2009/transcripts/1201-5-8-09.txt (“When you prepared this year, did you have -- did you take into account at all 
+what the Register had said three years ago, what I just repeated to you? . . . And you decided to ignore it?”). 
+17 See id. at 250 (“The Joint Creators . . . do not oppose renewal of the exemption related to literary works in ebook 
+format if the Register and the Librarian conclude that the proponent meets its burden of persuasion during this 
+proceeding.”) (internal quotations omitted). 
+18 Id. at 259. 
+19 Id. at 260–61. 
+20 Id. at 260, 262 (“[T]he lack of evidence that an existing exemption has been used suggests that there is no need for 
+such an exemption. . . . The AFB’s failure to inquire and report on the benefits or deficiencies of the existing 
+exemption serves only to diminish the already inadequate evidentiary support for the need for an exemption.”).
+
+[PAGE 6]
+6 
+exemption, and decided to extend the class for another three years.21 Setting aside the evidentiary 
+concerns that served as the crux of the Register’s decision not to renew the exemption class, the 
+Librarian explained that the record was adequate to support renewal of the exemption,22 and that 
+the Office should have submitted follow-up questions to the AFB (as it had in the 2003 and 2006 
+rulemakings) if it felt the record needed more development.23 
+2012 Proceeding. In its proposed exemption class for the 2012 cycle, AFB and its joint 
+commenter American Council of the Blind (“ACB”) did cite to some press reports and academic 
+studies that demonstrated the extent of the eBook accessibility problem in an attempt to satisfy 
+the Register’s strict evidentiary requirements and avoid a repeat of the unwarranted negative 
+recommendation in 2010.24 While attempting to satisfy the Register’s evidentiary requirements, 
+however, AFB also challenged the Register’s interpretation of Section 1201’s standard for 
+adverse impact. AFB explained that—contrary to the Register’s unnecessarily strict approach 
+and consistent with the Librarian’s 2010 decision—anecdotal first-hand evidence is entirely 
+appropriate to satisfy the applicable legal standard:  
+Granting an exemption is not conditioned by law on the ability of advocates to 
+demonstrate that some arbitrary percentage  of the publishing industry violates the 
+fair use rights of people with disabilities. Rather, the exemption we propose herein 
+must be granted to ensure that even an isolated instance where an individual user 
+with print disabilities cannot read the material without first circumventing access 
+controls does not expose the user to seve re penalties. In pr evious proceedings, 
+advocates presented the Copyright Office with a handful of examples of e-books 
+inaccessible to people who are blind or vi sually impaired. In the most recent 
+proceeding, the Copyright Office seemed to suggest that advocates ought to have 
+presented dozens or even hundreds of such examples even though such an array of 
+examples would represent decimal dust in  comparison to the total number of 
+available e-book titles. While the exemption we propose herein is needed even if it 
+only benefits a single user during the thre e-year term of the exemption, we know 
+that the vast universe of inaccessible titles will make the exemption we propose of 
+critical value to many.
+25 
+Although the Register did not directly address AFB’s interpretation of the appropriate 
+evidentiary standard in the 2012 Recommendation, she did approve an expanded version of 
+AFB’s proposed exemption class. Moreover, the Register relied primarily on press accounts and 
+                                                      
+21 2010 Final Rule at 43,838 (“The Librarian has considered but rejected the Register’s recommendation with 
+respect to the proposed class of works consisting of literary works distributed in ebook format.”). 
+22 Id. (“[T]he proposed exemption should be granted because: (1) the record includes statements on the likelihood of 
+access not being available to blind individuals, (2) no one opposed the exemption, and (3) there are broad benefits to 
+society in making works accessible to the visually impaired.”). 
+23 Id. (“The Librarian notes that, in contrast with its actions in both 2003 and 2006, the Copyright Office did not 
+submit any post–hearing questions on this proposed exemption. Such development of the record would have been 
+helpful.”). 
+24 See 2012 AFB Comment at 9–10 (“[T]he Nook and Kindle stores combined may carry approximately 1.8 million 
+inaccessible e-book titles,”). 
+25 Id. at 6–7.
+
+[PAGE 7]
+7 
+public policy considerations rather than extensive statistical evidence to support that decision.26 
+Finally, the Register explained that the exercise of analyzing individual literary works to 
+determine indicia of accessibility was no longer necessary, given widespread understanding that 
+eBooks were either inaccessible or only partially accessible.27 The Librarian approved the 
+expanded exemption without alteration.28 
+2015 Proceeding. After seemingly focusing more on the obvious, continuing realities of 
+the eBook marketplace and usage, and thus endorsing less onerous evidentiary requirements in 
+the 2012 cycle, the Copyright Office explicitly reinstituted many of the most burdensome 
+evidentiary prerequisites in the 2015 proceeding. Unlike previous notices of proposed 
+rulemaking (“NPRMs”), which simply listed proposed exemption classes and requested 
+comments,29 the NPRM for the 2015 cycle tasked exemption proponents with compiling data in 
+response to several specific evidentiary questions.30 In particular, the Office reinstituted the 
+“sample” requirement that it had dispensed with in the previous cycle, and asked AFB and other 
+proponents to compile “a significant representative sample of titles across various e-book 
+formats that are otherwise inaccessible.”31 In response, AFB submitted a substantially longer and 
+more detailed comment than it had in years past,32 even though its exemption renewal request 
+was once again unopposed.33 Based on the Register’s Recommendation, the Librarian renewed 
+the exemption for another three year period.34 
+B. The current exemption process relies on unwarranted and overly strict evidentiary 
+requirements that impose unnecessary burdens, costs, and uncertainty on 
+participating parties. 
+                                                      
+26 See Recommendation of the Register of Copyrights in RM 2011-7 at 18, 21, Fifth Triennial Proceeding to 
+Determine Exemptions to the Prohibition on Circumvention (Oct. 12, 2012) [hereinafter 2012 Recommendation], 
+available at http://copyright.gov/1201/2012/Section_1201_Rulemaking_2012_Recommendation.pdf (“Although 
+precise figures remain elusive, press accounts cited by the proponents suggest that only a fraction of the publicly 
+available ebooks are accessible. . . . Generally, public policy favors removing impediments to access for individuals 
+with disabilities, and the notion that an individual ought to be required to invest in three (or more) competing 
+electronic book platforms would appear to be contrary to that policy.”) (internal citations omitted). 
+27 See id. at 21 (“[B]ecause the record indicates that the majority of ebooks available through commercial channels 
+are either inaccessible or, at best, only somewhat accessible, there is no need to analyze specific titles to see if they 
+are inaccessible, as done in the past.”). 
+28 Exemption to Prohibition on Circumvention of Copyright Protection Systems for Access Control Technologies, 
+77 Fed. Reg. 65,250, 66,262–63 (Oct. 26, 2012) (codified at 37 C.F.R. pt. 201) [hereinafter 2012 Final Rule]. 
+29 See, e.g., Exemption to Prohibition on Circumvention of Copyright Protection Systems for Access Control 
+Technologies, 73 Fed. Reg. 79,425 (proposed Dec. 29, 2008) (to be codified at 37 C.F.R. pt. 201) [hereinafter 2009 
+NPRM].; Exemption to Prohibition on Circumvention of Copyright Protection Systems for Access Control 
+Technologies, 76 Fed. Reg. 78,866 (proposed Dec. 20, 2011) (to be codified at 37 C.F.R. pt. 201) [hereinafter 2012 
+NRPM]. 
+30 Exemption to Prohibition on Circumvention of Copyright Protection Systems for Access Control Technologies, 
+79 Fed. Reg. 73,856, 73,863 (proposed Dec. 12, 2014) (to be codified at 37 C.F.R. pt. 201) [hereinafter 2015 
+NPRM]. 
+31 Id. at 73,863. 
+32 See generally 2015 AFB Comment. 
+33 2015 Recommendation at 133 (“There was no opposition to renewing the 2012 exemption.”). 
+34 Exemption to Prohibition on Circumvention of Copyright Protection Systems for Access Control Technologies, 
+80 Fed. Reg. 65,944, 65,950 (Oct. 28, 2015) (codified at 37 C.F.R. pt. 201) [hereinafter 2015 Final Rule].
+
+[PAGE 8]
+8 
+Starting with the 2003 Section 1201 rulemaking, AFB and its pro bono counsel have 
+proposed exemption classes with a singular goal in mind: equalizing access so that individuals 
+with print- and vision-disabilities can benefit from the exploding growth in literary digital 
+publications by making non-infringing uses of those works. The needs of print- and vision-
+disabled readers to make these uses have persisted over time, and yet each demonstration of 
+those needs and the importance of a 1201 exemption has been short-lived. Even though there has 
+been no opposition to the last four exemption requests, the Register has continued to insist on a 
+full, de novo demonstration every three years that the previously granted exemption should be 
+renewed. Furthermore, because the Register has failed to settle on one set of evidentiary 
+standards by which it will judge exemption proposals, parties like AFB are largely unable to 
+anticipate the Office’s cycle-to-cycle requirements with any certainty and prepare an appropriate 
+evidentiary record.  
+Moreover, each triennia process, particularly the most recent, has been governed by an 
+unnecessary and overly strict adjudicatory-style process and a set of complex evidentiary 
+burdens that simply are not required by the DMCA.35 As just one example, in the 2010 
+rulemaking, the Register’s insistence that proponents demonstrate the absence of any alternatives 
+before deeming an exemption warranted was particularly egregious: 
+However, as the Joint Reply Commenters pointed out, AFB did not test all of the 
+ebook formats in which the sampled book titles were available. For instance, AFB 
+tested The Imitation of Christ, by Thomas A. Kempis, in the Microsoft Reader LIT 
+Format and found that work to be inacce ssible whether or not Microsoft’s text-to-
+speech product was installed. However, the Joint Reply Commenters pointed out 
+that the same title appeared to be available in the Adobe format with the read-aloud 
+function enabled.36 
+The Office adopted an evidentiary standard that required AFB to establish that there were 
+no versions of works that could be accessed without circumvention, even if that access might 
+require the print-disabled reader to engage in burdensome or costly searches for different formats 
+of works or to abandon their current eBook reader and invest in a different eBook platform (or 
+several) to take advantage of a work accessible only in that format. These requirements were 
+then, and are now, unwarranted, overly strict, and not required by the language of the DMCA.  
+As a result of the Copyright Office’s strict demands on proponents in rulemakings, 
+AFB—along with numerous other parties proposi ng exemption classes—has been hindered by 
+the burden, cost, unpredictable and inconsistent results, and resulting uncertainty that have 
+become the hallmarks of the Section 1201 triennial process.  
+In the recently concluded sixth triennial rulemaking, AFB was fortunate to be represented 
+pro bono by the University of Colorado Law School’s Samuelson-Glushko Technology Law and 
+Policy Clinic (the “Clinic”). AFB did not seek any alteration of the exemption class designated in 
+                                                      
+35 For a detailed explanation of the lack of any statutory basis for many of the current rulemaking requirements, see 
+Harvard Law School Cyberlaw Clinic, supra note 3.  
+36 2010 Recommendation at 254. AFB and other proponents have subsequently convinced the Register to adopt an 
+exemption that better addresses the reality of eBook products and the market as a whole.
+
+[PAGE 9]
+9 
+the prior rulemaking; rather, it simply sought a “renewal of the exemption previously granted by 
+the Librarian of Congress in the 2012 triennial review.”37 Although there was (again) no 
+meaningful opposition to the AFB’s request for renewal,38 attempting to meet all of the 
+requirements listed in the Notice of Proposed Rulemaking required a substantial investment of 
+the AFB’s and the Clinic’s time and resources. Law students participating in the Clinic worked 
+527.2 pro bono hours to prepare the AFB’s submissions, a figure that does not include any of the 
+time of the supervising attorneys.39 At a conservative hourly rate of $180, those efforts would 
+have cost AFB $94,896 (again, not even counting the hourly rates of supervisors) if it had not 
+been able to secure the assistance of pro bono counsel.40 This cost would need to be repeated 
+every three years. It is reasonable to expect that this cost and the difficulty of securing pro bono 
+representation deters some individuals and organizations from participating in the triennial 
+rulemaking process.  
+Parties who can afford to craft exemption proposals or who can secure pro bono 
+representation still have to grapple with the Office’s overly strict and inconsistent evidentiary 
+standards. The Register’s responses to AFB’s submissions are illustrative of this problem: the 
+Register largely adopted AFB’s proposed classes in the 2003 and 2006 rulemakings, even though 
+AFB used anecdotal evidence and first-hand experience to substantiate many of its claims.41 In 
+2010, the Register refused to renew the AFB’s proposed exemption class, and excoriated the 
+AFB for (i) failing to provide a sufficient sample of inaccessible literary works and (ii) for 
+omitting data detailing use of the existing exception.42 In the 2012 rulemaking, the Register 
+dropped its earlier insistence on a sufficient sample of inaccessible literary works and returned to 
+the 2003/2006 paradigm, accepting anecdotal evidence, media reports, and policy arguments as 
+permissible evidentiary foundations for an exemption request.
+43 Finally, in the 2015 cycle, the 
+Office reinstituted its sample requirement, asking AFB and its fellow proponents to provide “a 
+significant representative sample of titles across various e-book formats that are otherwise 
+inaccessible.”44 
+This whipsawing between evidentiary standards produces inconsistent results across 
+rulemakings, muddies decision-making criteria, and creates additional burdens and costs for 
+parties seeking to propose exemptions. Unlike many industry organizations or rights holders, 
+public interest organizations like AFB are poorly positioned to spend thousands of dollars to 
+compile statistical data and prepare extensive written comments. Nor can they rely on pro bono 
+counsel for each successive round: legal clinics and private practitioners have limited resources 
+and bandwidth. AFB’s access to, and chance of success in, the 1201 process should not be 
+                                                      
+37 2015 AFB Comment at 2. 
+38 See Recommendation of the Register of Copyrights in RM 2014-07 at 133, Sixth Triennial Proceeding to 
+Determine Exemptions to the Prohibition on Circumvention (Oct. 8, 2015) [hereinafter 2015 Recommendation], 
+available at http://copyright.gov/1201/2015/registers-recommendation.pdf. 
+39 Email from Blake Reid, Director, Samuelson-Glushko Technology Law & Policy Clinic, to author (Feb. 29, 2016, 
+9:42 AM PST) (on file with author). 
+40 See LAFFEY MATRIX, http://www.laffeymatrix.com/see.html (last visited Mar. 1, 2016). 
+41 See 2003 Recommendation at 75–79; 2006 Recommendation at 39–40. 
+42 See 2010 Recommendation at 260. Fortunately, the Librarian saw no need for that type of evidence and rejected 
+the Register’s recommendation. See supra notes 21–22 and accompanying text.  
+43 See 2012 Recommendation at 18, 21. 
+44 Exemption to Prohibition on Circumvention of Copyright Protection Systems for Access Control Technologies, 
+79 Fed. Reg. 73,856, 73,863 (proposed Dec. 12, 2014) (to be codified at 37 C.F.R. pt. 201).
+
+[PAGE 10]
+10 
+conditioned upon its ability to (i) spend tens of thousands of dollars, (ii) provide extensive 
+empirical evidence that may or may not be required, or (iii) find effective pro bono 
+representation. The Office should recognize these issues and address these problems by making 
+some commonsense changes to its triennial rulemaking process.  
+C. Exemptions should be presumptively renewed absent a compelling demonstration by 
+opponents that they are no longer warranted 
+AFB submits that the Office could address many of the Triennial Rulemaking’s recurrent 
+problems by providing for presumptive renewal of existing exemptions, whether there is 
+opposition or not. Once the Office has designated an exemption class, and if there is opposition 
+to renewal, the burden should fall to the opponents of renewal to establish that factual conditions 
+have changed and that the exemption class is no longer necessary to prevent adverse impacts on 
+non-infringing use. Similarly, if factual conditions have changed such that an expansion or 
+clarification of the previous exemption is sought, any new consideration should begin with the 
+presumption of renewal at least for the existing portion of the exemption. While other comments 
+explain in detail how the statutory language and legislative history support a reading of the 
+statute that finds the Office has such authority,45 AFB’s comment provides insights into why 
+such an approach would ease the burden on the Office as well as on prospective commenters. 
+Embracing presumptive renewal and burden shifting would resolve the paradox at the 
+heart of the current 1201 process: commenters seeking renewal of an existing exemption have to 
+meet the adverse impact criteria anew every three years, even as the existing exemption is 
+succeeding in facilitating non-infringing use of copyrighted works. In other words, it becomes 
+more difficult to empirically demonstrate adverse impact resulting from a technological 
+protection measure when an existing exemption is succeeding in addressing that very problem. 
+Rather than requiring renewal proponents to provide exemption utilization rates as a proxy for 
+continuing validity and merit, the Office should presume that the exemption is still needed and 
+working. It should shift the burden to opponents to produce commensurately robust evidence that 
+the market has changed in ways that eliminate the underlying barriers to non-infringing uses that 
+justified to the exemption in the first place. In addition to resolving the evidentiary paradox, this 
+approach would produce a much more equitable distribution of evidentiary burdens, would rely 
+on market data that is more easily measured and readily available than exemption utilization 
+rates, would ensure a more orderly and fair rulemaking process, and would effectuate Congress’s 
+underlying market-oriented purposes.  
+Adopting a framework that provides for presumptive renewal and burden shifting would 
+also offer additional benefits. Budget-constrained organizations like AFB are much more likely 
+to marshal resources, concentrate efforts, and provide extensively researched submissions if they 
+know that they won’t be required to repeat the very same process three years later. Similarly, 
+rights holders are unlikely to invest time and energy into challenging a presumption of 
+renewability unless they have evidence, are able to demonstrate sufficiently changed market or 
+usage conditions, and can provide a principled rationale for non-renewal. The Office stands to 
+benefit from such a policy change as well, as it would significantly reduce the concomitant time 
+and effort required to evaluate unopposed exemptions, or those exemptions for which opponents 
+                                                      
+45 See generally Inst. of Scrap Recycling Indus. Inc., Comments of the Institute of Scrap Recycling Industries, Inc., 
+Docket No. 2015-8.
+
+[PAGE 11]
+11 
+are unable to make a showing of substantial change from previous conditions. As addressed in 
+the following section, such an approach would also bring the U.S. into compliance with its 
+international commitments.  
+NOI QUESTION 9: PLEASE ASSESS WHETHER THERE ARE OTHER PERMANENT EXEMPTION 
+CATEGORIES THAT CONGRESS SHOULD CONSIDER ESTABLISHING— FOR EXAMPLE, TO 
+FACILITATE ACCESS TO LITERARY WORKS BY PRINT DISABLED PERSONS? 
+As the question suggests, the exemption which currently allows blind, visually impaired, 
+and print-disabled people to access literary works is the quintessential example of an exemption 
+category that should be made permanent. The Section 1201 rulemaking process imposes 
+substantial burdens and considerable legal uncertainty on the millions of visually-impaired and 
+print-disabled individuals who rely on these exemptions to conduct their everyday business, 
+leisure, and study. This repeated triennial process is especially absurd given that the exemption 
+for the blind and visually impaired enjoys near universal support. The United States played a 
+“leadership role” in enacting the Marrakesh Treaty,46 which obliges member nations to provide 
+this exemption and otherwise use their legal authority to facilitate access to published works for 
+persons who are blind, visually impaired, or otherwise print disabled.47 The 1201 process, which 
+currently fails to provide any presumption in favor of renewal of even universally accepted 
+exemptions, puts the United States in a position of reliance on the continued successful 
+participation of a private, nonprofit advocacy organization to prevent a breach of our treaty 
+obligations. In fact, a permanent exemption may be required by the treaty, as placing the burden 
+on individuals with disabilities or their representatives to obtain an exemption every three years 
+contravenes the treaty’s main goal of creating “mandatory limitations and exceptions for the 
+benefit of the blind, visually impaired, and otherwise print disabled.”48 
+The burdens of the 1201 exemption process are even less justifiable because they acutely 
+impact blind, visually-impaired, and print-disabled individuals. Digital accessibility is especially 
+important for this population: gaps in resources and education can make it more difficult for 
+these individuals to meaningfully participate in all aspects of social and democratic dialogue. 
+Lack of accessibility can have powerful disenfranchising effects. Accordingly, the drafters of the 
+Marrakesh Treaty made full access by the disabled a point of emphasis in their negotiations. The 
+Treaty recognizes that roadblocks to full accessibility are: 
+prejudicial to the complete development of persons with visual impairments or 
+other print disabilities, [a nd] limit their freedom of expression, including the 
+freedom to seek, receive and impart info rmation and ideas of all kinds on equal 
+                                                      
+46 Barack Obama, Message to the Senate -- The Marrakesh Treaty to Facilitate Access to Published Works for 
+Persons Who Are Blind, Visually Impaired, or Otherwise Print Disabled, THE WHITE HOUSE (Feb. 10, 2016), 
+https://www.whitehouse.gov/the-press-office/2016/02/10/message-senate-marrakesh-treaty-facilitate-access-
+published-works. 
+47 Summary of the Marrakesh Treaty to Facilitate Access to Published Works for Persons Who Are Blind, Visually 
+Impaired or Otherwise Print Disabled (MVT) (2013), WORLD INTELLECTUAL PROP. ASS’N (last visited Mar. 1, 
+2016), http://www.wipo.int/treaties/en/ip/marrakesh/summary_marrakesh.html 
+48 Id.
+
+[PAGE 12]
+12 
+basis with others, including through all forms of communication of their choice, 
+their enjoyment of the right to education, and the opportunity to conduct research.49 
+Imposing further civic burdens on disabled individuals and requiring them or their 
+representatives to repeatedly apply for exemptions as a precondition for equal access is deeply 
+insensitive and harmful. 
+CONCLUSION 
+The foregoing demonstrates the fundamental and substantial flaws of the Section 1201 
+rulemaking process as presently structured by the Copyright Office. The current framework 
+imposes substantial burdens and costs on disabled individuals, on parties to the rulemaking, and 
+on the Office itself. Visually-impaired persons should never have been required to seek 
+permission to use vital assistive technology to read lawfully purchased copies of literary works in 
+the first place. After fighting successfully for an exemption to facilitate this vital access, these 
+same beneficiaries should not have to worry about losing it every three years. Those representing 
+the beneficiaries should not be required to continuously collect and provide substantial evidence 
+and arguments merely to maintain the status quo, especially when there is no opposition to 
+renewing the exemption. 
+ Accordingly, AFB urges the Copyright Office to recognize the significant and 
+unnecessary burden that its current Section 1201 process imposes on print- and visually-disabled 
+persons, as well as proponents of other exemptions for non-infringing uses of works. AFB 
+recommends that the Office reconsider its previous determinations that it lacks the necessary 
+authority to make these changes, and then adopt a policy that provides for presumptive renewal 
+of existing exemptions and places the burden of justifying non-renewal on opponents. Such a 
+policy would (i) ease the administrative burden on the Office, (ii) address Congress’s concern 
+that Section 1201 not adversely impact non-infringing users of copyrighted works, and (iii) bring 
+U.S. copyright law into conformity with international agreements. 
+                                                      
+49 Marrakesh Treaty to Facilitate Access to Published Works for Persons Who Are Blind, Visually Impaired, or 
+Otherwise Print Disabled, pmbl., June 27, 2013, WIPO Doc. VIP/DC/8 Rev [hereinafter Marrakesh Treaty].

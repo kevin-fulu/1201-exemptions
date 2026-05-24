@@ -1,0 +1,765 @@
+[PAGE 1]
+ 
+ 
+UNITED STATES COPYRIGHT OFFICE 
+ 
+ 
+    *  
+Section 1201 Study: Request                                     Additional Reply Comments of:  
+For Additional Comments                              *       Association of American Publishers,       
+  Entertainment Software Association,      
+  Motion Picture Association of America, 
+                                                *       Recording Industry Association of  
+Docket  No. 2015-8                                                      America 
+    * 
+  
+****** 
+ 
+ 
+I. Introduction 
+The Association of American Publishers (“AAP”), the Entertainment Software 
+Association (“ESA”), the Motion Picture Association of America, Inc. (“MPAA”) and the 
+Recording Industry Association of America, Inc. (“RIAA”) respectfully submit these reply 
+comments in connection with the above referenced docket.  As described in their prior comments 
+submitted on March 3, 2016, April 1, 2016, and October 27, 2016, and during the public 
+roundtables, the protections provided in Chapter 12 of Title 17 are extremely important to the 
+motion picture, television, music, entertainment software, and publishing industries.  These 
+protections helped encourage early adoption of digital distribution methods and continue to 
+enable the exciting new business models that AAP, ESA, MPAA and RIAA members are 
+currently using to disseminate their creative works.  See March 3, 2016 Initial Comments of 
+AAP, MPAA, and RIAA at 4-9 (describing the numerous digital products currently being offered 
+by motion picture distributors, record companies and publishers of literary works); March 3, 
+2016 Initial Comments of ESA at 2-6 (describing variety of offerings from video game 
+publishers and distributors).  
+Nothing in the comments filed in this docket justifies amending Chapter 12.  Its 
+protections have played a large role in the development of the thriving digital marketplace for 
+expressive works that Congress envisioned nearly two decades ago when it passed the DMCA.  
+See S. Rep. No. 105-190, 105th Cong., 2d Sess., at 8 (May 11, 1998) (Section 1201 “creates the 
+legal platform for launching the global digital online marketplace for copyrighted works.  It will 
+facilitate making available quickly and conveniently via the Internet the movies, music, software 
+and literary works that are the fruit of American creative genius.”); see also May 19, 2016 
+Transcript at 14 (statement of Mr. Adler, AAP) (“The idea here was all about access.  It is to 
+facilitate consumer access to works online because that would be convenient, because it was 
+viewed that that would cut expenses.  It would cut against the difficulties people have in finding 
+these works.  …  So we think that the legal prot ections were a necessary part of the notion that 
+copyright owners could use technological protection measures in order to make their works 
+conveniently and ubiquitously available online and that’s been a wild success.”); id. at 18 
+(statement of Mr. Pierre-Louis, ESA) (“When [the DMCA] was passed in 1998, the thought was 
+we want to expand consumer access to broadband and to new technologies.  And one of the ways
+
+[PAGE 2]
+ 
+ 
+ 2 
+ 
+we encourage that is by getting copyrighted content online and on other devices.  And part of 
+those twin goals involved 1201.”).   
+These protections are only growing in importance, as online dissemination of works 
+becomes the primary business model for a broad range of products.  Over the last several years, 
+we have entered an “access economy” wherein consumers demand and prefer business models 
+that provide on-demand access on a subscription or rental transaction basis rather than buying 
+and owning copies of works.  See Hayley Tsukayama, Wash. Post, Mary Meeker Sees Web 
+Trend Toward Consumer Access, Dec. 4, 2012 (“CD wallets, bookshelves, DVD towers and 
+even garages may be fading away as a new generation lets technology affect the way it thinks 
+about ownership.”); A Hard Sell:  The Industries That Can’t Get Millennials Buying, The 
+Guardian, March 18, 2016 (“The sharing economy has taught us that just as you don’t need to 
+own the DVD of the film you want to watch, you don’t need your own car to get around.”).  In 
+this access economy, technological measures that enforce the terms of access-based transactions 
+are the tools by which copyright owners and their distributor licensees meet consumer 
+expectations.  These controls are not imposing unnecessary, restrictive limits on consumers.  
+They are instead enabling consumers to pay less while getting more.  See U.S. Dept. of 
+Commerce Internet Policy Task Force, White Paper on Remixes, First Sale, and Statutory 
+Damages, at 42-44, 56-68 (Jan. 2016) (“The Task Force is persuaded that an overly broad 
+application of the first sale doctrine could also impede the continued development of the growing 
+range of flexible new licensing models and variable pricing.  Considerable evidence was 
+presented that such models are becoming more and more prevalent and that they provide real 
+value to consumers above and beyond traditional ownership models.”). 
+Accordingly, we call on the Copyright Office not to recommend legislative change, but 
+instead to focus its efforts on refining the triennial rulemaking process, which, with a few 
+relatively minor procedural adjustments, will continue to provide a flexible fail-safe mechanism 
+to address any perceived problems associated with the prohibition against circumventing access-
+control technologies.     
+II. Response to Notice of Inquiry 
+Although the Copyright Office published a detailed and focused Request for Additional 
+Comments regarding specific issues primarily related to access controls applied to software that 
+enables machines and devices to function, rather than access controls applied to expressive 
+works or software that renders expressive works for viewing or listening, a number of Section 
+1201’s critics responded with more demands for fundamental changes to the statute, such as 
+inserting a requirement that violations of Section 1201 must be linked to acts of copyright 
+infringement.  See, e.g., Additional Comments of Public Knowledge at 1; Additional Comments 
+of Center for Democracy and Technology (“CDT”) at 4; Additional Comments of the Society of 
+American Archivists at 2; Additional Comments of Owners Rights Initiative at 1.
+1  Without 
+reiterating all of the reasons why such fundamental changes to the statute would be misguided 
+and harmful, AAP, ESA, MPAA and RIAA remain strongly opposed to any efforts to render 
+Section 1201 superfluous, a mere duplication of the protections provided by Section 106.  Many 
+of today’s most successful, consumer-friendly business models involve selling access to works 
+rather than copies of works.  See May 25, 2016 Transcript at 15 (statement of Ms. Chertkof, 
+                                                 
+1 All references to “Additional Comments” herein are to the comments submitted on October 27, 2016.
+
+[PAGE 3]
+ 
+ 
+ 3 
+ 
+RIAA) (“It’s been well publicized in the music industry that the industry is shifting from an 
+ownership model to an access model and that access is really kind of where all the growth is.”);2 
+id. at 14 (statement of Mr. Sheffner, MPAA) (“And as we’ve actually seen the distribution 
+models [in the motion picture industry] move from ownership [of] a physical item like Blu-Ray 
+disc or a DVD towards access-based models, whether it’s subscription models like Netflix or 
+Hulu or iTunes, et cetera, access is really what’s at issue here.”).  Without the protections of 
+Section 1201, such offerings could be subject to unrestrained hacking without legal recourse for 
+copyright owners because merely viewing or listening to a work may not necessarily constitute 
+copyright infringement, depending on the particular technology at issue.  The Copyright Office 
+was right to implicitly reject requests for fundamental changes to the statute in the Request for 
+Additional Comments.  AAP, ESA, MPAA, and RIAA strongly urge the Office to maintain its 
+position on these issues and to clearly articulate in any published study the reasons why Section 
+1201 should not be fundamentally altered. 
+While Public Knowledge claims that advocates for preserving the protections provided to 
+rights holders by Section 1201 “have not actually produced evidence supporting the causal link 
+between” those protections and the widespread availability of new digital products and services, 
+that is untrue.  In every rulemaking proceeding, the Joint Creators and Copyright Owners submit 
+extensive evidence regarding that link, including live testimony from business executives.  See, 
+e.g., May 20, 2015 Transcript at 81 (statement of Mr. Swart, Twenty First Century Fox)  
+(“[W]ith any distributor we work with, copy protection and encryption is critical.”); May 19, 
+2015 Transcript at 129-130 (statement of Mr. Voris, The Walt Disney Company) (“[P]roducts 
+and services like Disney Movies Anywhere are making it easy for consumers to access their 
+movies across formats and platforms and they represent the very type of innovative digital 
+solutions the DMCA’s anti-circumvention protections were intended to encourage.”).  Similar 
+testimony was provided at the public roundtables during this proceeding.  See, e.g., May 19, 
+2016 Transcript at 22-23 (statement of Mr. Dow, The Walt Disney Company) (“Now, in the last 
+15 years that I’ve been involved in this from the business side, I’ve been at the intersection of the 
+law and sort of the business considerations.  And I can tell you that the availability of these legal 
+tools has been directly relevant to the decisions to get into these markets, whether it was the 
+development of AACS as a next-generation standard for the protection of high definition digital 
+content, whether it’s the willingness to get into the market for 4K, whether it’s the willingness to 
+get into the market for over-the-top television and authenticated television to allow people to do 
+streaming, the DMCA has been a factor in the willingness to engage in all of those things.”); 
+May 25, 2016 Transcript at 203-04 (statement of Mr. Reed, Fox Entertainment Group) (“I sort of 
+wanted to … come back to something that came up in one of the earlier panels this morning 
+about the idea of whether it’s the law that is causing these business models to evolve in the way 
+they have, or whether it’s the technology itself.  It’s both, and it’s very -- the law is very much a 
+major consideration here.  Anti-trafficking is very much a major consideration.  When we make 
+decisions about what products to make available in the marketplace, either in the United States or 
+in foreign countries, we’re looking at not only the technology that’s available to provide that 
+content in a way that consumers want it in that market, but also the efficacy of the legal regime 
+                                                 
+2 See also Neil Shah, Wall St. J., The Summer that Streaming Took Over, Aug. 25, 2016 (“The move by 
+consumers away from owning music to renting it from services like Spotify and Apple Music has caught 
+fire.”); Ann Steele, Wall St. J., Warner Music Revenue Grows on Streaming: Streaming is Largest Source 
+of Revenue in the Company’s Recorded Music Business, May 6, 2016; Tim Ingham, Music Business 
+Worldwide, Streaming is Crushing Downloads at Sony Music, Claiming 42% of Revenues, Nov. 1, 2016.
+
+[PAGE 4]
+ 
+ 
+ 4 
+ 
+in that space as well.”).  After almost two decades of the Copyright Office receiving such 
+testimony, the fact that Section 1201 plays an important role in the business decisions underlying 
+how the market has developed has been conclusively established.  
+With respect to other additional comments filed in response to the specific issues raised 
+by the Request for Additional Comments, AAP, ESA, MPAA, and RIAA provide the following 
+reply comments.       
+1. Proposals for New Permanent Exemptions 
+(a) Assistive Technologies for Use by Persons Who Are Blind, Visually 
+Impaired, or Print Disabled 
+The Request for Additional Comments correctly stated that “[t]he written comments and 
+roundtable discussions revealed widespread support for adoption of a permanent exemption to 
+facilitate access to works in electronic formats by persons who are blind, visually impaired, or 
+print disabled.”  81 Fed. Reg. 66,296, 66,296 (Sept. 27, 2016).  However, while AAP, ESA, 
+MPAA and RIAA support in principle that the marketplace must provide accessibility to 
+copyrighted materials for the blind, visually impaired and print disabled, they do not support 
+amending Section 1201 to add a permanent exemption.  Rather, they have stated, and continue to 
+believe, that temporary exemptions issued through the rulemaking process are preferable to 
+statutory amendments.  As was discussed at the public roundtables, the digital marketplace for 
+literary works is going through changes that could result in an amelioration or disappearance of 
+the concerns related to disabled read-aloud functionality.  See, e.g., May 20, 2016 Transcript at 
+144-45 (statement of Mr. Williams, MSK) (“[T]here are formats in development that are going to 
+roll out that will make this problem much less significant if it doesn’t go away.  There’s EPUB-3 
+and HTML-5 which I understand are going to help address these issues.  And so, if that were the 
+case and circumvention became unnecessary, then there wouldn’t be a need to have an 
+exemption sitting in the statute when we could just renew it through the rulemaking process.”); 
+id. at 154 (statement of Mr. Cazares, National Federation of the Blind) (“I agree in part with Mr. 
+Williams.  I think that the forthcoming of EPUB-3 and HTML-5 are going to kind of 
+revolutionize the way accessibility is approached in the mainstream.”).  Accordingly, addressing 
+this issue on a triennial basis to account for such marketplace and technological realities is far 
+preferable to “permanent” statutory change.
+3 
+This is especially true when considering the issue outside the narrow context of literary 
+works.  Although there is a substantial record regarding the accessibility issue in that context, 
+there is very little in the records from prior rulemaking proceedings regarding other 
+entertainment products.4  There is also very little regarding such products in this docket.  By 
+                                                 
+3 Regardless whether in a regulatory or legislative context, the Copyright Office should not recommend 
+that the current exemption requirements for remuneration to the copyright owner and compliance with the 
+Chafee Amendment be deleted, as some commenters advocated.  See, e.g., Additional Comments of EFF 
+at 3; Additional Comments of Authors Alliance at 3.  It is only fair that right holders be paid for copies of 
+commercially available works.   
+4 In 2012, the Librarian granted an exemption request addressing accessibility issues with respect to 
+motion pictures and other audiovisual works.  Final Rule, 71 Fed. Reg. 65,260, 65,270 (Oct. 26, 2012) 
+(allowing circumvention “accomplished solely to access the playhead and/or related time code
+
+[PAGE 5]
+ 
+ 
+ 5 
+ 
+failing to limit the Request for Additional Comments to focus on literary works, as opposed to a 
+possible permanent exemption applicable to all “works in electronic formats,” the Copyright 
+Office took a turn that is unsupported by any factual record.
+5  The Copyright Office simply has 
+no current data sufficient to justify any conclusions regarding whether accessibility issues, 
+caused by access controls, exist with respect to video games, motion pictures or recorded music.  
+Thus, the Copyright Office should refrain from recommending “a permanent exemption to 
+facilitate access to works in electronic formats by persons who are blind, visually impaired, or 
+print disabled.”  See Additional Comments of Copyright Alliance at 2 (“The legislative process 
+should be driven by evidence, not speculation.”).
+6   
+(b) Device Unlocking 
+Although AAP, ESA, MPAA and RIAA have no objection in principle to the notion that 
+consumers should be able to connect their devices to the mobile wireless network(s) of their 
+choosing, they do not support a permanent statutory exemption for device “unlocking.”  As 
+referenced in the Request for Additional Comments (81 Fed. Reg. at 66,297), Congress recently 
+considered this issue and instructed the Register and the Librarian to renew the regulatory 
+exemption for unlocking rather than amending Section 1201.  See Unlocking Consumer Choice 
+and Wireless Competition Act, Pub. L. No. 113-144, §§  2(c)(2), 2(d)(2), 128 Stat. 1751 (2014); 
+see also 2015 Recommendation of the Register of Copyrights at 12 (“[T]he language of the 
+Unlocking Act makes clear that the Register is to consider any future proposal for a cellphone 
+unlocking exemption according to the usual triennial rulemaking process.”).  Nothing in this 
+docket indicates that any marketplace changes have occurred that would justify reopening that 
+legislative issue at this time.  The rulemaking remains the appropriate venue for presentations of 
+issues on this topic.  
+(c) Computer Programs 
+AAP, ESA, MPAA, and RIAA are concerned that the Request for Additional Comments 
+suggested that the Copyright Office would consider recommending that Congress create 
+                                                                                                                                                             
+information embedded in copies of such works and solely for the purpose of conducting research and 
+development for the purpose of creating players capable of rendering visual representations of the audible 
+portions of such works and/or audible representations or descriptions of the visual portions of such works 
+to enable an individual who is blind, visually impaired, deaf, or hard of hearing, and who has lawfully 
+obtained a copy of such a work, to perceive the work; provided however, that the resulting player does not 
+require circumvention of technological measures to operate.”).  However, no petition for renewal of the 
+exemption was filed during the 2015 proceeding, indicating that the marketplace is addressing whatever 
+concerns previously existed. 
+5 Library Copyright Alliance, in its Additional Comments (at page 3) also proposed expanding the 
+exemption applicable to literary works to encompass musical works without submitting an explanation as 
+to why or any evidence of any problems related to the enjoyment of musical works.  The Office should 
+reject this proposal.  
+6 Some commenters suggested that the Marrakesh Treaty provides justification for amending Section 
+1201.  See, e.g., Additional Comments of Authors Alliance at 2.  Given there is no evidence that 
+technological protection measures are preventing the visually impaired from accessing works other than 
+literary works, the continued existence of the exemption for that class of works already satisfies the 
+United States’ obligations under the Marrakesh Treaty.
+
+[PAGE 6]
+ 
+ 
+ 6 
+ 
+statutory exemptions with broad language allowing for circumvention “for engaging in any 
+lawful modification of a computer program” including “uses permitted under section 117(a) 
+and/or the fair use doctrine.”  This type of broad-brush approach was rejected by Congress when 
+the DMCA was drafted because creating such vaguely-defined exemptions without specific 
+instructions regarding precisely what types of conduct are allowed by them is a recipe for misuse 
+and confusion.  The rulemaking process is preferable to legislation because (among other 
+reasons) the Copyright Office can craft those specific instructions to address specific, 
+demonstrated circumstances. 
+ As the Copyright Office is well aware, one person’s notion of fair use is another person’s 
+infringement.  Prior rulemaking proceedings are replete with examples of exemption proponents 
+maintaining that conduct considered blatantly infringing by copyright owners is unquestionably 
+fair use.  See, e.g., 2015 Recommendation of the Register of Copyrights at 119-23 (Register’s 
+rejection of Public Knowledge’s position that space-shifting movies is a fair use).  Similarly, 
+exemption proponents have often advocated for an expansive interpretation of Section 117 that is 
+unsupported by the majority of the case law.  A statutory provision that authorized 
+circumvention to access and modify computer programs for all lawful purposes would generate 
+widespread mistakes regarding when circumvention is permissible.
+7  Indeed, while “maintenance 
+and repair” can be tied to Section 117 activity, going beyond that to cover all “modifications” or 
+“customizations” or efforts to “improve the functionality” of computer programs would invite 
+the creation of infringing derivative works.     
+  The harmful impact of those mistakes (and of outright abuses of any newly created 
+statutory exemption) would not be adequately “mitigated by conditioning the exemption on the 
+circumventing party not engaging in any unauthorized use of a copyrighted work other than the 
+accessed computer program, or by limiting the exemption to computer programs that are ‘not a 
+conduit to protectable expression’ – i.e., those that do ‘not in turn create any protected 
+expression’ when executed.”  81 Fed. Reg. at 66,297 (citing Lexmark Int’l, Inc. v. Static Control 
+Components, Inc., 387 F.3d 522, 548 (6th Cir. 2004)).  Although exemptions containing such 
+limiting criteria are preferable to unbounded exemptions that do not prohibit unauthorized use of 
+expressive works and that permit unauthorized access to expressive works, these limitations 
+would not sufficiently confine the contemplated exemption to circumstances where 
+circumvention presents no threat to legitimate copyright interests.  For example, manufacturers 
+of video game consoles use access controls to prevent piracy not only by restricting access to 
+computer programs that render video games perceptible, but also by restricting access to the 
+software that operates the consoles and authenticates games.  Circumvention of such access 
+                                                 
+7 For this reason, the Copyright Office should decline to follow the advice of commenters who expressed 
+support for “an exemption to explicitly permit circumvention undertaken to make non-infringing 
+adaptations,” or similar language.  See Additional Comments of EFF at 4; see also Additional Comments 
+of Public Knowledge at 3, Additional Comments of CDT at 3.  EFF has it exactly backwards when it 
+states that “[t]he benefit with that statutory language is that it links the application of Section 1201 
+directly to the well-developed limitations and defenses to copyright infringement, including fair use, 
+without attempting to recapitulate or paraphrase those limitations within Section 1201, which would raise 
+the possibility of inconsistent application.”  Additional Comments of EFF at 4.  Exemptions that do not 
+set forth the precise factual circumstances within which they apply create a much higher risk of  
+inconsistent application than exemptions that include detailed criteria for judges to apply.
+
+[PAGE 7]
+ 
+ 
+ 7 
+ 
+controls leads to play of pirated games.8  Moreover, the Nintendo Co. Ltd. v. Playables Ltd., case 
+from the United Kingdom, which the Copyright Office cited in the Request for Additional 
+Comments (id.), exemplifies how plaintiffs operating in a legal system that does not uniformly 
+prohibit circumvention of access controls applicable to computer programs face additional, 
+unnecessary hurdles in litigation against pirate enterprises.    
+AAP, ESA, MPAA, and RIAA also are skeptical that limiting a statutory exemption “to 
+computer programs in particular categories of devices” would mitigate “concerns over enabling 
+unauthorized uses.”  Id.  That said, of course an exemption that excluded from its scope 
+computer programs resident on all devices used to view or listen to sound recordings, movies, 
+television shows, literary works and video games would be preferable to one that does not 
+contain such exclusions.  Nevertheless, any such exemption should be considered in the context 
+of the rulemaking, not recommended as a legislative amendment.    
+(d) Obsolete Technologies 
+While it is true, as the Request for Additional Comments states, that “[i]n prior 
+rulemakings, the Copyright Office and the Librarian of Congress have considered multiple 
+petitions to permit circumvention of an access control mechanism protecting against a given 
+class of works that fails to permit access because of malfunction, damage, or obsoleteness,” 81 
+Fed. Reg. at 66,297, there has been no consistency with respect to the petitions submitted, the 
+exemptions granted, or the perceived problems articulated by proponents that would be 
+comparable to other issues, like access to e-books by the visually impaired or device unlocking.  
+In fact, at the conclusion of the last two proceedings, no exemption specifically referencing 
+malfunction, damage or obsoleteness was adopted.  Although an exemption was granted in 2015, 
+for the first time, for accessing video games where authentication servers were no longer 
+supported – an exemption which the Joint Creators and Copyright Owners opposed
+9 and 
+continue to oppose – that exemption addressed a specific market sector and includes several 
+limitations on its exercise.10  Given that the issues that have been raised during some cycles 
+related to obsolete access controls have varied, and that no petitions have been filed on this topic 
+during other cycles, it is more appropriate for the Copyright Office to continue to review issues 
+as they arise in the course of the triennial proceedings rather than recommending legislation.  
+                                                 
+8 For this reason, the Owners Rights Initiative is incorrect (Additional Comments at 2) when it argues that 
+“circumvention of access controls on programs embedded in hardware are far removed from the 
+protection of creative expression that Section 1201 was intended to address.”   
+9 In the 2015 cycle, ESA, MPAA, and RIAA comprised the Joint Creators and Copyright Owners. 
+10 Library Copyright Alliance, in its Additional Comments, (at page 3) asserted that this exemption has 
+“caused copyright owners no harm,” despite the fact that it only recently went into effect and there has 
+been insufficient time for evidence of harm to be collected.  There is a risk of harm posed by the existence 
+of the exemption, as the Joint Creators and Copyright Owners explained during the rulemaking 
+proceeding.  Nor should the Copyright Office recommend an exemption that would allow for 
+circumvention for the purpose of creating or operating “emulators,” (Additional Comments of Software 
+Preservation Network at 2) which are often used to set up unauthorized gaming platforms used to engage 
+in unlawful uses of games.
+
+[PAGE 8]
+ 
+ 
+ 8 
+ 
+Certainly, nothing submitted in this docket would justify recommendation of a broad exemption 
+applicable to all malfunctioning, damaged or obsolete access controls.11        
+(e) International Considerations 
+While there are trade and treaty obligations that could come into play if the Copyright 
+Office decides to recommend any of the legislative changes it discussed in the Request for 
+Additional Comment, the focus at this point should not be on whether any of the proposals 
+would violate existing agreements.  Rather, in considering whether proposals are sound as a 
+policy matter, the Copyright Office should focus on the fact that these obligations reflect a broad 
+international consensus about the importance of effective protection of intellectual property to 
+our economy (as well as to the economies of our trading partners), which includes effective 
+measures against circumvention of technological protection measures and trafficking in 
+circumvention devices.  Thus, U.S. trade obligations are governed by the trade negotiating 
+objectives established by Congress, which reflect U.S. economic, social and cultural interests.
+12  
+In short, our trade “obligations” are not imposed on the U.S. by other parties, but are a mutual 
+acknowledgement of a set of international norms and baseline protections for creativity and 
+innovation that reflect a standard of protection similar to that found in United States law.
+13  
+A departure from these, whether at the international level or domestically, would 
+undermine U.S. interests, and depart from the common views of policymakers around the globe 
+about how to expand commercial opportunities for creators and innovators.  Now that we have 
+reached a consensus with many of our trading partners regarding these international norms and 
+baseline protections, it would be counterproductive to reverse course and seek to weaken 
+protections for access controls and copy controls.  The adoption of very similar approaches 
+around the world to protecting technological measures demonstrates that the approach taken by 
+the United States is robust enough to stand the test of time. 
+Although several proponents of legislative amendments appear eager to push the United 
+States into reopening negotiations regarding trade agreements (see, e.g., Additional Comments of 
+the Library Copyright Alliance at 3; Additional Comments of Owners Rights Initiative at 3), 
+there is no justification for doing so.  The triennial rulemaking proceeding is already specifically 
+permitted by our treaties and trade agreements and is more than sufficient for addressing any 
+perceived problems with the prohibition on circumvention of access controls.  
+                                                 
+11 There is also insufficient evidence in the docket to support the broader permanent exemption requested 
+by the Society of American Archivists, (at page 3 of their Additional Comments) which would cover 
+“original works of authorship fixed in a digital medium of expression that are currently in the collection 
+of a library or archives of the type described by clause (2) of subsection (a) of 17 USC § 108 when 
+circumvention is accomplished for the sole purpose of managing, maintaining and preserving its 
+collection pursuant to 17 USC § 107 and 108.”  This proposal for what amounts to an expansive 
+exemption for “all fair uses by libraries and archives” would be prone to misinterpretation and confusion, 
+especially considering ongoing litigation surrounding what types of copying by libraries qualify as fair 
+use.  See, e.g., Cambridge University Press v. Patton, 769 F.3d 1232 (11th Cir. 2014) (now on appeal 
+again after remand and decision).   
+12 See Bipartisan Congressional Trade Priorities and Accountability Act of 2015, section 102(b)(5), 19 
+U.S.C. § 4201(b)(5) (2015). 
+13 See id. at 19 U.S.C. § 4201(b)(5)(A)(i)(II).
+
+[PAGE 9]
+ 
+ 
+ 9 
+ 
+2. Proposed Amendments to Existing Permanent Exemptions 
+The DMCA – including the provisions codified in 17 U.S.C. Sections 1201 and 512 – 
+embodies a compromise negotiated at length among all stakeholders, including creators and 
+copyright owners, Internet service and website providers, consumer electronics companies, 
+libraries, and organizations representing the interests of consumers.  This compromise included 
+securing adequate prohibitions against undermining the integrity of technological protection 
+measures and incentives for service provider cooperation in dealing with the proliferation of 
+infringing material online in exchange for limitations on liability for service providers and the 
+creation of a regulatory process by which consumers, libraries and others could propose new, 
+temporary exemptions to the anti-circumvention prohibitions.  As changes to existing statutory 
+provisions are considered, we urge the Register – and Congress – to be mindful of this bigger 
+picture when considering how any changes to portions of Section 1201 would affect the delicate 
+balance that the DMCA represents.  With respect to the permanent exemptions included in 
+Section 1201 in particular, these exemptions reflect the outcome of careful, complex, and 
+consensus-oriented negotiations among affected parties.  Given the significance and technical 
+nature of the issues raised, and the potential impact of changes on the affected industry sectors, 
+modifications to these statutory exemptions, if any, should reflect a similar consensus. 
+(a) Adoption of Regulatory Security Research Exemption    
+At the conclusion of the 2015 rulemaking proceeding, AAP, ESA, MPAA and RIAA 
+were surprised and disappointed to see that the exemption granted for security research was 
+drafted to apply to “a device or machine primarily designed for use by individual consumers.”  
+As noted in the Additional Comments of DVD CCA and AACS LA, at 4-5, the record before the 
+Copyright Office at that time had focused on cars, medical devices, and voting machines, not on 
+devices used by consumers to view and listen to expressive works.  Thus, the exemption should 
+have been tailored accordingly.  The fact that it was not renders it a poor candidate for 
+recommendation as a permanent legislative amendment to the statute. 
+Moreover, prior exemptions granted by the Librarian related to security research targeted 
+specific types of works after actual marketplace occurrences indicated that access controls 
+protecting such works might themselves be creating security vulnerabilities.  See, e.g., Final 
+Rule, 71 Fed. Reg. 68,472 (Nov. 27, 2006) (announcing exemption related to sound recordings 
+and access controls causing security vulnerabilities).  Once those circumstances changed, these 
+exemptions were not renewed.  That is exactly how the rulemaking process is supposed to work 
+and why it is superior to legislation.   
+Another reason that continuing to consider these issues in the context of the rulemaking is 
+preferable is that the additional comments filed in this docket indicate that the proponents of a 
+new security research exemption do not consider the exemption granted in 2015 to be sufficient.  
+See, e.g., Additional Comments of Electronic Frontier Foundation (“EFF”) at 6; Additional 
+Comments of CDT at 4; Additional Comments of Rapid7, Bugcrowd, HackerOne, and Luta 
+Security at 5.  Indeed, one of them is suing the Librarian and the Copyright Office alleging just 
+that.  See Green v. U.S. Dept. of Justice, et al., Case No. 16-civ-01492 (D.D.C. filed July 21,
+
+[PAGE 10]
+ 
+ 
+ 10 
+ 
+2016).14  Despite the fact that the Copyright Office carefully considered the issues and granted a 
+(rather broad) exemption that is limited in commonsense ways to prevent abuse, these 
+proponents would no doubt return in the next triennial proceeding to request broader exemptions 
+– even if the language recently adopted by the Copyright Office were codified by statute.  Thus 
+the time and effort involved in pursuing legislation in this area would be wasted.  Cf. Additional 
+Comments of Public Knowledge at 2 (insisting on an exemption permitting all circumvention 
+unless committed with intent to infringe:  “A too narrow exemption would result in the intended 
+beneficiaries having to avail themselves of the triennial exemption process anyway, rendering 
+pointless the entire exercise of implementing new permanent exemptions.”).   
+ (b) Revisions to 1201(j)(1) 
+AAP, ESA, MPAA, and RIAA oppose eliminating the statutory requirement that security 
+testing be undertaken “with the authorization of the owner or operator of [the] computer, 
+computer system, or computer network.”  17 U.S.C. § 1201(j)(1).  Doing so would appear to 
+authorize surreptitious invasions into the computers and networks of consumers, businesses and 
+other organizations for the purported purpose of protecting them from security vulnerabilities.  
+As the Conference Report on the DMCA noted, no one has the right to inspect the security of the 
+locks on someone else’s house.  See H.R. Rep. No. 105-796, 105th Cong. 2d Sess., at 67 (Oct. 8, 
+1998).  At a time where harmful data breaches and attacks on internet infrastructure occur daily, 
+hackers should not be given an additional broad defense to invoke when their invasive conduct is 
+identified.  See Additional Comments of BSA – The Software Alliance at 3; Additional 
+Comments of SIIA at 3; see also Major Cyber Attack Disrupts Internet Service Across Europe 
+and US, The Guardian, Oct. 21, 2016.  Although core copyright concerns are at the heart of 
+Section 1201, the statute should not ignore the very real threats posed by malicious hacking.  
+Moreover, while good faith, responsible security research, conducted by trained and careful 
+researchers, should be encouraged, the Copyright Office and Congress should not assume that 
+every person who fancies him or herself a “security researcher” will be able to avoid creating 
+more vulnerabilities than they discover.      
+ (c) Revisions to 1201(j)(3) 
+17 U.S.C. § 1201(j)(3) merely provides non-exhaustive factors for courts to consider 
+when presented with a security testing defense to a Section 1201 claim.  There is no reason to 
+delete these commonsense factors.
+15 
+                                                 
+14 Professor Matthew Green, the chief proponent of a security testing exemption in the 2015 rulemaking 
+proceeding, is the named Plaintiff in the suit, which is part of a wide-ranging effort by his attorneys at the 
+Electronic Frontier Foundation aimed at rendering all digital rights management technologies impotent.  
+See Cory Doctorow, EFF is Suing the US Government to Invalidate the DMCA’s DRM Provisions, Boing 
+Boing, July 21, 2016 (“With this lawsuit, the EFF has fired a starter pistol in the race to repeal section 
+1201 of the DMCA and its cousins all over the world.”).  
+15 If the Copyright Office is concerned that good-faith research is being chilled by the existence of these 
+factors, perhaps “the Office could pursue administrative clarification by issuing guidance as to the 
+Office’s interpretation of the meaning and appropriate application of those factors.”  Additional 
+Comments of CDT at 6.  As CDT stated, such guidance is preferable to legislation that, in CDT’s view, 
+“would not fully address 1201(j)’s uncertainties.”  Id.
+
+[PAGE 11]
+ 
+ 
+ 11 
+ 
+The first factor states that courts should consider whether “the information derived from 
+the security testing was used solely to promote the security of the owner or operator of [a] 
+computer, computer system or computer network…”  This language appropriately cautions 
+courts that defendants should not be allowed to prevail on a security testing defense when they 
+engage in such testing while simultaneously engaging in some other nefarious or unrelated 
+activity.  See, e.g., Universal City Studios, Inc. v. Reimerdes, 111 F. Supp. 2d 294, 319-322 
+(S.D.N.Y. 2000). 
+The second factor is even more benign.  It simply instructs courts to consider “whether 
+the information derived from the security testing was used or maintained in a manner that does 
+not facilitate copyright infringement under this title or a violation of applicable law other than 
+this section, including a violation of privacy or breach of security.”  AAP, ESA, MPAA, and 
+RIAA cannot discern any reason to consider deletion of this language, which is obviously 
+intended to prevent bad actors from enabling infringement or obtaining unauthorized access to 
+computers and systems belonging to others under the guise of security testing.   
+ (d) Revisions to 1201(g) 
+Like Section 1201(j), 1201(g) includes commonsense limitations on persons planning to 
+engage in encryption research, to minimize potential abuse of the exemption.  None of these 
+limitations should be deleted. 
+First, the statute requires that “the person lawfully obtained the encrypted copy, 
+phonorecord, performance, or display of the published work.”  Under no circumstances should 
+people be allowed to obtain copies of works unlawfully in order to engage in encryption 
+research.   
+Second, the statute requires that the “act [of circumvention] is necessary to conduct such 
+encryption research.”  Given that the point of the defense created by 1201(g) is to enable 
+encryption research, there is no reason to allow encryption researchers to engage in 
+circumvention where it is unnecessary for them to do so to conduct their research. 
+Third, the statute requires that “the person made a good faith effort to obtain 
+authorization before the circumvention.”  It is important to note that this provision does not state 
+that where such permission is not obtained the researcher must cease and desist her research.  All 
+that is required is a good faith effort to obtain permission.  Given that organizations such as a 
+DVD CCA and AACS LA have stated in this docket that they stand ready and willing to 
+consider requests from researchers for licenses to engage in circumvention to conduct encryption 
+research (Additional Comments at 6), it is difficult to understand why researchers should not at 
+least attempt to collaborate with such groups before moving ahead with research. 
+Fourth, the statute requires that “such act does not constitute infringement under this title 
+or a violation of applicable law other than this section, including section 1030 of title 18 …”  
+Again, the legitimacy of this provision should be self-evident.  If a researcher is going to commit 
+infringement or otherwise violate the law, such as by gaining unauthorized access to someone 
+else’s computer, the law must not countenance that conduct.
+
+[PAGE 12]
+ 
+ 
+ 12 
+ 
+ (e) Revisions to 1201(f) 
+The statutory exemption related to reverse engineering requires that circumvention be 
+undertaken “for the sole purpose of identifying and analyzing those elements of the program that 
+are necessary to achieve interoperability of an independently created computer program with 
+other programs, and that have not previously been readily available to the person engaging in the 
+circumvention, to the extent such acts of identification and analysis do not constitute 
+infringement under this title.”  Congress included this language because the purpose of Section 
+1201(f) was to acknowledge the Ninth Circuit’s decisions in this area without expanding the 
+scope of fair use.  See Staff of House Comm. On the Judiciary, 105th Cong., Section-by-Section 
+Analysis of H.R. 2281 as passed by the United States House of Representatives on August 4, 
+1998, at 14 (Comm. Print 1998) (“Manager’s Report”) (“The objective is to ensure that the effect 
+of current case law interpreting the Copyright Act is not changed by enactment of this legislation 
+for certain acts of identification and analysis done in respect of computer programs.  See Sega 
+Enterprises Ltd. v. Accolade, Inc., 977 F.2d 1510, 24 U.S.P.Q.2d 1561 (9th Cir. 1992). … [T]he 
+goal of this section is to ensure that current law is not changed, and not to encourage or permit 
+infringement.  Thus, each of the acts undertaken must fall within the scope of fair use…”).  The 
+case law requires that intermediate copying involved in reverse engineering result in the creation 
+of a new product that does not copy from the reverse engineered product.  See Sony Computer 
+Entm’t, Inc. v. Connectix Corp., 203 F.3d 596, 606 (9th Cir. 2002).  By limiting the scope of the 
+exemption to identification and analysis, Congress conveyed that circumvention to gain access to 
+software for the purpose of copying and adapting it and including it in a new product, or merely 
+for the purpose of obtaining access to a work beyond that which has been purchased or licensed, 
+is not necessarily fair use.  The exemption should not imply otherwise and thus should not be 
+altered.  Exemption proponents who want to circumvent for a purpose other than identification 
+and analysis should make specific proposals in the context of the rulemaking.   
+EFF asserts that “the flaws” with the existing reverse engineering exemption “are so 
+serious that EFF is not aware of any case in which a permanent statutory exemption was held to 
+protect an act of circumvention or trafficking.”  Additional Comments of EFF at 6.  But that is 
+not evidence that the statute is failing.  Instead, it is evidence that EFF’s claims regarding the 
+number of threats researchers face are overstated.  Good-faith researchers simply are not being 
+sued under Section 1201 for reverse engineering.  That is why there are no reported cases of 
+Section 1201(f) being successfully asserted.  Comments such as those submitted by Mozilla, 
+which asserts without citation that we live “in a climate of high-volume litigation by copyright 
+maximalists” (Additional Comments at 4) are simply not reflective of reality. 
+3. Anti-Trafficking Provisions 
+Several commenters urged the Copyright Office to embrace interpretations of the 
+DMCA’s anti-trafficking provisions that are inconsistent with the language of the statute and its 
+legislative history.  For example, The Motor & Equipment Manufacturers Association 
+(“MEMA”) argued that “whether TPMs may be lawfully circumvented depends on whether 
+circumvention is done at the direction of a lawful possessor of the work.  If the work is possessed 
+lawfully, then fair use permits that user or his or her agent to circumvent the TPM.”  Additional 
+Comments of MEMA at 7.  But, without exception, that reading of the statute has been expressly 
+rejected by the courts, which have held that there is no fair use defense to a violation of Section
+
+[PAGE 13]
+ 
+ 
+ 13 
+ 
+1201.  See, e.g., Universal City Studios, Inc. v. Corley, 273 F.3d 429, 444 (2d Cir. 2001); 321 
+Studios v. Metro Goldwyn Mayer Studios Inc., 307 F. Supp. 2d 1085, 1097-98 (N.D. Cal. 2004). 
+Similarly, Consumer Technology Association (“CTA”) argued that “[t]he drafters of the 
+DMCA did not consider it to be trafficking for a retailer to provide specific, expert assistance or 
+necessary materials to a consumer, where the consumer’s right to engage in lawful activity has 
+been specifically confirmed by the Librarian.”  Additional Comments of CTA at 2; see also 
+Additional Comments of Institute for Scarp Recycling at 3 (“[Section 1201] should be read as 
+containing an implied right … fo r third parties to assist [exemption] beneficiaries in unlocking 
+devices or to unlock devices for them, as well as for third parties to make and offer tools for 
+beneficiaries to use in engaging in permitted circumvention.”).  This position is contradicted by 
+the plain language of 17 U.S.C. § 1201(a)(1)(E), which states that no “determination made in a 
+rulemaking conducted under subparagraph (C), may be used as a defense in any action to enforce 
+any provision of this title other than this paragraph.”  See also Manager’s Report at 8 (“[I]t 
+would not provide a defense to a claim based on the manufacture or sale of devices under 
+paragraph (2) or section (b)(1), or to a copyright infringement claim.”).  The Copyright Office 
+has reached this conclusion numerous times in the past.  See, e.g., Notice of Inquiry, 79 Fed. 
+Reg. 55,687, 55,688 n.2 (Sept. 17, 2014).  
+Nothing in CTA’s Additional Comments or anywhere else in the record justifies 
+changing the Copyright Office’s position or recommending any revision to Section 1201 that 
+would undermine the anti-trafficking prohibitions.
+16  As multiple witnesses explained at the 
+public roundtables, it is imperative that the rulemaking proceedings not result in circumvention 
+devices or software being easily accessible in legitimate retail stores like Wal-Mart, Best Buy, or 
+Amazon.com.  See, e.g., May 19, 2016 Transcript at 16 (statement of Mr. Zuck, The App 
+Association) (“There’s still going to be people that gain access to technology.  But the 
+widespread acceptability of that knowledge, that I just walk into a Best Buy, for example, and 
+buy software to break encryption is I think what really has changed by the legal provisions that 
+have been put in place.”); id. at 22 (statement of Mr. Dow, The Walt Disney Company) 
+(“[W]hen we were in litigation with 321 Studios over CSS hacking technology, that was exactly 
+the issue, that you could walk into Fry’s and Best Buy and buy consumer-friendly hacking 
+technology to rip DVDs.  And the litigation that was involved there didn’t remove the ability to 
+hack DVDs.  But it did take that activity and put it on the fringe while leaving a channel in the 
+mainstream that helped promote the availability of new business models.”); May 25, 2016 
+Transcript at 166-67 (statement of Mr. Reed, Fox Entertainment Group) (“So you can’t buy these 
+                                                 
+16 CTA relies on the Unlocking Consumer Choice and Wireless Competition Act, which is inapposite.  
+Although there Congress instructed the Librarian to expand exemptions related to mobile phone 
+unlocking to cover circumvention by certain persons at the direction of device owners, that law (i) was 
+strictly limited by Congress to apply to this narrow category of circumvention (which is unrelated to 
+accessing expressive works) and (ii) does not alter the anti-trafficking provisions of 17 U.S.C. § 
+1201(a)(2) or (b).  S. Rep. No. 113-212, 113th Cong., 2d Sess., at 6 (July 17, 2014) (“Unlocking a cell 
+phone or other wireless device enables the device owner to connect his or her device to a wireless 
+telephone network of his or her choice, and does not enable the device owner, or a third party on an 
+owner’s behalf, to engage in other activities that infringe copyrighted works.”); H.R.  Rep. No. 113-356, 
+113th Cong., 2d Sess., at 9 (Feb. 25, 2014) (“Nothing in this Act is intended to serve as a limitation on 
+section 1201(a)(2) or section 1201(b), which remain critical to the effectiveness of Chapter 12 of Title 17 
+and are in no way altered or modified by the provisions of this legislation.” ).
+
+[PAGE 14]
+ 
+ 
+ 14 
+ 
+tools as a general matter at a place like Best Buy, and so consumers think twice when they 
+engage in that sort of conduct that those tools enable.  And that’s exactly, I think, the world that 
+Congress envisioned when it passed the anti-trafficking provisions in the DMCA.”).  That 
+undesirable scenario is exactly what would result from adopting CTA’s position.
+17   
+Although it is true that Sections 1201(a)(2) and 1201(b) require a plaintiff to prove that a 
+device or service “is primarily designed or produced” for the purpose of circumvention, “has 
+only limited commercially significant purpose or use” other than circumvention, or “is 
+marketed” for use in circumvention, the “substantial non-infringing use” test used by courts in 
+contributory infringement cases is not a defense to a Section 1201 claim.  EFF’s assertions 
+(Additional Comments at 8) to the contrary are incorrect.  See Manager’s Report at 9 (“The Sony 
+test of ‘capab[ility] of substantial non-infringing uses,’ while still operative in cases claiming 
+contributory infringement of copyright, is not part of this legislation, however.”).  Moreover, 
+EFF’s suggestion that the test should be whether achieving circumvention is why “[c]ustomers 
+are attracted to a service,” would inevitably lead to infringement of, or unauthorized access to, 
+works protected by technological protection measures, and should therefore be rejected.  As 
+stated in the Additional Comments of AAP, ESA, MPAA and RIAA, very few people engage in 
+circumvention for its own sake.  If a customer is attracted to a service not because she is 
+interested in circumvention, but because she wants to create copies of Blu-ray Discs or play 
+pirated copies of video games on a console, that service is of course prohibited by Section 1201 
+(as it should be).
+18    
+While AAP, ESA, MPAA, and RIAA acknowledge that circumvention in the context of 
+automobile repair or other forms of repair might present a unique and distinguishable set of 
+circumstances, nothing in the record of this docket supports concluding that there is a need to 
+amend the statutory provisions of Sections 1201(a)(2) or 1201(b) to permit additional forms of 
+“third-party assistance.”  These anti-trafficking provisions are crucial to the successes the music, 
+                                                 
+17 CTA claims its position is supported by a floor statement made by Congressman Bliley:  “Given our 
+keen interest in the development of new products, in particular digital television monitors, the Committee 
+is particularly concerned that the introduction of [technological] measures not frustrate consumer 
+expectations and that this legislation not be interpreted to in any way limit the authority of manufacturers 
+and retailers to address the legitimate concerns of their consumers.”  Additional Comments of CTA at 3 
+(citing 144 Cong. Rec. H7094 (Aug. 4, 1998)).  This statement had nothing to do with whether creating 
+exemptions in the rulemaking results in limitations on the applicability of the anti-trafficking provisions.  
+It instead related to Mr. Bliley’s concern that the bill should not “make it illegal for a manufacturer of a 
+product or device (to which section 1201 would otherwise apply) to design or modify the product or 
+device to the extent necessary to mitigate a frequently occurring and noticeable adverse effect on the 
+authorized performance or display of a work that is caused in the ordinary course of its design and 
+operation.”  144 Cong. Rec at H7095.  See also 17 U.S.C. § 1201(k) (Certain Analog Devices and Certain 
+Technological Measures).   
+18 The danger of EFF’s approach is also present in the approach proffered by iFixit.  They suggested that 
+“most repair services” do not violate the anti-trafficking provisions because their primary purpose is to 
+“improve the functionality of products that include software; circumvention is merely a mechanism by 
+which this broader purpose must sometimes be achieved.”  Additional Comments of The Repair 
+Association and iFixit at 17.  Undoubtedly, a person who wants to play pirated copies of video games on 
+his console or play pirated copies of movies on his Blu-ray Disc player would consider hacks that enabled 
+him to do so to “improve the functionality” of those devices.
+
+[PAGE 15]
+ 
+ 
+ 15 
+ 
+publishing, entertainment software, movie and television industries have had in the digital 
+market.   
+III. Conclusion 
+Nothing submitted in four rounds of comments in this docket and during multiple days of 
+public roundtables establishes a need to recommend legislative changes to Section 1201.  AAP, 
+ESA, MPAA, and RIAA oppose any such changes.   
+DATE: November 16, 2016 
+Respectfully submitted: 
+ 
+_____________________ 
+Allan R. Adler 
+General Counsel 
+Vice President for Government Affairs 
+Association of American Publishers 
+455 Massachusetts Ave., NW, 7th Floor 
+Washington, DC 20001 
+(phone) 202-220-4544 
+(email) adler@publishers.org 
+ 
+ 
+_____________________ 
+Stanley Pierre-Louis 
+Senior Vice President and General Counsel 
+Entertainment Software Association 
+601 Massachusetts Avenue NW 
+Suite 300 
+Washington, DC 20001 
+(phone) 202-223-2400 
+(email) stan@theESA.com 
+ 
+ 
+_____________________ 
+Benjamin S. Sheffner 
+Vice President, Legal Affairs 
+Motion Picture Association of America, Inc.
+
+[PAGE 16]
+ 
+ 
+ 16 
+ 
+15301 Ventura Blvd., Bldg. E 
+Sherman Oaks, CA 91403 
+(phone) 818- 935-5784 
+(email) Ben_Sheffner@mpaa.org 
+ 
+ 
+_____________________ 
+Susan B. Chertkof 
+Senior Vice President, Business and Legal Affairs 
+Recording Industry Association of America, Inc. 
+1025 F Street NW, 10th Floor 
+Washington, DC 20004 
+(phone) 202-775-0101 
+(email) schertkof@riaa.com

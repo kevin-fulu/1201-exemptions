@@ -1,0 +1,513 @@
+[PAGE 1]
+ 
+ 
+Before the 
+U.S. Copyright Office 
+Library of Congress 
+ 
+ 
+In the Matter of: 
+ 
+Section 1201 Study: Notice and 
+Request for Public Comment 
+ 
+ 
+ 
+Docket No. 2015-8 
+ 
+COMMENTS OF THE ENTERTAINMENT SOFTWARE ASSOCIATION 
+ 
+The Entertainment Software Association (“ESA”) welcomes the opportunity to provide 
+these Comments in response to the Copyright Office’s Notice of Inquiry (“NOI”) concerning the 
+operation of Section 1201 of the Copyright Act.1  ESA is the U.S. trade association serving 
+companies that publish computer and video games for video game consoles, handheld gaming 
+devices, personal computers, and the Internet.  It represents nearly all of the major video game 
+publishers and major gaming platform providers in the U.S.2   
+Section 1201 serves the public interest well.  American life and culture has been 
+tremendously enriched by new copyrighted works, and new ways to enjoy those works, that have 
+been made possible by the protections provided by Section 1201.  This is particularly true in the 
+video game industry, where platform and content creators have brought to consumers a vast 
+array of new game experiences, new ways to access and enjoy game content, and new ways to 
+experience non-game content such as music, films, television shows and live sports 
+programming.  All of these innovations have been made possible by technological measures used 
+to secure creative content and the software that permits consumers to buy and render it.  And 
+                                                 
+1 Section 1201 Study: Notice and Request for Public Comment, 80 Fed. Reg. 81,369 (Dec. 29, 2015). 
+ 
+2 See http://www.theesa.com/about-esa/members/ (listing ESA’s members).
+
+[PAGE 2]
+ 
+2 
+while triennial rulemaking proceedings require substantial resources from the Office and all 
+other significant participants, the breadth and importance of this process makes that result 
+unavoidable.  It is possible that some adjustments to the Copyright Office’s procedures for 
+triennial rulemakings may be warranted, but overall, Section 1201 is doing a very good job of 
+serving the purposes of copyright, including supporting innovation and promoting access to 
+creative works.   
+I. Introduction 
+As the Office recognized at the conclusion of the sixth triennial rulemaking under Section 
+1201, the Copyright Act’s prohibitions on circumvention of technological protection measures 
+have “played a critical role in the development of the digital marketplace that is a defining 
+feature of modern life.”3  Specifically, when Congress enacted Section 1201, it anticipated that 
+technological protection measures would be used to “support new ways of disseminating 
+copyrighted materials to users.”4  That is precisely what has happened in the nearly twenty years 
+since the DMCA.  As a result, the anticircumvention provisions have “fostered widespread 
+dissemination and enjoyment of creative works by establishing legal protections for copyrighted 
+content . . . .”5   
+The NOI notes that “the use of technological measures has been useful in expanding 
+consumer choice and the avenues for dissemination of creative works, for example movies and 
+                                                 
+3 Recommendation of the Register of Copyrights in the Sixth Triennial Proceeding to Determine Exemptions to the 
+Prohibition on Circumvention, at 1 (Oct. 2015) [hereinafter “2015 Register’s Recommendation”]; see also 80 Fed. 
+Reg. at 81,369 (referring to the “pivotal” role of the Digital Millennium Copyright Act (“DMCA”)).  
+ 
+4 Staff of H. Comm. on the Judiciary, 105th Cong., Section-by-Section Analysis of H.R. 2281 as Passed by the 
+United States House of Representatives on August 4th, 1998, at 6 (Comm. Print 1998) [hereinafter “House 
+Manager’s Report”].  
+ 
+5 2015 Register’s Recommendation, at 1.
+
+[PAGE 3]
+ 
+3 
+video games.”6  The Office’s reference to video games is appropriate, because the video game 
+industry has been tremendously successful at providing Americans access to new works and new 
+means of accessing works.  About 80% of U.S. households own a device used to play video 
+games, and 51% of U.S. households own a dedicated game console.7  Over 150 million 
+Americans play video games, and 42% of Americans play video games regularly, or at least 
+three hours per week.8  In addition to playing games, 54% of gamers who own consoles use them 
+to watch movies, 33% use them to watch television shows, 27% use them to listen to music, and 
+20% use them to watch live and other content.9  In 2015, the industry generated U.S. revenues of 
+$23.5 billion from sales of hardware, game software, other content, accessories and services.10  
+Indeed, video games are “the fastest growing sector of the entertainment industry and an 
+important driver of economic growth, creating millions of jobs, generating much-needed tax 
+revenues and offering exciting opportunities for talented creators and engineers from all corners 
+of the globe.”11 
+This success depends significantly on the protections provided by Section 1201.  Of 
+course, video game publishers rely on access and copy controls to reduce infringement of the 
+thousands of original video games they create each year.  However, technological protection 
+measures are used in the game industry to enable a much broader range of exciting new 
+                                                 
+6 80 Fed. Reg. at 81,372. 
+ 
+7 ESA Essential Facts about the Computer and Video Game Industry, at 2 (Apr. 2015), available at 
+http://www.theesa.com/wp-content/uploads/2015/04/ESA-Essential-Facts-2015.pdf. 
+ 
+8 Id.  
+ 
+9 Id. at 6. 
+ 
+10 ESA, U.S. Video Game Industry Generates $23.5 Billion in Revenue for 2015 , available at 
+http://www.theesa.com/article/u-s-video-game-industry-generates-23-5-billion-in-revenue-for-2015/ 
+ 
+11 David Greenspan, S. Gregory Boyd and Jas Purewal, Video Games and IP: A Global Perspective, WIPO 
+Magazine (Apr. 2014), available at http://www.wipo.int/wipo_magazine/en/2014/02/article_0002.html.
+
+[PAGE 4]
+ 
+4 
+consumer offerings.  Video game consoles are the center of an intellectual property ecosystem 
+that makes a wide variety of copyrighted content easily and legally accessible.  Each of the three 
+major home consoles works in tandem with an integrated, console-specific online network.12  
+These networks provide an array of functions in support of game play, including announcements 
+for new games, downloading of games, enabling multiplayer game play, expansion packs and 
+updates, tournaments, tracking of trophies and achievement badges, social and community 
+features, and customization of avatars.  These networks also provide access to non-game 
+entertainment services, including movies, television shows, music and live sports programming.  
+The creative content available through these networks comes from partners ranging from the 
+largest media companies to the smallest independent producers and developers.   
+In addition to physical game consoles and their associated networks, consumers also may 
+access, obtain and play video games through online game platforms, such as Electronic Arts’ 
+Origin13 and Blizzard’s Battle.net.14  Separately, game publishers develop video game software 
+for other multipurpose platforms, such as the Windows Store and Apple’s App Store, which 
+serve as digital hubs for games playable on mobile phones, tablets and PCs.  Game publishers 
+also offer games directly to consumers that are played exclusively online through a PC platform, 
+in some cases through a game client that connects to the publishers’ servers and often through a 
+web browser interface.   
+To secure this content, the industry has designed technological protection measures to 
+support the creation and distribution of copyrighted works.  These controls enable the 
+                                                 
+12 See, e.g., Xbox Entertainment, http://www.xbox.com/en-US/entertainment?xr=shellnav; Nintendo Wii U eShop, 
+http://www.nintendo.com/wiiu/eshop; PlayStation Entertainment, http://www.playstation.com/en-
+us/explore/playstationnetwork/apps-and-entertainment/. 
+ 
+13 https://www.origin.com/en-us/store/origin-access. 
+ 
+14 http://us.battle.net/en/.
+
+[PAGE 5]
+ 
+5 
+distribution of copyrighted works through physical media (e.g., video game discs, DVDs, and 
+Blu-ray discs), downloadable files (e.g., video games, expansion packs, video game add-ins and 
+television and movie programming), and live streaming (e.g., online games, music, movies, and 
+television programming), while preventing individuals from making unauthorized copies of this 
+content, distributing it to others, or using a console to play infringing copies of such works.  
+These measures including access controls on video game consoles and other devices that ensure 
+that content played on such devices is legitimate, and not infringing.  The companies that create 
+and make available games and other content for use on gaming devices depend on these access 
+controls to prevent unauthorized copying of their content.  
+The game industry devotes significant resources on an ongoing basis to maintaining 
+security for their games, platforms and non-game content distributed through their platforms.  
+These efforts have helped reduce infringement.  For example, a recent TorrentFreak article 
+lamented that “increasingly pirates are being made to wait for big titles to have their protection 
+defeated,” and that the security on one product was so good that a particular hacker “nearly gave 
+up.”15  Still, games and the devices that play them are under constant assault by hackers, and 
+numerous providers make available tools to assist others in hacking the security measures built 
+into video game consoles.16   
+In the face of constant efforts to hack technological protection measures, the video game 
+industry and its partners depend upon the legal protections provided by Section 1201 to provide 
+consumers with exciting new content and new ways to obtain and interact with content.  The 
+                                                 
+15 No More Pirated Games in Two Years, Cracking Group Warns, TorrentFreak (Jan. 6, 2016), available at 
+https://torrentfreak.com/no-more-pirate-games-in-two-years-group-warns-160106/; see also Patrick Klepek, The 
+Anti-Piracy Tech That’s Giving Hackers Fits, Kotaku (Feb. 17, 2016), available at http://kotaku.com/the-anti-
+piracy-tech-thats-tearing-video-game-hackers-a-1759518600. 
+ 
+16 E.g., http://jailbreaksoftwaredownload.com/xbox360-jailbreak/; https://hackmii.com/; 
+http://sonyps3jailbreak.com/; http://www.modchipcentral.com/store/.
+
+[PAGE 6]
+ 
+6 
+video game industry has invoked the Copyright Act’s protections against circumvention on a 
+number of occasions17 and, indeed, has probably done so more than any other industry.  Criminal 
+prosecutions also have been brought to help reduce circumvention of protection measures used in 
+game environments.18   
+If the technological protection measures that are applied to game consoles and works 
+distributed through consoles legally could be circumvented, copyright owners would be less 
+likely to make their highly valuable works available on consoles, and the American public would 
+have less access to new works and new means of accessing works.  While it is possible that the 
+Office’s study of Section 1201 will identify some adjustments to its procedures that would make 
+the Section 1201 system operate even more effectively, the Office should exercise caution in 
+evaluating any possible changes, because Section 1201 is working very well.   
+II. The Office’s Specific Areas of Inquiry  
+General 
+1. Please provide any insights or observations regarding the role and effectiveness 
+of the prohibition on circumvention of technological measures in section 1201(a). 
+ As described more fully above, the protections provided by Section 1201(a) have been 
+extremely important to the video game industry and its partners that distribute their non-game 
+content through game consoles.  While Section 1201(b) is important too, Section 1201(a) is 
+                                                 
+17 E.g., MDY Industries, LLC v. Blizzard Entertainment, Inc., 629 F.3d 928 (9th Cir. 2010); Nexon American Inc. v. 
+Kumar, No. 2:11–cv–06991–ODW(PJWx), 2012 WL 1116328 (C.D. Cal. Apr. 3, 2012); Sony Computer 
+Entertainment America v. Zoomba LDC, No. C 10–3909 VRW, 2010 WL 4512835 (N.D. Cal. Oct. 5, 2010); 
+Blizzard Entertainment, Inc. v. Reeves, No. CV 09-7621 SVW (AJWx), 2010 WL 4054095 (C.D. Cal. Aug. 10, 
+2010); Nintendo of America Inc. v. Chan, No. CV 09-4203 JFW, 2009 WL 2190186 (C.D. Cal. July 21, 2009); Epic 
+Games, Inc. v. Altmeyer, No. 08-CV-0764-MJR, 2008 WL 4853634 (S.D. Ill. Nov. 5, 2008); Sony Computer 
+Entertainment America, Inc. v. Divineo, 457 F. Supp. 2d 957 (N.D. Cal. 2006); Sony Computer Entertainment 
+America, Inc. v. Filipiak, 406 F. Supp. 2d 1068 (N.D. Cal. 2005); Davidson & Associates, Inc. v. Internet Gateway, 
+Inc., 334 F.Supp.2d 1164 (E.D. Mo. 2004); Nintendo of America Inc. v. Bung Enterprises, Ltd., No. 97–8511–GAF 
+(VAPx), 1999 WL 34975007 C.D. Cal. Dec. 14, 1999); Sony Computer Entertainment America v. Gamemasters, 87 
+F. Supp. 2d 976, 981 (N.D. Cal. 1999). 
+ 
+18 E.g., U.S. v. Reichert, 747 F.3d 445 (6th Cir. 2014); U.S. v. Silvius, 559 Fed. Appx. 490 (6th Cir. 2014).
+
+[PAGE 7]
+ 
+7 
+crucial, because the best way to secure a copyrighted work from unauthorized copying or other 
+infringement is often to limit access to the work or to the software used to render the work (such 
+as in the case of a video game platform).  Through the use of innovative technological protection 
+measures – backed up by the legal protections provided by Section 1201 – the video game 
+industry has been able to make meaningful progress at combating infringement of the copyrights 
+in video games, such that some hackers are now complaining that breaking the security measures 
+applied to video games has become too hard.  As a result, the industry has been able to provide 
+secure distribution networks that are attractive to content partners.  This has led to an outpouring 
+of exciting new games, as well as new methods and business models for consumers to access 
+games, game-related services, and non-game content.  Section 1201 is, in the video game 
+industry at least, a resounding policy success story. 
+2. How should section 1201 accommodate interests that are outside of core 
+copyright concerns, for example, in cases where circumvention of access controls 
+protecting computer programs implicates issues of product interoperability or 
+public safety? 
+Section 1201 plays a vital role in enabling and protecting creative expression that lies 
+“within the core of the copyright’s protective purposes,”19 such as video games.20  Outside of 
+core copyright concerns, Section 1201 already accommodates other interests in several ways.  
+First, various “permanent” exemptions address government activities (Section 1201(e)), reverse 
+engineering to achieve interoperability (Section 1201(f)), encryption research (Section 1201(g)) 
+and security testing (Section 1201(j)).  Second, the triennial rulemaking process provides a 
+flexible means of accommodating interests outside of core copyright concerns in a way that a 
+                                                 
+19 Campbell v. Acuff-Rose Music, Inc., 510 U.S. 569, 586 (1994). 
+ 
+20 See generally Catherine Jewell, Video Games: 21st Century Art, WIPO Magazine (Aug. 2012), available at 
+http://www.wipo.int/wipo_magazine/en/2012/04/article_0003.html.
+
+[PAGE 8]
+ 
+8 
+permanent statutory provision never could.21  Finally, the courts have found sufficient flexibility 
+in Section 1201 to address competitive concerns expressed as to cases arising from factual 
+scenarios outside the usual core of copyright protection.22  
+The last 20 years have seen an explosion of new works and new means to access works 
+made possible by Section 1201, yet through these existing mechanisms, a wide array of interests 
+that are outside of core copyright concerns have been accommodated.  Any proposals to modify 
+Section 1201 to address non-copyright concern should be evaluated with caution, to avoid 
+creating loopholes that every hacker group in the world could rely upon to attack every 
+technological protection measure with impunity, under the guise of a permitted use.   
+Rulemaking Process 
+3. Should section 1201 be adjusted to provide for presumptive renewal of 
+previously granted exemptions—for example, when there is no meaningful 
+opposition to renewal—or otherwise be modified to streamline the process of 
+continuing an existing exemption?  If so, how? 
+ ESA does not believe that Section 1201 needs to be amended to provide for presumptive 
+renewal of previously granted exemptions.  Indeed, ESA believes that the triennial rulemaking 
+process generally has worked satisfactorily to provide a safety valve so that Section 1201’s 
+important protections do not inadvertently create undue restraints on noninfringing and socially 
+beneficial uses.   
+However, most people who have been involved significantly in a triennial rulemaking 
+proceeding would likely agree that those proceedings are resource-intensive.  Having 
+                                                 
+21 See 2015 Register’s Recommendation, at 3, 241-44, 248. 
+ 
+22 See Lexmark Intern., Inc. v. Static Control Components, Inc., 387 F. 3d 522 (6th Cir. 2004) (authentication of 
+laser printer toner cartridges); Chamberlain Group, Inc. v. Skylink Technologies, Inc., 381 F.3d 1178 (Fed. Cir. 
+2004) (interoperability of garage door openers).
+
+[PAGE 9]
+ 
+9 
+participated in all six such proceedings,23 ESA certainly holds that view.  Thus, ESA agrees with 
+the Office that it is attractive to look for ways to “streamline” such proceedings to “reduce 
+administrative burdens on both the participants and the Copyright Office.”24  Accordingly, ESA 
+is open to the possibility of adjustments in the Copyright Office’s procedures to streamline the 
+triennial proceedings within the current statutory framework, if the Office believes that such 
+changes are warranted. 
+ While statutory change is unnecessary, ESA would not oppose adjustments in the 
+Copyright Office’s procedures to provide a presumption of renewal of a previously granted 
+exemption by shifting the burden of persuasion for such renewal.  This would not change the de 
+novo nature of the review in each proceeding, but simply mean that where renewal was proposed 
+with a claim that the circumstances that had justified the adoption of the exemption persist and 
+support a renewal, and there was no opposition to such renewal (e.g., suggesting that 
+circumstances had changed), the exemption could be re-adopted in the same form previously 
+adopted without further proof.25  To the extent the Office may wish to modify its procedures to 
+                                                 
+23 ESA sometimes has participated through joint comments filed with other copyright owner groups, and at the time 
+of the first two triennial rulemakings was known as the Interactive Digital Software Association.  
+ 
+24 80 Fed. Reg. at 81,371. 
+ 
+25 Historically, when exemptions covering similar subject matter have been adopted in sequential proceedings, they 
+sometimes have remained the same and sometimes have been modified to address current products and use cases.  
+For example, there have been exemptions to permit the blind, visually impaired and print-disabled to access e-books 
+and similar products since the second triennial rulemaking.  See 68 Fed. Reg. 62,011, 62,014 (Oct. 31, 2003).  A 
+modified version of the exemption was adopted in the third triennial proceeding.  Recommendation of the Register of 
+Copyrights in RM 2005-11, at 40-42 (Nov. 2006).  The same exemption was readopted in the fourth proceeding.  75 
+Fed. Reg. 43,825, 43,838-39 (July 27, 2010).  By the fifth proceeding, “the marketplace was very different,” so the 
+exemption was revised again.  See 77 Fed. Reg. 65,260, 65,262-63 (Oct. 26, 2012).  The exemption was readopted 
+without material change in the sixth proceeding.  80 Fed. Reg. 65,944, 65,950 (Oct. 28, 2015).  Similarly, in the first 
+triennial proceeding, the Librarian adopted an exemption for literary works protected by access controls that 
+malfunctioned or had become obsolete.  65 Fed. Reg. 64,556, 64,574 (Oct. 27, 2000).  In the second triennial 
+proceeding, the Office adopted a pair of exemptions addressing similar issues, but limited only to computer 
+programs (including in one case video games) and in more specific circumstances.  68 Fed. Reg. at 62,018.  The 
+Librarian adopted similar exemptions in the third triennial proceeding, but with further changes in scope and 
+clarifications.  71 Fed. Reg. 68,472, 68,480 (Nov. 27, 2006).  One of those exemptions was proposed for
+
+[PAGE 10]
+ 
+10 
+provide a presumption of renewal of unopposed exemptions, ESA encourages the Office to 
+incorporate a mechanism to ensure that the regulations implementing Section 1201 do not 
+become a repository for outmoded and unnecessary exemptions that continue only because 
+nobody cares enough to address them one way or the other.  In the past, when exemptions have 
+become irrelevant, gone unused, or been viewed as not important enough to pursue, they have 
+been retired without significant controversy or obvious adverse consequences.26  It would be 
+desirable to retain some form of periodic review to ensure that only exemptions that are current 
+and important remain on the books.   
+ESA also notes that the Office has already eased the burden of proof on those who favor 
+continuation of an exemption, by specifying that a prima facie case for readoption of an existing 
+exemption need only “demonstrat[e] that the conditions that led to the adoption of the prior 
+exemption continue to exist today.”27  That existing provision comes close to a presumption of 
+renewal.  Accordingly, it may well be that the perceived benefits of a presumption of a renewal 
+could be substantially realized, while ensuring that the list of exemptions remains relevant, 
+simply by allowing proponents of continuing existing exemptions to make their prima facie 
+cases during the petition phase, and requiring any opponents to indicate their intent to oppose at 
+an early stage.  Doing so would help all interested parties determine whether meaningful 
+                                                                                                                                                             
+continuation in the fourth triennial proceeding with additional modifications, but the Librarian decided to readop t 
+the exemption without the proposed modifications.  75 Fed. Reg. at 43,833-34.   
+ 
+26 For example, in the fifth triennial proceeding, no one re-proposed the exemption for malfunctioning and obsolete 
+access controls discussed above in note 25.  A similar exemption targeted to a particular product was proposed in the 
+sixth triennial proceeding and rejected for lack of evidence.  80 Fed. Reg. at 65,961.  As a further example, an 
+exemption for compilations consisting of lists of websites blocked by filtering software was adopted in the first 
+triennial proceeding.  65 Fed. Reg. at 64,574.  A similar exemption was adopted in the second triennial proceeding.  
+68 Fed. Reg. at 62,018.  It was proposed for readoption in the third proceeding, but the Lib rarian discontinued it, due 
+to a lack of evidence that it remained relevant.  71 Fed. Reg. at 68,477-78. 
+ 
+27 80 Fed. Reg. at 65,945; see also 79 Fed. Reg. 55,690 (Sept. 17, 2014) (“Assuming the proponent succeeds in 
+making such a demonstration, it is incumbent upon any opponent of that exemption to rebut such evidence by 
+showing that the exemption is no longer justified.”).
+
+[PAGE 11]
+ 
+11 
+controversy exists, allow proponents to avoid unnecessary expenditures of resources to build a 
+case that no one planned to oppose, and in the absence of opposition, permit the Office to focus 
+its efforts on determining whether the conditions that led to the adoption of the exemption 
+continue to exist. 
+4. Please assess the current legal requirements that proponents of an exemption 
+must satisfy to demonstrate entitlement to an exemption.  Should they be 
+altered?  If so, how?  In responding, please comment on the relationship to 
+traditional principles of administrative law. 
+Triennial rulemakings are burdensome and expensive for copyright owners because 
+proponents have placed at issue almost every meaningful use of technological protection 
+measures, including ones that are important to protecting valuable expressive works from large-
+scale infringement, even though the Office has historically rejected the majority of proposed 
+exemptions.  Moreover, even if an exemption has been soundly rejected once, some proponent 
+will often try again.  Under those circumstances, it seems to ESA that a way to keep triennial 
+proceedings manageable in scope is to rigorously enforce the current standards of proof for new 
+exemptions (and changes to existing exemptions).  The triennial rulemaking was intended as a 
+“‘fail-safe’ mechanism” to provide an exemption if “someday” it should prove “necessary” to 
+ensure access “important to education, scholarship, and other socially vital endeavors.”28  
+Consistent with that intention, the “main focus” of the proceeding should be on whether “a 
+substantial diminution of [the availability of works] is actually occurring.”29  If rulemaking 
+participants understand that proposed exemptions will be granted only when they are genuinely 
+necessary to enable significant lawful activities, and do not threaten legitimate markets for 
+copyrighted works, proponents will be motivated to seek exemptions only when there is a good 
+                                                 
+28 H.R. Rep. No. 105–551, pt. 2, at 36 (1998). 
+ 
+29 House Manager’s Report, at 6 (emphasis in original).
+
+[PAGE 12]
+ 
+12 
+case for them.  Any weakening of the high standards that should apply invites proposals to create 
+exemptions based on hypothetical fears, de minimis experience or mere inconvenience.   
+Moreover, just as the Office has already lowered the standard of proof where an 
+exemption has previously been granted, ESA believes the Office should consider modification of 
+the standard of proof where a similar proposed exemption has previously been rejected.  For 
+example, in the fifth triennial proceeding, the Office received a proposal to create an exemption 
+for circumvention of access controls on video game consoles.30  The Librarian rejected this 
+proposal, agreeing with the Register that “[c]onsole access controls . . . provide important 
+incentives to create video games and other content for consoles, and thus play a critical role in 
+the development and dissemination of highly innovative copyrighted works.”31  When a similar 
+exemption was proposed in the sixth triennial proceeding, it was again rejected.32  To avoid 
+wasting the resources of the Office and copyright owners revisiting issues that have previously 
+been decided, proponents of an exemption that has previously been rejected should be required 
+to show what conditions have changed that would compel a contrary decision in a subsequent 
+rulemaking. 
+5. Please provide additional suggestions to improve the rulemaking process. 
+ As indicated in the NOI and in ESA’s responses above, the triennial rulemaking process 
+has become quite involved.  In large part that may simply be the necessary result of a process 
+that potentially implicates a wide range of technologies and use cases, and has motivated 
+proponents to seek exemptions even when the case for them seems thin.  Thus, while ESA would 
+                                                 
+30 77 Fed. Reg. at 65,272. 
+ 
+31 Id. at 65,274.   
+ 
+32 80 Fed. Reg. at 65,961.
+
+[PAGE 13]
+ 
+13 
+in principle be receptive to ways to streamline the rulemaking process, ESA has no other specific 
+suggestions to make at this time.   
+Anti-Trafficking Prohibitions 
+6. Please assess the role of the antitrafficking provisions of sections 1201(a)(2) and 
+1201(b) in deterring copyright infringement, and address whether any 
+amendments may be advisable. 
+ The antitrafficking provisions of Section 1201 are extremely important to deterring 
+copyright infringement, as Congress has recently affirmed.33  Accordingly, ESA does not support 
+any amendments to those provisions.  As described above, copyright owners depend upon 
+technological protection measures when making decisions about creating and releasing new 
+product and service offerings.  Once made available to the public, those offerings are under 
+constant assault by hackers.  The antitrafficking provisions are a critical component of the legal 
+regime to protect copyrighted works from that onslaught. 
+ In the case of video games and other entertainment content available through gaming 
+devices, circumvention of access controls on gaming devices is closely connected with 
+infringement.  The video game industry has demonstrated that technology itself can sometimes 
+make strides against the constant onslaught of hackers.  However, with hackers working hard to 
+break every new security measure, video game companies still face a constant battle against 
+large-scale infringement.  A common business model for commercial operators to profit from 
+video game infringement is to sell circumvention technology or services for a fee to enable 
+customers to play infringing games on their consoles, and set up websites to monetize the 
+distribution of infringing game files (typically through the sale of advertisements on the site).  
+                                                 
+33 In the Trade Facilitation and Trade Enforcement Act, Congress recently authorized customs seizure of 
+circumvention devices, demonstrating its desire to strengthen rather than weaken the antitrafficking protections o f 
+Section 1201.  See Pub. L. No. 114-125 § 303 (enacted Feb. 24, 2016).
+
+[PAGE 14]
+ 
+14 
+ESA also sees commercial operators selling circumvention technology packaged with infringing 
+copies of games (e.g., circumvention devices preloaded with games, circumvention software 
+accompanied by a hard drive of infringing games).    
+Under these circumstances, it is important to be able to back up technological measures 
+with legal protection, just as Congress perceived in enacting the DMCA.  Specifically, where 
+both circumvention technology and infringing content are independently available from many 
+sources, it is important that copyright owners be able to target not only the infringement, but also 
+the trafficking in circumvention technology to reduce the attractiveness of the business models 
+described above.  Being able to target trafficking is also important because the actions of 
+distributors of circumvention technology are comparatively easy to detect, and targeting them is 
+the most effective and efficient way to protect the rights provided by Section 1201.34   
+If it were not possible to target distributors of such technology, and if the only means of 
+enforcing Section 1201 were to sue individual users for particular instances of circumvention, the 
+legal protections provided by Section 1201 would effectively be a nullity.  This conclusion has 
+been confirmed by the experience of video game companies in countries without robust 
+antitrafficking provisions.  In such countries, the people really profiting from circumvention are 
+effectively untouchable, and prohibitions on circumvention per se are of little practical utility in 
+preventing large-scale infringement.  Curtailing the U.S. antitrafficking provisions would 
+certainly lead to an increase in infringement. 
+                                                 
+34 See S. Rep. 105-190, at 28 (1998) (antitrafficking provisions included “to provide meaningful protection and 
+enforcement”).
+
+[PAGE 15]
+ 
+15 
+7. Should section 1201 be amended to allow the adoption of exemptions to the 
+prohibition on circumvention that can extend to exemptions to the 
+antitrafficking prohibitions, and if so, in what way?  For example, should the 
+Register be able to recommend, and the Librarian able to adopt, exemptions that 
+permit third-party assistance when justified by the record? 
+ Because the antitrafficking prohibitions are so critical to the operation of Section 1201 – 
+and to effective copyright protection for video games and other content distributed through 
+gaming platforms – ESA is skeptical of any suggestions to relax those provisions and does not 
+support any amendments to Section 1201 at this time.  ESA has seen no evidence that persons 
+with a genuine need and desire to engage in permitted circumvention for noninfringing purposes, 
+and who lack the ability to do so themselves, have been unable to acquire tools and assistance.  
+Instead, there is a very real risk that if exemptions to the antitrafficking provisions were provided 
+for limited purposes, it would effectively become impossible to enforce those provisions for any 
+purpose, because distributors of circumvention technologies that could be used for both legal and 
+illegal purposes would purport to serve the legal market while profiting from the widespread use 
+of their product for illegal purposes.   
+III. Conclusion 
+ESA welcomes the Office’s examination of the operation of Section 1201 of the 
+Copyright Act and agrees that it may be possible to make the Section 1201 system operate even 
+better with some minor adjustments.  However, ESA urges the Office to keep a clear eye on 
+Section 1201’s tremendous record of success at reducing infringement and promoting the 
+creation and dissemination of new creative works.  The Office should proceed cautiously to 
+ensure that Section 1201 continues to perform its vital role in opening new markets for creative 
+expression.
+
+[PAGE 16]
+March 3, 2016 
+Respectfully submitted, 
+Stanley Pierre-Louis, 
+Senior Vice President and General Counsel 
+Ben Golant, 
+Chief Counsel for Intellectual Property Policy 
+Entertainment Software Association 
+575 7th Street, N.W., Suite 300 
+Washington, D.C. 20004 
+(v) 202-223-2400 
+stan@theESA.com 
+bgolant@theESA.com 
+Of Counsel 
+Steven K-. Englund 
+Kenneth L. Doroshow 
+JENNER & BLOCK LLP 
+1099 New York Ave., N.W. 
+Washington, D.C. 20001 
+(v) 202-639-6000 
+senglund@j enner. com 
+kdoroshow@jenner.com 
+Counsel for the Entertainment Software 
+Association 
+16

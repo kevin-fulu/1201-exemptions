@@ -1,0 +1,213 @@
+[PAGE 1]
+ 
+Docket No. 2015-8 
+Section 1201 Study 
+Reply Comments of the Software and Information Industry 
+Association 
+April 1, 2016
+Introduction 
+ From SIIA’s perspective, the in itial comments fall into several 
+general groups.  The first consists of copyright owners and technology 
+companies who believe that the statute is working well, but 
+acknowledge that the rulemaking has become cumbersome for the 
+Office, and have suggested some wa ys that the proceeding can be 
+streamlined.1  The second consists of comments that bemoan both the 
+cumbersome nature of the rulemaking, and the fact that Congress 
+passed the statute in the first instance, and urge its repeal.
+2  The third 
+sees problems with the statute because it theoretically prevents users 
+from doing what they want with computer software contained in 
+devices that they may own (regardl ess of their relationship to the 
+software).
+3 
+Despite a large divergence of viewpoints on the wisdom of the 
+statute itself, some co nsensus does exist over the desirability of 
+streamlining the rulemaking process.   Nonetheless, commenters do 
+not agree over the standard to be employed in that process, and 
+whether streamlining the proceeding requires statutory amendment.4  
+                                                 
+1  E.g., Joint Comments of the AAP, MPAA and RIAA, at 4-9 
+(listing variety of successful distribution models reliant on 1201) 
+[hereinafter “Joint Creators”]; Comments of the Entertainment 
+Software Industry at 2-4.  
+2   E.g., Comments of the American Association of Universities et 
+al. at 2; Library Copyright Alliance at 3; Comments of the Electronic 
+Frontier Foundation at 2-3.   
+3   E.g., Owner’s Rights Initiative Comments, at 3; Electronic 
+Frontier Foundation Comments, at 3.   
+4  Compare, e.g., American Intellectual Property Law 
+Association Comments at 2 (suggesting amendment to the statute 
+needed to streamline proceeding) with Alliance of Automobile
+
+[PAGE 2]
+2 
+ 
+In several instances, that disagreement comes from divergent 
+interpretations of the legislative history.5 
+SIIA focuses its reply comments on two issues.  First, the 
+interpretation of the statute (and it s legislative history) represents a 
+question that the Office asked and answered correctly in the year 
+2000.6  Indeed, despite dire predictions of gloom and doom at the time 
+the statute passed, the existing reco rd provides ample evidence that 
+the statute has functioned well, and largely as intended.  And despite 
+the rulemaking’s growth, certain aspects of administrative law 
+provide the office with the nece ssary leeway to streamline the 
+proceeding and acknowledge marketplace realities. 
+Second, several commenters insist that the DMCA is creating 
+problems with software innovation, and that amendment of the 
+statute is necessary to prevent it  from sweeping more broadly than 
+intended. That premise assumes a false dichotomy between 
+technology and content companies –a suggestion that SIIA 
+wholeheartedly rejects.   
+The Premise of Section 1201 has Proven Successful 
+Some commenters have taken this opportunity to reassert their 
+long-standing positions that Congre ss considered and chose to reject 
+during the statute’s passage.  What is missing from these suggestions 
+is evidence that section 1201’s anti-circumvention and trafficking bans 
+have had a negative effect on the availability of motion pictures, books, 
+educational materials, enterprise software, or consumer software.  
+The evidence uniformly points in the other direction.
+7 
+In fairness to these dissatisfied groups, this particular point tends 
+to be asserted, but not vigorously pursued.  Instead, it serves to frame 
+requests to change the rulemaking such that proponents of 
+                                                 
+Manufacturers Comments at 6-7 (suggesting use of administrative notice).   
+5  E.g.,  Harvard Cyberlaw Clinic Comments at 2, 5-7.  
+6   Exemption to Prohibition from Circumvention on Copyright 
+Protection Systems for Access Control Technologies, 65 Fed. Reg. 64556, 
+64558 & n. 4 (Oct. 27, 2000). 
+7  E.g., Comments of the Copyright Alliance at 5-10 (listing a variety 
+of businesses dependent on section 1201); Joint Creators, supra n. 1, at 4-9.  
+Kernochan Center Comments, at 2 (noting development of different means 
+of providing works to consumers digitally).
+
+[PAGE 3]
+3 
+ 
+exemptions have an easier time in making their case.  The justification 
+for that position stems from a reading of the legislative history 
+asserting that the House Manager’s Report has no bearing on the 
+meaning of section 1201. 8  These arguments, however, fail to discuss 
+the fact that the language of section 1201 changed between the time 
+of the Commerce Committee report and its ultimate enactment.9 
+Significantly, the rulemaking’s focus changed from any adverse 
+effects involving “implementatio n of technological protection 
+measures“ to only those caused “by virtue of such prohibition [on 
+circumvention] in their ability to make non-infringing uses of that 
+particular class of works under this title.”
+10  Under its plain language, 
+the statute requires the prohibition on circumvention to be the cause 
+of an alleged adverse effect, not the mere presence of a technological 
+measure. The intention behind that language is explained in the 
+House Manager’s Report, which instructs the Secretary of Commerce 
+(later changed to the Register of Copyrights) to exclude other possible 
+causes, such as changes in ways of distributing works.
+11  The provision 
+of strong protection against circ umvention to all copyright owners, 
+Congress reasoned, would result in  the proliferation of different 
+business models.  Where the law caused problems for users, the 
+rulemaking has acted in its intended role as a fail-safe. 
+                                                 
+8  See Harvard Cyberlaw Clinic Comments, at 5. 
+9  These changes are noted in other comments.  See Comments of the 
+University of Southern California Cyberlaw Clinic at 9 (stating that the 
+Commerce Committee report is not “trustworthy” due to the fact that the 
+text of the rulemaking provision changed between reporting out of 
+Committee and enactment).  
+10  Compare H.R. Rep. No. 105-551, at 2 with 17 U.S.C. § 1201(a)(1)(A), 
+(B). 
+11  See House Manager’s Report, at 6 (“Adverse impacts that flow from 
+other sources-including market- place trends, other technological 
+developments, or changes in the roles of libraries, distributors or other 
+intermediaries-or that are not clearly attributable to such a prohibition, are 
+outside the scope of the rulemaking. So are mere inconveniences, or 
+individual cases, that do not rise to the level of a substantial adverse 
+impact.”).  See also, e.g., Comments of the Software and Information 
+Industry et al, Docket No. RM 99-7, at 6 (March 31, 2000); Comments of the 
+American Film Marketing Association et al, at 11-12 & n. 4 (March 31, 
+2000) (discussing legislative history of the “prohibition” language).
+
+[PAGE 4]
+4 
+ 
+Nonetheless, some commenters (as well as the Office) have 
+suggested that the anti-circumvention provisions have begun to be 
+applied outside the areas in which Congress intended, specifically as 
+applied to computer software.  As the Office reviews section 1201, we 
+urge it to reject knee-jerk sugges tions that the emergence of new 
+technologies and functionalities necessarily justifies amending the 
+copyright laws to accommodate them.   
+The copyright laws generally are designed to be medium-neutral. 
+With respect to computer programs, they receive the same, medium-
+neutral protection as any other kind  of work except for exceptions 
+permitting an owner of a copy to cr eate a copy or adaptation “as an 
+essential step in the utilizatio n of the computer program in 
+conjunction with a machine” and to make a backup copy. 12  The DMCA 
+follows the same pattern: in the 1201 context, the sole additional 
+exception relates to interoperability. 13  In all other respects, section 
+1201 and its exemptions apply to co mputer programs based upon the 
+same general principles that apply to other kinds of works. 
+The decision to keep the DMCA technology-neutral and to provide 
+the opportunity that future works will be afforded the same 
+protections as known works is important to continued innovation. By 
+keeping the laws medium-neutral, those that develop new 
+technologies and new works are guaranteed to receive the same 
+protections as the developers of ex isting works. Similarly, companies 
+that, as discussed above, heavily inve st in existing technologies are 
+able to rely upon the fact that copyright law will continue to protect 
+their investments to the same extent as newer technologies. 
+The suggestion to revise the copyright laws each time a new 
+technology is developed would threaten this careful balance. Instead, 
+as crafted by the current legal regime, the courts have proven perfectly 
+capable of applying the DMCA’s general principles to new 
+technologies. To the contrary, adv ances in digital technologies have 
+made the unauthorized copying and widespread distribution of 
+                                                 
+12  17 U.S.C. § 117.  Of course, computer programs are not the only 
+kinds of works subject to particular limitations.  E.g., 17 U.S.C. § 113 
+(describing limits of protection for pictorial, sculptural, and architectural 
+work); 115 (compulsory license for musical works); 111 (cable license).   
+13  17 U.S.C. § 1201(f).
+
+[PAGE 5]
+5 
+ 
+copyrighted works easier. Software  piracy remains an enormous 
+threat to the United States’ position as a leader in computer 
+innovation. If anything, additional protections are needed to 
+safeguard the investments made by  copyright holders against such 
+acts. Such changes, like any other changes to the copyright laws, 
+should only be made after carefu l reflection. Thus, those who would 
+frame the essential copyright debates as between the content 
+community, on the one hand, and the technology community, on the 
+other hand, are missing an essential point: technology companies rely 
+on copyright law protections just as media and entertainment 
+companies do.  
+Against that backdrop, we view suggestions about the perceived 
+need to amend the law through a particular lens: one in which 
+technological protection measures  have enabled legitimate DVDs, 
+educational technologies, databases , and software as a service to 
+proliferate.   In particular, we agree with suggestions that the 
+exemption in section 1201(f), combined with the rulemaking function, 
+sufficiently handles any needs of interoperability.  Thus, while we 
+share the general consensus that the statute provides discretion to 
+streamline the proof required to  renew previously granted 
+exemptions, nothing in this record has persuaded us that existing law 
+should be changed.
+14    
+Thank you for considering our views. 
+ 
+Respectfully submitted, 
+     
+/s/ 
+    
+Christopher A. Mohr 
+Vice President for Intellectual Property  
+and General Counsel 
+Software and Information Industry 
+Association 
+ 
+                                                 
+14  See generally Koch and Murphy, 1 Admin. L. & Prac. § 4:44 (3d ed.) 
+(describing the leeway that agencies have with respect to informal records).

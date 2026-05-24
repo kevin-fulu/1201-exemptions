@@ -1,0 +1,138 @@
+[PAGE 1]
+ 
+1 
+ 
+Attn: 
+U.S. Copyright Office, Library of Congress 
+101 Independence Avenue, SE, Washington, DC 20559 
+RE: Section 1201 Study: Notice and Request for Public Comment 
+ 
+Massachusetts Institute of Technology (MIT) comments on Federal Register Docket 2015-8 
+Submitted by: Chris Bourg, Director of Libraries, on behalf of MIT Libraries (including MIT Press) 
+ and MIT Office of Digital Learning  
+Massachusetts Institute of Technology 
+Cambridge, MA 
+ 
+ 
+Thank you for the opportunity to comment on the Section 1201 Study.   Members of the MIT 
+community rely upon access to a wide range of materials in digital form to carry out our mission 
+of solving world problems through education, research, and scholarship.   Digital materials are 
+frequently subject to technological protection measures (TPM) and thus to the significant and 
+chilling constraints of the Digital Millennium Copyright Act’s (DMCA) section 1201.   The MIT 
+Libraries and MIT Office of Digital Learning have strong reservations about the DMCA and its 
+rulemaking process and we appreciate the opportunity to provide input on this matter.   We 
+address several of the Copyright Office’s subjects of inquiry below.
+
+[PAGE 2]
+ 
+2 
+ 
+#1 Role and effectiveness of the prohibition on circumvention of technological measures in 
+1201a. 
+ 
+At MIT we have found 1201(a) inhibiting when evaluating the potential for sharing content 
+from CDs and DVDs in an educational context.   Section 1201(a) limits and constrains innovative 
+educational and instructional activities, including the lawful sharing of media for educational 
+purposes. 
+ 
+The DMCA’s ban on circumvention of TPM is essentially a ban on use of DVD or Blu-Ray media, 
+or any other new media that may emerge, if there is no specific exception.  Use in a Massive 
+Open Online Course (MOOC), such as through MIT’s MITx/edX environment, is derailed by the 
+rule-making system that requires each new kind of lawful use to come before the Copyright 
+Office to seek its own narrow exemption, and then to have to lobby again for, and re-justify the 
+need for, that exemption every three years.  This process undermines the missions of 
+universities and libraries to advance and disseminate knowledge, ironically inhibiting the use of 
+the newest technologies by constraining uses of key material within our most innovative and 
+transformative tools.   For instance, courses offered to worldwide learners via MITx, free of 
+charge, are democratizing access to education and advancing our understanding of how 
+education can best be delivered online.   The DMCA inhibits these humanitarian and 
+technological advancements.
+
+[PAGE 3]
+ 
+3 
+ 
+Libraries and universities need long-term and stable policies on use of materials in MOOCs and 
+other platforms to provide a coherent environment for those building courses for these 
+platforms.  The three-year rule-making process works against a shared, stable understanding of 
+what is permissible.   Even when exemptions are created, they are problematic, because having 
+to educate users about elaborate, time-limited and arcane exemptions is exceedingly difficult.  
+The complexity of the rules inhibits use of digital media. 
+ 
+Our technology experts in the Libraries have found that when using widely deployed tools for 
+copying digital media, it is often very difficult to detect whether technological protection 
+measures (TPM) exist, so it is not always clear when one could be violating the DMCA.   If TPM 
+does exist, the threat of criminal penalties looms large.   Although it is difficult to quantify 
+missed opportunities, at MIT we have had to set aside materials from educational sharing due 
+to the ambiguities regarding the existence of TPMs and, for faculty and researchers, the threat 
+of criminal penalty looming over even the best-intended and well-informed use of digital 
+media. 
+ 
+#3 Should section 1201 be adjusted to provide for presumptive renewal of previously granted 
+exemptions. 
+ 
+The 3-year cycle of petitioning the Copyright Office for special exemptions is inefficient and 
+creates an unnecessary burden and resource drain on libraries and universities.   Past 
+exemptions should be presumptively renewable, as the Office has suggested in its Notice of
+
+[PAGE 4]
+ 
+4 
+ 
+Inquiry. 
+ 
+The law’s requirement that each exemption be revisited every 3 years does not map well to the 
+needs of universities and libraries, which have remained fairly constant throughout the DMCA’s 
+history.  These needs – to access and use materials in manner consistent with copyright law for 
+educational, research, and scholarly purposes-- should not have to be revisited and re-
+established every three years.  The burden to provide proof each time is problematic, because 
+the limits of 1201 stifle contemplated uses before they arise, making it highly challenging to 
+capture and provide examples. 
+ 
+The rule-making process is cumbersome and inaccessible for anyone but experts who are 
+actively practicing intellectual property law.    The evidence gathering process and related filings 
+as well as appearances at hearings present significant barriers.   In this environment, deep-
+pocketed commercial interests are at an advantage, and universities with their distributed and 
+decentralized environments are at a disadvantage.   Requiring redundant reviews of unchanged 
+facts and long-established needs through a resource-intensive process and structure is a waste 
+of precious resources for all parties.  In addition, the increasing complexity of each exemption, 
+even if granted, makes it difficult for users to take advantage of the exemptions. 
+ 
+#8 Whether existing permanent exemptions are necessary, relevant, and/or sufficient. 
+ 
+The sole permanent exemption for libraries, provided in section 1201(d), is not useful.  Libraries
+
+[PAGE 5]
+ 
+5 
+ 
+generally request trial access from vendors to make purchase decisions and do not need the 
+DMCA exemption that allows for reviewing an item for purchase.   Library practitioners in 
+copyright and acquisitions across the nation are unaware of any cases where a library would 
+need to – or be able to – obtain an encrypted copy and circumvent protection measures in 
+order to determine whether to buy an item.  Libraries and archives did not ask for this 
+exemption, nor is it useful to us.  In addition, the language of this exemption has the potential 
+to cause harm, as it augments confusion about the extent to which fair uses are still protected 
+despite the language of the DMCA. 
+ 
+A useful permanent exemption would permit circumvention for all lawful uses-- all uses 
+permitted by the Copyright Act.  This was proposed by the Unlocking Technology Act.  With this 
+kind of permanent exemption in place, libraries and universities could appropriately and 
+productively focus on the question of whether a use is fair, or permitted by another 
+relevant exception. 
+  
+ 
+#9 Whether there are other permanent exemptions that should be established. 
+For the reasons described above, we strongly recommend a permanent exemption to 
+permit circumvention for all lawful uses—that is, for all uses permitted by the Copyright Act.
+
+[PAGE 6]
+ 
+6 
+ 
+MIT’s mission is to “advance knowledge and educate students in science, technology, and other 
+areas of scholarship that will best serve the nation and the world in the 21st century.”   This 
+mission depends upon use of copyrighted works for education, research, and scholarship.  We 
+call upon the Copyright Office and Congress to modify the DMCA to provide a permanent 
+exemption for all lawful uses of digital media, in support of the mission of MIT and the missions 
+of other universities, whose nonprofit educational and scholarly activities serve humankind.

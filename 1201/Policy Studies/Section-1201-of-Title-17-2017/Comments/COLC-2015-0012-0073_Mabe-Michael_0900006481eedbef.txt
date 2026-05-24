@@ -1,0 +1,167 @@
+[PAGE 1]
+ 
+International Association of Scientific, Technical and Medical Publishers 
+Prama House, 267 Banbury Road, Oxford  OX2 7HT, UK 
+www.stm-assoc.org 
+Registered at UK Companies House FC027474 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+March 31, 2016 
+ 
+United States Copyright Office 
+Section 1201 Study Comment Submission 
+ 
+ 
+Section 1201 Study on the triennial rulemaking process to adopt exemptions to the prohibition 
+against circumvention of technological measures that control access to copyrighted works 
+Reply comment by the International Association of Scientific Technical and Medical Publishers 
+(STM) 
+ 
+Dear Sirs 
+ 
+The International Association of Scientific Technical and Medical Publishers (STM) welcomes this 
+opportunity to subm it reply comments in the S ection 1201 Study.  In this submission, we only 
+propose to deal with a limited number of individual points raised by various contributors to the 
+Study. 
+ 
+STM is the leading global trade association for academic and professional publishers.  It has over 120 
+members in 21 countries who each year collectively publish nearly 66% of all journal articles and 
+tens of thousands of monographs and reference works, including many members who are either 
+based or have places of business in the U nited States.  STM members include learned societies, 
+university presses, private companies, new starts and established players.  The primary interest of 
+STM and its members lies in published works intended for the academic and research markets. 
+ 
+Reply to submission in opposing changes that would discourage innovation by copyright owners 
+ 
+STM joins AAP, MPAA and RIAA 1 in submitting that the Copyright Office and Congress should 
+proceed with great caution when considering whether to adopt exemptions to the prohibition 
+against circumvention of technological protection measures and that it should oppose changes that 
+would diminish the effectiveness of technological protection measures broadly and discourage 
+innovation by copyright owners and their authorized licensees.  STM affirms the cases cited in this 
+submission about how technological protection measures create new mod els for the dissemination 
+of published works.2 
+ 
+Reply to submissions advocating exemptions where licensed solutions for access already exist 
+ 
+We have noted some submissions advocating broad exemptions to technological protection 
+measures to facilitate the reproduction and making available of copyrighted works that are 
+protected by those measures, even in cases where there is no authorization from the copyright 
+                                                           
+1 AAP, MPAA and RIAA submission at http://www.regulations.gov/#!documentDetail;D=COLC-2015-0012-
+0045, p.3. 
+2 AAP, MPAA and RIAA submission referred to above, at pp.6-8.
+
+[PAGE 2]
+2 
+ 
+ 
+International Association of Scientific, Technical and Medical Publishers 
+Prama House, 267 Banbury Road, Oxford  OX2 7HT, UK 
+www.stm-assoc.org 
+Registered at UK Companies House FC027474 
+owner.3 In so far as these proposals relate to libraries and archives, the copyrighted works 
+concerned would include publications by STM’s members and, as such, this proposal for exemptions 
+must be read as being in addition to access to STM members’ copyrighted publications which is 
+already afforded to libraries and archives under their respective subscription and license agreements 
+with publishers or their vendors. 
+ 
+One of the aforementioned submissions 4 speaks of exemptions allowing the reproduction for 
+copyright works for use by MOOCs (“massive open online courses”).  We point out that publishers, 
+service providers and reproduction rights organizations already provide licensed solutions for the 
+use of copyrighted materials in MOOCs. 5  This point illustrates the need for careful consideration in 
+the rulemaking process relating to exemptions, which must  include ascertaining whether there is an 
+existing solution in commerce to the circumstance being postulated in the request for an exemption. 
+ 
+Reply to submissions advocating broad exemptions relying on claims that uses are allowed by fair use 
+and other exceptions 
+ 
+We wish to draw your attention to a recent case of breaching of security measures to reproduce and 
+make available copyrighted content, and claiming justification as an illustration, to support STM’s 
+contention that the rulemaking process for cons idering exemptions should be limited to specifically 
+crafted situations which are then carefully considered. 
+ 
+STM publishers have noted various methods by unauthorized persons to extract journal articles and 
+illicit creations from journal articles from sec ured sources and to reproduce them in a way that 
+makes them available to the public in circumstances which do not constitute fair use and/or which 
+are not justifiable by any other exception to the exclusive rights of copyright. 
+ 
+The most recent case in the  United States to which we would like to draw your attention is the 
+decision of the New York District Court in Elsevier v. Sci -Hub.org and LibGen.org et al .6 Elsevier, a 
+prominent publisher and a member of STM, took action to hamper the online unauthorized offers by 
+online platforms Sci -Hub and LibGen, facilitated by persons unknown, who had compromised the 
+secure online platforms of publishers and of universi ty library subscribers to their publications in 
+order to reproduce journal articles which they make available on the Sci-Hub and LibGen platforms. 
+ 
+The technical methodology of accomplishing this was something not previously encountered by 
+publishers, and is described in an article in Scholarly Kitchen: 
+ 
+“[Sci-Hub] works in concert with a repository of pirated material called Library Genesis 
+(LibGen)…  If you go to the current location of Sci -Hub … and input a DOI or article url Sci -
+Hub will set you a captc ha to complete ... It then searches LibGen to see if it can find an 
+existing copy of the item in question.  If it does, it delivers that copy to the user…  If Sci -Hub 
+                                                           
+3 By way of example, the submissions by the American Association of Law Libraries  at 
+http://www.regulations.gov/#!documentDetail;D=COLC-2015-0012-0027, p.1, MIT at 
+http://www.regulations.gov/#!documentDetail;D=COLC-2015-0012-0024, p.5, and t he Society of American 
+Archivists at http://www.regulations.gov/#!documentDetail;D=COLC-2015-0012-0016, p.5, proposing that 
+there should be a general exemption if the use is considered to be fair use.  
+4 MIT referred to above at p.1-2. 
+5 For example, ProQuest’s Courser a and SIPX ( http://www.sipx.com/coursera-sipx/), the Copyright Clearance 
+Center’s MOOCs Content Licensing Solution ( http://www.copyright.com/academia/moocs/).  Both are 
+members of STM. 
+6 No. 1:2015cv04282 - Document 53 (S.D.N.Y. 2015), available at http://cases.justia.com/federal/district-
+courts/new-york/nysdce/1:2015cv04282/442951/53/0.pdf?ts=1446304631.
+
+[PAGE 3]
+3 
+ 
+ 
+International Association of Scientific, Technical and Medical Publishers 
+Prama House, 267 Banbury Road, Oxford  OX2 7HT, UK 
+www.stm-assoc.org 
+Registered at UK Companies House FC027474 
+cannot locate a copy in LibGen, it then uses multiple institutional access systems to sea rch 
+across publisher platforms, bypassing any access control barriers, and it retrieves a copy of 
+the item.  It then does two things.  One, it delivers a copy back to the user who requested it; 
+two it stores a copy in LibGen so that it is easier to serve u p when the next request comes 
+in... The access credentials appear to be username/password combinations that have been 
+acquired by Sci-Hub and which enable access to institutional subscriptions.”7 
+ 
+The judge, recognizing that the scholarly publishing ecosys tem depends on payment for content to 
+sustain the production of high quality journals, described how copyright protection for scientific 
+publications serves the public interest: 
+ 
+“It cannot be denied that there is a compelling public interest in fostering scientific 
+achievement, and that ensuring broad access to scientific research is an important 
+component of that effort. ... [Sci -Hub’s representative’s] solution to the problems she 
+identifies, simply making copyrighted content available for free via a for eign web site, 
+disserves the public interest.  As the plaintiffs have established, there is a ‘delicate 
+ecosystem which supports scientific research worldwide’ . . . and copyright law plays a 
+critical function within that system. ‘Inadequate protection for  copyright owners can 
+threaten the very store of knowledge to be accessed; encouraging the production of creative 
+work thus ultimately serves the public interest in promoting the accessibility of such works.’ 
+… Given the importance of scientific research a nd the critical role that copyright plays in 
+promoting it, the public interest weighs in favor of an injunction.” 
+(Citations omitted.) 
+ 
+We thank you for this opportunity to contribute to the Section 1201 Study and we would be pleased 
+to assist you in your further deliberations. 
+ 
+Yours faithfully, 
+ 
+ 
+ 
+Michael Mabe 
+Chief Executive Officer 
+STM, International Association of Scientific, Technical and Medical Publishers 
+mabe@stm-assoc.org 
+ 
+                                                           
+7 Posting by David Smith in Scholarly Kitchen “Sci-Hub: How does it work?” at 
+http://scholarlykitchen.sspnet.org/2016/02/25/sci-hub-how-does-it-work/.

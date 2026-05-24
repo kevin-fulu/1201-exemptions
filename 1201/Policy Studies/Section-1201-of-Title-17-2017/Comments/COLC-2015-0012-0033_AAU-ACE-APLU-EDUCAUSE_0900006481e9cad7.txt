@@ -1,0 +1,375 @@
+[PAGE 1]
+1
+BEFORE THE UNITED STATES COPYRIGHT OFFICE
+COMMENTS OF THE ASSOCIATION OF AMERICAN UNIVERSITIES, THE AMERICAN 
+COUNCIL ON EDUCATION, THE ASSOCIATION OF PUBLIC AND LAND-GRANT 
+UNIVERSITIES, AND EDUCAUSE ON SECTION 1201 
+OF THE DIGITAL MILLENNIUM COPYRIGHT ACT
+Association Descriptions
+The Association of American Universities (“AAU”) is a non-profit association of 60 
+U.S. and two Canadian public and private research universities. Founded to advance the 
+international standing of U.S. research universities, AAU today focuses on issues that are 
+important to research-intensive universities, such as funding for research, research 
+regulations, and graduate and undergraduate education.
+The American Council on Education (“ACE”) is a non-profit, national educational 
+association that represents all sectors of American higher education. Its approximately 
+1,700 members reflect the extraordinary breadth and contributions of degree-granting 
+colleges and universities in the United States. Founded in 1918, ACE’s public policy 
+advocacy advances its purpose to serve education, believing that a strong higher 
+education system is the cornerstone of a democratic society.
+The Association of Public and Land-grant Universities (APLU) is a non-profit
+research, policy, and advocacy organization representing 235 public research 
+universities, land-grant institutions, state university systems, and affiliated 
+organizations. Founded in 1887, APLU is North America's oldest higher education
+
+[PAGE 2]
+2
+association with member institutions in all 50 states, the District of Columbia, four U.S. 
+territories, Canada, and Mexico.
+EDUCAUSE is a non-profit association and the foremost community of 
+information technology (IT) leaders and professionals committed to advancing higher 
+education. Our membership includes over 2,000 colleges and universities, over 350 
+corporations serving higher education IT, and dozens of other associations, state and 
+federal agencies, system offices, and not-for-profit organizations. EDUCAUSE strives to 
+support IT professionals and the further advancement of IT in higher education through 
+analysis, advocacy, community/network-building, professional development, and 
+knowledge creation.
+Introduction
+The aforementioned associations collectively represent a significant number of 
+copyright creators and consumers, with an enduring and critical interest in access to and 
+use of copyrighted materials for scholarly research, education, and instruction. The 
+associations were also active participants in the policy conversations leading up to the 
+enactment of the DMCA, as well as in the first section 1201 triennial rulemaking and 
+subsequent rulemakings, submitting extensive written comments and providing witness 
+testimony. Today, we remain concerned that section 1201 is adversely affecting the 
+ability of the educational community to access copyrighted works for the purpose of 
+engaging in lawful, noninfringing uses of those works and using uncopyrighted materials 
+integrated in those works.
+
+[PAGE 3]
+3
+Thus, we share the Copyright Office’s view that the time is ripe for a serious 
+reconsideration of the anticircumvention provisions in section 1201, as well as the 1201 
+rulemaking process. And for reasons that we will discuss in greater detail below, we 
+urge the Copyright Office and Congress to consider the following proposals for 
+reforming section 1201 and the section 1201 rulemaking process:
+(1) Attach section 1201 liability to circumvention only where that act of 
+circumvention results in infringement of the underlying copyrighted work(s).
+(2) Expand the rulemaking process to apply to sections 1201(a)(2) and 1201(b) in 
+order to allow beneficiaries of exemptions to acquire the tools to utilize 
+those exemptions.
+(3) Create a regulatory presumption for existing section 1201 exemptions, 
+whereby the burden is shifted to those opposed to renewal of a previously 
+granted exemption.
+(4) Create an “equitable rule of reason” framework wherein previously granted 
+exemptions are treated as illustrations of the types of uses permitted.
+(5) At a minimum, draft broader and simpler exemptions that are easier for the 
+public to interpret and apply.
+History of Section 1201
+The World Intellectual Property Organization’s “Internet” treaties, which the 
+United States implemented as the Digital Millennium Copyright Act, require contracting 
+parties to provide legal remedies against the circumvention of technological measures
+
+[PAGE 4]
+4
+that protect authors’ copyrights. The treaties, however, only instruct parties to “provide 
+adequate legal protection and effective legal remedies against the circumvention of 
+effective technological measures that are used by authors in connection with the 
+exercise of their rights under this Treaty or the Berne Convention and that restrict acts, 
+in respect of their works, which are not authorized by the authors concerned or 
+permitted by law.”1 The treaties are silent about regulating circumvention where there 
+is no copyright infringement. Nor do the treaties direct parties to address the 
+circumvention of access-control technologies in addition to the circumvention of copy-
+control technologies; certainly, the exercise of authorial rights under the treaties and 
+the Berne Convention does not encompass an exclusive right to permit or prohibit
+access to a publicly distributed work. 
+At the time Congress deliberated over implementation of the WIPO treaties, it 
+expressed apprehension that access-control technology could be applied to frustrate or 
+prevent lawful, noninfringing uses of copyrighted works. The House Commerce 
+Committee expressed particular unease about the prospect of chilling legitimate 
+educational and scholarly uses, noting:
+“The growth and development of the Internet has already had a significant 
+positive impact on the access of American students, researchers, consumers, and 
+the public at large to informational resources that help them in their efforts to 
+learn, acquire new skills, broaden their perspectives, entertain themselves, and 
+                                                
+1 See WIPO Copyright Treaty, adopted Dec. 20, 1996, WIPO Doc. CRNRIDC/94; WIPO 
+Performances and Phonograms Treaty, adopted Dec. 20, 1996, CRNR/DC/95.
+
+[PAGE 5]
+5
+become more active and informed citizens….Still, the Committee is concerned 
+that marketplace realities may someday dictate a different outcome, resulting in 
+less access, rather than more, to copyrighted materials that are important to 
+education, scholarship, and socially vital endeavors.” [Committee on Commerce, 
+House of Representatives, Digital Millennium Copyright Act of 1998, H.R. Rep. 
+No. 105-551 at 35-36 (1998) (emphasis added)].
+Significantly, the Committee further emphasized that “[f]air use…provides the basis for 
+many of the most important day-to-date activities in libraries, as well as in scholarship 
+and education.” [Id. At 25-26] 
+Congress attempted to balance the rights of authors and users by structuring a 
+complex set of exceptions and limitations as part of section 1201.2 Congress also 
+recognized that, beyond those enumerated exceptions and limitations, there may be 
+additional legitimate reasons to circumvent technological protection measures
+(“TPMs”). For this reason, Congress included in section 1201 a provision requiring the
+Librarian of Congress to conduct a triennial rulemaking proceeding to consider potential 
+limited exemptions to section 1201’s general prohibition against circumvention of 
+access controls. Specifically, the Librarian must determine whether the prohibition on 
+circumvention will adversely affect the ability of users of a given class of copyrighted 
+                                                
+2 Signally, Congress offered special protections to nonprofit educational institutions, libraries, 
+and archives by exempting them entirely from criminal liability for violations of Section 1201 or 
+1202 (Section 1204(b)) and by entitling them to a complete remission of civil damages where 
+violations of Section 1201 or 1201 were innocent (Section 1203(c)(5)(B). Nevertheless, these 
+protections do not provide sufficient reassurance to the educational community, because they 
+do not address circumstances in which, say, a faculty member or researcher breaks a 
+technological protection measure in order to lawfully incorporate a copyrighted work in a “non-
+work-for-hire” product (such as an e-textbook openly licensed to a state or local elementary 
+school system).
+
+[PAGE 6]
+6
+works to make noninfringing uses of that class of works in the subsequent three-year 
+period.
+Congress made clear that the section 1201 rulemaking process was meant to 
+temper the restrictive effects of section 1201 by ensuring that access controls would not 
+be used to impede users’ rights to use the copyrighted works in lawful, noninfringing 
+ways. Unfortunately, as we will describe in further detail below, this triennial
+rulemaking procedure has not only impeded users’ ability to legitimately use 
+copyrighted works, but has also proved to be cumbersome and burdensome, resulting 
+in increasingly lengthy, technical exemptions that are difficult for the public to 
+understand and implement. 
+Section 1201 is Substantively Flawed
+Despite evidence that Congress did not want section 1201 to encumber or 
+prevent noninfringing uses of copyrighted works in educational and scholarly contexts, 
+since its inception section 1201 has done exactly that.3 First, section 1201 does not offer 
+any meaningful permanent exemptions for nonprofit educational institutions, libraries, 
+and archives – some of the very entities that Congress prospectively singled out as 
+requiring relief from overbroad anticircumvention provisions. Second, section 1201 is 
+inherently prejudicial to innovative educational approaches.
+Section 1201(d) permits nonprofit educational institutions, libraries, and archives 
+to circumvent TPMs solely for the purpose of making a good faith determination as to 
+                                                
+3 Since 1998, several bipartisan bills have been introduced that would prevent section 1201 from 
+inadvertently restricting legitimate activities.
+
+[PAGE 7]
+7
+whether they wish to obtain authorized access to the work. But this exemption is of no 
+practical utility, because any qualifying institution that wants to evaluate such a work for 
+purchase merely asks the relevant vendor for a limited-time trial. Moreover, even if a 
+vendor does not make such a trial available, it is unclear how a university or library 
+would gain access in the first instance to a commercially exploited work, such as a 
+database, that it had not yet purchased. Indeed, most universities and their libraries 
+report that they are aware of no instances in which this provision has ever been 
+employed.
+Of even greater concern, perhaps, is that section 1201 is becoming progressively 
+more problematic for institutions of higher education as scholarly, educational, and 
+instructional models and attendant technologies rapidly evolve. Online and 
+asynchronous instruction is growing explosively on almost all higher education 
+campuses, along a number of dimensions, and across a variety of fields (including Art, 
+Biology, Communication, English, Foreign Language and Literature, Film and Cinema 
+Studies, and Music, to name just a few). “Traditional” classroom courses now often 
+include parallel online elements, such as student discussion boards, live chat, or online 
+notes from the instructor. There are also many more fully-online courses and degree 
+programs for enrolled students, as well as many free online courses produced by 
+universities and available to the public in a range of forms.
+The boundaries between traditional classroom settings and online and distance 
+education are dissolving as MOOCs, flipped classrooms, and other teaching models have 
+come to be recognized as critical complements to and, in some instances, substitutes for
+
+[PAGE 8]
+8
+in-person instruction. Asynchronous interactions through learning management systems 
+and other online tools are the norm in higher education today; such systems improve 
+learning and the quality and quantity of the face-to-face engagement in the traditional
+classroom. In addition, changing student demographics – such as increasing numbers of 
+older students who work full- or part-time and greater numbers of veterans with 
+disabilities who are returning to school – call for the kinds of flexible and dynamic
+learning environments that online and asynchronous education makes possible. 
+Online and asynchronous course providers are particularly disadvantaged by 
+section 1201. Fearful of violating section 1201’s anticircumvention prohibitions, 
+instructors who design and teach these courses often forego use of certain materials or 
+they alter the content they provide, whether by choosing different content from that 
+provided in a face-to-face teaching environment or by choosing less relevant or lower 
+quality content than they might otherwise fairly use. Section 1201 should not require 
+instructors teaching the same course to choose different content for different platforms 
+and environments. Nor should section 1201 create barriers to developing novel and 
+transformative instructional methods. Research and best practices show that much 
+instruction can and should be moved to online or asynchronous platforms and yet, 
+thanks to section 1201, such educational modalities must be treated as second-tier, 
+lower-quality forms of instruction than in-person instruction.
+Some have argued that the TEACH Act (17 USC § 110(2)) could be used to 
+determine what is and what is not authorized in this area. We do not believe, however, 
+that the TEACH Act provides a helpful guidepost in the section 1201 context. Although
+
+[PAGE 9]
+9
+the TEACH Act was intended to accommodate sharing content in distance education 
+contexts, many of its restrictions are unworkably limited. In particular, the requirement 
+that content shared via TEACH Act provisions be made inaccessible to students after a 
+“class session” is over is inconsistent with best practices in online education (which 
+allow students to review materials throughout the time they are enrolled in a course, or 
+even throughout an integrated degree program). The requirement is also increasingly 
+difficult to apply to online instruction at all – in a disintermediated course, when does 
+the “class session” begin or end? In short, very few universities employ or rely on the 
+TEACH Act’s outdated and labyrinthine provisions when deciding how and what uses to 
+make of copyrighted works. Contrary to the objective of the TEACH Act, it is simpler (but 
+by no means simple) to wade into the complexities of a fair use analysis. 
+Fair use, which Congress took care to reference in the language of section 1201, 
+is more flexible than the TEACH Act. And it has proven to be a reliable tool for 
+implementing new educational practices that embrace technologies to enrich the 
+educational experience and provide efficiencies for institutions and students. Especially 
+in online instructional videos, for instance, fair use is often relied on to reproduce 
+images on slides and may incorporate video or audio clips under a fair use rationale. 
+Accordingly, we urge that any changes to section 1201 explicitly state that section 1201 
+should in no way hinder uses that may fall within the ambit of 17 USC § 107.
+Section 1201 is Procedurally Flawed
+
+[PAGE 10]
+10
+The Section 1201(a)(1) rulemaking process, which authorizes the Librarian of 
+Congress to consider possible temporary exemptions to section 1201(a)(1)’s prohibition 
+on the circumvention of access controls, is arduous for participants and adjudicators 
+alike.4 And it is disproportionately burdensome for nonprofit and individual participants.
+Moreover, as we will explain below, it is unclear that the extraordinary effort required 
+to participate in the section 1201 rulemaking process yields exemptions that are useful
+either for intended beneficiaries of the exemptions or for the authors of the underlying 
+copyrighted works.
+For nonprofit educational institutions, participation in the rulemaking process 
+demands an investment of substantial scarce resources, including multiple sophisticated 
+filings and appearances at in-person hearings in Washington, D.C. or Los Angeles. 
+Developing fresh evidence of faculty need, of technological availability, of the state of 
+the content market, and so forth is extremely taxing for nonprofit institutions. In the last 
+rulemaking session, some exemptions were unopposed and yet proponents of certain 
+non-commercial educational uses still had to marshal and present all of the evidence 
+necessary for the exemption to be renewed. 
+In addition, the exemptions granted are now so complex and verbose that they 
+are difficult even for sophisticated university attorneys to parse and apply with any 
+                                                
+4 Remarkably, during the course of the recently concluded sixth triennial rulemaking, the 
+Copyright Office considered nearly 40,000 comments – a hundredfold increase from the 2000 
+rulemaking. The majority of these comments comprised brief statements without legal or 
+evidentiary support, but a number of the longer submissions included substantial supporting 
+evidence, including multimedia files. See Recommendation of the Register of Copyrights, Section 
+1201 Rulemaking: Sixth Triennial Proceeding to Determine Exemptions to the Prohibition on 
+Circumvention, U.S. COPYRIGHT OFFICE 21–22 (Oct. 8, 2015), 
+http://copyright.gov/1201/2015/registers-recommendation.pdf.
+
+[PAGE 11]
+11
+confidence. For instance, the exemption for using excerpts of audiovisual works for 
+educational purposes increased from 44 words in 2006 to 96 words in 2010 to 752 
+words in 2013 to 1055 words in 2015. Yet these increasingly wordy exemptions also 
+tend to be very narrow, resulting in unfair distinctions that prejudice certain users and 
+uses. Exemptions of different scope apply to an instructor teaching the same course at a 
+university, in a MOOC, and at a library or museum.5
+Furthermore, educational institutions must prepare new policies and guidelines 
+and recalibrate their budgets every three years after exhaustively reviewing these
+increasingly lengthy and convoluted exemptions. This is especially challenging in 
+evolving online and asynchronous course environments. Even though an exemption was 
+included for MOOCs during the 2015 sixth triennial rulemaking, for instance, colleges 
+and universities cannot be sure that such an exemption will be recommended or 
+modified in the next rulemaking. 
+For MOOCs and other online classes where the content is delivered by taped 
+lectures, the cost of re-filming lectures is high enough that educational institutions 
+abstain from legitimates uses of certain works rather than rely on an exemption that 
+may disappear in three years. As in other contexts, it is difficult to prove harm because –
+as indicated above – perceived risks associated with section 1201 have led educators 
+                                                
+5 The exemption created for MOOCs during the 2015 sixth triennial rulemaking, discussed 
+further below, provides an object lesson here. The exemption, though a laudable step forward 
+for MOOC instructors and their students, requires MOOC providers to restrict access to the 
+relevant material to enrolled students and to prevent further dissemination of that material 
+outside of the course. Offering streaming rather than downloadable versions of the course 
+content could reasonably limit unauthorized redistribution of the material, but streaming 
+unfairly disadvantages learners with slower Internet access. In many instances, it is precisely 
+those learners who are in greatest need of online or asynchronous educational opportunities.
+
+[PAGE 12]
+12
+systematically to avoid teaching courses that raise any DMCA questions. In general, 
+then, innovative educational approaches such as MOOCs and flipped classrooms are 
+inherently disadvantaged by a system that requires each new kind of use to come 
+before the Copyright Office to seek its own narrow dispensation to move forward.
+The uncertainty created by this cyclical process places significant impediments in 
+the way of creating reliable, consistent policy decisions that can be promulgated to the 
+entire educational community, particularly at very large and/or decentralized 
+educational institutions.
+Perhaps most importantly, it is unclear that the 1201 rulemaking process is of 
+practical effect. Section 1201(a)(1)(C) authorizes the Librarian of Congress to adopt 
+exemptions to the section 1201(a)(1)(A) prohibition on the act of circumventing a TPM, 
+but not to the section 1201(a)(2) prohibition on the development and distribution of 
+circumvention tools. So while an entity granted an exemption might be legally allowed 
+to perform an act of circumvention, there may be no legal way to obtain the 
+technological tools necessary to perform that act. No educational institution granted an 
+exemption wants to assume that a temporary exemption implicitly includes the right to 
+develop the necessary circumvention tools to take advantage of that exemption.
+At the same time, in contexts where tools enabling circumvention are available, 
+it is not clear that the exemptions granted through the rulemaking process have any 
+impact on levels of infringement. For example, the technology necessary to circumvent 
+the TPMs on DVDs and other storage media is widely available via the Internet and 
+simple to use. If a user plans to unlawfully copy a DVD and the necessary tools to do so
+
+[PAGE 13]
+13
+are readily available, there is no reason to think (s)he will be deterred by section 1201’s 
+anti-circumvention provision or any narrow exemptions to that provision. But, because 
+postsecondary institutions seek to operate in accordance with law, section 1201 limits 
+uses Congress sought to encourage, while having minimal concrete impact on the 
+misuses it sought to prevent.
+Proposed Changes to Section 1201 
+First, we urge Congress to adopt the approach proposed in the 114th Congress by 
+Representatives Zoe Lofgren, Thomas Massie, Anna Eshoo, and Jared Polis in H.R. 1587, 
+the Technology Unlocking Act, which would attach section 1201 liability to 
+circumvention only if that act of circumvention results in infringement of the underlying 
+copyrighted work(s). It is our view that the burdensome section 1201 rulemaking 
+process would be rendered unnecessary if section 1201 operated solely to prohibit 
+circumvention resulting in infringement. 
+Alternatively, but less optimally, Congress could enact additional permanent 
+exemptions for nonprofit educational uses or for certain “per se” educational works 
+(such as scientific databases or academic monographs and treatises), and for uses by 
+and for those with disabilities. We caution, however, that any such exemptions should 
+be drafted so they are sufficiently adaptable to accommodate evolving technologies.
+Second, the rulemaking process should be expanded to apply to sections 
+1201(a)(2) and (b), to ensure that the tools necessary to effectuate any permitted 
+circumvention can be developed and distributed.
+
+[PAGE 14]
+14
+Third, as Register of Copyrights Maria Pallante herself has suggested,6 there are 
+powerful arguments for why exemptions should not have to be reassessed de novo
+every three years.7 If exemptions are to be time limited, when a previously approved 
+exemption is up for consideration, the default should be presumptive renewal with the 
+burden shifting to those opposed to renewal to prove market harm or otherwise 
+demonstrate why the exemption should not be continued.
+In fact, we would go one step further and suggest that previously granted 
+exemptions should be treated as illustrations of the types of uses permitted. This 
+framework would function, in essence, as an equitable rule of reason, providing 
+subsequent users with a more reliable means of evaluating the likelihood that a given 
+use will or will not be deemed permissible. At a minimum, certainly, we ask the
+Copyright Office to exercise its extant authority to draft broader and simpler 
+exemptions.
+As a general matter, we believe that flexibility must be added to section 1201. As 
+currently structured and interpreted, section 1201 hinders innovation through a lack of 
+predictable results, creates redundant administrative burdens through a repetitive filing 
+                                                
+6 See The Register’s Perspective on Copyright Review, Hearing Before the Subcomm. on Courts, 
+Intell. Prop. and the Internet of the H. Comm. on the Judiciary, 114th Cong. (2015) (statement of 
+Maria A. Pallante, Register of Copyrights).
+7 It is worth noting here that the de novo standard is set out only in the report of one committee 
+that considered the DMCA. Nothing in section 1201(a)(1)(C) itself mandates that the renewal of 
+an exemption be based on de novo review. See Report of the H. Comm. On Commerce on the 
+Digital Millennium Copyright Act of 1998, H.R. Rep. No. 105-551, pt 2, at 37 (1998). Accordingly, 
+the Copyright Office could disregard this report language or merely apply it in a less 
+burdensome way, such as by automatically incorporating evidentiary records of past 
+rulemakings into the records of present rulemakings.
+
+[PAGE 15]
+15
+process, and interferes with likely legitimate fair uses of copyrighted works. Equally 
+importantly, section 1201 fails to meaningfully protect copyright holders.
+We thank the Copyright Office for soliciting the views of stakeholders as it moves 
+forward with an in-depth legal and policy review of the impact and efficacy of section 
+1201 and the section 1201 rulemaking process. We greatly appreciate this opportunity 
+to share our perspectives.

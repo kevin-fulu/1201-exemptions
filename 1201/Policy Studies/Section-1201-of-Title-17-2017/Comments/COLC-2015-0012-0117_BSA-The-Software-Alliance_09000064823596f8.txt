@@ -1,0 +1,153 @@
+[PAGE 1]
+ 
+ 
+ 
+October 27, 2016 
+ 
+The Honorable Karyn Temple Claggett 
+Acting Register of Copyrights  
+United States Copyright Office  
+101 Independence Ave., S.E.  
+Washington, D.C. 20559  
+ 
+Re:      Section 1201 Study ; Notice and Request for Additional Comments  
+[Docket No. 2015- 8] 
+ 
+Dear Ms. Claggett:  
+ 
+BSA | The Software Alliance (“BSA”)1  is pleased to continue participating in the 
+conversation regarding Section 1201 by responding to the Copyright Office’ s Request for 
+Additional Comments .2  As the leading advocate for the global software industry in the 
+United States and around the world, BSA is uniquely positioned to offer perspectives on 
+Section 1201.  
+ 
+In BSA’s March 2016 letter responding to the original Request for  Public Comment, we 
+emphasized that the framework set forth in Section 1201 continues to accomplish the 
+important goals, and maintain the balance, envisioned by Congress.  That balance—
+between supporting innovative means of disseminating copyrighted material, on the one 
+hand, and preventing unauthorized uses of copyrighted material, on the other — has largely 
+been maintained.  Thus, w e reiterate here that we do not believe there is a factual basis or 
+justification to warrant changing the fundamental structure of Section 1201.    
+ 
+In light of the pace of technological innovation, however, it is wise and appropriate to 
+periodically review the effects and implications of Section 1201’ s various provisions.   To 
+that end, Congress included within Section 1201 a triennial review process aimed at 
+                                                      
+1 BSA’s members include: Adobe, ANSYS, Apple, Autodesk, Bentley Systems, CA Technologies, 
+CNC/Mastercam, DataStax, Dell, IBM, Intuit, Microsoft, Minitab, Oracle, Salesforce, SAS Institute, 
+Siemens PLM Software, Symantec, Tekla, The MathWorks, Trend Micro and Workday. 
+2 U.S. Copyright Office, Library of Congress, Section 1201 Study: Notice and Request for Additional 
+Comments, 81 Fed. Reg. 66296 (Sept. 27, 2016).
+
+[PAGE 2]
+The Honorable Karyn Temple Claggett 
+October 27, 2016 
+Page 2 
+ 
+improving accessibility to and facilitating non- infringing uses of copyrighted work s, while 
+also protecting incentives for innovation. The Copyright Office has skillfully administered six 
+rulemaking cycles and done a remarkable job of ensuring that Section 1201 continues to 
+deliver on its promise.  
+ 
+To avoid unintended consequences that could undermine the existing balance of Section 
+1201, BSA encourages the Copyright Office to proceed cautiously  as it considers  proposing 
+to Congress any revisions to the statute.  This concern is especially important when 
+considering recommendations for  Congress to add new permanent exemptions to Section 
+1201.  For exa mple, commenters have argued for a statutory exemption permitting 
+circumvention of technological protection measures (“TPM ”s) for purposes of diagnosis, 
+maintenance, or repair  of machines or devices with embedded software. Caution is 
+warranted because any such exemption has implications beyond a particular consumer and 
+a particular class of works — such as the consumer who wishes to diagnose a failed oxygen 
+sensor in his  or her car.  With self -driving cars on the horizon, it is not difficult  to imagine 
+how mere “diagnoses” or “repairs” that might seem appropriate could create software 
+modifications resulting in safety hazards and unknown consequences  to third parties .  
+ 
+During the 2015 r ulemaking, the Copyright Office recommended an exemption for 
+diagnosis, repair or lawful modification of computer p rograms that are contained in and 
+control the functioning of a motorized land vehicle. Notably, the Copyright Office narrowed 
+the proposed class to exclude computer programs primarily designed for  the control of 
+telematics systems.  Such a limitation will prove more important in the years ahead 
+because alteration of telematics software in self-driving cars could give rise to significant 
+safety concerns . The Copyright Office’s recommendation illustrates the nuances that must 
+be taken into account when considering exemptions to Section 1201, particularly those 
+bearing on rapidly evolving technologies. In this regard, the triennial rulemaking offers 
+significant advantages over statutory revisions, allowing flexibility to refine exemptions as 
+technologies evolve.   
+ 
+Similar safety concerns apply across the board to other interdependent  software systems 
+that interact in complex ways.  And, parallel concerns exist with respect to how “ diagnoses” 
+or “repairs” to works protected by copyright can easily (even if unintentionally) result in 
+compromises to other protections, such as for privacy or security.  Legal and technological 
+limitations on circumvention exist to protect not only copyright owners, but also consumers 
+of copyrighted works and the consumer products in which those works are embodied.  
+ 
+A measured approach is also critical with respect to existing security research exemptions .  
+As a general matter, BSA supports good-faith security testing because such research, 
+when it is coordinated with the vendor,  is essential to maintaining the inte grity and security 
+of software. The security research language the Copyright Office recommended (and that
+
+[PAGE 3]
+The Honorable Karyn Temple Claggett 
+October 27, 2016 
+Page 3 
+ 
+was subsequently adopted by the Librarian)  in the 2015 rulemaking reflects the careful 
+consideration that is necessary in evaluating potential changes to Section 1201(j) .3  That 
+language took account of the benefits of good- faith security research, while at the same 
+time respecting the important safeguards Section 1201 provides .  BSA urges the Copyright 
+Office not to abandon the requirement of owner/oper ator authorization and/or notification 
+without considering the practical effects of doing so.  While it may be helpful to provide 
+greater clarity in situations with multiple owners, the Office should move slowly , particularly  
+with respect to the existing notification requirement that serves to protect not only  copyright 
+holders, but other stakeholders as well.   Unsanctioned, unauthorized system access under 
+the guise of “security research ” can not only result in compromised systems, but also r isks 
+revealing to malefactors sensitive trade secrets, private consumer data, and other 
+proprietary material.  While legitimate security research certainly can serve to enhance 
+everyone’s security, the existing statutory structure continues to safeguard the security and 
+copyright interests of researchers and consumers, as those stakeholders are vulnerable to 
+bad actors as well.   
+ 
+Given these competing interests and concerns, BSA encourages the Copyright Office to 
+recommend small steps to address any  perceived challenges in the operation of Section 
+1201.  To a considerable extent, the Copyright Office can address outstanding issues that 
+are important to different stakeholders by c ontinuing to add agility and responsiveness to 
+the triennial rulemaking process.   The Office also should continue to c onsult with agencies 
+with primary jurisdiction in other affected areas (such as transportation safety, security, and 
+privacy) in order to further protect innovators and consumers from illegitimate uses  of 
+material protected by copyright , while providing access for legitimate uses.   
+ 
+We stress that the concerns of BSA ’s members reach beyond copyright protection and 
+encouraging innovation to include individual privacy, consumer safety, system 
+interoperability, and data security.  These issues , among others, are all  implicated when the 
+Copyright Office considers modifying or creating a new permanent exemption to the 
+prohibition on circumvention.  
+ 
+As has been true since 1998, balance is critical for Section 1201 to simultaneously address 
+the needs of the owners, innovators, and consumers impacted by copyright .  BSA members 
+are committed to ensuring that Section 1201 remains appropriately balanced for all 
+impacted parties.   To that end, we urge the Copyright Office to ensure that any modification 
+of Section 1201 it proposes to Congress is incremental and reflects appropriate 
+consideration of the multitude of effects on different stakeholders .  As Congress recognized 
+                                                      
+3 U.S. Copyright Office, Library of Congress, Exemption to Prohibition on Circumvention of Copyright 
+Protection Systems for Access Control Technologies, 80 Fed. Reg. 65956 (Oct. 28, 2015).
+
+[PAGE 4]
+The Honorable Karyn Temple Claggett 
+October 27, 2016 
+Page 4 
+ 
+in 1998, appropriate exceptions to the protections of Section 1201 are essential, but any 
+changes must take care not to usher in new problems as old ones are addressed.  
+ 
+We appreciate the opportunity to share our members ’ perspectives on these important 
+issues.   
+ 
+ 
+ 
+ 
+Sincerely, 
+ 
+ 
+Christian Troncoso  
+Director, Policy

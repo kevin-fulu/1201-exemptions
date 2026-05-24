@@ -1,0 +1,193 @@
+[PAGE 1]
+ 
+1 
+  
+ 
+ 
+                                        
+ 
+U.S. Copyright Office (Docket No. 2015-8) 
+Section 1201 Study: 
+Request for Additional Comment 
+September 27, 2016 
+ 
+Joint Industry Comments 
+Respectfully Submitted October 26, 2016 
+ 
+ 
+ The Association of Equipment Manufacturers (AEM) is a trade association that provides 
+services on a global basis for companies that manufacture equipment, products and services 
+used worldwide in the agriculture, construction, forestry, mining, and utility industries.  AEM's 
+membership includes more than 850 companies, many of which depend on the anti-
+circumvention provisions of the Digital Millennium Copyright Act (DMCA).1  The DMCA protects 
+the highly-creative, copyrighted digital software of AEM's members against unauthorized 
+access, copying, and distribution.    
+ The Equipment Dealers Association respectfully joins in the submission of these 
+comments. Founded in 1900, the Equipment Dealers Association (“EDA”) is non-profit trade 
+organization representing approximately 4,000 retail dealers extensively engaged in the sale 
+and service of agricultural, construction, industrial, forestry, outdoor power, lawn and garden, 
+and/or turf equipment. EDA supports legislation or regulations which protect consumers and 
+enhance consumer safety. EDA opposes legislation or regulations which allow the widespread 
+release of proprietary equipment repair information to unqualified persons or entities which are 
+not subject to uniform standards including training, safety, engineering and environmental.  
+Such legislation or regulations could facilitate conduct which would put equipment operators and 
+third parties at risk and put dealerships who invest in training, safety and liability coverage at an 
+unfair economic disadvantage.  
+                                                           
+1 17 U.S.C. § 1201.
+
+[PAGE 2]
+ 
+2 
+  
+ AEM and EDA submit these comments in connection with the Copyright Office’s Section 
+1201 study to explain the importance of the technological measures in Section 1201(a) to the 
+AEM's members and the public.  The DMCA supports copyright by encouraging the 
+development and availability of highly-valuable creative digital works of authorship in the 
+products of AEM's members which are, in turn, distributed and serviced by EDA’s members.  
+The below section numbers correspond to the numbers of the specific questions on page 
+66296-66299 of the Section 1201 Study notice ("Study") published in the Federal Register.2  
+The Copyright Office seeks comments on several new proposed permanent exemptions, 
+including computer programs that operate a machine or device.  The following comments are 
+limited to the subject matter specifically referenced.  
+ 
+1. The Copyright Office suggests the possibility of "adoption of a permanent exemption for 
+purposes of diagnosis, maintenance, and repair" and seeks "helpful starting points for further 
+consideration of legislation." The proposed permanent exemption "could provide that a person 
+who has lawfully obtained the right to use a computer program may circumvent a TPM 
+controlling access to that program, so long as the circumvention is undertaken for purposes of 
+diagnosis, maintenance, or repair."  Study at p. 6.  
+AEM and EDA oppose the enactment of any permanent exemption to circumvention for 
+diagnosis, repair, maintenance or modification that would pose unnecessary risks to 
+public safety, the environment and the economy.  AEM and EDA caution against 
+enactment of any permanent exemption where the copyrighted work, such as vehicle 
+software or software updates, are commercially available products or services.  If the 
+works are already commercially available, the proposed permanent exemption would 
+diminish or destroy the value of the vehicle software or software updates and unfairly 
+disrupt the competitive landscape for both AEM and EDA members.  Any permanent 
+exemption must be limited to copyrighted works that are not commercially available or 
+that are obsolete to reduce risks to public safety, the environment, and the economy.  
+ 
+A.  Public Safety Risks:  The proposed permanent exemption for vehicle 
+diagnosis, repair, or maintenance of vehicle software poses significant public safety 
+risks. 
+                                                           
+2 Federal Register, Vol. 81, September 27, 2016, 66296-66299.
+
+[PAGE 3]
+ 
+3 
+  
+As Ambassador Michael Froman, U.S. Trade Representative, has emphasized, 
+"counterfeit products, including semiconductors, automobile parts, and medicines, pose 
+significant risks to consumer health and safety."3 Likewise, unauthorized modifications and/or 
+repairs of vehicle software by untrained individuals raise similar safety concerns. 
+The proposed permanent exemption for vehicle diagnosis, repair or maintenance is a 
+risky proposition as some vehicle owners may be willing to accept the risk of non-compliance 
+with applicable safety and environmental requirements. These individuals include not only 
+traditional “bad actors” but also individuals who simply lack an understanding of the risks that 
+their non-compliant modification and/or repair may create for themselves or others.  
+ Compounding these risks is the obvious inefficiency that this situation would create for 
+regulators, such as the Environmental Protection Agency. It would be difficult and extremely 
+costly to pursue enforcement of a large number of private vehicle owners who are readily able 
+to hack, repair or modify vehicle software in non-compliant or otherwise dangerous ways. 
+Conversely, the restriction of this information to a finite number of highly qualified and readily 
+identifiable parties aids in the efficient and effective enforcement of safety and environmental 
+regulations.   
+ 
+B.  Environmental Risks:  The proposed permanent exemption for diagnosis, repair, or 
+maintenance of vehicle software poses significant environmental and air quality issues 
+that can impact public health. 
+Providing increased access of the public to vehicle emissions control software has the 
+potential to promote violations of EPA anti-tampering provisions and could result in vehicle 
+owners altering software to improve vehicle performance at the expense of vehicle emissions, 
+which is sometimes referred to as "engine chipping."  Some engine chipping can relate to 
+changing software programs or settings that are compliant with EPA certification to non-
+compliant software instructions that tend to violate emission regulations. AEM and EDA have 
+serious concerns about both the potential harm to the environment and the potential liability 
+exposure that their members may face with the widespread dissemination of this information to 
+unqualified parties who may be willing accept the risk of non-compliance and, as discussed 
+supra, may be difficult to hold accountable for violations.  
+ 
+                                                           
+3 See, e.g., Executive Office of the President of the United States, Ambassador Michael  Froman, United States 
+Trade Representative, 2015 Special 301 Report at p. 6.
+
+[PAGE 4]
+ 
+4 
+  
+C.  Economic Risks:  The proposed permanent exemption for vehicle diagnosis, 
+maintenance, and repair (or modification) should not apply to commercially available 
+software updates or to vehicle software where software updates are already available. 
+The proposed permanent exemption for diagnosis, repair, or maintenance of vehicle 
+software is contrary to sound economic policy. The general prohibition on circumvention 
+of technological measures in section 1201 encourages innovation, prevents freeriding 
+and supports a strong economy, particularly with respect to innovative vehicle software 
+with expressive or creative content.  
+Many software updates in the equipment industry are commercially available to 
+consumers through the authorized dealer network or directly from their equipment manufacturer.  
+If the software is already commercially available, the fair use analysis of the software favors not 
+providing a permanent exemption under section 1201.  In particular, the fair use factor includes 
+"the effect of the use upon the potential market for or value of the copyrighted work."4  
+Here, the proposed permanent exemption would impair the potential market for software 
+updates or any diagnostic software that are commercially available from the equipment 
+manufacturer and equipment dealers.  Such software updates can provide improvements, 
+maintenance or repairs, for example.  Reputable manufacturers and equipment dealers have 
+the economic burden of developing or providing tested software updates that comply with safety 
+standards, such as the (Automotive Safety Integrity Level) ASIL standard, and all applicable 
+state and federal emissions regulations.  In contrast, the vehicle owner does not typically 
+possess the engineering knowledge or resources to develop software code or updates that 
+complies with safety requirements or environmental requirements.   
+What’s more, if private equipment owners are permitted to publish or market alternate 
+sources of software updates, which are untested with respect to safety or emissions 
+requirements, such untested software would have an unfair price advantage (and a quality 
+deficit) over tested alternatives and could easily displace software updates developed by 
+reputable manufacturers and provided by authorized dealers to their customers.  The untested 
+vehicle software could degrade or destroy the market for software upgrade development by 
+AEM’s members and for sale by EDA’s members. In the end, used vehicles for resale may 
+include unknown software modifications or untested software updates that change machine 
+                                                           
+4 17 U.S.C. § 107.
+
+[PAGE 5]
+ 
+5 
+  
+behavior in unpredictable ways creating unsafe situation(s) for consumers and new liability 
+issues for equipment manufacturers and dealers.   
+Under current practices, equipment manufacturers provide software updates and 
+patches to vehicle software through their dealers or directly to vehicle owners.  There is no need 
+for the vehicle owner to undertake the risk of endangering himself or herself, his or her family, 
+passengers and bystanders by attempting to make repairs or modifications to vehicle software, 
+or to procure such solutions from risky unknown sources that are not familiar with the design of 
+a particular vehicle, or its software.   
+  To the extent that the vehicle owners or third parties lack the resources or skill to 
+develop and produce software that is compliant with voluntary safety standards (e.g., ASIL 
+(Automotive Safety Integrity Level)), mandatory safety regulations and emissions regulations, 
+public policy should favor manufacturers and dealers that comply with applicable laws, 
+regulations and voluntary safety standards.  Accordingly, it is recommended that the proposed 
+expansion of circumvention measures does not apply where software updates are already 
+commercially available.  
+Furthermore, the purpose of the DMCA’s anti-circumvention provisions are in place to 
+enable creative persons and businesses that operate in the U.S. to protect copyrights in digital 
+works, such as music recordings, video recordings, and software, against unauthorized access 
+and unauthorized copying and distribution.5 The DMCA helps mitigate against the threat of 
+"massive piracy" of digital works due to "the ease with which [they] can be copied and 
+distributed worldwide virtually instantaneously."6 Therefore, since 1998 when the DMCA was 
+passed; software developers, distributors and manufacturers of equipment, which use 
+embedded software, have relied upon anti-circumvention measures as a viable tool to prevent 
+or discourage piracy and anti-competitive free riding on the creative authorship of copyright 
+owners.   
+In conclusion, a permanent exemption of this nature would put equipment manufactures 
+and authorized dealerships who invest in testing to ensure that software systems and updates 
+provided to consumers are in compliance with both safety and environmental regulations at an 
+unfair economic disadvantage. 
+                                                           
+5 5 17 U.S.C. § 1201(b). 
+6 Lexmark International, Inc. v. Static Control Components, Inc. , 387 F.3d 522, 549 (6th Cir. 2004) (citing S. Rep. No. 
+105-190, at 8 (1998)).
+
+[PAGE 6]
+ 
+6

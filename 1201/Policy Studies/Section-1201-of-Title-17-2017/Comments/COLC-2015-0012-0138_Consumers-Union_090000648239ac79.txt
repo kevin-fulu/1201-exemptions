@@ -1,0 +1,182 @@
+[PAGE 1]
+ 
+ 
+November 16, 2016 
+Additional Comments of Consumers Union 
+To the U.S. Copyright Office 
+Section 1201 Study  
+[Docket No. 2015–8] 
+ 
+ 
+ Consumers Union, the policy and mobilization arm of Consumer Reports,1 respectfully 
+submits these additional comments in the above-referenced matter, in response to the Copyright 
+Office’s request for additional information dated September 27, 2016, and in light of the further 
+comments submitted by others. 
+ 
+Introduction 
+ 
+ As we have stated previously, including in our initial comments submitted in March of 
+this year, the prohibition in section 1201 of the Digital Millennium Copyright Act against 
+circumvention of technological protection measures has proven, in experience, to be an 
+overbroad response to a concern that the digital age would usher in a massive deluge of 
+copyright infringement for which drastic new countermeasures were needed.  Instead, its use to 
+protect access to software that enables and governs – and restricts – the functioning of everyday 
+consumer products in which it is embedded, and their interoperability with other products, 
+threatens to cause far-reaching harm to fundamental consumer rights. 
+ 
+Section 1201 was conceived with the goal of protecting digital forms of traditional 
+copyright-protected creative works in mind, such as digital versions of books, music, and films.  
+But its actual reach is far broader, affecting the full array of the increasing numbers of consumer 
+products that rely on computer software for their functioning.  Section 1201 is being misused by 
+some businesses to shield themselves against competition, and the leverage competition gives 
+consumers in the marketplace.  Consumers are also being denied the long-accustomed rights and 
+incidents of ownership and control over products they have purchased, including the right to 
+choose who will service those products, the right to adapt them to other uses, and the right to 
+prolong their usefulness – undermining fundamental consumer expectations of what ownership 
+means. 
+ 
+                                                           
+1 Consumers Union is the policy and mobilization arm of Consumer Reports, an expert, independent, nonprofit 
+organization whose mission is to work for a safe, fair, and just marketplace for all consumers and to empower 
+consumers to protect themselves.  Consumers Union conducts its policy and advocacy work in the areas of 
+telecommunications reform, health reform, food and product safety, financial reform, and other areas.  Consumer 
+Reports is the world’s largest independent product-testing organization.  Using its more than 50 labs, auto test 
+center, and survey research center, the nonprofit organization rates thousands of products and services annually.  
+Founded in 1936, Consumer Reports has over 8 million subscribers to its magazine, website, and other publications.
+
+[PAGE 2]
+2 
+ 
+The current section 1201 puts an unreasonable and costly burden on consumer rights.  It 
+starts with prohibiting any circumvention of any access-blocking technology whatsoever, subject 
+to felony fines and imprisonment.  The statute lists a few exceptions for specified purposes, each 
+of which needs a lawyer to understand.  Then every three years, those who want permission to 
+circumvent for any other purpose must go through a resource-intensive process before the 
+Copyright Office to demonstrate with specificity how it is warranted and useful, and must do so 
+repeatedly.  And because the burden of proof lies with the person seeking the exception, the 
+exception is typically written tightly around the justification put forward, often with conditions 
+written in complicated language that creates uncertainty and limits the exception’s practical 
+usefulness.   
+ 
+As experience is repeatedly proving, blocking access to software that governs product 
+functioning goes far beyond any legitimate copyright goal.  We are pleased that the Copyright 
+Office has recognized that section 1201 is in need of rebalancing, and is gathering perspectives 
+for a recommendation to Congress. 
+ 
+The goal should be to bring consumers’ rights and abilities to exercise ownership 
+dominion and control over software-enabled products to an equivalent place to where they have 
+been for products that did not depend on software for their functioning.  A consumer who 
+purchases a product or otherwise lawfully acquires it should own it, and be able to use it – as he 
+or she sees fit.   
+ 
+That also includes selling or giving the product to someone else, complete with all its 
+parts and contents and accessories.  It includes being able to tinker with the product, to customize 
+or adapt it, to improve its utility or performance, to get it repaired, or to remove its parts and use 
+them in some other product.  And it includes being able to choose how to accomplish any of 
+those, or who to enlist or hire for assistance.  Just as a dress can be resold in a consignment shop, 
+or given to a friend, or donated to a thrift store; or re-hemmed, or mended, or have its buttons 
+removed and used on another dress, either by the owner herself, or by hiring a seamstress. 
+ 
+Technological innovation should be bringing new freedoms and capabilities to 
+consumers, not placing consumers under new constraints. 
+ 
+Ideally, Congress would comprehensively tighten the scope of the prohibition on 
+circumvention to better focus it on the accepted goal of deterring actual copyright infringement.  
+It would replace the current sweeping approach, under which all circumventions are presumed to 
+be prohibited, with an approach that more closely ties the prohibition to actual copyright 
+infringement.  This would eliminate the need for many of the new permanent exceptions now 
+being contemplated, and would reduce the number of exceptions that would need to be requested 
+would become unnecessary.   
+ 
+  If the Copyright Office opts instead to limit itself to proposing specific new exemptions, 
+we address below some of the specific questions posed in the September 27 request, as they 
+pertain to our experience with the exemption and legislation to permit the unlocking of mobile 
+devices, and our more general interest in giving consumers more control over other consumer 
+products that depend on computer software for their functioning.  The goal should be for
+
+[PAGE 3]
+3 
+ 
+exemptions to be written simply enough for consumers to understand and apply in confidence 
+without having to hire attorneys to help them navigate the requirements.  
+ 
+Comments on Specific Questions 
+ 
+(1)(b) – Permanent exemption for mobile device unlocking 
+ 
+We recommend making this exemption permanent – finally.  We have now advocated for 
+this exemption in three Copyright Office triennial review proceedings, as well as helping lead the 
+effort in Congress to enact the Unlocking Consumer Choice and Wireless Competition Act, as 
+well as in efforts to address the issue in the Federal Communications Commission.  We 
+recommend applying the exemption broadly to all devices that connect to a wireless network, 
+rather than freezing a list of categories of devices into the statute, however comprehensive that 
+list may appear to be now.  Consumers will have the same interest in having power to choose 
+among competing wireless networks for whatever product they are connecting, including 
+products in the Internet of Things.  (If the exemption for computer programs, (1)(c) above, is 
+written comprehensively enough, as we recommend, a separate exemption here may be less 
+important.) 
+ 
+(1)(c ) – Permanent exemption for access to computer programs  
+   
+ We recommend making such an exemption permanent.  We recommend writing it 
+broadly, so as to permit circumvention for any lawful analysis, diagnosis, maintenance, repair, or 
+adaptation of a computer program in any consumer product.  This is the essential protection for 
+helping ensure that a consumer’s product’s ability to function can be in the hands of the 
+consumer.  To the fullest extent possible, this exemption should not be limited or conditioned.   
+ 
+We fully recognize that some changes to the operating software of some products could 
+have serious impacts on safety.  Ensuring product safety has been a bedrock objective of 
+Consumers Union’s mission since its founding 80 years ago.  But safety considerations should 
+not be dragged into copyright law, where they are more apt to be used as a pretext for blocking 
+competition and consumer choice and undermining rights of ownership.  Safety issues are better 
+dealt with by agencies experienced in and responsible for protecting safety, not as an awkward 
+adjunct to copyright law. 
+ 
+(1)(d) – Permanent exemption for addressing obsolete or discontinued technologies  
+ 
+We recommend making such an exemption permanent.  This is essential for putting 
+control over a product’s useful life in the hands of the consumer, rather than allowing the 
+manufacturer or seller to arbitrarily render it obsolete in order to sell a new product or because 
+maintaining support for it is no longer profitable enough.  We recommend including 
+circumvention to address malfunction or damage as well, as suggested by the Copyright Office 
+in its request.  (If the exemption for computer programs, (1)(c) above, is written 
+comprehensively enough, as we recommend, a separate exemption here may be less important.)
+
+[PAGE 4]
+4 
+ 
+(2)(e) – Revising exemption for interoperability 
+ 
+We recommend extending this exemption to cover not only analyzing the software in a 
+product that would enable interoperability with other products, but also adapting the software to 
+enable interoperability.  This is essential to enabling consumers to better control how they are 
+able to use their products, and to get the benefit of choosing between competing products for 
+each function rather than having to stick with one “family” of interoperating products.  It is also 
+essential for enabling consumers to adapt a product for which the manufacturer or seller has 
+discontinued support.  (If the exemption for computer programs, (1)(c) above, is written 
+comprehensively enough, as we recommend, a separate exemption here may be less important.)       
+   
+(3) – Clarifying the anti-trafficking provisions 
+ 
+The laws should be clear that when there is a right to circumvent the technological 
+protection measures, there should also be a right to obtain assistance in doing so, and therefore a 
+right to assist.  Although this may well be implicit, we recommend erring on the side of caution 
+and making this clear in the statute, without conditions that would inject uncertainty regarding its 
+usefulness.   
+ 
+Conclusion 
+ 
+There is now a more than sufficient record of experience with section 1201 to have 
+illuminated its overbreadth and other flaws, and to form a sound basis for revising it to more 
+closely adhere to the purpose for which it was enacted, the deterrence of wide-scale copyright 
+infringement in the digital age.  We urge the Copyright Office to incorporate our 
+recommendations into a common-sense proposal to help guide Congress to a revised law that 
+better protects the rights and interests of consumers in competition and choice and in control 
+over products they have paid for or otherwise lawfully acquired. 
+ 
+Respectfully, 
+ 
+       
+  George P. Slover 
+  Senior Policy Counsel 
+  Consumers Union

@@ -1,0 +1,245 @@
+[PAGE 1]
+	
+	
+February	16,	2016	
+	
+Maria	A.	Pallante	
+Register	of	Copyrights	
+U.S.	Copyright	Office	
+Library	of	Congress	
+101	Independence	Ave.,	SE	
+Washington,	DC		20559‐6000	
+	
+RE:	 Software‐Enabled	Consumer	Products	Study:		Notice	and	Request	for	Public	
+Comment;	U.S.	Copyright	Office	Notice	of	Inquiry	[Docket	No.	2015–6]	
+Dear	Ms.	Pallante:	
+The	Motor	&	Equipment	Manufacturers	Association	(MEMA)	represents	vehicle	suppliers	
+that	manufacture	and	remanufacture	components	and	systems	for	use	in	passenger	cars	and	
+heavy	trucks	providing	original	equipment	(OE)	to	new	vehicles	as	well	as	aftermarket	parts	to	
+service,	maintain	and	repair	over	256	million	vehicles	on	the	road	today.	Suppliers	are	the	
+largest	employers	of	manufacturing	jobs	in	the	U.S.	directly	employing	over	734,000	Americans	
+with	a	total	employment	impact	of	3.6	million	jobs.	Our	members	lead	the	way	in	developing	
+advanced,	transformative	technologies	that	enable	safer,	smarter	and	more	efficient	vehicles,	
+all	within	a	rapidly	growing	global	marketplace	with	increased	regulatory	and	customer	
+demands.	MEMA	represents	vehicle	suppliers	through	the	following	four	divisions:	Automotive	
+Aftermarket	Suppliers	Association	(AASA),	Heavy	Duty	Manufacturers	Association	(HDMA),	
+Motor	&	Equipment	Remanufacturers	Association	(MERA)	and	Original	Equipment	Suppliers	
+Association	(OESA).		
+MEMA	is	encouraged	by	the	Notice	and	Request	for	Public	Comment	on	the	operation	of	
+Section	1201	of	Title	17.	Motor	vehicle	suppliers	work	closely	with	vehicle	manufacturers	to	
+provide	the	cutting	edge,	innovative	systems	and	components	to	consumers.	In	order	to	meet	
+regulatory	requirements	and	consumer	demand	for	safer,	cleaner,	and	more	connected	
+vehicles,	motor	vehicle	parts	manufacturers	and	remanufacturers	have	increasingly	taken	on	a	
+significant	role	in	the	research,	development,	engineering,	and	manufacturing	of	the	advanced	
+technologies	necessary	to	meet	these	ever‐increasing	goals.	In	fact,	suppliers	are	responsible	
+for	two‐thirds	of	the	value	of	today’s	automobiles,	and	many	vehicle	technologies	produced	for	
+new	cars	are	manufactured	by	the	same	suppliers	that	make	parts	for	the	aftermarket.	As	
+vehicles	continue	to	become	more	sophisticated,	the	number	of	sensors	and	software	enabled	
+devices	will	grow.	As	it	stands,	there	are	60	to	100	sensors	in	the	average	vehicle	today.		
+The	U.S.	automotive	light	vehicle	aftermarket	is	a	$246.7	billion	industry	that	includes	
+manufacturing,	remanufacturing,	distribution,	retailing,	and	installation	of	all	vehicle	parts,	
+chemicals,	tools,	equipment,	and	accessories.	Most	automotive	aftermarket	maintenance	and	
+repair	work	takes	place	in	independent	repair	shops	or	at	vehicle	manufacturers’	dealerships,
+
+[PAGE 2]
+MEMA Comments to U.S. Copyright Office 
+RE: Software‐Enabled Consumer Products Study, Docket No. 2015–6 
+2/16/16   Page 2 of 4 
+with	the	latter	often	referred	to	as	OE	Service.	There	is	also	a	significant	“do‐it‐yourself”	
+market,	which	comprises	individuals	who	perform	their	own	vehicle	repair	and	maintenance.	
+Since	1982,	vehicles	have	been	equipped	with	computers	and	electronics	to	control	drivability	
+and	fuel	efficiency,	and	aftermarket	manufacturers,	remanufacturers	and	independent	service	
+repair	outlets	have	demonstrated	their	ability	to	service	and	maintain	these	technologies.	More	
+and	more,	many	vehicle	components	are	connected	and	enabled	by	the	software	and	
+programming	that	make	them	functional.	
+Remanufacturing	is	a	growing	segment	of	the	aftermarket	that	ut ilizes	standardized	
+industrial	processes	by	which	previously	worn	or	non‐functional 	products	are	returned	to	
+the	same‐as‐new,	or	better,	condi tion	and	performance	as	the	original	components.	
+Remanufacturing	processes	incorporate	technical	specifications	 (including	engineering,	
+quality	and	testing	standards)	to	yield	fully	warranted	product s.	Examples	of	remanufactured	
+components	in	the	motor	vehicle	parts	industry	include:	electro nic	control	units	(black	box	
+and	other	electronic	modules),	brakes,	steering	and	suspension	 components,	engines,	
+transmissions,	alternators,	starters,	and	turbochargers.	Remanu facturing	preserves	the	value	
+of	the	original	manufacturing	−	including	energy	costs	and	inve stments	in	capital	and	labor	
+inputs	−	which	recycling	alone	c annot	do.	As	such,	remanufactured	parts	are	about	thirty	
+percent	less	expensive	than	comparable	new	parts.		
+In	the	U.S.,	the	average	age	of	light	vehicles	(passenger	cars	and	pick‐up	trucks)	is	11.5	
+years,	and	the	owners	of	these	vehicles	often	demand	cost‐effective	solutions	for	their	
+maintenance	and	repair	needs.1	As	such,	the	independent	aftermarket	(e.g.	independent	repair	
+shops	and	local	repair	technicians)	has	about	70	percent	of	the	service	bay	capacity	to	maintain	
+and	repair	passenger	vehicles.	In	contrast,	new	vehicle	dealers	only	represent	about	28	percent	
+of	the	service	bays.2	Therefore,	consumers	have	come	to	rely	on	the	independent	aftermarket	
+to	provide	both	quality	repair	parts	and	related	services.	
+However,	U.S.	copyright	laws,	and	specifically,	the	anti‐circumvention	and	anti‐trafficking	
+provisions	of	Section	1201,	currently	severely	limits	the	ability	of	consumers	to	have	their	
+vehicles	serviced	and	repaired	with	the	software‐enabled	component	of	their	choice	–	whether		
+new	aftermarket	or	remanufactured	–	in	the	independent	aftermarket.	The	access	to	vehicle	
+software	is	necessary	in	the	course	of	diagnosis	and	repair	of	a	vehicle.	For	example,	repairs	
+that	replace	hardware	components	may	require	use	of	the	software.	
+The	Librarian	of	Congress’s	2015	DMCA	Section	1201	Rules	did	grant	exemptions	for	those	
+vehicle	owners	who	wish	to	repair	or	modify	their	own	vehicles.	However,	vehicle	owners	must	
+also	retain	the	freedom	of	choice	regarding	the	servicing	and	repair	of	their	vehicles	by	third	
+parties.	This	freedom	has	existed	for	more	than	100	years,	well	before	the	employment	of	
+technological	protection	measures	(“TPMs”)	in	vehicles.	In	order	to	do	this,	the	independent	
+aftermarket	must	also	have	the	freedom	to	repair	and	maintain	vehicles,	which	will	more	often	
+than	not	include	access	to	vehicle	software.		
+																																																								
+1 Source:  IHS, July 29, 2015. 
+2 New vehicle dealers represent about 14 percent of the total automotive service outlets in the U.S.
+
+[PAGE 3]
+MEMA Comments to U.S. Copyright Office 
+RE: Software‐Enabled Consumer Products Study, Docket No. 2015–6 
+2/16/16   Page 3 of 4 
+However,	the	Librarian’s	most	re cent	DMCA	exemptions	specifical ly	excluded	TPM	
+circumvention	“on	behalf	of”	vehicle	owners	by	third	parties,	o ut	of	concern	that	such	an	
+exception	would	be	“in	tension	wi th	the	anti‐trafficking	provis ions	of	Section	1201(a)(2)	
+and	(b).”	It	is	the	position	of	 MEMA	that	such	service	and	repa ir	technicians	act	as	the	agent	
+of	the	vehicle	owner,	who	are	permitted	to	engage	in	such	servi ce	repair	as	a	matter	of	fair	
+use	or	under	Section	117.		
+To	the	extent	that	the	U.S.	Copyright	Office	nonetheless	finds	 that	creating	an	exemption	
+for	third	party	repairs	would	st ill	be	in	tension	with	the	anti‐trafficking	provisions	of	Section	
+1201,	then	MEMA	respectfully	sugg ests	amending	Section	1201	to	allow	for	the	adoption	of	
+exemptions	to	the	prohibition	on 	circumvention	that	can	also	extend	to	the	exemptions	to	the	
+anti‐trafficking	prohibitions.	Thus,	the	Register	should	recommend,	and	the	Librarian	should	
+be	permitted	to	adopt,	exemptions	that	permit	third‐party	assis tance	when	justified	by	the	
+record.	In	this	instance,	creating	an	exemption	for	vehicle	own ers	to	engage	in	self‐diagnosis,	
+maintenance,	or	repair,	but	not	for	third	party	service	and	rep air	technicians	to	do	so	on	their	
+behalf,	creates	the	counterintuitive	result	that	those	vehicle	 owners	who	lack	the	knowledge	
+or	ability	to	engage	in	self‐diagnosis	or	repair	is	left	with	n o	choice	but	to	return	to	the	
+vehicle	manufacturer,	often	at	a	much	higher	cost	than	going	to 	an	independent	service	
+provider.	When	vehicle	repairs	a re	more	expensive	and	less	convenient,	owners	may	in	turn	
+choose	to	forego	frequent	mainten ance,	which	means	vehicles	may	fall	into	disrepair,	
+endangering	other	drivers	on	the	road,	pedestrians,	and	propert y	–	as	well	as	the	driver	of	
+the	vehicle.	Ensuring	the	public	safety	of	citizens	should	be	t aken	into	account	in	evaluating	
+the	operation	of	Section	1201.	
+Aftermarket	parts	manufacturers	have	faced	legal	action	from	vehicle	manufacturers	
+alleging	Section	1201	violations	infringement	of	copyright	laws	for	the	sale	of	remanufactured	
+software‐enabled	modules.	These	actions	are	often	associated	with	much	higher	costs	for	
+consumers	because	they	force	vehicle	owners	or	independent	service	providers	to	go	to	the	
+vehicle	manufacturers	as	the	only	option	for	repair	parts,	resulting	in	higher	prices,	longer	
+trips,	and	fewer	options.	The	choice	of	purchasing	a	remanufactured	or	new	aftermarket	
+component	–	in	either	the	independent	aftermarket	or	OE	Service	channel	–	should	remain	the	
+decision	of	the	consumer.	This	choice	is	often	driven	by	many	factors,	including	the	consumer’s	
+preference,	his	or	her	budget,	and	the	age	of	the	vehicle.	Frequently,	in	the	independent	
+aftermarket,	a	standard	repair	part	may	be	available	but	a	more	sophisticated	part	is	not	(see	
+Exhibit	#1).	In	addition,	the	independent	aftermarket	has	seen	a	growing	number	of	
+replacement	parts	redesigned	with	sensors	or	micro‐computers	with	alleged	TPM	protection.	
+For	example:	
+ Blower	motors	redesigned	after	Model	Year	2005;	
+ Clock	spring	components	for	air	bag	assemblies	redesigned	after	Model	Year	2010;	and,	
+ Window	switches	redesigned	after	Model	Year	2006.	
+These	are	not	necessarily	high	technology	components,	but	they	are	components	that	
+consumers	may	need	to	replace	over	the	life	of	their	vehicles.	Section	1201	should	not	act	as	a	
+limit	to	consumers’	options	of	repair	parts	and	service	–	a	freedom	of	consumer	choice	that	has
+
+[PAGE 4]
+MEMA Comments to U.S. Copyright Office 
+RE: Software‐Enabled Consumer Products Study, Docket No. 2015–6 
+2/16/16   Page 4 of 4 
+absolutely	nothing	to	do	with	copyright	laws.	Moreover,	copyright	laws	should	not	act	as	an	
+anti‐competitive	measure	that	works	to	drive	up	pricing	while	limiting	choice.	The	U.S.	
+Copyright	Office	should	encourage	policies	that	protect	consumer	choice	of	both	components	
+and	service	location	and	allow	for	a	level	playing	field	for	all	participants.	This	ensures	
+convenience,	affordability	and	a	competitive	market.	
+By	limiting	the	choices	of	consumers,	vehicle	manufacturers	are	forcing	consumers	into	a	
+more	restrictive	(and	often	more	expensive)	service	and	repair	decision.	Unlike	other	products,	
+consumers	can	plan	to	retain	their	vehicles	for	many	years,	making	the	best	of	initial	
+investments	and	opportunities	at	the	time	of	resale.	Section	1201	should	not	be	used	to	force	
+consumers	into	potentially	more	expensive	repair	and	service	models,	thereby	diminishing	the	
+overall	value	of	their	vehicles.		
+As	consumer,	regulatory	and	legislative	demands	continue	to	add	more	technology	to	
+vehicles,	including	the	advent	of	self‐driving	cars,	the	challenges	with	servicing	and	repairing	
+them	will	only	become	more	acute.	It	is	also	MEMA’s	belief	that	the	current	triennial	Section	
+1201	rulemaking	process	can	be	much	streamlined	if	it	is	adjusted	to	provide	for	the	
+presumptive	renewal	of	previously‐granted	exemptions.	MEMA	urges	the	U.S.	Copyright	Office	
+to	use	this	Software‐Enabled	Consumer	Products	Study	as	an	opportunity	to	develop	a	future	
+direction	for	copyright	law	that	does	not	create	roadblocks	or	rescind	the	freedom	of	choice	for	
+consumers	to	have	their	vehicles	serviced	and	repaired	as	they	deem	appropriate.	
+MEMA	appreciates	the	U.S.	Copyright	Office’s	consideration	of	our	comments.	For	more	
+information	or	questions,	please	contact	MEMA	Senior	Vice	President	of	Government	Affairs	
+Ann	Wilson	at	(202)	312‐9246	or	awilson@mema.org.		
+Sincerely,	
+	 			 	
+S t e v e 	 H a n d s c h u h 	 				A n n 	 W i l s o n 	
+P r e s i d e n t 	 a n d 	 C E O 	 				S e n i o r 	 V i c e 	 P r e s i d e n t , 	 G o v e r n m e n t 	 A f f a i r s
+
+[PAGE 5]
+Window Lift Motor (WLM) Technology
+2‐pin “simple” 
+motor
+4‐pin motor with 
+sensors
+•Express‐down function
+•2 pins for power and 2 
+pins for a pulser
+•Auto‐function needs 
+to be tested
+5‐pin motor with 
+sensors
+•2 pins for power, 
+pulser for speed, limit 
+switch for position, 
+and ground for 
+sensors
+•Sometimes 6‐pin 
+connector but only 5 
+used
+•Auto‐function needs 
+to be tested
+6‐pin motor 
+without PCBA 
+(Printed Circuit 
+Board Assembly)
+•2 pins for power, 4 
+pins for the 2 Hall 
+effect sensors for 
+position
+•Window functions 
+processed in window 
+switch
+•Software development 
+not required
+•Position determined 
+by Hall effect sensor 
+producing a pulse or 
+internal position 
+sensors
+•Auto‐function needs 
+to be tested
+6‐pin “smart” 
+motor with PCBA 
+(Printed Circuit 
+Board Assembly)
+•Window functions 
+processed in 
+removable PCBA and 
+communicated 
+through serial data 
+pins to the door 
+module or BCM
+•1 pin connected to 
++12V battery, 1 pin for 
+ground, 2 pins for high 
+and low speed serial 
+data, 2 pins to control 
+motor
+•Auto‐function needs 
+to be tested
+7‐10‐pin “smart” 
+motor with PCBA
+•Additional 
+communication to the 
+BCM (Body Control 
+Module) and/or door 
+module
+10+ pin “smart” 
+motor
+•Very complex motor 
+that combines the 
+door module with the 
+WLM
+Low Complexity High  Complexity
+Existing Industry Technology In Scope for Smart Motor 
+Development Out of Scope
+Exhibit #1

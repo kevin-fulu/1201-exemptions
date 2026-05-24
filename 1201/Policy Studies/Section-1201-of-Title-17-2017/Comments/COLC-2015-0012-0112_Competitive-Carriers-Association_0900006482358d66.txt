@@ -1,0 +1,282 @@
+[PAGE 1]
+ 
+Commenting Party:  Competitive Carriers Association (“CCA”) 
+ 
+Contact:   Rebecca Murphy Thompson, EVP & General Counsel 
+    Email: rthompson@ccamobile.org  
+    Telephone: (800) 722-1872 
+ 
+Comment Submission: Section 1201 Study: Notice and Request for Public Comment 
+    Notice of Inquiry  
+Docket No. 2015-8 
+ID: COLC-2015-0012  
+ 
+Date:    October 27, 2016 
+ 
+ 
+COMMENTS OF COMPETITIVE CARRIERS ASSOCIATION 
+     
+Competitive Carriers Association (“CCA”)1 submits the following comments in response 
+to a Notice of Inquiry (“Notice”), in which the United States Copyright Office (the “Office”) 
+seeks additional comment on the operation of the Section 1201 rulemaking process under the 
+Digital Millennium Copyright Act (“DMCA”).  These comments focus on the Notice’s proposal 
+to adopt “a permanent exemption to permit circumvention of access controls on wireless devices 
+for purposes of ‘unlocking’ such devices – i.e., enabling them to connect to the network of a 
+different mobile wireless carrier.”2  CCA has been the principal advocate for this exemption and 
+supports adoption of the Notice’s proposal, consistent with the 2015 unlocking exemption.   
+ 
+ 
+ 
+ 
+                                                 
+1  CCA is the leading association for competitive wireless providers and stakeholders across 
+ the United States.  CCA’s membership includes nearly 100 competitive wireless  providers 
+ ranging from small, rural carriers serving fewer than 5,000 subscribers, to regional and national 
+ providers serving millions of customers.  CCA also represents approximately 200 associate 
+ members consisting of small businesses, vendors, and suppliers that provide products and 
+ services throughout the mobile communications supply chain. 
+ 
+2   U.S. Copyright Office, Library of Congress, Section 1201 Study: Request for Additional 
+Comments, Notice of Inquiry, Docket No. 2015-8 at 4 (rel. Sept. 27, 2016) (the “Notice”).
+
+[PAGE 2]
+2 
+ 
+BACKGROUND 
+Over the past decade, CCA has participated in several rounds of the Section 1201 
+triennial rulemaking proceedings seeking exemptions that would allow circumvention of access 
+controls on wireless devices, such as mobile phones and tablets, so users may easily connect to 
+wireless networks through their preferred carrier.  It was a win for consumers and competitive 
+carriers alike when the Librarian of Congress adopted exemptions permitting unlocking of 
+wireless handsets in 2006, 2010, 2012, and 2015.3   
+As CCA’s initial comments in these proceedings indicate, CCA was pleased that the 
+Register of Copyrights (the “Register”) recognized the need to reexamine the burdensome 
+triennial rulemaking process and recommended that Congress revise Section 1201 to better 
+account for exemptions that lack meaningful opposition or otherwise demonstrate a need for a 
+permanent exemption.4   
+ 
+ 
+ 
+                                                 
+3  See U.S. COPYRIGHT OFFICE, SECTION 1201 RULEMAKING:  SIXTH TRIENNIAL PROCEEDING TO 
+DETERMINE EXEMPTIONS TO THE PROHIBITION ON CIRCUMVENTION, RECOMMENDATION OF THE 
+REGISTER OF COPYRIGHTS 138 (2015), available at http://copyright.gov/1201/2015/registers-
+recommendation.pdf  (“2015 Recommendation”).  In 2012, the adopted exemption was more  
+restrictive and limited to wireless handsets obtained by January 26, 2013.  In response to vocal 
+public disapproval and advocacy from stakeholders, Congress passed the Unlocking Consumer 
+Choice and Wireless Competition Act, which, among other things, reinstated the broader 2010 
+unlocking exemption for wireless handsets.  Congress also directed the Copyright Office to 
+examine and consider in the 2015 rulemaking proceeding whether additional types of devices 
+should be included under this exemption.  See Unlocking Consumer Choice and Wireless 
+Competition Act, Pub. L. No. 113-144, 128 Stat. 1751 (2014) (the “Unlocking Act”).  
+4  See generally Comments of CCA at 2 (filed Mar. 3, 2016) (“CCA Policy Study Comments”) 
+(CCA, among other things, agreed that “exemptions to the prohibition on circumvention for 
+wireless devices are ripe for permanent consideration” and requested that the Register 
+recommend that Congress adopt a permanent wireless device unlocking exemption).
+
+[PAGE 3]
+3 
+ 
+DISCUSSION 
+CCA urges the Copyright Office to make permanent the device unlocking exemption as 
+adopted in the 2015 triennial rulemaking (“2015 device exemption”).5  A device unlocking 
+exemption is good public policy, providing consumers with greater choice of both wireless 
+carrier and mobile device, as well as fostering competition in the mobile broadband marketplace.  
+A permanent unlocking exemption will provide needed stability and certainty to carriers and 
+consumers currently operating in a more competitive environment.  The 2015 device exemption 
+provides appropriate language for a permanent exemption.  The 2015 exemption is more broadly 
+written than its predecessors, encompassing technologies like wearables and other portable 
+devices which will become increasingly ubiquitous as the Internet of Things (“IoT”) develops.  
+Moreover, a permanent unlocking exemption will ease the substantial burden on those 
+participating in the resource-intensive triennial rulemaking proceedings.  In addition, the current 
+exemption has received little objection.6  Congress and the record in these proceedings supports 
+the contemplated 2015 device exemption.  Accordingly, CCA supports making permanent the 
+unlocking exemption for wireless devices as articulated by the 2015 exemption.     
+ 
+ 
+                                                 
+5  Exemption to Prohibition on Circumvention of Copyright Protection Systems for Access Control 
+ Technologies, 80 FR 65944, 65950 (Oct. 28, 2015) (“2015 Final Rule”). 
+6  See Testimony of Steven Berry before the United States Copyright Office, at pps. 33 – 34 (May 
+31, 2012), available at http://copyright.gov/1201/2012/hearings/transcripts/hearing-05-31-
+2012.pdf; see also Testimony of Steven Berry before the United States House of Representatives 
+Committee on the Judiciary, Subcommittee on Courts, Intellectual Property and the Internet, H.R. 
+1123, the “Unlocking Consumer Choice and Wireless Competition Act” (June 6, 2013), available 
+at http://judiciary.house.gov/index.cfm/hearings?ID=379A2DB0-9D53-
+E1934DBB9687D1DFA54C.
+
+[PAGE 4]
+4 
+ 
+ 
+I. A PERMANENT UNLOCKING EXEMPTION WILL BENEFIT THE PUBLIC 
+ 
+Establishing a permanent unlocking exemption for wireless devices will result in 
+significant and sustained public benefits by promoting competition, innovation and consumer 
+choice.  The unlocking exemption allows customers more freedom and flexibility to select the 
+wireless provider of their choice.  Absent an exemption for wireless device unlocking, wireless 
+device owners may be forced to purchase a new, and oftentimes expensive, wireless handset to 
+change service providers and connect to their preferred wireless network.  This may result in 
+substantial consumer costs in the form of the price paid for a new wireless device (while their 
+current device becomes obsolete), lost personal information and other assets stored on the device 
+such as contacts, music, apps, and wireless accessories, to name a few.  These costs likely will 
+hinder a consumer’s ability to switch service providers, or otherwise prevent consumers from 
+choosing to switch, thus diminishing competition.  Consumers should not be forced to choose 
+between being locked to an undesirable network or losing their device and the data that comes 
+with it.  Moreover, without a permanent exemption, every three years consumers and carriers 
+will continue to experience uncertainty about the ability to unlock a device.7  Consumers should 
+not have to worry about losing the right to use their devices on a network of their choosing.   
+Further, unlocking is particularly important to correct a market imbalance that, in the 
+past, led to exclusive contracts between dominant carriers and original equipment manufacturers 
+(“OEMs”) for the most sought-after devices.  This dynamic has, and would, prevent millions of 
+consumers from accessing the latest devices, stifling competition and innovation.   
+                                                 
+7  A consistent exemption would provide a level of stability and certainty not only for consumers 
+and providers, but also investors and innovators.  See Policy Study Comments of New America’s 
+Open Technology Institute (filed Mar. 3, 2016).
+
+[PAGE 5]
+5 
+ 
+II. THE 2015 DEVICE EXEMPTION PROVIDES APPROPRIATE LANGUAGE 
+FOR A PERMANENT DEVICE UNLOCKING EXEMPTION  
+The 2015 exemption is appropriately written for permanent adoption of a device 
+unlocking exemption.  The 2015 exemption includes more expansive language than previous 
+exemptions, while focusing on use of wireless devices as opposed to altering rights of content 
+owners.  Particularly, the 2015 exemption covers mobile phones and tablets, as well as mobile 
+hotspots and other “portable mobile connectivity devices,” including wearable devices like 
+smartwatches.8  This language will ensure the exemption continues to be meaningful to 
+consumers and industry stakeholders as technology evolves over time. 
+III. THE RECORD REFLECTS A CLEAR NEED FOR THIS EXEMPTION 
+ Providers and other stakeholders should not have to engage in a tedious and burdensome 
+rulemaking proceeding every three years to protect the rights of their customers for an exemption 
+like device unlocking, which faces little opposition.  As CCA has explained – and the record 
+strongly supports9 – the triennial rulemaking proceeding is resource-intensive, costly and 
+inefficient with regard to certain, specific exemptions.  Indeed, every three years device-
+unlocking proponents are required to prepare several rounds of written submissions, review a 
+substantial written record,10 and potentially participate in a hearing before representatives of the 
+                                                 
+8  See 2015 Final Rule at 65950. 
+9   See, e.g., Policy Study Reply Comments of Electronic Frontier Foundation (filed Apr. 1, 2016); 
+Policy Study Reply Comments of International Doc Association et al. (filed Apr. 1, 2016); Policy 
+Study Reply Comments of U.S. Intellectual Property and Technology Law Clinic (filed Apr. 1, 
+2016); Policy Study Comments of ACM U.S. Public Policy Council (filed Mar. 3, 2016); Policy 
+Study Comments of Consumers Union (filed Mar. 3, 2016); Policy Study Comments of 
+DIYAbility (filed Mar. 3, 2016); Policy Study Comments of Massachusetts Institute of 
+Technology Libraries (filed Mar. 3, 2016); Policy Study Comments of New Media Rights (filed 
+Mar. 3, 2016); Comments of Owners Rights’ Initiative (filed Mar. 3, 2016); Policy Study 
+Comments of Public Knowledge (filed Mar. 3, 2016). 
+10  Nearly 40,000 comments were submitted in the sixth triennial rulemaking.  See U.S. Copyright 
+Office, Library of Congress, Section 1201 Study: Notice and Request for Public Comment,
+
+[PAGE 6]
+6 
+ 
+Office, even where there is no real objection.11  If the proposed permanent exemption is not 
+adopted, then CCA and other proponents will need to decide in 2018, and then 2021 and so on, 
+whether they can expend substantial resources toward a rulemaking that may be otherwise 
+directed in a more efficient manner.12  Adopting a permanent exemption will change this pattern, 
+and will “minimize the effort [participants] must expend” on the rulemaking process, benefiting 
+and creating additional certainty for participants, consumers and the Office.13     
+IV. THERE IS CONGRESSIONAL SUPPORT FOR A PERMANENT DEVICE 
+UNLOCKING EXEMPTION  
+Congress plainly supports a device unlocking exemption, and therefore the Office should 
+move forward confidently in adopting a permanent unlocking exemption.  A form of unlocking 
+exemption has been recommended by the Register since 2006, with Congress continuously 
+providing a stamp of approval for a wireless device unlocking exemption.14  The most apparent 
+example of Congress’s support is its adoption of the Unlocking Act, which it enacted in response 
+to the Office’s failure to recommend a suitable unlocking exemption for wireless devices.15  In 
+                                                 
+Notice of Inquiry, Docket No. 2015-8 at 5 (rel. Dec. 22, 2015) (the “2015 Section 1201 Study 
+Notice”).   
+11  See CCA Policy Study Comments at 5-11.  For instance, although many of the different 
+unlocking classes proposed by CCA in the 2015 rulemaking proceeding possessed similar and 
+overlapping attributes, CCA still was required to prepare and file five separate petitions and 
+rounds of comments for each class, even if an exemption was already in place.   
+12  Policy Study Comments of Organization for Transformative Works at 8 (filed Mar. 3, 2016) 
+(noting that with the adoption of more permanent exemptions, the “Copyright Office, copyright 
+owners, and public interest organizations could focus elsewhere, where numerous other copyright 
+issues remain in need of attention . . . [it] would also at least reduce the burden on the Copyright 
+Office on a long-term basis.”); see also Policy Study Comments of DIYAbility (filed Mar. 3, 
+2016) (explaining that permanent exemptions would “streamline the comment process.”).   
+13  Policy Study Comments of Society of American Archivists at 4 (filed Mar. 3, 2016).  
+14  See supra note 2 and accompanying text.  
+15  See supra note 2.
+
+[PAGE 7]
+7 
+ 
+passing the Unlocking Act, Congress “permanently established” that circumvention under any 
+exemption to permit a wireless telephone handset or other wireless device to connect to a 
+different telecommunications network may be initiated by the owner of the handset or device, or 
+other specific individuals.16  Accordingly, the Copyright Office should not feel constrained by 
+lack of Congressional support when adopting a permanent exemption for device unlocking. 
+V. THE RECORD SUPPORTS A PERMANENT DEVICE UNLOCKING 
+EXEMPTION  
+The record in the 1201 Study supports expanding the categories of permanent exemptions 
+as well.  While there was limited opposition to expanding the categories of permanent 
+exemptions generally, there was no significant opposition on the record to the adoption of a 
+permanent exemption for wireless device unlocking.  Public Knowledge explained that “the 
+number of repeat exemption requests . . . speaks to the value of expanding the set of permanent 
+exemption categories.”17  The Massachusetts Institute of Technology and University of Virginia 
+Library agree that a “useful” permanent exemption would be one that permits circumvention for 
+all lawful uses permitted by the Copyright Act, as contemplated by the Unlocking Act.18  An 
+effective permanent exemption, especially one concerning technology, must also be forward-
+thinking.  The language of the 2015 unlocking exemption is broad and covers a wide array of 
+                                                 
+16  2015 Section 1201 Study Notice at 9; Unlocking Act, § 2(a), (c), 128 Stat. at 1751-52; see also 37 
+C.F.R. 201.40(b)(3) (2012).  
+17  Policy Study Comments of Public Knowledge at 9 (filed Mar 3, 2016); see also Policy Study 
+Comments of Society of American Archivists at 3 (filed Mar. 3, 2016) (arguing that if a second 
+renewal is granted, the exemption should become permanent.).   
+18  See Policy Study Comments of Massachusetts Institute of Technology at 5 (filed Mar. 3, 2016); 
+Policy Study Comments of University of Virginia Library at 3 (field Mar. 3, 2016); see also 
+Policy Study Comments of Authors Alliance at 4 (filed Mar. 2, 2016); Policy Study Comments of 
+Organization for Transformative Works at 8 (filed Mar. 3, 2016) (recognizing that the “best result 
+would be a permanent exemption for noninfringing uses, avoiding the extended, wasteful 
+wrangling involved” in the rulemaking proceedings).
+
+[PAGE 8]
+8 
+ 
+wireless devices, including mobile phones, mobile tablets, portable mobile connectivity devices 
+and wearable devices.  As such, this exemption will evolve with new devices technology using 
+the underlying software.  The Office should adopt a permanent wireless device unlocking 
+exemption consistent with the 2015 exemption.19   
+VI. CONCLUSION 
+The time is ripe for the Office to adopt a permanent exemption for unlocking wireless 
+devices, as articulated by the 2015 device exemption.  A permanent exemption for unlocking 
+wireless devices will help ensure a consumer-friendly mobile broadband market wherein 
+consumers can purchase a device and easily switch between compatible providers without taking 
+a loss on their often substantial investment.  It will also facilitate competition between providers, 
+by limiting the impact of any exclusive arrangements between OEMs and dominant wireless 
+carriers.  Next, making permanent the wireless device unlocking exemption will reduce 
+uncertainty and relieve consumer and industry groups from the formidable burden of 
+participating in Triennial Rulemakings.  Certainly, the public benefit of this exemption is 
+uncontroversial and the record supports a permanent exemption.  Further, adopting a permanent 
+exemption for wireless devices enjoys Congressional support.  For the foregoing reasons, CCA 
+supports the adoption of a permanent exemption for wireless device unlocking, consistent with 
+the 2015 unlocking exemption.   
+ 
+ 
+                                                 
+19  CCA would not be opposed to also including “Consumer Machines” and therefore allowing the 
+Internet of Things (“IoT”) within the scope of the permanent exemption.  This would include 
+“smart” devices that utilize data connections to connect to the Internet or interact with other smart 
+devices.
+
+[PAGE 9]
+9 
+ 
+ 
+Respectfully submitted, 
+ 
+/s/ Rebecca Murphy Thompson          
+Steven K. Berry 
+Rebecca Murphy Thompson 
+Elizabeth Barket 
+COMPETITIVE CARRIERS ASSOCIATION  
+805 15th Street NW, Suite 401 
+       Washington, DC 20005 
+ 
+October 27, 2016

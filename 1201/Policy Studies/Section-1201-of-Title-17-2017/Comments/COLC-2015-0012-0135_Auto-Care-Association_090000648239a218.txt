@@ -1,0 +1,239 @@
+[PAGE 1]
+1 
+ 
+Before the  
+United States Copyright Office 
+Library of Congress 
+Washington, D.C. 
+ 
+In the Matter of    ) 
+Section 1201 Study:     ) Docket No. 2015-8 
+Request for Additional Comments   ) 
+ 
+Additional Reply Comments of Auto Care Association  
+Auto Care Association (“Auto Care”), in reply to the additional comments submitted in 
+response to the September 27, 2016 Notice of Inquiry (“NOI”), notes that there was little 
+opposition to resolving the specific issues addressed in Auto Care’s comments to date. Repair 
+and customization products and service by consumers and businesses are lawful under the Patent 
+Act for physical vehicle parts. Where digital code or data controls or performs the function of 
+physical parts, that lawful repair should not be thwarted by overbroad application of Section 
+1201. 
+ 
+With few exceptions, by parties with opposing economic interests, commenters generally 
+recognize that the Copyright Act presents no convincing policy reasons why Section 1201 should 
+deprive consumers and businesses the right to access software to repair and customize motor 
+vehicles. Auto Care replies to these comments below, and explains why there is no policy or 
+legal justification not to grant a permanent exemption for vehicle repair and enact legislation that 
+clearly exempts such repair from the threat of liability for anticircumvention and antitrafficking.    
+ 
+1. Comments Support the Goal of Legislation or a Permanent Exemption Securing 
+the Right to Repair. 
+ 
+As Auto Care has explained,
+1 modern motor vehicles increasingly rely on software 
+routines, embedded as firmware in scores of part modules networked throughout a vehicle, to 
+control the operations of physical equipment. Over the last few years, original equipment 
+manufacturers of motor vehicles (OEMs) have attempted to wield Section 1201 of the DMCA as 
+an offensive weapon to stop consumers and businesses from competing to repair or customize 
+their vehicles, or to supply replacement parts for these vehicles. These technological measures by 
+design prevent repair or replacement of the part, not access to copyrighted software. In some 
+cases, the allegedly protected “software” is uncopyrightable data, not a copyrightable program.2 
+In others, the anticompetitive motive is even clearer, by assuring that every module must be tied 
+                                                            
+1 Additional Comments of Auto Care Association, In the Matter of Section 1201 Study: Notice of 
+Inquiry and Request for Additional Comments, Dkt. No. 2015-8 (Oct. 27, 2016) (“Additional 
+Comments”), available online at https://www.regulations.gov/document?D=COLC-2015-0012-
+0120. 
+2 See, Ford Motor Company v. AUTEL US Inc., No. 14-13760, Opinion and Order, (E.D. Mich. 
+Sept. 30, 2015).
+
+[PAGE 2]
+2 
+ 
+by the OEM to the vehicle’s VIN number, so that no replacement part installed by a non-OEM or 
+dealer would function.      
+ 
+Auto Care in its Additional Comments therefore proposed a permanent exemption for, 
+and a specific legislative solution to exempt, repair activities from Section 1201(a)(1) and (2) 
+and (b). Several commenters suggested an alternative approach which relied upon the existing 
+terms of the software maintenance exemption from infringement under Section 117.
+3  Others 
+suggested that the Copyright Office promulgate a permanent exemption for repair activities.4  
+Several comments recommended legislation to clarify that Section 1201 does not prevent access, 
+repair and modifications of functional software, or expert assistance in doing so.5    
+ 
+To be clear, Auto Care would support a permanent exemption or an express legislative 
+exemption only if it can address all of the key needs of consumers and businesses with respect to 
+products and parts whose functions are controlled by embedded software:   
+ 
+ Circumventing technological protection measures in order to access the software 
+ Making interim copies of the software 
+ Analyzing the code 
+ Altering the code for purposes of repair or modification, or to develop an 
+alternative program to replace the OEM-supplied software 
+ Making a replacement copy of the software with any alterations, as applicable 
+ Embedding that replacement copy in either the original repaired or refurbished 
+part or a replacement part 
+ Permitting skilled third parties to develop, market, and use circumvention tools 
+for the specific purpose of performing these activities 
+ 
+Any proposed permanent exemption that falls short with respect to any of these essential rights 
+will effectively deny all of these rights to many, if not most, of the consumers within a proposed 
+class. Any proposed legislation that does not ensure each of these rights to consumers and 
+businesses will similarly fail to accommodate the needs of consumers and fair competition. 
+Given the number of software routines in each car, the complexity of the software, and the 
+robustness of technological measures, a single consumer would find it daunting to circumvent 
+and repair every possible module in a motor vehicle without assistance. Similarly, it is unrealistic 
+to expect that every independent repair shop would be able to perform these tasks for literally 
+hundreds of makes and models of motor vehicles over their useful life. 
+ 
+                                                            
+3 See Comments of Public Knowledge, and Comments of Motor & Equipment Manufacturers 
+Association (MEMA).   
+4 See Comments of Owners’ Rights Initiative, Comments of The Repair Association and iFixit, 
+Comments of Electronic Frontier Foundation, and Comments of International Imaging 
+Technology Association and Static Control Components, Inc. 
+5 See Comments of Consumer Technology Association (rationale of DMCA, as applied in the 
+Unlocking Act, supports auto repair exemption).
+
+[PAGE 3]
+3 
+ 
+ Therefore, the rationales supporting an excepti on for vehicle repair only can be realized 
+by supporting, in addition to an individual right to circumvent, a right for that individual to 
+acquire both circumvention tools and circumvention and repair services.6  
+ 
+2. Legislative and Regulatory Exemptions to Copyright Law Should Not Depend 
+on Non-Copyright Considerations.  
+ 
+The majority of opponents to a motor vehicle repair exemption articulate no basis for 
+their opposition under the Copyright Act.7 Instead, their comments rely on unfounded and 
+amorphous fears of the consequences of an exemption upon environmental or safety concerns.  
+The Copyright Office should reject all these arguments. 
+ 
+As a matter of law, the Copyright Office cannot and should not consider any arguments 
+that are not based under the Copyright Act. Auto Care already has explained in this proceeding 
+that the Copyright Office lacked authority to base its exemption decisions under laws other than 
+the Copyright Act, for four reasons:   
+ 
+(1) Exemptions under Section 1201(a)(1)(B) are granted to safeguard the ability 
+of “users of a copyrighted work” to engage in “noninfringing uses under this 
+title,” so must be based on considerations of copyright law.      
+(2) The statutorily-defined duties of the Librarian and the Copyright Office 
+include no general legal authority outside of copyright.  To the extent any non-
+copyright considerations pertain, Section 1201(a)(1)(C) allocates that 
+responsibility to the Assistant Secretary for Communications and Information 
+of the Department of Commerce. 
+(3) Under principles of statutory interpretation, all factors listed under Section 
+1201(a)(1)(C)(i)-(v) must be confined to considerations of copyright law and 
+policy.
+8 
+(4) Consideration of extraneous laws is unnecessary. A Librarian-granted 
+exception does not abrogate or excuse compliance with other legal 
+requirements, including those imposed under environmental and commercial 
+regulation.9   
+ 
+ As a factual matter, none of these argument s is new. Virtually since the dawn of the 
+automobile, OEMs and dealers baselessly have criticized consumers and independent repair 
+                                                            
+6 Accord, Comments cited at nn. 1-3, supra; Comments of Institute of Scrap Recycling 
+Industries, Inc. 
+7 See Comments of Association of Equipment Manufacturers/Equipment Dealers Association 
+(“AEM Comments”), Comments of Business Software Alliance. 
+8 See Circuit City Stores, Inc. v. Adams, 532 U.S. 105, 114-115 (2001) (residual clause must be 
+read in light of previously-cited categories under statutory interpretation canon of ejusdem 
+generis). 
+9  Comments of Auto Care Association, In the Matter of Section 1201 Study: Notice and 
+Request for Public Comment, Dkt. No. 2015-8 at 7-8 (March 3, 2016), available online at 
+https://www.regulations.gov/document?D=COLC-2015-0012-0036.
+
+[PAGE 4]
+4 
+ 
+shops that service the overwhelming majority of vehicles in the United States, in an attempt to 
+boost their own market share and profitability. Indeed, the AEM Comments explicitly argue the 
+economic impact on their businesses as a purported justification for the Copyright Office to 
+restrain aftermarket competition. The only “novelty” of the argument is that parts that 
+traditionally have been replaced and repaired by these “unauthorized” technicians are now 
+controlled by embedded software. But Auto Care members have their own software engineers 
+who have the technical skill to diagnose and repair parts with embedded software, and to design 
+and deploy software fixes and improvements to the OEM code.  There is no reason to assume, 
+and no proof has been submitted to suggest, that third party software on the market is any less 
+protective of the environment or of public safety.10  And while the AEM Comments profess 
+concerns over “counterfeit” auto parts, no such considerations pertain here. Replacement parts 
+manufactured and sold by Auto Care members are lawful, not “counterfeit”; and fears of some 
+counterfeiting do not justify denying the rights of consumers and Auto Care members to repair 
+and customize motor vehicles using lawful non-OEM parts. 
+ 
+Indeed, even the government agencies entrusted with responsibility for environmental 
+and highway safety apparently have no qualms about allowing consumers to repair and replace 
+software in their vehicles or to circumvent technological protection measures. Although the 
+Librarian interposed (erroneously, in Auto Care’s view) a one-year delay in the effective date of 
+the limited exception granted under Classes 21 and 22, to obtain further input from those 
+government agencies, that year now has elapsed—with no objections, warnings, or contrary 
+recommendations.  
+ 
+Auto Care therefore respectfully submits that too much credence already has been given 
+to those who, failing to find any copyright law basis for their opposition, seek to forestall repair 
+rights under non-copyright laws. That their oppositions are based solely on extraneous laws, and 
+not on copyright factors, provides additional support for Auto Care’s copyright-based arguments 
+in favor of legislation or permanent exemptions.   
+ 
+3. Comments Opposing Creation of Tools, or Proposing Licensing of Tools, Do Not 
+Resolve the Legitimate Concerns for Vehicle Repair. 
+   
+Several commenters suggest danger lurks in any exemption from antitrafficking, 
+repeating past arguments that tools that enable one exemption could be employed for 
+unauthorized purposes.
+11  The exemptions proposed by Auto Care expose the flaws in that 
+argument. Software that consumers and Auto Care members seek to access is not only specific to 
+a particular make and model, but is often tied by the technological protection measure to a 
+                                                            
+10 Conversely, use of OEM software hardly guarantees compliance with environmental or public 
+safety regulations. Independent automotive website, Edmunds.com, identifies nearly 300 
+instances of software recalls to fix a wide variety of mechanical, safety, and environmental 
+problems. http://www.edmunds.com/search/results.html?q=software+recall. See Jeff S. Bartlett, 
+Michelle Naranjo, and Jeff Plungis, “Guide to the Volkswagen Emissions Recall,” Consumer 
+Reports, Nov. 1, 2016, http://www.consumerreports.org/cro/cars/guide-to-the-volkswagen-
+dieselgate-emissions-recall-  
+11 See, Comments of Copyright Alliance, Comments of SIIA.
+
+[PAGE 5]
+5 
+ 
+particular vehicle VIN.  Circumvention tools by necessity are equally specific to those particular 
+technological measures, and are useless except to access that software. There is no evidence that 
+a tool used to access and diagnose the software in a Ford automobile or John Deere tractor would 
+create risks for copyrighted software or media for personal computers, mobile devices, eBook 
+readers, or devices or platforms intended to transmit, perform, or display the typical literary, 
+audio, and audiovisual works that Section 1201 was designed to protect.   
+ 
+Finally, a proposal to facilitate licensing or availability of “authorized” circumvention 
+tools may be successful for academic users or consumers, who do not compete against the 
+authors of those works. However, experience shows that such solutions do not fully address the 
+needs of motor vehicle users and repair businesses.
+12 As Auto Care observed in its Additional 
+Comments, existing voluntary agreements or state “right to repair” laws do not alleviate the 
+copyright-based concerns implicated by Section 1201 or allegations of copyright infringement. 
+Auto Care Additional Comments at 7. Had those agreements and laws been sufficient, 
+manufacturers would not already have been sued by major automobile manufacturers for 
+engaging in ordinary aftermarket competition that otherwise was permissible under patent law. 
+Id. at 4 & nn. 13-14. 
+     
+ 
+Auto Care thanks the Copyright Office for its continuing efforts in furtherance of this 
+Study.  Should the Office have any questions, please feel free to contact us at your convenience. 
+  
+     Respectfully submitted,  
+ 
+Date:  November 16, 2016  /s/ Aaron Lowe 
+Aaron Lowe 
+Senior Vice President, Regulatory and Government Affairs 
+Auto Care Association 
+7101 Wisconsin Ave., Suite 1300 
+Bethesda, MD 20814 
+301-654-6664, ext. 1021 
+www.autocare.org 
+ 
+                                                            
+12 See Comments of AACS LA and DVD CCA.

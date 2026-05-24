@@ -1,0 +1,193 @@
+[PAGE 1]
+Submitted by Bruce Turnbull on 
+behalf of DVD CCA and AACS LA 
+ 
+ 
+ 
+Before the  
+United States Copyright Office  
+Library of Congress  
+Washington, D.C.  20559 
+ 
+ 
+ 
+ 
+ In the Matter of: 
+ 
+  Section 1201 Study 
+ 
+ 
+ 
+ 
+Docket No. 2015-8 
+ 
+ 
+JOINT REPLY OF THE DVD COPY CONTROL ASSOCIATION AND THE 
+ADVANCED ACCESS CONTENT SYSTEM LICENSING ADMINISTRATOR, LLC  
+TO THE REQUEST FOR ADDITIONAL COMMENTS  
+I. Any Proposal Must Not Threaten Either the Legal Framework of Section 1201 or 
+the Digital Marketplace It Has Fostered 
+Section 1201 has been and remains instrumental to today’s robust digital marketplace.  At 
+a recent hearing, Members of the House Judiciary Subcommittee on Courts, Intellectual Property 
+and the Internet recognized that section 1201 has fueled the economic growth of the digital 
+economy.1  Ranking Member Conyers said: “[Section 1201] strengthens our copyright system by 
+cultivating innovative business models that encourage the lawful dissemination of copyrighted 
+works to the public.  This in turn discourages piracy and infringement.  But nonetheless, some 
+ignore the effectiveness of [section 1201] by wanting to weaken it or even eliminate it.”2  At that 
+                                                           
+1 See Hearing of House Judiciary Subcommittee on Courts, Intellectual Property and the Internet, 
+Chapter 12 of Title 17; Serial No. 113–115 at 2 (Sep. 17, 2014) (hereinafter “House Judiciary 
+Subcommittee Hearing”) (Vice Chairman Marino). 
+2 Id. at 4.
+
+[PAGE 2]
+ 
+ 2 
+hearing, Representative Nadler addressed some of the contentions advanced in comments filed to 
+date in this Study; he noted  
+The DMCA has been effective and has worked to encourage the creation of new 
+digital works and has allowed authors a way to protect against copyright 
+infringement while also helping to promote the development of new and 
+innovative business models. Some of the witnesses today will argue that these 
+anti-circumvention provisions have been used to stifle a variety of legitimate 
+activities. However, the DMCA has also been successful by promoting the 
+creation of many new legal online services in the United States that consumers 
+use to access movies and TV shows. Companies that distribute their works 
+digitally often use technological protection measures or TPMs to protect their 
+works from unauthorized access or use. . . .  Copyright owners depend on these 
+TPMs as an effective way to respond to copyright infringement and a way to 
+make their works available online. Although piracy continues, TPMs have played 
+a key role in reducing it, . . . .3 
+Most importantly, Representative Nadler correctly concluded: 
+[E]nactment of the DMCA has led to a long period of innovation and benefits for 
+consumers. Section 1201 has proven to be extremely helpful to creators because it 
+has helped creators to have the confidence to provide video content over the 
+internet despite the risk of piracy. And Section 1201 has helped deter theft of 
+unauthorized access by/or unauthorized access by prohibiting circumvention of 
+protection measures and trafficking tools designed for circumvention.4 
+In the most recent recommendation of the triennial rulemaking, the Register of Copyright 
+unequivocally stated the same: 
+Enacted by Congress in 1998,
+ 
+the DMCA has fostered widespread dissemination 
+and enjoyment of creative works by establishing legal protections for copyrighted 
+content—as well as for the consumers and businesses who wish to access and use 
+it—whether over the internet or through a computer or device.5 
+                                                           
+3 House Judiciary Subcommittee Hearing, supra note 1 at 2. 
+4 Id. at 3. 
+5 Section 1201 Rulemaking: Sixth Triennial Proceeding to Determine Exemptions to the 
+Prohibition on Circumvention at 1 (Oct. 2015) (citation omitted) (Recommendation of the 
+Register of Copyrights).
+
+[PAGE 3]
+ 
+ 3 
+In light of the success of today’s digital marketplace, DVD CCA and AACS LA once 
+again reiterate their concern that any efforts to address either the application of section 1201 
+beyond the core copyright industries or even the alleged shortcomings with the statutory 
+exemptions must not come at the expense of denying proprietors of technological protection 
+measures (like DVD CCA and AACS LA) and core copyright holders the full array of legal tools 
+provided under section 1201. 
+II. A Streamlined Rulemaking Will Address Concerns Raised in the Course of the 
+Study  
+The Copyright Office can contribute to the improvement of section 1201’s operation by 
+focusing on adjusting the triennial rulemaking that it conducts. 
+A.  Renewal Process Can Be Facilitated 
+There is significant consensus that the rulemaking should be streamlined to permit 
+previously granted exemptions to be more easily renewed.6  While more work may be needed on 
+what constitutes “meaningful opposition,” the parties did agree that the Register could rely on 
+the evidentiary record developed in the prior rulemaking when considering the renewal of an 
+exemption.7  By taking advantage of this consensus and focusing its efforts on the rulemaking, 
+the Copyright Office would be able to address the issues of renewing unobjectionable 
+                                                           
+6 See Additional Comments of Association of American Publishers, Entertainment Software 
+Association, Motion Picture Association of America, Recording Industry Association of America 
+at 2 (Oct. 28, 2016); Reply Comments of the Electronic Frontier Foundation at 3 (April 3, 2016); 
+see also U.S. Copyright Office Public Roundtable on Section 1201at 155:1-5 (May 19, 2016) 
+(hereinafter “Roundtable Transcript”) (“And in the comments that the Copyright Office has 
+received, there seems to be . . . some consensus that doing something would be permissible and 
+advisable to deal with repeated exemption requests”) (Smith, Regan). 
+7 See Roundtable Transcript at 167:4-15 (“I'm in agreement with my colleague, Mr. Sheffner, on 
+this. And to expand a little bit and capture some of the other comments that have been made, I 
+think the notion of bringing forward the evidence from the record or referring to it. . .we'd be 
+okay with that”) (Turnbull, Bruce).
+
+[PAGE 4]
+ 
+ 4 
+exemptions and reducing the burden on the rulemaking participants.  Both are goals that the 
+Register of Copyright had previously identified.  
+An improved streamlined rulemaking may also make a substantive difference.  In its 
+Request for Additional Comments, the Copyright Office noted that the Librarian in his most 
+recent determination had approved exemptions for certain noninfringing uses, which were 
+apparently not clearly authorized under the statutory exemptions.8  If the Copyright Office acts 
+on the consensus discussed above, the exemptions resulting from the Sixth Triennial Rulemaking 
+would be the immediate beneficiaries of a new streamlined renewal process. 
+Furthermore, to the extent that remedial exemptions for the alleged shortcomings of the 
+statutory exemptions do not already exist, the noninfringing uses advanced under the statutory 
+exemptions and their shortcomings should be the province of the rulemaking.  As DVD CCA and 
+AACS LA have previously stated, a legislative “fix” to codify any of the previously granted 
+triennial exemptions runs the same risk that even amended statutory exemptions may also 
+inevitably become unresponsive to future changes in technology and industry practices, just as 
+current statutory exemptions are alleged to be today.  Instead, the same noninfringing uses 
+facilitated under the statutory exemptions could (and should) be advanced in the rulemaking.  
+Agency rulemaking is superior to legislative action as periodic reviews on a factual record result 
+in rules that are more responsive and appropriate to changing technology and uses.  To that end, 
+most - if not all - of the proposed changes could be achieved through carefully crafted 
+exemptions developed on a factual record.  Once recommended by the Copyright Office and 
+approved by the Librarian, these exemptions would then be subject to the streamlined renewal 
+                                                           
+8 See U.S. Copyright Office, Library of Congress, Section 1201 Study: Request for Additional 
+Comments, 81 Fed. Reg. 66296 (Sep. 27, 2016).
+
+[PAGE 5]
+ 
+ 5 
+process, which would be a more flexible tool than legislation to ensure that the rules of the road 
+are appropriate and effective.  
+B.  Assistance Can Be Accommodated Through the Rule-Making Process 
+DVD CCA and AACS LA have already pointed out that third-party assistance can be 
+permitted as a result of the rulemaking proceeding.  For example, the 2010 and 2012 exemptions 
+at least implicitly authorized librarians to assist professors and other intended exemption 
+beneficiaries to circumvent CSS in order to create the short segment copies from motion pictures 
+distributed on DVDs for the particular exempted purposes.  In 2015, the formulation of the 
+exemptions for the same intended beneficiaries changed, causing uncertainty about the ability of 
+librarians to provide this third-party assistance.9  DVD CCA and AACS LA, as previously stated, 
+believe that the 2010 and 2012 formulations are acceptable in the specific contexts of the record 
+of those rulemakings and the limitations stated in those rules (and that extending those to future 
+rulemakings would be acceptable assuming the contexts remain the same).10  Perhaps more 
+usefully, as DVD CCA and AACS LA have stated throughout this Study, both organizations 
+remain willing and able to engage with parties that have obtained exemptions (or are seeking and 
+obtaining exemptions in the future) to find ways to license tools, and perhaps services for using 
+tools, to enable the exemptions.11 
+  
+                                                           
+9 See Roundtable Transcript, supra note 6 at 53:10-54:5 (May 20, 2016) (Butler, Brandon).  
+10 See id. at 82:8-14 (Turnbull, Bruce).  
+11 See id. at 46:8-47:16, 83:3-8 (Turnbull, Bruce).
+
+[PAGE 6]
+ 
+ 6 
+In sum, the Copyright Office should focus its efforts on the rulemaking, which is capable 
+of addressing many of the concerns raised in the course of this Study. 
+Date: November 16, 2016 
+ Respectfully submitted,  
+ 
+ 
+ /s/ Bruce H. Turnbull    
+ Bruce H. Turnbull 
+ Turnbull Law Firm PLLC 
+ 5335 Wisconsin, Avenue, NW STE 440 
+ Washington, DC 20015 
+ 202-274-1801 
+ turnbull@bhtlawfirm.com 
+  
+ /s/ David J. Taylor    
+ David Jonathan Taylor 
+ Right Size Law PLLC 
+ 621 G ST SE 
+ Washington, DC 20003 
+ 202-546-1536 
+ david.taylor@rightsizelaw.com

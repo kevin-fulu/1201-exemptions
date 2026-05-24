@@ -1,0 +1,142 @@
+[PAGE 1]
+ 
+ 
+ 
+March 3, 2016 
+Honorable Maria A. Pallante  
+Register of Copyrights 
+U.S. Copyright Office 
+101 Independence Avenue, SE  
+Washington, DC 20559-6000  
+http://copyright.gov/policy/1201/comment-submission/ 
+ 
+Re:  Comments Submitted Pursuant to “Section 1201 Study: Notice and Request for 
+Public Comment,” 80 Fed. Reg. 81, 369 (Dec. 29, 2015) 
+Dear Register Pallante: 
+The American Intellectual Property Law Association (AIPLA) is pleased to offer comments in 
+response to the above -referenced U.S. Copyright Office Notice of Inquiry regarding the 
+operation of 17 U.S.C. § 1201 et seq. including the triennial rulemaking process established 
+under the Digital Millennium Copyright Act (DMCA). 
+AIPLA is a national bar association of approximately 14,000 members who are primarily 
+lawyers engaged in private or corporate practice, in government service, and in the academic 
+community. AIPLA members represent a wide and diverse spectrum of individuals, companies, 
+and institutions involved directly or indirectly in the practice of patent, trademark, copyright, 
+trade secret, and unfair competition law, as well as other fields of law affecting intellectual 
+property. Our members represent both owners and users of intellectual property. Our mission 
+includes helping establish and maintain fair and effective global laws and policies that stimulate 
+and reward invention while balancing the public’s interest in healthy competition, reas onable 
+costs, and basic fairness. 
+Given the scope of the present study, we note at the outset that these comments target particular 
+questions raised by the Section 1201 Study, namely questions 3, 7, 8, and 9. AIPLA has not 
+commented on every issue covered by the Notice of Inquiry, and our decision not to do so for 
+any a particular provision should not be interpreted as agreement or acquiescence to any 
+particular issue. We further note that many of our comments call for additional inquiry into 
+certain topics, which again is a result of the scope and complexity of th e issues raised by this 
+study. Based on our review of the notice of inquiry, AIPLA offers the following comments.
+
+[PAGE 2]
+AIPLA Comments on 1201 Study  
+March 3, 2016 
+Page 2 
+ 
+ 
+Triennial Process of Exemption From 17 U.S.C. § 1201(a)(1) 
+In response to question 31as contained in the notice of inquiry, AIPLA endorses, in principle, an 
+amendment to the Copyright Act that would adjust the triennial process by which exemptions are 
+renewed.  Specifically, we are in favor of a system whereby the grant of a n exemption under the 
+triennial rulemaking process would create a regulatory presumption in favor of renewal in cases 
+where there is no meaningful opposition.  In so doing, we echo the concerns expressed during the 
+Office’s testimony before the House Judiciary Committee at the April 2015 hearing on copyright 
+review.   
+More particularly, AIPLA favors a standard by which the presumption favoring renewal would 
+only be effective where there is no meaningful opposition.  We note a slight inconsistency 
+regarding the standard in the Notice of Inquiry.  Compare 80 Fed. Reg. 81,371 (“the Register has 
+recommended that Congress amend the rulemaking process to create a presumption in favor of 
+renewal when there is no meaningful opposition to the continuation of an exemption.”) with  80 
+Fed. Reg. 81,369 n.7 (“We are therefore recommending a legislative change to provide a 
+presumption in favor of renewal in cases where there is no opposition.”).   
+AIPLA believes that the Office should not be burdened with a de novo review in response to an 
+opposition that, for example, fails to meet the standards of the rulemaking process or otherwise 
+articulate meaningful grounds for denial.  Consequently, we believe that exemptions should 
+enjoy a regulatory presumption that favors renewal unless the opposition is meaningful. To be 
+clear, if there is meaningful opposition, the petitioner would have to go through the review 
+process and meet the standards applied to new applicants, without the benefit of the presumption.  
+Rulemaking Process: Third Party Assistance and Exemption From 17 U.S.C. § 1201(a)(2) 
+In response to question 7 2as contained in the notice of inquiry, AIPLA encourages the Office to 
+consider conducting a specific inquiry into the anti -trafficking provision of the DMCA.  We 
+believe it is important to ensure that the intended beneficiaries of limitations contained in the 
+DMCA, including those benefitting from exemptions granted under the triennial rulemaking 
+process, are able to engage in permitted circumvention activities, and that the anti -trafficking 
+provisions should not unduly hinder such activities.  If a study indicates that intended 
+beneficiaries are in fact unable to engage in permissible circumvention activities because of an 
+unavailability of technologies necessary to facilitate circumvention, then AIPLA believes that, in 
+                                                 
+1 Should section 1201 be adjusted to provide for presumptive renewal of previously granted exemptions —for 
+example, when there is no meaningful opposition to renewal—or otherwise be modified to streamline the process of 
+continuing an existing exemption? If so, how? 80 Fed. Reg. 81373 (Dec. 29, 2015).  
+ 
+2 Should section 1201 be amended to allow the adoption of exemptions to the prohibition on circumvention that can 
+extend to exemptions to the anti-trafficking prohibitions, and if so, in what way? For example, should the Register 
+be able to recommend, and the Librarian able to adopt, exemptions that permit third -party assistance when justified 
+by the record? 80 Fed. Reg. 81373 (Dec. 29, 2015).
+
+[PAGE 3]
+AIPLA Comments on 1201 Study  
+March 3, 2016 
+Page 3 
+ 
+ 
+principle, this problem that should be remedied, potentially through exemptions to 17 U.S.C. § 
+1201(a)(2) to facilitate Third Party Assistance. 
+ 
+Accordingly, AIPLA suggests the Office consider broadening  the inquiry to determine whether 
+and the extent to which the anti -trafficking provisions of the DMCA have frustrated permitted 
+circumvention activities, and not just exemptions previously granted under 17 U.S.C. § 
+1201(a)(1).   
+ 
+Anti-Trafficking Provisions: Security Testing Exemption Under 17 U.S.C. § 1201(j) 
+In response to questions 8 3and 9 4 as contained in the notice of inquiry, AIPLA encourages the 
+Office to specifically consider the impact of the anti- trafficking, copy control, and access control 
+provisions of the DMCA on the ability of systems operators to conduct security testing.     
+While several permanent exemptions – including 17 U.S.C. § 1201(j) – attempt to facilitate 
+good-faith security testing efforts, some of our members believe these exemptions have fallen 
+short and frustrated legitimate and critical security testing.  Other sta keholders have cited the 
+requirement of prior authorization as burdensome . As you have noted, “the existing permanent 
+exemptions in section 1201 do not cover the full range of proposed security research activities, 
+many of which proponents have established are likely to be non-infringing.” 5 We believe such 
+non-infringing activities should be encouraged to the extent they bolster the strength of security 
+systems and are carried out in good faith.   
+At the same time, to avoid widespread abuse, we encourage the Office to consider appropriate 
+limitations on security testing to protect intellectual property owners.  For example, in lieu of 
+obtaining prior authorization, perhaps a systems owner could prepare a certification describing 
+the intended testing, and provide prior, written notice to the relevant parties.  AIPLA encourages 
+the Office to explore creative solutions to target the problems implicit in striking a difficult-but-
+necessary balance between the concerns of systems operators and intellectual property owners.  
+AIPLA will continue to monitor developments relating to the 17 U.S.C. § 1201 rulemaking 
+process as well as the various permanent exemptions to the prohibitions under that title, and we 
+welcome the opportunity to provide the Copyright Office with any assist ance and comments on 
+the issue in the future.  
+ 
+                                                 
+3 Please assess whether the existing categories of permanent exemptions are necessary, relevant, and/or sufficient. 
+How do the permanent exemptions affect the current state of reverse engineering, encryption research, and security 
+testing? How do the permanent exemptions affect the activities of libraries, archives, and ed ucational institutions? 
+How might the existing permanent exemptions be amended to better facilitate such activities? 80 Fed. Reg. 81373 
+(Dec. 29, 2015).  
+4 Please assess whether there are other permanent exemptions categories that Congress should consider establishing - 
+for example, to facilitate access to literary works by print-disabled persons? 80 Fed. Reg. 81373 (Dec. 29, 2015).  
+5 Recommendation of the Register of Copyrights; Section 1201 Rulemaking: Sixth Triennial Proceeding to 
+Determine Exemptions to the Prohibition on Circumvention at 299, (2015 Register of Copyright Recommendation).
+
+[PAGE 4]
+AIPLA Comments on 1201 Study  
+March 3, 2016 
+Page 4 
+ 
+ 
+ 
+Respectfully submitted,  
+ 
+Denise W. DeFranco 
+President 
+American Intellectual Property Law Association

@@ -1,0 +1,239 @@
+[PAGE 1]
+Page 1 of 9
+Before the
+United States Copyright Office
+Library of Congress
+101 Independence Ave., S.E.
+Washington, D.C. 20559
+In the Matter of:
+Section 1201 Study, 
+Request for Additional Comments
+Submitted by Sarah Bruno and Marc L. 
+Fleischaker of Arent Fox, LLP, on behalf 
+of:
+The Motor & Equipment Manufacturers 
+Association (MEMA)
+1030 15th Street, NW
+Suite 500 East
+Washington, D.C. 20005
+Docket No. 2015-8
+COMMENT ON SECTION 1201 STUDY BY THE U.S. COPYRIGHT OFFICE
+The Motor & Equipment Manufacturers Association (“MEMA”) submits the following 
+comments in response to the United States Copyright Office’s Notice of Inquiry regarding its 
+ongoing study of the anti-circumvention and anti-trafficking provisions of the Digital
+Millennium Copyright Act (“DMCA”), Section 1201 of Title 17 of the U.S. Code. 
+These comments address the following two topics raised by the Copyright Office: (i) the 
+proposal for a new permanent exemption to the DMCA’s anti-circumvention provisions for 
+computer programs that enable the operation of a machine or device; and (ii) whether third-party 
+assistance falls outside the scope of the DMCA’s anti-trafficking provisions.
+I. Background
+MEMA is the trade association for motor vehicle and mobility suppliers and parts 
+manufacturers and remanufacturers. Our members supply both the original equipment and
+
+[PAGE 2]
+Page 2 of 9
+aftermarket segments of the light vehicle (car and truck) and commercial vehicle (on- and off-
+road) industries. Together, MEMA’s members service, maintain and repair the more than 256 
+million vehicles on the road today. Suppliers are the largest employers of manufacturing jobs in 
+the U.S., directly employing over 734,000 Americans with a total employment impact of 3.6 
+million jobs. MEMA represents vehicle suppliers through the following four divisions: 
+Automotive Aftermarket Suppliers Association (“AASA”), Heavy Duty Manufacturers 
+Association (“HDMA”), Motor & Equipment Remanufacturers Association (“MERA”), and 
+Original Equipment Suppliers Association (“OESA”).
+Motor vehicle suppliers work closely with vehicle manufacturers to provide the cutting 
+edge, innovative systems and components that consumers have come to expect. In order to meet 
+regulatory requirements and consumer demand for safer, cleaner, and more connected vehicles, 
+motor vehicle parts manufacturers and remanufacturers have increasingly taken on a significant 
+role in the research, development, engineering, and manufacturing of the advanced technologies 
+necessary to meet these ever-increasing goals. In fact, suppliers are responsible for two-thirds of 
+the value of today’s automobiles, and many vehicle technologies produced for new cars are 
+manufactured by the same suppliers that make parts for the aftermarket. As vehicles continue to 
+become more sophisticated, the number of sensors and software enabled devices will grow. As it 
+stands, there are 60 to 100 sensors in the average vehicle today.
+Most automotive aftermarket maintenance and repair work takes place in independent 
+repair shops or at vehicle manufacturers’ dealerships, with the latter often referred to as OE 
+Service. There is also a significant “do-it-yourself” market, which comprises individuals who 
+perform their own vehicle repair and maintenance. Since 1982, vehicles have been equipped with 
+computers and electronics to control drivability and fuel efficiency, and aftermarket
+
+[PAGE 3]
+Page 3 of 9
+manufacturers, remanufacturers and independent service repair outlets have demonstrated their 
+ability to service and maintain these technologies. More and more, many vehicle components are 
+connected and enabled by the software and programming that make them functional.
+Remanufacturing is a growing segment of the aftermarket that utilizes standardized 
+industrial processes by which previously worn or non-functional products are returned to the 
+same-as-new, or better, condition and performance as the original components. Remanufacturing 
+processes incorporate technical specifications (including engineering, quality and testing 
+standards) to yield fully warranted products. Examples of remanufactured components in the 
+motor vehicle parts industry include: electronic control units (black box and other electronic 
+modules), brakes, steering and suspension components, engines, transmissions, alternators, 
+starters, and turbochargers. Remanufacturing preserves the value of the original manufacturing − 
+including energy costs and investments in capital and labor inputs − which recycling alone 
+cannot do. As such, remanufactured parts are about thirty percent less expensive than 
+comparable new parts.
+In the U.S., the average age of light vehicles (passenger cars and pick-up trucks) is 11.5 
+years, and the owners of these vehicles often demand cost-effective solutions for their 
+maintenance and repair needs. As such, the independent aftermarket (e.g. independent repair 
+shops and local repair technicians) has about 70 percent of the service bay capacity to maintain 
+and repair passenger vehicles. In contrast, new vehicle dealers only represent about 28 percent of 
+the service bays. Therefore, consumers have come to rely on the independent aftermarket to 
+provide both quality repair parts and related services.
+
+[PAGE 4]
+Page 4 of 9
+II. Comments
+(i) Computer Program Exemption to the DMCA’s Anti-Circumvention Provisions
+A new exemption, whether temporary or permanent, is not necessary in order for 
+consumers to have their vehicles, including any software systems, lawfully serviced by 
+independent technicians. Such automotive servicing is clearly a matter of fair use under Section 
+117. As such, consumers, independent automotive repair shops, and participants in the 
+automotive aftermarket already have the right to circumvent technological protection measures 
+(“TPM”s) for the purposes of diagnosis, maintenance, and repair of motor vehicles.    
+As Congress made clear when the DMCA was adopted, unlawful circumvention, as 
+prohibited by Section 1201(a), occurs only “when a person has not obtained authorized access to 
+a copy…of a work for which the copyright owner has put in place a technological measure that 
+effectively controls access to his or her work.” H.R. Rep. 105-551, 18 (May 22, 1998) (emphasis 
+added). In contrast, Section 1201(a) does not apply:
+to the subsequent actions of a person once he or she has obtained authorized access to a 
+copy of a work protected under Title 17, even if such actions involve circumvention of 
+additional forms of technological protection measures. In a fact situation where the 
+access is authorized, the traditional defenses to copyright infringement, including fair use, 
+would be fully applicable. So, an individual would not be able to circumvent in order to 
+gain unauthorized access to a work, but would be able to do so in order to make fair use 
+of a work which he or she has acquired lawfully. Id. (emphasis added).
+As this statement makes clear, a consumer who has lawful access to copyrighted works, such as a
+car owner who owns or has a valid license to the computer software in his or her vehicle, has a 
+right to inspect or service those works – or enlist a third party to do so on his or her behalf –
+even if doing so would require circumvention of certain TPMs.
+There is sufficient legal precedent for the Copyright Office to assert, based on existing 
+law, that circumvention of TPMs for the purpose of diagnosis, maintenance, and repair of a
+
+[PAGE 5]
+Page 5 of 9
+motor vehicle system is protected by fair use. For example, in Storage Technology Corp. v. 
+Custom Hardware Engineering & Consulting, Inc., the U.S. Court of Appeals for the Federal 
+Circuit recognized that an independent service company did not violate the DMCA’s anti-
+circumvention provisions when it circumvented a manufacturer’s encryption system on an 
+automated data storage machine solely for the purposes of maintenance and repair. 421 F.3d 
+1307 (Fed. Cir. 2005); see also Chamberlain Grp., Inc. v. Skylink Techs., Inc., 381 F.3d 1178, 
+1203-04 (Fed. Cir. 2004) (rejecting anti-circumvention claim when manufacturer failed to show
+that circumvention facilitated copyright infringement). 
+As the Copyright Office has noted, similar “safe harbors” have also been recognized 
+under trademark and patent law. See, e.g., Karl Storz Endoscopy-America, Inc. v. Fiber Tech 
+Med., Inc., 4 F. App’x 128, 131-32 (4th Cir. 2001) (“[T]he Lanham Act does not apply in the 
+narrow category of cases where a trademarked product is repaired, rebuilt or modified at the 
+request of the product’s owner,” so long as “the owner is not, to the repairer’s knowledge, 
+merely obtaining modifications or repairs for purposes of resale”); Kendall Co. v. Progressive 
+Med. Tech., Inc., 85 F.3d 1570, 1573-74 (Fed. Cir. 1996) (articulating “repair doctrine” under 
+patent law and stating that, as a matter of law, sale of patented article grants implied license that 
+includes right to repair).
+Whether such computer code is even protectable by copyright is also a matter of dispute. 
+Unlike the creative expressive works that copyright seeks to protect, the software at issue in the
+automotive aftermarket, in many cases, serves a purely functional purpose. This may explain 
+why some manufacturers have had difficulty pleading copyright infringement when bringing 
+DMCA anti-circumvention claims. See, e.g., Ford Motor Co. v. Autel US Inc., No. 14-13760, 
+2016 WL 3569541, at *3-4 (E.D. Mich. July 1, 2016) (dismissing Ford’s claim under 17 U.S.C.
+
+[PAGE 6]
+Page 6 of 9
+§ 1201 when Ford failed to allege that computer code file was copyrighted). Thus, MEMA urges 
+the Copyright Office to use its existing authority to clarify that fair use permits consumers, 
+independent repair shops, manufacturers of replacement parts, and participants in the automotive 
+aftermarket to circumvent TPMs for the purpose of diagnosis, maintenance, and repair. 
+If the Copyright Office believes it cannot act under its existing legal authority, MEMA 
+believes that clarifications to the existing language of Section 1201 may be a preferable 
+alternative to the adoption of a broad, permanent exemption to 1201(a). Such a clarification 
+would go a long way toward reducing the potentially anti-competitive effects of Section 1201, 
+while allowing copyright owners to maintain some control over access to their works. In 
+contrast, a broad exemption, such as allowing anyone to circumvent TPMs “on behalf of” a car 
+owner, could lead to strained statutory interpretations and potentially even a proliferation of anti-
+circumvention tools in the marketplace. A simple clarification of Section 1201 would merely 
+reaffirm consumers’ existing rights under the principles of fair use and help ensure that only 
+lawful copyright owners, or their agents, are permitted to circumvent TPMs.
+Currently, Section 1201(c)(1) does state that the defense of fair use is not affected by the 
+other provisions of Section 1201. Congress likely believed that this nod to fair use would help 
+maintain a proper balance between copyright owners and consumers, but it has clearly not been 
+sufficient to prevent Section 1201 for being used for anti-competitive purposes. The Copyright 
+Office could restore this important balance by amending 1201(c)(1) to incorporate the statements 
+Congress made upon enactment of the DMCA, namely that Section 1201 does not apply to 
+“subsequent actions of a person once he or she has obtained authorized access to a work.”  
+Balancing the tension between copyright owners’ legitimate concerns about unauthorized 
+use of their works, with the equally legitimate concerns about the potentially anti-competitive
+
+[PAGE 7]
+Page 7 of 9
+effect of the DMCA’s anti-circumvention provisions should guide any further study or 
+reconsideration of Section 1201. If the Copyright Office believes it cannot act under its existing 
+authority, then adding clarifying language to Section 1201 regarding the role of fair use in anti-
+circumvention analysis would address many of the concerns raised by the Copyright Office and 
+interested parties. 
+(ii) Applicability of DMCA’s Anti-Trafficking Provisions to Third-Party Assistance
+As with the DMCA’s anti-circumvention provisions, MEMA believes that existing law 
+provides a safe harbor for the diagnosis, maintenance, and repair of vehicle components, sensors, 
+or modules using software, but that relatively minor clarifications of the DMCA’s anti-
+trafficking provisions could help alleviate the concerns of copyright owners and consumers. As 
+noted above, whether TPMs may be lawfully circumvented depends on whether circumvention is 
+done at the direction of a lawful possessor of the work. If the work is possessed lawfully, then 
+fair use permits that user or his or her agent to circumvent the TPM. Similarly, if a service 
+provider circumvents a TPM at the direction of the copyright owner, then that service provider 
+does not “traffic” in anti-circumvention services within the meaning of Section 1201. 
+For a technology, product, service, device, component, or part thereof to be prohibited 
+under subsection (a)(2) of Section 1201, one of three conditions must be met. It must: (1) be 
+primarily designed or produced for the purpose of circumventing a technological measure that 
+controls access to a protected work; (2) have only a limited commercially significant purpose or 
+use other than to circumvent a technological measure; or (3) be marketed by the person who 
+manufactures it, imports it, offers it to the public, provides it or otherwise traffics in it, or by 
+another person acting in concert with that person with that person’s knowledge, for use in 
+circumventing a technological measure that effectively controls access to a copyrighted work. 17
+
+[PAGE 8]
+Page 8 of 9
+U.S.C. § 1201(a)(2). Under the statute, unlawful “circumvent[ion of] a technological measure” 
+can only occur in the absence of authority from the work’s lawful possessor. § 1201(a)(3)(A). 
+Thus, for example, an automotive technician or service provider who circumvents a TPM could 
+not be liable for unlawful trafficking in an anti-circumvention service so long as he or she did so 
+at the direction of the car owner who owned or had a valid license to the copyrighted work. 
+A proper assessment of the scope of the anti-trafficking provisions of Section 1201 must 
+therefore begin with an assessment of whether the copyrighted work is lawfully in the possession 
+of its owner. If a work is possessed lawfully and its possessor instructs a service provider to 
+circumvent a TPM, there is no unlawful circumvention and the service provider is therefore not 
+“trafficking” in anti-circumvention services. 
+The DMCA’s legislative history materials also make it clear that Congress’ primary 
+concern in enacting Section 1201(a)(2) was with flagrant infringers, not with service providers 
+operating legitimate businesses. For example, in House Report No. 105-551(II) Congress noted 
+that “it is very important to emphasize” that Section 1201(a)(2)” is intended to outlaw products 
+or services “that are expressly intended to facilitate circumvention of technological protection 
+measures for purposes of gaining access to a work. This provision is not aimed at products that 
+are capable of commercially significant noninfringing uses…used by businesses and consumers 
+for perfectly legitimate purposes.” H.R. Rep. 105-551, 38 (July 22, 1998) (emphasis added). 
+Although this passage refers to products rather than services, the scope of Congress’ concern is 
+clear. 
+Accordingly, whether third-party assistance, such as automotive servicing, falls outside 
+the scope of the anti-trafficking provisions depends on the status of the copyright possessor. If 
+the possessor has the work lawfully, the third-party’s assistance is outside the scope of the anti-
+
+[PAGE 9]
+Page 9 of 9
+trafficking provisions. If the possessor does not have the work lawfully, then the third-party’s 
+assistance could be deemed as falling within the scope of the provisions.   
+III. Conclusion
+MEMA appreciates the Copyright Office’s important efforts to ensure that the DMCA’s 
+anti-circumvention provisions continue to reflect current realities in the marketplace. With its 
+thousands of members in the automotive aftermarket industry, MEMA is acutely aware of the 
+need to carefully balance the rights of copyright owners with those of consumers and 
+independent businesses. With this in mind, MEMA respectfully urges the Copyright Office to 
+clarify the importance of fair use in applying Section 1201. Doing so would alleviate concerns 
+regarding the sometimes anti-competitive effects of Section 1201 while allowing copyright 
+owners to maintain greater control over their works than a general exemption would allow for. 
+Dated:  October 27, 2016 Respectfully submitted,
+                            By_____________________
+Sarah Bruno
+Marc L. Fleischaker 
+Dan Jasnow
+ARENT FOX LLP
+1717 K Street, N.W.
+Washington, D.C. 20006
+(202) 857-8967 (telephone)
+(202) 857-6395 (facsimile)
+                                                           Attorneys for MEMA

@@ -1,0 +1,337 @@
+[PAGE 1]
+ 
+ 
+UNITED STATES COPYRIGHT OFFICE 
+ 
+    *  
+Section 1201 Study: Notice and                                 Reply Comments of:  
+Request for Public Comment                           *       Association of American Publishers,   
+     Motion Picture Association of America,  
+                                                *       Recording Industry Association of  
+Docket  No. 2015-8                                                      America 
+    * 
+  
+****** 
+ 
+ 
+I. Introduction 
+The Association of American Publishers (“AAP”), the Motion Picture Association of 
+America, Inc. (“MPAA”) and the Recording Industry Association of America, Inc. (“RIAA”) 
+respectfully submit these reply comments in connection with the above referenced docket.  As 
+described in the prior comments submitted by AAP, MPAA and RIAA on March 3, 2016, the 
+protections provided in Chapter 12 of Title 17 are extremely important to the motion picture, 
+music and publishing industries.  These protections helped encourage early adoption of digital 
+dissemination methods and continue to enable the exciting new business models that AAP, 
+MPAA and RIAA members and their partners are currently using to disseminate their creative 
+works.  Nothing in the comments filed in this docket persuasively supports the calls to 
+undermine the vital protections of Chapter 12.  Doing so would impede the growth of innovative 
+new services and products and harm consumers. 
+The majority of the complaints regarding Section 1201 contained in the submitted 
+comments focus on (i) purported uses of access controls to hinder competition in industries 
+unrelated to the dissemination of expressive works and (ii) accessing software code for the 
+purpose of studying or reverse engineering it or rendering consumer products, such as printers or 
+automobiles, interoperable with other products.  AAP, MPAA and RIAA take no position on the 
+specifics of these issues, which do not directly relate to their industries.  However, it is important 
+to note that many of the complaints are based on stale cases that are more than a decade old and 
+that Section 1201 already includes potentially applicable permanent exemptions related to 
+interoperability and security testing.  
+Very few comments pointed to any purported problems associated with accessing 
+expressive works.  Although a cadre of commenters who have opposed the existence of Section 
+1201 since prior to its passage continue to do so, they presented no evidence that anti-
+circumvention prohibitions are being abused by anyone in the motion picture, music or 
+publishing industries.  That is no surprise – as detailed in the comments submitted by AAP, 
+MPAA and RIAA, access controls and use-based controls are facilitating the availability of 
+innovative products and services that enable consumers to choose between a wide variety of 
+offerings at different price points.   
+The lack of any evidence that the existence of the protections contained in Section 1201 
+has led to less access to expressive works, rather than more access, is cause for the Copyright
+
+[PAGE 2]
+ 
+ 
+ 2 
+ 
+Office to recommend that Congress refrain from amending Section 1201 to reduce the 
+safeguards that underpin the digital businesses that AAP, MPAA and RIAA members and their 
+partners engage in and license.  It is critical, for example, that Congress reject calls to amend the 
+statute to require plaintiffs to prove that circumvention was undertaken for the purpose of 
+committing infringement.  It is also crucial that Congress, and the Copyright Office, decline to 
+significantly revise and weaken the procedural and substantive requirements for obtaining 
+exemptions through the triennial rulemaking process.  If anything, the comments submitted in 
+this docket demonstrate that, where valid concerns were raised in the proceedings, the Register 
+and the Librarian have acted responsibly to address them, as Congress intended.  While some 
+minor adjustments to the process might be warranted, it would be ill advised to convert the 
+proceeding into an open-ended invitation for broad-based assaults on the policy objectives that 
+Section 1201was meant to achieve, as opposed to maintaining it as a regulatory “fail safe 
+mechanism” focused on correcting specific and actualized hindrances to non-infringing uses.  
+H.R. Rep. No. 105-551, pt. 2, 105th Cong., 2d Sess., at 36 (July 22, 1998).  
+II. Technological Protection Measures Benefit Consumers  
+The March 3, 2016 comments submitted by AAP, MPAA and RIAA detail numerous 
+exciting products and services, underwritten by technological protection measures, that are 
+revolutionizing the ways that consumers enjoy and interact with books, journals, movies, music, 
+and television shows.  Subscription on-demand services, digital “rental” services, and online 
+lockers that enable family sharing and remote access to purchased titles are just a few examples 
+of business models that would not be possible without technological access controls and use 
+controls, protected by Section 1201. 
+Comments submitted in this docket by other copyright owners and organizations provide 
+additional examples of the benefits of technological protection measures.  ACT – the App 
+Association explained how Section 1201 protects start-up app developers looking to grow their 
+businesses and to provide consumers with software products that add life to their phones, tablets 
+and computers.  The Entertainment Software Association (“ESA”) described how access controls 
+limit piracy of videogames and other expressive works being enjoyed on sophisticated in-home 
+consoles that enable consumers to not only play games, but also to access movies, television 
+series and music.  And the Copyright Alliance provided an overview of how Section 1201 
+benefits its diverse collection of members, and their customers.
+1   
+  In contrast, critics of Section 1201 ignored all of these realities and pretended as if the 
+marketplace for expressive works is stagnant and hobbled by the use of digital rights 
+management technologies.  Nothing could be further from the truth.  Just as Congress intended 
+and predicted, consumers have access to more works through more channels than ever before.  In 
+addition, technological protections measures are an essential part of a regime designed to make it 
+possible for the authors and lawful distributors of expressive works to recoup their investments 
+and sustain their businesses, and to thereby fuel investment in the creation of new literary works, 
+                                                 
+1 Other comments that include useful information regarding the benefits of Section 1201 were submitted 
+by the Business Software Alliance (“BSA”), DVD Copy Control Association (“DVD CCA”), Advanced 
+Access Content System Licensing Authority (“AACS LA”), the Kernochan Center for Law, Media and 
+the Arts at Columbia University, Microsoft, and the Software & Information Industry Association 
+(“SIIA”).
+
+[PAGE 3]
+ 
+ 
+ 3 
+ 
+sound recordings, motion pictures and other copyrighted materials.  Incentivizing and enabling 
+that type of creative activity is exactly why copyright laws exist.  Mazer v. Stein, 347 U.S. 201, 
+219 (1954) (“The economic philosophy behind the clause empowering Congress to grant patents 
+and copyrights is the conviction that encouragement of individual effort by personal gain is the 
+best way to advance public welfare through the talents of authors and inventors in ‘Science and 
+useful Arts.’”).  Section 1201 is a necessary component of those laws in the digital environment.    
+III. There Is No Need To Amend The Statute Or To Significantly Alter The Rulemaking  
+As discussed above, the comments filed in this docket do not proffer any evidence that 
+Section 1201 is failing to achieve Congress’ goal of encouraging lawful, digital dissemination of 
+expressive works by providing copyright owners with reasonable protections against theft and 
+unauthorized access.
+2  To the contrary, all evidence indicates that copyright owners have 
+embraced digital dissemination, and that technological protections measures, especially access 
+control technologies, are central to innovation, diversity and consumer choice in digital delivery. 
+Nevertheless, numerous comments propose deleting Section 1201 from the statute 
+entirely.  Many comments also propose tying anti-circumvention liability to proven acts of 
+copyright infringement, some even going so far as to propose that a plaintiff in a Section 1201 
+case should be required to prove that a person who engaged in circumvention, or who trafficked 
+in circumvention tools or services, intended to facilitate copyright infringement and had no basis 
+to believe that acts of infringement were defensible in any manner.  See, e.g., Comments of New 
+Media Rights at 12.  Adopting these proposals would gut the protections provided by Section 
+1201, which Congress intended to supplement, not duplicate, copyright owners’ exclusive rights.  
+Moreover, adopting a specific intent approach in Section 1201 would, with respect to trafficking, 
+require proof of the mindset that consumers would have when utilizing circumvention tools 
+before actual acts of circumvention occur.  This would place the cart before the horse.
+3   
+As discussed in the opening comments of AAP, MPAA, and RIAA, it is essential that 
+Section 1201 liability remain separate and distinct from copyright infringement.  By, for 
+example, hacking into digital subscriptions services, bad actors can read entire books, listen to 
+entire records, and view entire movies simply by circumventing an access control, such as a 
+password requirement.  These bad actors need not reproduce these works or further distribute 
+them in order (i) to gain the full value of experiencing the works and (ii) to deprive copyright 
+owners and their licensees of the purchase (or rental) price.  As the Ninth Circuit’s thorough and 
+                                                 
+2 The only examples of purported problems proffered by commenters related to the use of access controls 
+in connection with expressive works, as opposed to functional software, relate to activities that the 
+Register and the Librarian have already determined to likely qualify as infringing (such as “space 
+shifting” of movies on DVDs) or considered and exempted from liability in prior rulemakings (such as 
+use of film clips by media studies professors or access to e-books for the blind). 
+3 In the rare instances where Congress elects to require proof of an intent to facilitate infringement, it 
+clearly understands how to do so.  See, e.g., 17 U.S.C. § 1202 (“No person shall, without the authority of 
+the copyright owner or the law … intentionally remove or alter any copyright management information 
+… knowing, or, with respect to civil remedies und er section 1203, having reasonable grounds to know, 
+that it will induce, enable, facilitate, or conceal an infringement of any right under this title.”).  The fact 
+that Congress did not include such requirements in section 1201 reflects an affirmative conclusion that 
+doing so would hinder the effectiveness of the anti-circumvention provisions.
+
+[PAGE 4]
+ 
+ 
+ 4 
+ 
+carefully-reasoned opinion in MDY Industries, LLC v. Blizzard Entertainment, 629 F.3d 928 (9th 
+Cir. 2010) explains, Congress intended to limit this harmful conduct by prohibiting 
+circumvention of access controls and trafficking in related goods and services without regard to 
+whether acts of copyright infringement are ultimately committed.  See S. Rep. No. 105-190, 
+105th Cong., 2d Sess., at 11 (May 11, 1998) (“[I]f unauthorized access to a copyrighted work is 
+effectively prevented through use of a password, it would be a violation of [section 1201(a)] to 
+defeat or bypass the password and to make the means to do so…”). 
+AAP, MPAA, and RIAA respectfully urge the Copyright Office to strongly oppose 
+proposals to delete Section 1201 from the statute or to neuter it by requiring proof of 
+infringement to establish violations of Section 1201.  The Copyright Office also should oppose 
+other proposals to amend the statute to weaken the protections provided by Section 1201, 
+including its anti-trafficking provisions.  As multiple comments explain, Section 1201’s t anti-
+trafficking provisions are critical to the overall scheme of protecting technological controls 
+against circumvention.  All technological protection measures are at risk of being broken, “so 
+without the ban against trafficking, circumvention devices useable by even the most technology-
+challenged of consumers would undoubtedly be readily available, and TPMs would be largely 
+ineffective.”  Comments of Kernochan Center for Law, Media and the Arts at 6.  Even statutory 
+exceptions or regulatory exemptions that superficially allow trafficking of devices and services 
+to enable lawful uses of works could cause significant harm to copyright owners because the rise 
+of a market in circumvention devices and services, ostensibly for the purpose of engaging in 
+permitted acts of circumvention, but primarily fostering illegal uses, would be unavoidable.
+4 
+This risk is exacerbated by confusion that often exists, and misrepresentations that often 
+are made, concerning the scope of exemptions.  For example, in his comments in this docket, 
+Professor Peter Decherney contends that the exemption for using short portions of motion 
+pictures in media studies courses allows for circumvention of access controls on video games, 
+even though the Register expressly stated the opposite when she recommended the exemption to 
+the Librarian.  Compare Comment of Prof. Peter Decherney at 4 (“This exemption enables 
+students and professors to use short portions or still images from motion pictures but also 
+television programs, slide shows, video games, and other works to prepare a lecture or 
+dissertation, facilitate a classroom discussion, complete an assignment, or otherwise participate 
+in activities that enhance the educational experience.”), with Recommendation of the Register of 
+Copyrights, Sixth Triennial Proceeding to Determine Exemptions to the Prohibition on 
+Circumvention at 68-69 (October 2015) (“While Joint Educators contend that video game 
+                                                 
+4 Although Congress, in the Unlocking Consumer Choice and Wireless Competition Act, instructed the 
+Librarian to expand exemptions related to mobile phone unlocking to cover circumvention by certain 
+persons at the direction of device owners, that law (i) was strictly limited by Congress to apply to this 
+narrow category of circumvention (which is unrelated to accessing expressive works) and (ii) does not 
+alter the anti-trafficking provisions of 17 U.S.C. § 1201(a)(2) or (b).  S. Rep. No. 113-212, 113th Cong., 
+2d Sess., at 6 (July 17, 2014) (“Unlocking a cell phone or other wireless device enables the device owner 
+to connect his or her device to a wireless telephone network of his or her choice, and does not enable the 
+device owner, or a third party on an owner’s behalf, to engage in other activities that infringe copyrighted 
+works.”); H.R.  Rep. No. 113-356, 113th Cong., 2d Sess., at 9 (Feb. 25, 2014) (“Nothing in this Act is 
+intended to serve as a limitation on section 1201(a)(2) or section 1201(b), which remain critical to the 
+effectiveness of Chapter 12 of Title 17 and are in no way altered or modified by the provisions of this 
+legislation.” ).
+
+[PAGE 5]
+ 
+ 
+ 5 
+ 
+excerpts can be used in classroom instruction, it is unclear how or why circumvention of TPMs 
+would be necessary to incorporate a video game excerpt as a pedagogical tool, as opposed to 
+showing a filmed clip of game play (for example, from Twitch or YouTube).  …  Accordingly, 
+as no further examples of non-motion-picture audiovisual works were provided to support a 
+broader exemption, the Register declines to recommend an exemption for excerpts of 
+‘audiovisual works,’ as opposed to ‘motion pictures.’”). 
+The Copyright Office should reject requests to deviate from the rulemaking framework 
+established by Congress for the triennial proceedings designed to identify and alleviate specific 
+marketplace problems, which is, for the most part, working quite well.  The Copyright Office has 
+repeatedly described at great length how it carefully deduced, from the statute and its legislative 
+history, the procedural and substantive obligations of persons seeking regulatory exemptions 
+under Section 1201(a)(1)(C).  See, e.g., Exemption to Prohibition on Circumvention of 
+Copyright Protection Systems for Access Control Technologies, Notice of Inquiry and Request 
+for Petitions, 79 Fed. Reg. 55,687, 55,689-91 (Sept. 17, 2014).  The requirements that each 
+proceeding be considered de novo, that the Register apply a preponderance of the evidence 
+standard, that proponents demonstrate that the conduct they intend to engage in is “in fact” non-
+infringing, and that exemptions cannot be based on mere inconveniences or de minimis harms 
+and must instead be justified by “substantial adverse effects,” all serve to ensure that the process 
+is not abused and that Congress’ decision to prohibit acts of circumvention is not set aside lightly 
+based on hypothetical complaints, hyperbole, abstract policy positions and minor grievances.  
+Proponents of undoing these regulatory standards ask the Copyright Office to “ignore” 
+(Comments of Library Copyright Alliance at 34) the legislative history in furtherance of creating 
+a proceeding that would make obtaining exemptions so easy that they would quickly swallow the 
+rule.   
+Although these same proponents claim that altering the ground-rules for the proceeding 
+will reduce the burdens on the Register and the Librarian associated with vetting exemption 
+requests, the proposed new, lax standards, if adopted, would be far more likely to result in a 
+proliferation of poorly supported requests from exemption proponents.  As emphasized in the 
+comments previously submitted by ESA, exemptions that the Register has rejected during prior 
+cycles are frequently and repeatedly proposed again in successive cycles.  Comments of ESA at 
+11.  These wasteful and unjustified proposals, and others, burden copyright owners and the 
+Copyright Office, and similar proposals would almost certainly increase in number if the 
+standards for granting exemptions were significantly relaxed.  Id. 
+The outcomes of the most recent triennial rulemaking cycles demonstrate that the 
+requirements for supporting exemptions are not unreasonable to satisfy.  Whereas the first 
+triennial rulemaking only resulted in exemptions for two classes of works, the 2015 proceeding 
+resulted in exemptions covering twenty-two types of uses of copyrighted works.  In fact, since 
+the first proceeding in 2000, every successive cycle has resulted in more exemptions than the 
+prior cycle.  In 2003, there were four exempt classes of works; 2006 resulted in six exempt 
+classes of works; the Librarian exempted nine categories of uses in 2010; and the number grew 
+to seventeen categories of uses in 2012.  Given the success that exemption proponents have had
+
+[PAGE 6]
+ 
+ 
+ 6 
+ 
+in these proceedings, claims that the process favors exemption opponents are exaggerated and 
+inaccurate.5 
+AAP, MPAA and RIAA support ESA’s suggestion that the Copyright Office should 
+require exemption proponents to demonstrate significant changes in the marketplace or the case 
+law before any exemption that has been previously denied will be reconsidered.  Id.  In addition, 
+AAP, MPAA, and RIAA continue to believe that, under the existing ground rules, where renewal 
+of an existing exemption is requested, if the proponent asserts that adverse impact of the kind 
+previously demonstrated to exist would be felt, and no one meaningfully opposes that assertion, 
+the Register may conclude, without further comments or hearing testimony, that adverse impact 
+is more likely than not, and recommend that the Librarian grant the exemption.6  Aside from 
+these clarifications, AAP, MPAA and RIAA do not believe that any changes to the ground rules 
+for the proceeding are necessary or advisable.  However, AAP, MPAA and RIAA continue to 
+support the procedural changes to the rulemaking they recommended on pages 13 and 14 of their 
+prior comments, including sharing proposed exemption language with hearing participants in 
+order to obtain feedback on drafting issues prior to publication of the Final Rule. 
+IV. Conclusion  
+AAP, MPAA and RIAA appreciate this opportunity to comment on issues of critical 
+importance to the motion picture, music and publishing industries.  They also look forward to 
+continuing to participate in the Copyright Office’s process for studying Section 1201 of Title 17.  
+ 
+DATE: April 1, 2016 
+ 
+[Signatures on following page] 
+ 
+ 
+ 
+                                                 
+5 Uses of digital content have evolved and changed over time, as discussed above in Section II.  Section 
+1201 has led to a flourishing market for expressive content and various business models now exist to 
+distribute it.  Compared to the rapid growth of digital products and services, the increase in the number of 
+exemptions is relatively minor.  
+6 The Copyright Office should reject calls to completely shift the burden of persuasion to opponents of 
+renewing exemptions.  Assertions that copyright owners reflexively oppose all exemptions, including 
+previously granted exemptions, (Comments of the Organization for Transformative Works at 2) are 
+baseless.  AAP, MPAA and RIAA have not opposed renewal of numerous exemptions during the last two 
+cycles.  Congress intended for proponents, who are better positioned than opponents, to present evidence 
+regarding the purported need for exemptions.  See 79 Fed. Reg. at 55,689 (“Those who seek an exemption 
+from the prohibition on circumvention bear the burden of establishing that the requirements for granting 
+an exemption have been satisfied.”).  Even some proponents of exemptions concede that Congress did not 
+intend for exemptions to be renewed absent any showing from proponents.  See, e.g., Comments of 
+Professor Peter Decherney at 8 (“The purpose behind reconsidering existing exemptions on a triennial 
+basis is to account for that fact that changes in technology, patterns of consumption, and the marketplace 
+may make some existing exemptions obsolete.  Thus, the creation of a hard presumption of renewability 
+might well violate Congressional preference expressed through legislative history.”).
+
+[PAGE 7]
+ 
+ 
+ 7 
+ 
+Respectfully submitted: 
+ 
+_____________________ 
+Allan R. Adler 
+General Counsel 
+Vice President for Government Affairs 
+Association of American Publishers 
+455 Massachusetts Ave., NW, 7th Floor 
+Washington, DC 20001 
+Phone (202) 220-4544 
+adler@publishers.org 
+ 
+ 
+_____________________ 
+Benjamin S. Sheffner 
+Vice President, Legal Affairs 
+Motion Picture Association of America, Inc. 
+15301 Ventura Blvd., Bldg. E 
+Sherman Oaks, CA 91403 
+Phone (818) 935-5784 
+Ben_Sheffner@mpaa.org 
+ 
+ 
+_____________________ 
+Susan B. Chertkof 
+Senior Vice President, Business and Legal Affairs 
+Recording Industry Association of America, Inc. 
+1025 F Street NW, 10th Floor 
+Washington, DC 20004 
+Phone (202) 775-0101 
+schertkof@riaa.com

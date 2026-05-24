@@ -1,0 +1,326 @@
+[PAGE 1]
+ 
+Microsoft Corporation 
+One Microsoft Way  
+Redmond WA 98052 www.microsoft.com 
+ 
+Page 1 of 8 
+ 
+March 3, 2016 
+ 
+ 
+Hon. Maria Pallante 
+Register of Copyrights 
+United States Copyright Office 
+101 Independence Ave., S.E. 
+Washington, D.C. 20559  
+ 
+Re: Section 1201 Study 
+ Docket No. 2015-8 
+ 
+Dear Ms. Pallante: 
+ 
+Microsoft Corporation submits these Initial Comments in response to the Copyright 
+Office's Section 1201 Study: Notice and Request for Public Comment, 80 Fed. Reg. 81,369 
+(Dec. 29, 2015) (“Notice”).  
+Background and Interest in the Notice  
+Microsoft appreciates the opportunity to provide comments in the Copyright Office’s 
+study of Section 1201.  Section 1201 provides an important legal foundation on which 
+copyright owners and innovators have built new technological means that have greatly 
+increased the ways in which copyrighted works are made available, and resulted in an 
+explosion of competitive and compelling business models that greatly expand consumer 
+choice.   
+Over the same period, the rapid pace of innovation has produced unprecedented new 
+devices, online services, and tools for consumers to access, use, and share copyrighted 
+works. The pace of innovation has made the safeguards and processes set out in Section 
+1201 as important today as when first enacted.   
+As with all of copyright law, balance is the key for Section 1201 to satisfy the needs of 
+copyright owners, innovators, and consumers, and Microsoft remains committed to 
+ensuring that Section 1201 remains appropriately balanced for all impacted parties.  This 
+means not only providing copyright owners with effective means to protect their 
+copyrighted works using technological protection measures (TPMs), but also ensuring that
+
+[PAGE 2]
+ 
+Microsoft Corporation 
+One Microsoft Way  
+Redmond WA 98052 www.microsoft.com 
+ 
+Page 2 of 8 
+ 
+users seeking to access and use works for legitimate purposes are not unfairly burdened 
+or frustrated.  
+Microsoft appreciates the important role Section 1201 plays for all stakeholders.  Indeed, 
+we experience Section 1201 through a range of stakeholder perspectives:   
+ As a copyright owner, TPMs help Microsoft protect the copyright to some of the 
+world’s most successful (and unfortunately, most pirated) software products in 
+history, including Windows and Microsoft Office. 
+ 
+ As a platform for copyrighted works, TPMs play a key role for the tens of 
+thousands of (i) software developers and publishers whose distribute their apps 
+and games via Microsoft’s online Windows Store for use on hundreds of millions 
+of PCs, tablets and mobile devices; and (ii) motion picture, music, and video game 
+copyright owners whose works are used on Xbox video game consoles and 
+distributed via Xbox Live online platforms. 
+ 
+ As a device and platform provider, a balanced application of Section 1201 
+ensures that Microsoft’s operating systems can continue to provide both 
+Microsoft and its users with innovative ways to access, explore, and experience a 
+wide range of copyrighted works on a diverse range of both Microsoft and third 
+party devices – from traditional PCs and tablets, phones, wearables, and large 
+touch displays, to Microsoft’s groundbreaking HoloLens augmented reality device. 
+ 
+ As a creator of tools for users (including software, productivity tools, web 
+browsers, and related online services), Section 1201 impacts the ways Microsoft 
+customers access, consume, and create materials that may contain copyrighted 
+works subject to technical protection measures. These tools also enable users to 
+remix, annotate, store, and share such materials for innumerable legitimate 
+purposes. 
+These diverse roles inform and guide Microsoft’s regular and active participation in the 
+Section 1201 triennial rulemaking process and in policy discussions convened by the 
+Office, Executive Branch agencies, and Congress.   
+1201 Enables Innovative Software and Digital Content Distribution 
+As outlined in Microsoft’s submission in the Copyright Office’s “Software-Enabled 
+Consumer Products Study,” we are in the midst of a transformational new generation of 
+hardware and software innovation. Online entertainment services such as Xbox Live have
+
+[PAGE 3]
+ 
+Microsoft Corporation 
+One Microsoft Way  
+Redmond WA 98052 www.microsoft.com 
+ 
+Page 3 of 8 
+ 
+revolutionized how users access and use copyrighted works including games, television 
+programming, film, and music content. 1  Similarly, online software and service platforms, 
+including Microsoft’s Store and Office 365, have upended traditional software distribution 
+and use models, resulting in unprecedented access to billions of users for millions of 
+copyrighted works. 2  
+The protections in Section 1201 for TPMs provide an important building block for 
+copyright owners to enable distribution of works in such innovative ways.  TPMs not only 
+help prevent infringement of these works: they also enable copyright owners and online 
+platforms to develop and deploy diverse business models, including pay-per-download, 
+trials, subscription, rental, ad supported, and even “freemium” models which derive value 
+by monetizing data generated from users.   
+These business models greatly expand the choice of consumers in the means through 
+which they enjoy copyrighted works, and they promote growth in the availability of 
+legitimate distribution channels.  TPMs also enable users to increasingly enjoy licensed 
+copyrighted works across their various personal hardware devices, negating the need to 
+managing multiple (and often redundant) copies, and enhancing the portability of a users’ 
+lawfully acquired content.  The availability of these legitimate channels and the diversity 
+of consumption choices play critical roles in combatting the growth of illegitimate sources 
+for copyrighted works.3  
+At the same time, the triennial 1201 rulemaking process provides an important role in 
+addressing legitimate concerns regarding access to copyrighted works for noninfringing 
+purposes.  The growth in both the number and range of exemptions granted, as 
+represented in the 2015 rulemaking, is a clear sign that the process is achieving the 
+purposes that Congress intended, and is sufficiently flexible to ensure the availability of 
+                                                           
+1 See http://www.xbox.com/en-US/xbox-store (Xbox Store enables video content from Netflix, 
+Amazon Video, HBO GO, hulu, ESPN, plus games and music).  
+2 See e.g. https://blogs.windows.com/buildingapps/2016/02/04/windows-store-trends-february-
+2016/ (Windows Store enjoyed 3 billion visits since July 29, 2015) (last accessed March 2, 2016); 
+http://www.bloomberg.com/news/articles/2016-02-10/cheap-smartphones-to-propel-app-
+spending-past-100-billion (Combined annual app downloads exceeded 111 billion in 2015) ( (last 
+accessed March 2, 2016). 
+3 See e.g. National Bureau of Economic Research Working Paper No. 21653, October 2015, available 
+at http://www.nber.org/papers/w21653 (“Consistent with the existing literature, our analysis also 
+shows that Spotify displaces music piracy”)( (last accessed March 2, 2016).
+
+[PAGE 4]
+ 
+Microsoft Corporation 
+One Microsoft Way  
+Redmond WA 98052 www.microsoft.com 
+ 
+Page 4 of 8 
+ 
+appropriate exemptions to accommodate advancements in technology and new, 
+noninfringing uses of works.  Accordingly, we focus our comments below on areas where 
+improvements to the rulemaking process would help insure that Section 1201 continues 
+to serve its dual purpose to foster the growth of the digital marketplace by ensuring 
+adequate legal protections for copyrighted works.4 
+How 1201 Can Accommodate Important Interests outside of Core Copyright Concerns 
+Question two of the Notice asks how Section 1201 should “accommodate interests that 
+are outside of core copyright concerns.”5  Section 1201(a)(1)(C) directs the Copyright 
+Office, in evaluating proposed exemptions, to consider certain issues that are core to 
+copyright (e.g., factors associated with the fair use exception in Section 107).  Similarly, 
+Section 1201(a)(1)(B) requires the Copyright Office to grant exemptions only to the extent 
+the prohibition adversely affects users’ ability to make noninfringing uses of works.   
+As the 2015 rulemaking demonstrated, in some limited instances, factors outside core 
+copyright concerns may be relevant to the fair use determination and assessments as to 
+whether certain activity should reasonably be considered to be noninfringing.  Such 
+considerations ultimately may help to shape the scope of a permitted exemption, as 
+several of the exemptions established by the Librarian in the most recent rulemaking 
+demonstrate.6  The statute contemplates consideration of other — potentially non-
+copyright — information, as it directs the Librarian to examine “such other factors as the 
+Librarian considers appropriate.”7  
+Microsoft believes that the current statutory structure of Section 1201 accommodates 
+these essential policy inputs.  In those rare cases where a TPM adversely affects 
+consumers’ ability to access copyrighted works for non-infringing uses, and where such 
+                                                           
+4 See H.R. Rep. No. 105-551, pt. 2, at 23 (1998). 
+5 See 80 Fed. Reg. at 81373. 
+6 See Final Rule: Exemption to Prohibition on Circumvention of Copyright Protection Systems for 
+Access Control Technologies, 80 Fed. Reg. 65944 (Oct. 28, 2015) (granting narrowly tailored 
+exemptions notwithstanding the broader requested exemptions, inter alia, for software used in 
+motorized vehicles for purposes of diagnosis and repair, and for identifying security flaws in 
+software). 
+7 Section 1201(a)(1)(C)(v).
+
+[PAGE 5]
+ 
+Microsoft Corporation 
+One Microsoft Way  
+Redmond WA 98052 www.microsoft.com 
+ 
+Page 5 of 8 
+ 
+access is necessary to promote other vital interests, Section 1201 rulemaking was 
+intended to and does provide a critical “safety valve” to address these concerns.   
+In the case of software or software-enabled products, granting even a narrowly-scoped 
+exemption may raise important issues, such as individual privacy, consumer safety, 
+interoperability, and data security.  In such cases, the Copyright Office should seek views 
+and guidance from those federal agencies with jurisdiction over the regulatory and policy 
+considerations at issue and with relevant substantive expertise.  Input of responsible, 
+expert agencies should be sought as early as possible in the rulemaking process to allow 
+for full vetting of points raised.  If necessary, however, the Office should consider 
+adjusting the timing of any exemptions it does grant in order to take agency input into 
+account—as it did when it recommended a 12-month delay in the effective date of certain 
+newly adopted exemptions in the most recent rulemaking.   
+These and related steps are vital to ensure that the Copyright Office — whose expertise is 
+in copyright law and practice — has the benefit of the perspectives of stakeholders and 
+regulators in shaping its 1201 recommendations.  As with all exemptions, the Copyright 
+Office should ensure that any adjustments to the nature or scope of exemptions to 
+address non-copyright policy considerations are appropriately scoped to enable only 
+noninfringing uses of works and do not open the door to infringement or other illegal 
+conduct. 
+Enhancements to Improve the Rulemaking Process 
+Questions 3 through 5 of the Notice seek input on ways in which the process of the 
+triennial rulemaking could be improved.  As a general matter, Microsoft supports 
+reasonable efforts to streamline and reduce the burdens of this process—for rights 
+owners, for those advocating in support of recognition or renewal of an exemption, and 
+for the Copyright Office.  We applaud the Copyright Office for the creative ways in which it 
+streamlined the process for identifying, categorizing, and obtaining feedback on proposed 
+exemptions in the 2015 rulemaking.  At the same time, given the importance of the issues 
+at stake in these rulemakings, and the difficult factual and legal questions that many 
+proposed exemptions have raised, we urge the Copyright Office to avoid actions that 
+could weaken the integrity of the rulemaking process, the robustness of the Office’s 
+recommendations, or that might lead to granting exemptions that are ill-considered or 
+that do not in fact satisfy the requirements established by Congress.   
+With that in mind, we offer the following suggestions on how the rulemaking process 
+might be improved:
+
+[PAGE 6]
+ 
+Microsoft Corporation 
+One Microsoft Way  
+Redmond WA 98052 www.microsoft.com 
+ 
+Page 6 of 8 
+ 
+ Streamline the process for renewal of previously granted exemptions, and separate 
+these submissions from those seeking new exemptions.  Where a particular use is 
+already subject to an exemption, the prior record may be sufficient to satisfy the 
+burden for renewal, and there may be less empirical evidence that users “are, or are 
+likely to be,” adversely affected if the exemption is not renewed—precisely because 
+users have had the benefit of the exemption for the past three years.  To avoid 
+imposing undue burdens on applicants for renewals, the Copyright Office should 
+adopt reasonable procedural adjustments.  This may include simplifying the process 
+for interested parties to initially request or oppose renewal, requiring that submitters 
+provide only a summary of reasons underlying a renewal, and not requiring a full 
+submissions or hearings unless the renewal request receives an objection.  In 
+evaluating renewals which receive no objections, the Office also could provide that a 
+proponent satisfies its burden if it either establishes that the conditions leading to the 
+original granting of the exemption still exist, or that the need at issue is being 
+substantially met because of the previously granted exemption.8  
+ 
+ For exemptions that merely expand the scope of an existing exemption, require 
+evidence only to the extent relevant to the expansion.  Where an applicant seeks to 
+expand an existing exemption—e.g., to new works, new users, or new uses—the 
+applicant must, consistent with the statutory language of Section 1201, meet its 
+burden of establishing that users are, or are likely to be, adversely affected in their 
+ability to make non-infringing uses of works by virtue of Section 1201(a)(1)(A).  The 
+Office should consider, consistent with the preceding recommendation, separating the 
+expansion request from the renewal request, and require new evidence only to the 
+extent of the expansion, and not with respect to the renewal of the earlier exemption 
+(absent opposition to the renewal of the earlier exemption). 
+ 
+ Seek agency input and initiate inter-agency deliberations at an early point in the 
+rulemaking process.  As already noted, we believe the Copyright Office should 
+proactively seek input from federal agencies with regulatory authority and substantive 
+expertise that might bear upon the recommendation or scope of a proposed 
+                                                           
+8 Cf. U.S. Copyright Office, Section 1201 Rulemaking: Sixth Triennial Proceeding to Determine 
+Exemptions to the Prohibition on Circumvention 14 (Oct. 2015), available at 
+http://copyright.gov/1201/2015/registers-recommendation.pdf.  A two stage process could likely 
+be adopted by the Copyright Office in compliance with the APA and without change to Section 
+1201. Similarly, reference to supporting evidence submitted in prior rule making could be an 
+“additional factor” suitable for the Librarian to consider in the next cycle.  See Section 
+1201(a)(1)(C)(v).
+
+[PAGE 7]
+ 
+Microsoft Corporation 
+One Microsoft Way  
+Redmond WA 98052 www.microsoft.com 
+ 
+Page 7 of 8 
+ 
+exemption.  The analysis, data and other evidence of expertise from these agencies 
+can inform the Office’s recommendations and increase stakeholder and public 
+confidence in the outcome of the rulemaking process.  To maximize the opportunities 
+for the Office and the public to benefit from these agencies’ expertise, we encourage 
+the Office to adopt procedures designed to alert relevant agencies to proposed 
+exemptions, seek guidance and views and, to the extent feasible, include agency 
+representatives in hearings or other public discussions.  Where more than one agency 
+has relevant oversight or expertise, we encourage the Office to facilitate inter-agency 
+consultation and dialogue as early in the process as possible. 
+Accessibility Exemptions 
+Microsoft supports the use of exemptions to help ensure that persons with disabilities are 
+able to enjoy the works they’ve lawfully acquired, but which may not be available in an 
+accessible format.  At Microsoft, our mission is to enable every person and organization 
+on the planet to achieve more, including by making electronic information available to 
+screen readers and other assistive technologies so that the information is available to 
+persons with visual impairments or other print disabilities.  In an information economy, 
+access to information is a prerequisite to an inclusive workplace, classroom, or home 
+environment. Microsoft believes that such exemptions strike an appropriate balance 
+between protecting incentives for creativity and enabling persons who are disabled to 
+access the works they’ve lawfully acquired. 
+In particular, Microsoft supports making permanent the authorized exemption that 
+facilitates access to literary works by persons who have print disabilities.9  The World Blind 
+Union estimates that over 90 percent of published works are unavailable to people with 
+print disabilities.  Microsoft and other technology companies have taken some steps to 
+facilitate the creation of accessible electronic content, but we know we need to do 
+more.10  
+Even with the best technologies, however, it is imperative that copyright law not stand as 
+an impediment to the creation of accessible content.  While the triennial process is an 
+appropriate mechanism for addressing particular exemptions directed at specifically 
+                                                           
+9 See Exemption to Prohibition on Circumvention of Copyright Protection Systems for Access 
+Control Technologies FR 65944,65962 (October 20, 2015) 
+10 See http://blogs.microsoft.com/on-the-issues/2015/12/03/uns-international-day-of-persons-
+with-disabilities-improving-access-and-inclusion/ (last accessed March 2, 2016)
+
+[PAGE 8]
+ 
+Microsoft Corporation 
+One Microsoft Way  
+Redmond WA 98052 www.microsoft.com 
+ 
+Page 8 of 8 
+ 
+identified needs, making these exemptions permanent recognizes that factors giving rise 
+to the exemption persist beyond each triennial period. 
+Microsoft recognizes that more can be done to improve accessibility for copyright works.  
+Accordingly, Microsoft welcomes the Copyright Office’s leadership in convening 
+stakeholders in relevant industries to participate in the goal of achieving additional 
+progress on accessibility to copyrighted works.  
+ 
+Sincerely, 
+ 
+Dave Green 
+Assistant General Counsel – IP Policy & Strategy 
+Intellectual Property Group – Corporate, External & Legal Affairs 
+Microsoft Corporation

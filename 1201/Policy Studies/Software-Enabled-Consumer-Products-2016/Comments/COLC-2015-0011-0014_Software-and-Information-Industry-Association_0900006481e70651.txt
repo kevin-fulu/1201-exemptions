@@ -1,0 +1,656 @@
+[PAGE 1]
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Docket No. 2015-6 
+ 
+ 
+ 
+Study on Software-Enabled Consumer Products  
+ 
+ 
+ 
+Initial Comments of the Software and Information 
+Industry Association 
+ 
+ 
+February 16, 2016
+
+[PAGE 2]
+ 
+ 
+ 
+ 
+The Software & Information Industry Association 
+(“SIIA”) respectfully submits these comments to the United 
+States Copyright Office in response to the Notice of Inquiry 
+entitled “Software-Enabled Consumer Products Study,“ 80 
+Fed. Reg. 77668 (December 15, 2015).  
+ 
+About SIIA 
+SIIA is the principal trade association of the software 
+and information industries and represents over 800 
+companies that develop and market software and digital 
+content for business, educati on, consumers, the Internet, 
+and entertainment.   SIIA’s members range from start- up 
+firms to some of the largest and most recogniz able 
+corporations in the world, and one of SIIA’s primary 
+missions is to protect their intellectual property and 
+advocate a legal and regulatory environment that benefits 
+the software and digital content industries .  SIIA member 
+companies are market leaders in many areas , including but 
+by no means limited to : 
+ 
+• software publishing, graphics,  and photo 
+editing tools 
+• corporate database and data processing 
+software 
+• financial trading and investing services, 
+news, and commodities exchanges  
+• online legal information and legal research 
+tools 
+• protection against software viruses and other 
+malware and 
+• education software , online education services  
+and open source software.
+
+[PAGE 3]
+ 
+ 
+ 
+ 
+Introduction 
+ 
+As Moore’s Law has made comput ers smaller and 
+smaller, our members have seen increasingly vibrant and 
+powerful versions of their publications and software 
+delivered on a variety of consumer devices.  Cell phones, for 
+example, contain feature-rich versions of photo editing, 
+database, and similar software that only existed on  
+desktops just a few years ago. Devices that look like 
+speakers are capable of accessing the internet , responding 
+to spoken queries, and returning information. 
+ 
+The devolution of computing power into smaller and 
+smaller devices and the promotional buzz surrounding the 
+so-called “Internet of Things” (IoT)  have raised curiosity 
+among policy makers about whether to change existing law 
+with respect to what some have unfortunately termed 
+“embedded software,” and which the O ffice has termed 
+“copyrighted software in everyday products.”  The 
+Department of Commerce’s In ternet Policy Task Force 
+recently stated that “the case has not been made in the 
+record to change the law to address the sale of [software 
+contained in] products or devices,”
+1  a similar conclusion to 
+that of the Copyright Office fifteen years ago. 2   
+ 
+SIIA shares that conclusion.  SIIA believes that no 
+change to existing law is necessary to address embedded 
+software, software contained in consumer goods, the 
+“Internet of Things,” or whatever moniker is ultimately  
+used to describe it.  That is because we respectfully believe 
+that this particular study is proceeding from a false 
+dichotomy: there is no such distinction between 
+“embedded” and other kinds of software.  There is merely 
+                                                
+1  Department of Commerce Internet Policy Task Force, 
+White Paper on Remixes, First Sale and Statutory Damages  at 
+65 (Jan. 2016) (“IPTF White Paper”).   
+2  E.g., U.S. Copyright Office, DMCA Section 104 Report 
+(2001).
+
+[PAGE 4]
+ 
+ 
+ 
+ 
+software—some of which is licensed, and some of which is 
+sold.   
+ 
+Most SIIA members license their products. 3  The law 
+permits (and should continue to permit) technology 
+providers to choose the models that best fit their markets.  
+The innovative landscape of electronic commerce and high -
+tech products derives from the wide availability of software 
+and content, and flexibility of legal doctrines that allows 
+providers to tailor the ir offerings to customer demand.  
+Licensing permits a software publisher to offer a fully 
+functional “academic” version of its product to students at a 
+deeply reduced price, but the rights granted do not permit 
+use for commercial purposes.
+4  Similarly, “OEM licenses” 
+bundle software with, or install software directly on  
+scanners or desktop computers, and require the software to 
+be used and distributed only with that hardware.  Often, 
+the hardware manufacturer was granted a deep discount as 
+part of the OEM license terms.  Another example is “site 
+licenses,” which are defined by some geographic restriction 
+on use, such as a specific company, area, or even 
+department or floors of a building.
+5  
+ 
+Licenses have enabled  SIIA members to tailor products 
+for specific customer needs, adjusting features, benefits, 
+                                                
+3  Licensing is the dominant method of software 
+distribution.  See Software & Information Industry Association, 
+Software and Information: Driving the Knowledge Economy  
+(January 24, 2008) at 7- 8, http://www.siia.net/estore/globecon -
+08.pdf. 
+4  See, e.g., ProCD, Inc., v. Zeidenberg , 86 F.3d 1447 (7th Cir. 
+1996) (“Instead of tinkering with the product . . . [software 
+companies] turned to the institution of contract.”); id. at 1455 
+(“Terms and conditions offered by contract reflect private 
+ordering, essential to the efficient functioning of markets.”).    
+5  See, e.g., Software & Information Industry Association & 
+LicenseLogic LLC, Certified Software Manager Student Manual  
+(SIIA Publications 2004) at 4:1– 4:52.
+
+[PAGE 5]
+ 
+ 
+ 
+ 
+rights, and price according to the needs of each customer 
+base rather than a “one size fits all” model – a model which 
+logically could require a higher price. 6   Consequently, 
+licensing provides benefits to consumers that section 109 
+cannot provide.     
+ 
+Those advantages are not limited to software.  For 
+example, the licensing of online and digital versions of 
+textbooks provides numerous benefits to students and 
+teachers.  They often come with special features  such as 
+embedded quizzes, electronic flash cards, the ability to 
+share notes online with fellow students and/or embedded 
+links to videos an d articles from a professor’s lectures.  
+These digital texts may also allow the teacher to monitor a 
+student’s progress, the amount of time the student spends 
+reviewing the material, and the student’s performance on 
+the embedded quizzes .  The teacher can then use this 
+information to determine what material the student finds 
+difficult and tailor study plans to keep the student on the 
+right track.  The nature of digital textbooks renders 
+updating and editing them a much faster and easier task 
+than their analog counterparts, and revisions can be  
+distributed to users almost immediately —all without the 
+additional expense of printing, handling, and processing 
+returns.   
+ 
+In addition, institutions increasingly 
+want course 
+materials delivered “inside” their digital classrooms so they 
+can ensure that all students have access to the same 
+materials and they can see how each student is performing.  
+                                                
+6  Cf.  Robert Maier, Penguin Random House Now Licensed 
+for Perpetual Access  (Jan 2016)  ( “Though we were in shock when 
+HarperCollins instituted its 26- loan limit in 2011, that rental 
+model is now recognized as an attractive alternative to high -
+priced perpetual access. At this point, the ideal arrangement 
+would be the ability to license any title for perpetual access and 
+to license the same title for a set number of circulations or a set 
+time period, combining the library’s need to build its collection 
+and to meet current popular demand.” ).
+
+[PAGE 6]
+ 
+ 
+ 
+ 
+These innovative products and business models would  not 
+be possible if textbook publishers were no longer able to 
+rely on licensing. 7  
+ 
+SIIA’s comments in this study are greatly informed by 
+our members’ marketplace experience. Software and 
+information providers have also begun to provide access to 
+technology and information services in which the consumer 
+can acquire access to far more content and functionality 
+than she could have in tangible goods.  And that access 
+comes as cloud computing has already changed consumer 
+relationships with both software and information from a 
+good to a service.   These services increasingly seek to 
+provide a seamless user experience across on PCs, tablets, 
+smartphones, televisions, automobiles, household 
+appliances, and other devices. Instead of purchasing a copy 
+of photo-editing software that is downloaded onto a 
+personal computer, a consumer sends copies of photographs 
+to the cloud to be edited  and stored, and then returned fo r 
+saving, printing, or display. Similarly, a variety of software 
+is finding its way into seemingly “ordinary” devices, such 
+as pens that can capture notes as written, and then send 
+those notes to the cloud for storage, character recognition, 
+and export into SIIA member software.
+8  In these (and 
+                                                
+7   The result of all these evolving business models has been a 
+dramatic drop in student textbook spending from $192 in the fall 
+of 2008 to $138 in the spring of 2013.   See Stephanie Simon and 
+Madeline Will, Textbook publishers revamp ebooks to fight used 
+market, 4-traders.com  (July 23, 2013) at http://www.4-
+traders.com/PEA RSON-PLC-4000637/news/Textbook -publishers-
+revamp-ebooks-to-fight-used-market-17119420/.  (This is despite 
+claims that the cost of new textbooks rises about 6 percent a 
+year.  See GAO Report 13 -368, College Textbooks: Students Have 
+Greater Access to Textboo k Information  at 6 (June 2013)  at 
+http://www.gao.gov/assets/660/655066.pdf .  
+ 
+8  E.g., http://digital -pen-review.toptenreviews.com/  [find 
+others]. [See also http://www.livescribe.com/en -
+us/legal/#TermsSales ].
+
+[PAGE 7]
+ 
+ 
+ 
+ 
+many other) situations, the relationship between consumer 
+and software is not the relationship between a consumer 
+and an inert copy; it is the relationship between a 
+consumer and a live system.  
+ 
+SIIA opposes any change to existing law to deal with so-
+called “embedded software.”  The flexibility of existing law 
+both enables our members to make their software and 
+information products more widely available  and permits 
+them to maintain th e integrity of their produ cts and 
+services.  This principle of product integrity protects not 
+only the public interest in copyright’s economic incentive 
+and healthy marketplace competition, but also broader 
+health and safety interests.  Maintenance of prod uct 
+integrity is essential to  the full development of the IoT’s 
+economic and social potential as it ensures that devices will 
+operate as the consumer expects, and device manufacturers 
+intend. In many cases, ensuring product integrity will 
+require users to abide by the terms of software licen ses and 
+other contractual obligations.   
+ 
+  Our more detailed responses to the NOI ’s questions 
+follow below, but can be summarized in the following basic 
+themes: 
+• The Copyright Act has successfully created a 
+baseline of property rights, and the state law of 
+contract fills in the gaps.   Against that backdrop, 
+software development has flourished, and the 
+industry is rapidly evolving in response to 
+technological change.  The resulting market 
+ecosystem has spawned freneticall y paced 
+innovation and development while maintaining 
+the incentives to create that the copyright law 
+provides. 
+• The category of software described in the  NOI is 
+one that does not exist  and cannot be 
+constructively defined.  Capital is flowing into 
+the creation of “smart goods,” products and 
+devices made more effective or “intelligent” 
+through the incorporation of software and often
+
+[PAGE 8]
+ 
+ 
+ 
+ 
+an Internet connection.   There is no evidence 
+that innovation is being harmed by this activity  
+or the licensing terms that acc ompany this 
+software.  Proposals to create legislative 
+definitions of “embedded software,” “software 
+contained in consumer goods” is doomed to 
+failure, and will have negative, if unintended, 
+consequences. 
+• To the extent that concerns have arisen over the 
+development of secondary markets, such 
+concerns are beyond the scope of this 
+rulemaking.  Issues relating to so -called “rights 
+to tinker,” the “right to repair” and other related 
+issues are beyond the scope of this rulemaking 
+as they assume ownership of a copy.  Such 
+concerns (to the extent they legitimately exist) 
+are best addressed within the context of the 
+Office’s examination of section 1201.    
+ 
+RESPONSES TO THE NOI  
+I. Existing Law Facilitates the Proliferation of 
+Numerous Business Models  (Question 1, 2) 
+ 
+ Under existing law, software is a “computer program;” 
+namely, “a set of statements or instructions to be used 
+directly or indirectly in a computer in order to bring about 
+a certain result,” and is treated as a subset of literary 
+works.
+9   It provides the owners of copyright in computer 
+programs with the same rights as any other copyright 
+owner, but subject to a few specific limitations.  First, 
+section 117 permits the owner of a copy to adapt a 
+particular work and to make additional copies as an 
+“essential step” in the operation of a machine, or for 
+archival purposes.
+10  It also permits the owner or lessee of 
+a machine to copy software without infringing the 
+                                                
+9  17 U.S.C. § 101.  
+10  Id. § 117 (a) (1), (2).
+
+[PAGE 9]
+ 
+ 
+ 
+ 
+copyright for purposes of maintenance or repair. 11  In 
+addition, Congress crafted an exemption from software’s 
+general rental right in section 109(b)(1)(B)(i) that allows 
+rental, lease, or lending of devices that cannot be copied 
+during the ordinary operation of a machine .12   
+ 
+Each of these provisions contemplates the licensing of 
+copyrighted works.  Section 117 (a) extends certain archival 
+and modification rights, but only to the owner of a copy.   
+Section 117(c) limits the reproduction right, but does not 
+invalidate license terms.  
+ 
+ Similarly, section 109 makes plain that its limitation 
+on the distribution  right does not apply to a copy of the 
+work through “rental, lease or lending.”
+13  And, although 
+section 109 allows the owner of a machine to lease the 
+machine without violating the distribution right, that 
+limitation has no relevance when the reproduction
+ right is 
+expressly licensed.  The text and structure of the act create 
+a baseline of freely alienable property rights that can be 
+rented, licensed, or transferred in gross in a variety of 
+ways.   
+                                                
+11  Id. § (c), (d); see also H.R. Rep. No.  105 -551, at 26-27 
+(1998) (stating a “ narrow and specific intent of relieving 
+independent service providers, persons unaffiliated with either 
+the owner or lessee of the machine, from liability under the 
+Copyright Act when, solely by virtue of activating the machine in 
+which a computer program resides, they inadvertently cause an 
+unauthorized co py of that program to be made. ”). 
+12  See also  TRIPS, art. 11 (exempting signatories from 
+providing rental right for computer software when the software 
+is not the essential purpose of the rental).   Like any copyrighted 
+work, software is subject t o the idea/expression dichotomy, an 
+area that SIIA believes the courts have well in hand.   
+13  17 U.S.C. § 109(d); id. § 117 (a)(1), (2).  See also id. § 202 
+(transfer of physical object does not convey intellectual property 
+rights, and vice versa); H.R. Rep. No.  94-1476, at 80, 124- 25 
+(1976) (describing limits of sections 109 and 202).
+
+[PAGE 10]
+ 
+ 
+ 
+ 
+A. The Market for Software in Smart Goods is 
+Healthy and Growin g 
+Against this backdrop, the market for software and 
+information generates billions in revenues  and continues to 
+grow.14  The framework under which that growth has 
+occurred operates from a fairly simple assumption: 
+copyright provides property rights, which the owner may 
+license (or not), or sell (or not), in response to market 
+demand.  A transaction for software could involve  Article 2 
+of the Uniform Commercial Code, the common law of 
+service contracts, as well as intellectual property doctrines 
+including copyright and patent law.   
+ 
+ That model has extended quite well to so-called “smart 
+goods.”  Between 2010 and 2014, funding for IoT startups 
+has more than doubled, and attracted about $7.5 billion in 
+investment,
+15  and the number of connected devices is 
+estimated to grow by thirty percent in 2016. 16  That growth 
+comes as many of SIIA’s member software companies’ 
+relationship has changed from change from an installed 
+user base in which customers license software CDs and 
+install that software on computers to one in which the 
+software is hosted and run remotely, and sold as a service.   
+The shift reflects customer demand for both sof tware and 
+information that is automatically updated and accessible in 
+a convenient form.   
+ 
+                                                
+14 See Software & Information Industry Association, The U.S. 
+Software Industry: An Engine for Economic Growth and 
+Employment (2014) 
+http://www.siia.net/Admin/FileManagement.aspx/LinkClick.aspx
+?fileticket=yLPW0SrBfk4%3d&portalid=0 .  See also generally 
+Siwek, The Copyright Industries and the U.S. Economy  (2014).  
+15  CB Insights, Funding to IoT Startups Has More Than 
+Doubled in Six Years (November 10, 2016).   
+16  Gartner, Press Release , Gartner Says 6.4 Billion 
+Connected “Things” Will Be in Use in 2016, Up 30 Percent From 
+2015 (Nov. 10, 2015).
+
+[PAGE 11]
+ 
+ 
+ 
+ 
+That same kind of demand for convenience has entered 
+into consumer goods, and has begun to  change the way that 
+individuals interact with devices .  Such devices collect 
+information about their users and tailor functionality to a 
+user’s experience.  Cars, networked thermostats, activity 
+monitors, and even refrigerators have begun incorporating 
+“smart” features—some of which will be enormously 
+successful, and some of which will not.   
+ 
+II. Flexible Licensing Terms Ensure Health, Safety, 
+and Product Integrity  (Questions 1,2,3,5)  
+ 
+The licensing of software contributes to product 
+integrity: the operation of the product in the manner in 
+which the consumer expects, a nd the manufacturer 
+intends.  License terms may restrict the conditions under 
+which the user may modify the software and the manner in 
+which it interacts with a network.  The manufacturer and 
+the software provider should be permitted to decide 
+whether or not the software in a consumer good has been 
+licensed, sold, or is the subject of a service contract.  
+Depending on the facts of the transaction  (and the vagaries 
+of state law), software can be a sale, a license, or a contract 
+for services, or a combination of all three.
+17  The distinction 
+                                                
+17  See, e.g., Simulados Software, Ltd. v. Photon Infotech 
+Private, Ltd ., 40 F. Supp. 3d 1191, 1199-200 (N.D. Cal. 2014);  
+(noting that courts look to the essence of the agreement to 
+determine whether the UCC applies);  Vernor v. Autodesk, Inc., 
+621 F.3d 1102, 1111 (9th Cir. 2010) (establishing three -part test 
+to determine whether a t ransaction for software is a sale or a 
+license); DSC Commc'ns Corp. v. Pulse Commc'ns, Inc ., 170 F.3d 
+1354, 1362 (Fed. Cir. 1999) (applying a multi- factor test to 
+determine whether a licensee is in fact the “owner” of a copy) ; 
+MDY Indus., LLC v. Blizzard Entm't, Inc ., 629 F.3d 928, 939 (9th 
+Cir. 2010), as amended on denial of reh'g  (Feb. 17, 2011), opinion 
+amended and superseded on denial of reh'g , No. 09-15932, 2011 
+WL 538748 (9th Cir. Feb. 17, 2011) (noting difference between 
+covenants and conditions).
+
+[PAGE 12]
+ 
+ 
+ 
+ 
+that the NOI purports to draw between “everyday 
+consumer products” and “non -everyday” products would 
+destroy both software providers and manufacturers’ 
+abilities to protect product integrity and is one that the 
+copyright law does not, cannot, and should not draw.   
+A. Disruption of Licensing Law Will Create 
+Negative Business, Health, and Safety 
+Consequences. 
+For example, companies are creating ingestible medical 
+sensors that connect with a patch worn on the skin.  The 
+sensor communicates with the patch to send  blood 
+pressure, medication, and other information to the cloud, 
+and can help medical professionals determine how well a 
+particular medication regime is working. 18   The collected 
+data is contained by software on the ingesti ble “pill,” more 
+software on the patch, a software application for the 
+patient, and in a portal for health care professionals .    We 
+respectfully suggest that a copyright  rule mandating that a 
+particular product is automatically “sold”  is unwise public 
+policy.   
+ 
+SIIA members also use and engage in the use of open -
+source software.  Although these licenses permit free 
+transfer and reproduction of the software, licensees must 
+disclose improvements and modifications that they make.
+19  
+These obligations do not r un to the “owner” of a copy —only 
+to licensees. Not only is open source software frequently 
+included in consumer goods, but its use is a large part of 
+IoT development. 20   Uncertainty over the enforceability of 
+such licenses due to the transfer of the goods that happen 
+to contain licensed software would be highly disruptive to 
+                                                
+18  See, e.g., http://www.proteus.com/how -it-works/ (visited 3 
+February 2016).   
+19  E.g., https://opensource.org/licenses/GPL -3.0 §§ 5, 6, 7.   
+20  Giles Gravier, Open Source as a Driver of Internet of 
+Things, InfoQ (Jan. 9, 2016); Steven Max Peterson , Google 
+Readies Developers to Build the IoT, Starting with its Open 
+Version of Bluetooth Low Energy Beacons,  Network World, Jan 
+12, 2016).
+
+[PAGE 13]
+ 
+ 
+ 
+ 
+those entities that have elected to pursue an open source 
+model of software development.   
+ 
+No matter which licensing model is chosen—open, 
+closed, a combination of both , or none—existing law has 
+created a wealth of legitimate business models and 
+technologies.   To the extent that 
+owners of copies of 
+computer software are prevented from repairing particular 
+devices by technological protection measures within the 
+scope of section 1 201, that discussion is beyond the scope of 
+this NOI.   SIIA remains puzzled regarding the specific 
+problem that legislation addressing embedded software 
+would allegedly solve.   
+ 
+B. Existing Law Has Created Healthy 
+Secondary Markets 
+That absence of evidence,  however, has not prevented 
+claims that the spread of embedded software will result in 
+the deterioration of secondary markets.  Such claims 
+proliferated when the ProCD decision was decided nearly 
+twenty years ago.  Due to the presence of software and 
+other digital information in hard goods, the argument 
+went, all kinds of secondary transactions in hard goods 
+would be prohibited.  Experience suggests treating those 
+claims with considerable skepticism.   
+ 
+The “Craigslist apocalypse” simply has not happened, 
+for several reasons.  First, prophecies of doom 
+notwithstanding, a simple look around eBay and many 
+other platforms reveals that robust secondary markets 
+exist for all kinds of goods, and are likely to remain so.  
+Consumers have certain expectations regardin g both 
+transferability and interoperability, and the marketplace 
+has generally provided sufficient incentives to meet those 
+expectations.
+ 21  An expensive purchase such as a car, or 
+even smart watch, is worth far less if it cannot be resold.   
+                                                
+21  Cf., e.g., 
+http://www.developers.meethue.com/content/friends -hue-
+program-update (noting how Philips changed firmware with its
+
+[PAGE 14]
+ 
+ 
+ 
+ 
+ 
+Second, although the law permits software to be 
+licensed and not sold, it hardly requires it.  T he courts 
+require licensors to take certain steps to make clear to 
+subsequent purchasers that software is licensed , and there 
+must be sufficient indic ia of licensing to support that 
+conclusion.
+22  In the event that “ everyday consumer 
+products” were subject to license terms that restricted their 
+transfer in secondary markets, courts would likely 
+scrutinize those transactions using the indicia of sale and 
+licensing developed in the common law and interpretive 
+decisions of the copyright act, as appropriate.  It is far more 
+likely that the situation will continue as it is now: goods 
+will be sold containing some software that is owned, and 
+some that is licensed. 23  The scope of those licenses (and 
+sales) will vary by industry.   
+ 
+However, it is possible that the rapid pace of change 
+may outrun existing consumer expectations.  Although we 
+have antitrust concerns about how its suggestions might be 
+implemented in practice, we do believe that the IPTF’s 
+recommendation of a multi -stakeholder process to discuss a 
+consumer education campaign and possible best practices 
+could provide a useful way forward.
+24 
+                                                                                                     
+hubs to ensure interoperability after consumer ou tcry); 
+Treehouse Foods, Inc. Reports Second Quarter Results, 
+http://phx.corporate -ir.net/phoenix.zhtml?c=191105&p=irol-
+newsArticle&ID=1956509  (Aug 7. 2014) (Gr een Mountain coffee 
+competitor announcing successful reverse engineering around 
+Keurig blocking technology).   
+22  E.g., UMG Recordings, Inc. v. Augusto , 628 F.3d 1175, 
+1180 (9th Cir. 2011) (finding that sticker on CD insufficient to 
+create a license); Adobe Sys. Inc. v. Christenson , 809 F.3d 1071, 
+1080 (9th Cir. 2015) ( first sale defense upheld because copyright 
+owner did not bring forth sufficient proof of licensing ). 
+23  See, e.g., http://www.belkin.com/us/end -user-license-
+agreement/ (permitting transfer of software in smart goods 
+provided originals deleted).  
+24  IPTF White Paper, supra note 1, at 69.
+
+[PAGE 15]
+ 
+ 
+ 
+ 
+III. Conclusion 
+In short, while we believe this kind of review is entirely 
+wise and appropriate and we applaud the Office’s diligence,  
+the law needs no changes to address issues in software 
+copyright.    
+ 
+ 
+Respectfully submitted,  
+ 
+ 
+/s/ 
+ 
+Christopher A. Mohr 
+Vice President for Intellectual 
+Property and General  Counsel 
+ 
+Software and Information 
+Industry Association 
+ 
+16 February 2016

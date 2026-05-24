@@ -1,0 +1,260 @@
+[PAGE 1]
+ 
+ACM US Public Policy Council (USACM) 
+1828 L Street NW, Suite 800 
+Washington, DC 20036 
+Tel:  +1-212-626-0541 
+Fax:  +1-202-667-1066 
+acmpo@acm.org 
+usacm.acm.org 
+ 
+Association for Computing Machinery (ACM) 
+ACM US Public Policy Council (USACM) 
+ 
+usacm.acm.org 
+facebook.com/usacm 
+twitter.com/usacm 
+ 
+March 3, 2016 
+ 
+Hon. Maria A. Pallante 
+Register of Copyrights 
+United States Copyright Office 
+Library of Congress 
+101 Independence Ave., S.E. 
+Washington, D.C. 20559 
+ 
+Re:  Section 1201 Study: Notice and Request for Public Comment – Docket No. 2015-8 
+ 
+Dear Ms. Pallante: 
+ 
+Thank you for the opportunity to comment on the operation of Section 1201 of Title 17 (NOI), 80 Fed. 
+Reg. 81369 (Dec. 29, 2015), Docket No. 2015-8. We appreciate your efforts to examine and consider 
+improvements to the triennial rulemaking process established under the Digital Millennium Copyright 
+Act (DMCA) to adopt exemptions to the prohibition against circumvention of technological measures of 
+copyrighted works.  
+ 
+With more than 100,000 members, ACM (Association for Computing Machinery) is the world’s largest 
+educational and scientific computing society, uniting computing educators, researchers, and 
+professionals to inspire dialogue, share resources, and address the field’s challenges. These comments 
+were developed by the ACM U.S. Public Policy Council (USACM), which serves as the focal point for 
+ACM's interaction with the U.S. government in all matters of U.S. public policy related to information 
+technology. The membership of the ACM U.S. Public Policy Council is comprised of computer scientists, 
+educators, researchers, and other technology professionals. ACM U.S. Public Policy Council statements 
+represent the views of the Council and do not necessarily represent the views of the Association. 
+ 
+Responses to Specific Questions 
+2.  How should section 1201 accommodate interests that are outside of core copyright concerns, for 
+example, in cases where circumvention of access controls protecting computer programs implicates 
+issues of product interoperability or public safety? 
+ 
+Public policies meant to reinforce copyright should be limited to applications where copyright interests 
+are actually at stake. We agree with the recommendation for the treatment of non-copyright policy 
+issues submitted by the National Telecommunications and Information Administration (NTIA) during the 
+sixth triennial proceeding.1 NTIA urged the Copyright Office to focus primarily on questions relevant to 
+                                                           
+1 National Telecommunications and Information Administration, Recommendations to the Register of Copyrights in 
+Response to the Exemption to Prohibition on Circumvention of Copyright Protection Systems for Access Control 
+Technologies, Notice of Proposed Rulemaking, Docket No. 2014-07 (Sept. 18, 2015), 
+http://copyright.gov/1201/2015/2015_NTIA_Letter.pdf.
+
+[PAGE 2]
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+2 
+copyright law and not to interpret the statute as extending to acts that do not implicate copyright laws. 
+The NTIA referred to the examples of medical device safety, vehicle emissions standards, and best 
+practices in software vulnerability disclosures raised during the latest triennial proceeding as being 
+among issues not contemplated in copyright law. Further, similar to the NTIA, we feel that consideration 
+of privacy and security measures used for non-copyright reasons during the triennial rulemaking process 
+could reduce those beneficial functions in the marketplace while inappropriately overprotecting 
+copyright.2  
+ 
+We urge the Copyright Office to conclude that non-copyright policy issues are outside the scope of 
+Section 1201. The Copyright Office should clarify that this includes privacy and security measures used 
+for non-copyright purposes, reverse engineering, security and privacy research, and other research and 
+development activities. These activities should not require exemptions because they do not constitute 
+infringement. If the Copyright Office concludes that they are within the scope of Section 1201, they 
+should be protected as permissible activities under expanded permanent exemptions. (See response to 
+Question 8.) 
+ 
+The Copyright Office should affirm that technological measures controlling access to copyrighted works 
+under Section 1201 should not be misused to impede innovation and market competition by unduly 
+hindering hardware and software interoperability. Public policy should enable a variety of approaches 
+and systems to emerge, should allow and facilitate competition among them, and should encourage 
+interoperability among them.     
+ 
+We concur with NTIA that the Copyright Office should limit its examination to copyright issues and defer 
+on non-copyright policy issues to Congress, relevant federal regulatory bodies, and state agencies. These 
+other entities are "well-equipped to deal with these non-copyright issues in the appropriate settings and 
+under legal authorities focused on those issues."3 
+ 
+3. Should section 1201 be adjusted to provide for presumptive renewal of previously granted 
+exemptions—for example, when there is no meaningful opposition to renewal—or otherwise be 
+modified to streamline the process of continuing an existing exemption? If so, how? 
+ 
+We favor presumptive renewal of exemptions in cases where there is no credible opposition as a means 
+to improve the efficiency of the triennial rulemaking process. The current requirements to provide the 
+factual and legal evidence anew each time can result in significant inefficiencies and duplication of effort 
+by all parties and your office. Shifting the burden to require interested parties to show why the renewal 
+should not be granted could help focus the examination on any significant changes, such as in the 
+marketplace or in technological advancements. Further, the more efficient processes of presumptive 
+renewals could allow your office to more effectively examine petitions for new exemptions.   
+ 
+                                                                                                                                                                                           
+ 
+2 Id. at 7. 
+3 Id. at 5.
+
+[PAGE 3]
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+3 
+Question 7. Should section 1201 be amended to allow the adoption of exemptions to the prohibition 
+on circumvention that can extend to exemptions to the anti-trafficking prohibitions, and if so, in what 
+way? For example, should the Register be able to recommend, and the Librarian able to adopt, 
+exemptions that permit third-party assistance when justified by the record? 
+ 
+Appropriate and tailored exemptions to the anti-trafficking prohibitions could have a positive effect by 
+promoting legitimate research and development of improved software tools to support socially 
+beneficial purposes, such as security research, education, and accessibility. In addition, many consumers 
+lack the knowledge and expertise to develop tools that would enable them to benefit from granted 
+exemptions.  
+ 
+8. Please assess whether the existing categories of permanent exemptions are necessary, relevant, 
+and/or sufficient. How do the permanent exemptions affect the current state of reverse engineering, 
+encryption research, and security testing? How do the permanent exemptions affect the activities of 
+libraries, archives, and educational institutions? How might the existing permanent exemptions be 
+amended to better facilitate such activities? 
+ 
+The existing categories of permanent exemptions provide inadequate protections for many 
+noninfringing uses of digital computing and computing research. Such activities are needed to analyze 
+and identify shortcomings in security systems, defend patents and copyrights, discover and fix 
+dangerous bugs in code, facilitate consumer safety, enable access for people with disabilities, and 
+conduct beneficial educational activities. In some instances, the threat of legal action under the DMCA 
+has deterred scientists and technologists from publishing scholarly work or even publicly discussing their 
+computing research, both fundamental tenets of scientific discourse.4  
+ 
+To the extent that the Copyright Office finds noninfringing activities as within the scope of Section 1201, 
+we would favor statutory amendments that provide more effective exemptions to enable socially 
+beneficial reverse engineering, encryption research, computer privacy and security research, 
+accessibility for people with disabilities, and educational activities. This would ensure that Section 1201 
+targets only those circumventions that enable copyright infringement.  
+ 
+As related to the current permanent exemptions, we urge the Copyright Office to conclude that reverse 
+engineering, security and privacy research, and other research and development activities are beyond 
+the scope of Section 1201. These activities do not implicate significant copyright interests and provide 
+legitimate benefits to society by helping to advance a more resilient, robust, and secure digital 
+ecosystem. These activities should not require exemptions because they do not constitute infringement, 
+as also discussed in response to Question 2. If the Copyright Office concludes that they are within the 
+scope of Section 1201, they should be protected as permissible activities under expanded permanent 
+exemptions. 
+                                                           
+4 E.g., Steven Bellovin et al., Long Comment: Proposed Class 25: Security Research, Response to the Register of 
+Copyrights in Response to the Exemption to Prohibition on Circumvention of Copyright Protection Systems for Access 
+Control Technologies, Notice of Proposed Rulemaking, Docket No. 2014-07 (Feb. 6, 2015), 
+http://copyright.gov/1201/2015/comments-020615/InitialComments_LongForm_SecurityResearchers_Class25.pdf.
+
+[PAGE 4]
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+4 
+Should the Copyright Office conclude that reverse engineering and research activities fall within the 
+scope of Section 1201, the current permanent exemptions should be revised to provide more effective 
+exemptions. Researchers have sought triennial exemptions for significant categories of reverse 
+engineering, encryption research, and software privacy and security research due to lack of adequate 
+legal protections under the respective permanent exemptions given in 1201(f), 1201(g) or 1201(j). 
+ 
+Computer security research is and will become even more vital to society, including for essential 
+governmental and business functions. Computer security plays an indispensable role in maintaining 
+national security, continuity of operations for mission critical infrastructure (e.g., the power grid, air 
+traffic control), trustworthy electronic voting, safety of automotive and avionic systems, the integrity of 
+financial transactions, proper operation of medical and consumer devices, business operations, 
+maintenance of personal privacy, and the overall stability of the U.S. economy. Computer security and 
+data protection will only become more critical as we see increasing deployment of the “Internet of 
+Things.” Security research is critical to maintaining the cybersecurity of networks and systems and must 
+be protected and encouraged to further develop and ensure such security going forward. 
+ 
+We urge you to recognize the distinctions between circumvention for the purposes of: (a) obtaining 
+unauthorized access to a work, (b) engaging in or facilitating infringement, and (c) developing new 
+techniques to protect computer systems and networks against attacks, negligence, malfeasance, and 
+vandalism, or to advance the continued innovation of software and digital computing. 
+ 
+9. Please assess whether there are other permanent exemption categories that Congress should 
+consider establishing—for example, to facilitate access to literary works by print-disabled persons? 
+ 
+We support the adoption of permanent exemptions to enable people with a range of disabilities to 
+access copyrighted works in accessible formats when the lawfully obtained work is inaccessible. Digital 
+content that is not readily available in multiple modalities may be inaccessible to individuals with 
+disabilities. In the triennial rulemakings, the Librarian has granted recurring specific exemptions for 
+multiple classes of works to improve accessibility. Exemptions have included access to literary works 
+using assistive technologies and to movies through captioning and descriptive audio. Further, 
+exemptions have allowed for limited research and development of devices to render captions and 
+descriptive audio for audiovisual works. These specific exemptions have benefited people who are blind, 
+visually impaired, deaf, or hearing impaired.  
+ 
+Despite gains in accessible software and devices, copyrighted works largely continue to be sold and 
+distributed in inaccessible formats. Thus, we recommend consideration of permanent exemptions to 
+enable broader accessibility by people with disabilities and to facilitate research to improve accessible 
+technologies.  
+ 
+Permanent exemptions to facilitate accessibility would be consistent with the demonstrated 
+commitment by Congress to promote accessibility and nondiscrimination. As one example, Congress 
+passed the Twenty-First Century Communications and Video Accessibility Act (CVAA) in 2010 to update 
+affirmative protections for people with disabilities to access modern technologies and digital content, 
+including through captioning and video descriptions for video programming.
+
+[PAGE 5]
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+5 
+Further, the United States is a signatory to the Marrakesh Treaty to Facilitate Access to Published Works 
+for Persons Who Are Blind, Visually Impaired, or Otherwise Print Disabled. The treaty, adopted under 
+the auspices of the World Intellectual Property Organization (WIPO) in 2013, aims to increase 
+accessibility to written works through mandatory limitations and exceptions to copyright rules. As a 
+signatory, the United States supports the object and purpose of the treaty. 
+ 
+Thank you again for the opportunity to comment on the operation of Section 1201 and the triennial 
+rulemaking process. The staff and members of the ACM U.S. Public Policy Council are available if you 
+have questions or would like additional information about the issues raised in this public comment. 
+ 
+Sincerely, 
+ 
+ 
+ 
+ 
+Eugene H. Spafford, Ph.D. Paul Hyland, M.A. 
+Chair Chair, Intellectual Property Committee 
+ACM U.S. Public Policy Council ACM U.S. Public Policy Council

@@ -1,0 +1,1003 @@
+[PAGE 1]
+Before the 
+LIBRARY OF CONGRESS 
+United States Copyright Office  
+ 
+ 
+In the Matter of  
+ 
+Section 1201 Study:  
+Notice and Request for Public Comment  
+ 
+) 
+) 
+) 
+) 
+)
+) 
+ 
+ 
+ 
+Docket No. 2015-08 
+ 
+COMMENT
+  
+OF 
+INTERNATIONAL DOCUMENTARY ASSOCIATION 
+FILM INDEPENDENT  
+KARTEMQUIN EDUCATIONAL FILMS 
+ 
+ 
+Submitted By: 
+UCI Intellectual Property, Arts, and 
+Technology Clinic 
+University of California, Irvine School 
+of Law 
+401 East Peltason Drive, Law 4800-P 
+Irvine, CA 92697 
+ 
+Jack I. Lerner, Director 
+Noorean Gill and Daniel Silverman, 
+Certified Law Students under the 
+Rules of the California State Bar, 
+Title 1, Division 1, Chapter 1 
+ 
+ 
+Donaldson & Callif, LLP 
+400 South Beverly Drive 
+Beverly Hills, CA 90212 
+ 
+Michael C. Donaldson 
+Dean Cheley
+
+[PAGE 2]
+International Documentary Association, et al. 
+Comment regarding Section 1201 Study 
+March 3, 2016 
+Page 1 of 17 
+ 
+ 
+ 
+ 
+ 
+ 
+ABOUT THE COMMENTERS 
+ 
+The International Documentary Association (IDA) is a non-profit 501(c)(3) 
+organization that promotes nonfiction filmmaking, and is dedica ted to increasing public 
+awareness for the documentary genre.  At IDA, we believe that d ocumentary storytelling 
+expands our understanding of shared human experience, fostering  a n  i n f o r m e d ,  
+compassionate, and connected world, and we exist to serve the n eeds of those who create 
+this art form.  Our major program areas are: Advocacy, Filmmake r Services, Education, 
+and Public Programs and Events. For over 30 years, IDA has work ed to support 
+documentary filmmaking as a vital art form.  We continue to see k ways to ensure that the 
+artists, activists and journalists who make documentaries recei ve the resources that they 
+need and deserve. 
+Film Independent is a non-profit arts organizati on and our mission is to champio n the 
+cause of Independent film and support a community of artists wh o embody diversity, 
+innovation and a uniqueness of vision.  We help independent filmmakers tell their stories, 
+build an audience for their projects and diversify the voices in the film industry, supporting 
+filmmakers at every experience level with a community in which their works can be 
+appreciated and sustained.  With over 200 annual screenings and events, Film Independent 
+provides access to a network of likeminded artists who are driv ing creativity in the film 
+industry.  Our free Filmmaker Labs for selected writers, direct ors, producers and 
+documentary filmmakers and year-round educational programs serve as a bridge from film 
+school to the real world of filmmaking—one with no defined career ladder. Project Involve 
+is Film Independent’s signature program dedicated to fostering the careers of talented 
+emerging filmmakers from communities traditionally underreprese nted in the film 
+industry.  We also produce the weekly Film Independent at LACMA  film series, the Los 
+Angeles Film Festival in June and the annual awards programs fo r the finest independent 
+films of the year—the Film Independent Spirit Awards.   
+Kartemquin Educational Films is a not-for-profit collaborative center for documentary 
+media makers who seek to foster a more engaged and empowered so ciety. In 2016, 
+Kartemquin will celebrate 50 ye ars of sparking democracy throug h documentary. Best 
+known for producing Hoop Dreams  and The Interrupters  among over 50 other 
+documentaries that examine and critique society through the liv es of ordinary people, 
+Kartemquin has won every major almost every available prize for  documentary 
+filmmaking, including multiple Emmy, Peabody, duPont-Columbia a nd Robert F. 
+Kennedy journalism awards, Inde pendent Spirit, IDA, PGA and DGA  a w a r d s ,  a n d  a n  
+Oscar nomination. A revered resource on issues of ethics and st orytelling, Kartemquin is 
+internationally recognized for crafting quality documentaries b acked by comprehensive 
+audience engagement, and for its innovative programs and advoca cy designed to elevate 
+the documentary community.
+
+[PAGE 3]
+International Documentary Association, et al. 
+Comment regarding Section 1201 Study 
+March 3, 2016 
+Page 2 of 17 
+ 
+ 
+ 
+ 
+ 
+ 
+INTRODUCTION 
+ 
+As participants in the three most recent section 1201 anticircu mvention rulemakings, we 
+applaud the Register’s request for comments on section 1201 of the Digital Millennium 
+Copyright Act (“DMCA”).  We are pleased that the Register has r ecognized that section 
+1201’s triennial rulemaking process consumes an inordinate amount of time and resources 
+for all involved, and we agree w ith the Register’s suggestion t hat the process contain a 
+presumption of renewability.  We respectfully submit this comme nt to provide further 
+suggestions about how the rulemaking process can be improved, a nd how the statute can 
+be amended to better account for the digital world we live in today.  We recommend that:   
+ 
+ The Register urge Congress to amend section 1201 to include a requirement that 
+circumvention of an access control is not a violation of section 1201 unless there is a 
+connection between the circumvention and infringing conduct. 
+ 
+ In the alternative, the Register should revise the triennial ru lemaking in the following 
+ways: 
+ 
+o Establish a presumptive renewal of previously granted exemptions;  
+o Structure the proceeding as a rulemaking rather than an adjudication; 
+o Impose a workable standard for what constitutes a likely noninf ringing use and 
+ensure that the standard does not interfere with the developmen t of fair use law in 
+the courts; and 
+o Strongly favor exemptions involving merged access and use contr ols, particularly 
+where the merged control prevents a use such as copying, and th e user does not 
+seek to obtain the material unlawfully. 
+ 
+Filmmaking has a uniquely important role in society because filmmakers explore, analyze, 
+and comment on politics, history, and culture using the predomi nant form of 
+communication of our time. In today’s media ecosystem, independ ent filmmaking is 
+particularly significant because independent and documentary fi lmmaking are playing a 
+greater role as traditional print investigative journalism face s increasing economic 
+pressure.  In addition, filmmaking gives voice to marginalized communities in order to 
+shed light on stories and experiences outside the mainstream.  
+ 
+As creators, we depend on copyright law to protect our works.  In the eighteen years since 
+the DMCA was enacted, we have seen enormous shifts in our indus try including changes 
+in broadcast and theatrical distribution, new online business models, and of course, massive 
+online copyright infringement. These are serious problems that bear close examination, and 
+we applaud the Register’s work toward finding solutions to them.  
+ 
+Yet despite the profound difficulty these problems present for our community, Congress’s 
+signature law designed to address them has done virtually nothi ng to remedy them.  Our
+
+[PAGE 4]
+International Documentary Association, et al. 
+Comment regarding Section 1201 Study 
+March 3, 2016 
+Page 3 of 17 
+ 
+ 
+ 
+ 
+ 
+ 
+eighteen years of experience with the law is that rather than c urb copyright infringement, 
+the DMCA’s prohibition on circumvention has instead made it vas tly more difficult to 
+make films.  As we have shown in previous rulemakings, section 1201 chills freedom of 
+expression by preventing criticism, commentary, and other forms  of fair use. That effect 
+has never been more pronounced than it is today when more content than ever is protected 
+by technological protection measures (“TPMs”) that contain acce ss controls—as the 
+Register has recognized.   
+ 
+T h is  d is c o n n e c t b e tw e e n  th e  g o a l of reducing infringement and t he actual effect of the 
+anticircumvention provisions was not intended—but it was certai nly foreseeable. Indeed, 
+throughout the legislative process, members of Congress and stakeholders alike expressed 
+concern about the possibility tha t the DMCA would inhibit lawfu l uses, particularly fair 
+use.  In establishing the triennial rulemaking process, Congress intended to provide a “fail-
+safe” mechanism that would allow noninfringing uses. While that  process has led to 
+exemptions that do help to preserve our ability to make fair us e in the digital age, the 
+process has been inordinately burdensome and has led to exempti ons that are unduly 
+narrow, difficult to apply, and out of sync with the rapid technological innovation.   
+ 
+We commend the Register for poi nting out to Congress the diffic ult, time-consuming 
+nature of the exemption process.  In this Comment, we urge the Register to recommend 
+that Congress amend the statute, and we offer several suggestions for ways she should use 
+the discretion provided by the statute to modify the exemption process.   
+ 
+First, we agree with the Register that there should be a presumptive renewal of previously 
+granted exemptions.  We believe, however, that the presumption does not need to be 
+constrained to situations in which there is no opposition.  Suc h a presumption would not 
+harm the process because it could always be rebutted; an exempt ion should be reissued 
+until and unless the Register finds that the adverse effects co mplained of in previous 
+rulemakings no longer exist.  In fact, the statute affords the Librarian substantial discretion 
+to structure the burden of proof , burden of persuasion, and sta ndard of proof in ways that 
+maximize fairness and efficiency.  For example, even if the Lib rarian determined that de 
+novo review is required in each rulemaking, that standard does not require the exclusion of 
+all previous evidence in each new rulemaking proceeding. Nothing in the legislative history 
+prevents this approach.  
+ 
+Second, the Register should exer cise discretion to modify the e xemption process in ways 
+that make it less burdensome on all parties involved in the process. The exemption process 
+requires a great deal of time, effort, and resources on the par t of commenters proposing 
+exemptions largely because it has been administered like an adj udication instead of a 
+rulemaking.  The process should be run like a rulemaking, as th e statute requires, and as 
+such should not impose the burden of proof on a subset of participants. 
+ 
+Third, the Register should impose a workable standard for what constitutes a likely 
+noninfringing use.  In past rulem akings, the Register has requi red proof by a
+
+[PAGE 5]
+International Documentary Association, et al. 
+Comment regarding Section 1201 Study 
+March 3, 2016 
+Page 4 of 17 
+ 
+ 
+ 
+ 
+ 
+ 
+“preponderance of the evidence,” and has applied that standard unevenly at times.  This 
+approach has the unfortunate effect of preventing the evolution of fair use law in the courts. 
+The Register should structure the rulemaking in a way that does  not restrict fair use law 
+from developing in the courts.  
+ 
+Finally, the Register should recognize that while Congress acted to prohibit circumvention 
+of access controls, it also intentionally permitted circumventi on of use controls.  This 
+important balancing has been ignored in the law’s implementatio n, with significantly 
+adverse effects on myriad noninfringing uses.  The Register sho uld use her discretion in 
+the rulemaking process to restore that balance. Rather than considering merged access and 
+use controls to be essentially the same as access controls, the Copyright Office should treat 
+merged access and use controls as highly suspect. At a minimum, where such controls are 
+present, that fact should weigh heavily in favor of an exemptio n under the fifth statutory 
+factor, “such other factors as the Librarian considers appropriate.”  In addition, the Register 
+should apply the following test when considering whether to issue an exemption:  If there 
+is a finding that (a) a noninfringing use is being adversely af fected even though users are 
+lawfully obtaining and consumi ng copyrighted material, e.g. do not seek to circumvent a 
+TPM in order to access material they have not paid for; (b) the  users cannot make copies 
+of the material without violati ng a merged access and use contr ol; and (c) no substantial 
+evidence exists to suggest that the proposed exemption will cau se significant copyright 
+infringement, then the Librarian should be inclined to issue an  exemption without further 
+examination.  If the exemption process were revised in this way to align with the statutory 
+scheme established by Congress, it would solve many of the problems with section 1201.  
+ 
+More fundamentally, given the costs of the exemption process an d section 1201’s 
+negligible effect on copyright infringement, we question whether a triennial rulemaking is 
+the appropriate fail-safe mechanism. As numerous legislators an d commentators have 
+pointed out, adding the simple requirement that there be a conn ection between the 
+infringing conduct and the circumvention would obviate the need  for an exemption 
+process. We urge the Register to recommend this fix, which woul d have no effect on 
+infringement while removing section 1201’s adverse impacts on noninfringing uses.   
+ 
+We deeply appreciate the time, careful effort, and deliberation  that the Copyright Office 
+has put into the exemption pro cess. The anticircumvention provi sions cause fear and 
+befuddlement for many in the independent filmmaking community, and constrain a wide 
+range of criticism and commentary. And while the exemption process has been extremely 
+important to independent filmmakers, it has not come close to f ulfilling its promise as a 
+fail-safe mechanism.  We respectfully urge the Register to take  this opportunity to 
+recommend statutory fixes and ad justments to the rulemaking pro cess that will take into 
+account the DMCA’s real-world effects.
+
+[PAGE 6]
+International Documentary Association, et al. 
+Comment regarding Section 1201 Study 
+March 3, 2016 
+Page 5 of 17 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ANSWERS TO SELECTED QUESTIONS  
+POSED BY THE REGISTER 
+ 
+ 
+1. Please provide any insights or observations regarding the role and effectiveness of the 
+prohibition on circumvention of technological measures in section 1201(a). 
+ 
+ 
+The experience of independent filmmakers is that section 1201 has had little effect on 
+copyright infringement, but instead inhibits filmmakers’ ability to make criticism and 
+commentary in their films.   
+ 
+We now have eighteen years of experience with the DMCA’s prohib ition on 
+circumvention. In that time, it has become quite clear that section 1201 has had little to no 
+effect on copyright infringement.
+1 Virtually every TPM that protects consumer media that 
+has been released to the public has been broken, 2 while independent filmmakers continue 
+to find their own copyrighted works infringed online.  Infringers do not distinguish between 
+films based on films’ budgets, 3 even though the damaging effects of infringement are 
+exacerbated for independent filmmakers who tend to gross significantly less revenue from 
+their films than filmmakers backed by large studios do.4   
+                                                 
+1 Measuring the Digital Millennium Copyright Act Against the Darknet: Implications for the Regulation of 
+Technological Protection Measures, 24 LOY. L.A. ENT. L. REV. 635, 636 (2004) (“[T]he DMCA fails in light 
+of its stated goal--namely, reducing the threat of copyright infringement in the digital age.”). 
+2 See Pamela Samuelson, Digital Rights Management {and, or, vs.} the Law, 46 Comm. ACM (2003); Nathan 
+Grayson, Interview: CD Projekt's CEO on Witche r 2 piracy, why DRM's still not worth it  (Nov. 28, 2011), 
+http://www.pcgamer.com/interview-cd-projekts-ceo-on-witcher-2-piracy-why-drms-still-not-worth-it/ (“We 
+of course experimented with all available DRM/copy protection, but frankly nothing worked. Whatever we 
+used was cracked within a day or two, massively copied and immediately available on the streets for a fraction 
+of our price.”); Patricia Akester, Technological Accommodation of Conflicts between Freedom of Expression 
+and DRM: The First Empirical Assessment at 74 (May 5, 2009) (quoting Steve Jobs as saying “DRM systems 
+haven’t worked, and may never work, to halt music piracy”); Joh n T. Holland, Making Money Instead of 
+Excuses: A Market-Based Alternative to the Digita l Millennium Copyright Act That Protects Copyrights 
+Without Diminishing Expression, 7 GEO. J.L. & PUB. POL'Y 279, 293-94 (2009) (“As expected, no DRM has 
+been developed, nor is one likely to be developed, that is invulnerable to circumvention; however, the DMCA 
+even failed to prevent user-friendly circumvention technologies from entering mainstream markets.”). 
+3 Tim League & Ruth Vitale, Guest Post: Here's How Piracy Hurts Indie Film , Indiewire (July 11, 2014), 
+http://www.indiewire.com/article/guest-post-heres-how-piracy-hurts-indie-film-20140711; Adam  L e i p z i g , 
+Sundance Infographic 2016: Ample Distribution, Paltry Deals, And The Cost Of Piracy  (2016), 
+http://www.culturalweekly.com/sundance-infographic-2016-ample-distribution-paltry-deals-and-the-cost-
+of-piracy/ (analyzing fourteen films that were shown at Sundanc e Film Festival in 2014 and 2015 and 
+demonstrating that each film had been illegally downloaded from  hundreds of thousands of times to over 
+twelve million times.).   
+4 Paula Bernstein, ‘Expendables 3' Leaked Online. What  Does It Mean for Indie Filmmakers? , Indiewire 
+(July 25, 2014), http://www.indiewire.com/article/expendables-3 -leaked-online-what-does-it-mean-for-
+indie-filmmakers-20140725.
+
+[PAGE 7]
+International Documentary Association, et al. 
+Comment regarding Section 1201 Study 
+March 3, 2016 
+Page 6 of 17 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Instead of preventing piracy, section 1201’s an ticircumvention provisions have had a 
+serious detrimental effect on freedom of speech, fair use, and other lawful uses. According 
+to Gordon Quinn, the founder and artistic director of Kartemqui n Films, who participated 
+in the three most recent rulemaking proceedings, the DMCA does not impact piracy, but 
+instead “inadvertently chills fair use and other lawful activit ies that are central to free 
+expression in a democracy and the livelihoods of other filmmakers” like himself.5   
+ 
+Congress anticipated and was con cerned about exactly these ill effects. The House 
+Commerce Committee expressed con cerns about potential abuses of  t h e  D M C A  w h e n  
+considering the legislation in 1998: 
+ 
+[T]he Committee is concerned that marketplace realities may som eday 
+dictate a different outcome, resulting in less access, rather t han more, to 
+copyrighted materials that are important to education, scholarship, and other 
+socially vital endeavors. This result could flow from a confluence of factors, 
+including the elimination of pri nt or other hard-copy versions,  the 
+permanent encryption of all electronic copies, and the adoption of business 
+models that depend upon restricting distribution and availability, rather than 
+upon maximizing it. In this scena rio, it could be appropriate t o modify the 
+flat prohibition against the circ umvention of effective technol ogical 
+measures that control access to copyrighted materials, in order to ensure that 
+access for lawful purposes is not unjustifiably diminished.
+6 
+ 
+Much of this has come to pass.  TPMs that include access contro ls are now ubiquitous,
+7 
+and when filmmakers seek to comment on, criticize, or analyze c ultural materials, fear of 
+violating section 1201 prevents t hem from making copies for tha t purpose.  As we have 
+shown in previous section 1201 rulemakings, viable alternatives  to circumvention are not 
+available.8  In particular, rightsholders often refuse to license content, charge prohibitively 
+expensive fees, or require “non-disparagement clauses” restricting what the filmmaker can 
+say.9   
+ 
+Although Congress intended for the exemption process to act as a fail-safe mechanism to 
+protect lawful uses, it has not successfully done so.  The filmmakers who have participated 
+                                                 
+5 Gordon Quinn, The DMCA is Broken for Filmmakers Like Me  ( F e b .  1 4 ,  2 0 1 6 ) ,  
+http://motherboard.vice.com/read/the-dmca-is-broken-for-filmmakers-like-me. 
+6 H.R. REP. NO. 105-551, pt. 2, at 44 (1998) (“Commerce Comm. Report”). 
+7 Register’s Perspective on Copyright Review: Hearing Before the H. Comm. on the Judiciary, 114th Cong. 
+23–24 (2015) ( Register’s Perspective on Copyright Review Hearing ) (statement of Maria A. Pallante, 
+Register of Copyrights and Dir., USCO). 
+8 See 2015 Joint Filmmakers Comment at 12 (Feb. 6, 2015), http://copyright.gov/1201/2015/comments-
+020615/InitialComments_LongForm_IDA_Class06.pdf (“2015 Joint Filmmakers Comment”). 
+9 Id. at Apps. D, E; 2012 Comment at Apps. F, G (2012), 
+http://www.copyright.gov/1201/2011/initial/IDA_Mark_Berger.pdf .
+
+[PAGE 8]
+International Documentary Association, et al. 
+Comment regarding Section 1201 Study 
+March 3, 2016 
+Page 7 of 17 
+ 
+ 
+ 
+ 
+ 
+ 
+in the process have found it extre mely burdensome, unpredictabl e, limited in scope, at 
+times incomprehensible, and ill-suited to keep up with changes in technology. 10 T h e  
+ultimate result is that section 1201 stifles fair use, creative  expression, and technological 
+innovation. 
+ 
+We ourselves are copyright owners; we understand the value and importance of intellectual 
+property and seek to abide by the rules. Yet it seems that section 1201 effectively punishes 
+only those like us who seek to follow the law, while failing to  deter rampant copyright 
+infringement. 
+ 
+The Register
+11 should recommend that Congress amend the statute to account fo r the past 
+eighteen years of experience.  W e urge the Register to approach  the section 1201 
+rulemaking process with this reality firmly in mind, and to use  her discretion to make 
+changes to the process as we suggest below. 
+ 
+ 
+The Register should recommend that Congress amend section 1201 t o  r e q u i r e  a  
+connection between the circumvention and infringing conduct in order for a violation 
+to occur. 
+ 
+There should be a requirement that circumvention of an access control is not a violation of 
+section 1201 unless there is a c onnection, or nexus, between th e circumvention and 
+infringing conduct. A nexus requirement would prevent section 1 201 from continuing to 
+prevent myriad lawful uses, by refining the scope of a 1201 vio lation to include only the 
+circumvention of an access control for an unlawful purpose. The  inclusion of a nexus 
+requirement would be beneficial for many reasons.
+12 First, section 1201 would still prohibit 
+circumvention committed to further infringing conduct, but woul d also prevent lawsuits 
+brought for anticompetitive reasons. 13 As the court in Chamberlain Group v. Skylink 
+                                                 
+10 Quinn, The DMCA is Broken for Filmmakers Like Me. 
+11 The statute requires that “the Librarian of Congress, upon the  recommendation of the Register of 
+Copyrights, who shall consult with the Assistant Secretary for Communications and Information of the 
+Department of Commerce and report and comment on his or her vie ws in making such recommendation, 
+shall make the determination in a rulemaking proceeding.” 17 U. S.C. § 1201(a)(1)(C).  We assume for the 
+purposes of this Comment that the Librarian will continue to ve st the authority for conducting the triennial 
+rulemaking with the Register.  We therefore refer throughout th is document to the Register rather than the 
+Librarian. 
+12 Eric Wanner, Navigating the Nexus: DMCA Anti-Circumvention Protection of Computer Software , 43 
+ARIZ. ST. L.J. 1081, 1106 (2011) (“The Chamberlain nexus requirement, if uniformly adopted, would solve 
+many of the problems that courts have been addressing, allowing  expanded definitions of access and 
+effectiveness without the need for exceptions such as the unaut horized use of an authorized password 
+doctrine, all without giving the DMCA broad, overreaching resul ts. Furthermore, it is consistent with 
+standard statutory interpretation, the stated policy goal of Congress to discourage access to perfect copies of 
+works, and allows the rejection of claims aiming to monopolize other markets without resorting to 
+technicalities that future plaintiffs may trivially avoid.”). 
+13 See Chamberlain Grp., Inc. v. Skylink Techs., Inc., 381 F.3d 1178 (Fed. Cir. 2004).
+
+[PAGE 9]
+International Documentary Association, et al. 
+Comment regarding Section 1201 Study 
+March 3, 2016 
+Page 8 of 17 
+ 
+ 
+ 
+ 
+ 
+ 
+Technologies noted, the absence of a nexus requirement “would allow any manu facturer 
+of any product to add a single copyrighted sentence or software  fragment to its product, 
+wrap the copyrighted material in a trivial ‘encryption’ scheme,  and thereby gain the right 
+to restrict consumers' rights to use its products in conjunction with competing products.”14 
+Next, the requirement would obviate the need for an exemption p rocess. As a result, the 
+requirement would reduce the burden of time, effort, and resour ces that the exemption 
+process places on commenters, such as filmmakers, and the Copyright Office.  
+ 
+With respect to the burdensome nature of the exemption process,  t h e  R e g i s t e r  h a s  
+recognized that “a wide range of stakeholders have expressed fr ustration that the section 
+1201 statutory framework requires that, to continue an existing  exemption, proponents 
+must bear the legal and evidentiary burden of justifying the ex emption anew in each 
+subsequent rulemaking proceeding” and has stated that “[t]he Copyright Office agrees that 
+the process of renewing existi ng exemptions should be adjusted. ”
+15 Further, participants 
+share common frustrations with the length of the exemption process (particularly the 2010 
+rulemaking proceeding which lasted close to twenty-two months), the redundancies caused 
+by the current interpretation of the de novo standard of review, and the sheer complexity 
+of the exemption process, which usually forces members of the public to seek legal counsel 
+to help them navigate the proceeding.16 A nexus requirement would eliminate all of these 
+issues. 
+ 
+For all of these reasons, there should be a Congressional fix similar to legislation that has 
+been introduced previously. For example, the Unlocking Technolo gy Act of 2013 was 
+designed in part to add a copyright infringement requirement to  the anticircumvention 
+prohibition, primarily by (1) amending section 1201(a) to read “[n]o person shall, in order 
+to infringe or facilitate infringement of a copyright in a work  protected under this title, 
+circumvent a technological measure that effectively controls access to that work”; and (2) 
+adding that “[i]t shall not be a violation of this section to c ircumvent a technological 
+measure in connection with a work protected under this title if  the purpose of such 
+circumvention is to engage in a use that is not an infringement  of copyright under this 
+title.”
+17   
+ 
+  
+                                                 
+14 Id. at 1201. 
+15 Register’s Perspective on Copyright Review Hearing  at 21 (statement of Maria A. Pallante, Register of 
+Copyrights and Dir., USCO). 
+16 See Maryna Koberidze, The DMCA Rulemaking Mechanism: Fail or Safe?, 11 WASH. J.L. TECH. & ARTS 
+211, 215-17 (2015); Arielle Singh, Agency Regulation in Copyright Law: Rulemaking Under the DMCA and 
+Its Broader Implications, 26 BERKELEY TECH. L.J. 527, 566–67 (2011). 
+17 Unlocking Technology Act of 2013 H.R. 1892, 113 Cong. (2013), § 2(a)(1).
+
+[PAGE 10]
+International Documentary Association, et al. 
+Comment regarding Section 1201 Study 
+March 3, 2016 
+Page 9 of 17 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+3. Should section 1201 be adjusted to provide for a presumptive renewal of previously 
+granted exemptions—for example, when th ere is no meaningful opposition to renewal—
+or otherwise be modified to streamline the process of continuing an existing exemption. If 
+so, how? 
+ 
+ 
+There should be a presumption of renewability for previously gr anted exemptions, 
+which would be more equitable and allow commenters and the Regi ster to focus on 
+the most important factual questions. 
+ 
+The Register should establish a presumptive renewal of previous ly granted exemptions 
+because such a presumption would ease the burden of continuing an exemption on both the 
+Copyright Office and participants in the rulemaking.   
+ 
+In previous rulemakings, the Regi ster has required that all exe mptions, even those 
+previously granted, be proven de novo, and that no previously submitted evidence can be 
+considered.
+18  A presumption of renewability would ease the burden on all in volved and 
+allow the Copyright Office to focus its resources on evaluating  whether new exemptions 
+should be granted. 
+ 
+The exemption process is especially burdensome on independent f ilmmakers.  Our work 
+and livelihood depend on the exem ptions, without which we canno t make fair use and 
+enrich society with valuable co m m e n t a r y  a n d  c r i t i c i s m .   B u t  t h e p r o c e s s  c o n s u m e s  a n  
+inordinate amount of resources . The requirement to reapply de novo  f o r  t h e  s a m e  
+previously granted exemptions detracts from our time, attention, and resources to enriching 
+society with documentary films. 
+ 
+                                                 
+18 79 Fed. Reg. 55,689–90 (Sept. 17, 2014) (explaining in the Notice of Inquiry for the most recent 
+exemption process: “The fact that an exemption has been previously adopted creates no presumption that 
+readoption is appropriate. This means that a proponent may not simply rely on the fact that the Register has 
+recommended an exemption in the past, but must instead produce relevant evidence in each rulemaking to 
+justify the continuation of the exemption.”). See also U.S. Copyright Office, Section 1201 Rulemaking: 
+Fifth Triennial Proceeding to Determine Exemptions to the Prohibition on Circumvention,  
+Recommendation of the Register of Copyrights 88 (2012), 
+http://copyright.gov/1201/2012/Section_1201_Rulemaking_2012_Recommendation.pdf (“2012 
+Recommendation”) (refusing recommendation for wireless telephone handset “unlocking” because 
+“[m]erely citing to conclusions drawn by the Register in past rulemakings does not itself create a factual 
+record for purposes of a current rulemaking. As the Register has noted many times in the past, the record 
+must be developed and reviewed de novo in each proceeding; a proponent is required to present a prima 
+facie case, based on current evidence, that it is entitled to the proposed exemption.”).
+
+[PAGE 11]
+International Documentary Association, et al. 
+Comment regarding Section 1201 Study 
+March 3, 2016 
+Page 10 of 17 
+ 
+ 
+ 
+ 
+ 
+ 
+We agree with the Register’s call for a presumptive renewal of previously granted 
+exemptions.19  However, limiting such a presumption to “when there is no opposition”20 or 
+“when there is no meaningful opposition to renewal” 21 would render such a presumption 
+largely ineffective, because anyone could remove the presumptio n by simply filing an 
+opposing comment, for which the Copyright Office has not thus f ar required a burden of 
+proof or persuasion.  An exemption should be reissued until and  unless the Register finds 
+that the adverse effects complained of in previous rulemakings no longer exist. 
+ 
+The Register has indicated that,  in her view, she cannot establ ish a presumptive renewal 
+without Congressional action.
+22  But the legislative history, and principles of administrative 
+law, permit her to establish suc h a presumption immediately, wi thout further input from 
+Congress.  Section 1201 is silent as to the de novo issue and properly entrusts the 
+administering agency to decide how to implement the exemption process.  It is true that, as 
+the Register notes, a May 1998 House Commerce Committee Report provided that “the 
+assessment of adverse impacts on particular categories of works  is to be determined de 
+novo.”23 But the Register is not bound by that one sentence from a repo rt issued early in 
+the legislative history, 24 and even if she were, the text states only that the assessment  of 
+adverse impact is to be determined de novo—not that all evidence must also be presented 
+de novo.  Filmmakers and others reapplying for an exemption should be permitted to assert 
+that the conditions present in a previous rulemaking continue to exist, and from there the 
+burden of proof should shift to opponents or the agency to dete rmine that they no longer 
+do.   
+ 
+If the Register determines that she does not have the authority to implement these changes, 
+then she should urge Congress to amend section 1201 to recogniz e that those seeking 
+exemptions for lawful uses of copyrighted materials should not have to reapply for the 
+same exemptions in subsequent proceedings.  
+ 
+  
+                                                 
+19 Register’s Perspective on Copyright Review Hearing  at 21 (statement of Maria A. Pallante, Register of 
+Copyrights and Dir., USCO). 
+20 Id. 
+21 80 Fed. Reg. 81,373 (Dec. 29, 2015). 
+22 79 Fed. Reg. 55,689 (Sept. 17, 2014). 
+23 Commerce Comm. Report at 37. 
+24 See Am. Hosp. Assn. v. NLRB , 499 U.S. 606 (1991) (explaining that statements in committee reports do 
+not have the force of law).
+
+[PAGE 12]
+International Documentary Association, et al. 
+Comment regarding Section 1201 Study 
+March 3, 2016 
+Page 11 of 17 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+4. Please assess the current legal requirements that proponents of an exemption must 
+satisfy to demonstrate entitlement to an exemption. Should they be altered? If so, how? In 
+responding, please comment on the relationship to traditional principles of 
+administrative law. 
+ 
+ 
+The exemption process should be structured as a rulemaking rath er than an 
+adjudication, in accordance with Congress’s intent and in order  to more effectively 
+conduct the fact-finding process. 
+ 
+The DMCA section 1201 exemption process should be structured as  a rulemaking, rather 
+than as an adjudication, as specified by the plain language of the statute.
+25  
+ 
+Despite these explicit instructions from Congress, the Copyright Office has structured the 
+exemption process more like an  adjudication than a rulemaking.  The problem with this 
+approach is that it places too much of a burden on commenters and unnecessarily restricts 
+the Register’s factual inquiry.  Commenters have been placed into adversarial positions of 
+“proponent” and “opponent”;
+26 the burden of proof is on the proponent;27 and the standard 
+of proof for the proponent is to  show “substantial” adverse effects.28 The statute does not 
+mention proponents or opponents, specify who must bear the burd en of proof, or require 
+“substantial” adverse effects.   
+ 
+The Copyright Office has explained that its decision to impose the preponderance of the 
+evidence standard is based on principles of agency rulemaking found in the Administrative 
+Procedure Act (“APA”).
+29 However, the part of the APA to which the Office cites, Section 
+556(d), only applies when the statute specifically requires that an agency hold a hearing on 
+the record.30 The proper section for an agency holding a “rulemaking” is section 553, which 
+does not require adversarial posi tions or assigning the burden of proof to a subset of 
+                                                 
+25 17 U.S.C. § 1201(c) (“[T]he Librarian of Congress, upon the re commendation of the Register of 
+Copyrights, who shall consult with the Assistant Secretary for Communications and Information of the 
+Department of Commerce and report and comment on his or her vie ws in making such recommendation, 
+shall make the determination in a rulemaking proceeding . . . whether persons who are users of a copyrighted 
+work are, or are likely to be in the succeeding 3-year period, adversely affected by the prohibition . . . in their 
+ability to make noninfringing uses under this title of a partic ular class of copyrighted works. In conducting 
+such rulemaking, the Librarian shall examine . . . .”). 
+26 79 Fed. Reg. 55,690 (Sept. 17, 2014). 
+27 Id. at 55,689. 
+28 U.S. Copyright Office, Section 1201 Rulemaking: Sixth Triennial Proceeding to Determine Exemptions to 
+the Prohibition on Circumvention, Recommendation of the Registe r of Copyrights 15–16 (2015), 
+http://copyright.gov/1201/2015/registers-recommendation.pdf (“2015 Recommendation”). 
+29 79 Fed. Reg. 55,698 (citing 5 U.S.C. § 556(d)). 
+30 See 5 U.S.C. § 556(d); Am. Trucking Ass’n v. U.S., 344 U.S. 298, 319–20 (1953) (holding that section 7 of 
+the APA (codified as section 556(d) “applies only when hearings  were required by the statute under which 
+they were conducted to be made on the record and with opportunity for oral hearing.”).
+
+[PAGE 13]
+International Documentary Association, et al. 
+Comment regarding Section 1201 Study 
+March 3, 2016 
+Page 12 of 17 
+ 
+ 
+ 
+ 
+ 
+ 
+participants.31 Congress intended to create a notice and comment rulemaking governed by 
+section 553 of the APA, not an adjudication governed by section 556, as evinced by its use 
+of the term “rulemaking” in the enabling statute.32   
+ 
+Bedrock principles of administrative law support structuring the exemption process like a 
+rulemaking, with greater responsibility of the agency to seek out all pertinent facts.  First, 
+as Copyright Office staff have recognized, section 1201 exempti ons apply to everyone 
+across the country, not just to the parties who comment in the rulemaking.
+33  Second, the 
+exemption process is filled with  determinations that assess con d i t i o n s  a s  t h e y  e x i s t  a l l  
+across the land.  These include analysis of TPMs and their effe ct on the market for 
+copyrighted works, and whether works are sufficiently available  for nonprofit and other 
+purposes.  In particular, the open-ended fifth factor, “such ot her factors as the Librarian 
+considers appropriate,” explicitly invites the Register to cons ider other copyright-related 
+policy questions.34  Such considerations are most appropriate for a rulemaking.  F inally, 
+the exemption process announces rules of prospective applicability that will take place in 
+the future, not retrospective rules as take place in adjudication.   
+ 
+Each of these characteristics s upports a conventional rulemakin g procedure, with its 
+sweeping fact-finding procedures that permit a wide range of participation.
+35  The Register 
+should not impose burdens of production and persuasion solely o n the parties or structure 
+the process like litigation; nor  should she look to section 556  of the APA to establish the 
+burden of proof.  Rather, the Reg ister, as an informed and unbi ased representative of the 
+public, should conduct her own fact-finding investigation, informed by the comments but 
+not reliant solely on those who have the resources to participa te.36 As the leading treatise 
+                                                 
+31 See 5 U.S.C. § 553. 
+32 H . R . REP. NO. 105-796, at 64 (1998) (“Conference Report”) (“The determinati on will be made in a 
+rulemaking proceeding on the record.  It is the intention of th e conferees that, as is typical with other 
+rulemaking under title 17, and in recognition of the expertise of the Copyright Office, the Register of 
+Copyrights will conduct the rulemaking, including providing not ice of the rulemaking, seeking comments 
+from the public, . . . .”). 
+33 See Transcript, U.S. Copyright Office, Hearing on Exemptions to th e Prohibition on Circumvention of 
+Copyright Protection Systems for Access Control Technologies 46 :25–47:2 (May 20, 2015) (statement of 
+Jacqueline Charlesworth, General Counsel, Copyright Office) (“A nd that is part of what we where [sic] 
+driving at here, is we have to create an exemption which applies in a general way, which is an unusual thing.  
+Courts usually decide specific cases with a lot of specific facts.”). 
+34 17 U.S.C. § 1201(a)(1)(C); 2015 Recommendation at 10. 
+35 1 CHARLES H. KOCH, JR., ADMINISTRATIVE LAW AND PRACTICE § 2:33[3] (3d ed., 2010). 
+36 U.S. Copyright Office, Recommendation of the Register of Copyr ights in RM 2008-8; Rulemaking on 
+Exemptions from Prohibition on Circumvention of Copyright Prote ction Systems for Access Control 
+Technologies 262 (June 11, 2010) , http://www.copyright.gov/1201 /2010/initialed-registers-
+recommendation-june-11-2010.pdf (“2010 Recommendation”) (“[T]he  Register finds no factual basis for 
+designating this proposed class of works for the ensuing three- year period. While the Register’s 
+recommendations in previous rulemakings made clear that the Register understands and accepts the legal and 
+policy reasons for such an exemption, under the constraints est ablished by Congress in this rulemaking 
+proceeding, the Register cannot recommend designation of the cl ass in the absence of a factual record that 
+supports the need for the exemption. No such showing has been made in this proceeding.”).
+
+[PAGE 14]
+International Documentary Association, et al. 
+Comment regarding Section 1201 Study 
+March 3, 2016 
+Page 13 of 17 
+ 
+ 
+ 
+ 
+ 
+ 
+Administrative Law and Practice observes, it is well-accepted that in a rulemaking, “[t]he 
+agency and its staff cannot sit by passively and let interested  persons develop a record.  
+Holes or imbalance in the record is the agency’s responsibility  and not that of private 
+participants.”37 
+ 
+Nothing in the legislative history undermines this conclusion, especially in light of the plain 
+language of the statute.  If, how ever, the Register chooses to move forward with a more 
+adjudication-like process, she s hould at a minimum do so only a fter articulating well-
+defined elements that have a clear basis in the language of sec tion 1201.  Along similar 
+lines, any factfinding inquiry in a notice-and-comment rulemaki ng should be confined to 
+copyright-related matters squarely within the statutory scheme of Chapter 12.    
+ 
+ 
+When determining whether a use is likely noninfringing, the Register should refrain 
+from imposing a restrictive “preponderance of the evidence” sta ndard or one that 
+requires near-certainty.  In setting the standard, the Register should ensure that the 
+exemption proceeding not interfere with the development of fair use law in the courts. 
+ 
+In previous rulemakings the Copyright Office has announced a “p reponderance of the 
+evidence”
+38 standard for determining whether a use is noninfringing.  At times, the Office 
+has taken an even stricter appro ach requiring near-certainty.  We urge the Register to 
+reconsider her position on the standard of proof required to sh ow that a use is likely to be 
+noninfringing.  The statute and legislative history provide wid e latitude to make this 
+determination and in doing so, the Register should keep in mind that an unduly restrictive 
+standard hampers the natural development of the law, which runs  counter to Congress’s 
+clearly expressed intent.39  
+ 
+Under section 1201, the prohibition against circumvention appli es unless and until the 
+Librarian determines that “persons who are users of a copyright ed work are, or are likely 
+to be in the succeeding 3-year period, adversely affected by th e prohibition . . . in their 
+ability to make noninfringing uses under this title of a partic ular class of copyrighted 
+works.”
+40 The Register has interpreted this standard to require that a proponent “must prove 
+by a preponderance of the eviden ce that the harm alleged is mor e likely than not.”41 This 
+is a stricter standard than what the statute requires.  As we discuss above at pages 113-13, 
+                                                 
+37 1 CHARLES H. KOCH, JR., ADMINISTRATIVE LAW AND PRACTICE § 4:33[4] (3d ed., 2010) (citing Nat. Res. 
+Def. Council, Inc., v. Herrington, 768 F.2d 1355, 1420–21 n.63 (D.C. Cir. 1985). 
+38 79 Fed. Reg. 55,689 (citing 2010 Recommendation at 10). 
+39 Nowhere in the legislative history does Congress signal an int ention to remove the ongoing development 
+of fair use and other areas of copyright law from the courts an d vest the Copyright Office with that status.  
+Indeed, Congress signaled exactly the opposite intention in section 1201(c)(1) (“Nothing in this section shall 
+affect rights, remedies, limitations, or defenses to copyright infringement, including fair use, under this 
+title.”).  
+40 17 U.S.C. 1201(a)(1)(C). 
+41 79 Fed. Reg. 55,689 (Sept. 17, 2014).
+
+[PAGE 15]
+International Documentary Association, et al. 
+Comment regarding Section 1201 Study 
+March 3, 2016 
+Page 14 of 17 
+ 
+ 
+ 
+ 
+ 
+ 
+the Copyright Office does not need to rely on a provision of th e APA that is meant for a 
+different type of administrative procedure in order to determine which burden of proof to 
+apply; in fact, the Office has wide latitude to craft rulemaking procedures that fit the unique 
+requirements of the statute. 42  In any event, given that whether a use is noninfringing is 
+primarily a legal determination, a standard designed for evidentiary inquiries in the context 
+of adjudication is ill-suited for such a question.  We think the most plausible reading of the 
+statute, and the most workable standard, is that for a proposed noninfringing use to qualify, 
+there merely needs to be some likelihood that a desired use is noninfringing—not that one 
+has shown by a preponderance of the evidence43 that it is noninfringing.  
+ 
+In addition, we urge the Register to apply the standard more un iformly.  On several 
+occasions in previous exemption proceedings, the Copyright Offi ce applied a standard 
+more restrictive even than the “preponderance of the evidence” standard.  For example, in 
+2012, the Copyright Office rejected an exemption for jailbreaking of video game consoles 
+after “consider[ing] whether proponents have satisfied their bu rden of demonstrating that 
+the uses in question are, in fact, noninfringing.”
+44   
+ 
+The same occurred in the most recent rulemaking with respect to the suggested exemption 
+for criticism and commentary in narrative filmmaking.
+45  There, the Register added to the 
+“preponderance of the evidence” s tandard three additional layers of scrutiny that have no 
+basis in case law or the statute.  First, the Register chose not recommend an exemption for 
+narrative filmmaking in part “becau se there is no presumption t hat their primary purpose 
+is to offer criticism or commentary, as opposed to being includ ed for entertainment 
+purposes.”46 But in conducting a fair use ana lysis, courts have never consi dered the 
+“primary purpose” of the genre to which the work belongs as a determining factor, instead 
+looking at the specific use being made.47 Second, the Copyright Office reasoned that “none 
+of the case law examples provided by proponents considered the use of motion picture 
+excerpts in narrative films,” 48 despite no real dispute that f air use in narrative films is 
+widespread in practice and recognized in the case law.49 The statute does not require having 
+                                                 
+42 See 1 CHARLES H. KOCH, JR., ADMINISTRATIVE LAW AND PRACTICE § 2:35 (3d ed., 2010). 
+43 Exemption to Prohibition on Circumvention of Copyright Protect ion Systems for Access Control 
+Technologies, Comments of New America’s Open Technology Institute, at *6 (Feb. 6, 2015). 
+44 Id. at *7 (Feb. 6, 2015) (quoting Exemption to Prohibition on Circumvention of Copyright Protection 
+Systems for Access Control Technologies, Recommendation of the Register of Copyrights and 
+Determination of the Librarian of Congress 39 (2012), 
+http://copyright.gov/1201/2012/Section_1201_Rulemaking_2012_Recommendation.pdf). 
+45 2015 Recommendation at 79. 
+46 Id. 
+47 2015 Joint Filmmakers Comment at 6. 
+48 2015 Recommendation at 80.  
+49 Letter from Jack I. Lerner and Michael C. Donaldson to Maria A. Pallante (Oct. 15, 2015), 
+http://www.law.uci.edu/faculty/full-time/lerner/pdfs/Docket-No-2014-7-Proposed-Class-6-Update-Fair-
+Use-in-Narrative-Filmmaking.pdf; 2015 Joint Filmmakers Comment at 5; 2015 Joint Filmmakers Reply 
+Comment at 5 (May 1, 2015) http://copyright.gov/1201/2015/reply-comments-
+050115/class%206/ReplyComments_LongForm_IDAEtAl_Class06.pdf
+
+[PAGE 16]
+International Documentary Association, et al. 
+Comment regarding Section 1201 Study 
+March 3, 2016 
+Page 15 of 17 
+ 
+ 
+ 
+ 
+ 
+ 
+an exact case on point, which is a far more conservative approa ch even than a 
+“preponderance of the evidence” s tandard.  Finally, the Office noted concern that the 
+exemption could “supplant the existing, robust licensing market for motion picture clips,”50 
+even though it is well-established that rights holders have no claim to the derivative market 
+for criticisms of their works.51   
+ 
+Each of these considerations raised the bar beyond what the law  requires, supplanting 
+Congress’s intent not to disturb the evolution of case law with respect to fair use and other 
+lawful uses.  This is an especially important point because, ab sent an exemption, section 
+1201 works to put those who wish to make fair use on the wrong side of the law before 
+they even have a chance to make their case to a court. 
+ 
+We urge the Register to use her discretion to impose a workable  standard for what 
+constitutes a likely noninfringing use and to make sure that the triennial rulemaking process 
+does not interfere with the ongoing development of the law.   
+ 
+ 
+Congress instructed that circumvention of access controls is pr ohibited, but that 
+circumvention of use controls is not.  This choice was integral to Congress’s efforts to 
+ensure that section 1201 did not impair fair use and other noni nfringing uses.  The 
+Register should revise the rulemaking process to ensure that technologies that merge 
+access and use controls do not subvert Congress’s clear intent.   
+ 
+The Register should strongly favor exemptions involving merged access and use controls, 
+particularly where the merged control prevents a use such as co pying, and the user does 
+not seek to access the material unlawfully.  
+ 
+Section 1201 prohibits circumvention of access controls, but no t use controls (sometimes 
+called “copy controls,” “rights controls,” or “infringement-prevention technology”).
+52  The 
+distinction between access controls and use controls is subtle but important.  In the statutory 
+scheme Congress devised, an access control limits a user’s abil ity to obtain, consume, or 
+perceive copyrighted material, e xamples being password protecti on,53 an authentication 
+sequence,54 or limitations on playback. 55 Section 1201(a)(1), of course, prohibits 
+circumvention of such controls.  A use control, by contrast, li mits a user’s ability to copy 
+or make some other use of copyrighted material besides accessin g it.  Congress chose not 
+                                                 
+50 2015 Recommendation at 79. 
+51 Campbell v. Acuff-Rose Music, Inc., 510 U.S. 569 (1994). 
+52 17 U.S.C. § 1201. 
+53 S. REP. NO. 105-190 at 11 (1998).  
+54 RealNetworks, Inc. v. Streambox, Inc., No. 2:99CV02070, 2000 WL 127311, at *1 (W.D. Wash. Jan. 18, 
+2000).   
+55 R. Anthony Reese, Will Merging Access Controls and Rights Controls Undermine the Structure of 
+Anticircumvention Law?, 18 BERKELEY TECH. L.J. 619, 644 & n.85 (2003) (discussing Divx technology).
+
+[PAGE 17]
+International Documentary Association, et al. 
+Comment regarding Section 1201 Study 
+March 3, 2016 
+Page 16 of 17 
+ 
+ 
+ 
+ 
+ 
+ 
+to prohibit circumvention of suc h a control in significant part  because it thought that 
+drawing this distinction would preserve fair use.56 
+ 
+A merged access and use control is one that combines both an ac cess control and a use 
+control.  Such controls allow ri ghtsholders to undermine Congre ss’s statutory scheme, 
+because by simply combining use controls with access controls, they can prevent other 
+users from making lawful use of a work.  Eighteen years on, it is clear that this is exactly 
+what has happened on a massive scale.  Most participants in the triennial rulemakings who 
+have suggested exemptions have sought not to circumvent access controls in the sense of 
+a password or control that affects playback, but to make copies  in order to engage in a 
+lawful use.  That is certainly the case with independent filmmakers.   
+ 
+We urge the Register to pay closer attention in future rulemaki ngs to the role of merged 
+access and use controls.  At a minimum, the Register should con sider such controls under 
+the fifth statutory factor, “such other factors as the Librarian considers appropriate,” as she 
+has in the past.
+57  In future rulemakings, that fact should weigh very heavily in favor of an 
+exemption under the fifth factor.   
+ 
+The issue of merged access and use controls is so important tha t the Register go further. 
+The Register should apply a new te st when considering whether t o issue an exemption.  
+First, the Register should inquire as to whether a noninfringin g use is being adversely 
+affected even though users are lawfully obtaining and consuming the copyrighted material 
+in question.  A typical example would be situations in which users have lawfully purchased 
+the media in question as well as display devices (such as DVD or Blu-ray players) but still 
+cannot make the noninfringing use in question.  Second, the Reg ister should inquire as to 
+whether the users can make copies of the material without viola ting a merged access and 
+use control.  Finally, the Regist er should inquire as to whethe r any substantial evidence 
+exists to suggest that the proposed exemption will cause significant copyright infringement.  
+If the answer to the first two questions is “yes,” and the answer to the third question is “no,” 
+                                                 
+56 H.R. REP. NO. 105-551, pt. 1, at 18 (1998) ("[A]n individual would not be a ble to circumvent in order to 
+gain unauthorized access to a work, but would be able to do so in order to make fair use of a work which he 
+or she has acquired lawfully."); WIPO Copyright Treaties Implementation Act and Online Copyright Liability 
+Limitation Act: Hearing on H.R. 2281 and H.R. 2280 Before the Subcomm. on Courts and Intell. Prop. of the 
+House Comm. on the Judiciary, 105th Cong. 47 (1997) (statement of Marybeth Peters) (“ The Copyright 
+Office firmly believes that the fair use doctrine is a fundamen tal element of the copyright law, and that its 
+continued role in striking an appropriate balance of rights and exceptions should not be diminished. We also 
+believe that it is possible to provide effective protection against circumvention without undermining this goal. 
+. . . Section 1201 seeks to accomplish this result in several ways. First, it treats access- prevention technology 
+separately from infringement-prevention technology, and does no t contain a prohibition against individual 
+acts of circumvention of the latter. As a result, an individual would not be able to circumvent in order to gain 
+unauthorized access to a work, but would be able to do so in order to make fair use of a work which she has 
+lawfully acquired.”); R. Anthony Reese, Will Merging Access Controls and Rights Controls Undermine the 
+Structure of Anticircumvention Law? , 18
+ BERKELEY TECH. L.J. 619, 647–50 (2003) (showing that the 
+decision not to prohibit circumvention of use controls was a central component of Congress’s efforts to ensure 
+that Section 1201 did not undermine important rights such as fair use).  
+57 17 U.S.C. § 1201(a)(1)(C); 2015 Recommendation at 10.
+
+[PAGE 18]
+International Documentary Association, et al. 
+Comment regarding Section 1201 Study 
+March 3, 2016 
+Page 17 of 17 
+ 
+ 
+ 
+ 
+ 
+ 
+then the Librarian should be str ongly inclined to issue an exem ption without further 
+examination. 
+ 
+We urge the Register to take a c loser look at the way that merged access and use controls 
+are undermining the statutory scheme of Chapter 12 and to use the discretion that the statute 
+and the APA provide her to address the problem. 
+ 
+ 
+CONCLUSION 
+ 
+For the reasons set forth above, we respectfully recommend that:   
+ 
+ The Register urge Congress to amend section 1201 to include a requirement that 
+circumvention of an access control is not a violation of section 1201 unless there is a 
+connection between the circumvention and infringing conduct. 
+ 
+ In the alternative, the Register should revise the triennial ru lemaking in the following 
+ways: 
+ 
+o Establish a presumptive renewal of previously granted exemptions;  
+o Structure the proceeding as a rulemaking rather than an adjudication; 
+o Impose a workable standard for what constitutes a likely noninf ringing use and 
+ensure that the standard does not interfere with the developmen t of fair use law in 
+the courts; and 
+o Strongly favor exemptions involving merged access and use contr ols, particularly 
+where the merged control prevents a use such as copying, and th e user does not 
+seek to obtain the material unlawfully.

@@ -1,0 +1,198 @@
+[PAGE 1]
+Submission of Comments from the Global Intellectual Property Center 
+(GIPC), U.S. Chamber of Commerce 
+Frank Cullen, Executive Director U.S. IP Policy 
+ 
+ 
+Attn: Mr. Sarang V. Damle 
+Deputy General Counsel 
+U.S. Copyright Office 
+ 
+Docket No. 2015-6: Software-Enabled Consumer Products Study 
+ 
+ 
+ 
+GIPC Software Comments 
+ 
+The U.S. Chamber of Commerce appreciates the opportunity to provide our 
+comments on these important issues.  We also appreciate the leadership of the 
+U.S. Copyright Office in its thoughtful consideration of copyright policy issues 
+and we support its efforts and desires for modernization so as to better serve 
+businesses that produce valuable copyrighted works, businesses that help 
+deliver those works to the public, and consumers who benefit from both. 
+ 
+The U.S. Chamber of Commerce is the world’s largest business organization 
+representing the interests of more than 3 million businesses of all sizes, sectors, 
+and regions. Our members range from mom-and-pop shops and local 
+chambers to leading industry associations and large corporations. 
+ 
+The Global Intellectual Property Center (GIPC) was established in 2007 as an 
+affiliate of the U.S. Chamber of Commerce. Today, the GIPC is leading a 
+worldwide effort to champion intellectual property rights and safeguard U.S. 
+leadership in cutting-edge technologies as vital to creating jobs, saving lives,
+
+[PAGE 2]
+ 2 
+advancing global economic growth, and generating breakthrough solutions to 
+global challenges. 
+ 
+I. Introduction 
+ 
+It is often said that copyright law affects Americans’ everyday lives.  If that is 
+truer today than in the past, it is a consequence of the convenient availability 
+and use of copyrighted works in more aspects of daily life than ever before.  
+And a significant portion of the copyrighted works that help make people’s 
+lives better is software. 
+ 
+Without software a computer is inert  -- it is the software that instructs the 
+computer how to create an environment suitable to a human user, how to 
+acquire and process data to return a desired result, and how to transmit and/or 
+preserve data.  At the origins of the industry, software operated general 
+purpose computing devices almost exclusively.  Over time, computers have 
+been incorporated into the design and function of everything from airplanes 
+and automobiles to kitchen appliances and toys to power plants and traffic 
+lights. 
+ 
+Software improves all of those products.  It makes them more efficient, safer, 
+more effective and reliable, and helps all of us to be more productive.  In short, 
+software makes our lives better. 
+ 
+The software industry is also an innovative, valuable and growing part of the 
+economy.  In the first dozen years of the 21st Century, the commercial software 
+industry doubled from $180 billion to $360 billion, and it now employs over 10
+
+[PAGE 3]
+ 3 
+million people.1  In the United States, software accounts for 3.2% of the entire 
+GDP and exports of software and related services have grown by 9-10% every 
+year since 2006.2  Further, software accounted for over 15% of all U.S. labor 
+productivity gains from 2004 to 2012.3 
+ 
+II. Responses to the Notice of Inquiry 
+ 
+ A. Elements of Copyright Law Implicated by the Use of Software 
+ 
+The use of software may implicate the reproduction, distribution, and 
+derivative rights of copyright.4  In each case, Congress has addressed the scope 
+of lawful activity in the absence of a license through specific provisions of the 
+Copyright Act: 
+ 
+ Reproduction as an essential step in the utilization of the computer 
+program is authorized by §117(a)(1); 
+ Reproduction for archival purposes is authorized by §117(a)(2); 
+ Reproduction under appropriate circumstances in the course of 
+maintenance or repair of a machine is authorized by §117(c); 
+                                                        
+1 “Powering the Digital Economy,” BSA | The Software Alliance (p. 3)(accessed at: 
+http://www.bsa.org/~/media/Files/Policy/Trade/DTA_study_en.pdf ). 
+2  “The U.S. Software Industry: An Engine for Economic Growth and Employment,” SIIA White Paper 
+by Robert J. Shapiro (2014)(accessed at: 
+http://www.siia.net/Admin/FileManagement.aspx/LinkClick.aspx?fileticket=ffCbUo5PyEM%3d&por
+talid=0). 
+3  Id. 
+4  For purposes of this submission, we consider only the copyright aspects of the comput er code.  Of 
+course, many computer programs have elements of the display associated with those programs that 
+may be copyrightable, and many computer programs include audiovisual elements that may be 
+copyrightable as such.  However, we consider that the nature of the questions in the Notice of Inquiry 
+point to the copyright in the code and we limit our comments accordingly.  We also use the terms 
+“software” and computer program” interchangeably.
+
+[PAGE 4]
+ 4 
+ Distribution of lawfully made copies is generally authorized by §109(a); 
+ Distribution for purposes of rental, lease, or lending are extensively, but 
+not entirely, excluded from the foregoing by §109(b); and 
+ Reproduction and adaptation for purposes of creating interoperable 
+computer programs were addressed by courts under the Fair Use 
+doctrine codified in §107, and given tacit approval by Congress by the 
+codification of judicial precedent in §1201(f). 
+ 
+In each case Congress has carefully calibrated the copyright law to 
+accommodate the lawful use of software while also allowing the flexibility to 
+develop innovative new products in an evolving marketplace.  The results have 
+been a resounding success. 
+ 
+This vibrant market of innovative products, and the many consumer benefits 
+that flow from it, have developed in the context of our copyright system.  This 
+is an incredible success story.  The goal of this study should be identifying the 
+best way to preserve the conditions that have fostered this growth. 
+ 
+ B. Software Licensing Models 
+ 
+Software is offered through a variety of models, designed to suit the needs of 
+the customer.  And, judging by the growth in the software marketplace, ever-
+expanding use and innovation in software, and the growth in the industry, these 
+offerings are meeting the needs and desires of both consumers and developers. 
+ 
+Notwithstanding this empirical evidence of success, we are aware that some 
+commentators have complained that software may be offered in the
+
+[PAGE 5]
+ 5 
+marketplace through a license rather than an outright sale.  This licensing 
+model, these commentators further complain, prevents the application of the 
+First Sale doctrine, because the customer is not the “owner” of the particular 
+copy of the software.  From that they extrapolate that customers are unable to 
+resell devices in which there is embedded licensed software.  So, these 
+commentators conclude, Congress should amend the Copyright Act to pre-
+empt otherwise legal and enforceable licensing terms and require all software to 
+be sold outright.  Their interpretation of the law is correct; their presumption 
+of harm is not.  And their proposed ‘remedy’ would be drastic and harmful.  
+ 
+There is scant (if any) real evidence that the distribution right in software is 
+being invoked to inhibit the secondary market for consumer products.  These 
+claims are not consistent with the reality that such products are freely resold 
+without complication from copyright law or licenses.  If there is any problem, it 
+remains hypothetical.  Proposals to “solve” this non-existent problem would 
+undermine certain business models and represent unprecedented and 
+unwarranted interference in a marketplace vibrant with innovation and 
+consumer choice.   
+ 
+Software developers and publishers are certainly copyright owners, but that in 
+and of itself does not earn income.  Software must serve a needed purpose, 
+function well, and be offered on acceptable terms in order to become a 
+successful product in the market.  Companies that offer less than that will be 
+quickly surpassed in a marketplace defined by robust innovation and 
+competition.  Thus, there are strong market incentives to ensure that software 
+is offered to customers on terms they will accept.  As the Notice of Inquiry
+
+[PAGE 6]
+ 6 
+recalls, the Copyright Office recognized this reality in its DMCA Section 104 
+Report.5 
+ 
+The Copyright Office should also not overlook the reality that, particularly in 
+the business-to-business context, software licenses are commonly the subject of 
+detailed and extensive negotiation between sophisticated parties, including 
+circumstances in which the final product is destined for sale to the public.  
+Contract pre-emption would introduce unnecessary and unproductive 
+uncertainty into the marketplace. 
+ 
+It is equally important to resist any temptation to treat software in devices as 
+deserving only second-class copyright protection.  The software embedded in 
+devices constitutes a copyrightable work and therefore deserves the full respect 
+of the law.  Moreover, there are many software-driven “devices” whose 
+function involves the utilization of still other copyrightable works, from phone 
+apps to entertainment systems found in cars or on board commercial aircraft, 
+to karaoke machines.  A weakening of the copyright law with regard to 
+software in devices would also lead to significant adverse consequences for a 
+wide range of copyrighted works, as there is no principled difference among 
+them. 
+ 
+III. Conclusion 
+ 
+The software industry is a tremendous American success story.  Our copyright 
+system has played a critical role in the development of that industry and 
+policymakers should strive to maintain the conditions that have generated so 
+                                                        
+5  U.S. Copyright Office, DMCA Section 104 Report , pp. 162-64 (2001).
+
+[PAGE 7]
+ 7 
+much benefit to our economy and our society.  Complaints about the effects of 
+licensing terms remain theoretical at best, and certainly do not justify upending 
+a system that has worked so successfully. 
+ 
+GIPC thanks the Copyright Office for its work and for this opportunity to 
+provide our views, and looks forward to continuing to work with the Copyright 
+Office on this and other important issues progresses.

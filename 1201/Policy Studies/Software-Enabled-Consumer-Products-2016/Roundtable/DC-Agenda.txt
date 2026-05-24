@@ -1,0 +1,141 @@
+[PAGE 1]
+ 1 
+ 
+ 
+  
+Wednesday, May 18, 2016 
+ 
+ 
+9:00 – 10: 00 AM  
+SESSION 1  
+The Proper Role of Copyright in 
+Protecting Software-Enabled 
+Consumer Products  
+This session will explore the role of copyright  
+law as it relates to software, including whether  
+and how software in “everyday products” can  
+be distinguished from other types of software,  
+the rationale and proper scope of copyright 
+protection for embedded software, and the  
+need for interoperability with software- 
+embedded devices. 
+ 
+ 
+ 
+Jonathan Band  Owners’ Rights Initiative 
+John Bergmayer  Public Knowledge 
+Shaun J. Bockert Blank Rome LLP 
+Steve Tepp  Global Intellectual Property Center,  
+ U.S. Chamber of Commerce 
+Ben Golant  Entertainment Software Association 
+Keith Kupferschmid  Copyright Alliance 
+Aaron Lowe  Auto Care Association  
+Chris Mohr  Software & Information Industry Association 
+Christian Troncoso  BSA | The Software Alliance 
+Jonathan Zuck  ACT | The App Association 
+ 
+  
+ 
+10: 00 – 10: 15 AM      BREAK  
+ 
+ 
+  
+10: 15 – 11:15 AM 
+SESSION 2 
+Ownership and Contractual Issues 
+This session will explore the state of contract 
+law vis-à-vis software embedded in everyday 
+products, and how contracts such as end user 
+license agreements impact investment in  
+and the dissemination and use of everyday 
+products, including whether any legislative 
+action in this area is needed. 
+ 
+ 
+ 
+ 
+Jonathan Band  Owners’ Rights Initiative 
+John Bergmayer  Public Knowledge 
+Shaun J. Bockert Blank Rome LLP 
+Eric Harbeson  Music Library Association 
+Keith Kupferschmid  Copyright Alliance 
+Aaron Lowe  Auto Care Association  
+Chris Mohr  Software & Information Industry Association 
+Aaron Perzanowski  Professor of Law, Case Western Reserve  
+ University School of Law 
+Jonathan Zuck  ACT | The App Association
+
+[PAGE 2]
+ 2 
+  
+ 
+ 
+ 
+11 :15  – 11 :30  AM      BREAK  
+ 
+ 
+  
+11:30 AM  – 12 :30  PM  
+SESSION 3 
+Fair Use 
+This session will explore how courts have 
+applied the fair use doctrine to permit uses  
+of software that ensure reverse engineering 
+and/or interoperability of software with new 
+products and devices. 
+ 
+ 
+ 
+Jonathan Band  Owners’ Rights Initiative 
+John Bergmayer  Public Knowledge 
+Shaun J. Bockert Blank Rome LLP 
+Eric Harbeson  Music Library Association 
+Keith Kupferschmid  Copyright Alliance 
+Aaron Lowe Auto Care Association  
+Aaron Perzanowski  Professor of Law, Case Western Reserve  
+ University School of Law 
+Sara Thomas  Director of Research & Information Services,  
+ Miles & Stockbridge PC 
+Jonathan Zuck  ACT | The App Association 
+ 
+ 
+ 
+12:30 – 1:30 P M    LUN CH ( O N  Y O U R  O W N ) 
+ 
+ 
+ 
+1:30 – 2:30 P M  
+SESSION 4 
+The First Sale Doctrine, Section 117, 
+and Other Limitations and Exceptions  
+This session will explore whether current 
+limitations on and exceptions to copyright 
+protection adequately address issues 
+concerning software embedded in everyday 
+products, or whether amendments or 
+clarifications would be useful. 
+ 
+ 
+ 
+ 
+ 
+Jonathan Band  Owners’ Rights Initiative 
+John Bergmayer  Public Knowledge 
+Shaun J. Bockert Blank Rome LLP 
+Eric Harbeson  Music Library Association 
+Keith Kupferschmid  Copyright Alliance 
+Aaron Lowe  Auto Care Association  
+Chris Mohr  Software & Information Industry Association 
+Aaron Perzanowski  Professor of Law, Case Western Reserve  
+ University School of Law 
+Sara Thomas  Director of Research & Information Services,  
+ Miles & Stockbridge PC 
+Jonathan Zuck  ACT | The App Association 
+ 
+ 
+ 
+2:30 – 2:45  PM  
+Observer Comments 
+Structured opportunity for roundtable 
+observers to provide additional comments  
+on panel topics.

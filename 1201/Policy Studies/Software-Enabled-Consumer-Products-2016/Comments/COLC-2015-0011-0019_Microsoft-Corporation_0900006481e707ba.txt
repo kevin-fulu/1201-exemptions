@@ -1,0 +1,388 @@
+[PAGE 1]
+ 
+Microsoft Corporation 
+One Microsoft Way  
+Redmond WA 98052 www.microsoft.com 
+ 
+Page 1 of 9 
+ 
+February 16, 2016 
+ 
+ 
+Hon. Maria Pallante 
+Register of Copyrights 
+United States Copyright Office 
+101 Independence Ave., S.E. 
+Washington, D.C. 20559  
+ 
+Re: Software-Enabled Consumer Products Study; Notice and Request for Public 
+Comment  
+ Docket No. 2015-6 
+ 
+Dear Ms. Pallante: 
+ 
+Microsoft welcomes this opportunity to respond to the Copyright Office’s Notice of 
+Inquiry for its Software-Enabled Consumer Products Study (“Notice”).1 As Senators 
+Grassley and Leahy noted in their letter to the Copyright Office of October 22, 2015, the 
+ubiquity of innovative software in everyday consumer products such as cars, refrigerators, 
+and other devices provides tremendous benefits to consumers, but also raises important 
+policy issues.2 Consistent with their letter, and with the terms of the Notice, this 
+submission focuses on the role of copyright protection for software embedded in 
+consumer products; it does not address other policy issues raised by such products (e.g., 
+privacy or security), or the well-settled copyright eligibility of all other types of software.  
+ 
+These comments are informed by more than three decades of Microsoft leadership in 
+nearly all facets of software innovation. In addition to developing some of the world’s 
+most popular software products, Microsoft also offers several leading platforms, services, 
+tools, and devices that allow customers to run and adapt third-party software, or even 
+develop software themselves. The broad diversity of our offerings gives us a unique—and, 
+we believe, uniquely balanced—perspective on the issues raised in the Notice.  
+                                                           
+1 80 Fed. Reg. 77668 (Dec. 15, 2015). 
+2 Letter from Sens. Charles E. Grassley and Patrick Leahy to Hon. Maria A. Pallante (Oct. 22, 2015), 
+at http://www.grassley.senate.gov/news/news-releases/grassley-leahy-call-copyright-study (last 
+accessed Feb. 12, 2016).
+
+[PAGE 2]
+ 
+Microsoft Corporation 
+One Microsoft Way  
+Redmond WA 98052 www.microsoft.com 
+ 
+Page 2 of 9 
+ 
+Forty years of software innovation have generated massive benefits for software creators, 
+consumers and the economy. At the same time, the U.S. copyright regime has proved 
+remarkably adept at balancing the interests of creators, consumers, and the public—
+including with regard to software embedded in consumer products. The coming decades 
+will see a further burst of innovation, as the software and device industries reinvent 
+themselves in an age of cloud computing. It is therefore critical that the Copyright Office 
+tread with care so as not to alter the incentives or disturb the carefully developed legal 
+precedent for software embedded in consumer products. 
+I. Software innovation is thriving 
+The pace and breadth of software innovation since Congress passed the 1976 Copyright 
+Act have been astounding—and arguably unrivaled in the history of technology. At that 
+time, most computers were large mainframes that primarily ran customized software. 
+Given their massive size, cost, and complexity, they were used almost exclusively by large 
+enterprises.3 But several key innovations in software and hardware quickly transformed 
+the industry and made computing far more affordable, accessible, and powerful, such that 
+today, software is nearly ubiquitous. 
+The first major stage in software’s post-1976 evolution was the advent of personal 
+computers in the 1980s, enabled both by small, powerful microprocessors and flexible, 
+easy-to-use operating systems and applications. Next, innovations in client-server 
+software brought the power of networked computing to millions of small and medium-
+sized enterprises, spurring tremendous productivity gains and enabling them to compete 
+more effectively with their larger rivals. Soon thereafter, the World Wide Web and the 
+spread of broadband networks launched a new era of online computing as consumers and 
+businesses leveraged the power of the Internet to deepen collaboration, speed 
+innovation, and launch entirely new businesses and business models.  
+Today, we are in the midst of a transformational new generation of software innovation. 
+Smartphones, tablets, and other mobile devices not only provide computing “on the go,” 
+they also are bringing billions of new users online. Cloud computing is perhaps even more 
+transformational: even as it powers the hundreds of thousands of apps that make mobile 
+devices useful, it also makes truly hyperscale computing available to all. The numbers bear 
+this out. Annual business spending on cloud services is estimated to exceed $100 billion by 
+                                                           
+3 See, e.g., Bradford L. Smith, The Third Industrial Revolution: Policymaking for the Internet, 3 
+COLUM. SCI. & TECH. L. Rev. 1, 19 (2001).
+
+[PAGE 3]
+ 
+Microsoft Corporation 
+One Microsoft Way  
+Redmond WA 98052 www.microsoft.com 
+ 
+Page 3 of 9 
+ 
+2017.4 By the end of 2016, consumers are likely to store more than 36 percent of their 
+content in the cloud, including data, video, and backups from smartphones, tablet 
+computers, and other mobile devices.5 The speed with which consumers have adopted 
+cloud-capable devices like smartphones has been dramatic, with 64 percent of American 
+adults owning smartphones in 2015, up from 35 percent in 2011.6 At the same time, 
+advances in sensors and data analytics are ushering in an entire new generation of always-
+connected, “Internet of Things” (“IoT”) devices. Indeed, the number of these devices is 
+expected to exceed 6 billion this year, a 30 percent increase over 2015.7  
+Microsoft is proud to have been at the forefront of each of these stages of software 
+innovation. When Bill Gates and Paul Allen founded Microsoft in 1975, they were 
+motivated by a bold vision: “a computer on every desk and in every home.”8 They sought 
+to realize this vision by providing an open platform that enabled others to build 
+compatible hardware and software, thus driving down costs and fueling innovation by 
+thousands of software developers, device manufacturers, and service providers. As 
+computing moved to new devices, Microsoft products like Visual Basic and services like 
+Microsoft’ Store made available the creation and delivery of large-scale, easily created and 
+distributed software and apps, democratizing computing for both developers and 
+consumers. Microsoft was also one of the first major packaged software developers to 
+make its software widely available for download, and to offer innovative software 
+                                                           
+4 See Brandon Butler, IDC: Cloud will be $107B industry by 2017, TECHWORLD (Mar. 20, 2014), at 
+http://www.techworld.com/news/cloud/idc-cloud-will-be-107b-industry-by-2017-3507600/ (last 
+accessed Feb. 12, 2016). 
+5 Gartner, Gartners Says That Consumers Will Store More Than a Third of Their Digital Content in 
+the Cloud by 2016 (June 25, 2012), at http://www.gartner.com/newsroom/id/2060215 (last 
+accessed Feb. 12, 2016). 
+6 Pew Research Center, U.S. Smartphone Use in 2015 (Apr. 1, 2015), at 
+http://www.pewinternet.org/2015/04/01/us-smartphone-use-in-2015/ (last accessed Feb. 12, 
+2016). 
+7 See Gartner, Gartner Says 6.4 Billion Connected “Things” Will Be in Use in 2016, Up 30 Percent 
+From 2015 (Nov. 10, 2015), at http://www.gartner.com/newsroom/id/3165317 (last accessed Feb. 
+12, 2016). 
+8 Microsoft, Creating a Vibrant Information Technology Sector: Growth, Opportunity and 
+Partnership (Apr. 2002), at 
+http://download.microsoft.com/documents/australia/corporateaffairs/opportunitieswhite_paper.
+pdf (last accessed Feb. 12, 2016).
+
+[PAGE 4]
+ 
+Microsoft Corporation 
+One Microsoft Way  
+Redmond WA 98052 www.microsoft.com 
+ 
+Page 4 of 9 
+ 
+functionality online as a service. Indeed, Microsoft began offering online services already 
+in 1994—well before the term “cloud computing” had become common parlance.  
+Today, Microsoft continues to drive the next era of software innovation, with the goal of 
+providing products and services that empower every person and organization on the 
+planet to be more productive. More than 1.2 billion people around the world, 
+representing 140 countries and 107 languages, create and share ideas with Microsoft’s 
+Office software.9 Customers using our Azure cloud services can choose from a wide range 
+of operating systems, including over 1000 that are open-source, to reduce costs, improve 
+efficiency, and innovate.10 Through our CityNext and other initiatives, we are helping 
+governments and enterprises around the world harness connected devices, cloud 
+computing, and data analytics to improve their own operations and the services they 
+provide to their customers and constituents.11 And by making many of our most popular 
+products and services available on multiple platforms (including Android and Apple’s iOS), 
+we are expanding consumer choice and giving users greater flexibility and more options.12  
+As these examples illustrate, software rarely exists in isolation. Rather, it typically forms an 
+integral part of a much larger ecosystem. For software embedded in consumer products, 
+this ecosystem includes general-purpose software, apps, cloud-based software, and online 
+services (including the enterprise software that runs such services), all of which would be 
+affected by any change to the copyright regime for embedded software. For instance, over 
+the next five year, 33 percent of consumers plan to adopt wearable fitness devices, and 25 
+percent are likely to adopt smart watches.13 Nearly all of these devices will rely on cloud 
+                                                           
+9 Microsoft, By the Numbers, at http://news.microsoft.com/bythenumbers/planet-office (last 
+accessed Feb. 12, 2016). 
+10 Microsoft, Linux in the Cloud, at https://www.microsoft.com/en-us/Openness/Linux (last 
+accessed Feb. 12, 2016). 
+11 Microsoft, Microsoft CityNext: Coming to a City Near You (July 10, 2013), at 
+https://news.microsoft.com/2013/07/10/microsoft-citynext-coming-to-a-city-near-you/ (last 
+accessed Feb. 12, 2016).  
+12 Microsoft, Microsoft Empowers Windows, iOS, Android, Mac, and Linux Developers to Reach 
+Billions of New Customers (Apr. 29, 2015), at https://news.microsoft.com/2015/04/29/microsoft-
+empowers-windows-ios-android-mac-and-linux-developers-to-reach-billions-of-new-
+customers/%20 (last accessed Feb. 12, 2016). 
+13 Accenture, The Internet of Things: The Future of Consumer Adoption  (2014), at 
+https://www.accenture.com/us-en/insight-internet-things-future-consumer-adoption.aspx (last 
+accessed Feb. 12, 2016).
+
+[PAGE 5]
+ 
+Microsoft Corporation 
+One Microsoft Way  
+Redmond WA 98052 www.microsoft.com 
+ 
+Page 5 of 9 
+ 
+services powered by enterprise software and will be deeply integrated with software on 
+smartphones, tablets, and many other devices. Thus, seeking to draw artificial lines 
+around software embedded in consumer products could have substantial unintended 
+consequences: it will be difficult to apply in practice and could adversely affect incentives, 
+investment, and innovation across many different sectors of the economy. 
+II. The U.S. copyright regime is remarkably effective in maintaining balance 
+Throughout these eras of software innovation, the U.S. copyright regime has proven 
+remarkably effective in balancing incentives for creativity with the interests of users and 
+the public. When debating the 1976 Act, Congress—recognizing the potential benefits of 
+widespread computing—engaged in a thorough study of emerging uses of computers. 
+Based on that study, it determined that it could best balance all relevant interests by 
+codifying copyright protection for software while also making this protection subject to 
+important exceptions.14  
+That decision proved prescient, as software developers have relied on copyright 
+protection for over four decades to justify massive investments in software innovation. 
+Microsoft was one of the first: in a 1976 “Open Letter to Hobbyists,” Bill Gates urged users 
+to respect copyright in software and explained why such protection was critical to the 
+software industry’s future development.15 As computer use became more widespread and 
+software distribution methods evolved, developers continued to rely on copyright, first 
+with shrink-wrap licenses (for packaged software products sold at retail) and later, click-
+wrap licenses (for software delivered online). Modern online services like streaming, 
+online apps, and cloud computing rely on many of these same contractual and copyright 
+concepts, enforced through end-user licenses and embodied in terms of service.16  
+                                                           
+14 H.R. Rep. 94-1476, at 1116 (1976).  
+15 Bill Gates, An Open Letter to Hobbyists (first published Feb. 3, 1976, in COMPUTER NOTES), at 
+http://www.microsoft.com/about/companyinformation/timeline/timeline/docs/di_hobbyists.doc  
+(last accessed Feb. 12, 2016). 
+16 See, e.g., Robert W. Gomulkiewicz, The Federal Circuit’s Licensing Law Jurisprudence: Its Nature 
+and Influence, 84 WASH. L. REV. 199, 208 (2009) (“End-user licensing also allows software developers 
+to offer packages of software and services; flexible client-server computing-usage models; and the 
+same code to business users at one price, home users for a lower price, academic users for yet a 
+lower price, and charitable organizations for free. In sum, end-user licensing is a key component of 
+business-model innovation in the information economy.”).
+
+[PAGE 6]
+ 
+Microsoft Corporation 
+One Microsoft Way  
+Redmond WA 98052 www.microsoft.com 
+ 
+Page 6 of 9 
+ 
+The U.S. software industry, on the foundation of copyright protection, has grown into one 
+of the most vibrant sectors of the economy. Between 1997 and 2012, annual U.S. software 
+industry revenues grew from $149 billion to $425 billion.17 Without the protection of 
+copyright law, investments in software during this period might well have stagnated, 
+leaving consumers with fewer choices and less innovation. 
+In every step of this evolution, the U.S. copyright law has adroitly balanced the interests of 
+software creators with those of users and the public. The Copyright Act itself has 
+numerous “safety valves” that help to preserve this balance. One such safety valve is 
+Section 107, codifying the fair use exception. Courts routinely apply fair use to protect the 
+legitimate interests of software creators while also ensuring that users have the flexibility 
+they need to use copyrighted software for new, transformative uses without being liable 
+for copyright infringement.18 Another is in Section 109, which permits the resale of 
+software embodied in devices and which cannot be copied during the ordinary operation 
+or use of the device. Section 117 ensures that the basic operation of a computer—
+including a computer that runs the software in an everyday consumer product—does not 
+put consumers at risk of copyright infringement. Perhaps most importantly, Section 1201 
+provides for rulemaking to mitigate the potential negative effects of the ban on the 
+circumvention of technical protection measures for copyrighted software. For nearly two 
+decades, Section 1201 rulemaking has functioned as a way to incrementally address and 
+accommodate developing technologies affected by copyright based upon input from 
+consumers, industry, and the general public. 
+In addition to these “safety valve” mechanisms in the Copyright Act itself, courts have 
+applied the Act to new technologies and business models in ways that broadly help 
+preserve the balance between the interests of creators, users, and the public. For 
+example, in Sony Corporation of America v. Universal City Studios, the Supreme Court 
+ruled that Sony’s manufacturing and sale of video cassette recorders that allowed 
+consumers to watch television broadcasts on their own schedules—at the time a novel 
+concept—was not copyright infringement.19 And in Krause v. Titleserv, Inc., the Second 
+                                                           
+17 Software & Info. Industry Assoc., The U.S. Software Industry: An Engine for Economic Growth and 
+Employment (2014), at http://papers.ssrn.com/sol3/papers.cfm?abstract_id=2541673%20 (last 
+accessed Feb. 12, 2016). 
+18 E.g., Sega Enters. Ltd. v. Accolade, Inc., 977 F.2d 1510, 1527-28 (9th Cir. 1992) (ruling that 
+reverse-engineering copyrighted code in a video game console in order access the code’s 
+unprotectable functionality was fair use). 
+19 464 U.S. 417 (1984).
+
+[PAGE 7]
+ 
+Microsoft Corporation 
+One Microsoft Way  
+Redmond WA 98052 www.microsoft.com 
+ 
+Page 7 of 9 
+ 
+Circuit affirmed that Section 117 allows consumers to modify their copies of software 
+programs in order to correct bugs or add routine functionality needed to ensure that 
+those programs continue to operate and provide value.20 
+U.S. leadership on robust yet balanced copyright laws has made copyright protection for 
+software the global norm, providing substantial benefits to U.S. industry and the 
+economy. These efforts have been critical to harmonizing international law and practice, 
+including through agreements such as the WTO Agreement on Trade-Related Aspects of 
+Intellectual Property Rights, the WIPO Copyright Treaties, and numerous U.S. free trade 
+agreements.21 Our Nation’s commitment to this vital balance is reflected most recently in 
+the proposed Trans-Pacific Partnership Agreement (“TPP”), which requires TPP Parties to 
+provide strong copyright protection while “endeavor[ing] to achieve an appropriate 
+balance in its copyright and related rights system.”22 Remaining steadfast in its 
+commitment to these principles in trade agreements is critical to maintaining U.S. 
+leadership in technology and software innovation. 
+The U.S. copyright regime has helped software innovation and choice flourish—and 
+consumers are the winners. Software developers rely on copyright for a wide array of 
+licensing and distribution models. This includes not only proprietary software, but also a 
+range of open-source software development and licensing models. For example, the 
+differences among various PC, mobile device, and mobile app ecosystems run the gamut 
+from open-source-based development and licensing approaches23 to more proprietary or 
+curated approaches, each of which strikes a different balance between variation and 
+fragmentation. The success of all of these approaches, as evidenced in Google’s Android, 
+Apple’s iOS, and Microsoft’s Store, and myriad devices in the marketplace using these 
+platforms, demonstrates that different consumers want different things—and that 
+software developers, operating on a foundation of copyright even as they pursue different 
+                                                           
+20 402 F.3d 119 (2d Cir. 2005). 
+21 WTO Agreement on Trade-related Aspects of Intellectual Property Rights (Apr. 15, 1994), at 
+https://www.wto.org/english/tratop_e/trips_e/t_agm0_e.htm (last accessed Feb. 12, 2016); WIPO 
+Copyright Treaty (Dec. 20, 1996.), at http://www.wipo.int/treaties/en/text.jsp?file_id=295166 (last 
+accessed Feb. 12, 2016). 
+22 Trans-Pacific Partnership Agreement, art. 18.66, at https://medium.com/the-trans-pacific-
+partnership/intellectual-property-3479efdc7adf (last accessed Feb. 12, 2016). 
+23 Indeed, copyright law underpins the open-source licensing, development, and distribution model 
+and is critical to enforcing such licenses. See, e.g., Jacobsen v. Katzer, 535 F.3d 1373, 1382 (Fed. Cir. 
+2008).
+
+[PAGE 8]
+ 
+Microsoft Corporation 
+One Microsoft Way  
+Redmond WA 98052 www.microsoft.com 
+ 
+Page 8 of 9 
+ 
+aims, are serving those various needs exceedingly well. The genius of the existing U.S. 
+copyright regime is that it has proven sufficiently flexible and balanced to provide the legal 
+basis for all of these different approaches.  
+This flexibility is reflected in Microsoft’s own offerings as well. Users of our Azure cloud 
+services can run a wide range of operating systems and platforms, and a significant 
+percentage of Azure customers use applications that run on open-source operating 
+systems. Indeed, more than 20 percent of the workloads running on Azure today run a 
+version of Linux. The choice remains entirely with the user. Far from restricting such 
+choice, copyright protection for software has helped enable this choice by giving both 
+Microsoft and its customers the freedom and flexibility choose whatever products, 
+services, and business models best fit their needs. 
+In sum, copyright protection for software has generated enormous innovation while 
+successfully balancing the interests of creators with those of users and the public. It 
+underpins a wide array of software products, businesses, and business models, giving 
+consumers a tremendous amount of choice while spurring competition.  This is no less 
+true with regard to software embedded in consumer products, an area in which software 
+innovation and choice are clearly flourishing. 
+III. The current system’s success recommends a cautious approach to legislation and 
+policymaking 
+Against this backdrop, the Copyright Office should proceed with caution before 
+recommending changes that would alter copyright protection for software embedded in 
+consumer products. As discussed, the evidence is overwhelming that software 
+innovation—including in embedded software—is flourishing and that consumers and the 
+public are benefitting enormously. By contrast, there is remarkably little evidence that 
+copyright protection for software embedded in consumer products is causing any systemic 
+problems. Indeed, when the Department of Commerce’s Internet Policy Task Force 
+recently completed its 2016 study on novel copyright issues in the digital economy, it 
+found the U.S. copyright regime to be sufficiently flexible to adapt to the evolution of 
+software in consumer products, and therefore did not recommend any change to existing 
+copyright protections for such software.24 In this context, there is no reason to believe 
+                                                           
+24 Dep’t of Commerce, Internet Policy Task Force, White Paper on Remixes, First Sale, and Statutory 
+Damages, 64 (2016), at 
+http://www.uspto.gov/sites/default/files/documents/copyrightwhitepaper.pdf (last accessed Feb. 
+12, 2016).
+
+[PAGE 9]
+ 
+Microsoft Corporation 
+One Microsoft Way  
+Redmond WA 98052 www.microsoft.com 
+ 
+Page 9 of 9 
+ 
+that a different regime would be more effective in spurring innovation or at balancing the 
+interests of creators, users, and the public. 
+This is not to say that tensions in the system never arise. But when they do, existing 
+provisions in the Copyright Act, combined with agency rulemaking, judicial interpretations, 
+and voluntary private-sector efforts, have proven up to the task of maintaining the right 
+balance. For example, in 2015, after considering the input of industry, public interest 
+groups, and private citizens, the Library of Congress, acting pursuant to Section 1201, 
+adopted exemptions for circumventing copyright protection on computer systems in 
+vehicles for the purpose of diagnosis, repair, or lawful modification.25  
+Accordingly, we urge the Copyright Office not to recommend changes to copyright 
+protection for software embedded in consumer products at this time. Businesses in 
+numerous sectors of our economy today rely on the certainty that the existing copyright 
+system provides for embedded software. Even the potential for changes to that system 
+could deter investment and innovation, as inventors and companies seek to avoid even 
+the risk that they may be unable to recoup their investments in software development.   
+Sincerely, 
+ 
+Dave Green 
+Assistant General Counsel – IP Policy & Strategy 
+Intellectual Property Group – Corporate, External & Legal Affairs 
+Microsoft Corporation 
+ 
+                                                           
+25 Exemption to Prohibition on Circumvention of Copyright Protection Systems for Access Control 
+Technologies, 80 Fed. Reg. 65944, 95654-55 (Library of Congress, Oct. 28, 2015).

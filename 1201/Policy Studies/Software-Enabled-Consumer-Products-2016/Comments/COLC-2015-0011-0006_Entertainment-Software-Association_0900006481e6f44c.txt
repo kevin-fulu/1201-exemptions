@@ -1,0 +1,424 @@
+[PAGE 1]
+ 
+Before the 
+U.S. Copyright Office 
+Library of Congress 
+ 
+ 
+In the Matter of: 
+ 
+Software-Enabled Consumer Products Study: 
+Notice and Request for Public Comment 
+ 
+ 
+ 
+Docket No. 2015-6 
+ 
+COMMENTS OF THE ENTERTAINMENT SOFTWARE ASSOCIATION 
+ 
+The Entertainment Software Association (“ESA”) appreciates the opportunity to provide 
+these Comments in response to the Copyright Office’s Notice of Inquiry (“NOI”) concerning 
+software-enabled consumer products.  Software-Enabled Consumer Products Study: Notice and 
+Request for Public Comment, 80 Fed. Reg. 77,668 (Dec. 15, 2015).  ESA is the U.S. trade 
+association serving companies that publish computer and video games for video game consoles, 
+handheld gaming devices, personal computers, and the Internet.  It represents nearly all of the 
+major gaming platform providers and major video game publishers in the U.S.1   
+ESA welcomes the Office’s examination of copyright protection for embedded software.  
+While this is a “highly specific” study focused solely on embedded software in everyday 
+devices,
+2 which therefore excludes software in general and video game platforms and game 
+software in particular, ESA provides its perspectives to inform the Copyright Office about the 
+ways in which software copyright protection has affected the video game industry.  
+1 See http://www.theesa.com/about-esa/members/ (listing ESA’s members). 
+ 
+2 See 80 Fed. Reg. at 77,668 (“This is a highly specific study not intended to examine or address more general 
+questions about software and copyright protection.”).
+
+[PAGE 2]
+ 
+ESA believes that strong copyright protection for software (embedded and otherwise) has 
+been a tremendous policy success that has enabled decades of innovation and creativity in 
+product design and functionality.  The video game industry in particular has been a leader in this 
+innovation through the development of new services and business models that depend upon 
+secure, trusted platforms enabled by software.  More than thirty years ago, the federal courts 
+confirmed that embedded software is subject to copyright protection on the same basis as other 
+software.  Ever since, that settled law has enabled innovation in the design and functionality of 
+video game platforms and the games, online marketplaces and content delivery systems they 
+support.   
+Given that record of success, ESA encourages the Office to approach this study with 
+caution and a clear eye on basic copyright principles.  In this study, the Office may hear 
+suggestions for weakening software copyright protection or introducing supposed consumer 
+protection regulations that have some superficial appeal.  However, the current system of 
+protection has enabled four decades of unprecedented technological progress.  Whatever isolated 
+issues might be raised concerning certain products with incidental embedded software should not 
+be used as justification for a general weakening of software copyright protection or for regulation 
+of the commercialization of copyrighted software in general. 
+Moreover, ESA has concern with the apparent assumption of the study that it might be 
+appropriate to identify some nebulous category of software or “everyday products” for special 
+treatment under the Copyright Act.  Because of the range of products containing software, the 
+range of software contained in such products, the range of distribution practices associated with 
+such software, and the pace of change in all those characteristics, ESA believes that it would be 
+2
+
+[PAGE 3]
+ 
+unwise to try to draw any such lines, and that any attempt to do so could have inadvertent 
+consequences for software developers and consumers.    
+I. Introduction 
+As the NOI notes, products containing embedded software have become ubiquitous.  This 
+ubiquity has yielded tremendous benefits for consumers, who have access to exciting new classes 
+of products; safer, “smarter,” more efficient and easier to use versions of older types of products; 
+and new services and business models enabled by devices incorporating embedded software.   
+However, while the number, variety, and functionality of consumer products 
+incorporating embedded software has grown substantially in recent years, the phenomenon of 
+embedded software and the benefits it brings is not at all recent.  The same things were 
+beginning to happen in the 1970s as today’s legal framework for the copyright protection of 
+computer software took shape.  The drafters of the Copyright Act of 1976 and the members of 
+the National Commission on New Technological Uses of Copyrighted Works (“CONTU”) were 
+doubtless familiar with digital watches,3 electronic calculators,4 microwave ovens5 and other 
+products incorporating embedded software that were revolutionary at their time.  Some of those 
+drafters or commission members may have driven a car with embedded software in its emission 
+control system.6  And while gaming devices are probably not what the Office envisioned as 
+“everyday products,” some of those drafters or commission members may even have played 
+3 See, e.g., http://blog.onlineclock.net/earliest-digital-watches/. 
+ 
+4 See, e.g., http://www.vintagecalculators.com/html/hand-held_calculators.html. 
+ 
+5 See, e.g., http://www.smecc.org/microwave_oven.htm. 
+ 
+6 In 1976, Volvo introduced a computer-controlled catalytic emission control system in its model 240 sold in 
+California.  John L. King and Kalle Lyytinen, Automative Informatics: Information Technology and Enterprise 
+Transformation in the Automotive Industry, at 7, available at 
+http://citeseer.ist.psu.edu/viewdoc/download;jsessionid=DA0E78E780ED411470CF150AB5E324A7?doi=10.1.1.13
+6.2475&rep=rep1&type=pdf. 
+3
+
+[PAGE 4]
+ 
+games on a home console such as the Magnavox Odyssey (introduced in 1972)7 or Pong console 
+(introduced in 1975)8 or on a handheld device such as Mattel Auto Race (introduced in 1976)9 or 
+Mattel Football (introduced in 1977).10  By 1980, game software was available embedded in a 
+wristwatch.11  
+Since the enactment of the 1976 Act, copyright has played a critical role in promoting 
+creativity and innovation in the successors to these products and the many other products that 
+today incorporate embedded software.  Early, seminal cases under the 1976 Act confirmed that 
+software is protected by copyright even when embodied in read-only memory (“ROM”), as is the 
+case for embedded software, and that the copyrights in such software are infringed when others 
+incorporate that software into their products without authorization.12  Industry has relied upon 
+these principles for decades to justify the high costs of developing embedded software.13  Absent 
+copyright protection, embedded software readily could be copied by others who might wish to 
+introduce competitive products without expending the effort required to create their own original 
+7 See, e.g., http://americanhistory.si.edu/collections/search/object/nmah_1302004. 
+ 
+8 See, e.g., https://www.atari.com/history/1972-1984-0. 
+ 
+9 See, e.g., http://www.handheldmuseum.com/Mattel/AutoRace.htm. 
+ 
+10 See, e.g., http://www.handheldmuseum.com/Mattel/FB.htm. 
+ 
+11 See, e.g., http://www.digital-watch.com/DWL/1work/1251/ (describing the Casio GM-10 watch); 
+http://pocketcalculatorshow.com/nerdwatch/1980-casio-gm-10-game-watch/. 
+ 
+12 See, e.g., Apple Computer, Inc. v. Franklin Computer Corp., 714 F. 2d 1240, 1249 (3d Cir. 1983) (computer 
+program embedded in ROM of personal computer protectable and infringed by knockoff computer); Williams 
+Electronics, Inc. v. Artic Intern., Inc., 685 F. 2d 870 (3d Cir. 1982) (video game embedded in ROM of arcade game 
+machine protectable and infringed by seller of competing components); Tandy Corp. v. Personal Micro Computer s, 
+Inc., 524 F. Supp. 171 (N.D. Cal. 1981) (computer program embedded in ROM of personal computer protectable).  
+The same result is now required by Article 10(1) of the Agreement on Trade- Related Aspects of Intellectual 
+Property Rights, which provides that computer programs shall be protected as literary works under the Berne 
+Convention “whether in source or object code.” 
+ 
+13 A typical new car has approximately 100 million lines of software code.  Doug Newcomb, The Next Big OS War 
+Is in Your Dashboard, Wired (Dec. 3, 2012), available at http://www.wired.com/2012/12/automotive-os-war/all/.  
+Developing such software must represent a major part of the cost of developing the car.  Software development 
+certainly represents a major part of the cost of developing a new video game console.   
+4
+
+[PAGE 5]
+ 
+works.  The public has benefitted from the outpouring of innovation that has resulted from 
+copyright protection for both embedded and other software. 
+Software copyright protection has been especially important to the growth of the video 
+game industry.  For 40 years, video game companies have been on the cutting edge of creativity 
+and innovation and, in 2015, the industry generated U.S. revenues of $23.5 billion from sales of 
+hardware, game software, other content, accessories and services.14  During that time, the nature 
+of the software used in gaming devices has evolved considerably.  Many early devices, such as 
+the Pong console and various handheld devices and game watches, played only a limited 
+repertoire of games embodied in software that was embedded in the device when it shipped.  
+However, in 1972 the Magnavox Odyssey used removable game cards to provide a more varied 
+game experience, and in 1976, Fairchild introduced the Channel F, a console in which games 
+embodied in programmable read only memory cartridges were executed on a microprocessor.15  
+The industry quickly migrated to a model in which system software embedded in a device played 
+game software distributed on removable media such as cartridges and eventually optical discs, 
+and in due course by means of download.  With the passage of time, the software that operates 
+video game consoles and handheld devices has become increasingly extensive and sophisticated, 
+and today, many game devices rely less on embedded software and more on updateable 
+operating systems and cloud services.  The software also performs more activities and provides 
+more features and services than just gaming.   
+14 ESA, U.S. Video Game Industry Generates $23.5 Billion in Revenue for 2015, available at 
+http://www.theesa.com/article/u-s-video-game-industry-generates-23-5-billion-in-revenue-for-2015/; see also David 
+Greenspan, S. Gregory Boyd and Jas Purewal, Video Games and IP: A Global Perspective, WIPO Magazine (Apr. 
+2014) (video games are “the fastest growing sector of the entertainment industry and an important driver of 
+economic growth, creating millions of jobs, generating much-needed tax revenues and offering exciting 
+opportunities for talented creators and engineers from all corners of the globe”), available at 
+http://www.wipo.int/wipo_magazine/en/2014/02/article_0002.html. 
+ 
+15 Benj Edwards, The Untold Story of the Invention of the Game Cartridge, Fast Company, available at 
+http://www.fastcompany.com/3040889/the-untold-story-of-the-invention-of-the-game-cartridge. 
+5
+
+[PAGE 6]
+ 
+Today, more than 150 million Americans play video games, and 42 percent of them play 
+video games regularly, or at least three hours per week.16  Each of the three major home consoles 
+works in tandem with an integrated, console-specific online network.17  Those networks provide 
+a wide array of functions in support of game play, including enabling cooperative and 
+competitive multiplayer game play, tracking and accumulation of scores and achievements 
+across devices, downloading of games, announcements for new games, expansion packs and 
+updates, tournaments, social and community features, and customization of avatars.  Game 
+consoles also provide social media features relevant to gaming, such as the ability to capture and 
+share excerpts of game play and stream gameplay over streaming networks like Twitch.tv.  
+These features are not merely adjuncts to the console (and the embedded software therein), but 
+are now viewed as integral to the overall console and game experience.   
+These networks also provide access to non-game entertainment services, including films, 
+television shows and music.  While the specific offerings vary from platform to platform, the 
+major gaming platforms collectively provide access to dozens of apps, including video streaming 
+from services such as Amazon, HBO GO, Hulu, Netflix and YouTube; sports from the “big four” 
+professional leagues and Watch ESPN, and music from Microsoft’s Groove music service, 
+Spotify, Pandora and iHeartRadio.18  Other options on some gaming devices include rental or 
+purchase of movies and television shows and communications through realtime audio chat and 
+Skype.  
+16 ESA Essential Facts about the Computer and Video Game Industry, at 2 (Apr. 2015), available at 
+http://www.theesa.com/wp-content/uploads/2015/04/ESA-Essential-Facts-2015.pdf. 
+ 
+17 See, e.g., Xbox LIVE, http://www.xbox.com/en-US/live; Nintendo Wii U eShop, 
+http://www.nintendo.com/wiiu/eshop; PlayStation Entertainment, http://www.playstation.com/en-
+us/explore/playstationnetwork/apps-and-entertainment/. 
+ 
+18 For more complete lists of available apps see http://support.xbox.com/en-US/xbox-live-status; 
+https://www.playstation.com/en-us/explore/playstationnetwork/entertainment/ and 
+http://www.nintendo.com/eshop/apps. 
+6
+
+[PAGE 7]
+ 
+These features are implemented with layers of software residing on the game console, at 
+least some of which would probably be considered embedded in the console, as well as software 
+powering the various services.  Copyright law is largely responsible for providing necessary 
+incentives for both game and game device makers – ensuring they have the ability to expand 
+features and access and still protect their innovation.  Thus, the video game industry and its 
+innovations to provide consumers with exciting new content – and new ways to interact with 
+content – depend critically upon copyright protection for the software embedded in game 
+consoles and handheld gaming devices (as well as for the various other copyrighted works 
+involved).  These innovations have also been possible because the government has wisely 
+decided to take a light hand in regulating technological innovation.   
+Accordingly, ESA believes that the ubiquity of products containing embedded software 
+should not, in general, be viewed as a problem for copyright law that might require new 
+regulatory intervention, but instead as evidence of the success of copyright law at achieving its 
+intended purposes.  Such embedded software fits well into the current copyright scheme in a way 
+that is indistinguishable from other software.  Outside the software and video game industries, it 
+is possible that the Office may hear complaints concerning commercial practices involving other 
+kinds of products controlled by embedded software.  However, ESA urges the Office to view 
+anecdotal reports of such issues with due skepticism, and to keep solidly in view copyright’s 
+important role of promoting creativity and innovation in the development of software.  The 
+Office should exercise caution in weighing de minimis or hypothetical consumer-protection 
+against the necessary role of strong copyright protection in ensuring creativity and innovation. 
+7
+
+[PAGE 8]
+ 
+II. The Office’s Specific Areas of Inquiry 
+1. The provisions of the copyright law that are implicated by the ubiquity of 
+copyrighted software in everyday products 
+Software, whether embedded in everyday products or not, implicates all the generally-
+applicable provisions of the Copyright Act, as well as specialized provisions in Sections 109(b), 
+109(e) and 117.  Importantly, owners of software copyrights enjoy all the exclusive rights 
+specified in Section 106(1) through (5) and the full range of remedies for infringement specified 
+in Chapter 5.  As described above, these provisions provide the intellectual property foundation 
+for the software and video game industries, and their protections are important whether software 
+is designed to be used on a general-purpose computer or embedded in a video game console, 
+handheld gaming device or other specialized product.19 
+Software is also subject to the generally-applicable limitations on the scope of copyright 
+protection (as well as the specialized provisions of Section 117).  These include the idea-
+expression dichotomy and fair use, which have traditionally been the mechanisms by which 
+copyright law ensures that its important protections do not inadvertently inhibit creativity, 
+innovation and expression.  See, e.g., Golan v. Holder, 132 S. Ct. 873, 889-91 (2012); Eldred v. 
+Ashcroft, 537 U.S. 186, 219-20 (2003).  As the NOI observes, these limitations have proven 
+flexible enough to accommodate innovation through development of products interoperable with 
+those containing embedded software.  See Sony Computer Entertainment v. Connectix Corp., 203 
+19 While we understand that the office wishes to address circumvention of access and copy controls in its separate 
+study of Section 1201, we feel compelled to note here the importance of Chapter 12’s protections against 
+circumvention.  Video game consoles are at the center of an intellectual property ecosystem that makes copyrighted 
+content easily and legally accessible, to the benefit of creators, distributors and the gaming public.  Consoles include 
+technological measures – principally in the form of embedded software – that protect not only the integrity of the 
+console code, but the copyrighted works that run on and are available through the consoles.  They also interact with 
+server-based technological protection measures implemented in software.  These measures provide incentives to 
+create and disseminate video games and other content for consoles, and prevent individuals from making 
+unauthorized copies of this content, distributing it to others or using the console to play pirated copies of such
+ 
+works.  Protection of all this software against circumvention is thus critical to the video game ecosystem.  
+8
+
+[PAGE 9]
+ 
+F. 3d 596, 602-08 (9th Cir. 2000) (disassembly of embedded software in game console, as a 
+necessary step in examination of unprotected elements, was fair use); Sega Enterprises Ltd. v. 
+Accolade, Inc., 977 F. 2d 1510, 1520-28 (9th Cir. 1992) (same).  Related limitations such as the 
+merger and scènes à faire doctrines noted in the NOI play a role in enabling creativity and 
+innovation in software development.20  Software is also subject to Section 109’s first sale 
+doctrine.21  With one exception involving the first sale doctrine,22 copyright law has not 
+previously distinguished between software embedded in everyday products and other types of 
+software.  ESA is not convinced that such a distinction is warranted, or that such a distinction 
+can be drawn in an administrable manner. 
+20 See Computer Associates Intern., Inc. v. Altai, Inc., 982 F. 2d 693, 708-10 (2d Cir. 1992) (merger doctrine permits 
+copying of certain expression dictated by efficiency, and scènes à faire doctrine permits copying of certain 
+expression constituting a standard technique); see also Oracle America, Inc. v. Google Inc ., 750 F. 3d 1339, 1359-
+62, 1363-64 (Fed. Cir. 2014) (discussing application of the merger and scènes à faire doctrines to software, but 
+finding that copying of the particular software at issue was not proven to be permitted by those doctrines). 
+ 
+21 As the Office knows well, the first sale doctrine generally permits the owners of lawful copies of works to part 
+with those copies.  It “does not permit the distribution of a work through digital transmission where copies are 
+created, because the reproduction right is implicated.”  U.S. Dep’t of Commerce, White Paper on Remixes, First 
+Sale, and Statutory Damages, at 35 (2016) [hereinafter “White Paper”], available at 
+https://www.ntia.doc.gov/report/2016/white-paper-remixes-first-sale-and-statutory-damages.  The Office long ago 
+concluded that the first sale doctrine should not be extended to cover digital transmissions because of the differences 
+between the transfer of a physical copy and an online transmission.  U.S. Copyright Office, Report of the Register of 
+Copyrights Pursuant to § 104 of the Digital Millennium Copyright Act, at 97-101 (2001), available at 
+http://www.copyright.gov/reports/studies/dmca/sec-104-report-vol-1.pdf.  The Commerce Department’s Internet 
+Policy Task Force recently agreed that it could not “at this time recommend extending the first sale doctrine to apply 
+to digital transmissions of copyrighted works.”  White Paper at 58.  ESA agrees with this conclusion. 
+ 
+22 An exception to the first sale doctrine provides so-called “rental rights” for most software, allowing the copyright 
+owners of software to prevent rental by owners of copies.  17 U.S.C. § 109(b).  The Act provides an exception to 
+that exception for certain embedded software and video game console software.  17 U.S.C. § 109(b)(1)(B).  Thus, 
+owners of copies of those kinds of software are permitted to rent their copies, while owners of copies of other kinds 
+of software are not.   
+9
+
+[PAGE 10]
+ 
+2. Whether, and to what extent, the design, distribution, and legitimate uses of 
+products are being enabled and/or frustrated by the application of existing 
+copyright law to software in everyday products 
+As described above, copyright protection promotes – and is necessary to enable – 
+creativity and innovation in the development of software and products containing software.
+23  As 
+some of the cases cited above (and others) show, in the absence of strong copyright protection 
+for software, potential competitors can and will discern and copy embedded software, because 
+that is an easier path to getting to market with a software-enabled product than creating original 
+software.24  As a result, copyright infringement is a concern for embedded software as well as for 
+software intended to be used on a general-purpose computer.  The determinations during the 
+1980s that software copyright protection extends to software in executable form, even when 
+embodied in read only memory embedded in a consumer product, have thus been critical to the 
+ubiquity of embedded software that the Office noted in the NOI.  Far from frustrating the 
+legitimate uses of products with embedded software, strong copyright protection has been 
+essential to incentivize the very creation of such products.  
+3. Whether, and to what extent, innovative services are being enabled and/or 
+frustrated by the application of existing copyright law to software in everyday 
+products 
+Copyright protection for software, including embedded software, also enables innovative 
+services.  As ESA’s comments in the Office’s recently-completed anticircumvention rulemaking 
+23 One way copyright protection achieves this result is by enabling licensing, which creates flexible relationships 
+between product providers and their customers, which may include consumer benefits such as the provision of 
+patches and other updates to improve functionality and fix security vulnerabilities, as well as new versions of 
+software. 
+ 
+24 E.g., Apple v. Franklin, 714 F. 2d at 1249 (copying of personal computer ROM software); E.F. Johnson Co. v. 
+Uniden Corp. of Am., 623 F. Supp. 1485, 1503 (D. Minn. 1985) (copying of certain elements of software embedded 
+in radio). 
+10
+
+[PAGE 11]
+ 
+describe in further detail,25 video game consoles are the center of an intellectual property 
+ecosystem that makes both video games and related items and other types of content such as 
+music, movies and television programming easily and legally accessible, to the benefit of 
+creators, distributors and the gaming public.  The video game industry also provides robust, 
+interconnected online experiences that leverage users’ Internet connectivity to supplement game 
+play.  These immersive gaming experiences include multiplayer game play, chat 
+communications, sharing of user-generated content, leaderboards, achievement markers, access 
+to updated data for sports games, downloadable content, opportunities for users to create virtual 
+worlds, and more realistic game experiences enabled by server-based game calculations.  These 
+services typically are offered separately from the purchase of the game console or any particular 
+game itself.  All of these services are anchored by embedded software in game consoles and 
+handheld gaming devices that provides a user-friendly and secure platform for these services.  
+Absent copyright protection for the embedded software to provide a secure, trusted platform for 
+these services, copyright owners would be legitimately concerned that their content could easily 
+be infringed if made available through such services.  Weakening copyright protection for that 
+embedded software could thus threaten services and business models that depend upon having a 
+trusted platform for the dissemination of content. 
+4. Whether, and to what extent, legitimate interests or business models for 
+copyright owners and users could be undermined or improved by changes to the 
+copyright law in this area 
+ESA believes that current copyright law as applied to software (both embedded in 
+everyday products and otherwise) is, in general, working reasonably well to enable innovation 
+25 ESA Comment on Proposed Class 19 in Docket No. 2014-07 (Mar. 27, 2015), available at 
+http://copyright.gov/1201/2015/comments-
+032715/class%2019/Entertainment_Software_Association_Class19_1201_2014.pdf; ESA Comment on Proposed 
+Class 23 in Docket No. 2014-07 (Mar. 27, 2015), available at http://copyright.gov/1201/2015/comments-
+032715/class%2023/Entertainment_Software_Association_Class23_1201_2014.pdf.  
+11
+
+[PAGE 12]
+ 
+and creativity not only as software-enabled products themselves, but as to products and services 
+that depend upon such products.  After decades of strong copyright protection for software that 
+have seen more technological innovation than any similar period in human history, it is clear that 
+the law does not need to change to enable new products, services or business models.  The Office 
+should take care to ensure that any proposed changes to copyright law do not jeopardize the 
+benefits the public has realized from the incentives to creativity and innovation provided by 
+strong copyright protection and the ability of platform providers to create secure, legally-
+protected environments for the dissemination of copyrighted content.
+26 
+5. Key issues in how the copyright law intersects with other areas of law in 
+establishing how products that rely on software to function can be lawfully used 
+Software is commonly licensed, including sometimes, embedded software.  However, a 
+competitive consumer marketplace provides ample incentives for software providers that wish to 
+license their software, rather than selling copies of it, to adopt appropriate consumer licensing 
+practices.  It also has never been the role of copyright law to regulate consumer contracts.  Now 
+is not the time to begin using copyright law as a vehicle for imposing supposed consumer-
+protection requirements, nor should the Office advocate any government intervention into 
+software licensing markets. 
+III. Conclusion 
+ESA welcomes the Office’s examination of copyright protection for embedded software 
+and believes that, when the record is closed, it will be clear that strong copyright protection for 
+26 To the extent that this inquiry is based on concerns about the role of embedded software as to issues such as 
+cellphone unlocking, access to motor vehicle software for maintenance, and medical device testing (issues that arose 
+in the last triennial rulemaking), ESA understands that such concerns should be addressed within the context of the 
+Office’s Section 1201 study.  See NOI, 80 Fed. Reg. at 77,669 (“[t]his study is not the proper forum for issues 
+arising under section 1201 of the Copyright Act”).  In any event, even the software implicated by such concerns 
+deserves the full protection of copyright law. 
+12
+
+[PAGE 13]
+software has been a tremendous policy success. While the Office may hear complaints of
+isolated issues or proposals for supposed consumer protection regulations, now is not the time to
+question basic principles of software copyright protection that have enabled decades of creativity
+and innovation and produced the ubiquitous presence of software in our daily lives. The Office
+should proceed cautiously to ensure that copyright continues to perform its role as an enabler of
+creativity and innovation for the next 40 years as much as it has for the last 40 years.
+February 16, 2016
+Stanley Pierre-Louis,
+Senior Vice President and General Counsel
+Respectfully submitted,
+~. , ~ "~-,,.
+~~
+.~-'` «
+Steven R. Englund
+Kenneth L. Doroshow
+Ben Golant, JENNER &BLOCK LLP
+Chief Counsel for Intellectual Property Policy 1099 New York Ave., N.W.
+Entertainment Software Association
+575 7th Street, N.W., Suite 300
+Washington, D.C. 20004
+(v) 202-223-2400
+stan@theESA.com
+bgolant@theESA.com
+Of Counsel
+Washington, D.C. 20001
+(v) 202-639-6000
+senglund@jenner.com
+kdoroshow@j enner. com
+Counsel for the Entertainment Software
+Association
+13

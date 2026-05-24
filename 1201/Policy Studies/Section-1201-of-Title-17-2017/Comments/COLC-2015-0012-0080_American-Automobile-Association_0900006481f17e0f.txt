@@ -1,0 +1,336 @@
+[PAGE 1]
+1 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+       Before the 
+United States Copyright Office, Library of Congress 
+Washington, D.C.
+ 
+ 
+ 
+In the Matter of 
+Section 1201 Study:  Docket No. 2015-8 
+Notice and Request for Public Comment 
+ 
+ 
+ 
+Reply Comments of AAA (American Automobile Association) 
+       
+I. Introduction and Summary  
+  
+With more than 56 million members, AAA (American Automobile Association) is a not-for-profit 
+member services organization dedicated to improving the experiences of America’s motorists.  To  that 
+end, we have worked over many years with Federal and State agencies to promote driver-friendly policies 
+such as highway infrastructure investment, road safety, and fuel efficiency.  We  look forward to 
+continuing our efforts on behalf of motorists by working with the Copyright Office as it develops 
+exemptions to Section 1201(a) of the Digital Millennium Copyright Act (DMCA) to permit motorists to 
+repair or modify their vehicles. 
+  
+AAA submits these reply comments in the above-captioned proceeding to urge the Librarian of 
+Congress (“Librarian”) to maintain long-standing consumer choices in car repair.  AAA commends the 
+Librarian’s grant of a limited exemption for Class 21 to permit circumvention by the authorized owner of 
+the vehicle to allow for diagnosis, repair, or lawful modification.  However, AAA agrees with 
+commenting parties, including the Auto Care Association, Electronic Frontier Foundation, and the 
+Consumer Technology Association, who conclude that this exemption does not go far enough to mitigate 
+the adverse effects of the circumvention prohibition in Section 1201(a).  The Librarian can and should 
+extend the exemption beyond vehicle owners themselves, to third-parties who perform work at the request 
+of the vehicle owners.  AAA also urges the Librarian to focus only on its expertise, copyright issues, in 
+the triennial review, and to adopt a rebuttable presumption in favor of previously granted exemptions.  
+ 
+II. Consumers Should be Able to Have Choices in Car Repair 
+ 
+ Consumers have historically had and should continue to have choices with respect to how their 
+vehicles are repaired—either  performing the work themselves or with the assistance of the mechanic of 
+their choosing. 
+   
+ Washington Office 
+ 607 14th Street, NW, Suite 200 
+ Washington, DC 20005 
+202/942-2050 
+FAX: 202/783-4788 
+Public Affairs
+
+[PAGE 2]
+2 
+ 
+ For over a century, many American motorists have repaired and modified their cars and trucks 
+themselves.  They do so to save money, to repair a problem, to adjust a vehicle to better meet their driving 
+needs, or simply because they enjoy working on one of their most prized (and expensive) possessions.  
+This sort of do-it-yourself repair and personalization is a critical element of the American car culture.1  
+Countless magazines and TV shows are devoted to helping backyard mechanics hone their skills and 
+share their enthusiasm for this hobby with fellow motorists.   
+ 
+ The explosion of sophisticated technology in modern cars has increased safety, efficiency, 
+performance, and environmental standards, but has also dramatically increased the difficulty of working 
+on one’s own car.  To the extent that they do not have the inclination or capability to repair their vehicles 
+themselves, consumers want the ability to choose their preferred mechanic and do not want to be limited 
+to manufacturer-affiliated dealers.  “Studies confirm that consumers prefer to obtain parts and service 
+from independent businesses rather than dealerships – benefitting from . . .  higher consumer satisfaction 
+from local repair shops and neighborhood mechanics.”2  “Motorists faced with no alternative but to have 
+their vehicles serviced at a dealership may be limited in their ability to get competitive prices, convenient 
+locations, or the option of getting a second opinion.”3  In particular, because replacement parts and 
+services from independent manufacturers and repair shops are less expensive than those supplied by 
+original equipment manufacturers (“OEMs”) and dealers, “competition from these independents 
+constrains supracompetitive pricing by OEMs.”4   Independent repair shops have become even more 
+important as the growth in software-controlled systems and functions has made it more difficult for 
+consumers to repair their vehicles themselves.  These shops “have the equipment, knowledge, and 
+experience necessary to address the consumer’s problem accurately and in compliance with laws and 
+regulations pertinent to motor vehicles.”5  Accordingly, independent repair shops provide a much-needed 
+and cost-effective choice for consumers.    
+ 
+III. The Prohibition in Section 1201(a) Interferes with These Long-Standing Consumer Choices 
+(Question 7) 
+  
+As the computer technology in vehicles has become increasingly sophisticated, the prohibition on 
+circumvention in Section 1201(a) of the DMCA has impeded consumers’ choices with respect to the 
+repair and modification of their vehicles.  
+ 
+ Modern vehicles are equipped with software and computers that monitor and control a variety of 
+vehicle functions, known as electronic control units (“ECUs”).  “As modern vehicles have become more 
+reliant on software to operate, a wide variety of diagnostic, repair and modification activities now require 
+access to and sometimes alteration of those computer programs, including identifying malfunctions, 
+                                                 
+1 AAA Class 21 Supp. Reply Comments, at 1.  
+2 Comments of Auto Care Association, at 4 (citing “Independent vs. dealer shops for car repair,” Consumer Reports, Jan. 22, 
+2015 (available at http://www.consumerreports.org/cro/magazine/2015/03/best -places-to-get-your-car-repaired/index.htm)).  
+3  “AAA to Congress: Support Right to Repair Act,” Auto Service Professional , May 18, 2011 (available at 
+http://www.autoserviceprofessional.com/article/91579/aaa-to-congress-support-right-to-repair-act).  “Right to Repair” refers to 
+the concept that a consumer, or a person designated by the consumer, should have access to information that the consumer’s 
+own vehicle generates in order to assist in the repair, maintenance  or enjoyment of the vehicle.   
+4 Comments of Auto Care Association, at 4; see also  “Is the Dealer Better Than An Independent Mechanic?,” The Wall Street 
+Journal, May 17, 2010 (available at http://blogs.wsj.com/d rivers-seat/2010/05/17/is-the-dealer-better-than-an-independent-
+mechanic/) (discussing study showing that consumers can save an average of about $300 a year, or 25% of their repair bills, b y 
+going to an independent repair shop), “Where to Repair? Dealer or  Independent,” CarTalk, last visited March 30, 2016 
+(available at http://www.cartalk.com/content/where -repair-dealer-or-independent) (discussing study showing that dealers 
+charged 15% more than independent repair shops for the same repairs).  
+5 Comments of Auto Care Association, at 4-5.
+
+[PAGE 3]
+3 
+ 
+installing replacement parts, and customizing vehicles for specialized uses.”6   However, the use by 
+vehicle manufacturers of technological protection measures (“TPMs”) that restrict access to these 
+computer programs impedes consumers’ ability to repair or modify their vehicles.  The Register rightfully 
+concluded that “TPMs have a substantial adverse impact on the ability of vehicle owners to engage in 
+diagnosis, repair or modification of their vehicles”7 and therefore, the Librarian adopted an exemption 
+that permits circumvention for the purposes of the diagnosis, repair or lawful modification of a vehicle 
+function, but only to the extent undertaken by the authorized owner of the vehicle.8 
+ 
+ This exemption, while salutary, does not go far enough in mitigating the adverse impact of TPMs 
+because in many instances vehicle owners do not have the knowledge, expertise, or expensive equipment 
+to circumvent TPMs themselves and thus must use a repair shop.9  AAA agrees with the Auto Care 
+Association that “[w]ithout means for the individual to circumvent or to effectuate modifications and 
+repairs, the consumer benefits derived from the exemption could be severely limited, and the purposes of 
+Section 1201(a) will have been defeated.”10  Under the existing exemption, vehicle owners who cannot 
+personally access their vehicles’ electronic functions are limited to using factory-authorized dealers for 
+diagnosis, repair, and modification.  This  harms consumers because dealers generally charge more than 
+independent shops for service, and because it limits the universe of service providers in a geographic area, 
+reducing competition on both price and quality of service.  It also forces consumers with long-standing 
+relationships with independent repair shops to abandon those relationships.  Therefore,  this exemption 
+should be extended to third parties who act on vehicle owners’ behalf, in particular, independent service 
+providers. 
+ 
+ AAA agrees with the Electronic Frontier Foundation (“EFF”) that the Class 21 exemption can and 
+should be extended to non-infringing activities requiring circumvention undertaken by an approved third 
+party on behalf of a vehicle owner.
+11  Although the Register was “sympathetic to the practical issues that 
+may arise if vehicle owners do not have the knowledge or ability to circumvent TPMs themselves,” the 
+Register declined to recommend an exemption for circumvention by third-parties on vehicle owners’ 
+behalves because it “may implicate the anti-trafficking provisions set forth in section 1201(a)(2) and 
+(b).”12  The anti-trafficking rules set forth in sections 1201(a) and (b) generally prohibit the manufacturer 
+and provision of technologies, products, or services—or  “part[s] thereof”—that  are “primarily” designed 
+for purposes of circumvention or have “only limited commercially significant purpose or use other than to 
+circumvent.”13  However, as EFF notes, circumvention by third parties on behalf of a vehicle owner for 
+purposes of diagnosis, repair, or modification does not necessarily violate the anti-trafficking 
+provisions.14   
+ 
+For example, a comprehensive auto repair service may incidentally require circumvention 
+of access controls on vehicle software in order to access diagnostic data or adjust settings.  
+Such a service would not be “primarily designed or produced for the purpose of 
+                                                 
+6  Section 1201 Rulemaking: Sixth Triennial Proceeding to Determine Exemptions to the Prohibition on Circumvention, 
+Recommendation of the Register of Copyrights (Oct. 8, 2015) (“2015 Recommendation of the Register”), at 218. 
+7 Id. at 239. 
+8 Exemption to Prohibition on Circumvention of Copyright Protection Systems for Access Control Technologies , Final Rule, 80 
+Fed. Reg. 65944, 65954-55 (Oct. 28, 2015).  
+9 See Comments of Electronic Frontier Foundation (“EFF”), at 10 (noting t hat “access to software embedded in a vehicle for 
+purposes of diagnosis and repair is beyond the ability of most vehicle owners but can be done with the assistance of an 
+independent mechanic”).  
+10 Comments of Auto Care Association, at 10. 
+11 Comments of EFF, at 10-11.  
+12 2015 Recommendation of the Register, at 246 (emphasis added).  
+13 17 U.S.C. § 1201(a)(2), (b).  
+14 Comments of EFF, at 10.
+
+[PAGE 4]
+4 
+ 
+circumventing a technological measure,” as the primary purpose of the service is the 
+repair, not the circumvention.  Likewise, such a service would have a “commercially 
+significant purpose” other than circumvention and would not likely be “marketed . . . for 
+use in circumvention.”15 
+ 
+AAA agrees with EFF that nothing in Section 1201(a)(1) requires the Librarian to deny an exemption 
+because it could be used to violate other sections of the statute.  In fact, the statute itself suggests just the 
+opposite because section 1201(a)(1)(E) states that exemptions established in rulemakings conducted 
+pursuant to section 1201(a)(1)(C) may not be “used as a defense in any action to enforce any provision of 
+this title other than [section 1201(a)(1)].”16  Thus, this provision presupposes that an occasion to raise 
+such a defense might arise.  AAA agrees with EFF’s analysis of the statutory text:  “If the Librarian were 
+forbidden to grant exemptions for which some uses might constitute trafficking, then section 
+1201(a)(1)(E) . . . would be superfluous.”17  Therefore, a careful reading of the statutory language leads to 
+the conclusion that the Librarian can extend the Class 21 exemption under the existing to include 
+circumvention undertaken by third parties on behalf of the authorized vehicle owner to allow the 
+diagnosis, repair, or lawful modification of a vehicle function.  
+ 
+IV. The Section 1201 Rulemaking Process Should Focus Only on Copyright Issues (Question 2) 
+  
+AAA agrees with the Auto Care Association, EFF, and Consumer Technology Association 
+(“CTA”) that the triennial review process under Section 1201(a) should not incorporate interests that are 
+outside of core copyright concerns.
+18 
+ 
+ First, the Librarian has been assigned by Congress the job of implementing the DMCA because of 
+its expert in copyright law; the Librarian is not expert in, and does not have expert staff to analyze, claims 
+concerning the impact of an exemption on air pollution, fuel economy standards, vehicle safety, or any 
+other non-Copyright Act issues.  Congress  has assigned authority over those realms to different expert 
+agencies.  The  Register itself has acknowledged that these “significant public policy issues fall[] within 
+the expertise and authority of other government agencies”19 and that “many of the issues that were raised 
+in [the 2015 triennial review] would be more properly debated by Congress or the agencies with primary 
+jurisdiction in the relevant areas.”20  That conclusion is unmistakably right, and the Librarian should 
+embrace the full import of its meaning.  Congress could not have intended to assign those issues to the 
+Librarian when expert agencies such as the Environmental Protection Agency, the National Highway 
+Traffic Safety Administration, and state regulators already have jurisdiction over those areas.  The  CTA 
+and Auto Care Association rightfully point out that Section 1201(a) assigns only to the Department of 
+Commerce the job of advising the Register.21   
+ 
+ Second, AAA agrees with the Auto Care Association that the DMCA requires the Librarian to 
+consider factors only that are relevant to copyright law.22  Section 1201(a)(1)(C) enumerates the factors 
+                                                 
+15 Id. at 10-11 (citations omitted).  
+16 17 U.S.C. § 1201(a)(1)(E); Comments of EFF, at 11.  
+17 Comments of EFF, at 11. 
+18 Comments of Auto Care Association, at 7 -8; Comments of EFF, at 4 -8; Comments of Consumer Technology Association 
+(“CTA”), at 6-7.  
+19 2015 Recommendation of the Register, at 242. 
+20 Id. at 2 (emphasis added).  
+21  Comments of CTA, at 7; Comments of Auto Care Association, at 7; 17 U.S.C. § 1201(a)(1)(C); see also  2015 
+Recommendation of the Register, at 9 (noting that “Congress directed the Register, in turn, to consult with the Assistant 
+Secretary for Communications and Information of the Department of Commerce, who oversees NTIA, in the course of 
+formulating her recommendation”). 
+22 Comments of Auto Care Association, at 7-8.
+
+[PAGE 5]
+5 
+ 
+that the Librarian “shall examine” in conducting the rulemaking to determine whether users of a 
+copyrighted work are, or are likely to be, adversely affected by the anti-circumvention prohibition in their 
+ability to make noninfringing uses of a particular class of copyrighted works under the Copyright Act.  As 
+the Auto Care Association points out, clauses 1201(a)(1)(C)(i)–(iv) “are tethered to the purposes of the 
+Copyright Act”—the  availability for use of copyrighted works; the availability of copyrighted works for 
+socially beneficial purposes; and the effect of circumvention on the market for or value of the copyrighted 
+works.23  Although Section 1201(a)(1)(C)(iv) dictates that the Librarian shall examine “such other factors 
+as the Librarian considers appropriate,” the interpretive principle of ejusdem generis—that  “[w]here 
+general words follow specific words in a statutory enumeration, the general words are construed to 
+embrace only objects similar in nature to those objects enumerated by the preceding specific words”24—
+means that those other factors must be of the same nature as the copyright interests enumerated in the 
+previous factors.  Accordingly, the factors in the statute must be “understood and applied within the scope 
+of the powers of the Copyright Office and the Librarian under the copyright laws.”25   
+ 
+ Finally, considering non-copyright interests such as air pollution, fuel economy standards, and 
+vehicle safety in the Section 1201 process is not necessary to further those interests.  AAA is committed 
+to making progress on these important issues.  AAA  believes, however, that they are already adequately 
+addressed by the agencies with the expertise and oversight of such issues.  Most  importantly, an 
+exemption under Section 1201 does not afford the recipient license to violate any other applicable law or 
+regulation, e.g., safety or fuel economy standards.  That  is true under the existing exemption for an 
+owner’s circumvention, and that would be true if the repair work was done at the direction of the car 
+owner by an independent repair shop.  Thus, it would be illegal for a car owner to use the Class 21 
+exemption to modify her car’s ECU such that the car violated emissions standards.  AAA agrees with the 
+Auto Care Association that “[t]hose laws apply regardless of the Librarian determination and without any 
+delay or grace period under an exemption.”26  Further, the Librarian has reinforced this principle by 
+conditioning the Class 21 exemption on compliance with all applicable law.  Thus, a person who 
+circumvents a TPM in a manner that violates another law, whether the vehicle owner or a third-party 
+repair shop, both will be liable for that violation and cannot avail herself of the exemption.  AAA believes 
+that this regime adequately accounts for these non-copyright interests.  
+ 
+ The Alliance of Automobile Manufacturers argues that other regulatory agencies “should not only 
+be asked their views on how granting the proposed exemption would impact their regulatory efforts, but 
+also to provide suggestions on how any such exemption might be crafted or modified to minimize adverse 
+impacts.”27  This is unnecessary because any behavior that seeks to take advantage of an exemption is 
+already subject to and constrained by laws and regulations in those non-copyright law areas, and it is 
+contrary to Congress’s intent because these factors lie beyond the core copyright concerns it has 
+instructed the Librarian to consider. 
+ 
+ 
+ 
+ 
+ 
+ 
+                                                 
+23 Id. at 7; 17 U.S.C. § 1201(a)(1)(C)(i)-(iv).  
+24 Wash. State Dep’t of Soc. & Health Servs. v. Guardianship Estate of Keffeler, 537 U.S. 371, 384 (2003) (citation omitted). 
+25 Comments of Auto Care Association, at 8. 
+26 Id. 
+27 Comments of Alliance of Automobile Manufacturers, at 5.
+
+[PAGE 6]
+6 
+ 
+V. The Section 1201 Rulemaking Process Should Incorporate A Rebuttable Presumption In 
+Favor Of Renewal (Question 3)   
+  
+AAA agrees with the Register, Auto Care Association, EFF, and CTA that exemptions granted in 
+a prior triennial review should enjoy a presumption of renewal in subsequent rulemakings.28  However, 
+this presumption should be rebuttable by a showing that circumstances have changed during the previous 
+three-year period in a way that justifies a reevaluation of the exemption.   
+  
+The Register has acknowledged that “the rulemaking procedure, as enacted by Congress, is 
+resource-intensive for both participants and the Office.”
+29   In addition, a number of the petitions 
+submitted during the most recent triennial review “essentially sought renewal of existing exemptions” and 
+were unopposed. 30   A presumption in favor of existing exemptions would be more administratively 
+efficient and would streamline the rulemaking process because commenters and the Librarian would not 
+have to rehash issues that have already been considered and decided.  
+ 
+ The presumption should, however, be rebuttable by a showing of materially changed 
+circumstances.  A rebuttable presumption takes advantage of the Librarian’s previous consideration of the 
+exemption, but also allows the rulemaking process to continue to account for changing circumstances 
+over time and different marketplace realties, addressing the Alliance of Automobile Manufacturers’ 
+concern that “[m]ost of the markets relevant to proposed exemptions are dynamic and fast-changing.”
+31  
+A rebuttable presumption in favor of renewal would still allow an opponent to the exemption to raise 
+“[i]ssues such as whether technological changes or market developments have created new alternatives to 
+circumvention that did not exist three years previously, or have made circumvention less (or more) 
+necessary to carry out specified non-infringing uses.”32  
+ 
+VI. Conclusion   
+  
+AAA thanks the Copyright Office for conducting this study and appreciates the opportunity to 
+provide its views.  For the foregoing reasons, AAA submits that (1) the Librarian should extend the Class 
+21 exemption to permit third-party assistance to vehicle owners and has the ability to do so under the 
+statute as currently drafted (question 7); (2) the rulemaking process conducted pursuant to section 1201 
+should not accommodate interests that are outside of core copyright concerns (question 2); and (3) section 
+1201 should be adjusted so that exemptions granted in a prior triennial review should enjoy a rebuttable 
+presumption of renewal in subsequent rulemakings (question 3).  
+        
+Respectfully submitted, 
+ 
+Managing Director, Government Relations and Traffic Safety Advocacy 
+ 
+         
+ 
+                                                 
+28 2015 Recommendation of the Register, at 4 (citing The Register’s Perspective on Copyright Review Hearing at 27 (statement 
+of Maria A. Pallante, Register of Copyrights and Dir., USCO)); Comments of Auto Care Association, at 8 -9; Comments of 
+EFF, at 8-9; Comments of CTA, at 7.  
+29 Library of Congress, Exemption to Prohibition on Circumvention of Copyright Protection Systems for Access Control 
+Technologies, Dkt. No. 2014-07, Notice of Inquiry, 249 Fed. Reg. 55687, 81371 (Dec. 29, 2015). 
+30 Id.  
+31 Comments of Alliance of Automobile Manufacturers, at 6. 
+32 Id.

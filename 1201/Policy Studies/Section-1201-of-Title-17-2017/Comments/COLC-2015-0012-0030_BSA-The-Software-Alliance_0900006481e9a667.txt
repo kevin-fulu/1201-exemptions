@@ -1,0 +1,92 @@
+[PAGE 1]
+March 3, 2016 
+The Honorable Maria Pallante 
+Register of Copyrights 
+United States Copyright Office 
+101 Independence Ave., S.E. 
+Washington, D.C. 20559  
+Re: Section 1201 Study; Notice and Request for Public Comments [Docket No. 2015-8] 
+Dear Ms. Pall
+ante: 
+BSA | The Software Alliance (“BSA”) appreciates this opportunity to respond to the Copyright Office’s 
+Request for Public Comments on the “impact and efficacy” of the Section 1201 anti-circumvention provisions 
+and the triennial rulemaking process.1 As the leading advocate for the global software industry in the United 
+States and around the world, BSA is uniquely positioned to offer perspectives on the many ways in which 
+companies have leveraged Section 1201’s protections to facilitate the development of new distribution 
+models designed to meet, and in many cases exceed, consumer demands. BSA members are among the 
+world’s most entrepreneurial companies, creating software solutions that spark the economy and improve 
+modern life.2 
+In its report on the Digital Millennium Copyright Act, the House Judiciary Committee explained that Section 
+1201 was designed to encourage the use of technological protection measures with two objectives in mind: 
+(1) to “prevent piracy and other economically harmful uses of copyrighted materials,” and (2) to “support new
+ways of disseminating copyrighted materials to users.”3 BSA members have since the passage of the DMCA
+used technological protection measures for precisely these purposes.
+Technological protection measures have made possible the software industry’s evolution of distribution 
+models from retail sales of packaged software, to the on-line distribution of software, and more recently to a 
+cloud-based software-as-a-service model. Whereas consumers’ use of software was once limited to a 
+physical copy for use on a single device, access control technologies have enabled BSA members to offer 
+account-based solutions that provide customers with affordable, immediate access to software anywhere, 
+anytime and on any device. In this way, technological protection measures have enabled BSA members to 
+make their innovations more broadly available to customers under more flexible terms and at more 
+affordable prices while preserving the commercial value of the underlying work. The software industry has, 
+of course, developed these distribution models to meet consumer demands.   
+However, Section 1201’s prohibition on circumvention and trafficking in circumvention technologies are 
+important to encouraging the development and deployment of new business and delivery models while 
+safeguarding protected works.    
+As the Request for Public Comments notes, technological measures can potentially impact activities 
+unrelated to the “core concerns of copyright” and in isolated instances may be used to impede legitimate 
+1 U.S. Copyright Office, Library of Congress, Section 1201 Study: Notice and Request for Public Comment, 80 Fed. Reg. 
+81369 (Dec. 29, 2015) [hereinafter 1201 Study RFC] 
+2 BSA’s members include: Adobe, ANSYS, Apple, Autodesk, Bentley Systems, CA Technologies, CNC/Mastercam, 
+DataStax, Dell, IBM, Intuit, Microsoft, Minitab, Oracle, Salesforce, SAS Institute, Siemens PLM Software, Symantec, 
+Tekla, The MathWorks, Trend Micro and Workday. 
+3 Staff of H. Comm. On the Judiciary, 105th Cong., Section-by-Section Analysis of H.R. 2281 as Passed by the United 
+States House of Representatives on August 4th, 1998, at 6 (Comm. Print 1998).  
+20 F Street NW, Suite 800 P 202 -872 -5500 
+Washington, DC 20011 W bsa.org
+
+[PAGE 2]
+The Honorable Maria Pallante 
+March 3, 2016 
+Page 2 
+activities, consumer choice or  robust market competition.4 For these reasons, BSA members support not 
+only the protections of Section 1201, but also appropriate exceptions to those protections – including many 
+of those adopted by rulemaking. We recognize the importance of the balance Congress struck in enacting 
+Section 1201, and of the Copyright Office’s efforts to maintain that balance through its triennial rulemaking. 
+Given the rapid pace at which technology and the methods of attacking technological measures are 
+evolving, we also welcome efforts by the Copyright Office to ensure that Section 1201 as a whole continues 
+to strike the proper balance.  
+Many of the concerns mentioned by the Copyright Office in the Request for Public Comment were, in fact, 
+anticipated by Congress. For instance, recognizing the potential for Section 1201 to impede certain non-
+infringing uses of copyrighted works, Congress included within the statute a number of statutory exemptions. 
+In addition, Congress anticipated the potential for unforeseen technological changes to alter the balance of 
+the statute in ways that could frustrate its ultimate objectives. Therefore, Congress wisely included within 
+Section 1201 a “a ‘fail-safe’ mechanism” in the form of the triennial rulemaking to “monitor developments in 
+the marketplace for copyrighted materials, and allow the enforceability of the prohibition against the act of 
+circumvention to be selectively waived, for limited time periods, if necessary to prevent a diminution in the 
+availability to individual users of a particular category of copyrighted materials.”5    
+Rather than amending Section 1201 in a manner that could undermine its fundamental balance, we 
+encourage the Copyright Office to focus on identifying ways to improve the efficacy of the rulemaking 
+process. The procedural reforms implemented as part of the sixth triennial rulemaking demonstrate that 
+Section 1201 provides the Copyright Office with significant flexibility to adjust the rulemaking in ways that 
+improve its efficiency.6 BSA also supports the approach taken by the Copyright Office in the sixth triennial 
+rulemaking to address proposed exemptions that implicate public policy concerns other than copyright. 
+When a proposed exemption raises public policy considerations outside of the Copyright Office’s expertise, 
+the Copyright Office should continue to seek guidance from agencies with primary jurisdiction in the relevant 
+areas.   
+In our view, the framework set forth in Section 1201 continues to accomplish the important goals, and 
+maintain the balance, envisioned by Congress. Importantly, the Copyright Office has exercised its 
+stewardship over the Section 1201 rulemaking process to address specific problems as they arise, which 
+can change quickly as technology and market demands evolve. While it may be appropriate to consider 
+further improvements in the triennial process itself, we believe there is currently no factual basis or 
+justification to warrant change in the fundamental structure of Section 1201.  
+Thank you again for the opportunity to share our views on these important issues. 
+Sincerely, 
+Christia
+n Troncoso 
+Director, Policy 
+4 1201 Study RFC at 81372. 
+5 H.R. Rep. No. 105-551, pt. 2, at 36 (1998). 
+6 See 1201 Study RFC at 81371. 
+20 F Street NW, Suite 800 P 202 -872 -5500 
+Washington, DC 20011 W bsa.org

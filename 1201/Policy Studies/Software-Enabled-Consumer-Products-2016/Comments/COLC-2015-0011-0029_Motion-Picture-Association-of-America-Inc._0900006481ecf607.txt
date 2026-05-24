@@ -1,0 +1,355 @@
+[PAGE 1]
+ 
+1 
+ 
+ 
+Before the 
+COPYRIGHT OFFICE 
+LIBRARY OF CONGRESS 
+Washington, D.C. 
+ 
+ 
+ 
+___________________________________ 
+ )  
+In the Matter of )  Docket No. 2015-6 
+ ) 
+Software-Enabled Consumer Products ) 
+Study ) Submitted March 18, 2016  
+___________________________________ )  
+ 
+REPLY COMMENTS OF THE 
+MOTION PICTURE ASSOCIATION OF AMERICA, INC. 
+ 
+I. INTERESTS OF COMMENTING PARTY 
+The Motion Picture Association of America, Inc. (“MPAA”) is a not-for-profit trade 
+association founded in 1922 to address issues of concern to the U.S. motion picture industry. Its 
+members are: Paramount Pictures Corporation, Sony Pictures Entertainment Inc., Twentieth 
+Century Fox Film Corporation, Universal City Studios LLC, Walt Disney Studios Motion 
+Pictures, and Warner Bros. Entertainment Inc. The MPAA’s members and their affiliates are the 
+leading producers and distributors of filmed entertainment in the theatrical, television, and home 
+entertainment markets. The MPAA’s members distribute copies of those works on DVDs and 
+Blu-Ray discs and increasingly offer their works online as well, including through digital 
+downloads and streaming, thus making those works more readily available to consumers and 
+businesses than ever before. 
+ 
+The issue that is the focus of this Notice of Inquiry (“NOI”) – “the role of copyright law 
+with respect to software-enabled consumer products” – does not directly implicate the business 
+practices of the MPAA’s members, at least as we understand that phrase.1 However, a number of 
+                                                           
+1 As do other commenters on various points of the copyright spectrum, the MPAA doubts that “everyday products” 
+is a meaningful category for making distinctions within copyright law. See, e.g., Public Knowledge Comments at 2 
+(“[P]utting smartphones in one category and ‘everyday’ products such as software -enabled rice cookers and 
+thermostats in another – would be a mistake.”); Comments of the Owners’ Rights Initiative at 1-2 (“These 
+distinctions [between ‘consumer products’ or ‘everyday products’ and other software-embedded products have little 
+meaning in a world where individuals run businesses out of their homes on their laptop computers, where over 200 
+million Americans own smart phones that can operate millions of apps, and where an Internet of things is emerging 
+in which a wide range of products have network connectivity that allow them to collect and exchan ge data.”);
+
+[PAGE 2]
+ 
+2 
+ 
+the comments filed in the initial round make broad arguments about licensing of copyrighted 
+works that potentially implicate the distribution of motion pictures and television programs. And 
+the line between “everyday products” and products that provide access to audiovisual works is 
+likely to become increasingly blurry in coming years; we already live, after all, in a world where 
+“smart fridges” boast “Kitchen TVs,”2 and cars serve as an extension of the driver’s iPhone, 
+providing easy access to the entertainment content stored within (or in the cloud).3 Thus, while 
+the MPAA did not file comments in response to the NOI in the initial round, we offer the 
+following views to ensure the continued vitality of a licensing regime that has resulted in an 
+unprecedented array of options for consumers to experience the MPAA members’ works. 
+ 
+II. OVERVIEW OF MPAA MEMBERS’ LICENSING PRACTICES 
+ 
+The MPAA members’ distribution of movies and television programs to consumers is 
+increasingly accomplished by providing access to such works, rather than via ownership of 
+physical media (e.g., DVDs and Blu-ray discs) embodying those works.4 Such access-based 
+models typically involve licensing arrangements between the copyright owner and a distributor 
+(e.g., iTunes, Hulu, Comcast, Verizon, etc.), which in turn is a party to a license agreement with 
+the ultimate end-user (the consumer). Together, these licensing arrangements set the terms on 
+which the consumer may experience the work: on what devices he or she may view the work, 
+how long such access will last (e.g., a 48-hour “rental” versus a download), and of course the 
+price of such access. They accordingly facilitate access to creative works on terms that match the 
+customer’s tastes and needs, at affordable price points. 
+ 
+Such licensing arrangements have resulted in a veritable explosion of consumer access to 
+movies and television programs over the past two decades. In the past four years alone, the 
+number of lawful online sources for television and movie content has almost doubled, and the 
+                                                           
+Comments of the Software and Information Industry Association at 11-12 (“The distinction that the NOI purports to 
+draw between ‘everyday consumer products’ and ‘non-everyday’ products would destroy both software providers 
+and manufacturers’ abilities to protect product integrity and is one that the copyright law does not, cannot, and 
+should not draw.”); Comments of the Copyright Alliance at 3 (“Attempting to single out a categ ory of software or 
+types of ‘everyday products’ that could potentially receive different treatment under the copyright law is an 
+approach that is likely to result in inadvertent consequences for software developers and consumers. It would also 
+add layers of complexity to a law that some copyright owners and users already criticize for being too complex and 
+unwieldy.”). 
+ 
+2 See CNET, “Samsung takes another swing at the smart fridge,” June 11, 2014 ( “Aside from the addition of phone 
+mirroring and kitchen calling, Samsung’s new fridge also boasts a new ‘Kitchen TV’ feature. Owners of connected 
+TVs capable of transmitting to external devices will be able to share their antenna’s signal with the smart fridge, and 
+play the broadcast from the kitchen.”), available at http://www.cnet.com/products/samsung-rf28hmelbsr-4-door-
+refrigerator-with-8-wi-fi-enabled-lcd/. 
+ 
+3 See Ars Technica, “‘iOS in the Car’ becomes CarPlay, coming to select dashboards this year,” March 3, 2014, 
+available at http://arstechnica.com/apple/2014/03/ios-in-the-car-becomes-carplay-coming-to-select-dashboards-this-
+year/.  
+ 
+4 See generally Department of Commerce Internet Policy Task Force, White Paper on Remixes, 
+First Sale, and Statutory Damages (January 2016) at 42 (“Many participants and commenters described a 
+marketplace that is evolving from services involving the distribution of copies to those in which consumers are 
+offered different levels of access at a choice of price points.”).
+
+[PAGE 3]
+ 
+3 
+ 
+number of TV episodes and films that viewers have accessed over those services has almost 
+doubled and quadrupled, respectively. American audiences had access to 112 lawful online 
+services at the end of 2014, compared to 65 at the end of 2011; lawfully accessed 66.6 billion 
+television episodes compared to 34.4 billion; and lawfully accessed 7.1 billion movies compared 
+to 1.8 billion. The TV and film numbers are expected to reach 101.6 billion and 11.7 billion, 
+respectively, by 2019. 
+ 
+ 
+ 
+ 
+To meet this demand, the movie and television industry is making content available 
+online to viewers on every type of in-home and mobile screen, including PCs and Macs, smart 
+TVs, tablets and smartphones, gaming systems, and specialized devices, such as the AppleTV 
+and Roku. Some of this content comes through Internet applications offered by cable and 
+satellite companies, such as Comcast’s XFINITY, DirecTV’s DirecTV Everywhere, AT&T’s 
+uVerse Online, Cablevision’s Optimum, Cox’s Cox TV Online, and Verizon’s FiOS TV Online. 
+Many content providers also offer programming directly to subscribers through their own 
+applications, including popular, household-name networks such as A&E, ABC, CBS, CMT, 
+Comedy Central, Disney, ESPN, Fox, Fox Sports, HBO, History Channel, MTV, NBC, 
+Showtime, Sony, Starz, TBS, TNT, and USA. Content providers also license programming to 
+“over the top” services. Subscription and pay-per-view over-the-top (“OTT”) services include 
+Amazon Prime, Facebook, Hulu Plus, iTunes, Netflix, Nintendo Network, PlayStation Network, 
+Sling TV, Sony Vue, VUDU, and Xbox Live. Ad-supported OTT services include Crackle, 
+Hulu, and YouTube. Online distributors are further expanding viewing choices by investing in 
+0
+20,000
+40,000
+60,000
+80,000
+100,000
+120,000
+U.S. Annual number of online film & TV views/transactions (Millions)
+Source: IHS
+Online TV
+views/transactions
+Online movie
+views/transactions
+Online TV
+views/transactions forecast
+Online movie
+views/transactions forecast
+
+[PAGE 4]
+ 
+4 
+ 
+original programming. Netflix, Amazon, and Hulu, for example, are all growing the slate of 
+exclusive content they offer, increasingly involving marquee writers, directors, and actors. All of 
+this benefits consumers, who receive a high-quality viewing experience, and creators, who are 
+able to expand their reach, as well as monetize their enormous investments. 
+ 
+In addition, the Digital Entertainment Content Ecosystem consortium of more than 60 
+studios, retail stores and technology firms has created “UltraViolet,” a digital rights locker for 
+audiovisual content that allows consumers to choose their retailer while having confidence that 
+the quality and experience will be seamless across a wide range of devices. When a consumer 
+purchases UltraViolet media—such as a Blu-ray, DVD or Internet download—she also can 
+access the content on any UltraViolet device registered to her household and stream the content 
+through devices at home or on the go. To date, consumers have set up more than 19 million 
+Ultraviolet accounts. Disney Movies Anywhere similarly provides a cloud-based platform for 
+authenticating access to Disney, Marvel, Pixar and Star Wars content across multiple digital 
+video platforms and devices, including iOS, Android, Apple TV, Chromecast, Amazon Kindle 
+Fire and Amazon Video Fire TV, Roku, Xbox360, and web browsers. Users simply connect their 
+Disney Movies Anywhere account to their accounts with popular digital retail services, which 
+currently include iTunes, Google Play, VUDU, Amazon Video, and Microsoft Movies & TV. 
+Powered by Disney’s KeyChest technology, titles purchased through these participating retailers, 
+or redeemed using the Digital Copy redemption code included in Blu-ray disc packages, are 
+instantly and seamlessly made available to the consumer for both streaming or download across 
+their connected accounts via the Disney Movies Anywhere apps and website. 
+ 
+III. COPYRIGHT LAW SHOULD RESPECT, NOT UNDERMINE, LICENSING 
+ARRANGEMENTS 
+ 
+All of the myriad services described above in Section II depend for their very existence 
+on license agreements among copyright owners, distributors, and consumers. And those services 
+are accessible on a variety of devices, including tablets, smartphones, Internet-connected 
+televisions, and an expanding array of non-traditional computing devices. In those cases, 
+operating systems and other embedded software implement content-related license terms by, for 
+example, preventing the content from being reproduced, distributed or accessed beyond the 
+agreed scope. Thus, the broad recommendations by some commenters to restrict contractual 
+provisions governing that embedded software could undermine the current digital ecosystem that 
+provides unprecedented access and options to content by consumers. 
+ 
+Undermining the ability of copyright owners and distributors to freely enter into licensing 
+arrangements that set the terms by which they offer access to their works would reduce their 
+ability to formulate new, innovative distribution models, thus ultimately harming consumers. The 
+MPAA thus urges the Copyright Office to reject calls by several commenters for changes to the 
+law that would restrict such contractual freedom.5 
+                                                           
+5 See, e.g, Computer & Communications Industry Association (“CCIA”) Comments at 5 (urging “reexamin[ation]” 
+of cases upholding licensing provisions against copyright preemption challenges); Comments of Electronic Frontier 
+Foundation (“EFF”) at 1-8; id. at 8 (stating that copyright law requires “requires reining in the mischief of EULAs 
+and other contracts of adhesion”).
+
+[PAGE 5]
+ 
+5 
+ 
+ 
+Courts have correctly recognized that private parties may voluntarily enter into contracts 
+that depart from the default rules of copyright, without running afoul of copyright preemption 
+doctrines.6 Courts have also consistently ruled that “[a] licensee infringes the owner’s copyright 
+if its use exceeds the scope of its license.”7 The MPAA urges the Copyright Office to re-affirm 
+the validity of such case law, and to reject calls for its reversal. 
+ 
+The Copyright Office should also decline several commenters’ invitation to urge the 
+expansion of the first sale defense under Section 109 of the Copyright Act. Most fundamentally, 
+the Office should reaffirm that, under the express terms of the statute, the first sale defense 
+properly applies only to the “owner of a particular copy or phonorecord” – and not to a mere 
+licensee.8 It is well settled that “because the protection afforded by § 109(a) is available only to 
+the ‘owner’ of a lawfully made copy,” the first sale doctrine “[does] not provide a defense to a 
+[claim of copyright infringement] against any nonowner such as a bailee, a licensee, a consignee, 
+or one whose possession of the copy was unlawful.”9 While Vernor v. Autodesk, Inc., 621 F.3d 
+1102 (9th Cir. 2010), was criticized in numerous comments by groups skeptical of copyright,10 
+the Ninth Circuit was entirely correct in reaffirming the rule that the first sale doctrine is 
+“unavailable to those who are only licensed to use their copies of copyrighted works,”11 as well 
+as in its explication of the test for determining whether a particular transaction constitutes a 
+license or a sale.12 
+                                                           
+6 See ProCD, Inc. v. Zeidenberg, 86 F.3d 1447 (7th Cir. 1996); Bowers v. Baystate Techs., Inc., 320 F.3d 1317 (Fed. 
+Cir. 2003).  Moreover, Vault Corp. v. Quaid Software, Ltd., 847 F.2d 255 (5th Cir. 1988), which certain commenters 
+claim reached a contrary result (see CCIA Comments at 2; Owners’ Rights Initiative Comments at 6) does no such 
+thing. Vault analyzed whether a Louisiana statute governing software licenses was preempted – not whether a mere 
+contract between private parties was preempted. See 847 F.3d at 270 (“The provision in Louisiana’s License Act, 
+which permits a software producer to prohibit the adaptation of its licensed computer program by dec ompilation or 
+disassembly, conflicts with the rights of computer program owners under § 117 and clearly ‘touches upon an area’ 
+of federal copyright law. For this reason, and the reasons set forth by the district court, we hold that at least this 
+provision of Louisiana’s License Act is preempted by federal law, and thus that the restriction in Vault's license 
+agreement against decompilation or disassembly is unenforceable.”).  
+ 
+7 S.O.S., Inc. v. Payday, Inc., 886 F.2d 1081, 1087 (9th Cir. 1989); see also 2 Patry on Copyright § 5:126 (“The 
+transferor may place conditions on the exercise of a license, and any use inconsistent with those conditions or 
+otherwise outside the scope of the license will expose the licensee to an infringement claim, depending on whet her 
+the breach is of a condition or covenant, and whether there is automatic recession.”) (footnotes omitted). 
+ 
+8 17 U.S.C. §109(a) (emphasis added); see also id. § 109(d) (first sale defense does not “extend to any person who 
+has acquired possession of the copy or phonorecord from the copyright owner, by rental, lease, loan, or otherwise, 
+without acquiring ownership of it.” 
+ 
+9 Quality King Distribs., Inc. v. L’anza Research Int’l, Inc., 523 U.S. 135, 146-147 (1998) (emphasis added); see 
+also Apple Inc. v. Psystar Corp., 658 F.3d 1150, 1155 (9th Cir. 2011); 2 Melville B. Nimmer & David Nimmer, 
+Nimmer On Copyright § 8.12 [B][1][a] (2013). 
+ 
+10 See EFF Comments at 7; CDT Comments at 3; Comments of Public Knowledge and New America’s Open 
+Technology Institute at 8 n.19. 
+ 
+11 Id. at 1107. 
+ 
+12 Id. at 1108-12.
+
+[PAGE 6]
+ 
+6 
+ 
+ 
+IV. COMMENTERS HAVE FAILED TO PRODUCE SIGNIFICANT EVIDENCE OF 
+HARM FROM COPYRIGHT LAW OR CURRENT LICENSING PRACTICES 
+ 
+Numerous commenters decry the current state of the law, and copyright owners’ 
+licensing practices. But a close reading of their comments reveals not a parade of actual 
+horribles, but instead only a set of largely imaginary examples of the alleged ill effects of 
+copyright law and licensing. Vivid hypotheticals may make for lively classroom discussion, but 
+they do not justify potential amendments to the Copyright Act that would diminish copyright 
+owners’ rights, upend settled business expectations, and dampen investment in innovative new 
+business models for the distribution of copyrighted works. For example: 
+ 
+ EFF Comments: “But under Vernor, there is a significant risk that clever drafting 
+of license ‘agreements’ could undermine these important rights.”13 
+ 
+ Intellectual Property Professors’ Comments: “if Mattel decides to clamp down on 
+the secondary market for used toys, it could quite simply refuse to grant 
+permission to aftermarket purchasers to load the software that runs the device. For 
+that matter, so could Ford or Volkswagen.”14 
+ 
+ CCIA Comments: “the omnipresence of software in modern consumer products 
+has greatly improved features and functions for users. CCIA agrees that this raises 
+the prospect of copyright law being brought to bear on an increasingly diverse 
+number of contexts”15 and “[t]he prospect that products with embedded software 
+might not be transferrable as Kirtsaeng contemplates could have significant 
+deleterious economic effects.”16 
+ 
+ Center for Democracy & Technology (“CDT”) Comments: “[u]ncertainty around 
+the copyrightability of APIs may deter innovation in software-enabled devices.”17 
+ 
+EFF’s comments purport to contain actual examples of the ill effects of copyright law as 
+applied to software embedded in devices.18 But a close review of its examples reveals no such 
+thing. EFF’s examples are simply instances of license agreements it doesn’t like – not examples 
+of the licensor using copyright law to enforce breaches of such licenses. Tellingly, in the EFF 
+                                                           
+ 
+13 EFF Comments at 7 (emphasis added). 
+ 
+14 Comment of Intellectual Property Professors at 3 (emphasis added). 
+ 
+15 CCIA Comments at 1 (emphasis added). 
+ 
+16 Id. at 2-3 (emphasis added). 
+ 
+17 CDT Comments at 2.  
+ 
+18 EFF Comments at 3-4.
+
+[PAGE 7]
+ 
+7 
+ 
+comments’ section criticizing EULA’s, the only actual reference to an example of a copyright 
+owner attempting to enforce a license agreement with a customer is to the facts of the 108-year-
+old case Bobbs-Merrill Co. v. Straus, 210 U.S. 339 (1908) – which of course didn’t involve 
+embedded software, and which the copyright owner lost.19 And to the extent EFF and others 
+disapprove of the terms of EULAs, those concerns are not appropriately addressed through 
+copyright law. Rather, it is state-law doctrines including contract formation and 
+unconscionability that typically govern the validity of such agreements.20 
+  
+*** 
+In sum, commenters have not presented any compelling arguments for altering copyright 
+law in light of the issues raised by software embedded in various consumer devices. To the 
+contrary, the comments from numerous groups representing software developers and publishers 
+demonstrate that we are witnessing an unprecedented amount of creativity and innovation in that 
+field fostered by copyright laws that encourage investment in software and numerous other types 
+of works, including the motion pictures and television programs produced by the MPAA’s 
+members. 
+ 
+The MPAA appreciates this opportunity to provide our views in response to the NOI. We 
+look forward to providing further input and working with the Copyright Office going forward. 
+ 
+Respectfully submitted,  
+ 
+ 
+Benjamin S. Sheffner 
+Vice President, Legal Affairs 
+Motion Picture Association of America, Inc. 
+15301 Ventura Blvd., Bldg. E 
+Sherman Oaks, CA 91403 
+(818) 935-5784 
+ 
+                                                           
+19 Other examples appear to allude to the effects of the anti-circumvention provisions of 17 U.S.C. § 1201, which the 
+NOI specifically instructs are not to be addressed in the context of this study. See 80 Fed. Reg. 240 (Dec. 15, 2015) 
+at 77671 (“The public should not submit concerns about section 1201 through this software study, but rather through 
+the Copyright Office’s forthcoming study on section 1201.”). The MPAA filed comments in response to the Section 
+1201 Study (Docket No. 2015-8) on March 3, 2016. 
+ 
+20 See, e.g., Specht v. Netscape Communications Corp., 306 F.3d 17, 27 (2d Cir. 2002) (“[S]tate law governs the 
+question of whether the parties in the present case entered into an agreement to arbitrate disputes relating to the 
+SmartDownload license agreement.”) (applying California law to the question whether clicking on a “download” 
+button bound the consumer to a license agreement that included an arbitration clause); Bragg v. Linden Research, 
+Inc., 487 F. Supp. 2d 593 (E.D. Pa. 2007) (applying California law of unconscionability to EULA involving 
+“Second Life” online game).

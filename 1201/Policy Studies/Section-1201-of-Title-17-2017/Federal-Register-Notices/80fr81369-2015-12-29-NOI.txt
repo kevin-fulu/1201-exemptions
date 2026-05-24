@@ -1,0 +1,1115 @@
+[PAGE 1]
+81369 Federal Register / Vol. 80, No. 249 / Tuesday, December 29, 2015 / Notices 
+1 See WIPO Copyright Treaty art. 11, Dec. 20, 
+1996, 36 I.L.M. 65 (1997); WIPO Performances and 
+Phonograms Treaty art. 18, Dec. 20, 1996, 36 I.L.M. 
+76 (1997). 
+2 See H.R. Rep. No. 105–551, pt. 2, at 23 (1998). 
+3 See id. at 26. 
+4 See 17 U.S.C. 512. 
+5 The DMCA also established protections for the 
+integrity of copyright management information. See 
+id. 1202. 
+6 See Chapter 12 of Title 17: Hearing Before the 
+Subcomm. on Courts, Intellectual Prop., and the 
+Internet of the H. Comm. on the Judiciary, 113th 
+Cong. (2014) (‘‘Chapter 12 of Title 17 Hearing’’). 
+7 See Register’s Perspective on Copyright Review: 
+Hearing Before the H. Comm. on the Judiciary, 
+114th Cong. 6 (2015) (‘‘Register’s Perspective on 
+Copyright Review Hearing’’) (statement of Maria A. 
+Pallante, Register of Copyrights and Director, U.S. 
+Copyright Office) (‘‘For [certain] aspects of section 
+1201, we are recommending a comprehensive 
+study, including the permanent exemptions for 
+security, encryption, and privacy research.’’); id. at 
+49 (statement of Rep. John Conyers, Jr., Ranking 
+Member, H. Comm. on the Judiciary) (‘‘[T]here are 
+policy issues that warrant studies and analysis, 
+including section 512, section 1201, mass 
+digitization, and moral rights. I would like the 
+Copyright Office to conduct and complete reports 
+on those policy issues . . . .’’). Separately, as 
+discussed below, the Register has also proposed 
+amending the triennial rulemaking process to ease 
+the burden of renewing existing exemptions. See id. 
+at 5 (statement of Maria A. Pallante, Register of 
+Copyrights and Director, U.S. Copyright Office) 
+(‘‘We are therefore recommending a legislative 
+change to provide a presumption in favor of 
+renewal in cases where there is no opposition.’’). 
+8 17 U.S.C. 1201(a); see Staff of H. Comm. on the 
+Judiciary, 105th Cong., Section-by-Section Analysis 
+of H.R. 2281 as Passed by the United States House 
+of Representatives on August 4th, 1998, at 5–9 
+(Comm. Print 1998) (‘‘House Manager’s Report’’). 
+9 17 U.S.C. 1201(b); see House Manager’s Report 
+at 12–13. While section 1201 does not prohibit the 
+circumvention of copy controls, in some cases 
+access control and copy control measures are 
+merged, and thus circumvention of such measures 
+is prohibited by section 1201(a)(1). U.S. Copyright 
+Office, Section 1201 Rulemaking: Sixth Triennial 
+Proceeding to Determine Exemptions to the 
+Prohibition on Circumvention, Recommendation of 
+the Register of Copyrights 4 n.13 (2015), http://
+copyright.gov/1201/2015/registers- 
+recommendation.pdf (‘‘2015 Recommendation’’); 
+U.S. Copyright Office, Recommendation of the 
+Register of Copyrights in RM 2008–8, Rulemaking 
+on Exemptions from Prohibition on Circumvention 
+of Copyright Protection Systems for Access Control 
+Technologies 44–47 (June 11, 2010), http://
+www.copyright.gov/1201/2010/initialed-registers- 
+recommendation-june-11-2010.pdf (‘‘2010 
+Recommendation’’). 
+10 House Manager’s Report at 6. 
+Signed at Washington, DC, this 22nd day 
+of December 2015. 
+Kimberly D. Hill, 
+Chief, Division of Management Systems, 
+Bureau of Labor Statistics. 
+[FR Doc. 2015–32664 Filed 12–28–15; 8:45 am] 
+BILLING CODE 4510–24–P 
+LIBRARY OF CONGRESS 
+U.S. Copyright Office 
+[Docket No. 2015–8] 
+Section 1201 Study: Notice and 
+Request for Public Comment 
+AGENCY: U.S. Copyright Office, Library 
+of Congress. 
+ACTION: Notice of inquiry. 
+SUMMARY: The United States Copyright 
+Office is undertaking a public study to 
+assess the operation of section 1201 of 
+Title 17, including the triennial 
+rulemaking process established under 
+the DMCA to adopt exemptions to the 
+prohibition against circumvention of 
+technological measures that control 
+access to copyrighted works. To aid this 
+effort, and to ensure thorough assistance 
+to Congress, the Office is seeking public 
+input on a number of key questions. 
+DATES: Written comments must be 
+received no later than 11:59 p.m. 
+Eastern Time on February 25, 2016. 
+Written reply comments must be 
+received no later than 11:59 p.m. 
+Eastern Time on March 25, 2016. The 
+Office will be announcing one or more 
+public meetings, to take place after 
+written comments are received, by 
+separate notice in the future. 
+ADDRESSES: All comments must be 
+submitted electronically. Specific 
+instructions for submitting comments 
+will be posted on the Copyright Office 
+Web site at http://www.copyright.gov/
+policy/1201 on or before February 1, 
+2016. To meet accessibility standards, 
+all comments must be provided in a 
+single file not to exceed six megabytes 
+(MB) in one of the following formats: 
+Portable Document File (PDF) format 
+containing searchable, accessible text 
+(not an image); Microsoft Word; 
+WordPerfect; Rich Text Format (RTF); or 
+ASCII text file format (not a scanned 
+document). All comments must include 
+the name of the submitter and any 
+organization the submitter represents. 
+The Office will post all comments 
+publicly in the form that they are 
+received. If electronic submission of 
+comments is not feasible, please contact 
+the Office using the contact information 
+below for special instructions. 
+FOR FURTHER INFORMATION CONTACT : 
+Regan A. Smith, Associate General 
+Counsel, by email at resm@loc.gov or by 
+telephone at 202–707–8350; or Kevin 
+Amer, Senior Counsel for Policy and 
+International Affairs, by email at 
+kamer@loc.gov or by telephone at 202– 
+707–8350. 
+SUPPLEMENTARY INFORMATION: 
+I. Background 
+The Digital Millennium Copyright Act 
+(‘‘DMCA’’) has played a pivotal role in 
+the development of the modern digital 
+economy. Enacted in 1998 to implement 
+the United States’ obligations under two 
+international treaties,
+1 it is intended to 
+foster the growth of the digital 
+marketplace by ensuring adequate legal 
+protections for copyrighted content.
+2 As 
+envisioned by Congress, the DMCA 
+seeks to balance the interests of 
+copyright owners and users, including 
+the personal interests of consumers, in 
+the digital environment.
+3 In addition to 
+provisions limiting the liability of 
+online service providers,
+4 the DMCA 
+includes provisions prohibiting the 
+circumvention of technological 
+measures used to protect copyrighted 
+works as well as trafficking in 
+anticircumvention devices.
+5 These 
+anticircumvention provisions, codified 
+in section 1201 of the Copyright Act, 
+were the subject of a 2014 hearing held 
+by the House Judiciary Committee’s 
+Subcommittee on Courts, Intellectual 
+Property and the Internet as part of its 
+comprehensive review of the nation’s 
+copyright law,
+6 and, as discussed below, 
+a recently concluded rulemaking 
+conducted by the Copyright Office. In 
+accordance with the request from the 
+House Judiciary Committee’s Ranking 
+Member to the Register of Copyrights at 
+the April 2015 House Judiciary 
+Committee hearing on copyright review, 
+and consistent with the Register’s 
+testimony in that hearing that the 
+impact and efficacy of section 1201 
+merit analysis at this time, the Office is 
+undertaking a study and soliciting 
+public input.
+7 
+A. Overview of Section 1201 
+Prohibitions on Circumvention and 
+Trafficking 
+Section 1201 prohibits the 
+circumvention of technological 
+measures employed by or on behalf of 
+copyright owners to control access to 
+their works (also known as ‘‘access 
+controls’’), as well as the trafficking in 
+technologies or services that facilitate 
+such circumvention.
+8 It also prohibits 
+trafficking in technologies or services 
+that facilitate circumvention of 
+technological measures that protect the 
+exclusive rights granted to copyright 
+owners under Title 17 (also known as 
+‘‘copy controls’’).
+9 In enacting section 
+1201, Congress recognized that 
+technological measures can be deployed 
+‘‘not only to prevent piracy and other 
+economically harmful unauthorized 
+uses of copyrighted material, but also to 
+support new ways of disseminating 
+copyrighted materials to users,’’ as well 
+as to make ‘‘the process of obtaining 
+permissions easier.’’
+10 Violations of 
+VerDate Sep<11>2014 19:17 Dec 28, 2015 Jkt 238001 PO 00000 Frm 00098 Fmt 4703 Sfmt 4703 E:\FR\FM\29DEN1.SGM 29DEN1asabaliauskas on DSK5VPTVN1PROD with NOTICES
+
+[PAGE 2]
+81370 Federal Register / Vol. 80, No. 249 / Tuesday, December 29, 2015 / Notices 
+11 17 U.S.C. 1203–1204. 
+12 Id. 1201(a)(1)(C). 
+13 H.R. Rep. No. 105–551, pt. 2, at 36. 
+14 Exemption to Prohibition on Circumvention of 
+Copyright Protection Systems for Access Control 
+Technologies, Final Rule, 65 FR 64556, 64557 (Oct. 
+27, 2000). 
+15 2015 Recommendation at 2–7 (2015). 
+16 17 U.S.C. 1201(a)(1)(C); see 2015 
+Recommendation at 13–14; 2010 Recommendation 
+at 10. Under the APA, ‘‘[e]xcept as otherwise 
+provided by statute, the proponent of a rule or order 
+has the burden of proof.’’ 5 U.S.C. 556(d). The 
+Breaking Down Barriers to Innovation Act of 2015, 
+introduced in both the House and the Senate, 
+would shift the burden of proof away from 
+proponents of exemptions and provide discretion to 
+the Librarian to conduct a rulemaking proceeding 
+outside the triennial process. H.R. 1883, 114th 
+Cong. sec. 3(a)(1)(E) (2015); S. 990, 114th Cong. sec. 
+3(a)(1)(E) (2015). 
+17 17 U.S.C. 1201(a)(1)(B). 
+18 See, e.g., Transcript, U.S. Copyright Office, 
+Hearing on Exemption to Prohibition on 
+Circumvention of Copyright Protection Systems for 
+Access Control Technologies 10:17–11:9 (May 2, 
+2000) (statement of Peter Jaszi, Digital Future 
+Coalition) (discussing adverse effects of section 
+1201(a)(1) on noninfringing uses under sections 107 
+and 110); Internet Archive, Creative Commons, and 
+Berkman Center for Internet & Society, Initial 
+Comments Submitted in Response to U.S. Copyright 
+Office’s Oct. 15, 2002 Notice of Inquiry at 7–9 
+(2002) (seeking an exemption to allow software 
+archiving as allowed under sections 117 and 107); 
+National Association of Independent Schools, 
+Initial Comments Submitted in Response to U.S. 
+Copyright Office’s Nov. 24, 1999 Notice of Inquiry 
+(2000) (discussing fair use for educational 
+purposes). 
+19 H.R. Rep. No. 105–551, pt. 2, at 37. 
+20 House Manager’s Report at 6. 
+21 17 U.S.C. 1201(a)(1)(C). In the latest triennial 
+rulemaking, due to the increasing prevalence of 
+technological measures employed in connection 
+with embedded computer software, many 
+participants urged the Register and Librarian to 
+consider non-copyright issues relating to health, 
+safety, and environmental concerns under the 
+rubric of ‘‘other factors’’ appropriate for 
+consideration. See 2015 Recommendation at 2–3. 
+The Breaking Down Barriers to Innovation Act of 
+2015 would add two additional factors to the list 
+to be considered by the Librarian when deciding 
+whether to grant an exemption: (1) Whether the 
+prohibition on circumvention impacts accessibility 
+for persons with disabilities, and (2) whether the 
+prohibition impacts the furtherance of security 
+research. H.R. 1883 sec. 3(a)(1)(B)(v); S. 990 sec. 
+3(a)(1)(B)(v). 
+22 See 17 U.S.C. 1201(a)(1)(B) (emphasis added). 
+23 H.R. Rep. No. 105–551, pt. 2, at 38. 
+24 U.S. Copyright Office, Recommendation of the 
+Register of Copyrights in RM 2005–11, Rulemaking 
+on Exemptions from Prohibition on Circumvention 
+of Copyright Protection Systems for Access Control 
+Technologies 9–10 (Nov. 17, 2006), http://
+www.copyright.gov/1201/docs/1201_
+recommendation.pdf. 
+25 See H.R. Rep. No. 105–551, pt. 2, at 37 
+(explaining that for every rulemaking, ‘‘the 
+assessment of adverse impacts on particular 
+categories of works is to be determined de novo’’). 
+section 1201 are subject to both civil 
+and criminal penalties.11 
+Rulemaking Process 
+Section 1201 includes a triennial 
+rulemaking process through which the 
+Librarian of Congress, following a 
+public proceeding conducted by the 
+Register of Copyrights in consultation 
+with the National Telecommunications 
+and Information Administration of the 
+Department of Commerce (‘‘NTIA’’), 
+may grant limited exceptions to section 
+1201(a)(1)’s bar on the circumvention of 
+access controls. By statute, the triennial 
+rulemaking process addresses only the 
+prohibition on the act of circumvention 
+itself; section 1201 does not provide a 
+mechanism to grant exceptions to the 
+anti-trafficking provisions of sections 
+1201(a)(2) or 1201(b).
+12 The section 
+1201 rulemaking is intended to serve as 
+a ‘‘fail-safe’’ mechanism through which 
+the Copyright Office can monitor 
+developments in the copyright 
+marketplace and recommend limited 
+exemptions as needed to prevent the 
+unnecessary restriction of fair and other 
+noninfringing uses.
+13 In keeping with 
+that goal, the primary responsibility of 
+the Office in the rulemaking proceeding 
+is to assess whether the implementation 
+of access controls impairs the ability of 
+individuals to make noninfringing uses 
+of copyrighted works within the 
+meaning of section 1201(a)(1). To do 
+this, the Register solicits proposals from 
+the public, develops a comprehensive 
+administrative record using information 
+submitted by interested parties, and 
+makes recommendations to the 
+Librarian concerning whether 
+exemptions are warranted based on that 
+record. While the first triennial 
+rulemaking completed in the year 2000 
+considered nearly 400 comments, 
+resulting in the adoption of two 
+exemptions,
+14 the process has grown 
+such that the recently concluded sixth 
+triennial rulemaking considered nearly 
+40,000 comments, resulting in 
+exemptions for twenty-two types of 
+uses.
+15 
+Those seeking an exemption from the 
+prohibition on circumvention must 
+establish that ‘‘persons who are users of 
+a copyrighted work are, or are likely to 
+be in the succeeding 3-year period, 
+adversely affected by the prohibition 
+. . . in their ability to make 
+noninfringing uses under this title of a 
+particular class of copyrighted 
+works.’’
+16 To meet the statutory 
+standard, a proponent must show: (1) 
+That uses affected by the prohibition on 
+circumvention are or are likely to be 
+noninfringing; and (2) that as a result of 
+a technological measure controlling 
+access to a copyrighted work, the 
+prohibition is causing, or in the next 
+three years is likely to cause, an adverse 
+impact on those uses.
+17 With respect to 
+the first requirement, proponents in 
+prior rulemakings have pointed to 
+several types of noninfringing uses that 
+could be affected by the prohibition of 
+section 1201(a)(1), including fair use 
+(codified in section 107 of the Copyright 
+Act), certain educational uses (section 
+110), and certain uses of computer 
+programs (section 117).
+18 The second 
+requirement asks whether technological 
+measures are ‘‘diminishing the ability of 
+individuals to use these works in ways 
+that are otherwise lawful.’’
+19 Congress 
+stressed that proponents must establish 
+that a ‘‘substantial diminution’’ of the 
+availability of works for noninfringing 
+uses is ‘‘actually occurring’’ in the 
+marketplace—or, in ‘‘extraordinary 
+circumstances,’’ may establish the 
+‘‘likelihood of future adverse impact 
+during that time period’’ where such 
+evidence is ‘‘highly specific, strong and 
+persuasive.’’
+20 
+In considering a proposed exemption, 
+the Librarian—and hence the Register— 
+must also weigh the statutory factors 
+listed in section 1201(a)(1)(C), namely: 
+‘‘(i) the availability for use of 
+copyrighted works; (ii) the availability 
+for use of works for nonprofit archival, 
+preservation, and educational purposes; 
+(iii) the impact that the prohibition on 
+the circumvention of technological 
+measures applied to copyrighted works 
+has on criticism, comment, news 
+reporting, teaching, scholarship, or 
+research; (iv) the effect of circumvention 
+of technological measures on the market 
+for or value of copyrighted works; and 
+(v) such other factors as the Librarian 
+considers appropriate.’’
+21 
+In addition, section 1201(a)(1) 
+specifies that exemptions adopted 
+through the triennial rulemaking must 
+be defined based on ‘‘a particular class 
+of works.’’
+22 The legislative history 
+explains that ‘‘the ‘particular class of 
+copyrighted works’ [is intended to] be a 
+narrow and focused subset of the broad 
+categories of works’’ appearing in 
+section 102 of Title 17, such as literary 
+works, musical works, and sound 
+recordings.
+23 In the course of prior 
+rulemakings, the Register has concluded 
+that, based on the record presented, a 
+‘‘class of works’’ defined initially by 
+reference to a section 102 category or 
+subcategory of works may be 
+additionally refined by reference to the 
+medium in which the works are 
+distributed, the particular access 
+controls at issue, or the particular type 
+of use and/or user to which the 
+exemption will apply.
+24 
+Exemptions adopted via the 
+rulemaking process are to remain in 
+effect for three years. Congress made 
+clear that the basis for an exemption 
+must be established de novo in each 
+triennial proceeding.
+25 Accordingly, 
+even if the same exemption is sought 
+VerDate Sep<11>2014 19:17 Dec 28, 2015 Jkt 238001 PO 00000 Frm 00099 Fmt 4703 Sfmt 4703 E:\FR\FM\29DEN1.SGM 29DEN1asabaliauskas on DSK5VPTVN1PROD with NOTICES
+
+[PAGE 3]
+81371 Federal Register / Vol. 80, No. 249 / Tuesday, December 29, 2015 / Notices 
+26 17 U.S.C. 112(a)(2). 
+27 See Register’s Perspective on Copyright Review 
+Hearing at 29 (statement of Maria A. Pallante, 
+Register of Copyrights and Director, U.S. Copyright 
+Office) (‘‘The permanent exemptions in Section 
+1201 relating to reverse engineering, encryption 
+research, and security testing are an ongoing issue, 
+with some stakeholders suggesting that they are too 
+narrow in scope and others of the view that they 
+strike an appropriate balance. For its part, the Office 
+has previously highlighted the limited nature of the 
+existing security testing exemptions and supported 
+congressional review of the problem.’’) (citations 
+omitted). 
+28 Unlocking Consumer Choice and Wireless 
+Competition Act, Public Law 113–144, 128 Stat. 
+1751 (2014). Subsequently, the Librarian adopted 
+regulatory amendments to reflect the new 
+legislation. See Exemption to Prohibition on 
+Circumvention of Copyright Protection Systems for 
+Wireless Telephone Handsets, Final Rule, 79 FR 
+50552 (Aug. 25, 2014). 
+29 See Exemption to Prohibition on 
+Circumvention of Copyright Protection Systems for 
+Access Control Technologies, Final Rule, 75 FR 
+43825, 43828–32 (July 27, 2010). 
+30 See Unlocking Consumer Choice and Wireless 
+Competition Act sec. 2(a), 128 Stat. at 1751. 
+31 Id. 2(b), 128 Stat. at 1751. 
+32 See Exemption to Prohibition on 
+Circumvention of Copyright Protection Systems for 
+Access Control Technologies, Final Rule, 80 FR 
+65944, 65952, 65962–63. 
+33 Unlocking Consumer Choice and Wireless 
+Competition Act sec. 2(a), (c), 128 Stat. at 1751–52; 
+see also 37 CFR 201.40(b)(3) (2012). 
+34 Other bills have recently been introduced that 
+would alter the operation of section 1201. Recent 
+examples include the Unlocking Technology Act of 
+2015, H.R. 1587, 114th Cong. (2015); and the 
+Breaking Down Barriers to Innovation Act of 2015, 
+H.R. 1883, S. 990, 114th Cong. (2015). 
+35 See generally Exemption to Prohibition on 
+Circumvention of Copyright Protection Systems for 
+Access Control Technologies, Notice of Inquiry, 79 
+FR 55687 (Sept. 17, 2014) (‘‘Sixth Triennial 
+Rulemaking NOI’’); Exemption to Prohibition on 
+Circumvention of Copyright Protection Systems for 
+Access Control Technologies, Notice of Proposed 
+Rulemaking, 79 FR 73856 (Dec. 12, 2014) (‘‘Sixth 
+Triennial Rulemaking NPRM’’); cf. Exemption to 
+Prohibition on Circumvention of Copyright 
+Protection Systems for Access Control 
+Technologies, Notice of Inquiry, 76 FR 60398 (Sept. 
+29, 2011). 
+36 Sixth Triennial Rulemaking NPRM, 79 FR 
+73856, 73858–71. 
+37 See Sixth Triennial Rulemaking NPRM, 79 FR 
+73856, 73857–58; see also Sixth Triennial 
+Rulemaking NOI, 79 FR 55687, 55693. 
+38 See Sixth Triennial Rulemaking NPRM, 79 FR 
+73856, 73858. 
+39 See 2015 Recommendation at 127–37. 
+40 In her testimony, the Register noted this issue 
+is ripe for legislative process. See Register’s 
+Perspective on Copyright Review Hearing at 27 
+(statement of Maria A. Pallante, Register of 
+Copyrights and Director, U.S. Copyright Office); 
+2015 Recommendation at 4. The Breaking Down 
+Barriers to Innovation Act of 2015 would require 
+the renewal of previously-granted exemptions 
+unless ‘‘changed circumstances’’ justify revoking 
+the exemption. H.R. 1883 sec. 3(a)(1)(F)(iii); S. 990 
+sec. 3(a)(1)(F)(iii). 
+again, it cannot be granted unless its 
+proponents establish a new record that 
+satisfies the statutory criteria. 
+Permanent Exemptions 
+In addition to the temporary 
+exemptions adopted pursuant to the 
+triennial rulemaking process, section 
+1201 provides eight permanent 
+exemptions to the prohibition on 
+circumvention, namely for certain 
+activities of nonprofit libraries, archives, 
+and educational institutions (section 
+1201(d)) and law enforcement (section 
+1201(e)); for reverse engineering (section 
+1201(f)); encryption research (section 
+1201(g)); the protection of personally 
+identifying information (section 
+1201(i)); security testing (section 
+1201(j)); the prevention of access by 
+minors to the internet (section 1201(h)); 
+and relating to certain analog devices 
+such as VHS and Beta format cassettes 
+(section 1201(k)). Separately, section 
+112 includes a limited permanent 
+exception to section 1201 for purposes 
+of making ephemeral recordings.
+26 As 
+discussed below, the applicability and 
+usefulness of the existing permanent 
+exemptions has been questioned by 
+some.
+27 
+Unlocking Consumer Choice and 
+Wireless Competition Act 
+In 2014, Congress addressed certain 
+issues relating to section 1201 by 
+passing the Unlocking Consumer Choice 
+and Wireless Competition Act 
+(‘‘Unlocking Act’’), which primarily 
+concerned the circumvention of 
+technological measures that control 
+access to computer programs that enable 
+wireless telephone handsets to connect 
+to wireless communication networks 
+(‘‘cellphone unlocking’’).
+28 The 
+Unlocking Act reinstated the cellphone 
+unlocking exemption adopted by the 
+Librarian in 2010,
+29 replacing the 
+narrower version adopted in 2012,30 
+and directed the Librarian to consider in 
+the 2015 rulemaking whether to 
+‘‘extend’’ the exemption ‘‘to include any 
+other category of wireless devices in 
+addition to wireless telephone 
+handsets.’’
+31 (On the Register’s 
+recommendation, the Librarian granted 
+additional exemptions for tablets and 
+other types of wireless devices in the 
+2015 proceeding.
+32) 
+The Unlocking Act also permanently 
+established that circumvention under 
+any exemption to permit a wireless 
+telephone handset or other wireless 
+device to connect to a different 
+telecommunications network may be 
+initiated by the owner of the handset or 
+device, by another person at the 
+direction of the owner, or by a provider 
+of commercial mobile radio or data 
+service, so long as the purpose is to 
+enable the owner or a family member to 
+connect to a wireless network in an 
+authorized manner.
+33 The legislation 
+served to clarify that the owner of a 
+device or the owner’s family member 
+can obtain assistance with the 
+circumvention from another party 
+notwithstanding the anti-trafficking 
+provisions of section 1201.
+34 
+B. Areas of Concern 
+Rulemaking Process 
+As the number of participants in the 
+triennial rulemaking has expanded with 
+each successive cycle, the Office has 
+done what it can within the existing 
+statutory framework to streamline the 
+proceedings. For the recent sixth 
+triennial rulemaking proceeding, the 
+Register (in consultation with NTIA and 
+past proceeding participants) adjusted 
+the administrative procedures to make 
+the process more accessible and 
+understandable; facilitate participation, 
+coordination, and the development of 
+the factual record; and reduce 
+administrative burdens on both the 
+participants and the Copyright Office.
+35 
+The Office solicited initial petitions 
+setting forth only the essential elements 
+of proposed exemptions and then issued 
+a Notice of Proposed Rulemaking that 
+reviewed and grouped the proposals 
+and provided detailed guidance on the 
+submission of written comments.
+36 The 
+Office also refined the comment phase 
+to encourage a more organized and 
+complete administrative record, 
+including by instituting three distinct 
+rounds of comments to allow 
+participants to better respond to issues 
+raised by other commenters.
+37 The 
+Office instituted procedures to 
+encourage advance submission of 
+multimedia evidence where 
+appropriate.
+38 
+Even with these improvements, 
+however, the rulemaking procedure, as 
+enacted by Congress, is resource- 
+intensive for both participants and the 
+Office. An area of particular concern is 
+the requirement that previously granted 
+exemptions be reviewed anew. During 
+the most recent rulemaking, a number of 
+petitions essentially sought renewal of 
+existing exemptions—for example, 
+unlocking of cellphones and 
+jailbreaking of smartphones. Some of 
+these petitions—including a petition to 
+permit circumvention so that literary 
+works distributed electronically could 
+continue to be accessed by persons who 
+are blind, visually impaired, or print 
+disabled—were unopposed.
+39 In 
+testimony, the Register has 
+recommended that Congress amend the 
+rulemaking process to create a 
+presumption in favor of renewal when 
+there is no meaningful opposition to the 
+continuation of an exemption.
+40 
+VerDate Sep<11>2014 19:17 Dec 28, 2015 Jkt 238001 PO 00000 Frm 00100 Fmt 4703 Sfmt 4703 E:\FR\FM\29DEN1.SGM 29DEN1asabaliauskas on DSK5VPTVN1PROD with NOTICES
+
+[PAGE 4]
+81372 Federal Register / Vol. 80, No. 249 / Tuesday, December 29, 2015 / Notices 
+41 See, e.g., Chapter 12 of Title 17 Hearing at 28– 
+29 (statement of Christian Genetski, Senior Vice- 
+President and General Counsel, Entertainment 
+Software Association). 
+42 2015 Recommendation at 2. 
+43 See, e.g., Chapter 12 of Title 17 Hearing at 43– 
+44 (statement of Corynne McSherry, Intellectual 
+Property Director, Electronic Frontier Foundation); 
+Unintended Consequences: Fifteen Years under the 
+DMCA, Electronic Frontier Foundation, https://
+www.eff.org/pages/unintended-consequences- 
+fifteen-years-under-dmca (last updated March 
+2013). The proposed Unlocking Technology Act of 
+2015 would amend both the anticircumvention and 
+anti-trafficking provisions of section 1201(a) to 
+prohibit such conduct only when done with the 
+intent to facilitate the infringement of a copyrighted 
+work. H.R. 1587 sec. 2(a). 
+44 2015 Recommendation at 2; Register’s 
+Perspective on Copyright Review Hearing at 29–30 
+(statement of Maria A. Pallante, Register of 
+Copyrights and Director, U.S. Copyright Office). 
+45 Register’s Perspective on Copyright Review 
+Hearing at 29–30 (statement of Maria A. Pallante, 
+Register of Copyrights and Director, U.S. Copyright 
+Office). 
+46 Id. at 29 (noting that intended beneficiaries of 
+exemptions lack the practical ability to engage in 
+the permitted circumvention themselves and 
+suggesting the need for further study). 
+47 See 2015 Recommendation at 4–5. 
+48 Id. 
+49 Register’s Perspective on Copyright Review 
+Hearing at 29 (statement of Maria A. Pallante, 
+Register of Copyrights and Director, U.S. Copyright 
+Office). 
+50 2015 Recommendation at 307. Legislation 
+recently introduced in Congress would increase 
+exemptions for reverse engineering, encryption 
+research, the protection of personally identifying 
+information, and security testing. See Breaking 
+Down Barriers to Innovation Act of 2015, H.R. 1883 
+sec. 3(b)–(e); Breaking Down Barriers to Innovation 
+Act of 2015, S. 990 sec. 3(b)–(e). 
+51 2015 Recommendation at 299. The Breaking 
+Down Barriers to Innovation Act of 2015 would 
+increase exemptions for reverse engineering, 
+encryption research, the protection of personally 
+identifying information, and security testing. H.R. 
+1883 sec. 3(b)–(e); S. 990 sec. 3(b)–(e). 
+52 See, e.g., 2015 Recommendation at 327 
+(discussing proposal for exemption for video game 
+preservationists); Pan C. Lee et al., Samuelson Law, 
+Technology & Public Policy Clinic, University of 
+California, Berkeley School of Law, on behalf of 
+Public Knowledge, Updating 17 U.S.C. 1201 for 
+Innovators, Creators, and Consumers in the Digital 
+Age 52 (2010), https://www.publicknowledge.org/
+assets/uploads//2_Circumvention.pdf. 
+53 See H.R. Rep. No. 105–551, pt. 2, at 20. 
+54 WIPO Copyright Treaty art. 11, Dec. 20, 1996, 
+36 I.L.M. 65 (1997); WIPO Performances and 
+Phonograms Treaty art. 18, Dec. 20, 1996, 36 I.L.M. 
+76 (1997). 
+55 See United States-Australia Free Trade 
+Agreement, U.S.-Austl., art. 17.4.7, May 18, 2004, 
+43 I.L.M. 1248, http://www.ustr.gov/trade- 
+agreements/free-trade-agreements/australian-fta/
+final-text; United States-Bahrain Free Trade 
+Agreement, U.S.-Bahr., art. 14.4.7, Sept. 14, 2004, 
+44 I.L.M. 544, http://www.ustr.gov/trade- 
+agreements/free-trade-agreements/bahrain-fta/final- 
+text; United States-Chile Free Trade Agreement, 
+U.S.-Chile, art. 17.7.5, June 6, 2003, 42 I.L.M. 1026, 
+http://www.ustr.gov/trade-agreements/free-trade- 
+agreements/chile-fta/final-text; United States- 
+Colombia Trade Promotion Agreement, U.S.- 
+Colom., art. 16.7.4, Nov. 22, 2006, http://
+www.ustr.gov/trade-agreements/free-trade- 
+Consumer Issues 
+Since the enactment of section 1201, 
+the use of technological measures has 
+been useful in expanding consumer 
+choice and the avenues for 
+dissemination of creative works, for 
+example, movies and video games.
+41 At 
+the same time, as the Copyright Office 
+has stated, it is also apparent that the 
+prohibition on circumvention impacts a 
+wide range of consumer activities that 
+have little to do with the consumption 
+of creative content or the core concerns 
+of copyright.
+42 Considering these 
+impacts, some stakeholders have 
+expressed concern over the effect of 
+section 1201 on competition and 
+innovation in the marketplace. In their 
+view, technological measures are often 
+deployed to ‘‘lock in’’ particular 
+business models by inhibiting the 
+development of interoperable products, 
+such as printer cartridges, or to prevent 
+individuals from engaging in otherwise 
+legitimate pursuits, such as the repair of 
+automobiles and farm equipment— 
+despite the fact that these sorts of 
+activities seem far removed from piracy 
+of copyrighted works.
+43 
+These concerns were highlighted 
+throughout the recently completed sixth 
+triennial proceeding. In the 2015 
+rulemaking, some of the proposed 
+exemptions concerned the ability to 
+access and make noninfringing uses of 
+expressive copyrighted works, such as 
+motion pictures, video games, and e- 
+books, which Congress undoubtedly had 
+in mind when it created the triennial 
+review process. But others concerned 
+the ability to circumvent access controls 
+on copyrighted computer code in 
+consumer devices. Proponents of these 
+latter classes sought to access the 
+computer code not for its creative 
+content, but rather to enable greater 
+functionality and interoperability of 
+devices ranging from cellphones, 
+tablets, and smart TVs to 3–D printers, 
+automobiles, tractors, and 
+pacemakers.
+44 As the Register has 
+testified, the effect of section 1201 on a 
+wide range of consumer goods that 
+today contain copyrighted software 
+merits review.
+45 
+Third-Party Assistance 
+A related issue is whether section 
+1201 should be clarified to ensure that 
+intended beneficiaries of exemptions are 
+able to engage in the permitted 
+circumvention activities.
+46 For example, 
+a vehicle owner may require assistance 
+from a repair shop technician to take 
+advantage of an exemption that allows 
+circumvention of access controls on 
+automobile software to make a repair.
+47 
+The anti-trafficking provisions of 
+section 1201, however, prevent the 
+adoption of exemptions that permit 
+third parties to offer circumvention 
+services.
+48 While the Unlocking Act 
+clarified section 1201 to permit 
+specified third parties to circumvent 
+technological measures on behalf of 
+device owners in the case of cellphones 
+and other wireless devices, the statute 
+does not extend to other types of uses 
+or allow the Librarian to grant an 
+exemption that provides for third-party 
+assistance in other circumstances. 
+Permanent Exemptions 
+Another concern is that section 1201’s 
+permanent exemptions have failed to 
+keep up with changing technologies. In 
+testimony, the Register has identified 
+the limited nature of the existing 
+security testing exemptions and 
+supported congressional review of this 
+problem.
+49 Based on the record in the 
+most recent section 1201 rulemaking, 
+the Register concluded that commenting 
+parties had made a ‘‘compelling case 
+that the current permanent exemptions 
+in section 1201, specifically section 
+1201(f) for reverse engineering, section 
+1201(g) for encryption research, and 
+section 1201(j) for security testing, are 
+inadequate to accommodate their 
+intended purposes.’’
+50 For example, 
+when considering a requested 
+exemption for good-faith security 
+research, the Register noted that ‘‘the 
+existing permanent exemptions . . . do 
+not cover the full range of proposed 
+security research activities, many of 
+which . . . are likely [to] be 
+noninfringing.’’
+51 Separately, others 
+have suggested that section 1201(d)’s 
+exemption for activities of nonprofit 
+entities is inadequate to meet the 
+legitimate archiving and preservation 
+needs of libraries and archives.
+52 
+International Issues 
+As noted above, section 1201 was 
+adopted in 1998 to implement the 
+United States’ obligations under two 
+international treaties.
+53 Those treaties— 
+the WIPO Copyright Treaty and the 
+WIPO Performances and Phonograms 
+Treaty—require signatory countries to 
+provide ‘‘adequate legal protection and 
+effective legal remedies against the 
+circumvention of effective technological 
+measures’’ that are used by authors, 
+performers, and phonogram producers 
+in connection with the exercise of their 
+rights, and that restrict acts, in respect 
+of their works, performances, or 
+phonograms, which are not authorized 
+by rightsholders or permitted by law.
+54 
+Since then, the United States has 
+included anticircumvention provisions 
+in a number of bilateral and regional 
+agreements entered into with other 
+nations.
+55 Therefore, any proposals to 
+VerDate Sep<11>2014 19:17 Dec 28, 2015 Jkt 238001 PO 00000 Frm 00101 Fmt 4703 Sfmt 4703 E:\FR\FM\29DEN1.SGM 29DEN1asabaliauskas on DSK5VPTVN1PROD with NOTICES
+
+[PAGE 5]
+81373 Federal Register / Vol. 80, No. 249 / Tuesday, December 29, 2015 / Notices 
+agreements/colombia-fta/final-text; Dominican 
+Republic-Central America-United States Free Trade 
+Agreement, U.S.-Costa Rica-Dom. Rep.-El Sal.- 
+Guat.-Hond.-Nicar., art 15.5.7, Aug. 5, 2004, 43 
+I.L.M. 514, https://ustr.gov/trade-agreements/free- 
+trade-agreements/cafta-dr-dominican-republic- 
+central-america-fta/final-text; United States-Jordan 
+Free Trade Agreement, U.S.-Jordan, art. 4(13), Oct. 
+24, 2000, 41 I.L.M. 63, http://www.ustr.gov/trade- 
+agreements/free-trade-agreements/jordan-fta/final- 
+text; United States-Korea Free Trade Agreement, 
+U.S.-S. Kor. art. 18.4.7, June 30, 2007, 46 I.L.M. 642, 
+https://ustr.gov/trade-agreements/free-trade- 
+agreements/korus-fta/final-text; United States- 
+Morocco Free Trade Agreement, U.S.-Morocco, art. 
+15.5.8, June 15, 2004, 44 I.L.M. 544, http://
+www.ustr.gov/trade-agreements/free-trade- 
+agreements/morocco-fta/final-text; United States- 
+Oman Free Trade Agreement, U.S.-Oman, art. 
+15.4.7, Jan. 19, 2006, http://www.ustr.gov/trade- 
+agreements/free-trade-agreements/oman-fta/final- 
+text; United States-Panama Trade Promotion 
+Agreement, U.S.-Pan., art 15.5.7, June 28, 2007, 
+http://www.ustr.gov/trade-agreements/free-trade- 
+agreements/panama-tpa/final-text; United States- 
+Peru Trade Promotion Agreement, U.S.-Peru, art. 
+16.7.4, Apr. 12, 2006, http://www.ustr.gov/trade- 
+agreements/free-trade-agreements/peru-tpa/final- 
+text; United States-Singapore Free Trade 
+Agreement, U.S.-Sing., art. 16.4.7, May 6, 2003, 42 
+I.L.M. 1026, https://ustr.gov/trade-agreements/free- 
+trade-agreements/singapore-fta/final-text. 
+56 See Software-Enabled Consumer Products 
+Study: Notice and Request for Public Comment, 80 
+FR 77668 (Dec. 15, 2015). 
+modify or amend Section 1201 would 
+require consideration of the United 
+States’ international obligations. 
+C. Relationship to Software Study 
+The scope of this study is limited to 
+the operation and effectiveness of 
+section 1201. It is not intended to focus 
+on broader issues concerning the role of 
+copyright with respect to software 
+embedded in everyday products. Those 
+issues are the subject of a separate and 
+concurrent Copyright Office study.
+56 
+Although, as noted, section 1201 
+certainly has implications for the use of 
+such products, members of the public 
+who wish to address the impact of other 
+provisions of copyright law on 
+embedded software are encouraged to 
+submit comments in that separate 
+process. More information about the 
+Software-Enabled Consumer Products 
+Study may be found at http://
+www.copyright.gov/policy/software/. 
+II. Subjects of Inquiry 
+The Office invites written comments 
+on the specific subjects below. A party 
+choosing to respond to this Notice of 
+Inquiry need not address every subject, 
+but the Office requests that responding 
+parties clearly identify and separately 
+address each subject for which a 
+response is submitted. 
+General 
+1. Please provide any insights or 
+observations regarding the role and 
+effectiveness of the prohibition on 
+circumvention of technological 
+measures in section 1201(a). 
+2. How should section 1201 
+accommodate interests that are outside 
+of core copyright concerns, for example, 
+in cases where circumvention of access 
+controls protecting computer programs 
+implicates issues of product 
+interoperability or public safety? 
+Rulemaking Process 
+3. Should section 1201 be adjusted to 
+provide for presumptive renewal of 
+previously granted exemptions—for 
+example, when there is no meaningful 
+opposition to renewal—or otherwise be 
+modified to streamline the process of 
+continuing an existing exemption? If so, 
+how? 
+4. Please assess the current legal 
+requirements that proponents of an 
+exemption must satisfy to demonstrate 
+entitlement to an exemption. Should 
+they be altered? If so, how? In 
+responding, please comment on the 
+relationship to traditional principles of 
+administrative law. 
+5. Please provide additional 
+suggestions to improve the rulemaking 
+process. 
+Anti-Trafficking Prohibitions 
+6. Please assess the role of the anti- 
+trafficking provisions of sections 
+1201(a)(2) and 1201(b) in deterring 
+copyright infringement, and address 
+whether any amendments may be 
+advisable. 
+7. Should section 1201 be amended to 
+allow the adoption of exemptions to the 
+prohibition on circumvention that can 
+extend to exemptions to the anti- 
+trafficking prohibitions, and if so, in 
+what way? For example, should the 
+Register be able to recommend, and the 
+Librarian able to adopt, exemptions that 
+permit third-party assistance when 
+justified by the record? 
+Permanent Exemptions 
+8. Please assess whether the existing 
+categories of permanent exemptions are 
+necessary, relevant, and/or sufficient. 
+How do the permanent exemptions 
+affect the current state of reverse 
+engineering, encryption research, and 
+security testing? How do the permanent 
+exemptions affect the activities of 
+libraries, archives, and educational 
+institutions? How might the existing 
+permanent exemptions be amended to 
+better facilitate such activities? 
+9. Please assess whether there are 
+other permanent exemption categories 
+that Congress should consider 
+establishing—for example, to facilitate 
+access to literary works by print- 
+disabled persons? 
+Other 
+10. To what extent and how might 
+any proposed amendments to section 
+1201 implicate the United States’ trade 
+and treaty obligations? 
+11. Please identify any pertinent 
+issues not referenced above that the 
+Copyright Office should consider in 
+conducting its study. 
+Dated: December 22, 2015. 
+Maria A. Pallante, 
+Register of Copyrights, U.S. Copyright Office. 
+[FR Doc. 2015–32678 Filed 12–28–15; 8:45 am] 
+BILLING CODE 1410–30–P 
+NATIONAL AERONAUTICS AND 
+SPACE ADMINISTRATION 
+[Notice (15–122)] 
+Privacy Act of 1974; Privacy Act 
+System of Records 
+AGENCY: National Aeronautics and 
+Space Administration (NASA). 
+ACTION: Notice of proposed revisions to 
+existing Privacy Act systems of records. 
+SUMMARY: Pursuant to the provisions of 
+the Privacy Act of 1974 (5 U.S.C. 552a), 
+the National Aeronautics and Space 
+Administration is issuing public notice 
+its proposal to modify a previously 
+noticed system of records and rescind 
+another previously noticed system. This 
+notice publishes details of the proposed 
+updates as set forth below under the 
+caption 
+SUPPLEMENTARY INFORMATION. 
+DATES: Submit comments within 30 
+calendar days from the date of this 
+publication. The changes will take effect 
+at the end of that period, if no adverse 
+comments are received. 
+ADDRESSES: Patti F. Stockman, Privacy 
+Act Officer, Office of the Chief 
+Information Officer, National 
+Aeronautics and Space Administration 
+Headquarters, Washington, DC 20546– 
+0001, (202) 358–4787, NASA– 
+PAOfficer@nasa.gov. 
+FOR FURTHER INFORMATION CONTACT : 
+NASA Privacy Act Officer, Patti F. 
+Stockman, (202) 358–4787, NASA– 
+PAOfficer@nasa.gov. 
+SUPPLEMENTARY INFORMATION: Pursuant 
+to the provisions of the Privacy Act of 
+1974, 5 U.S.C. 552a, and as part of its 
+biennial System of Records review, 
+NASA is making the following minor 
+modifications of its system of records 
+Exchange Records on Individuals/NASA 
+10XROI: Inclusion of a statement of 
+purpose for the system of records; 
+updates of system and subsystem 
+managers; clarification of routine uses; 
+and correction of previous 
+typographical errors. Further, NASA 
+VerDate Sep<11>2014 19:17 Dec 28, 2015 Jkt 238001 PO 00000 Frm 00102 Fmt 4703 Sfmt 4703 E:\FR\FM\29DEN1.SGM 29DEN1asabaliauskas on DSK5VPTVN1PROD with NOTICES

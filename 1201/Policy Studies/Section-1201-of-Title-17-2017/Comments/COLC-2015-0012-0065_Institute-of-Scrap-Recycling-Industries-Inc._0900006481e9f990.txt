@@ -1,0 +1,803 @@
+[PAGE 1]
+ 
+ 
+Juelsgaard Intellectual Property  
+and Innovation Clinic 
+Mills Legal Clinic 
+Stanford Law School 
+Crown Quadrangle 
+559 Nathan Abbott Way 
+Stanford, CA 94305-8610 
+jipic@law.stanford.edu 
+650.724.1900 
+Before the 
+U.S. COPYRIGHT OFFICE 
+LIBRARY OF CONGRESS 
+In the Matter of Section 1201 Study 
+Docket No. 2015-8 
+Comments of the Institute of Scrap Recycling Industries, Inc. 
+ Wangshu Tai 
+Brian Weissenberg 
+ Certified Law Students 
+Phil Malone 
+Jef Pearlman  
+ Counsel for Commenter
+
+[PAGE 2]
+ ii 
+ 
+Contents 
+ISRI and DMCA § 1201 ................................................................................................................. 1 
+Question 2. How should section 1201 accommodate interests that are outside of core 
+copyright concerns, for example, in cases where circumvention of access controls 
+protecting computer programs implicates issues of product interoperability or public 
+safety? ............................................................................................................................................. 4
+ 
+Question 3. Should section 1201 be adjusted to provide for presumptive renewal of 
+previously granted exemptions—for example, when there is no meaningful opposition to 
+renewal—or otherwise be modified to stream line the process of continuing an existing 
+exemption? If so, how? ................................................................................................................... 8 
+Question 4. Please assess the current legal requirements that proponents of an exemption 
+must satisfy to demonstrate entitlement to an exemption. Should they be altered? If so, 
+how? In responding, please comment on the relationship to traditional principles of 
+administrative law. ........................................................................................................................ 11 
+Question 7. Should section 1201 be amended to allow the adoption of exemptions to the 
+prohibition on circumvention that can extend to exemptions to the anti-trafficking 
+prohibitions, and if so, in what way? For example, should the Register be able to 
+recommend, and the Librarian able to adopt, exemptions that permit third-party 
+assistance when justified by the record? ....................................................................................... 15 
+Conclusion .................................................................................................................................... 17
+
+[PAGE 3]
+ 1
+ 
+Petitioner Institute of Scrap Recycling Industries, Inc. (“ISRI”) submits this comment in 
+response to the Copyright Office’s Section 1201 Study: Notice and Request for Public Comment. 
+ISRI is a Washington, DC-based trade association representing more than 1,600 
+companies—ranging from small, family-owned businesses to large, multi-national 
+corporations—operating at more than 3,500 facil ities in the United States and 34 countries 
+worldwide. ISRI members are manufacturers and processors, brokers, and industrial consumers 
+of scrap commodities, including ferrous and nonferrous metals, paper, electronics, rubber, 
+plastics, glass, and textiles. 
+As detailed in its recent triennial petition, comments, and reply comments, ISRI members 
+have suffered years of adverse effects from the DMCA restricting their ability to make 
+noninfringing uses of phones and tablets they have legally acquired and seek to recycle to new 
+owners. After the Copyright Office significant narrowed the phone unlocking exemption in 2012, 
+ISRI was forced to advocate for Congressional intervention to help ensure its members could 
+continue their socially beneficial, noninfringing business practices. And although ISRI’s petition 
+in the 2015 proceeding resulted in an exemption, ISRI had to expend significant resources to 
+meet unnecessarily strict and burdensome requirements that are neither required by law nor 
+supported by the legislative history of the DMCA, all to maintain (over minimal opposition) an 
+exemption that had been granted several times before and recently restored by the Unlocking 
+Consumer Choice and Wireless Competition Act.  
+Even after securing the current 3-year exemption, ISRI faces the prospect of expending 
+more time, effort and, resources in 2018 to fight this fight once more, with little certainty that it 
+will again be successful and its members will be able to continue their noninfringing activities 
+without fear of DMCA liability. Perhaps worse, because the exemption will likely mitigate the 
+adverse impacts ISRI members otherwise would suffer without it, it may actually be harder to 
+meet these high burdens in 2018.  
+ISRI therefore submits these comments requesting that the Copyright Office reform the 
+§ 1201 exemption rulemaking process in several ways, including the addition of a presumption 
+of renewability, and recommend that Congress make additional reforms, including permitting 
+exemptions to be applied to the anti-trafficking provisions of the DMCA. 
+ISRI and DMCA § 1201 
+For over a decade, ISRI and its members have been adversely affected by the anti-
+circumvention provisions of § 1201 and the unnecessary complexity, uncertainty, and cost of the 
+triennial rulemaking process. The Copyright Office has considered and granted exemptions for 
+mobile device unlocking in each of the last four rulemakings. Yet in each of the previous three 
+§ 1201 rulemakings the Register recommended and the Librarian adopted increasingly narrow 
+exemptions for mobile device unlocking. This culminated in the severely limited exemption
+
+[PAGE 4]
+ 2
+adopted in 2012, which applied only to “legacy phones” and devices purchased within 90 days 
+after the effective date of the exemption.1  
+ISRI’s members were particularly impacted by this narrow 2012 exemption. They were 
+uncertain how the exemption applied to the measures they used to unlock devices they lawfully 
+acquired, and how they might remedy the situation. ISRI stepped in to help organize these 
+uncoordinated efforts and had to expend significant time and resources to develop a new policy 
+focus for itself and its hundreds of members to seek the relief they needed to continue to make 
+legitimate, noninfringing uses of used phones for the next three years. Yet even with this new 
+policy, there was no way—absent a revised exemp tion or legislative action—to ensure that 
+recyclers of used phones would be able to continue to rely on wireless carriers or themselves to 
+unlock used mobile devices for their customers without fear of DMCA liability. 
+ISRI’s fears were well-founded. As ISRI demonstrated in the last rulemaking, at least one 
+of ISRI’s members reported that a wireless carrier stopped providing unlock codes in bulk after 
+the Copyright Office narrowed the phone unlocking exemption in 2012: 
+Another recycler, HOBI International, Inc., reports that the company previously 
+worked with two carriers to gain unlocking of mobile devices. After the 2012 
+exemption, one carrier refused to continue unlocking HOBI’s used mobile devices 
+for resale. Because those devices remained locked to a particular carrier, HOBI 
+found that prices for mobile devices dropped $25 across the board, reducing the 
+price that individual owners could receive for their used devices, harming 
+consumers and bulk recyclers alike.2 
+There was significant public as well as recycler discontent with and opposition to the Copyright 
+Office’s narrow 2012 “sunset” exemption. In response to a 2013 “We The People” petition 
+asking that unlocking be again made legal,3 the White House announced that it  
+agree[d] with the 114,000+ of you who believe that consumers should be able to 
+unlock their cell phones without risking criminal or other penalties . . . . It’s 
+common sense, crucial for protecting consumer choice, and important for 
+ensuring we continue to have the vibrant, competitive wireless market that 
+delivers innovative products and solid service to meet consumers’ needs.
+4 
+                                                 
+1 Exemption to Prohibition on Circumvention of Copyright Protection Systems for Access 
+Control Technologies, 77 Fed. Reg. 65260, 65264 (Oct. 26, 2012) [hereinafter 2012 Final Rule], 
+http://copyright.gov/fedreg/2012/77fr65260.pdf. 
+2 Comment of ISRI on Proposed Class 11 in the Sixth Triennial Rulemaking, at 16-17 (citations 
+omitted) [hereinafter “2015 ISRI Comment”]. 
+3 Make Unlocking Cell Phones Legal petition (January 24, 2013), https://
+petitions.whitehouse.gov/petition/make-unlocking-cell-phones-legal/1g9KhZG7. 
+4 Official White House Response to “It’s Time to Legalize Cell Phone Unlocking,” https://
+petitions.whitehouse.gov/response/its-time-legalize-cell-phone-unlocking.
+
+[PAGE 5]
+ 3
+Most importantly the White House stated that “the DMCA exception process is a rigid and 
+imperfect fit for this telecommunications issue, and we want to ensure this particular challenge 
+for mobile competition is solved.”5 
+And the White House and Congress did just that. After sustained debate, Congress passed 
+the Unlocking Consumer Choice and Wireless Competition Act (“Unlocking Act”),6 which 
+repealed the 2012 exemption, substituted the 2010 exemption, and directed the Register to 
+consider proposals for cell phone and other device unlocking as part of the 2015 rulemaking.7 
+But the Unlocking Act was just a band-aid, set to be removed during the 2015 triennial. 
+Despite extensive and effective advocacy on behalf of the Unlocking Act, ISRI and other 
+consumer groups were forced to reengage with the admittedly “rigid and imperfect fit”8 of the 
+DMCA triennial process to seek a new exemption for their noninfringing unlocking activities. 
+This meant that more pressing issues facing ISRI and its members—including export restrictions, 
+device theft, and device safety—had to be relegated to lower priorities so that it could mount its 
+best effort to convince the Copyright Office to grant the latest unlocking request.  
+Last year, ISRI submitted a comment to the Copyright Office demonstrating that 
+unlocking mobile devices is a noninfringing use under each of the Copyright Office’s criteria for 
+a § 1201 exemption. ISRI then submitted a reply comment addressing the concerns of TracFone, 
+the only entity that opposed ISRI’s and other similar comments regarding mobile device 
+unlocking. Finally, ISRI and its counsel testified at the DMCA hearing in Washington, D.C. in 
+late May 2015. 
+While ISRI was pleased that the Copyright Office ultimately granted its proposed 
+exemption, ISRI urges the Copyright Office to modify the § 1201 process to reduce the 
+substantial burden on proponents of DMCA exemptions.  The DMCA did not intend such 
+repeated and sustained burden and investment of resources to continue an already justified and 
+well-warranted circumvention of TPMs. And unless the triennial rulemaking process is 
+significantly changed, the DMCA will continue to substantially burden ISRI, its members, and 
+other proponents of a § 1201 exemption.  
+First, the Copyright Office should focus its assessment on copyright interests during the 
+triennial rulemaking process. As discussed more thoroughly below in response to NOI Question 
+2, there is no legitimate reason why proponents of an exemption to copyright law should have to 
+rebut non-copyright concerns. Indeed, ISRI spent significant time and resources rebutting 
+TracFone’s reply comment, which was principally focused on protecting its lock-in business 
+                                                 
+5 Id. (emphasis added). 
+6 Pub. L. No. 113-144, 128 Stat. 1751 (Aug. 1, 2014); see also Exemption to Prohibition on 
+Circumvention of Copyright Protection Systems for Access Control Technologies, 79 Fed. Reg. 
+55687 (Sept. 17, 2014) [hereinafter 2014 NOI] at 55689 n.8 (“Congress enacted the Unlocking 
+Act after public calls for a broader exemption than that provided in the 2012 rule.”). 
+7 Unlocking Act § 2(a); see also 2014 NOI at 55688-89. 
+8 Official White House Response to “It’s Time to Legalize Cell Phone Unlocking,” https://
+petitions.whitehouse.gov/response/its-time-legalize-cell-phone-unlocking.
+
+[PAGE 6]
+ 4
+model, a non-copyright concern. Proponents should not be burdened by the need to address 
+concerns that do not arise under U.S. copyright law. In fact, no one should need to secure an 
+exemption under  § 1201 where their circumvention does not infringe copyright or serves an 
+infringing activity. 
+Additionally, many would-be proponents of a DMCA exception do not have sufficient 
+resources—including counsel—to submit a persuasive  comment to the Copyright Office. Indeed, 
+many proponents are either unassisted or submit short comments that may not meet the 
+requirements of the Register. This is in part due to the substantial evidentiary and legal showing 
+required by the Copyright Office as part of the triennial process, which, as detailed below, is not 
+required by the statute. While ISRI was fortunate to have pro bono counsel for its most recent 
+exemption request, the limited number of law school clinics and other low-cost counsel resources 
+are insufficient to meet the needs of every proponent of a § 1201exemption. 
+Question 2. How should section 1201 accommodate interests that are outside of core 
+copyright concerns, for example, in cases where circumvention of access controls 
+protecting computer programs implicates issues of product interoperability or public 
+safety? 
+Section 1201 should not be used to protect non-copyright concerns or deny an otherwise 
+legitimate § 1201 exemption where the use is not made for the purpose of violating copyright 
+law. There is no language in § 1201 itself, and no indication in any legislative history, that the 
+DMCA’s anticircumvention provisions were meant to address non-copyright issues such as 
+health, safety, environmental, competitive or business-model concerns. To the contrary, the 
+DMCA was explicitly enacted to protect and promote copyrighted content in the digital age. In 
+line with the then-recently-signed WIPO treaties, the DMCA sought to provide “‘adequate legal 
+protection’ and ‘effective legal remedies’ against circumvention of certain technologies that 
+copyright owners use to protect their works, and against violation of the integrity of copyright 
+management information.”
+9 In signing the DMCA into law, President Clinton proclaimed that 
+“[t]hrough enactment of the Digital Millennium Copyright Act, we have done our best to protect 
+from digital piracy the copyright industries that comprise the leading export of the United 
+States.”10 
+The Copyright Office itself has previously affirmed that non-copyright concerns have no 
+place in the § 1201 process where a proponent demonstrates a legitimate noninfringing use. The 
+Register articulated this point in her 2010 recommendation: 
+The Register appreciates that other administrative agencies also have jurisdiction 
+on potential issues relating to the iPhone, smartphones, and other mobile phone 
+and data services. However, the focus in this rulemaking is limited to actual or 
+likely adverse effects on noninfringing uses of copyrighted works. No other 
+agency has delegated authority to temporarily limit the application of the 
+                                                 
+9 President Bill Clinton, Statement on Signing the Digital Millennium Copyright Act, (Oct 28, 
+1998), http://www.presidency.ucsb.edu/ws/?pid=55169 
+10 Id. (emphasis added).
+
+[PAGE 7]
+ 5
+prohibition on circumvention. This prohibition was established to provide legal 
+support for, and foster the availability of, copyrighted works in the digital 
+environment.11 
+The Register has often correctly rejected these non-copyright concerns. For instance, in 
+the 2015 rulemaking, the Copyright Office rejected the arguments of TracFone—the only 
+opponent to cell phone unlocking—that § 1201 shoul d protect its business model even though 
+that interest has no connection to core copyright concerns. As ISRI noted, TracFone “explicitly 
+state[d] that it opposes the proposed phone unlocking exemptions because they ‘could be 
+interpreted to provide loopholes for traffickers intending to steal the subsidies offered by 
+providers like TracFone and thus imperil TracFone’s ability to offer subsidized phones to 
+consumers.’”12 ISRI further explained: 
+TracFone’s position would create the disturbing result that breaking a TPM to 
+unlock one’s phone does not violate copyright law unless it prevents the wireless 
+provider from making its expected profit on that phone. TracFone should be and 
+is able to enforce its business models and recover its subsidies through a variety 
+of other legal tools, including contracts, early termination fees, and, where 
+necessary, lawsuits raising a variety of other legal claims. But not through 
+misusing copyright law.13 
+This was not the only time the Register rejected an attempt to use § 1201 to protect a non-
+core copyright concern such as a business model. The Register’s 2010 recommendation could 
+not have been more clear: 
+[T]he primary purpose of the locks is to keep consumers bound to their existing 
+networks, rather than to protect the rights of copyright owners in their capacity as 
+copyright owners . . . . Because there appear to be no copyright-based reasons 
+why circumvention under these circumstances should not be permitted, the 
+Register recommends that the Librarian designate a class of works similar to the 
+class designated in 2006. The designated classes, both [2006 and 2009], simply 
+reflect a conclusion that unlocking a mobile phone to be used on another wireless 
+network does not ordinarily constitute copyright infringement and that Section 
+                                                 
+11 Recommendation of the Register of Copyrights in RM 2008-8, Rulemaking on Exemptions 
+from Prohibition on Circumvention of Copyright Protection Systems for Access Control 
+Technologies, 103 (June 11, 2010), http://www.copyright.gov/1201/2010/initialed-registers-
+recommendation-june-11-2010.pdf (emphasis added) [hereinafter 2010 Recommendation]. 
+12 TracFone, Long Comment Regarding a Proposed Exemption Under 17 U.S.C. 1201, 
+http://copyright.gov/1201/2015/comments-
+032715/class%2011/TracFone_Wireless_class11_1201_2014.pdf, 7.
+  
+13 Reply Comment of ISRI on Proposed Class 11 in the Sixth Triennial Rulemaking, at 4 
+[hereinafter “2015 ISRI Reply Comment”].
+
+[PAGE 8]
+ 6
+1201(a)(1), a statute intended to protect copyright interests, should not be used to 
+prevent mobile phone owners from engaging in such noninfringing activity.14 
+Likewise, in the 2006 Final Rule the Librarian emphasized the non-copyright purposes of 
+handset locks, technology protection measures (“TPMs”) that have “nothing whatsoever to do 
+with the interests protected by copyright,” finding that a user who unlocks a wireless handset to 
+connect is not 
+engaging in copyright infringement or in an activity that in any way implicates 
+copyright infringement or the interests of the copyright holder [and that] the 
+access controls do not appear to actually be deployed in order to protect the 
+interests of the copyright owner or the value or integrity of the copyrighted work; 
+rather, they are used by wireless carriers to limit the ability of subscribers to 
+switch to other carriers, a business decision that has nothing whatsoever to do 
+with the interests protected by copyright.15 
+And importantly, when the Copyright Office greatly narrowed the exemption for 
+cellphone unlocking in 2012, Congress and President Obama stepped in to right a copyright 
+wrong by passing the Unlocking Consumer Choice and Wireless Competition Act (“Unlocking 
+Act”). In signing the Act, President Obama commended Congress for taking steps “to ensure 
+copyright law does not undermine wireless competition.”
+16 
+The Register, however, does not always reject these non-copyright concerns. For 
+instance, in the most recent triennial, opponents of the vehicle repair exemption claimed that “the 
+use of TPMs has played a role in effectuating compliance”17 with federal and state safety and 
+environmental laws. But federal and state agencies—and others—should not rely on copyright 
+law to enforce other laws unrelated to copyright. As the Register noted, “opponents [of the 
+exemption] recognize that the non-copyright factors that they identify have not played a 
+significant role in the Register’s consideration of proposed exemptions in prior rulemakings. But, 
+they urge that the instant exemption is different because of its potential to impact the highly 
+regulated automotive sector directly.”18 However, in so doing, the opponents admit theirs is a 
+highly regulated sector.  
+                                                 
+14 2010 Recommendation at 152-153 (emphasis added). 
+15 Exemption to Prohibition on Circumvention of Copyright Protection Systems for Access 
+Control Technologies, 71 Fed. Reg. 68472, 68476 (Nov. 27, 2006) (codified at 37 C.F.R. 201) 
+[hereinafter 2006 Final Rule], http://www.copyright.gov/fedreg/2006/71fr68472.pdf (emphasis 
+added). 
+16 Office of the Press Secretary, Statement from the President on Unlocking Consumer Choice 
+and Wireless Competition Act, WHITEHOUSE.GOV (July 25, 2014), http://www.whitehouse.gov/
+the-press-office/2014/07/25/statement-president-unlocking-consumer-choice-and-wireless-
+competition-a. 
+17 2015 Recommendation at 242. 
+18 2015 Recommendation at 234.
+
+[PAGE 9]
+ 7
+This demonstrates that the automotive sector and other similar agencies have the 
+authority and legal capability to independently deal with the supposed health and safety effects 
+of circumvention. Indeed, the Register found that the opponents of the exemption actually 
+admitted “that both state and federal regulatory regimes are designed to prevent many of the 
+activities that would fall within the exemption. In particular, they point out that commercial 
+providers are prohibited from knowingly modifying vehicles to take them out of compliance with 
+emissions and safety standards.”19 
+In discussing these concerns, the Register agreed that “proponents [of the exemption] 
+also point out with some force that such issues are relatively remote from the copyright interests 
+that are at the heart of § 1201— namely, the abi lity to protect, disseminate and enjoy creative 
+works in the digital age.”20 The Register further acknowledged that “this rulemaking is 
+principally focused on the copyright concerns implicated by any proposed exemption.”21 
+Nevertheless, the Register responded that “section 1201(a)(1) calls for consideration of ‘such 
+other factors as the Librarian considers appropriate,’ and, while acknowledging NTIA’s views, 
+the Register believes it would be inappropriate simply to disregard other agencies’ concerns 
+regarding the possible negative impacts of the exemption on their respective regulatory and 
+enforcement efforts.”22 
+And while, despite concerns from the EPA and other non-copyright agencies, the 
+Register ultimately recommended a vehicle repair exemption because “safety and environmental 
+concerns have a tenuous nexus to copyright protection,”23 it did not do so unequivocally. The 
+Register also recommended “a delay of twelve months before the exemption goes into effect to 
+allow other agencies with expertise in vehicle safety, environmental issues, and other relevant 
+areas an opportunity to consider and react to the new rule.” This delay, while better than a denial, 
+remains problematic. 
+ISRI recognizes that using TPMs for safety and health concerns is qualitatively different 
+than doing so simply to protect a business model, as is the case with cell phone carriers’ use of 
+§ 1201. Yet what is even more important than the qualitative differences is what these uses have 
+in common—they are not core c opyright concerns. The federal government’s protection of our 
+health and safety is of critical importance. But that is a job for another federal agency, not the 
+Copyright Office. 
+The final factor of § 1201(a)(1) must not be used to hijack a process the Register admits 
+is primarily intended to protect the “heart” of § 1201: “the ability to protect, disseminate and 
+                                                 
+19 2015 Recommendation at 233. 
+20 Recommendation of the Register of Copyrights, Section 1201 Rulemaking Sixth Triennial 
+Proceeding to Determine Exemptions to the Prohibition on Circumvention 242 (Oct. 8, 2015) 
+http://copyright.gov/1201/2015/registers-recommendation.pdf [hereinafter 2015 
+Recommendation]. 
+21 2015 Recommendation at 248. 
+22 2015 Recommendation at 248. 
+23 U.S. COPYRIGHT OFFICE, Understanding the Section 1201 Rulemaking, at 7 (last visited Mar. 
+1, 2016), http://copyright.gov/1201/2015/2015_1201_FAQ_final.pdf.
+
+[PAGE 10]
+ 8
+enjoy creative works in the digital age.”24 It is more “inappropriate” to attempt to address the 
+non-copyright concerns of other agencies under the guise of copyright protection than it is to 
+leave it to those agencies to address their concerns through more appropriate venues. The 
+language of the fifth factor of § 1201(a)(1) does not obligate the Librarian to consider non-
+copyright interests. If the realm of “appropriate” considerations is expanded to encompass the 
+concerns of any other agency, the fifth factor does not merely escape the bounds of copyright—it 
+becomes essentially boundless, drastically increasing the burden on the Copyright Office, 
+proponents, commenters, and innovators, while utterly failing to further the purpose of the law. 
+The Librarian can—and shoul d—consider non-copyright  interests to be inappropriate 
+factors in evaluating exemptions to DMCA liability in the triennial rulemaking process. The 
+Librarian has discretion regarding what he or she considers “appropriate,” but this discretion 
+should not be used to expand the scope of the proceeding is such a nigh-unlimited manner. 
+Instead, it should be used to reinforce the fact that the Copyright Office deals with: copyright 
+issues.  
+To the extent the Register and Librarian nevertheless choose to continue to consider non-
+copyright concerns as part of the § 1201 analysis, ISRI urges the Copyright Office at least to 
+continue the practice it demonstrated in the most recent proceeding of not allowing non-
+copyright concerns to lead to the denial or delay of a legitimate, copyright-based exemption to 
+§ 1201. At most, delays for other agencies to consider issues that relate not to copyright, but to 
+possible misuse of software or property, should be as short as possible and used only as a 
+temporary tool. If the Copyright Office ceases to consider these issues, then agencies or other 
+parties with actual responsibility for any genuine safety or health concerns can take timely 
+enforcement or regulatory action, or can bring the concerns directly to Congress for further 
+needed authority.  Rather than misusing these concerns to try to block lawful, noninfringing uses 
+of copyrighted works, and the Copyright Office will cease being a venue for boundary-free 
+policymaking through copyright enforcement. The Register should grant any such time 
+extensions only if absolutely necessary and only for those concerns that are not already 
+addressed by other agencies. For instance, now that the Librarian has granted an exemption for 
+vehicle repair, the EPA and other relevant agencies should hereafter deal with any health and 
+safety concerns using the tools available to them. 
+Question 3. Should section 1201 be adjusted to provide for presumptive renewal of 
+previously granted exemptions—for example, when there is no meaningful opposition to 
+renewal—or otherwise be modified to streamlin e the process of continuing an existing 
+exemption? If so, how? 
+The Copyright Office should discard its mistaken requirement of de novo review for 
+previously granted exemptions in each subsequent § 1201 rulemaking, should provide for 
+presumptive renewal of granted exceptions, and should shift the burden of justifying non-
+renewal to any opponents of that renewal rather than requiring proponents to repeatedly establish 
+the need for continuation of their exemption. Eliminating the de novo requirement would vastly 
+reduce much of the unnecessary burden on proponents to reestablish the evidentiary and legal 
+                                                 
+24 2015 Recommendation at 242.
+
+[PAGE 11]
+ 9
+justifications for their exemptions every three years, as well as the burden on the office to review 
+ever-expending records for already-granted exceptions. Presumptive renewal is consistent with 
+the overall purpose and intent of the rulemaking process. ISRI submits that the Copyright Office 
+currently possesses the authority to make such a change without legislative action, but if it 
+continues to conclude that it does not, urges it to recommend such changes to Congress and to 
+support their adoption. 
+The existing § 1201 process, with its de novo review and requirements for substantial 
+evidentiary showings even for exemptions which have been granted repeatedly and which lack 
+significant opposition, place a substantial burden on any party who would take on the socially 
+beneficial task of requesting an exemption. As explained above, ISRI and others seeking DMCA 
+exemptions for lawful owners of phones and tablets, seeking to unlock their own devices, have 
+been expending resources seeking and obtaining nearly the same exemption for over a decade. 
+Others, such as the American Foundation for the Blind, have been requesting exemptions since 
+the second proceeding, having to proceed throught all the complicated requirements of the 
+process each time even in the face of little or no opposition.  
+Each of these successive proceedings requires parties—be they trade associations, 
+nonprofits operating on a shoestring, groups of researchers or repair advocates, or individual 
+entrepreneurs—to pour significant resources, including employee time and outside counsel 
+hours, into developing a brand new factual and legal records every three years. If nothing 
+changes as a result of the current NOI Study proceeding, each proponent from 2015 will be 
+forced to spend that time and money again in 2018, abandon their otherwise lawful uses of 
+copyrighted works, or go back to operating in the shadow of potentially violating the DMCA 
+without infringing copyright. Eliminating the de novo approach, adding presumptive renewal, 
+and shifting the burden to opponents of renews in future § 1201 proceedings would reduce the 
+waste currently imposed on the proponents and the Copyright Office, while still allowing the 
+Office to properly evaluate new exemptions and, when and if opponents demonstrate that 
+relevant facts have actually changed, reevaluate old ones. 
+No congressional action is needed to make these changes. In § 1201(a)(1)(C), Congress 
+outlined the rulemaking proceeding only in very broad strokes and delegated the rest of its 
+authority to the Register of Copyrights and to a lesser extent, the Assistant Secretary for 
+Communications and Information of the Department of Commerce. There is no mention at all of 
+any presumptions or any de novo review. As a result, the Copyright Office is not bound by any 
+relevant Congressional mandate when it is amends the presumption requirements. 
+The Register has previously stated her belief that legislative history precludes reliance on 
+presumptive renewal in the rulemaking proceeding. For instance, in the most recent Notice of 
+Inquiry, the Office again asserted that “Congress made clear that the basis for an exemption must 
+be established de novo in each triennial proceeding.”25 In fact, however, Congress did no such 
+                                                 
+25 Exemption to Prohibition on Circumvention of Copyright Protection Systems for Access 
+Control Technologies, 79 Fed. Reg. 55687, 55689 (Sept. 17, 2014) (codified at 37 C.F.R. 201) 
+[hereinafter 2015 Notice of Inquiry].
+
+[PAGE 12]
+ 10
+thing. Instead, a de novo requirement can be found in only one piece of legislative history, the 
+House Commerce Committee Report: 
+The rulemaking will be repeated on a biennial basis, and on each occasion, the 
+assessment of adverse impacts on particular categories of works is to be 
+determined de novo. The regulatory prohibition is presumed to apply to any and 
+all kinds of works, including those as to which a waiver of applicability was 
+previously in effect, unless, and until, the Secretary makes a new determination 
+that the adverse impact criteria have been met with respect to a particular class 
+and therefore issues a new waiver. In conducting the rulemaking proceeding, the 
+Secretary must consult closely with the National Telecommunications and 
+Information Administration, as well as with the Patent and Trademark Office and 
+the Register of Copyrights.26 
+However, after this Report, the rulemaking section of the statute described in the Report 
+underwent so many substantive changes that there simply is no basis for giving the Report’s 
+mention of de novo review any weight whatsoever. For instance, the Commerce Committee 
+version would have mandated the rulemaking proceeding to happen every two years, instead of 
+three. Four agencies would have been involved, instead of two. Moreover, the Register of 
+Copyrights would not even have been the leading entity in the rulemaking procees: the Secretary 
+of Commerce would.  
+Most importantly, the Senate-House Conference report that accompanied the enacted 
+version of the bill does not mention any de novo requirement at all.27 Given the significance of 
+the various substantive changes and the subsequent silence on the renewal issue, the Register’s 
+reliance on this isolated bit of language is misplaced and ill-advised. The Copyright Office 
+should reconsider its prior positions and conclude that it is legally free to prudently change 
+course on this issue and proceed to recognize that there is no statutory prohibition on its ability to 
+institute presumptive renewal.  
+Last but not least, the de novo requirement creates a paradox for those seeking 
+exemptions. Where an exemption successfully mitigates the harm, then petitioners likely will 
+have more difficulty in pointing to the adverse impacts during the next proceeding. As one 
+professor eloquently puts it, “the very success of the exemption in preventing harm to 
+noninfringing uses will weigh against its renewal.”
+28 This Catch-22 could not possibly have been 
+                                                 
+26 H.R. Rep. 105–551 (ii), at 37. 
+27 See H.R. Conf. Rep. 105-796 at 64. “The determination will be made in a rulemaking 
+proceeding on the record. It is the intention of the conferees that, as is typical with other 
+rulemaking under title 17, and in recognition of the expertise of the Copyright Office, the 
+Register of Copyrights will conduct the rulemaking, including providing notice of the 
+rulemaking, seeking comments from the public, consulting with the Assistant Secretary for 
+Communications and Information of the Department of Commerce and any other agencies that 
+are deemed appropriate, and recommending final regulations in the report to the Librarian.” 
+28 Aaron K. Perzanowski, Evolving Standards & the Future of the DMCA Anticircumvention 
+Rulemaking, 10 J. OF INTERNET L. 1, 25 (Apr. 2007)..
+
+[PAGE 13]
+ 11
+what Congress intended when it created the “fail-safe mechanism” of exceptions for 
+noninfringing uses.29 The current process not only places all the initial burden on the proponents, 
+who often have less resources to start with, but also increases the burden over time because what 
+was sufficient last time will be by default insufficient next time as, at a bare minimum, 
+proponents have to prove that the “conditions that led to the adoption of the prior exemption 
+continue to exist today”
+30 and provide “a new showing of ongoing harm.”31 For instance, in 
+2010, the Register recommended against renewing the e-book exemption because, as one 
+commentator has noted, “petitioners based their proposal for renewal on their previous 
+submissions in the 2003 and 2006 Rulemakings, although the situation with e-books had not 
+significantly changed since 2002.”32  
+To avoid this paradox and the undue and unnecessary burden of parties seeking the 
+continuance of their previously granted exemption, the Office should shift the burden to 
+opponents of renewal to establish by substantial evidence that the exemption is no longer 
+warranted. 
+Question 4. Please assess the current legal requirements that proponents of an exemption 
+must satisfy to demonstrate entitlement to an exemption. Should they be altered? If so, 
+how? In responding, please comment on the relationship to traditional principles of 
+administrative law. 
+The current legal and evidentiary requirements the Office has imposed on proponents of 
+an exemption to demonstrate entitlement to an exemption are unnecessary, unduly burdensome, 
+and not required by the statutory language of the DMCA, the legislative intent behind the 
+rulemaking sections of the Act, or traditional principles of administrative law. Proponents should 
+not have to produce evidence and justification on all the points currently required or to satisfy the 
+heightened burden of demonstrating substantial adverse impacts. Specifically, the Register of 
+Copyright should abolish the mere inconvenience threshold and stop requiring proponents to 
+demonstrate a lack of any viable alternatives. Instead, proponents should only need to prove that 
+there are or likely will be actual adverse impacts on noninfringing uses due to the prohibition on 
+circumvention. Anything more goes beyond what the statute requires.  
+Under the current rule, proponents bear the burden of proof in the § 1201 proceeding. 
+They have to prove “by a preponderance of evidence” that the uses are or are likely to be 
+noninfringing and that these uses are adversely affected or will “likely” be affected by the § 1201 
+ban on access circumvention.
+33 In proving existing adverse affects, proponents have to prove that 
+a “‘substantial diminution’” (emphasis added) of the availability of works for noninfringing uses 
+by demonstrating “‘distinct, verifiable and measurable impacts’ occurring in the marketplace.’”34 
+                                                 
+29 H.R. Rep. 105-551(ii), 36.  
+30 2015 Notice of Inquiry, supra note 44, at 55690. 
+31 Perzanowski, supra note 52, at 25. 
+32 Maryna Koberidze, The DMCA Rulemaking Mechanism: Fail or Safe? 11 Wash. J.L. Tech. & 
+Arts 211, 264 (2015).  
+33 2015 Notice of Inquiry at 55690. 
+34 Id.
+
+[PAGE 14]
+ 12
+In other words, “mere inconveniences” and “individual cases” fail this burden because they are 
+“de minimis.”35 In proving future harms, proponents have to prove that future harm is “likely,” 
+prevailing “‘only in extraordinary circumstances in which the evidence of likelihood of future 
+adverse impact during that time period is highly specific, strong, and persuasive.’”36 
+The plain language of § 1201 is unambiguous, requiring only a showing of actual or 
+likely adverse effects on noninfringing uses.37 When the text of the statute is clear, the plain 
+meaning rule usually discourages further inquiry into legislative history. This is a classic instance 
+of Justice Holmes’ statement that, “[w]e do not inquire what the legislature meant; we ask only 
+what the statute means.” 38 Nevertheless, the standard that has been created and utilized in 
+previous rulemakings by the Copyright Office results in a convoluted, adjudicatory (rather than 
+rulemaking) process and imposes several additional hurdles on proponents, all of which are 
+neither required nor justified by the statutory language.  
+In particular, the Office’s requirement of a substantial diminution and its misplaced 
+concerns with disregarding mere inconvenience are not required by the DMCA. They are 
+nowhere to be found in the statutory language. They also are nowhere to be found in the primary 
+legislative history of the 1201 rulemaking provisions of the Act. Rather, support for such 
+requirements, meager as it is, can be found in only one isolated and ultimately unpersuasive 
+place, the House Manager’s Report.39  
+The Manager’s Report, however, is not authoritative legislative history. The rulemaking 
+provisions of the DMCA first appear in the Commerce Committee’s version, which “prevailed in 
+the full House of Representatives over the Judiciary Committee’s bill and was ultimately enacted 
+by both chambers.”40 The House Manager’s Report was a section-by-section analysis after the 
+Commerce Committee’s version passed the House. As Nimmer puts it, it is the “the handiwork 
+of one legislator after the fact.” 41 More importantly, the definitive Senate-House Conference 
+Report does not rely on the Manager’s Report and does not even mention substantiality.42  
+Nevertheless, the Register has seized on this one bit of tangential history in the 
+Manager’s Report to formulate and then attempt to defend its imposition of a standard of 
+                                                 
+35 Id.  
+36 Id. 
+37 17 U.S.C. § 1201(a)(1)(B), (C) and (D) uniformly use the language “are, or are likely to be . . . 
+adversely affected.” 
+38 12 HARV. L. REV. 417, 419 (1899). 
+39 See Rep. Howard Coble, Section-by-Section Analysis of H.R. 2281 as Passed by the House of 
+Representatives on Aug. 4, 1998 (Comm. Print 1998) at 6 [hereinafter House Manager’s Report]. 
+(“The focus of the rulemaking proceeding” as “whether the protection on circumvention of 
+technological measures (such as encryption or scrambling) has caused any substantial (emphasis 
+added) adverse impact on the ability of users to make non-infringing uses.”) 
+40 David Nimmer, Copyright: Scared Text, Technology, and the DMCA 426 (Kluwer Law 
+International)(2003). 
+41 Id. at 466.  
+42 Id. at n.152.
+
+[PAGE 15]
+ 13
+“substantial” diminution of noninfringing uses. NTIA, the other agency responsible for the 
+rulemaking proceeding, was quick to note that the substantiality requirement “impose[s] a 
+significantly heightened burden on proponents.”43 The Register offered a somewhat circuitous 
+interpretation. When “[r]ead in context,” the Register asserted, this standard is “the equivalent of 
+what the Commerce Committee Report described as a requirement of a showing of ‘distinct, 
+verifiable, and measurable impacts.’”44 She described substantial as “the opposite of 
+‘insubstantial,’” which is “another way of saying that a showing of more than ‘de minimis 
+impacts’ is required.”45 The Register then quoted the dictionary meaning of “substantial” and the 
+Supreme Court’s usage of this word, and concluded: 
+This burden of proof is not more stringent than the statutory text, but rather is a 
+clarification that any showing must be based on real, verifiable, and reasonable 
+evidence. Such a showing is equally applicable to present or likely harm. 
+Substantial evidence of likely adverse impacts is more than mere speculative or 
+theoretical harm. It requires more than ‘mere inconveniences, or individual 
+cases.’46 
+The crux of the problem is the last sentence. The test draws no bright line between 
+adverse effects and mere inconvenience. Nor does it provide a turning point when “individual 
+cases” become more than isolated instances and hence indicative of a larger problem. Mere 
+inconveniences and individual cases may seem similar to the de minimis threshold mentioned in 
+the Commerce Committee Report,47 but in practice there is no principled basis for drawing lines 
+or deciding when some is enough.  Thus the irony becomes that in order to overcome the 
+supposedly low threshold of de minimis impacts, proponents have to prove both substantial harm 
+and lack of viable alternatives—a much higher standard.  
+On the latter point, for example, in 2003, the Register refused to recommend the 
+proposed class of “[a]udiovisual works store on DVDs that are not available in Region 1 DVD 
+format and access to which is prevented by technological measures.”48 The Register received 
+over one hundred reply comments in support of the exemption, the “overwhelming majority” of 
+which were submitted by “individuals who had acquired DVDs from a region outside the U.S. 
+and then encountered difficulty in playing DVDs on devices purchased in the U.S.49 Commercial 
+DVDs are often encrypted and restricted to a particular “region code” so they cannot be played 
+on a drive that has a non-matching region code. This means that without circumventing a TPM, 
+                                                 
+43 Nancy J. Victory, NTIA Letter to Register of Copyrights Regarding DMCA, https://
+www.ntia.doc.gov/other-publication/2003/ntia-letter-register-copyrights-regarding-dmca 
+[hereinafter 2003 NTIA Letter].  
+44 Marybeth Peters, Register of Copyright, Recommendation of the Register of Copyrights in 
+RM 2002-4; Rulemaking on Exemptions from Prohibition on Circumvention of Copyright 
+Protection System for Access Control Technologies, 16 [hereinafter 2003 Recommendation]. 
+45 Id. at 17. 
+46 Id. 
+47 See H.R. Rep. 105-551(ii), at 37. 
+48 2003 Recommendation at 120. 
+49 Id. at 122.
+
+[PAGE 16]
+ 14
+the DVD owners would have to get a lower-quality VHS version of the work, reset the region 
+code on their computers, or buy a second DVD player with a matching region code. Each 
+solution was far less than ideal: first, VHS provided inferior quality and was becoming obsolete, 
+as the Register recognized; second, many computer manufacturers, like Apple, restrict the 
+number of times you can reset your region code;50 and third, an extra external DVD player would 
+be an otherwise unnecessary and unjustifiable investment in duplicative hardware. The Register 
+agreed that “[i]t is uncontested that merely watching a lawfully obtained copy of a non-region 1 
+DVD is a noninfringing use.”51 Yet she still rejected the exemption because in her view, “[a]s 
+long as such relatively inexpensive options remain available to those users who seek to view 
+foreign DVDs, it does not appear that an exemption is necessary to preserve this noninfringing 
+use.”52 
+The reliance on requiring proof of the absence of any alternative reached a high point 
+when the Register rejected the proposed class to circumvent TPMs on e-books in 2010. Since the 
+first rule-making, the Register had consistently granted this exemption because the visually 
+impaired need to circumvent TPMs on e-books to employ the read-aloud function and there were 
+few, if any, opponents to the exemptions. Yet once again the Register saw the existence of 
+alternatives, even costly and inconvenient ones, as fatal to the request: 
+However, as the Joint Reply Commenters pointed out, [proponent] AFB did not 
+test all of the ebook formats in which the sampled book titles were available. For 
+instance, AFB tested The Imitation of Christ, by Thomas A. Kemp is, in the 
+Microsoft Reader LIT Format and found that work to be inaccessible whether or 
+not Microsoft’s text-to-speech product was installed. However, the Joint Reply 
+Commenters pointed out that the same title appeared to be available in the Adobe 
+format with the read-aloud function enabled.
+53 
+While it is true that the AFB could have presented more book titles to strengthen their 
+case, that would remain true until they catalogued every available book. Moreover, the 
+availability of “alternatives” the Register identified were far from costless to the millions of 
+print-disabled individuals who might be affected.  If extra hours of web search and investment in 
+a new e-book reader (or several) are issues of “mere convenience” for the visually impaired, 
+“adverse impact” is left with significantly reduced practical meaning.54 
+Similarly, in the 2012 rulemaking, the Register narrowed the previous exemption for 
+phone unlocking to apply only to used “legacy” phones and then only for a 90-day period before 
+the exemption sunsetted.55 The Register rejected the proponents’ requests for exemption for 
+                                                 
+50 DVD Player: About DVD-Video Regions (Mar. 3, 2016, 7:10 PM), https://support.apple.com/
+en-us/HT201705. 
+51 2003 Recommendation at 121. 
+52 Id. at 123. 
+53 2010 Recommendation at 254. 
+54 Bill Herman & Oscar Gandy, Jr., Catch 1201: A Legislative History and Context Analysis of 
+the DMCA Exemption Proceedings, CARDOZO ARTS & ENT. L.J., 121, 188 (2006). 
+55 2012 Final Rule, 65265-66.
+
+[PAGE 17]
+ 15
+newly purchased handsets, over the objection of the NTIA, on the basis that an increasing 
+number of new unlocked phones were available for purchase. The Register adopted this narrow 
+view of adverse impacts even though it specifically acknowledged that “not every wireless 
+device is available unlocked, and wireless carriers’ unlocking polices are not free from all 
+restrictions.”56 It also rejected the NTIA’s recommendation that a broader exemption be granted 
+because many carriers’ unlocked phone policies “apply only to current customers or subscribers, 
+because some carriers will refuse to unlock devices, and because unlocking policies are often 
+contingent upon the carrier’s ability to obtain the necessary code.”57 More broadly, the Register 
+rejected NTIA’s common-sense conclusion that it is not “an appropriate alternative for a current 
+device owner to be required to purchase another device to switch carriers.”58 
+Thus, the Copyright Office should, and has the authority to, modify the showing required 
+to warrant a § 1201 exemption in the manner discussed above. 
+Question 7. Should section 1201 be amended to allow the adoption of exemptions to the 
+prohibition on circumvention that can extend to exemptions to the anti-trafficking 
+prohibitions, and if so, in what way? For example, should the Register be able to 
+recommend, and the Librarian able to adopt, exemptions that permit third-party 
+assistance when justified by the record? 
+Section 1201 should be amended to allow third parties to assist users to engage in their 
+§ 1201 exemption and to allow third parties to develop and offer the tools necessary to do so. An 
+exemption that affirms a user’s right to unlock his or her phone is largely meaningless when 
+doing so is a highly technical process for users and when third parties may face liability for 
+assisting or developing tools to help users engage in this lawful behavior. There is no copyright-
+based reason why third parties should be unable to help consumers, lawfully exempted under 
+§ 1201, circumvent locks on their devices. And as we explain in response to Question 2, device 
+manufacturers may have other reasons for why they lock their devices, and thus other reasons to 
+prevent third-party assistance in circumventing their locks, but those concerns should be 
+addressed elsewhere and by an entity other than the Copyright Office.  
+For example, consumer electronics, many of which contain TPMs, are now ubiquitous, 
+and the continued meteoric rise of smart devices will bring more networked devices—including 
+their device locks—to the aver age consumer. It should be no surprise that in 2015 over 64% of 
+American adults owned a smartphone, up from 35% in 2011.
+59 A more recent study found that 
+66% of Americans own at least two digital devices (smartphone, tablet, laptop), and 36% own all 
+                                                 
+56 Id at 65265. 
+57 Id. 
+58 Id. 
+59 Monica Anderson, 6 Facts About Americans and Their Smartphones, PEWRESEARCH.ORG 
+(Apr. 1, 2015), http://www.pewresearch.org/fact-tank/2015/04/01/6-facts-about-americans-and-
+their-smartphones.
+
+[PAGE 18]
+ 16
+three.60 Similarly, while nearly every American home has a television, over 40% of American 
+households now have a network-connected television, up from 8% in 2011.61 But there has been 
+an explosion of smart devices beyond the obvious phone and television examples.62  
+The average consumer is probably incapable of circumventing TPMs on his or her own, 
+as it is often a complex, technical process, requiring custom software development and deep 
+knowledge of software, hardware, and cryptography. Yet it is only recently that owners of 
+smartphones and similar mobile devices have received explicit authorization, via the Unlocking 
+Act, to seek third party assistance to unlock their devices, and it remains unlawful to traffic in the 
+tools used to lawfully unlock these devices.63 American consumers should not have to wait for 
+Congress to authorize third-party assistance to unlock other devices where the Register 
+recommends and the Librarian grant exemptions allowing lawful circumvention, nor should 
+users they need to each individually develop the tools and expertise necessary to assert their 
+rights. 
+Opponents of this amending § 1201 in this way may make several ultimately 
+unpersuasive arguments. First, they may argue that third-party assistance may not even exist to 
+unlock the various new TPMs, so granting an exemption to the anti-trafficking provision to allow 
+for third-party assistance is fruitless. But this argument misses the point. The very reason that 
+third-party assistance may not exist is because of the current limitations of § 1201. In particular, 
+§ 1201(a)(2) prohibits the mere creation of access control circumvention methods. Under this 
+language, not only is a third party prohibited from offering unlocking services, but it cannot even 
+provide a “self-help” guide for the user to unlock his own device. It’s no wonder that there is 
+scant evidence of available third-party unlocking assistance, especially for non-exempt activities: 
+third parties are likely and understandably discouraged from developing methods of 
+circumvention for fear of liability under § 1201 and the accompanying civil and criminal 
+penalties under §§ 1204 and 1205. One author explained this issue in the context of 
+circumventing CSS technology (used to prevent unauthorized access to DVDs): 
+In many instances this asymmetry can give rise to a rather perverse result: An act 
+of circumvention is permitted by an exemption, but the tools necessary to take 
+advantage of that privileged use remain illegal. Film studies professors, for 
+example, could face difficulty in legally obtaining tools to engage in the very sort 
+of circumvention privileged by the new exemption. While DeCSS, a tool for 
+circumventing CSS, is available on the Internet, those who make it available, even 
+to film studies professors, risk liability for trafficking in circumvention tools. 
+                                                 
+60 Monica Anderson, Smartphone, Computer or Tablet? 36% of Americans Own All Three, 
+PEWRESEARCH.ORG (Nov. 25, 2015), http://www.pewresearch.org/fact-tank/2015/11/25/device-
+ownership. 
+61 STATISTA, Number of Smart TV Households in the United States from 2011 to 2016, (last 
+visited Mar. 1, 2016), http://www.statista.com/statistics/268857/number-of-smart-tv-households-
+in-the-us. 
+62 See, e.g., Category: Smart Devices, WIKIPEDIA.ORG (last visited Mar. 1, 2016), https://
+en.wikipedia.org/wiki/Category:Smart_devices. 
+63 Unlocking Act at §§ 2(a), (c); 37 C.F.R. § 201.40; see also 2014 NOI at 55688.
+
+[PAGE 19]
+ 17
+Moreover, DeCSS alone is insufficient for all but the most sophisticated users to 
+engage in circumvention and user-friendly software tools built around DeCSS 
+have been pulled from store shelves as a result of DMCA liability. Even if film 
+studies professors can locate or develop such tools, they would still face liability 
+for sharing them amongst themselves.64 
+And this is no mere threat— Universal City Studios v. Corley65 demonstrates that 
+companies are willing to sue and can succeed under the § 1201 antitrafficking provisions. In this 
+case, Corley posted a copy of the decryption program “DeCSS” on his website, and also posted 
+links to other sites offering similar technology.
+66 Eight motion picture companies sued under the 
+DMCA, and Corley responded with several arguments, including fair use and constitutional 
+assertions under the First Amendment.67 The Second Circuit rejected Corley’s arguments and 
+affirmed the District Court’s judgment:68 Corley was enjoined from posting DeCSS on his 
+website, as well as knowingly linking to other sites on which DeCSS was posted.69 
+Consumers should not require special action by Congress, or be forced to rely on the 
+whims of the manufacturers of their devices for assistance lawfully unlocking their devices. The 
+DMCA should permit, or should allow the Copyright Office to authorize, third-party assistance 
+and creation of tools for every § 1201 exemption the Office grants. 
+Conclusion  
+ISRI appreciates the opportunity to contribute to the Copyright Office’s study of § 1201 
+and the triennial rulemaking process. IRSI submits that, as the most significant copyright-related 
+legislation after the Copyright Act of 1976, the DMCA was intended to and should always focus 
+on copyright concerns only. The § 1201 exemption rulemaking is not an appropriate venue for 
+weighing non-copyright concerns. The current de novo requirement is not only unwarranted by 
+legislative history or statutory language, but has also imposed a recurrent burden on resource-
+constrained proponents. Additionally, the Copyright Office’s interpretation and application of the 
+substantial impact requirement has deviated from congressional intent and the plain meaning of 
+the statute. A substantial diminution of availability of works, through the showing of a lack of 
+alternatives, has proven to be unrealistically burdensome to otherwise noninfringing users. ISRI 
+therefore urges the adoption of a presumption of renewability in future rulemakings and a 
+reduction of the burden on proponents. 
+                                                 
+64 Aaron K. Perzanowski, Evolving Standards & the Future of the DMCA Anticircumvention 
+Rulemaking, 10 J. OF INTERNET L. 1, 23 (Apr. 2007). 
+65 273 F.3d 429, 440 (2d Cir. 2001). 
+66 Id. at 435-36. 
+67 Id. 
+68 Id. at 459-60. 
+69 Id. at 434-35.

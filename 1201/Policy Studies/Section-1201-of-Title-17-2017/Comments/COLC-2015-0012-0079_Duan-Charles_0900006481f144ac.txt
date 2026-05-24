@@ -1,0 +1,704 @@
+[PAGE 1]
+IN THE UNITED STATES COPYRIGHT OFFICE
+LIBRARY OF CONGRESS
+In re:
+Section 1201 Study: Notice and Request
+for Public Comment
+Docket No. 2015-8
+80 Fed. Reg. 81369
+81 Fed. Reg. 8545 (Extension)
+COMMENTS OF CHARLES DUAN
+The following comments are respectfully submitted in response to the Notice dated
+December29,2015,forwhichanextensionofthecommentperiodwaspublishedFebruary
+19, 2016. The commenter is an attorney with the organization Public Knowledge. That
+organization is submitting comments in this proceeding as well; the present papers are
+filed in the commenter’s personal capacity.
+TheNoticeseekscommentsproviding“anyinsightsorobservationsregardingtherole
+andeffectivenessoftheprohibitiononcircumventionoftechnologicalmeasuresinsection
+1201(a).” The following comment responds through a short, pertinent work of speculative
+fiction.
+Section1201,atbottom,askshowenforcementofcopyrightwillinfluencethedevelop-
+ment and use of technology. While technological developments offer new opportunities
+for creativity and free expression, advancements in technology can also lock down that
+creative process. Striking a balance between the interests of copyright owners and mem-
+bers of the public is the essence of any proper reading of section 1201.
+To understand this interplay among technology, creativity, and law, the many factual
+and analytical comments submitted in this proceeding provide extensive insights into
+that complex, nuanced problem. But there has always been another way to understand
+the complexities and nuances of the world: through the device of creative fiction.
+
+[PAGE 2]
+Though obviously not based in fact, fiction has been incredibly important in teaching
+truths. WorkslikeHarrietBeecherStowe’s Uncle Tom’s Cabin,UptonSinclair’s The Jungle,
+and George Orwell’s1984 have all put forth critical perspectives on important questions
+of law and policy. Those fictional works made difficult issues of their respective times
+tangible in a way that no legal document can.
+To that end, the following submission is a short story of speculative fiction that deals
+with the exact question that the Copyright Office considers today with section 1201: how
+should the protection of copyright interests proceed in the face of new technologies that
+might be used to stop infringement? The story was published on the popular website
+Boing Boingand was favorably reviewed by well-known writers.
+I hope that this story bears interest to those in the Copyright Office who share both
+a love for creative works and a desire to make good policy in a changing technological
+environment. I am grateful for the opportunity to submit these comments, and am happy
+to provide any further information that would be helpful to this proceeding.
+Respectfully submitted,
+Charles Duan
+1818 N Street NW, Suite 410
+Washington, DC 20036
+2
+
+[PAGE 3]
+STOP THE MUSIC
+by Charles Duan
+Originally published onBoing Boing, July 28, 2015
+This is a work of fiction. Any resemblance to actual persons or events is purely coincidental.
+I.
+In the District Court for the Central District of California
+Eugene L. Whitman v. Alfred Vail Enterprises, Inc.
+Complaint for Copyright Infringement
+February 18, 2044
+Comes now plaintiff, Eugene L. Whitman, by and through his attorneys, and bringing
+a complaint against Alfred Vail Enterprises, Inc., states:
+1. Plaintiff Whitman is a songwriter and composer of the popular song “Taking It
+Back.”
+2. OnJanuary14, 2044, DefendantVailEnterprisesfirstdistributedthenow-hitsong
+“Straight Focus.”
+3. “Straight Focus” includes an eight-note sample from “Taking It Back.” Vail Enter-
+prises accordingly infringed Whitman’s copyright by making an unauthorized derivative
+work.
+Wherefore, Whitman prays for judgment against Vail Enterprises as follows:
+A. A permanent injunction prohibiting Vail Enterprises from continuing to infringe
+Whitman’s copyright;
+B. Destruction of all copies of “Straight Focus” in Vail Enterprises’ possession; and
+C. An order requiring Vail Enterprises to erase the song “Straight Focus” from the
+memories of all persons residing in the United States.
+3
+
+[PAGE 4]
+II.
+In the District Court for the Central District of California
+Eugene L. Whitman v. Alfred Vail Enterprises, Inc.
+Answer of Alfred Vail Enterprises, Inc.
+February 25, 2044
+Defendant Alfred Vail Enterprises, Inc., answers the Complaint of Plaintiff Eugene L.
+Whitman as follows:
+1. Vail Enterprises is a corporation of the State of Delaware, with headquarters in
+Los Angeles, California, and is wholly owned by Alfred Vail.
+2. After a long and successful career in the neurobioengineering industry, Mr. Vail
+decided to enter the field of music. His first composition, “Straight Focus,” was a unique
+and innovative work of music, reviewed by critics as “the sound of a new technological
+century” and “a breakthrough piece at the intersection of brain science and art.”
+3. Besides being a critical success, “Straight Focus” was a multinational hit. It was
+viewed on video sharing sites over 350 million times within a month of its release. But
+more indicative of its popularity are the appreciation videos, remixes, and cover versions
+that its fans have made.
+4. Mr.Vailwrote“StraightFocus”inmemoryofhisdaughter, SarahVail, whopassed
+away as a teenager due to complications of leukemia last year. The piece is made up of
+fifty of Ms. Vail’s favorite musical works, which Mr. Vail arranged using his creativity and
+experience in neurological science to produce an unexpectedly emotionaltour de forceof
+sound. One of those works was the Plaintiff’s piece “Taking It Back.”
+5. The included portion of “Taking It Back” in “Straight Focus” was minimal, and
+it has not diminished the value of the former piece. Indeed, the popularity of Mr. Vail’s
+compositionhassparkedsignificantinterestandincreasedsalesinallofthesourcepieces.
+Accordingly, Mr. Vail’s use of a small portion of “Taking It Back” is not copyright infringe-
+ment, or, at a minimum, is fair use under 17 U.S.C. § 107.
+4
+
+[PAGE 5]
+6. Furthermore, Plaintiff Whitman’s proposed remedy of erasing all memory of
+“Straight Focus” from people’s minds is unprecedented and absurd. No court has ever
+ordered or authorized a total memory erasure on the public in a copyright case, and it
+should not be ordered or authorized here.
+III.
+In the District Court for the Central District of California
+Eugene L. Whitman v. Alfred Vail Enterprises, Inc.
+Opinion and Order on Memory Erasure
+June 20, 2044
+Opinion of Benson, District Judge.
+ThetrialjuryfoundthatDefendantVailEnterpriseshadinfringedPlaintiffWhitman’s
+copyright. Plaintiff now seeks from this Court an order to compel Vail Enterprises to
+eraseallmemoriesoftheinfringingsong“StraightFocus”fromthemindsofeveryperson
+residing in the United States, using the National MemSweep system.
+This is a highly unusual and unprecedented form of relief that Whitman seeks, and so
+some background on the system is in order.
+The National MemSweep system developed out of the MemSweep technology in-
+vented by Alfred Vail in 2028. Prior advances in neuroscience had revealed that human
+memories could be altered or erased by agitation of brain cells, but those procedures were
+invasive and risky, accordingly only being used in particularly unusual situations of men-
+tal illness such as post-traumatic stress disorder.
+Vail discovered that certain rapidly fluctuating low-frequency sound waves could be
+used to perform the same brain cell agitation, thereby allowing for erasure of memories
+safely, and noninvasively, and with a great deal of precision as to time and subject matter
+of the memories. The resulting technology, which he called MemSweep, was offered as
+a consumer-level service, often to erase memories of embarrassing events, ex-lovers, and
+traumatic situations.
+5
+
+[PAGE 6]
+The consumer service unexpectedly became a national security defense, at the time of
+the August 2039 terrorist attacks on the United States. The Central Intelligence Agency
+had intercepted an encrypted communication detailing a plot for multiple simultaneous
+bombings on several major cities. The CIA knew the attack would happen within a week,
+but otherwise could not decrypt the messages to identify the details of the plan. With
+time running out, the CIA in a last-ditch effort procured thousands of large, high-fidelity
+speakersystems,distributedthemaroundcities,andloudlyplayedMemSweeprecordings
+designed to erase memories of all conversations held during the time of the intercepted
+messages.
+The results were striking: San Francisco and Washington, D.C., where MemSweep
+was deployed, saw not a single bombing, while New York City, where MemSweep was
+not deployed in time, was devastated.
+Following those attacks, the country moved quickly to deploy MemSweep on a na-
+tional scale. The resulting array, known as the National MemSweep system, covers every
+square inch and every person of the United States, and can ensure total erasure of an idea
+from the populace. The system has been used infrequently but occasionally, and under
+strict judicial supervision, to foil terrorist plots and avert crimes, to great success, and the
+CIA and military have investigated applications as well.
+But the National MemSweep system has never been used to vindicate a private party.
+Itsofarhasonlybeenactivatedtoremoveideasofcrimesorpublicdangers. SoWhitman’s
+request to use the system to remove memory of a song is truly unexpected. This Court
+has not a single prior decision or precedent to stand upon.
+As an initial matter, an order for a party to use the National MemSweep system would
+almost never be appropriate, since this Court can only order a party to do something that
+the partycan do, and operating National MemSweep is not something that most people
+can do. But Defendant here is an unusual exception, because Vail Enterprises owns the
+system. The Alfred Vail who invented MemSweep went on to found Vail Enterprises,
+6
+
+[PAGE 7]
+which financed and built National MemSweep, and continues to own it. Thus, an order to
+use the system could actually be issued against him.
+Whitman contends that 17 U.S.C. § 503(b) permits this Court to order Vail Enterprises
+to perform a memory erasure of the song. That law says that this Court “may order the
+destruction. . . ofall copies or phonorecordsfound to havebeenmade or used in violation
+of the copyright owner’s exclusive rights.” Because the neurons storing memories of the
+song constitute “copies or phonorecords,” Whitman argues, this Court has the power to
+order Vail Enterprises to conduct the “destruction” of such copies by erasing memories.
+I am sympathetic to Whitman’s position. Whitman is clearly very protective of his
+musical works, refusing to allow anyone else to make derivative works or alterations
+of them, out of his personal desire to ensure that his music remain “untainted.” He is
+allowed to do that, as copyright owner. I have already ordered Vail Enterprises to destroy
+all physical copies of the infringing song.
+But it is unclear, in my view, whether ordering the destruction of memories is a bridge
+too far. Perhaps it is; perhaps it is not—no other court authority provides any guidance
+on this question. If a Court of Appeals or the Supreme Court were to find such an order
+permissible, then I would grant the order. But until I have support from a court above, I
+find it necessary to err on the side of caution and not to order Vail Enterprises to erase
+memories of the infringing song.
+Motion denied.
+IV.
+The Washington Post
+Supreme Court to Hear Case on Memory Erasure
+February 12, 2046
+This morning, the Supreme Court will hear arguments in a closely watched case over
+the ability of a songwriter to use his copyright power to erase from the minds of all Amer-
+icans a song deemed to infringe that copyright.
+7
+
+[PAGE 8]
+The case,Whitman v. Vail Enterprises, pits songwriter Gene Whitman against neuro-
+scientist-turned-remix-artistAlfredVail, overtheformerhitsong“StraightFocus.” Ajury
+in 2044 decided that Vail’s song infringed Whitman’s copyright. Immediately afterwards,
+the Recording Industry Association of America issued commands to the Federal Digital
+RightsManagementsystem,automaticallydeletingallversionsofthesongfromallonline
+sites and personal computing devices. “Straight Focus” has not been heard in the United
+States for over a year now.
+But Whitman found the deletion of “Straight Focus” from all devices to be not enough.
+Intensely protective of his works, Whitman sought a further order from the court for
+deletionof“StraightFocus”fromallpeople’sminds,usingtheNationalMemSweepsystem
+owned by Vail.
+The trial court refused Whitman’s request, stating that it would not order the use of
+National MemSweep without guidance from the Supreme Court.
+Whitman declined to comment on the case. Vail, in an interview, expressed “exasper-
+ation” that the case had even reached the Supreme Court.
+“Mysong‘StraightFocus’holdsalotofmeaningtolotsofpeople,”hesaid. “Forme,it’s
+a memory of my daughter, who I lost three years ago. And fans of the song have created
+their own meanings and memories from it. It boggles the mind why Gene Whitman can
+selfishly wipe out all those thoughts with some sort of claim of copyright ownership.”
+ThisisthesecondrecentcaseontheNationalMemSweepsystemtoreachtheSupreme
+Court. The last case,United States v. Neilson, tested the constitutionality of the system as
+used to suppress criminal activity in the wake of the August 7, 2039 terrorist attacks. A
+sharply divided 5–4 decision affirmed the system.
+Writing for the majority, Chief Justice Diehr rejected challenges under the First, Fifth,
+and Fourteenth Amendments, finding National MemSweep to be “a necessary tool of a
+technological society to prevent wrongdoing and malfeasance against the public.” An air
+force veteran and former Department of Justice prosecutor, the chief justice likely drew
+8
+
+[PAGE 9]
+from her years of experience serving in the United States military when she concluded
+that “the ever-increasing threats to this nation can only be met with ever-increasingly
+effectivedefenses.” Furthermore,shewrote,“thedutiesofcitizenshipmustatleastinclude
+the surrender of personal thoughts if to do so would protect the greater good, just as one
+may be called to surrender liberty or property in times of war for the good of the nation.”
+A strongly worded dissent by Justice Diamond dismissed the idea that “the human
+mind is the plaything of the federal government.” Reflecting his background as a former
+civil rights lawyer, the justice interpreted the Constitution and Bill of Rights to include
+“penumbras” of guarantees of privacy and freedom of thought. These were strongly in
+conflict with non-consensual memory erasure, in his view. He cited to the caseAmericans
+for Digital Rights v. Gottschalk, which held that collection of online data was an illegal
+search under the Fourth Amendment. Twenty-five years ago, Justice Diamond was the
+attorney for ADR in that case, which finally struck down pre-Internet caselaw that had
+been seriously questioned by Justice Sotomayor back in 2012.
+Justice Flook, who wrote a separate concurrence, indicated that he was “on the fence”
+duetothe“troublingimplications”ofwidespreadmemoryerasure,butonthewholefound
+that the benefits outweighed those issues. He will likely cast the swing vote in the case,
+and all eyes will be on him during the argument.
+Thejusticeisaformerlawprofessor, whoseinterestsandwritingsfocusedonenviron-
+mental and natural resources law. Reflecting his academic prowess and his environmen-
+talist passion, the justice’s opinion inNeilson, like many of his others, is both analytically
+brilliant and emotionally torn. “I sincerely fear,” he wrote, “a world where my memories
+and the memories of countless others can be erased at the flip of a switch. But I fear at-
+tacks of terrorists no less. So long as I can be satisfied that memory erasure is limited to
+the most necessary of situations, my first fear will remain sufficiently contained.”
+Theargumentwillbeginat10:00AM,andthecaseis Whitman v. Alfred Vail Enterprises,
+No. 45-405.
+9
+
+[PAGE 10]
+V.
+In the Supreme Court of the United States
+Eugene L. Whitman v. Alfred Vail Enterprises, Inc.
+Oral Argument of Attorney Richard A. Tilghman
+on Behalf of Petitioner Eugene L. Whitman
+February 12, 2046
+Chief Justice Diehr: We’ll hear argument this morning in Case 45-405, Whitman
+versus Alfred Vail Enterprises.
+Mr. Tilghman?
+Mr. Tilghman: Madam Chief Justice, and may it please the Court.
+Today, we ask this Court to protect one of the oldest and most important property
+rights established within this nation: the copyright that protects the creative works of
+authors, artists, and—most relevant to this case—musicians.
+Section 106 of the Copyright Act guarantees to copyright owners the exclusive right
+to make copies of their works, to make derivative works based on the originals, and to
+distribute and publicly perform those works, among other things. These rights are—
+Justice Diamond: Before we get too far into the copyright weeds, Mr. Tilghman,
+can you explain to me why we should even be considering this case? This is a case about
+erasing people’s memories, so I want to start out with why you think the National Mem-
+Sweep system is at all relevant outside the very narrow confines of terrorist activity that
+we permitted inNeilson. I mean, we’re talking about suspending civil rights, about free-
+dom of thought. Why should we even be thinking about erasing people’s memories any-
+where outside the context of terrorism?
+Mr. Tilghman: Justice Diamond, though Neilson was itself a case involving a ter-
+rorist act, its reasoning was not limited to such situations. This Court’s decision relied
+on general principles of the Constitution, and it decided that erasure of memories on a
+national scale was permissible when “an unquestionable interest of the American people
+is placed at imminent risk.” The unquestionable interest inNeilson was the right to safety
+from terrorism, but other important interests could fit the bill as well.
+10
+
+[PAGE 11]
+Chief Justice Diehr: And, of course, there’s the fact that an illegal idea is contra-
+band. Youknow, no one questions why it’s illegal to ownillicit drugs, or weapons of mass
+destruction. An idea can be just as destructive as either of those things. Doesn’t it seem
+like the government should have the power to confiscate dangerous ideas to protect the
+people?
+Mr. Tilghman: Indeed that’s right, your Honor. Possession of an illegal thought
+ought to be dealt with just like possession of an illegal object. And an infringing copy of
+a copyrighted work is contraband, as the Chief—
+Justice Flook: Well—well—hmm. I can understand the contraband argument as a
+general matter, but I’m worried about the slippery slope. I concurred inNeilson but was
+concerned about what overuse of National MemSweep could ultimately cause. Taken too
+far, it could lead to censorship, government mind control,Nineteen Eighty-Fourtotalitari-
+anism. How can I be sure, Mr. Tilghman, that what you are asking for in this case won’t
+take us down that path?
+Mr. Tilghman: It’s an excellent question, Justice Flook, but luckily it has a straight-
+forward answer. As I said previously,Neilson held that an “unquestionable interest of the
+American people” could justify use of National MemSweep without triggering those slip-
+pery slope concerns. And protection of copyright is that kind of unquestionable interest,
+because copyright is a strong, absolute right.
+Chief Justice Diehr: Right, this is the argument from your brief about Digital
+Rights Management.
+Mr. Tilghman: That’s correct.
+DRM, of course, is the technology that ensures that copyrighted works cannot be mis-
+used in ways that the copyright owners do not want. That technology was once crude
+and rare, in the early days of computer technology. In that world, perhaps I would have
+agreed with you, Justice Flook: copyright was rarely enforced, and piracy was rampant.
+11
+
+[PAGE 12]
+But the world shifted toward mobile devices around the turn of the century, and those
+devices could be tracked, controlled, or even disabled remotely. That opened the door to
+strong, effective DRM, which was ultimately developed by an industry consortium and is
+now included on every computer device sold today. That industry standard DRM gives
+copyright owners total control over their works: power to stop copying, power to control
+who views the work, power even to delete data off of a device to protect against misuse.
+That is absolute control.
+Looking atitthatway, what myclientisasking forinthiscase isnotaparticularly big
+step. He already has control over every copy of his work stored in any electronic device.
+All he wants now is control over copies of his work stored in people’s minds.
+Justice Diamond: Wait—wait a second. You’re completely forgetting the rights on
+the other side. Don’t consumers have rights to make personal copies, or to play music
+among friends? There are all sorts of things that are “fair use” or otherwise allowed under
+copyright law, as I recall. Making parodies, quoting for news reporting, recording broad-
+casts to watch them later—these are all considered fair use rights, and people are allowed
+to do them despite copyright.
+Mr. Tilghman: While it is true that those exceptions to copyright still remain on
+the books, they have all been superseded by the law surrounding DRM.
+Justice Flook: So to be perfectly honest, Mr. Tilghman, I didn’t quite understand
+this argument in your brief. Section 1201 of the Digital Millennium Copyright Act, which
+I’massumingyou’retalkingabout,thatsectionsaysnothingaboutoverridingfairuseand
+other exceptions that Justice Diamond mentioned. So how do you reach the conclusion
+that Section 1201 supersedes such things?
+Mr. Tilghman: It’s admittedly a tricky concept, your Honor, and I apologize if I
+didn’t explain it well in the briefs.
+Itistruethatthoseexceptionstocopyright, likefairuse,stillremainonthebooks. But
+the applicability of those exceptions is sharply limited by DRM and Section 1201. Modern
+12
+
+[PAGE 13]
+DRM ensures that protected works cannot be used in ways the author does not desire,
+even if those uses might fall within one of those exceptions. And Section 1201 made it
+illegal to get around the DRM. So by operation of law and technology, it is illegal to use
+a DRM-protected work outside of how the copyright holder permits, regardless of any
+purported “statutory exceptions” to copyright.
+Chief Justice Diehr: So, in other words, Congress made it illegal to do whatever
+the DRM doesn’t allow, even if the DRM is blocking one of those copyright exceptions.
+And that means that respecting the DRM is actually more important than those fair use
+exceptions and such. Is that right?
+Mr. Tilghman: Yes, that’s exactly right. With Section 1201, Congress decided that
+copyright owners’ interests must come first, when it comes to data on devices. No reason
+why data in minds should be different.
+Justice Diamond: Thatjustseemsabsurdtome. Thislawmakesitillegalforpeople
+to exercise their rights like fair use?
+Mr. Tilghman: Perhaps it seems absurd to you that DRM legally overrides fair use,
+but that has been long established as the law. A case from 2001,Universal City Studios
+v. Corley, specifically said that circumventing DRM was illegal under Section 1201, even
+if it was done for fair use purposes.MDY Industries v. Blizzard Entertainmentfrom 2010
+reached the same conclusion.
+If these cases were wrong, then Congress has had four decades to change the law. But
+there has been no such change. Section 1201 remains on the books just as it was enacted.
+This just goes to show that copyright is a power of total control today. It is a very strong
+right.
+Justice Flook: So this is fascinating. I think I now understand your argument for
+why copyright is a strong right. But let’s step back a minute.
+This case is about erasing memories from citizens’ minds. From all the citizens’ minds.
+NowIappreciateyourargumentthatcopyrightisastrongright,backedbyDRMandlaws
+13
+
+[PAGE 14]
+like Section 1201. But I’m not sure why I should make the jump from very strong right to
+this remedy of memory erasure.
+ObviouslyallthisMemSweeplawisverynew,andwe’restillfiguringouthowitworks
+in all different areas of the law. But I want to make sure this isn’t like the power grabs I
+remember from the ’20s and ’30s, when the big nuclear power companies tried to claim
+all sorts of rights based on some pretty outlandish interpretations of environmental laws.
+What legitimate need do copyright owners have for erasing people’s memories?
+Mr. Tilghman: The legitimate need is the interest in total control over one’s copy-
+righted work. That interest in total control is legitimized by the DRM and Section 1201
+protections that enable such control. Copyright law today gives owners total and com-
+plete power over their protected property.
+The power to control is the power to erase. Already modern DRM systems allow copy-
+rightownerstodeleteinfringementsofthosecopyrightsfromafaratthetouchofabutton.
+Physical copies of infringements can be destroyed under Section 503(b) of the Copyright
+Act. And ever since the U.S. International Trade Commission started treating data trans-
+missions the same as importation of goods in 2014, it has been impounding and blocking
+Internet information on a regular basis. There is no doubt that removal of information
+from the public thought is a well-accepted remedy for copyright infringement.
+So why should it matter whether that information is removed from a silicon drive
+or a human neuron? As Chief Justice Diehr explained earlier, information that infringes
+copyright, like Mr. Vail’s song “Straight Focus,” is contraband wherever it might be stored.
+And ultimately, all we ask for in this case is the modest proposal to apply the same power
+over computer devices that DRM gives copyright owners, to apply that power to human
+minds. If we can prevent tablets from thinking infringing thoughts, why shouldn’t we
+stop people from using their heads to violate aptly-named intellectual property rights?
+The only reason that copyright infringements were allowed to remain stored in peo-
+ple’s minds is that we didn’t have the technology to remove illegal copies of memories.
+14
+
+[PAGE 15]
+Today we have that technology. So I urge the Court to take what is the next natural
+and reasonable step in protecting copyright owners, to allow them to fully protect what
+belongs to them.
+Chief Justice Diehr: Thank you, Mr. Tilghman.
+Ms. Proctor?
+VI.
+In the Supreme Court of the United States
+Eugene L. Whitman v. Alfred Vail Enterprises, Inc.
+Oral Argument of Attorney Willa M. Proctor
+on Behalf of Respondent Alfred Vail Enterprises, Inc.
+February 12, 2046
+Ms. Proctor: Madam Chief Justice, and may it please the Court.
+For the almost three centuries that the United States of America has been a nation, the
+inviolability of the mind has been a central tenet. The pursuit of happiness—the pursuit
+of personal thought—stands up there with life and liberty as an inalienable right.
+But that pursuit of happiness is fundamentally what is being questioned in this Court
+today. For Petitioner seeks to violate the fundamental right to freedom of thoughts, to
+maintenance of ideas, to pursuit of happiness—he seeks to violate these in order to vindi-
+cate his desire for protection of intellectual property.
+Certainly freedom of thought is not absolute, as this Court recognized inNeilson. But
+likefreedomofspeech,ortherightstodueprocessorequalprotection,itisafundamental
+right that may be breached only when there is a compelling interest on the other side—an
+interest like terrorism or national security.
+Copyright is no such compelling interest. It does not put the security or protection of
+the whole nation at stake; it is merely a financial interest of a single person.
+Chief Justice Diehr: Well, the interest of a single person can certainly be com-
+pelling if that interest is strong enough, can it not? The interest in protecting a person
+from violent crime, or a person’s fundamental right to equal protection under the law,
+15
+
+[PAGE 16]
+those are certainly compelling interests. And if, as Mr. Tilghman suggested, copyright is
+suchastrong,absoluteright,whyshouldn’titfallwithinthatsamecategoryofcompelling
+interests deserving of the utmost protection?
+Ms. Proctor: Well that’s just it, your Honor. Copyright is not nearly as absolute as
+Mr. Tilghman would have us believe. The most well-known exception to the absoluteness
+of copyright is the doctrine of fair use, by which one may perform an act that looks just
+like infringement of copyright, but bear no liability or responsibility for infringement,
+because the performed act is deemed a fair and acceptable use.
+Chief Justice Diehr: Mr. Tilghman just argued that fair use has basically been
+trumped by DRM and Section 1201. What’s your response to that?
+Ms. Proctor: Maybe he’s right as a practical matter, but the annihilation of fair use
+is not something that this Court should propagate or endorse. Doctrines like fair use are
+critical to the continued ability of artists and creators to do their work. All art builds
+upon the successes and inspirations of the past. Just as this Court cites prior cases in
+writing new opinions, a novel will quote or allude to older works; a painting will use the
+techniques of the great masters; a musician will borrow ideas from various genres and
+songs.
+So even if DRM and Section 1201 have diminished the doctrine of fair use on elec-
+tronic devices, this Court should not further diminish it by declaring copyright a totally
+absolute right. And that is why use of National MemSweep simply cannot be appropriate.
+That system is reserved for situations of absolutes: absolute rights for which there is no
+redeeming value on the other side.
+Justice Diamond: ThenumerousstatelawsregulatingtheoveralluseofMemSweep
+technology, those laws would confirm your view that National MemSweep must be re-
+served for uses of absolute importance, right?
+Ms. Proctor: They certainly would, your Honor. When MemSweep was first made
+popular years ago, states immediately acted to regulate the industry out of concern that
+16
+
+[PAGE 17]
+the technology could be abused. Today, every one of the fifty-two states has laws that
+license MemSweep operators, restrict use of memory erasure operations to a small set of
+appropriatesituations, imposewaitingperiodsonthosewishingtouseit, requiresubstan-
+tial verification of informed consent—
+Chief Justice Diehr: And all of those laws are inapplicable here. As I’m sure you
+know, the National Security Act of 2040 preempted those state laws and allowed for Na-
+tional MemSweep to be used “to protect any national interest or right,” to quote the lan-
+guage of the law. So enforcement of a right created by the U.S. government—oh, say,
+copyright—is explicitly permitted even in the face of those individual state laws you bring
+up, right?
+Ms. Proctor: Your Honor, the National Security Act was enacted only five months
+after the August 2039 terrorist attacks, and it seems obvious that the act was intended
+specifically to deal with terrorism and national security. So maybe the text of the act
+suggests that the act overrides all those protective state laws when it comes to enforcing
+copyrights. But in the context of the passage of the National Security Act, that’s a real
+stretch of interpretation.
+Justice Flook: It seems to me, counsel, that what you’re pointing to is that larger
+problem of a slippery slope, which we discussed with Mr. Tilghman. If copyright is not as
+strong an interest as national security, then allowing the National MemSweep system to
+be used for copyright enforcement might open the door to all sorts of other unintended
+uses of the system.
+Ms. Proctor: That’s exactly my concern, your Honor. Abuses of memory erasure—
+abuses of wholesale national memory erasure—are easy to imagine. A political party in
+power could use it to weaken the beliefs of the opposing party. Big companies could
+use it for corporate sabotage. Erasing memories could become the tool of oppression, of
+ostracism, of—
+17
+
+[PAGE 18]
+Chief Justice Diehr: Well it seems to me that there are plenty of other situations
+where it would be appropriate to use the system. What about leaks of classified infor-
+mation? Shouldn’t the government be able to use National MemSweep for preventing
+leaks?
+Ms. Proctor: Leaks of classified information are still issues of national security, so
+they are essentially no different from prevention of terrorism. So even if using National
+MemSweep to prevent those leaks is appropriate, that says nothing about using National
+MemSweep for copyright infringement.
+Chief Justice Diehr: OK, in that case let’s consider a copyright example. Say that
+you have a situation like the old copyright caseHarper & Row v. Nation Enterprises, where
+a magazine gets its hands on a book before publication, and “scoops” the book by printing
+the best parts in advance. That kills the market for the book and is totally contrary to the
+exclusive right to control distribution of one’s work that copyright entails. The only true
+remedy for the copyright owner is to erase memory of the scoop, so that the book can be
+sold and read anew. Isn’t that an appropriate use as well?
+Ms. Proctor: No, your Honor—
+Justice Flook: Huh.
+Ms. Proctor: I’m sorry?
+Justice Flook: Well—hmm. It’s interesting, that point that Chief Justice Diehr
+raises. I knew of theHarper & Rowcase but hadn’t thought of it that way.
+It reminds me of something that happened to me years ago, when I was still a student
+in law school. I had been working on a research project on local plastic shopping bag
+laws, back in 2012. I spent months digging through municipal law records, calling up city
+councils—even had to visit one town that still only kept the laws in paper books.
+Finally, I’d gotten all the data I needed, and was starting to write my paper on it. And
+I knew that this was going to be a big one, at least for a third-year law student with barely
+a law review note to his name. But I mentioned the results to a professor of mine at the
+18
+
+[PAGE 19]
+time, andherepeatedthemainconclusionduringapressinterview. Thatofcoursespread
+across all the news sites within days.
+I suppose I should have been happy that the facts were out there. But when it came
+time to send out my paper for publication two months later, of course no one was inter-
+ested. The paper was ultimately thrown out, along with the half a year I’d dedicated to
+it.
+Obviously I managed to produce other successful work—
+Justice Diamond: I think you did pretty well for yourself, Justice Flook.
+(Laughter.)
+Justice Flook: Well, being on the bench with you, it can’t be all bad.
+(Laughter.)
+But I suppose what I take from that incident is—well, having control over your own
+work is pretty important. I lost control over my research. But now technology can help
+with that. We have DRM that gives copyright holders control over their work on devices.
+Maybe that was controversial once, but everyone accepts that today, considering that the
+Section 1201 law remains unchanged. Why shouldn’t we have control over our works in
+the minds of others? That’s all that Mr. Whitman is asking for, right? A sort of do-over,
+to pluck out the mistaken, infringing information that never should have been let loose
+in the first place.
+Chief Justice Diehr: Something like, maybe, cleaning the environment of a pollu-
+tant? That would be analogous.
+Justice Flook: Hmm—yes—maybe that’s it. Maybe that’s what I was looking for
+when I was asking whether memory erasure is the right remedy here. Like scrubbing the
+air of chemicals, perhaps we’re scrubbing minds of information that doesn’t belong there.
+Ms. Proctor: I—I see that my time has expired, would—
+Chief Justice Diehr: The Court will indulge you a minute or two for a response.
+19
+
+[PAGE 20]
+Ms. Proctor: Thankyou,yourHonor. Toansweryourquestion,JusticeFlook,we’re
+not just scrubbing minds of a small piece of information. We’re scrubbing a whole lot
+more.
+When I talked to my client, Mr. Vail, about the importance of his song, he explained
+that it was intimately tied to the memory of his daughter, Sarah Vail. “Straight Focus” is
+made up of her favorite songs, he said, and so his memory of that song is his memory of
+her. The song also uses the neurological techniques he invented, working as a carefully
+orchestratedwholetotriggermemoriesofSarahinhismind. Inaveryrealsense, itisthis
+song that keeps Mr. Vail’s daughter alive. To take away his memory of that song would
+be to take a piece of her away from him.
+Thisdeplorableresultisonlywritlargerforallthefansofthesong. Fanshaveenjoyed
+the piece and built their own memories around it. Artists have built upon and improved
+the song with their personal tastes and creativity through remixes and cover versions.
+Shall we give up all of this creation, all of this progress, all of this thought and happi-
+ness, on the unilateral request of one songwriter? The Constitution of the United States
+says that copyright law must “promote the progress of science and the useful arts.” But
+the memory erasure that Mr. Whitman seeks would eliminate not only the infringing
+song—which was a work of progress in itself—but also all the progress made based upon
+it. Erasure is regress, not progress, and this Court should not authorize it.
+Chief Justice Diehr: Thank you, Ms. Proctor. The case is submitted.
+VII.
+The Washington Post
+High Court Authorizes Erasure of Song from National Memory
+June 25, 2046
+In an acrimoniously split 5–4 decision, the Supreme Court approved an order against
+technology and music giant Vail Enterprises, requiring it to use the National MemSweep
+20
+
+[PAGE 21]
+system to erase all memory of the hit song “Straight Focus” from the minds of all people
+in the United States.
+Writing for the majority, Justice Flook reiterated his concerns about cabining uses
+of National MemSweep to “serious infractions of the law,” but was persuaded that “the
+strong copyright policies that have developed over the last few decades indicate that the
+nation now views copyright infringement as such a serious infraction.” He went on to
+find that “removal of memories is an appropriate remedy, given the longstanding ability
+of copyright owners to remove ideas from just about every other place, based on Section
+1201 and other parts of the copyright law.”
+In dissent, Justice Diamond found the decision “diametrically opposed to the consti-
+tutional requirement that copyrights promote progress of the arts and sciences,” and pre-
+dictedthatthedecisionwouldleadto“aneradevoidofnewmusic, newwritings, andnew
+creations that depend on building upon the work of the past.”
+Musicindustryexecutivesapplaudedthehighcourtforapprovingofmemorydeletion.
+“Copyrightshouldgivecreatorstotalcontrolovertheirworksandhowaudiencesperceive
+them,” said Clifford King, president of the Recording Industry Association of America.
+“Eliminating bootleg content from people’s minds ought to be a part of that.”
+But civil liberties advocates disagreed. “A person’s right to freedom of thought ought
+to trump a commercial copyright interest,” read a letter signed by twenty nonprofit orga-
+nizations this morning, asking Congress to overturn the decision.
+The ruling will most directly affect the creator of “Straight Focus” itself, Alfred Vail,
+who will be compelled to conduct the erasure of memories of his own song. Vail could
+not be reached for comment. His neighbors reported that they had not seen him leave his
+home since the ruling was announced.
+This particular act of memory erasure for copyright infringement will remain unique
+for some time, given that it could only occur in the unusual circumstance of the copyright
+21
+
+[PAGE 22]
+infringer being the same as the owner of the National MemSweep system. But that may
+not be the case for long. The patents on MemSweep are due to expire two years from now.
+“We are in the early stages of planning our own system, tentatively called the ‘Mental
+Rights Management’ or MRM system,” said Mr. King. “This will allow every author, artist,
+and songwriter to reap the benefits of memory erasure that the Supreme Court’s decision
+authorizes.”
+The activation of National MemSweep in view of this case will not occur for several
+weeks, most likely not until late July. System engineers will code in the parameters of the
+informationtobeerased, sothatnotraceofmemory—notevenknowledgethatamemory
+had been erased—will remain.
+Aswithotheractivationsofthesystem, itwilllikelyoccurinthelatemorningorearly
+afternoon, to minimize disturbance. The procedure will consist of about fifteen seconds
+of low-pitched, rhythmic sounds—some have described them as lyrical or soothing—loud
+enough to penetrate walls or buildings, and calibrated to remove all memories of the song
+in question. After that time, the music will go silent.
+VIII.
+Message from Rand A. Warsaw to Alice Stevens Vail
+April 4, 2084
+Hi Mom,
+(I’m trying out this new direct-mind transcription thing—sorry if this is a little ram-
+bling, haven’t quite gotten the mental focus down yet.)
+I was going through Grandpa Al’s things to get ready for the estate sale next week (I
+can’t believe how fast they do these things, the funeral was just a week ago!) and of all
+things, there was this box stuck behind a desk stored in the attic. At first it looked like
+it might have fallen back there by accident—it must have been there for years, it was so
+dusty—but I think Grandpa may have meant to hide it.
+22
+
+[PAGE 23]
+Inside there were a couple of legal documents and newspaper clippings. Something
+about a lawsuit over a song that he wrote. I had no idea that he was a musician once.
+But I guess that’s not surprising, considering that the documents say that they erased
+everyone’s memory of his song.
+On top of the papers, there was this note:
+June 26, 2046. Last Monday, the Supreme Court approved obliterating
+my song “Straight Focus” from everyone’s memory. My song! That I spent
+months thinking about and planning, all because of a couple of dumb notes
+borrowed from someone else.
+I thought about leaving the country so at least I could escape the Mem-
+Sweep order, but the judge said that I had to be present to carry out the order
+to activate the system next month. Besides, the RIAA guy said that it was
+only a matter of time before their Memory Rights Management system went
+global anyway, so it’s not like I could really get away.
+I really hoped that “Straight Focus” would be my lasting legacy. I remem-
+berexplainingMemSweeptoSarahwhenshewassevenoreight, andshesaid
+to me, “Dad, maybe you should make something for remembering, instead of
+something for forgetting.” And after she lost her battle with cancer, I realized
+Ididwanttomakesomethingforpeopletoremember—andsomethingforme
+to remember her by.
+“Straight Focus” did that. Everyone loved the song, and there were all
+those great fan versions of it, and videos and everything. I was sharing my
+new music ideas with the whole world—creating something to be remem-
+bered.
+Copyright is supposed to protect artists like me, isn’t it? And instead,
+copyright law is what’s destroying my creation. How could they not see
+something like this coming? How could they have left that ridiculous 1201
+law untouched for almost fifty years?
+Well, life is full of ironies. The last thing I expected was for my own mem-
+ory erasing technology to be used against my own ideas.
+It’s been losses all the way down ever since Sarah died. She loved music,
+and there was nothing more important to her than her favorite playlist. After
+I lost her, I barely managed to hold onto that playlist before they deleted it
+underthedigitalgoodsestateplanninglaw(bizarrethatyournextofkincan’t
+inherityourmusiclibrary!). Imade“StraightFocus”tokeephermemoryalive,
+but then they deleted that song, even on my own computers.
+And now they’re deleting the very memory of that song about her. It’s
+like they’re deleting her from my mind.
+So before my memories are taken from me next month, I’m packing up
+what I have left of this song—practically all my memories of Sarah, I guess. I
+was going to leave the box on my desk so I’d see it after they run MemSweep.
+23
+
+[PAGE 24]
+But the thoughts I’m having now are too sad, too painful, and I don’t know
+if I want to reopen those wounds right after I’ve lost my memories. So I’m
+going to tuck this box back here in the attic. Perhaps I will find it again one
+day, hopefully in happier circumstances.
+Also, there’s this plastic cartridge, about the size of my hand, with some sort of shiny
+brownish spool of tape running inside. The plastic cartridge has “Straight Focus” written
+on it. There’s also a black machine with some buttons, and it looks like the cartridge fits
+inside the machine. I can’t get them to turn on, though. I think they need some power,
+and I tried every wireless induction charger I’ve got at home, and none of them worked.
+Must be too old for them, I guess.
+I’ll bring all the stuff I found when I come by tomorrow. Let’s ask Uncle James if he
+can figure it out, since he likes all that old 21st-century machinery. Who knows, maybe
+we’ll discover a whole new side of Alfred Vail that we’d never heard before.
+□
+24

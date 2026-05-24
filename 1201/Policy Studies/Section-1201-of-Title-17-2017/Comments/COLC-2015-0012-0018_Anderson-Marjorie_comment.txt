@@ -1,0 +1,6 @@
+Comment ID: COLC-2015-0012-0018
+Title: Initial Comments -  Marjorie Anderson
+Posted: 2016-03-04T05:00:00Z
+Submitter: Anderson-Marjorie
+
+The Digital Millennium Copyright Act&#39;s (DMCA) anti-circumvention provisions should be repealed, and the exemptions process ended. The digital standards are not providing accessibility and DRM makes it a crime for disabled people to be able to actually use digital content that they have bought and paid for. HDMI cables aren&#39;t made that stream closed caption data but it&#39;s a crime to break DRM in order to make open captions. DLNA (digital living network alliance) doesn&#39;t allow closed captions and/or descriptive video over a network but again, a crime to break DRM to add them. Some people with limited use of their hands need someone else to add their media to a server so they can then easily watch/listen but DRM makes that a crime. As long as people with disabilities have to ask for help to circumvent it in order to have the same access that non-disabled people have, then DRM is nothing but a way to steal from the disabled. Forcing disabled people to incur the expense of buying software to break DRM just so they can enjoy their purchases is wrong. Making people criminals just because they have a disability is wrong.

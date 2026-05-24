@@ -1,0 +1,799 @@
+[PAGE 1]
+ 
+ 
+UNITED STATES COPYRIGHT OFFICE 
+ 
+ 
+    *  
+Section 1201 Study: Notice and                                 Comments of:  
+Request for Public Comment                           *       Association of American Publishers,   
+     Motion Picture Association of America,  
+                                                *       Recording Industry Association of  
+Docket  No. 2015-8                                                      America 
+    * 
+  
+****** 
+ 
+ 
+I. Interests of Commenting Parties 
+The Association of American Publishers (“AAP”) is the largest national trade 
+organization of U.S. book and journal publishers, representing over 400 members, ranging from 
+major commercial book and journal publishers to small non-profit, university, and scholarly 
+presses.  AAP seeks to promote the effective and efficient protection of copyright to enable 
+publishers and our technology partners to create and disseminate literary, scholarly, and 
+educational works in new and convenient formats for consumers around the world to enjoy. 
+The Motion Picture Association of America, Inc. (“MPAA”) is a trade association 
+representing some of the world’s largest producers and distributors of motion pictures and other 
+audiovisual entertainment material for viewing in theaters, on prerecorded media, over broadcast 
+TV, cable and satellite services, and on the internet.  The MPAA’s members are: Paramount 
+Pictures Corp., Sony Pictures Entertainment Inc., Twentieth Century Fox Film Corp., Universal 
+City Studios LLC, Walt Disney Studios Motion Pictures, and Warner Bros. Entertainment Inc. 
+The Recording Industry Association of America, Inc. (“RIAA”) is the trade organization 
+that supports and promotes the creative and financial vitality of the major music companies.  Its 
+members are the music labels that comprise the most vibrant record industry in the world.  RIAA 
+members create, manufacture and/or distribute approximately 85% of all recorded music 
+produced in the United States. 
+The protections provided in Chapter 12 of Title 17 are extremely important to the 
+members of AAP, MPAA and RIAA.  These protections, which were put in place at a time of 
+great uncertainty in the marketplace, resulted in the roll-out of numerous successful, first-
+generation digital products, such as DVDs, e-books and iTunes.  Today, these protections 
+continue to enable the exciting new business models that the publishing, motion picture, and 
+music industries are currently using to disseminate their creative works.  The Copyright Office 
+should not recommend any Congressional action that would undermine the protections of 
+Chapter 12, or impede these innovative new services and products.
+
+[PAGE 2]
+ 
+ 
+ 2 
+ 
+II. Introduction and Summary of Comments 
+Because “the digital environment … allows us ers of electronic media to send and retrieve 
+perfect reproductions of copyrighted material easily and nearly instantaneously, to or from 
+locations around the world,” the internet presents both amazing opportunities and significant 
+risks.  H.R. Rep. No. 105-551, pt. 1, 105th Cong. 2d Sess., at 9 (May 22, 1998).  In 1998, when 
+the Digital Millennium Copyright Act (“DMCA”) was enacted to implement the World 
+Intellectual Property Organization Copyright Treaty (“WCT”) and the World Intellectual 
+Property Organization Performances and Phonograms Treaty (“WPPT”), Congress understood 
+that it was critically important for the United States to pass legislation to “make digital networks 
+safe places to disseminate and exploit copyrighted materials.”  S. Rep. No. 105-190, 105th 
+Cong., 2d Sess., at 2 (May 11, 1998).  See also Chapter 12 of Title 17, Hearing before the 
+Subcommittee on Courts, Intellectual Property and the Internet (“Chapter 12 Hearing”) , 113th 
+Con., 2d Sess., at 2 (Sept. 17, 2014) (opening remarks of Mr. Goodlatte) (“When the DMCA was 
+enacted, there was significant concern that the digitization of our economy would result in mass 
+piracy becoming an unfortunate reality for many copyright owners.  TPMs were intended to 
+enable copyright owners to engage in self-help to protect their works from theft.”).    
+Since 1998, technological changes have made massive copyright infringement even more 
+ubiquitous and profitable in markets worldwide.  However, copyright owners and their partners, 
+relying on the protections provided by Chapter 12 of Title 17, have worked to combat, and have 
+tried to limit, infringement, in part, by launching new methods of disseminating books, journals, 
+music, television programming, and movies that employ technological protection measures.  As 
+the Copyright Office has stated, “[s]ince the enactment of section 1201, the use of technological 
+measures has been useful in expanding consumer choice and the avenues for dissemination of 
+creative works …”  Section 1201 Study:  Notic e and Request for Comments, 80 Fed. Reg. 
+81,369, 81,369 (Dec. 29, 2015) (“NOI”).  Indeed, section 1201 of the DMCA “has worked to 
+encourage the creation of new digital works and has allowed authors a way to protect against 
+copyright infringement while also helping to promote the development of new and innovative 
+business models.”  Chapter 12 Hearing, 113th Con., 2d Sess., at 2 (Sept. 17, 2014) (statement of 
+Mr. Nadler).  See also id. (“The digital economy has enabled wide distribution of movies, music, 
+eBooks and other digital content.  Chapter 12 seems to have a lot to do with the economic 
+growth ...”) (statement of Mr. Marino). 
+Every three years, during the triennial proceeding to consider proposed exemptions to 
+section 1201(a)(1), the creative industries – including AAP, MPAA and RIAA – have submitted 
+to the Copyright Office detailed summaries of the marketplace developments made possible by 
+technological protection measures.  Just a few examples of current and rapidly-evolving business 
+models that are reliant on access controls include: 
+ Internet accessible movie collections, rental services, and subscription services, 
+available through a variety of devices and platforms, including Amazon, Disney 
+Movies Anywhere, Hulu, iTunes, Netflix and Ultraviolet. 
+ Music subscription services that enable both streaming and time-limited 
+downloads, such as Apple Music, Spotify, and Xbox Music. 
+ Subscriptions to e-books through services like Amazon Kindle Unlimited.
+
+[PAGE 3]
+ 
+ 
+ 3 
+ 
+The importance of technological protection measures to these business models, and the 
+enormous success that they have underwritten since 1998, must remain front-and-center during 
+the Copyright Office’s consideration of proposals to revise Chapter 12.  “We need to ensure that 
+Chapter 12 remains strong to prevent piracy and to keep the United States competitive globally. 
+.... An intellectual property system that protects copyrights incentivizes their owners to continue 
+to innovate and that in turn, of course, creates jobs and strengthens our Nation’s economy.”  Id. 
+at 3-4 (statement of Mr. Conyers).  Without the statute’s legal prohibitions against circumventing 
+access controls and trafficking in tools and services that enable circumvention of technological 
+protection measures, investment in the creation of digital content and distribution would be 
+curtailed.  Copyright owners would face greater risks, which would adversely affect their ability 
+to receive a reasonable return on their investments in creative content.  
+ Moreover, the WIPO Treaties and the DMCA, as well as numerous Free Trade 
+Agreements entered into since 1998, acknowledged that protections against circumvention 
+needed to extend beyond measures which protect solely against acts of copying and distribution, 
+and needed to cover access controls as well.  While access controls on authenticated services do 
+protect copyright interests by preventing actual infringement of exclusive rights, they also allow 
+producers and distributors to offer content to consumers through a variety of business models 
+based on the nature and extent of access afforded.  See MDY Industries, LLC v. Blizzard 
+Entertainment, 629 F.3d 928, 947 (9th Cir. 2010).  This is as Congress intended.  See S. Rep. No. 
+105-190, at 11 (“[I]f unauthorized access to a copyrighted work is effectively prevented through 
+use of a password, it would be a violation of [section 1201(a)] to defeat or bypass the password 
+and to make the means to do so…”).   
+The quid pro quo for protections against circumvention of access controls was the so-
+called “fail safe mechanism” of the triennial Copyright Office rulemaking process, to ensure that 
+exemptions can be granted in the public interest while taking into account the interests of right 
+holders.  See H.R. Rep. No. 105-551, pt. 2, 105th Cong., 2d Sess., at 36 (July 22, 1998) (“This 
+mechanism would monitor developments in the marketplace for copyrighted materials, and allow 
+the enforceability of the prohibition against the act of circumvention to be selectively waived, for 
+limited periods of time, if necessary to prevent a diminution in the availability to individual users 
+of a particular category of copyrighted materials.” ); H.R. Rep. No. 105-796, 105th Cong. 2d 
+Sess., at 64 (Oct. 8, 1998) (Conference Report on final legislation as passed).  For the most part, 
+the rulemaking process has worked well.  It has resulted in exemptions where proponents have 
+presented evidence to the satisfaction of the Register, without creating exemptions that are so 
+broad that they swallow the rule against circumvention.  While AAP, MPAA and RIAA do have 
+some concerns about certain exemptions and some procedural aspects of the rulemaking, they 
+oppose changes that would diminish the effectiveness of technological protection measures 
+broadly and discourage innovation by copyright owners and their authorized licensees.   
+In sum, the Copyright Office and Congress should proceed with great caution.  Chapter 
+12 of Title 17 has worked effectively.  Consumers enjoy access to a wonderful array of new 
+methods of accessing works.  Authors, publishers, musicians, songwriters, record labels, motion 
+picture studios, and the thousands of people involved in delivering books, music and movies to 
+the public – and a significant share of the 5.5 million Americans employed in the core copyright 
+industries – also enjoy the benefits of these new lawful services, which enable consumers to 
+learn about, sample and share the books, music and motion pictures that they love.  See Stephen 
+A. Siwek, Copyright Industries in the U.S. Economy: The 2014 Report at 2 (2014).
+
+[PAGE 4]
+ 
+ 
+ 4 
+ 
+III. Responses to Questions 
+A. Section 1201’s Role and Effectiveness 
+1. Please provide any insights or observations regarding the role and effectiveness of the 
+prohibition on circumvention of technological measures in section 1201(a). 
+When section 1201 took effect in 1998, a question existed regarding whether the creative 
+industries could effectively seize the opportunity presented by the internet and other forms of 
+digital dissemination of copyrighted works.  There was a significant threat that immediate and 
+unlimited unauthorized copying, typically without any perceptible quality loss, would undermine 
+the spread of legitimate, licensed services and products.  Although widespread digital piracy has 
+significantly harmed, and continues to harm, creative industries, the use of technological 
+protection measures has acted as a check on that harm so that it can be lessened to support the 
+continued growth of licensed services.  As a direct consequence, the protections of Chapter 12 
+have enabled an enormous variety of flexible, legitimate digital business models to emerge and 
+thrive – many of which rely on the specific form of access controls at the heart of section 
+1201(a)(1)(A).  These models expand access to works while also enabling copyright owners to 
+receive a reasonable return on their investments, which encourages the creation of new works.  
+Technological measures have become commonplace and familiar to consumers, who enjoy a 
+wide range of options for accessing expressive works at a variety of price points. 
+The entertainment industry and the publishing industry have transformed their 
+businesses.  Audiences have not been shy about their desire for seamless access to their favorite 
+books, journals, music, movies and television shows, at the time, and on the device or platform, 
+that works best for them; and the creative industries have heard them.  Members of AAP, 
+MPAA, and RIAA are continuously innovating to keep meeting the demands of their customers, 
+and providing choices to keep audiences growing and diversifying.  They are committed to 
+continuing that innovation.  They welcome and embrace the wide variety of new forms of 
+distribution, because they provide new ways of offering content to consumers in the manner they 
+want to enjoy it.   
+ The Motion Picture and Television Industry 
+Copyright protection under U.S. law continues to drive production and distribution of 
+television programming and films to the public, including over the internet, by giving creators 
+the exclusive right to determine how their content is disseminated.  Recognizing the property 
+right in content creates a marketplace in which creators, distributors, and viewers can enter into 
+an assortment of evolving relationships as technology and consumer expectations change.  
+Access controls and other TPMs are key enabling technologies for the healthy development of 
+this burgeoning digital marketplace.   
+The current market landscape demonstrates the salutary results.  The number of lawful 
+online sources for television and movie content has exploded.
+1  American audiences had access 
+                                                 
+1 See Rise of Innovative Business Models: Content Delivery in the Digital Age, Hearing before the 
+Subcommittee on Courts, Intellectual Property and the Internet, 113th Con., 1st Sess., at 13-20 (Nov. 19, 
+2013) (statement of John McCoskey, Executive Vice President and Chief Technology Officer, MPAA).
+
+[PAGE 5]
+ 
+ 
+ 5 
+ 
+to 112 lawful online services at the end of 2014, compared to 65 at the end of 2011.  They used 
+these services to access 66.6 billion television episodes online, compared to 34.4 billion three 
+years earlier and, lawfully accessed online 7.1 billion movies compared to 1.8 billion in 2011.  
+To meet this demand, the movie and television industry is making content available 
+online to viewers on every type of in-home and mobile screen, including PCs and Macs, smart 
+TVs, tablets and smartphones, gaming systems, and specialized devices, such as the AppleTV 
+and Roku.  Some of this content comes through internet applications offered by cable and 
+satellite companies.  Many content providers also offer programming directly to subscribers 
+through their own authenticated applications, including popular, household-name networks such 
+as A&E, ABC, CBS, CMT, Comedy Central, Disney, ESPN, Fox, Fox Sports, HBO, the History 
+Channel, MTV, NBC, Showtime, Sony, Starz, TBS, TNT, and USA.  Content providers also 
+license programming to “over the top” (OTT) services.  Subscription and pay-per-view OTT 
+services include Amazon Prime, Facebook, Hulu Plus, iTunes, Netflix, Nintendo Network, 
+PlayStation Network, Sling TV, Sony Vue, VUDU, Xbox Live and YouTube.  Ad-supported 
+OTT services include Crackle, Hulu, and YouTube.  All of this benefits consumers, who receive 
+a high-quality viewing experience, and creators, who are able to expand their reach, as well as 
+monetize their enormous investments. 
+The authorized services that deliver this content to American viewers cater to every 
+manner of consumer viewing model, including theatrical release, rental viewing, licensed-
+download, subscription viewing, and ad-supported viewing.  In fact, the streaming video 
+marketplace alone has become so robust that the FCC has already been able to subdivide it into 
+five sub-categories: 1) subscription linear, such as Sling TV, Sony Vue, and Verizon; 2) 
+subscription on-demand, such as Amazon Prime Instant Video, Hulu Plus, MUBI, and Netflix; 3) 
+transactional on-demand, such as VUDU and Xbox Video; 4) ad-based linear and on-demand, 
+such as Crackle, Hulu, Yahoo! Screen, and YouTube; and 5) transactional linear, such as 
+Ultimate Fighting Championship.
+2 
+In addition, the Digital Entertainment Content Ecosystem consortium of more than 60 
+studios, retail store chains and technology firms has created “UltraViolet,” a digital rights locker 
+for audiovisual content that allows consumers to choose their retailer while having confidence 
+that the quality and experience will be seamless across a wide range of devices.  When a 
+consumer purchases UltraViolet media – such as a Blu-ray, DVD or internet download – she also 
+can access the content on any UltraViolet device registered to her household and stream the 
+content through devices at home or on the go.  More than 23,000 titles are available through 
+UltraViolet, and consumers have set up more than 25 million user accounts, which have 
+redeemed more than 175 million movies and television programs.  
+Disney Movies Anywhere similarly provides a cloud-based platform for authenticating 
+access to Disney, Marvel, Pixar and Star Wars content across multiple digital video platforms 
+and devices, including iOS, Android, Apple TV, Chromecast, Amazon Kindle Fire and Amazon 
+Video Fire TV, Roku, Xbox360, and web browsers.  Users simply connect their Disney Movies 
+Anywhere account to their accounts with popular digital retail services, which currently include 
+iTunes, Google Play, VUDU, Amazon Video, and Microsoft Movies & TV.  Powered by 
+                                                 
+2See In re Promoting Innovation and Competition in the Provision of Multichannel Video Programming 
+Distribution Services, MB Docket No. 14-261, NPRM, FCC 14-210 at ¶¶ 13, 34. (rel. Dec. 19, 2014).
+
+[PAGE 6]
+ 
+ 
+ 6 
+ 
+Disney’s KeyChest technology, hundreds of titles purchased through these participating retailers, 
+or redeemed using the Digital Copy redemption code included in Blu-ray disc packages, are 
+instantly and seamlessly made available to the consumer for both streaming or download across 
+their connected accounts via the Disney Movies Anywhere apps and website. 
+To help viewers navigate among all the choices, as well as avoid sites that contain pirated 
+content and may expose users to malware, identity theft, and unseemly advertising, the MPAA 
+created WhereToWatch (www.WhereToWatch.com).  WhereToWatch is a free search site that 
+enables fans to locate television shows and films by title, actor, or director and click through to 
+lawful online sources, as well as see show times and buy tickets for movies still in theaters. 
+All of the digital products offered by MPAA member companies utilize technological 
+protection measures.  These technologies enable copyright owners to allow consumers to access, 
+and share with their families, for example, content licensed to Netflix and Amazon, in 
+conformity with the terms of service agreed to, such as continued payment of monthly 
+subscription fees.  They enable service providers to offer differentiated services that serve 
+particular consumer desires, such as time-limited movie “rentals” at one price point, and 
+permanent downloads at another.  They also allow copyright owners to offer to consumers multi-
+faceted products like Blu-ray Discs with accompanying digital copies, subscription services with 
+parental control options, time-limited downloads at bargain prices, and access via UltraViolet 
+retailers and Disney Movies Anywhere.  These pro-consumer benefits result from sophisticated 
+technologies that are empowering, not restricting, movie and television lovers.  The laws that 
+protect against attacks on these technologies are crucial for continuing the increasing flexibility 
+that the marketplace is currently yielding. 
+ The Publishing Industry   
+Digital technology has ushered in a new era of flexibility in publishing.  Publishers are 
+embracing digital technology to expand the relationship between readers and books by 
+embedding multimedia, developing interactive courseware, improving functionality for the 
+visually impaired, and embracing social media to connect authors to new audiences.  But no 
+matter the medium, publishers remain committed to creating great experiences that expand 
+consumers’ choice in how they access, enjoy and interact with books, journals and educational 
+content. 
+Whereas thousands of books would once take up rooms of space, millions of books can 
+now be stored in digital “cloud” libraries and readers can access them, anytime from anywhere, 
+simply by tapping the screen of a pocket-sized device.  Moreover, through the latest EPUB 
+format for e-books, consumers are enjoying greater interactivity, more dynamic multimedia-
+enhanced content and more accessibility functionality.   
+Today, more than half of digital-device owners have an e-book reader application.  These 
+readers want on-demand access to books, journals and textbooks wherever they bring their 
+digital device.  Publishers are responding by exploring new delivery models made possible by 
+modern technology.  Through partnerships with online platform providers, technology 
+companies and libraries, publishers are supporting more options for consumers and businesses to
+
+[PAGE 7]
+ 
+ 
+ 7 
+ 
+discover and read new works than ever before.  These new models include digital subscriptions, 
+e-lending, e-book rentals and print-on-demand.3 
+o Subscription On Demand:  Publishers have always had many forms of 
+subscription models for print (for example, journals, magazines, encyclopedia 
+releases, serially published novels), and they are eagerly adopting many kinds of 
+digital subscription services to give consumers fast, easy access to vast catalogues 
+of e-books.  Often viewed as “a Netflix for books,” popular e-book subscription 
+services include Scribd, Entitle, Kindle Unlimited and Safari Books Online, many 
+of which give subscribers unlimited, multi-device access to hundreds of thousands 
+of e-books for a small monthly fee.  Publishers decide how much of their 
+catalogue to post for subscription, such as only new releases and bestsellers, or 
+entire backlists.  The broad variety of models gives consumers great choice in 
+pricing, device compatibility, duration of access (short-term to perpetual) and 
+other features. 
+ 
+o E-Lending:  All of the “Big 5” trade publishers (Hachette Book Group, Harper 
+Collins, Macmillan, Penguin Random House, and Simon and Schuster) and many 
+other publishers now offer some amount of electronic lending (“e-lending”) of 
+their fiction and nonfiction e-book titles by libraries.  Many publishers are also 
+testing out different business models to enable individuals to e-lend e-books 
+among friends and family.  The current atmosphere for testing new e-lending 
+models is dynamic – publishers, distributors and libraries are exploring different 
+models to find the best ways to bring e-books to new and interested audiences.
+4  
+These lending models may differ by factors such as the amount of catalogue a 
+publisher makes available for lending, pricing, number of checkouts, the number 
+of allowed users and other variables.  
+ 
+o E-Book Rental:  Sometimes someone only needs a chapter of a book or an article 
+for a short amount of time.  For instance, students often need a textbook for just a 
+semester, and researchers may need just one journal article.  To meet this demand, 
+academic, professional and scholarly publishers are offering innovative rental 
+models for e-textbooks and online journals.  These new rental models offer 
+additional flexibility in accessing such works – often with lower costs that 
+typically vary by the length of rental time, the amount of the work rented 
+(chapters, articles, etc.), and the number of titles readers can access at once.  
+                                                 
+3 For additional discussion of how TPMs are used in the publishing industry see Chapter 12 Hearing, 
+113th Con., 2d Sess., at 125 (Sept. 17, 2014) (written statement of Allan Adler of AAP). 
+4 “With 95 percent of U.S. libraries now offering eBooks and audiobooks, the use of digital content 
+continues to grow:  More than 120 million eBooks and audiobooks were borrowed from libraries in the 
+first nine months of 2015, representing year-over-year growth of nearly 20 percent.”  Press Release, 
+OverDrive, Public Libraries Evolving to Meet Readers’ Needs in the Digital Age (September 30, 2015), 
+http://company.overdrive.com/news/press-releases/public-libraries-evolving-to-meet-readers-needs-in-
+the-digital-age/.
+
+[PAGE 8]
+ 
+ 
+ 8 
+ 
+Rental options have saved students over $100 million so far through using 
+CourseSmart, an e-textbook rental platform founded by several AAP-member 
+publishers.  In other cases, students may be able to access e-textbooks through 
+their college bookstore and even extend the rental period beyond the college 
+course.  Similarly, several professional and scholarly publishers are partnering 
+with online companies like DeepDyve to provide short-term access to the latest 
+journal content, allowing time-limited rental of full e-articles for reading on Web-
+enabled devices, all at nominal rates.  Besides saving from 30 to 90 percent off 
+retail print prices, e-rental models like these often enable students, faculty and 
+professionals to read the content online or offline, access it on multiple devices, 
+take and share notes, perform full text searches, and sometimes even customize, 
+print and copy the material. 
+ 
+o Print On-Demand:  The same technological revolution that has made accessing e-
+books and online journals as easy as clicking a button has also made it possible to 
+produce and distribute printed versions of the same works at any time, from 
+anywhere in the world.  This print-on-demand capability gives customers faster 
+access to hard copies and reduces waste by allowing large and small publishers 
+alike to print copies only as they are needed by partnering with distributors such 
+as Lighting Source and On Demand Books.  On-demand printing is making the 
+book and journal publishing industry more efficient, more cost-effective and more 
+“green” by reducing overhead costs and eliminating shipping, returns and pulping 
+of unsold books while still providing high-quality output. 
+These types of business models, which benefit consumers and publishers greatly, would 
+not be possible without technological protection measures, backed up by the legal provisions that 
+prevent their circumvention.    
+ The Music Industry 
+Demand for music online is higher than ever.  Legitimate online services that enable 
+people to listen to and interact with music have continued to proliferate and are changing the way 
+people consume music.
+5  Consumers have never had so many choices for experiencing music 
+legitimately and instantaneously.  The music industry has launched a website, 
+www.whymusicmatters.com, which is a resource for music fans interested in accessing one of 
+the many authorized digital music services in today’s marketplace.  A similar website, www.pro-
+music.org, offers the same service on a worldwide basis.  For these services to succeed and to 
+sustain the creative community, strong protection of copyright, along with technological 
+protection measures, are essential, as unauthorized disseminators of music continue to undermine 
+the value of legitimate music sites.   
+Some of the exciting services available today include the following, with most offered on 
+both in-home and mobile platforms: 
+                                                 
+5 See Cary Sherman, Valuing Music in A Digital World, Forbes (Sept. 23, 2015), 
+http://www.forbes.com/sites/realspin/2015/09/23/how-government-set-licensing-killed-the-music-
+industry/.
+
+[PAGE 9]
+ 
+ 
+ 9 
+ 
+o Music is available for download through services like AmazonMP3, GhostTunes, 
+Google Play, iTunes, 7digital, and several others, including in formats that allow 
+consumers access across multiple devices for personal use without 
+interoperability problems. 
+ 
+o Higher resolution music downloads, for greater fidelity, are available from 
+services such as HDtracks, Pono, Presto Classical and Pro Studio Masters. 
+ 
+o Interactive, on-demand music streaming services such as Apple Music, Rhapsody, 
+Spotify, and Tidal offer unlimited listening – on computers or smart phones – for 
+modest monthly fees.  They also offer to subscribers the ability to listen off-line. 
+ 
+o Free, ad-supported, audio-visual streaming sites, such as YouTube and VEVO, 
+offer free streaming of music videos. 
+ 
+o Digital radio services, such as iHeartRadio, Pandora, and Sirius/XM, offer 
+streaming audio on either an advertising supported basis or a subscription basis.  
+ 
+o Thousands of AM/FM stations are available as digital radio simulcasts. 
+ 
+o Licensed apps like Flipagram enable consumers to interact with music like never 
+before by creating photo and video stories set to music. 
+Due to all of this innovation, in the first half of 2015, digital dissemination accounted for 
+76% of the overall U.S. recorded music market by value, compared with 59% for 2012.
+6  In the 
+U.S., digital subscription revenues increased in 2014, as sales of smartphones and tablets that 
+promote use of streaming services increased streaming revenues sharply (in some cases, 
+substituting for downloads).7   In the first half of 2015, U.S. revenues from digital paid 
+subscriptions were $478 million, up 25% from the previous year.8   
+Most of these digital services rely on technological protection measures to authenticate 
+access and/or prevent unlicensed copying and distribution.  Because of access controls, 
+consumers can make low monthly payments to access unlimited amounts of music, while record 
+labels and musicians have comfort that they will be compensated for their efforts.  Music lovers 
+can also download copies of recordings from their subscription services that enable listening 
+when consumers are not connected to the internet.  These time-limited downloads are the perfect 
+example of how access controls and copy controls increase, rather than decrease, access to 
+music.   
+ 
+                                                 
+6 See Joshua P. Friedlander, News and Notes on 2015 Mid-Year RIAA Shipment and Revenue Statistics 1 
+(Sept. 22, 2015), http://riaa.com/media/238E8AC7-3810-A95C-44DC-B6DEB46A3C6E.pdf [hereinafter 
+RIAA Shipment and Revenue Statistics]. 
+7 IFPI Digital Music Report 2015, 7-8, http://www.ifpi.org/downloads/Digital-Music-Report-2015.pdf. 
+8  See RIAA Shipment and Revenue Statistics, supra n. 6, at 2.
+
+[PAGE 10]
+ 
+ 
+ 10 
+ 
+B. Section 1201 and “Core Copyright Concerns” 
+2. How should section 1201 accommodate interests that are outside of core copyright concerns, 
+for example, in cases where circumvention of access controls protecting computer programs 
+implicates issues of product interoperability or public safety? 
+Any consideration that is given to issues related to the interoperability of computer 
+programs, or the use of access controls in a manner that might be considered separate from “core 
+copyright concerns,” must bear in mind that Congress’ decision to separately protect access 
+controls is a fundamental and essential component of section 1201, and is a key contributing 
+factor to much of the growth that can be seen in the marketplace today.  No changes to the statute 
+or to the rulemaking process should be made to require a direct correlation between 
+circumvention and the infringement of an exclusive right. 
+Although AAP, MPAA, and RIAA do not take a position on the general question of when 
+taking steps to enable the interoperability of computer programs should be lawful, there is no 
+reason that every product has to operate with every device.  For example, the Librarian has 
+repeatedly and correctly concluded that proponents have failed to support a need for 
+circumvention to enable access to DVDs on Linux operated computers where developers have 
+not agreed to the CSS licensing regime.  See, e.g., Exemption to Prohibition on Circumvention of 
+Copyright Protection Systems for Access Control Technologies, Final Rule, 75 Fed. Reg. 43,825, 
+43,834-35 (July 27, 2010). 
+AAP, MPAA and RIAA use access controls for purposes that relate to “core copyright 
+concerns.”  While not every act that is prevented by an access control would constitute copyright 
+infringement if that control were hacked, enabling a person to listen to music, watch a movie, or 
+read a book only after the consumer has properly paid for access to such content, and consistent 
+with the terms on which access is granted, is directly related to the ability of copyright owners to 
+earn revenue in return for making their works available on the internet.   
+For example, MPAA’s members make motion pictures available for online viewing, in 
+exchange for direct or indirect payment.  Someone who circumvents access controls (such as 
+password protection or other forms of authentication) to watch those movies for free violates 
+section 1201(a)(1) – even if circumvention does not facilitate copying because, for example, 
+copy controls remain in place to prevent reproducing the movie.  Regardless whether a person 
+can reproduce or further distribute copies of the work, the person obtains the ability to watch the 
+movie for free.  The harm to the copyright owner that this type of conduct causes is manifest, 
+whether the work accessed is a book, a sound recording or a motion picture.  Congress enacted 
+section 1201(a) to prevent this type of circumvention, and in that way to facilitate digital 
+commerce in the motion picture, music and publishing industries.   
+Indeed, the two explicit examples of unlawful circumvention of an access control 
+contained in section 1201(a) involve “descrambl[ing] a scrambled work [and] decrypt[ing] an 
+encrypted work” (17 U.S.C. §1201(a)(3)(A)) – conduct  not directly tied to infringement.  
+Nothing about descrambling or decrypting a work in-and-of-itself necessarily causes an act of 
+infringement; descrambling or decrypting might only enable someone to watch or listen to the 
+work without authorization, with no impact on the exercise of exclusive rights afforded under the 
+Copyright Act.  See Anti-Circumvention Laws and Copyright: A Report from the Kernochan
+
+[PAGE 11]
+ 
+ 
+ 11 
+ 
+Center for Law, Media and the Arts, 27 Colum. J. L. & Arts 385, 450 (2004) (“Access controls 
+are measures that prevent someone from viewing, reading, hearing and/or otherwise perceiving 
+the work without authorization from the rightholder.”); Paul Goldstein, II Goldstein On 
+Copyright §7.17.1 (2015) (“Access to a work in the sense evidently contemplated by section 
+1201(a) occurs any time a user derives value from a work without necessarily infringing one of 
+the exclusive rights secured by copyright.”). 
+Therefore, anyone who traffics in a circumvention technology or service may be liable 
+under section 1201(a) and/or 1201(b) without proof of infringement or facilitation of 
+infringement.  This interpretation is supported by the plain language of section 1201 and by its 
+legislative history.  See H.R. Rep. No. 105-551 (pt. 2), at 38 (section 1201(a)(2) “is aimed 
+fundamentally at outlawing so-called ‘black boxes’ that are expressly intended to facilitate 
+circumvention of technological protection measures for purposes of gaining access to a work”); 
+S. Rep. No. 105-190, at 28 (analogizing 17 U.S.C. § 1201(a)(2) to 47 U.S.C. § 553(a)(2), 
+prohibiting the manufacture or distribution of equipment intended for the unauthorized reception 
+of cable television service, and 47 U.S.C. § 605(e)(4), banning the manufacture, assembly, 
+import, and sale of equipment used in the unauthorized decryption of satellite cable 
+programming).  Case law also holds that no nexus to infringement is required for a section 
+1201(a) violation.  MDY, 629 F.3d at 952 (“[W]e conclude that a fair reading of the statute 
+(supported by legislative history) indicates that Congress created a distinct anti-circumvention 
+right under § 1201(a) without an infringement nexus requirement.”); United States v. Elcom Ltd., 
+203 F. Supp. 2d 1111, 1124 (N.D. Cal. 2002) (rejecting argument that § 1201(b) requires 
+facilitation of infringement); Universal City Studios, Inc. v. Corley, 273 F.3d 429, 443 (2d Cir. 
+2001) (“[T]he DMCA … does not concern itself with  the use of [] materials after circumvention 
+has occurred.”).    
+C. Presumptive Renewal of Exemptions 
+3. Should section 1201 be adjusted to provide for presumptive renewal of previously granted 
+exemptions—for example, when there is no meani ngful opposition to renewal—or otherwise be 
+modified to streamline the process of continuing an existing exemption? If so, how? 
+AAP, MPAA and RIAA believe that the current ground rules for the triennial rulemaking 
+proceeding are fair, practical, and consistent with Congress’ instructions.  The proceeding 
+regularly results in the issuance of a large number of exemptions; indeed the number of 
+exemptions granted has increased markedly over the past several rulemaking cycles, and in the 
+most recent cycle, exemptions were recognized in the great majority of categories for which they 
+were sought.
+9  Accordingly, continued complaints regarding the proceeding, and calls for a 
+dramatic reorganization to lessen the burdens on proponents of exemptions, ignore the reality of 
+the prior processes.  The Register and the Librarian have been very receptive to the concerns 
+expressed by exemption proponents and have implemented methods to ensure that even parties 
+who lack counsel have the ability to obtain exemptions, if justified.  
+However, AAP, MPAA and RIAA recognize that certain exemptions have been in place 
+for multiple cycles and that there are burdens associated with seeking renewal of these 
+                                                 
+9 Whereas the first triennial rulemaking only resulted in exemptions for two classes of works, the 2015 
+proceeding resulted in exemptions covering twenty-two types of uses of copyrighted works.
+
+[PAGE 12]
+ 
+ 
+ 12 
+ 
+exemptions.  Thus, they are not opposed in principle to the Register recommending renewal of 
+existing exemptions to the Librarian so long as there is no meaningful opposition to renewal.  
+However, doing so when the record includes no filings by proponents of the exemption could 
+lead to the renewal of exemptions for which there is no demand, which would run counter to the 
+design of the proceeding as a triennial review of the marketplace.   
+Under the existing statutory provisions, if a proponent submits comments to the Register 
+stating that the exemption has been used and that the circumstances that justified granting the 
+exemption during the prior cycle remain unchanged, and no opponent presents meaningful 
+opposition to rebut that claim, the Register can recommend to the Librarian that the exemption 
+be renewed without change.   
+As the Copyright Office has previously stated: 
+[W]here a proponent is seeking the readoption of an existing exemption, it may 
+attempt to satisfy its burden by demonstrating that the conditions that led to the 
+adoption of the prior exemption continue to exist today (or that new conditions 
+exist to justify the exemption).  ...  Assuming the proponent succeeds in making 
+such a demonstration, it is incumbent upon any opponent of that exemption to 
+rebut such evidence by showing that the exemption is no longer justified. 
+Exemption to Prohibition on Circumvention of Copyright Protection Systems for Access Control 
+Technologies, Notice of Inquiry and Request for Petitions, 79 Fed. Reg. 55,687, 55,690 (Sept. 
+17, 2014).  
+Such a process would be consistent with Congress’ instruction that the Register’s 
+findings must be made de novo.  See H.R. Rep. No. 105-551, pt. 2, at 37.  If a proponent asserts 
+that adverse impact of the kind previously demonstrated to exist would be felt and no one 
+opposes that assertion, the Register may conclude, without further comments or hearing 
+testimony, that adverse impact is more likely than not, and grant the exemption under the 
+existing preponderance of the evidence standard.  AAP, MPAA, and RIAA do not object to the 
+Register doing so in future proceedings.   
+As has been shown in recent rulemakings, stakeholders have evidenced a willingness not 
+to stand in the way of renewal of prior granted exemptions, even where they had mounted 
+opposition to them in the past.  See, e.g., March 27, 2015 Comments of ESA, MPAA and RIAA 
+in response to NPRM on Proposed Class 7 (“Non-commercial remix videos”), 
+http://copyright.gov/1201/2015/comments-
+032715/class%207/Joint_Creators_and_Copyright_Owners_class07_1201_2014.pdf); Feb. 6, 
+2015 Comments of AAP in response to NPRM on Proposed Class 9 (“Literary works distributed 
+electronically – assistive technologies”),http://copyright.gov/1201/2015/comments-
+020615/InitialComments_ShortForm_AAP_Class09.pdf.   This shows the rulemaking process is 
+working as intended, and there is no reason to revise the statute.
+
+[PAGE 13]
+ 
+ 
+ 13 
+ 
+D. Satisfying Requirements for Exemptions 
+4. Please assess the current legal requirements that proponents of an exemption must satisfy to 
+demonstrate entitlement to an exemption. Should they be altered? If so, how? In responding, 
+please comment on the relationship to traditional principles of administrative law. 
+At the outset of each triennial rulemaking proceeding, the Register provides a detailed 
+overview of the legal requirements that proponents of exemptions must satisfy to demonstrate 
+entitlement to exemptions.  See, e.g., 79 Fed. Reg. at 55,687-55,691.  Those requirements were 
+established by Congress and have worked well, for the most part, for nearly two decades.  Given 
+the risks associated with circumvention of access control technologies, it is essential to preserve 
+the requirement that proponents establish, by a preponderance of the evidence, that “substantial” 
+adverse impacts, caused directly by access control measures themselves, and not by 
+“marketplace trends, other technological developments, or changes in the roles of libraries, 
+distributors or other intermediaries,” will occur absent an exemption.  Staff of House Comm. On 
+the Judiciary, 105th Cong., Section-by-Section Analysis of H.R. 2281 as passed by the United 
+States House of Representatives on August 4, 1998, at 6 (Comm. Print 1998) (‘‘House 
+Manager’s Report’’).  It is also essential that the Register continue to consider “the positive as 
+well as the adverse effects of these technologies on the availability of copyrighted materials.”  Id.  
+Accordingly, AAP, MPAA and RIAA do not see a need to alter the ground rules for the 
+proceeding.  However, they look forward to reviewing any proposals submitted in response to 
+the NOI and to providing any input they have on those proposals.  
+E. Potential Improvements to Rulemaking Process 
+5. Please provide additional suggestions to improve the rulemaking process. 
+As stated above, AAP, MPAA and RIAA believe that the rulemaking process has, for the 
+most part, worked well.  Nevertheless, there are a few procedural aspects of the process that 
+could be improved and/or clarified.  All of these improvements could be made without amending 
+the statute. 
+ The Copyright Office should request, in post-hearing letters, comment from hearing 
+participants on the actual regulatory language that the Register intends to recommend to 
+the Librarian for defining exemptions.  Doing so would allow participants to provide 
+comments and insights regarding the drafting and would help to alleviate confusion 
+regarding the scope of exemptions. 
+ While we appreciate the Office’s attempts during the 2015 cycle to streamline the 
+rulemaking by creating “clean” records on each of the proposals, we think there should 
+be some mechanism by which testimony submitted during the public hearings may be 
+taken into account by the Register and the Librarian in consideration of each of the 
+proposed exemptions regardless of the specific exemption proposal for which the 
+testimony was originally submitted.  Witnesses, whether they be executives of large 
+corporations or individual consumers, should not have to appear multiple times, or on 
+multiple coasts, when their testimony is relevant to multiple proposals.
+
+[PAGE 14]
+ 
+ 
+ 14 
+ 
+ The Copyright Office should provide proponents and opponents of exemptions equal 
+opportunity to comment on the proposed exemptions.  During the last cycle, proponents 
+were allowed three opportunities to comment, whereas opponents were only allowed to 
+file one set of comments. 
+ The Copyright Office should articulate its position regarding the proper procedure for 
+seeking judicial review of the Librarian’s Final Rules.  It would be helpful for all 
+participants to understand whether the Register has concluded that the proceeding 
+determinations of the Librarian can be challenged under the APA or otherwise appealed.   
+F. Role of Section 1201’s Anti-Trafficking Provisions 
+6. Please assess the role of the anti-trafficking provisions of sections 1201(a)(2) and 1201(b) in 
+deterring copyright infringement, and address whether any amendments may be advisable. 
+AAP, MPAA, and RIAA oppose amending the anti-trafficking provisions of sections 
+1201(a)(2) and 1201(b) to legalize the sale and distribution of hacking tools and services.  These 
+provisions play an extremely important role in deterring copyright infringement and 
+unauthorized access to works.  If the distribution of hacking tools that undermine the integrity of 
+technological measures, and the offering of such services, becomes legal and widespread, the 
+public’s perception of what these products can legitimately be used for could become confused, 
+resulting in frustration and abuse.  Unfortunately, circumvention tools designed to enable lawful 
+uses would inevitably also enable unlawful uses, as there is no way to effectively control the 
+application of such tools once they are in the stream of commerce.  This was exactly the reason 
+Congress adopted the policy reflected in sections 1201(a)(2) and 1201(b), and there is no reason 
+to conclude that the policy is any less justified today.  Without strong anti-trafficking provisions, 
+the rise of a market in circumvention devices and services, ostensibly for the purpose of 
+engaging in permitted acts of circumvention, but primarily fostering illegal uses, would be 
+practically unavoidable.  Such an outcome would undermine the entire regime of protection for 
+TPMs; threaten the benefits this regime has provided to the continued growth of the digital 
+distribution market; and imperil U.S. compliance with its obligations under the WCT and WPPT.        
+G. Relationship Between Rulemaking and Anti-Trafficking Prohibitions 
+7. Should section 1201 be amended to allow the adoption of exemptions to the prohibition on 
+circumvention that can extend to exemptions to the anti-trafficking prohibitions, and if so, in 
+what way? For example, should the Register be able to recommend, and the Librarian able to 
+adopt, exemptions that permit third-party assistance when justified by the record? 
+AAP, MPAA, and RIAA oppose amending the statute to allow the Librarian to grant 
+exemptions to the anti-trafficking prohibitions.  As stated above, tools designed to enable lawful 
+uses would inevitably also enable unlawful uses as there is no way to effectively control the 
+application of such tools once they are in the stream of commerce.  When tools and services 
+designed to circumvent access controls and copy controls become widely available, that 
+availability impacts both the integrity of the technological protection measures and the public 
+perception regarding the acceptability of using the tool designed to circumvent those measures, 
+including for unlawful purposes.
+
+[PAGE 15]
+ 
+ 
+ 15 
+ 
+Congress carefully considered the issue of trafficking during the legislative process that 
+resulted in passage of the DMCA.  There is a good reason why “[t]he anti-trafficking 
+prohibitions of section 1201 … prevent the adoption of exemptions that permit third parties to 
+offer circumvention services.”  80 Fed. Reg. at 81,372.  Altering that rule would allow tools 
+designed to defeat effective technological protection measures to enter the mainstream of 
+commerce and encourage profiteers to mislead consumers regarding what an exemption allows 
+in order to sell them illicit services and tools under the guise of the Copyright Office’s blessing.  
+Indeed, we have already seen widespread misunderstanding of the scope of recognized 
+administrative exemptions to section 1201(a)(1) and misrepresentation of the scope of such 
+exemptions by those who would benefit from the resulting confusion by making circumvention 
+tools more widely available under a false veneer of legality.
+10  There is simply no way to 
+address, in regulatory language, the risks associated with opening Pandora’s box.   
+Copyright owners have already encountered traffickers arguing that they can skirt the 
+statutory prohibitions by designing tools that supposedly only enable alleged fair uses.  See, e.g., 
+Realnetworks, Inc. v. DVD Copy Control Ass’n, 641 F. Supp. 2d 913, 941-42 (N.D. Cal. 2009).    
+Granting exemptions applicable to certain trafficking activities would provide wrongdoers with a 
+shield during litigation, making enforcement of rights even more difficult.  Moreover, the 
+number of litigations against traffickers would almost certainly see a significant uptick, and 
+copyright owners would be forced to shoulder the financial burden of enforcing their rights 
+against bad actors seeking to abuse exemptions.  The rulemaking is not the proper forum for 
+consideration of anti-trafficking exemptions.     
+H. Status of Existing Permanent Exemptions 
+8. Please assess whether the existing categories of permanent exemptions are necessary, 
+relevant, and/or sufficient. How do the permanent exemptions affect the current state of reverse 
+engineering, encryption research, and security testing? How do the permanent exemptions affect 
+the activities of libraries, archives, and educational institutions? How might the existing 
+permanent exemptions be amended to better facilitate such activities? 
+ At this time, AAP, MPAA and RIAA are not aware of any circumstances that would rise 
+to the level of justifying legislative revision of section 1201.  Very little litigation has touched on 
+the scope and interpretation of the existing statutory exceptions to the anti-circumvention and 
+anti-trafficking prohibitions.  Accordingly, there is no proven defect in these statutory 
+provisions.  If they were not serving their purpose, litigation in the areas addressed by the statute 
+likely would be more common.  
+ 
+                                                 
+10 During the triennial rulemaking proceedings, exemption proponents frequently cite examples of 
+projects they have undertaken, purportedly pursuant to exemptions, that clearly do not fit within the scope 
+of the exemptions.  For example, in support of renewing the exemption for use of short portions of motion 
+pictures in educational courses involving “close analysis” of media, a proponent cited an example of an 
+English professor who used the exemption to show both film clips and “longer extracts from films” set in 
+Medieval times in courses on Medieval literature and  culture.  Feb. 6, 2015 Joint Academics’ Class 1 
+Comment at 8.  Studying medieval culture and engaging in close analysis of films are two very different 
+things.
+
+[PAGE 16]
+ 
+ 
+ 16 
+ 
+I. Sufficiency of Existing Permanent Exemptions 
+9. Please assess whether there are other permanent exemption categories that Congress should 
+consider establishing—for example, to facilitate  access to literary works by print-disabled 
+persons? 
+AAP, MPAA and RIAA do not recommend creating any new statutory exceptions.  An 
+existing regulatory exemption is in place to aid print-disabled persons and “authorized entities” 
+under section 121 of the Copyright Act.  37 C.F.R. § 201.40(2).  There have never been any 
+public threats or actions under section 1201 against any print-disabled persons or authorized 
+entities.  The Copyright Office rulemaking’s periodic review of the marketplace enables the 
+Register to assess the circumstances facing copyright owners and consumers every three years.  
+These proceedings have the benefit of a manner of flexibility that statutory amendments resulting 
+in permanent exceptions do not.  No convincing justification has been proffered as to why the 
+real-time reviews of the marketplace conducted by the Register should be discarded in favor of 
+permanent, statutory exceptions.     
+J. Treaty and Trade Agreement Requirements 
+10. To what extent and how might any proposed amendments to section 1201 implicate the 
+United States’ trade and treaty obligations? 
+While there are trade and treaty obligations that could come into play, these obligations 
+reflect the importance of effective protection of intellectual property to our economy (as well as 
+to the economies of our trading partners), which includes effective measures against 
+circumvention of TPMs and trafficking in circumvention devices.  Thus, U.S. trade obligations 
+reflect our economic, social and cultural interests, and the trade negotiating objectives 
+established by Congress.  In short, our trade “obligations” are not imposed on the U.S. by other 
+parties, but are a mutual acknowledgement of a set of international norms and baseline 
+protections for creativity and innovation.  A departure from these, whether at the international 
+level or domestically, would undermine U.S. interests, and depart from the common views of 
+policymakers about how to expand commercial opportunities for creators and innovators. 
+Now that we have reached a consensus with many of our trading partners regarding these 
+international norms and baseline protections,  it would be counterproductive to reverse course 
+and seek to weaken protections for access controls and copy controls.  The adoption of very 
+similar approaches around the world to protecting technological measures demonstrates that the 
+approach taken by the United States is robust enough to stand the test of time.  
+IV. Conclusion 
+AAP, MPAA and RIAA look forward to participating in the Copyright Office’s process 
+for studying section 1201 of Title 17.
+
+[PAGE 17]
+ 
+ 
+ 17 
+ 
+DATE: March 3, 2016 
+Respectfully submitted: 
+ 
+_____________________ 
+Allan R. Adler 
+General Counsel 
+Vice President for Government Affairs 
+Association of American Publishers 
+455 Massachusetts Ave., NW, 7th Floor 
+Washington, DC 20001 
+Phone (202) 220-4544 
+adler@publishers.org 
+ 
+ 
+_____________________ 
+Benjamin S. Sheffner 
+Vice President, Legal Affairs 
+Motion Picture Association of America, Inc. 
+15301 Ventura Blvd., Bldg. E 
+Sherman Oaks, CA 91403 
+Phone (818) 935-5784 
+Ben_Sheffner@mpaa.org 
+ 
+ 
+_____________________ 
+Susan B. Chertkof 
+Senior Vice President, Business and Legal Affairs 
+Recording Industry Association of America, Inc. 
+1025 F Street NW, 10th Floor 
+Washington, DC 20004 
+Phone (202) 775-0101 
+schertkof@riaa.com

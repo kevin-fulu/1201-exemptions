@@ -1,0 +1,177 @@
+[PAGE 1]
+ 
+ 
+ 
+October 27, 2016 
+ 
+Kevin Amer 
+Senior Counsel for Policy and International Affairs 
+Regan A. Smith 
+Associate General Counsel 
+U.S. Copyright Office 
+101 Independence Ave. S.E. 
+Washington, D.C. 20559-6000 
+Re: Docket No. 2015–8, Section 1201 Study, Request for Additional Comments 
+Dear Mr. Amer and Ms. Smith, 
+Authors Alliance is a nonprofit organization that works to empower and advocate 
+for authors who, like our roughly 900 members, “write to be read.”​  These are 1
+creators who are motivated in their work primarily by the prospect of advancing 
+knowledge, discourse, and culture, and who want to see their work widely 
+disseminated. 
+Authors Alliance participated in the previous rulemaking cycle—the first since 
+our launch—seeking a renewed and expanded exemption for the authors of 
+multimedia ebooks.  We anticipate returning in future years to advocate for 
+similar exemptions, and are pleased to see this effort to improve the statute and 
+rulemaking continue to move forward. 
+Our responses to the Office’s specific inquiries follow below:  
+1.aProposalsforNew PermanentExemptions: Assistive Technologies for         
+Use by Persons Who Are Blind, Visually Impaired, or Print Disabled. 
+Authors Alliance commends the Library for having granted exemptions 
+supporting the needs of people who are blind, visually impaired, and print 
+disabled in every rulemaking cycle since 2003. As this process has now 
+repeatedly shown, there is broad consensus about the need for an exemption 
+facilitating access to copyrighted works for these underserved communities. 
+1 More about our organization, our mission, and our projects is available on our website. ​See 
+Authors Alliance, ​About Us​ , ​http://authorsalliance.org/about​.
+
+[PAGE 2]
+ 
+Given this background, Authors Alliance supports a permanent exemption that 
+would mitigate the deleterious effects of the DMCA’s anti-circumvention 
+provisions on access to copyrighted works by people who are blind, visually 
+impaired, and print disabled. Our members seek the broadest possible audiences 
+for their creative works. Existing markets and intermediaries that authors rely on 
+to reach readers have left people who are blind, visually impaired, and 
+print-disabled underserved, running contrary to the wishes of both our 
+community of authors and the needs of their potential audiences. 
+One of our Advisory Board members, Paul Courant, was the Librarian at the 
+University of Michigan at the time the decision was made to use the texts of 
+digitized books in the HathiTrust collection to enable people who are blind, 
+visually impaired, and print-disabled to have access to books that sighted 
+students can use simply by taking them off library shelves to read. This was a 
+bold initiative, given the in-copyright status of these books and the then-ongoing 
+Authors Guild lawsuit against Google, but it was ultimately deemed to be a fair 
+use. 2
+Indeed, the Second Circuit’s opinion in ​Authors Guild v. HathiTrust ​ provides an 
+excellent summary of the strong public policy interest the United States has 
+repeatedly recognized in ensuring that the print disabled have access to 
+copyrighted work. In that case, the Court found a digital library’s provision of 3
+digitized books converted into formats accessible to people who are blind and 
+print disabled to be a fair use. In analyzing the first statutory fair use factor, the 4
+Court cited the legislative history of the Copyright Act of 1976,  where making 5
+accessible copies for people who are blind was highlighted as a possible fair use 
+the clear policies behind the Americans with Disabilities Act; and the Chafee 6
+Amendment, enacted in response to the continuing scarcity of works published 
+in accessible formats.  7
+The Marrakesh Treaty is the most recent marker of both the ongoing need for 
+works accessible to people who are blind, visually impaired, and print disabled 
+and the United States’ commitment to addressing the issue. Marrakesh, which 
+the United States negotiated, signed, and is expected to ratify, expressly commits 
+parties to “take appropriate measures, as necessary, to ensure that when they 
+provide adequate legal protection and effective legal remedies against the 
+circumvention of effective technological measures, this legal protection does not 
+2 Authors Guild v. HathiTrust, 755 F. 3d 87 (2d. Cir. 2014). 3 ​Id. ​ at 101–103. 4 ​Id. 5 H.R. REP. No. 94-1476, at 73 (1976) 6 42 U.S.C. § 12101 et seq. 7 17 U.S.C. § 121.
+
+[PAGE 3]
+ 
+prevent beneficiary persons from enjoying the limitations and exceptions 
+provided for in this Treaty.”  8
+The Copyright Office’s proposal to make the existing exemption language 
+permanent would certainly improve the statute and ensure our domestic law 
+reflects the policy goals reflected in the Marrakesh treaty and our own laws. It 
+could, however, be improved further by removing the remuneration provisions 
+of section (i). As authors, our members understand the principle of rightsholder 
+remuneration, but as currently implemented, this additional language is both 9
+redundant and a possible source of confusion. It is redundant because the rule 
+already provides that copies first must be lawfully obtained—in general, this 
+requirement alone will suffice to see rightsholders remunerated, particularly in a 
+digital licensing environment. And it is possibly confusing because requiring that 
+“the rights owner is remunerated, as appropriate, for the price of the mainstream 
+copy of the work as made available to the general public through customary 
+channels” raises more questions than it answers. What if the work is no longer 
+made available through the customary channels? What makes the remuneration 
+appropriate? Given the applicability of fair use in many of these circumstances, 
+per ​HathiTrust​ , a remuneration requirement puts the exemption out of step with 
+the applicable copyright limitation, and appears to reward rights holders for 
+failing to make work available in accessible formats.  If the exemption 10
+recognizes the importance of supporting the beneficiaries of the Chafee 
+amendment without further burdening those uses, why then distinguish that 
+case—which has no fair remuneration provision—from established fair uses? An 
+additional remuneration requirement is simply not needed, and it muddies the 
+waters of what could otherwise be a clear exemption. 
+If we believe as a society that copyright law should enable access to knowledge 
+and culture for people who are blind, visually impaired, and print disabled, then 
+we must also recognize and account for the obstacles to this goal the legal 
+protection of technological protection measures presents. This permanent 
+exemption would be an important step toward bringing the DMCA into 
+alignment with the values of our nation and of our copyright law, and we 
+applaud the effort. 
+1.d Proposals for New Permanent Exemptions: Obsolete Technologies. 
+8 Marrakesh Treaty to Facilitate Access to Published Works for Persons Who Are Blind, Visually Impaired, or 
+Otherwise Print Disabled, art. 7, June 27, 2013. 9 Although, from an author standpoint, it is worth noting that it is common practice to contractually waive the 
+right to royalties generated from the sale or licensing of copies accessible to people who are blind and print 
+disabled, signaling the importance of this issue to authors. 10 As per note 9, ​supra​ , it is important to note that many times, the remunerated rights holders in questions 
+will ​not ​ be authors.
+
+[PAGE 4]
+ 
+In a digital environment, technological obsolescence is one of the largest threats 
+to the long-term preservation and accessibility of copyrighted work. A point of 
+emphasis in Authors Alliance’s activities has been to assist our members and 
+others take the necessary steps to see that their works remain accessible to the 
+public in today’s preferred formats and ensure that they will remain preserved 
+and available to be enjoyed by future generations of readers.  To date, this has 11
+largely meant seeing print works made available in digital formats, but we are 
+rapidly approaching the point where similar measures will increasingly need to 
+be taken for born-digital works more likely to suffer from digital locks that have 
+rusted shut.  Several members of the Authors Alliance Board of Directors and 
+Advisory Board participated in a September 23, 2016, workshop hosted by the 
+American Academy of Arts and Sciences on "Preservation of Intellectual 
+Legacies." Concern about the difficulty of preserving born-digital works was at 
+the forefront of the discussion there among leading scholars, technologists, and 
+librarians, and the matter is only complicated by legal protection that outlasts the 
+technologies it serves. In light of the importance of long-term accessibility and 
+preservation of these works, we fully endorse exemptions that would help 
+prevent inevitable technological obsolescence from risking the long-term 
+accessibility of works of authorship. 
+3. Anti-Trafficking Provisions 
+The Office asks: 
+A few parties argued that section 1201 contains an implied right permitting a 
+beneficiary of a statutory or administrative exemption to make a tool for his or her 
+own use in engaging in the permitted circumvention. What are commenters’ views 
+regarding this interpretation of the statute? To what extent, if any, does the 
+statutory prohibition on the ‘‘manufacture’’ of circumvention tools affect the 
+analysis? If such a right is not currently implied, or the question is uncertain, 
+should Congress consider amending the statute to expressly permit such activity, 
+while maintaining the prohibition against trafficking in such tools? 
+Authors Alliance agrees with the interpretation of the statute that provides an 
+implied right for beneficiaries of exemptions to be able to actually create the 
+technologies necessary to enjoy their exemptions. It is an established rule of 
+statutory interpretation that “interpretations of a statute which would produce 
+absurd results are to be avoided if alternative interpretations consistent with the 
+legislative purpose are available.”  It is readily apparent that any reading of 12
+Section 1201 that would prohibit beneficiaries of exemptions from creating the 
+11 In particular, see the work that we have done regarding rights reversions, summarized at 
+http://authorsalliance.org/reversion.  12 Griffin v. Oceanic Contractors, Inc., 458 U.S. 564, 575 (1982).
+
+[PAGE 5]
+ 
+tools necessary in order to exercise these exemptions is an absurd result that 
+renders the entirety of the Section 1201(a)(1) exemption process futile. 
+Meanwhile, it is eminently reasonable to read the word “manufacture” in the 
+statute’s anti-trafficking provisions in the context of the surrounding language. It 
+is not for nothing that they are commonly referred to as the “anti-trafficking 
+provisions”—a plain reading of the statute clearly demonstrates the provisions 13
+are about the provision of tools and services ​to others​ , and not about the self-help 
+that is the baseline necessity of an effective exemption process. 
+ 
+Respectfully submitted, 
+ 
+ 
+ 
+ 
+Michael Wolfe 
+Executive Director 
+Authors Alliance 
+13 ​See, e.g.​ , Chamberlain Group v. Skylink Tech., Inc., 381 F. 3d 1178, 1181 (Fed. Cir. 2004); Universal City 
+Studios, Inc. v. Corley, 273 F. 3d 429 (2d Cir. 2001).

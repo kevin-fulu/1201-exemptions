@@ -1,0 +1,195 @@
+[PAGE 1]
+Before the 
+LIBRARY OF CONGRESS 
+UNITED STATES COPYRIGHT OFFICE 
+ 
+In the Matter of the Copyright Office’s Software-Enabled Consumer Products Study 
+ 
+Docket No. COLC-2015-0011 
+ 
+Comment of the Specialty Equipment Market Association (SEMA) 
+___________________________________________________________________________ 
+ 
+Submitted By 
+Specialty Equipment Market Association (SEMA) 
+Ashley E. Ailsworth, Corporate Counsel 
+1317 F Street, NW 
+Washington, DC 20004 
+202-783-6007 ext. 19 
+ 
+Dear Sir/Madam: 
+ 
+The Specialty Equipment Market Association (SEMA) was founded in 1963 and represents the 
+$36 billion specialty equipment automotive aftermarket industry of 6,633 member-companies.  
+SEMA’s members offer custom auto accessories that enhance a vehicle’s appearance, safety, 
+performance, comfort and convenience.  These aftermarket products include such accessories as 
+custom wheels and tires, turbochargers, lighting equipment, performance exhausts, suspensions, 
+grille guards, and sunroofs, and enable hobbyists to customize their vehicles according to their 
+own tastes and preferences.  The specialty automotive aftermarket supports these hobbyists and 
+represents a longstanding history of innovation and entrepreneurship, developing cutting-edge 
+products that increasingly become mainstream in the auto industry.  
+ 
+SEMA respectfully submits comments for the Software-Enabled Consumer Products Study being 
+undertaken by the U.S. Copyright Office in response to a request made by Senators Charles E. 
+Grassley and Patrick Leahy of the Senate Committee on the Judiciary.  The Senators requested 
+information on five different topics, including “the provisions of the copyright law that are 
+implicated by the ubiquity of copyrighted software in everyday products” and “whether, and to 
+what extent, legitimate interests or business models for copyright owners and users could be 
+undermined or improved by changes to the copyright law in this area.”  In considering changes 
+to the copyright laws, SEMA supports any changes that would have the effect of improving the 
+ability to access and utilize elements of vehicle software.  To maintain a competitive marketplace 
+for aftermarket parts, the ability to access and utilize these elements should be extended to the 
+owner of the vehicle, shops undertaking modifications on behalf of the owner and companies 
+developing interoperative software and vehicle components that must interact with the software. 
+SEMA’s position is clear.  In any changes to the copyright laws, it is important that aftermarket 
+companies continue to have access and the ability to reverse engineer the software of modern 
+vehicles to achieve different functionality and interoperability with aftermarket components.
+
+[PAGE 2]
+2 
+ 
+Provisions of copyright law implicated by ubiquity of copyrighted software in everyday 
+products 
+ 
+Fair Use – Section 107 of the Copyright Act  
+ 
+Congress sought to limit the exclusive rights granted to the copyright owner by providing an 
+exception for fair use.  The concept of fair use in the Copyright Act is central to the use of 
+copyright-protected software that runs modern vehicles.1  In analyzing whether a particular use is 
+a “fair use,” a court is directed to consider the use in light of four statutory factors: (1) the 
+purpose and character of the use, (2) the nature of the copyrighted work, (3) the amount of the 
+work used in relation to the work as a whole, and (4) the effect the use has on the market for or 
+value of the work.    
+ 
+The first fair use factor asks whether the use of a copyrighted work “merely supersedes the 
+objects of the original creation, or instead adds something new.”2  Following these principles, 
+specifically in the context of computer software, it is clear that a modifier’s use of software to 
+allow for the installation and interoperability of specialty parts and accessories is a “legitimate 
+purpose” that weighs in favor of fair use.  
+ 
+The nature of the copyrighted work weighs heavily in favor of fair use when the user is only 
+interested in the functionality of the code, not its expression.  In the recent case of Oracle Am., 
+Inc. v. Google Inc., the Federal Circuit reiterated that software, even where it contains functional 
+elements, is entitled to copyright protection.  However, the court went on to explain that “where 
+the nature of the work is such that purely functional elements exist in the work and it is necessary 
+to copy the expressive elements in order to perform those functions, consideration of this second 
+factor arguably supports a finding that the use is fair.”3 
+ 
+The third factor only weighs against fair use if the amount used is unreasonable in light of the 
+purpose for which the copyrighted work is used.4  Thus, even where the entire copyrighted work 
+has been copied, such a finding will not defeat fair use if the copying was necessary to 
+accomplish a legitimate purpose.5  The use of vehicle software to achieve aftermarket 
+personalization, modification or other improvements supports a finding of fair use under the third 
+factor, where the modifiers use no more than is necessary to research and ultimately implement 
+the desired modification.  Ninth Circuit authority in both Sega v. Accolade and Sony v. Connectix 
+establishes that the copying of an entire software program may be fair use if the copying was 
+necessary to understand the functional elements of the software.6  In the case of reverse 
+engineering vehicle software, analyzing the entire software program may be critical to 
+understand the functionality of the vehicle and, in addition, to determine how much storage is 
+                                                           
+1 17 U.S.C. § 107 (2016). 
+2 Campbell v. Acuff-Rose Music, Inc., 510 U.S. 569, 579 (1994). 
+3 Oracle Am., Inc. v. Google Inc., 750 F.3d 1339, 1375 (Fed. Cir. 2014). 
+4 Campbell, 510 U.S. at 586-87. 
+5 See Authors Guild, Inc. v. HathiTrust, 755 F.3d 87, 98 (2d Cir. 2014) (finding that “[f]or some purposes, it may be 
+necessary to copy the entire copyrighted work, in which case Factor Three does not weigh against a finding of fair 
+use”). 
+6 Sega Enterprises Ltd. v. Accolade, Inc., 977 F.2d 1510, 1526-27 (9th Cir. 1992); Sony Computer Entertainment, 
+Inc. v. Connectix Corp., 203 F.3d 596, 606 (9th Cir. 2000).
+
+[PAGE 3]
+3 
+ 
+available to support additional functionality.  Importantly, access to the entire work is necessary 
+to ensure that modifications in one part of the code will not negatively impact other functionality.    
+ 
+The last factor also weighs in favor of a finding of fair use where the copyrighted material at 
+issue is software controlling a motor vehicle.  The market for the software does not exist 
+independent of the new vehicle.  Any aftermarket component designed to interoperate with the 
+software will not supplant the market for the new vehicle and its original software, and 
+purchasing the new vehicle is a prerequisite for the enthusiast interested in utilizing the 
+aftermarket components.  In fact, the ability of the secondary market to provide and enable post-
+sale modifications that increase a vehicle’s interoperability with improved components only 
+increases the attractiveness of that vehicle to buyers, thereby benefiting the market for the 
+vehicle and any copyrighted works contained therein.   
+ 
+DMCA Exemption for Reverse Engineering 
+ 
+A second statutory provision that indicates Congress understood the functional nature of 
+software and the need for other programs to interact with it can be found within the Digital 
+Millennium Copyright Act (DMCA).  The DMCA expanded copyright law to prevent 
+circumvention of access controls put in place by a copyright owner.  The intent was to address 
+the problem of pirating traditional copyrighted works, such as photos, music and movies, using 
+digital media.  The language prohibits circumventing access controls on copyrighted works, but 
+numerous exemptions were included to ensure the prohibition did not inhibit legitimate 
+activities.  One of the permanent exemptions written into the DMCA allows circumvention of 
+access-control mechanisms if done for the purpose of reverse engineering to achieve 
+interoperability with a computer program.  The goal is to achieve interoperability, defined by the 
+DMCA as “the ability of computer programs to exchange information, and of such programs 
+mutually to use the information which has been exchanged.”7   
+ 
+Use of computer code now transcends the realm of the personal computer.  Through the 
+evolution of the “internet of things,” software now encompasses code that takes data from 
+connected sensors and interprets and reacts to that information.  Examples from the internet of 
+things abound, from medical devices to vehicle-to-vehicle communications.  In addressing the 
+internet of things, regulators have expressed support for technological advancements along with 
+concerns over the security and safety of these devices and communication pathways.8  Copyright 
+issues are often not the focus of concern, but overbroad copyright protection could result in a 
+chilling effect on innovation in the secondary market for software and products that interact with 
+connected devices.  Changes to the law that would increase the ability to rely on the fair use 
+doctrine in situations where the copyrighted materials at issue are functional features of software 
+controlling consumer products could help limit the chilling effect on innovation.  Possible 
+legislative solutions could include heightened pleading requirements for copyright infringement 
+                                                           
+7 17 U.S.C. § 1201(f)(4) (2016). 
+8 See The Internet of Things: FDA Releases Guidance on Securing Wireless Medical Devices – What Medical 
+Device Manufacturers Should Know, INFOLAWGROUP LLP (Oct. 2, 2013), www.infolawgroup.com/2013/10/ 
+articles/information-security/the-internet-of-things-fda-releases-guidance-on-securing-wireless-medical-devices-
+what-medical-device-manufacturers-should-know/; see also Transportation Sec. Foxx Announces Steps to 
+Accelerate Road Safety Innovation, NHTSA, DOT 49-15 (May 13, 2015), http://www.nhtsa.gov/About+NHTSA/ 
+Press+Releases/2015/nhtsa-will-accelerate-v2v-efforts.
+
+[PAGE 4]
+4 
+ 
+claims involving software-enabled consumer products.  Another option would be to require a 
+copyright owner to perform a subjective good faith analysis to determine whether the conduct at 
+issue is for a purpose that constitutes fair use before using enforcing the DMCA’s anti-
+circumvention provision.  The Ninth Circuit recently imposed such a requirement on copyright 
+owners using the DMCA’s notice and takedown provision.9                
+ 
+Legitimate interests or business models for copyright owners and users that could be 
+undermined or improved by changes to the copyright law in this area 
+ 
+Achieving interoperability of aftermarket components with vehicle software is a legitimate 
+activity that could be impacted by the use of copyright law to limit access and use of the 
+software, particularly the functional elements of vehicle software.  Although in decades past 
+hobbyists could install these new features mechanically, the advent of government-mandated 
+electronic-based vehicle systems—including onboard diagnostics, tire pressure monitoring 
+systems, and electronic stability control—has given rise to a need to more fully understand 
+vehicle software to ensure new innovations will be compatible with existing systems.   
+ 
+Modern vehicles rely heavily on a network of electronic systems to collect and use data from 
+various sensors.  Sensor data is collected and processed by the vehicle’s different control 
+modules (Electronic Control Units – “ECUs” – made with microcontroller chips).  Modern 
+vehicles can have up to 70-80 ECUs, ranging from the Engine Control Module (ECM) to the 
+Telematic Control Unit (TCU).  Microcontroller chips in each module, including the ECM, store 
+software code in the form of flash memory or Programmable Read Only Memory (PROM) that 
+respond to the sensor data.  Aftermarket companies typically replace or recalibrate 
+microcontroller chips in the ECM for improved performance.   
+ 
+The California Air Resources Board (CARB) regulates changes to the ECM.  Hundreds of 
+Executive Order numbers have been issued to aftermarket companies for various changes to 
+ECMs to improve engine performance or allow other components to be installed on a vehicle.10  
+For example, aftermarket turbochargers can be installed on a vehicle to increase engine 
+efficiency, but the vehicle’s ECM will need to be replaced or recalibrated to account for the 
+change in fuel/air entering the engine.   
+ 
+In undertaking the Software-Enabled Consumer Products Study, please feel free to reach out to 
+SEMA for further information on the use of vehicle software in the automotive aftermarket.  
+ 
+                                                           
+9 Lenz v. Universal Music Corp., No. 13-606 (9th Cir. 2015) (copyright owner must perform a subjective good faith 
+fair use analysis before issuing a DMCA takedown notice). 
+10 Aftermarket Parts Database of Executive Orders, CALIFORNIA AIR RESOURCES BOARD, 
+http://www.arb.ca.gov/msprog/aftermkt/devices/amquery.php (last visited Feb. 16, 2016).

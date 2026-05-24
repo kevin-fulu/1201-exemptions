@@ -1,0 +1,170 @@
+[PAGE 1]
+ 
+ 
+ 
+Submitted by Emily Feltren, Director of Government Relations 
+ 
+October 27, 2016 
+ 
+Ms. Karyn Temple Claggett 
+Acting Register of Copyrights 
+United States Copyright Office 
+101 Independence Avenue S.E. 
+Washington, D.C. 20559 
+ 
+RE: Section 1201 Study: Request for Additional Comments (81 F.R. 66296, Docket No. 
+2015-8) 
+ 
+Dear Ms. Temple Claggett:  
+ 
+The American Association of Law Libraries (AALL) thanks the Copyright Office for the 
+opportunity to submit these comments in response to its September 27, 2016 Notice of 
+Inquiry, Section 1201 Study: Request for Additional Comments. Equitable access to and 
+preservation of information is of vital concern to our members and users. We appreciate 
+the Copyright Office’s diligence in requesting input from stakeholders as it considers 
+potential suggestions for legislative revision. 
+ 
+I. A Permanent Exemption for Assistive Technologies for the Blind, Visually 
+Impaired, or Print Disabled Should Be Adopted 
+ 
+AALL strongly supports a permanent exemption to section 1201 to facilitate access and 
+use of works by the blind, visually impaired, or print disabled. The American Foundation 
+for the Blind’s earlier comments in this docket present a forceful argument for a 
+permanent exemption.
+1 Access to knowledge is essential for the functioning of a 
+democratic society, and we should not make an entire segment of the population’s 
+access to these materials subject to “the continued successful participation of a private, 
+nonprofit advocacy organization” in a triennial rulemaking.
+2 
+ 
+Such an exemption would also facilitate lasting compliance with the Marrakesh Treaty to 
+Facilitate Access to Published Works for Persons Who Are Blind, Visually Impaired, or 
+Otherwise Print Disabled. Article 7 of the Marrakesh Treaty explicitly requires that 
+member states “shall take appropriate measures… to ensure that when they prov ide 
+adequate legal protection and effective legal remedies against the circumvention of 
+effective technological measures, this legal protection does not prevent beneficiary 
+                                                
+1American Foundation for the Blind, Comment on Section 1201 Study Docket No. 2015- 8 (Mar. 4, 2016), 
+https://www.regulations.gov/document?D=COLC-2015-0012-0066. 
+2 Id. at 11.
+
+[PAGE 2]
+ 
+persons from enjoying the limitations and exceptions provided for in this Treaty.”3 
+Compliance with the Marrakesh Treaty would require the triennial renewal of the 
+exemption for the print disabled; a permanent exemption, however, avoids this waste of 
+resources. 
+ 
+AALL supports exemption language that allows print disabled users to make use of self-
+help technologies in order to make works accessible. The ability to use self-help 
+technology is particularly relevant for our libraries and patrons. Our libraries consist of, 
+and our patrons make use of, specialized and scholarly materials in the law. These are, 
+however, precisely the works that are least likely to be made available in an accessible 
+format, as the cost of making an accessible version often dwarfs any potential economic 
+benefit. Further, absent legislation mandating accessible versions of every work, there 
+will always be a gap between the works available for those with and those without print 
+disabilities. Allowing print disabled persons to use self-help technology would go a long 
+way to ending the book famine, particularly among researchers seeking specialized 
+materials.   
+ 
+II. A Permanent Exemption for Circumvention of Malfunctioning, Damaged, 
+and Obsolete Technological Protection Measures Should Be Adopted 
+ 
+AALL supports a permanent exemption for circumvention of access controls that are 
+malfunctioning, damaged, or obsolete. As we noted in our prior comments, libraries 
+serve several important roles. Libraries are not simply acquirers of information, but are 
+also preservers and providers of information. This is evident in all aspects of our 
+profession, from repairing a book with pages falling out to the painstaking and detailed 
+work of archival departments. Exemptions which support libraries’ preservation mission 
+are needed, such as an exemption for circumventing obsolete, malfunctioning, and 
+damaged access controls, as nonfunctioning technological protection measures lock 
+libraries and researchers out of an ever-growing percentage of our cultural heritage. 
+ 
+An exemption for circumvention of obsolete technological protection measures is 
+particularly important if libraries are to be able to take advantage of the ability to 
+preserve materials under section 108. Indeed, the DMCA was the very statute that 
+added language to section 108 allowing libraries to preserve materials stored in 
+obsolete formats.
+4 To then prevent libraries from circumventing malfunctioning and 
+obsolete technological protection measures defeats the purpose of this provision. 
+ 
+AALL continues to support a permanent exemption for libraries wishing to circumvent 
+technological protection measures for the purposes of engaging in activities allowable 
+under section 108. Alternatively, Congress should adopt language attaching liability for 
+circumvention only in cases where the circumvention facilitates copyright infringement.  
+                                                
+3 Marrakesh Treaty to Facilitate Access to Published Works for Persons Who Are Blind, Visually Impaired, 
+or Otherwise Print Disabled, art. 7, June 27, 2013, 
+http://www.wipo.int/wipolex/en/treaties/text.jsp?file_id=301019. 
+4 Digital Millennium Copyright Act, Pub. L. 105-304, § 404(E), 112 Stat. 2860, 2890.
+
+[PAGE 3]
+ 
+The suggestion that permanent exemptions should be limited to only those exemptions 
+which have consistently been sought and granted in the past ignores the fundamental 
+inequities of the triennial rulemaking process. It is well-documented that navigating the 
+rulemaking process requires a substantial outlay of time and effort from exemption 
+proponents, who overwhelmingly consist of nonprofit and advocacy organizations with 
+limited resources, who then must rely upon law school clinics or pro bono assistance.
+5 
+For example, while the Internet Archive successfully sought an exemption for software 
+and video games protected by obsolete technological protection measures in 2003 and 
+2006, it was able to do so only due to the donation of “more than $50,000 of pro-bono 
+lawyer time” for the 2006 exemption alone.
+6 In this docket, the Cyberlaw Clinic at 
+Harvard reiterated this imbalance, noting that it “logged approximately 575 hours of 
+work” in assistance of a group of medical device researchers seeking an exemption.7 
+Indeed, law school clinics are so important to the rulemaking process that previous 
+comments in this docket suggested reorienting the triennial rulemaking around the 
+academic calendar.
+8 The Copyright Office acknowledged in its initial Notice of Inquiry 
+that the rulemaking process “is resource-intensive for both participants and the Office.”9 
+          
+III. Anti-Trafficking Provisions 
+ 
+AALL continues to support revising section 1201’s anti-trafficking provisions to allow for 
+third-party assistance for beneficiaries of exemptions. It may be impossible to ensure 
+that “tools manufactured and distributed pursuant to an exemption, once available in the 
+marketplace, would be employed solely for authorized uses.”
+10 This, however, is also 
+the case with computers, photocopiers, VCRs, and the internet. Banning technology 
+necessary to facilitate lawful conduct because we cannot construct an absolute bar to 
+unlawful conduct is not only regressive, it is also contrary to copyright’s purpose, to 
+“promote the Progress of Science and useful Arts.”
+11 
+ 
+An implied right permitting a beneficiary to make an anti-circumvention tool for her own 
+use would not adequately address our concerns with the anti-trafficking provisions. 
+Such an implied right would still require all beneficiaries to have the ability to make a 
+circumvention tool on their own, without assistance from any third party. With such an 
+                                                
+5 USC Intellectual Property and Technology Law Clinic, Comment Regarding Section 1201 Stu dy Docket 
+No. 2015-8 (Mar. 3, 2016) at 2-4, https://www.regulations.gov/document?D=COLC-2015-0012-0056.  
+6 Jeff Kaplan, Internet Archive Helps Secure Exemption to the Digital Millennium Copyright Act, Internet 
+Archive Blogs (Nov. 29, 2006), https://blog.archive.org/2006/11/29/internet-archive-helps-secure-
+exemption-to-the-digital-millennium-copyright-act/.  
+7 Cyberlaw Clinic at Harvard Law School, Comment Regarding Section 1201 Study Docket No. 2015- 8 
+(Mar. 3, 2016), https://www.regulations.gov/document?D=COLC-2015-0012-0052.  
+8 International Documentary Association, et al., Reply Comment Regarding Section 1201 Study Docket 
+No. 2015-8 (Apr. 1, 2016) at 2, 4, https://www.regulations.gov/document?D=COLC -2015-0012-0081. The 
+comments of these organizations of independent filmmakers, like those of many other exemption 
+proponents, were prepared with the assistance of a law school clinic and pro bono counsel.  
+9 Library of Congress, U.S. Copyright Office, Section 1201 Study: Notice and Request for Public 
+Comment, 80 Fed. Reg. 81,369, 81,371 (Dec. 29, 2015). 
+10 Library of Congress, U.S. Copyright Office, Section 1201 Study: Request for Additional Comments , 81 
+Fed. Reg. 66,296, 66,299 (Sept. 27, 2016). 
+11 U.S. Const. art. 1, § 8, cl. 8.
+
+[PAGE 4]
+ 
+implied right, a print disabled user who needs to circumvent an access control in order 
+to use assistive technology must possess the skill and ability to create the means to 
+circumvent the access control on her own, without assistance from any third party. Such 
+a result effectively denies print disabled users without sophisticated computer skills from 
+taking advantage of the exemption granted to them. As we noted in our earlier 
+comments, this defeats the purpose of granting the exemption in the first place. 
+ 
+IV. Conclusion 
+ 
+AALL thanks the Copyright Office for undertaking this important inquiry into the 
+operation of section 1201. We appreciate the opportunity to submit these comments.

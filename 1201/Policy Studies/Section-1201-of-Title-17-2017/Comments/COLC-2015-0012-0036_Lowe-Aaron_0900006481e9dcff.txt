@@ -1,0 +1,424 @@
+[PAGE 1]
+1 
+ 
+Before the  
+United States Copyright Office, Library of Congress 
+Washington, D.C. 
+ 
+In the Matter of    ) 
+Section 1201 Study:     ) Docket No. 2015-8 
+Notice and Request for Public Comment  ) 
+ 
+Comments of Auto Care Association 
+Auto Care Association (“Auto Care”) is a national trade organization of 3,000 members 
+representing more than 150,000 independent businesses that manufacture, distribute, and sell 
+motor vehicle parts, accessories, tools, equipment, materials, and supplies, and perform vehicle 
+service and repair. The independent aftermarket industry employs more than 4,300,000 people in 
+the United States. Nearly $341 billion dollars was spent on motor vehicle care in the United 
+States in 2015, or more than 1.9 percent of the U.S. gross domestic product. Following expiration 
+of a new car warranty, over 70 percent of car owners who patronize auto repair shops rely on 
+independent repair shops over new car dealers. Approximately 20 percent of American 
+consumers buy automotive parts and products to maintain, repair, and customize their own 
+vehicles.  
+ 
+ As explained in these Comments, orig inal equipment manufacturers (“OEMs”) 
+increasingly use firmware and software to control the function and operation of motor 
+vehicle parts. These software modules also control “telematics” that restrict cars from 
+obtaining information such as vehicle diagnostics or navigation from anyone other than 
+OEM-authorized servicers. As the Copyright Office learned during the most recent 
+Section 1201 triennial review, motor vehicle companies believe that copyright law 
+generally, and especially Section 1201, grant them extraordinary control over the vehicles 
+that consumers thought they owned.1  According to these OEMs, the vehicle owner does 
+                                                            
+1  See, e.g., Comments of John Deere in Proposed Exemption Class 21, at 5: “A vehicle 
+owner does not acquire copyrights for software in the vehicle, and cannot properly be considered 
+an ‘owner’ of the vehicle software”; Comments of General Motors in Proposed Exemption Class 
+21, at 10-12. While these comments ignore the distinction between the owner of the software and 
+the owner of a copy of the software, the clear intent is to deny the applicability of the first sale 
+doctrine and maintenance defenses to any purchaser of a motor vehicle. The press immediately 
+understood the impact of these arguments, and took these companies to task.  See “Brave New 
+Tractor: John Deere And General Motors Pretty Sure They Own All Your Stuff,” 
+http://wonkette.com/583917/brave-new-tractor-john-deere-and-general-motors-pretty-sure-you-
+dont-own-your-stuff#fweCZLCTDyb7ICxz.99 (Apr. 27, 2015); Mike Masnick, “GM Says That 
+While You May Own Your Car, It Owns The Software In It, Thanks To Copyright,” Techdirt
+
+[PAGE 2]
+2 
+ 
+not own the copy of any software in the vehicle parts; therefore, the OEMs claim their 
+Section 106 rights are not limited by the Section 109 first sale doctrine or Section 117 
+maintenance and repair exceptions. And they assert Section 1201 precludes any consumer 
+from customizing or repairing their vehicle, or replacing broken parts, if to do so they 
+must access embedded software locked behind a technical measure.  
+ 
+ Can it really be, as the OEMs contend, that  every local independent vehicle repair 
+shop—and anyone who works on a friend’s ca r—commits copyright infringement, 
+circumvention, and trafficking? 
+  
+In truth, the OEM manufacturers have not deployed technological measures to protect 
+copyrights, but to thwart competition—to prev ent independent servicers and consumers from 
+making repairs and routine maintenance. In some cases, the measures do not actually protect the 
+software itself; in others, the measure deters replacement of the software rather than access to it. 
+In all these instances, Auto Care submits that these OEMs misuse Section 1201 as did the makers 
+of garage door openers2 and printer cartridges,3 by invoking laws intended to protect copyrighted 
+works for the purpose of locking out competition for non-copyrightable parts and services. In the 
+words of the Sixth Circuit, the OEMs: 
+ 
+would have us read this statute in such a way that any time a manufacturer 
+intentionally circumvents any technological measure and accesses a protected 
+work it necessarily violates the statute regardless of its ‘purpose.’ Such a reading 
+would ignore the precise language — ‘for the purpose of’ — as well as the main 
+point of the DMCA — to prohibit the pira ting of copyright-protected works such 
+as movies, music, and computer programs. If we were to adopt [their] reading of 
+the statute, manufacturers could potentially create monopolies for replacement 
+parts simply by using similar, but more creative, lock-out codes. Automobile 
+manufacturers, for example, could control the entire market of replacement parts 
+for their vehicles by including lock-out chips. Congress did not intend to allow the 
+DMCA to be used offensively in this manner, but rather only sought to reach 
+those who circumvented protective measures "for the purpose" of pirating works 
+protected by the copyright statute. Unless a plaintiff can show that a defendant 
+circumvented protective measures for such a purpose, its claim should not be 
+allowed to go forward.4 
+                                                                                                                                                                                                
+(Apr. 23, 2015), https://www.techdirt.com/articles/20150421/23581430744/gm-says-that-while-
+you-may-own-your-car-it-owns-software-it-thanks-to-copyright.shtml  
+2  Chamberlain Group v. Skylink Tech., Inc., 381 F.3d 1178 (Fed. Cir. 2004). 
+3  Lexmark Int’l Inc., v. Static Control Components, 387 F.3d 522 (6th Cir. 2004). 
+4  Id., 387 F.3d at 552 (Merritt, J., concurring).
+
+[PAGE 3]
+3 
+ 
+  Auto Care appreciates the Librarian’s grant of limited exemptions in Classes 21 
+and 22 in the most recent triennial review, and the Copyright Office’s initiation of a 
+Study into the application of copyright law to embedded software.5 But broader relief is 
+necessary to protect consumer rights and aftermarket competition. As the Register 
+observed in testimony last year, consumers rightfully are concerned that copyright law 
+suddenly interferes with their reasonable and customary rights to do what they want with 
+the products they buy.6  
+ 
+ Auto Care urges the Copyright Office to clarify, for the benefit of consumers and 
+industry, the scope and purpose of the DMCA and to help put an end to abuses that 
+demean the utility and integrity of legitimate anticircumvention prohibitions.  In 
+summary, the Copyright Office should: 
+ 
+ Affirm that Section 1201 applies where, and only to the extent that, the 
+technological measure actually protects a right of a copyright holder in a 
+copyrighted work. 
+ 
+ Affirm that Section 1201 does not apply where the measure protects 
+noncopyrightable aspects of software or markets for physical objects that 
+the software controls. 
+ 
+ Make exemptions granted in a prior triennial presumptively permanent, 
+such that the opponent has the burden to eliminate or limit the exemption.  
+ 
+ Determine that Section 1201 generally does not prohibit circumvention of 
+technological measures that prevent lawful repair under patent law of 
+products whose operation is controlled by embedded software.   
+ 
+ Extend exemptions to entities that perform the exempt activity on behalf 
+of others, where the activity itself requires specialized skills or 
+professional equipment to avoid damaging the copyrighted work or the 
+product in which it is embedded. 
+                                                            
+5  See Comments of Auto Care Association, In the Matter of Software-Enabled Consumer 
+Products Study: Notice of Inquiry and Request for Public Comment, Dkt. No. 2015-16 (Feb. 16, 
+2016), available online at http://www.regulations.gov/#!documentDetail;D=COLC-2015-0011-
+0011. 
+6  See “The Register’s Perspective on Copyright Review,” Statement of U.S. Register of 
+Copyrights Maria A. Pallante before the Committee on the Judiciary, U.S. House of 
+Representatives at 23-34 (Apr. 29, 2015), available online at 
+http://copyright.gov/laws/testimonies/042915-testimony-pallante.pdf.
+
+[PAGE 4]
+4 
+ 
+ 
+Background on the Repair Industry and Software Embedded in Motor Vehicles 
+ 
+The need to repair motor vehicles has attained greater importance over the last decade as 
+American consumers and businesses are keeping their cars and trucks in service longer. On 
+average, new car buyers in 2015 will keep their vehicles for 6.5 years, and used car buyers keep 
+those cars on the road for 5.3 more years – a total of more than 11-1/2 years, and more than 4 
+years longer than the average in 2006.7 As cars advance in age, so does the need for consumers 
+and businesses to repair and replace vehicle parts. Studies confirm that consumers prefer to 
+obtain parts and service from independent businesses rather than dealerships—benefitting from 
+reduced costs, greater convenience, and higher consumer satisfaction from local repair shops and 
+neighborhood mechanics.8   
+ 
+Vehicle repair by Auto Care members also contributes to a cleaner environment.  Repair 
+and customization improves vehicle performance and efficiency, increases gas mileage and 
+reduces energy consumption, and lowers emissions. Repair of motor vehicles using rebuilt 
+automotive parts typically re-uses 88 percent of the raw material from the original parts, and 
+rebuilding engines saves 50 percent of the energy required to produce a new engine. 
+ 
+Consumers have the right to repair their motor vehicles. Cleaning, repairing, and 
+refurbishing parts, or replacing worn or broken parts, historically has been considered 
+permissible repair, not infringing reconstruction, under patent law. When repairing motor 
+vehicles, a servicer may replace a broken part, or repair or rebuild the consumer’s existing part. 
+Where replacement parts are needed, the servicer (and consumer) often may have a choice of 
+new OEM parts, new parts from an independent producer, or rebuilt parts from either the OEM 
+or an independent.  In many cases, a used part removed from a vehicle may be refurbished or 
+rebuilt and used to repair other vehicles.  For example, replacing one vehicle’s engine or 
+transmission with parts taken from other vehicles has always been accepted as lawful as well as 
+economically and ecologically beneficial.   
+ 
+Typically, parts and services from independent manufacturers and repair shops cost less 
+than OEM parts and service, and competition from these independents constrains 
+supracompetitive pricing by OEMs. Independent repair businesses have the equipment, 
+                                                            
+7  News Release, IHS, “Average Age of Light Ve hicles in the U.S. Rises Slightly in 2015 to 
+11.5 years,”  July 29, 2015, http://press.ihs.com/press-release/automotive/average-age-light-
+vehicles-us-rises-slightly-2015-115-years-ihs-reports; Phil LeBeau, “Americans holding onto 
+their cars longer than ever,” CNBC (July 29, 2015) http://www.cnbc.com/2015/07/28/americans-
+holding-onto-their-cars-longer-than-ever.html   
+8  “Independent vs. dealer shops for car repair,” Consumer Reports, Jan. 22, 2015, 
+http://www.consumerreports.org/cro/magazine/2015/03/best-places-to-get-your-car-
+repaired/index.htm
+
+[PAGE 5]
+5 
+ 
+knowledge, and experience necessary to address the consumer’s problem accurately and in 
+compliance with laws and regulations pertinent to motor vehicles.9 It generally is infeasible for 
+the ordinary consumer to repair software-enabled parts. OEMs intentionally design vehicles to 
+deter access to software except through the use of specialized and costly tools. Those making 
+repairs also need to understand how software for a specific part may interact with other software-
+controlled vehicle systems. Thus, the aftermarket repair and customization industry provides 
+much-needed and cost-effective services that consumers often cannot do for themselves. 
+ 
+Responses to Copyright Office Questions  
+General 
+1. Please provide any insights or observations regarding the role and effectiveness of the 
+prohibition on circumvention of technological measures in section 1201(a).  
+Response:  Virtually since its enactment, Section 1201(a) has been exploited and misused 
+by businesses intent on constraining lawful market competition for non-copyrightable products.  
+Technological measures have been applied in a number of contexts where no copyrighted work 
+is being accessed or protected. And businesses in various industries, including the motor vehicle 
+industry, have inserted software routines into products with the specific purpose to wield Section 
+1201(a) against their competitors. Given the ubiquity of embedded control software in products 
+and equipment, the Copyright Office should provide clear guidance in this Study and in future 
+exemptions, so as to stave off litigation and liability for competitors engaged in otherwise lawful 
+maintenance, customization, and repair. 
+ 
+As vehicle parts increasingly incorporate computer software, functions that used to be 
+performed by hardware components now are controlled by software embedded in those parts or 
+centralized in an electronic control unit (“ECU”). Today’s engines, transmissions, oxygen 
+sensors, ignitions, brakes, emissions systems, electric windows, air blowers, air bags, and even 
+windshield wipers are just a few of the systems in which manufacturers have replaced purely 
+electro-mechanical parts with microprocessors and software controls. The function of these parts 
+is the same regardless of whether implemented in hardware or software. Logically, the law 
+applicable to software-controlled parts should be the same as for hardware—repairing, 
+refurbishing, modifying, adjusting, or replacing software that functions as a part in a motor 
+vehicle should be treated no differently than a brake caliper or a universal joint.  
+                                                            
+9  In that regard, it is partic ularly unfortunate that the triennial ruling denied the exemption 
+to businesses, acting “on behalf of” their customers, that have the experience and wherewithal to 
+both circumvent the technological protection measure and effect repairs compliant with 
+environmental and other regulations. See Response to Questions 6-7, infra at 9-10.  
+Notwithstanding, as noted infra at 7, Auto Care believes Section 1201 grants no authority to 
+limit exemptions based on considerations other than the protection of copyrighted works.
+
+[PAGE 6]
+6 
+ 
+ 
+ Our members report that new software-based schemes are being deployed by original 
+equipment manufacturers, in a cat and mouse game intended to lock-out competition for 
+aftermarket repair and customization services: 
+ 
+ Some manufacturers tie the copy of the software installed in a car’s parts to that 
+car’s unique Vehicle Identification Number (VIN). As a result, the technological 
+measure prevents a used or refurbished part from one vehicle from working in 
+another car of the same model.  
+ 
+ Similarly, some car manufacturers design embedded software for car parts with 
+primary or sole purpose to authenticate with the car’s ECU module so as to 
+“verify” that only replacement parts made by the OEM are able to be installed by 
+an “authorized” servicer.
+10  
+ 
+ One OEM has contended that Section 1201(a) prevents aftermarket businesses 
+from circumventing a technological measure in order to replace the software 
+rather than to access it.  
+ 
+ Another OEM asserted in a complaint that Section 1201(a) prohibited an 
+aftermarket vendor from circumventing technological measures solely for the 
+purpose of accessing non-copyrightable data and operating parameters embodied 
+in the embedded software.11 
+ 
+Such technological measures on their face protect business models, not Section 106 
+rights. OEMs deploy these tactics in an attempt to leverage Section 1201 to stifle lawful 
+competition, not for any purpose protectable by copyright. Potentially draconian liability—
+statutory damages of $2500 per circumvention, injunctive relief, impoundment and destruction 
+under Section 1203, and even the most remote hint of a threat of criminal liability for 
+commercial activity under Section 1204—hands OEMs a powerfu l weapon against otherwise 
+lawful competition from independent parts manufacturers, servicers, and software developers. 
+The ensuing legal risk, and particularly uncertainty over the law, chills investment by our 
+companies in innovative technologies and services that cost consumers less.   
+ 
+Auto Care therefore urges the Copyright Office through this Study to provide 
+unambiguous guidance that Section 1201(a) does not prohibit circumvention of technological 
+measures primarily designed to protect markets rather than works, and to protect non-
+copyrightable elements of embedded software. Manufacturers, services, and consumers will 
+                                                            
+10  See Lexmark v. Static Control, 387 F.3d at 530 (technological protection measure on 
+printer cartridge chip prevented use of “unauthorized” toner cartridges).  
+11  The court properly dismissed the OEM’s claim under Section 1201(a).  Ford Motor 
+Company v. AUTEL US Inc., No. 14-13760, Opinion and Order, (E.D. Mich. Sept. 30, 2015).
+
+[PAGE 7]
+7 
+ 
+benefit from better demarcation of the limits of Section 1201, and from exemptions that facilitate 
+noninfringing repair and customization of products with embedded software functions.  
+  
+2. How should section 1201 accommodate interests that are outside of core copyright 
+concerns, for example, in cases where circumvention of access controls protecting 
+computer programs implicates issues of product interoperability or public safety?  
+Response: Section 1201 and the triennial re view process under Section 1201(a) should not 
+accommodate interests other than those directly within the province of core copyright concerns.  
+Auto Care respectfully submits that the Librarian of Congress and the Copyright Office, by 
+delaying implementation of the Class 21 and 22 exemptions, exceeded their authority and 
+committed clear error. 
+First, the text of Section 1201 commands that any inquiry and action be limited to the 
+framework of copyright. Congress codified Section 1201 as part of the Copyright Act, to address 
+the impact of new digital technology, and particularly digital network communications, on the 
+rights of copyright owners under Section 106 and the public interests that copyright implicates.  
+Section 1201(a)(1)(B) stands as a safeguard against potential adverse effects of access controls 
+and anticircumvention restrictions on the ability of “users of a copyrighted work” to make 
+“noninfringing uses under this title… .” This clearly implies that the text of Title 17 cabins the 
+inquiry, and evinces Congress’ judgment that the implications of noninfringing uses under other 
+titles of the U.S. Code lie beyond Section 1201’s ambit.  
+Second, the duties of the Librarian under 2 U.S.C. § 131 et seq., and the Copyright Office 
+under 17 U.S.C. § 701, include no general legal authority to engage in rulemaking under laws 
+outside of Title 17 or policies not affected by copyright. To the extent that Congress required 
+input concerning the non-copyright effects of access controls on noninfringing uses, it required 
+the Register to seek those views from the Assistant Secretary for Communications and 
+Information of the Department of Commerce.12   
+Third, as further evidence, Section 1201(a)(1)(C) repeats the same text from (B) limiting 
+the inquiry to noninfringing uses under Title 17, and defines factors relevant to copyright to be 
+examined by the Register and the Librarian in conducting the rulemaking. Clauses (i)-(iv) each 
+are tethered to the purposes of the Copyright Act—the availability and us e of works, the impact 
+on socially beneficial uses of copyrighted works, and any effect of circumvention upon the 
+economic incentives for creation of copyrighted works. Even the more general factor in clause 
+(v), under the principle of ejusdem generis, must be understood within the scope of copyright 
+interests reflected in the body of subparagraph (C) and clauses (i)-(iv).13 Thus, Section 
+                                                            
+12  17 U.S.C. § 1201(a)(1)(C). 
+13  See, e.g., Antonin Scalia and Bryan A. Garner, Reading Law: The Interpretation of Legal 
+Texts, § 32 at 199-213(2012),
+
+[PAGE 8]
+8 
+ 
+1201(a)(1)(C) (i)-(v) should not be properly interpreted as a broad license to consider other areas 
+of the law.  To the contrary, these five factors must be understood and applied within the scope 
+of the powers of the Copyright Office and Librarian under the copyright laws.  
+Finally, there is no need for the Librarian to consider the effect of other laws on any 
+proposed exemption. The right to circumvent and to make noninfringing uses under title 17 does 
+not constitute free license under any other provision of the laws.  Those laws apply regardless of 
+the Librarian determination and without any delay or grace period under an exemption.  
+Thus, we respectfully submit that the Librarian acted beyond his authority by delaying 
+the exemptions, prolonging for an additional year the harm to the public from Section 1201(a), 
+under Classes 21 and 22, where the Librarian determined that an exemption was warranted.      
+ Rulemaking Process  
+3.   Should section 1201 be adjusted to provide for presumptive renewal of previously 
+granted exemptions—for example, when th ere is no meaningful opposition to renewal—
+or otherwise be modified to streamline the process of continuing an existing exemption? 
+If so, how?  
+4.   Please assess the current legal requirements that proponents of an exemption must satisfy 
+to demonstrate entitlement to an exemption. Should they be altered? If so, how? In 
+responding, please comment on the relationship to traditional principles of 
+administrative law.  
+5.  Please provide additional suggestions to improve the rulemaking process.  
+Response to Questions 3-5:  The Librarian should grant presumptive exempt status to classes 
+previously granted an exemption in a prior triennial review. Once the burden of proof has been 
+met by a petitioner in an earlier proceeding, the burden should shift to those who oppose the 
+exemption to demonstrate changed circumstances meriting a full re-evaluation of the exemption.  
+That burden of proof should be at least as stringent as the burden carried by entities that sought 
+and obtained the exemption in the first instance. Evidence and argument that merely recapitulates 
+points made in opposition to a previously-approved exemption should be deemed insufficient to 
+overcome the presumption. 
+The Librarian therefore should identify in the notice issued for each forthcoming triennial 
+that all past exemptions presumptively will be carried forward. Should an opposition be received, 
+then those who support the exemption may come forward with a rebuttal to be considered by the 
+Librarian. The Librarian should examine both the evidence and arguments of the opposition and 
+the rebuttal, if any, of the exemption proponents, to determine whether the opponents have met 
+their burden to demonstrate changed circumstances to amend or remove the exemption.  
+However, rebuttal comments should not be required. Exemptions create rights for all members of
+
+[PAGE 9]
+9 
+ 
+the public, not just those who filed the petition. Accordingly, regardless of whether a rebuttal is 
+filed, and in the exercise of its obligations to ensure that exemptions protect public as well as 
+private interests, the Librarian should determine whether the opposition has carried its burden—
+much in the same way she would determine whether an unopposed exemption met its burden 
+under Section 1201(a)(1)(B).   
+Anti-Trafficking Prohibitions  
+6.  Please assess the role of  the antitrafficking provisions of sections 1201(a)(2) and 1201(b) 
+in deterring copyright infringement, and address whether any amendments may be 
+advisable.  
+7.  Should section 1201 be amended to allow the adoption of exemptions to the prohibition 
+on circumvention that can extend to exemptions to the antitrafficking prohibitions, and if 
+so, in what way? For example, should the Register be able to recommend, and the 
+Librarian able to adopt, exemptions that permit third-party assistance when justified by 
+the record?  
+Response to Questions 6 and 7:  Auto Care members’ experience shows that, in the case of 
+embedded software, both the act of circumvention and the ability to make effective noninfringing 
+uses can be technologically beyond the reach of the ordinary consumer. In such circumstances, 
+the purpose of the Section 1201(a) exemptions and, more generally, copyright policy would be 
+frustrated by limiting the exemption to only those individuals possessed with extraordinary 
+knowledge and tools, and would be advanced by permitting third party assistance.   
+Embedded software that controls motor vehicle parts is often complex, and interacts with 
+other software embedded throughout the motor vehicle system. The ability to diagnose the 
+problem in the first instance, then to circumvent and access the software, create a solution, and 
+implement it compatibly within the vehicle systems as a whole, cannot reasonably be 
+accomplished on a one-off basis by an individual consumer. Diagnosis, circumvention, analysis, 
+and repair require expensive equipment that ordinary consumers cannot afford (assuming they 
+can obtain it at all).14 Moreover, consumers generally lack sufficient training and expertise to use 
+the equipment, or to make adjustments that will maintain optimal performance in operation and 
+in interoperation with the rest of the vehicle software and systems. Where the cost of 
+circumvention, and risk of damaging the product, exceeds the value of the noninfringing use, that 
+                                                            
+14  As one example, OEMs create proprietary physical and electrical interfaces for key 
+software-controlled parts.  Consumers cannot simply plug into these systems, like a USB cable 
+into a laptop interface port.  And OEMs limit the ability to acquire compatible diagnostic and 
+maintenance equipment by controlling sales to “authorized” purchasers and/or setting exorbitant 
+prices for what may otherwise be simple parts. In many cases, OEMs could have adopted 
+common user interfaces, but elected instead to use a proprietary port or protocol—and made that 
+choice primarily, if not exclusively, to deter competition from aftermarket companies.
+
+[PAGE 10]
+10 
+ 
+exemption may be granted at law but will be denied in practice. Exempting third parties who 
+enable circumvention for noninfringing purposes makes those noninfringing uses possible and 
+affordable, and makes the uses themselves effective, reliable, and safe.   
+ In the case of many motor vehicle software  systems, the Class 21 and 22 exemptions are 
+but empty promises. Without means for the individual to circumvent or to effectuate 
+modifications and repairs, the consumer benefits derived from the exemption could be severely 
+limited, and the purposes of Section 1201(a) will have been defeated. This loss is particularly 
+egregious for these specific exemption classes. The embedded software performs functions that 
+could have been performed by physical parts and that, in recent past, could have been repaired by 
+independent facilities or consumers themselves without any threat of copyright liability or need 
+for an exemption. And, denying third parties the ability to facilitate the exempt repairs 
+contributes to Section 1201(a) abuse, by granting exclusive rights to high-margin repair and 
+maintenance services rather than protecting a copyrighted work or a Section 106 right. 
+ Therefore, the Librarian should extend the Section 1201(a) exemption in Classes 21 and 
+22 to persons acting “on behalf of” consumers, where the circumvention facilitates and enables 
+maintenance, modification, or repair of the part or machine in which the software is embedded. 
+ 
+Auto Care thanks the Copyright Office for conducting this Study.  We look forward to 
+continuing our participation in this proceeding.  Should the Office have any questions, please 
+feel free to contact us at your convenience. 
+     Respectfully submitted,  
+Date:  March 3, 2016   /s/ Aaron Lowe 
+Senior Vice President, Regulatory and Government Affairs 
+Auto Care Association 
+7101 Wisconsin Ave., Suite 1300 
+Bethesda, MD 20814 
+301-654-6664, ext. 1021 
+www.autocare.org

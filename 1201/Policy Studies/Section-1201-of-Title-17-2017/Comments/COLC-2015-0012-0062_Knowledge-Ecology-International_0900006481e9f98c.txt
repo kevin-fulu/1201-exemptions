@@ -1,0 +1,430 @@
+[PAGE 1]
+Submission of Knowledge Ecology International  
+RE: 17 U.S.C. 1201: Notice and Request for Public Comment 
+To: Library of Congress; U.S. Copyright Office Docket No. 2015­8 
+ 
+This is the submission of Knowledge Ecology International (KEI) in response to the U.S. 
+Copyright Office request for public comment on the “operation of section 1201 of Title 17, 
+including the triennial rulemaking process established under the DMCA to adopt exemptions to 
+the prohibition against circumvention of technological measures that control access to 
+copyrighted works.” (U.S. Copyright Office Docket No. 2015­8).  Knowledge Ecology 1
+International is a non­governmental organization with offices in Washington, DC, and Geneva, 
+Switzerland, that advocates for access to knowledge and access to affordable medicines, with a 
+focus on promoting human rights and social justice. 
+ 
+I. Rulemaking Procedure 
+II. Anti­Trafficking Provisions 
+III. Permanent Exemptions 
+IV. Additional Proposed Requirements 
+ 
+ 
+We propose the following amendments to 17 U.S.C. 1201(a)­(c), with proposed new 
+language in bold, and language to be removed shown with strikethrough: 
+ 
+(a)  Violations regarding circumvention of technological measures. 
+ 
+(1)  (A) No person shall circumvent a technological measure that effectively controls 
+access to a work protected under this title. ​The prohibition contained in the preceding 
+sentence shall take effect at the end of the 2­year period beginning on the date of the 
+enactment of this chapter [enacted Oct. 28, 1998]. 
+ 
+(B) The prohibition contained in subparagraph (A) shall not apply to persons who 
+are users of a copyrighted work which is in a particular class of works, if such 
+persons are, or are likely to be ​in the succeeding 3­year period, ​adversely affected 
+by virtue of such prohibition in their ability to make noninfringing uses of that 
+particular class of works under this title, as determined under subparagraph (C). 
+ 
+1 KEI is grateful for the assistance of Gina Colarusso, 2L at American University Washington College of Law, 
+in the preparation of this comment. 
+ 
+U.S Copyright Office Docket No. 2015­8, KEI Submission, Page 1
+
+[PAGE 2]
+(C)  ​During the 2­year period described in subparagraph (A), and during each 
+succeeding 3­year period, t [​T]he Librarian of Congress, upon the recommendation 
+of the Register of Copyrights, who shall consult with the Assistant Secretary for 
+Communications and Information of the Department of Commerce and report and 
+comment on his or her views in making such recommendation, shall make the 
+determination, ​based upon the totality of the available evidence,​ in a rulemaking 
+proceeding for purposes of subparagraph (B) of whether persons who are users of a 
+copyrighted work are, ​or are likely to be in the succeeding 3­year period,​ adversely 
+affected by the prohibition under subparagraph (A) in their ability to make 
+noninfringing uses under this title of a particular class of copyrighted works. In 
+conducting such rulemaking, the Librarian shall examine­­ 
+(i)  the availability for use of copyrighted works; 
+(ii)  the availability for use of works for nonprofit archival, preservation, 
+and educational purposes; 
+(iii)  the impact that the prohibition on the circumvention of technological 
+measures applied to copyrighted works has on criticism, comment, news 
+reporting, teaching, scholarship, or research; 
+(iv)  the effect of circumvention of technological measures on the market 
+for or value of copyrighted works; and 
+(v)  such other factors as the Librarian considers appropriate. 
+(D)  The Librarian shall publish any class of copyrighted works for which the 
+Librarian has determined, pursuant to the rulemaking conducted under 
+subparagraph (C), that noninfringing uses by persons who are users of a 
+copyrighted work are, or are likely to be, adversely affected, and the prohibition 
+contained in subparagraph (A) shall not apply to such users with respect to such 
+class of works​ for the ensuing 3­year period​ ​until the Librarian issues a contrary 
+finding.  
+(E) ​Neither the exception under subparagraph (B) from the applicability of the 
+prohibition contained in subparagraph (A), nor any determination made in a 
+rulemaking conducted under subparagraph (C) , may be used as a defense in any 
+action to enforce any provision of this title other than this paragraph. ​An exception 
+granted under subparagraph (a)(1)(B) from the applicability of the prohibition 
+contained in subparagraph (A), and any determination made in a rulemaking 
+conducted under subparagraph (a)(1)(C), shall also provide a person with an 
+exception under subparagraph (a)(2) and paragraph (b), so as to ensure that 
+the intended beneficiaries of exemptions are able to engage in the permitted 
+circumvention activities.  
+ 
+(F)  The Librarian shall request public comments at least every three years on 
+the rules that have been adopted in the past, on revisions proposed for such 
+rules, and on new rules that may be appropriate. 
+ 
+U.S Copyright Office Docket No. 2015­8, KEI Submission, Page 2
+
+[PAGE 3]
+(2)  No person shall manufacture, import, offer to the public, provide, or otherwise traffic 
+in any technology, product, service, device, component, or part thereof, that­­ 
+(A)  is primarily designed or produced for the purpose of circumventing a 
+technological measure that effectively controls access to a work protected under 
+this title; 
+(B)  has only limited commercially significant purpose or use other than to 
+circumvent a technological measure that effectively controls access to a work 
+protected under this title; or 
+(C)  is marketed by that person or another acting in concert with that person with 
+that person's knowledge for use in circumventing a technological measure that 
+effectively controls access to a work protected under this title. 
+(3)  As used in this subsection­­ 
+(A)  to "circumvent a technological measure" means to descramble a scrambled 
+work, to decrypt an encrypted work, or otherwise to avoid, bypass, remove, 
+deactivate, or impair a technological measure, without the authority of the 
+copyright owner; and 
+(B)  a technological measure "effectively controls access to a work" if the 
+measure, in the ordinary course of its operation, requires the application of 
+information, or a process or a treatment, with the authority of the copyright owner, 
+to gain access to the work. 
+ 
+(b)  Additional violations. 
+(1)  No person shall manufacture, import, offer to the public, provide, or otherwise traffic 
+in any technology, product, service, device, component, or part thereof, that­­ 
+(A)  is primarily designed or produced for the purpose of circumventing protection 
+afforded by a technological measure that effectively protects a right of a copyright 
+owner under this title in a work or a portion thereof; 
+(B)  has only limited commercially significant purpose or use other than to 
+circumvent protection afforded by a technological measure that effectively 
+protects a right of a copyright owner under this title in a work or a portion thereof; 
+or 
+(C)  is marketed by that person or another acting in concert with that person with 
+that person's knowledge for use in circumventing protection afforded by a 
+technological measure that effectively protects a right of a copyright owner under 
+this title in a work or a portion thereof. 
+ 
+(c)  Other rights, etc., not affected. 
+(1)  Nothing in this section shall affect rights, remedies, limitations, or defenses to 
+copyright infringement, including fair use, under this title.  
+(2)  Nothing in this section shall enlarge or diminish vicarious or contributory liability for 
+copyright infringement in connection with any technology, product, service, device, 
+component, or part thereof. 
+ 
+U.S Copyright Office Docket No. 2015­8, KEI Submission, Page 3
+
+[PAGE 4]
+(3)  Nothing in this section shall require that the design of, or design and selection of 
+parts and components for, a consumer electronics, telecommunications, or computing 
+product provide for a response to any particular technological measure, so long as such 
+part or component, or the product in which such part or component is integrated, does 
+not otherwise fall within the prohibitions of subsection (a)(2) or (b)(1). 
+(4)  Nothing in this section shall enlarge or diminish any rights of free speech or the 
+press for activities using consumer electronics, telecommunications, or computing 
+products. 
+ 
+ 
+I. Explanation of Proposed Amendments to Rulemaking Procedure Under § 1201 
+ 
+The Copyright Office has asked for public response on whether § 1201 should be adjusted to 
+provide for presumptive renewal of previously granted exemptions, or otherwise be modified to 
+streamline the process of continuing an existing exemption.  
+ 
+As written, the rulemaking provisions of section 1201 place an undue burden upon individual 
+users and the general public interest, and should be amended to ensure a more equal balance 
+between the interest of authors and the public. In order to facilitate a more equal balance, KEI 
+calls for amendments to section 1201 that would provide (1) presumptive renewal of previously 
+granted exemptions, (2) a review process that mandated a totality of the evidence rather than 
+de novo​, and (3) a removal of the sunsetting provisions which currently force granted 
+exemptions to expire after only three years. 
+ 
+Presumptive Renewal 
+ 
+KEI believes that § 1201 should be adjusted to provide for presumptive renewal of previously 
+granted exemptions. Once an exemption is granted the burden should shift to the copyright 
+owner to prove an infringement.  
+ 
+Currently § 1201(a)(1)(D) states that when noninfringing uses by persons who are users of a 
+copyrighted work are provided an exemption (by the Librarian of Congress) from the prohibition 
+under subparagraph (A), that exemption shall apply for “the ensuing 3­year period.”  
+ 
+To further ensure access for lawful purposes the statute should be amended to change the 
+language found at the end of 1201(a)(1)(D). Rather than “that exemption shall apply for the 
+ensuing 3­year period” it should read “that exemption shall apply until otherwise proven to be an 
+infringing use of a copyrighted work.” This would allow for a presumptive renewal of granted 
+exemptions, rather than the exemption expiring at the end of three years, and for the burden to 
+shift onto the copyright owner to prove infringement once an exemption is granted.  
+ 
+Several times throughout the triennial rulemaking process there has been no opposition to 
+proposed exemptions, yet the exemption must still be petitioned for every three years. For 
+ 
+U.S Copyright Office Docket No. 2015­8, KEI Submission, Page 4
+
+[PAGE 5]
+example, the petition to permit circumvention so that literary works distributed electronically 
+could continue to be accessed by persons who are blind, visually impaired, or print disabled 
+were unopposed.  This is an arbitrary procedure that leads to a waste of resources. Enabling a 2
+presumptive renewal of exemptions, especially those that were unopposed, would lessen the 
+burden placed upon the individual  
+ 
+To add to the burden of procedural complexity placed upon the general public, each rulemaking 
+process has seen the classes of exemptions only become longer and more textually complex. 
+For example, the 752­word exemption for audiovisual works in 2013 is far more difficult for 
+educators to use than the 100­word exemption in 2010, despite some of the broader aspects of 
+the 2013 exemption. Such complexities dissuade members of the general public from 
+participating in the rulemaking process all together. Balance must be found.  
+ 
+The complexity of the 1201 statute has provided an over abundance of hardship upon 
+individuals who are without the sophisticated resources that the industry benefits from. An 
+amendment to the statute which levels the playing field among individual consumers and 
+industry elites is overdue, and necessary. Furthermore, the exceptions authorized to the 
+prohibition of 1201(a)(1) should not remain limited to circumvention of access controls. Rather, 
+the exception should extend to the necessary devices, those which are needed to enable lawful 
+circumvention, but are prohibited under 1201(a)(2) and 1201(b)(1).   
+ 
+Totality of the Evidence Review, Rather than ​De Novo 
+ 
+However, even if the Librarian of Congress fails to implement this adjustment, we believe there 
+are other modifications necessary to streamline the process of continuing an existing 
+exemption. The Librarian of Congress should no longer review petitions ​de novo​, but rather, 
+assess all of the evidence available at the time of petition, therefore including evidence brought 
+by petitioner at a previous round of rulemaking.  
+ 
+Although the legislative history indicates that the assessment of adverse impacts on particular 
+categories of works (under 1201(a)(1)(B)­(C)) be determined ​de novo​, the statute itself does not 
+explicitly mandate such review.  It is therefore within the power of the Librarian of Congress to 3
+interpret the statute in a way that is more equitable to the overburdened individual, who, thus far 
+under the rulemaking process, has been forced to bring a case every three years for (often) the 
+same exact exemption(s) she had previously been granted.  
+ 
+The legislative history also highlights the concern that was associated with providing an 
+additional right against circumvention to copyright holders. Such concern was in overly 
+restricting access to copyrighted materials, which are important to education, scholarship, and 
+other socially vital endeavors. The waiver of prohibition outlined in 1201(a)(1) was meant to 
+2 80 Fed. Reg. 81369, 81371 (Dec. 29, 2015).  
+3 H.R. Rep. No. 105­551, pt. 2, at 37 (1998)[hereinafter the Commerce Comm. Report].   
+ 
+U.S Copyright Office Docket No. 2015­8, KEI Submission, Page 5
+
+[PAGE 6]
+ensure access for lawful purposes was not unjustifiably diminished.  However, this goal has not 4
+adequately being met. Not requiring ​de novo​ review of the adverse impacts would ensure better 
+compliance with the intent of the triennial review process.  
+ 
+Short of eliminating ​de novo​ review, or a shift in the burden of proof, language should be added 
+under 1201(a)(1)(C) to require the Librarian of Congress to consider the totality of available 
+evidence when assessing whether to waive the prohibition for an individual. This would, at least 
+partially, mitigate the burden on the individual by allow evidence that has been previously 
+provided (during a past triennial rulemaking) to be used again, rather than forcing the individual 
+to start from scratch at each triennial rulemaking.   
+ 
+ 
+II. Explanation of Proposed Amendments to § 1201 Regarding Anti­Trafficking Provisions 
+ 
+The Copyright Office has asked for public comment on the role of the anti­trafficking provisions 
+of sections 1201(a)(2) and 1201(b) in deterring copyright infringement, and to address whether 
+any amendments may be advisable.  
+ 
+As written, the anti­trafficking provisions exceed the scope of the WIPO treaties that mandated 
+the existence of a anti­circumvention law, and thus place an undue burden upon individual 
+users and the general public. In order to ensure that § 1201 strikes a balance between the rights 
+of authors and the larger public interest, as the WIPO treaties also require, KEI calls for 
+amendments that would extend exemptions to the general prohibition of circumvention on 
+technology protection measures to both of the anti­trafficking provisions: 1201(a)(2) and 
+1201(b). 
+ 
+While the two anti­trafficking provisions address tools of circumvention, each one provides a 
+separate and distinct protection for the copyright owner. According to the Ninth Circuit Court of 
+Appeals, § 1201(a)(2) “prohibits the circumvention of a measure that ‘effectively controls access 
+to a work protected under this title,’” whereas the prohibition in 1201(b)(1) is “aimed at 
+circumventions of measures that protect the copyright itself: it entitles copyright owners to 
+protect their existing exclusive rights under the Copyright Act.”  The Court continued, 5
+“historically speaking, preventing ‘access’ to a protected work in itself has not been a right of a 
+copyright owner arising from the Copyright Act.”   6
+ 
+Essentially, § 1201 of the DMCA provides a new right to copyright owners to protect access to a 
+work, where it traditionally did not exist,  and under 1201(b)(1), it “reinforces copyright owners’ 7
+4 ​Id.  
+5 ​MDY Indus., LLC v. Blizzard Entm’t, Inc.​, 629 F.3d 928, 997 (9th Cir. 2010).  
+6 ​Id.​ (citing 17 U.S.C. § 106).  
+7 ​Id​.; ​See also​ Jay Dratler, ​Cyberlaw: Intellectual Prop. in the Digital Millennium​, § 1.02 (2009).  
+ 
+U.S Copyright Office Docket No. 2015­8, KEI Submission, Page 6
+
+[PAGE 7]
+traditional exclusive rights (under § 106) by granting them an additional cause of action against 
+those who traffic in circumventing devices that facilitate infringement.”  8
+ 
+In order to allow users to engage in lawful circumvention, § 1201(a)(2) should be amended to 
+allow the granted exemptions to the general prohibition on circumvention to extend to the 
+anti­trafficking prohibitions in both 1201(a)(2) and 1201(b)(1). Violation of 1201(a)(2), which 
+prohibits trafficking in devices that facilitate circumvention of access control measures, will not 
+always be a violation of 1201(b), which prohibits trafficking in devices that facilitate 
+circumvention of measures that protect against copyright infringement.  Thus, an extended 9
+exemption should apply to both of these paragraphs. Such an amendment would ensure that 
+intended beneficiaries of exemptions are able to engage in the permitted circumvention 
+activities.  
+ 
+While 1201(a)(1) enables the Librarian of Congress to create exemptions to prohibition on 
+circumvention of access controls, the statute does not authorize additional exemptions to the 
+device prohibition of sections 1201(a)(2) and 1201(b)(1). Therefore, a person may be granted 
+permission to engage in circumvention, but not be able to lawfully use the device necessary, or 
+seek out a capable service provider, to perform such circumvention.  
+ 
+For example, a vehicle owner may require assistance from an auto mechanic technician to take 
+advantage of an exemption that allows the circumvention of access controls on automobile 
+software to make a repair.  However, under 1201(a)(2) an auto mechanic technician may not 10
+offer circumvention services to the vehicle owner, despite the exception that the vehicle owner 
+was granted. After going through the lengthy process of petitioning for the exception, the vehicle 
+owner now faces the obstacle of figuring out how to actually use the exception without violating 
+a separate provision of § 1201.  
+ 
+Not only does this obstacle, created by the statute, impose an even greater burden upon the 
+vehicle owner, but it also unnecessarily goes beyond the original intent of the legislation. 
+Section 1201 was enacted in order to adhere to our international obligation under two WIPO 
+treaties, both of which simply require that “contracting Parties shall provide adequate legal 
+protection and effective legal remedies against the circumvention of effective technological 
+measures that are used by authors in connection with the exercise of their rights under this 
+Treaty or the Berne Convention and that restrict acts, in respect of their works, which are not 
+authorized by the authors concerned or permitted by law.”   11
+ 
+8 ​MDY Indus., LLC​, 629 F.3d at 997.  
+9 ​MDY Indus., LLC​, 629 F.3d at 997.  
+10 80 Fed. Reg. 81369, 81372 (Dec. 29, 2015) (citing U.S. Copyright Office, Section 1201 Rulemaking: Sixth 
+Triennial Proceeding to Determine Exemptions to the Prohbition on Circumvention, Recommendation of the 
+Register of Copyrights 4 n.13 (2015), http://copright.gov/1201/2015/registers­recommendation.pdf ). 
+11 World Intellectual Property Organization Copyright Treaty (1996), Art. 11; World Intellectual Property 
+Organization Performances and Phonograms Treaty (1996), Art. 18. 
+ 
+U.S Copyright Office Docket No. 2015­8, KEI Submission, Page 7
+
+[PAGE 8]
+These WIPO treaties do not require a prohibition on devices used for circumvention, but rather 
+speaks only to the act of circumvention. Furthermore, the language in the treaties indicates that 
+there should be protection against unlawful circumvention. However, section 1201 prohibits any 
+device “primarily designed or produced for the purpose of circumventing” which effectively 
+prohibits legitimate devices used for lawful circumvention, which exceeds the obligations set 
+forth in the WIPO treaties.  
+ 
+Finally, the Preamble of the WIPO Copyright Treaty recognizes, “the need to maintain a balance 
+between the rights of authors and the larger public interest, particularly education, research and 
+access to information, as reflected in the Berne Convention . . . ”  
+ 
+Unfortunately, the legislation which incorporates these WIPO treaty obligations has overlooked 
+the need for this balance of rights. While there are some permanent exemptions that were 
+seemingly incorporated to strike a balance, they have failed to do so, as the groups 
+representing the categories of exemptions have had to waste time and resources in 
+continuously petitioning for broader exceptions every three years.  
+  
+ 
+III. Proposed Amendment to §1201 Regarding Permanent Exemption Provisions:  
+ 
+The provisions of § 1201 that provide “permanent exemptions” are complex, and in the opinion 
+of some users, effectively worthless. The Copyright Office has asked if the existing categories of 
+permanent exemptions are necessary, relevant, and/or sufficient, to which we respond, no, the 
+existing categories are not sufficient. The exemptions should be rewritten to enable broader use 
+of noninfringing circumvention by the groups mentioned in 1201(d)­(j). Furthermore, a 
+permanent exemption for the blind or visually impaired should be added.  
+ 
+While we support the notion that previously granted and unopposed exemptions should receive 
+a presumptive renewal, such renewal will not go far enough to ensure adequate access of 
+digital works to blind, or visually impaired persons. The Copyright Office should amend section 
+1201 to include a provision which provides a permanent exemption for blind or visually impaired 
+persons. Such an exemption should at least encompass:  
+ 
+“Literary works, distributed electronically, that are protected by technological                 
+measures which either prevent the enabling of read aloud functionality or                     
+interfere with screen readers or other applications or assistive technologies,                   
+when acopyof suchaworkislawfullyobtainedbyapersonwhoisblindor hasa                                     
+visual impairment.”  12
+ 
+A permanent exemption would implement the obligations set forth in the Marrakesh Treaty to 
+Facilitate Access to Published Works for Persons Who are Blind, Visually Impaired, or 
+12 ​See ​77 Fed. Reg. 65,260, 65,262 (Oct. 26, 2012) (to be codified at 37 C.F.R pt. 201).   
+ 
+U.S Copyright Office Docket No. 2015­8, KEI Submission, Page 8
+
+[PAGE 9]
+Otherwise Print Disabled (Marrakesh Treaty for the Blind).   Article 4 of the Marrakesh Treaty 13
+for the Blind requires that  
+ 
+“[c]ontracting parties shall provide in their national copyright laws for a limitation or 
+exception to the right of reproduction, the right of distribution, and the right of making 
+available to the public as provided by the WIPO Copyright Treaty (WCT), to facilitate the 
+availability of works in accessible format copies for beneficiary persons. The limitation or 
+exception provided in national law should permit changes needed to make the work 
+accessible in the alternative format.”  
+ 
+Article 7 directly addresses obligations concerning technological measures, requiring 
+contracting parties to  
+ 
+“take appropriate measures, as necessary, to ensure that when they provide adequate 
+legal protection and effective legal remedies against the circumvention of effective 
+technological measures, this legal protection does not prevent beneficiary persons from 
+enjoying the limitations and exceptions provided for in this treaty.”  
+ 
+A permanent exception to the prohibitions under section 1201 for beneficiary persons, as 
+defined by the Marrakesh Treaty for the Blind,  would comply with the treaty obligation. 14
+ 
+ 
+IV. Suggestion to Require Fee for Registration of a Technological Protection Measure 
+ 
+The Copyright Office has asked for comment on any additional issues that should be of 
+consideration in conducting its study.  
+ 
+KEI believes that the Copyright Office should consider ending the system where all TPM/DRM 
+systems are automatically protected and subject to government enforcement actions.  Technical 
+measures to protect data and works have been used before the DCMA, and can work without 
+any protection under the law.   
+ 
+There do exist cases where the government should extend a legal status the regimes that is 
+associated also with government enforcement actions.  However, this should be based upon (a) 
+the registration of the DRM/TPM seeking legal protection, (b) an application process that 
+addresses the standards that are appropriate for obtaining legal protection, and (c) fees 
+sufficient to cover at least some of the costs associated with managing the system of legal 
+protection. 
+13 Marrakesh Treaty to Facilitate Access to Published Works for Persons Who Are Blind, Visually Impaired, 
+or Otherwise Print Disabled (June 27, 2013) ​available at 
+http://www.wipo.int/edocs/lexdocs/treaties/en/marrakesh/trt_marrakesh_001en.pdf. [hereinafter Marrakesh 
+Treaty for the Blind]. 
+14 Marrakesh Treaty for the Blind, art. 3, June 27, 2013 (defining “beneficiary persons”).  
+ 
+U.S Copyright Office Docket No. 2015­8, KEI Submission, Page 9
+
+[PAGE 10]
+ 
+The standards associated with legally protected DRM/TPM systems should include an 
+obligation to show how the DRM/TPM system proposes to address, where appropriate and 
+consequential: 
+ 
+1. The public’s legitimate use or access when there are limitations and exceptions to the 
+rights of copyright holders, 
+ 
+2. The preservation and archiving of works, 
+ 
+3. The privacy of users, and 
+ 
+4. And issues relevant to the context of the use of the DRM/TPM. 
+ 
+ 
+ 
+ 
+ 
+U.S Copyright Office Docket No. 2015­8, KEI Submission, Page 10

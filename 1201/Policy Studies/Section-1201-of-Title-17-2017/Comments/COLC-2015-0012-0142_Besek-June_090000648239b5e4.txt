@@ -1,0 +1,149 @@
+[PAGE 1]
+1
+KERNOCHAN CENTER FOR LAW, MEDIA AND THE ARTS
+COLUMBIA LAW SCHOOL
+BEFORE THE
+U.S. COPYRIGHT OFFICE
+Section 1201 Study Docket No. 2015-8
+Reply Comments of the Kernochan Center for Law, Media and the Arts
+Columbia Law School
+Introduction
+The Kernochan Center for Law, Media and the Arts appreciates the opportunity to 
+respond to the Request for Additional Comments by the US Copyright Office concerning its 
+study of Section 1201, 81 Fed. Reg. 66,296 (Sept. 27, 2016).  
+The Kernochan Center for Law, Media, and the Arts at Columbia Law School is one of 
+the leading centers for intellectual property research in the United States. Its faculty and staff 
+dedicate their research and writing to copyright, trademarks, and related areas as they concern 
+traditional and emerging media, entertainment and the arts. The Center offers students an in-
+depth program of instruction, lectures, internships and externships while providing symposia, 
+lectures, research studies and publications to the broader legal community. Founded as the 
+Center for Law and the Arts, it was renamed in 1999 to honor Professor John M. Kernochan, its 
+founder and a pioneer in teaching copyright in American law schools.
+Section 1201 of Title 17 was designed to encourage copyright owners to develop new 
+distribution models for their content, and in particular, to encourage distribution of that content 
+over the internet. Section 1201 has been a success, as many commenters have attested.  Section 
+1201’s success should not immunize it from amendment, but it does indicate that the broad 
+amendments offered by some commenters should be rejected, as they would unquestionably 
+undermine the goals and effect of the law.  (We refer, for example, to suggestions that the anti-
+circumvention laws be repealed in their entirety, that circumvention for any non-infringing 
+purpose be allowed, etc.).  We believe all suggested amendments should be approached with
+
+[PAGE 2]
+2
+caution, and that the Copyright Office should recommend amendments only on the basis of a 
+well-established record.  New or expanded permanent exemptions should be recommended 
+where, and only to the extent that, parties have consistently sought and been granted exemptions 
+in the past through the rulemaking process.
+1. Proposals for New Permanent Exemptions
+Judged against these criteria, there are only two suggested new permanent exemptions that 
+we would support:
+Assistive Technologies for Use by Persons Who are Blind, Visually Impaired, or Print 
+Disabled. In earlier comments, we stated that Congress should consider an appropriately drafted 
+permanent exemption to facilitate access to literary works by blind, visually impaired or print-
+disabled persons.  The history of the triennial rulemaking indicates that this is an exemption that 
+has been regularly sought and granted, and there are strong public policy reasons for raising it to 
+the level of a permanent exemption.  In our view, the exemption granted in the 2015 rulemaking 
+is an appropriate formulation for a permanent exemption.  We recognize that some commenters 
+would prefer a broader exemption, but they will still have the rulemaking process available to 
+them if their ability to make lawful uses in this regard is unreasonably constrained.
+Device Unlocking. The contours of the exemptions granted for this purpose in the 
+rulemaking proceedings have changed over time (and will likely continue to change).  We 
+nevertheless believe that a permanent exemption to allow circumvention to unlock mobile 
+devices solely for the purpose of “enabling them to connect to the network of a different mobile 
+wireless carrier” is warranted, based on the records in the rulemakings to date, as well as on 
+Congressional action on this issue.1  Rather than creating a broad and open-ended description of 
+the devices eligible for this exemption, it is preferable to use the exemption as formulated in the 
+2015 rulemaking proceeding, and add devices pursuant to the triennial proceeding, to the extent 
+justified by the evidence presented.
+International considerations. As we observed in our earlier comments, the WIPO 
+Copyright Treaty and the WPPT give contracting parties latitude with respect to the specific 
+                                                     
+1 See Unlocking Consumer Choice and Wireless Competition Act, Pub. L. 113-144, sec. 2(b), 128 Stat. 1751 (2014).
+
+[PAGE 3]
+3
+terms of their legislation.2  We believe that the two amendments we support here are consistent 
+with US obligations under the WIPO treaties.  
+As we discussed in our earlier comments, some of the bilateral trade agreements that the 
+US has with other countries contain more specific obligations with respect to technological 
+protection.3  The exemptions we support here, however, are based on an established track record 
+in the triennial rulemaking proceeding, which should be an important consideration in evaluating 
+implications for US obligations under such agreements, and the potential effect on other 
+countries’ perceptions of their obligations under those agreements.
+2. Proposed Amendments to Existing Exemptions
+We are not in a position to judge the current state of reverse engineering, encryption 
+research or security testing, or the extent to which such endeavors are seriously hampered by the 
+proscriptions of chapter 12.  In general, however, we would not support an amendment to an 
+existing exemption absent evidence that the beneficiaries have in triennial rulemaking 
+proceedings consistently requested, and been granted, exemptions reasonably equivalent to the 
+amendment they seek.  If the statutory structure is deficient, presumably the beneficiaries would 
+have come forward with evidence to justify additional or broader exemptions in the rulemaking
+process.  
+Where the records of previous rulemaking proceedings indicate that the potential 
+beneficiaries have not sought an exemption in past rulemaking proceedings, or sought an 
+exemption but failed to provide adequate supporting evidence, there is insufficient basis to create 
+or broaden a permanent exemption.
+  
+3. Anti-Trafficking Provisions
+                                                     
+2 WIPO Copyright Treaty, art. 11, Dec. 20, 1996, 36 I.L.M. 65 (1997), available at
+http://www.wipo.int/treaties/en/text.jsp?file_id=295166#P87_12240 (“Contracting Parties shall provide 
+adequate legal protection and effective legal remedies against the circumvention of effective technological 
+measures that are used by authors in connection with the exercise of their rights under this Treaty or the 
+Berne Convention and that restrict acts, in respect of their works, which are not authorized by the authors 
+concerned or permitted by law.”) The WIPO Performances and Phonograms Treaty has a similar 
+provision.  WIPO Performances and Phonograms Treaty, art. 18, Dec. 20, 1996, 36 I.L.M. 76 (1997), 
+available at http://www.wipo.int/treaties/en/text.jsp?file_id=295577. 
+3 See, e.g., the U.S.-Colombia Agreement, art. 16.7 (4) (2006), available at https://ustr.gov/trade-agreements/free-
+trade-agreements/colombia-fta/final-text.
+
+[PAGE 4]
+4
+The anti-trafficking provisions in section 1201 are an essential part of the statutory 
+scheme.  There will almost always be technically-savvy individuals who can circumvent or 
+override technological protection, but unauthorized access to copyrighted works can be kept in 
+check if such persons are not permitted to circulate tools or provide services to enable the general 
+public to circumvent.  Without protection against trafficking in devices or services, TPMs would 
+be largely ineffective.  Any changes to the anti-trafficking provisions should be approached with 
+great caution.
+a.  Implied right for the beneficiary of an exemption to “make a tool” for his or her own 
+use.  Concerning whether the Office should recommend that Congress clarify that the statute 
+should expressly permit the beneficiary of an exemption to make a tool solely for his or her own 
+use in circumventing:  We question whether there are examples of situations where the 
+beneficiary of an exemption has stated that it has not taken, and cannot take advantage of an 
+exemption to which it is entitled, even though it has the required expertise, because the law 
+prevents it from creating a tool or mechanism.  It is unclear whether such a recommendation is 
+necessary.  Most of the changes to the anti-trafficking provision provisions that commenters have 
+suggested are far broader; this issue doesn’t seem to be the crux of their claims.
+b.  Third-party assistance.  The Request for Additional Comments observed that some 
+parties have argued that “in certain circumstances” third party assistance in circumventing 
+technological access controls could “fall outside” the scope of the anti-trafficking provision and 
+therefore be permissible.   Both 17 U.S.C. sections 512(a)(2) and 512(b)(1) are broadly worded.  
+The parties urging such an interpretation apparently believe that third party assistance might not 
+be embraced under providing a service or any of the other activities prohibited by these sections.  
+The Merriam-Webster dictionary includes, among its definitions of “service,” “help, use, 
+benefit,” “contribution to the welfare of others,” and “a helpful act.”4 It seems as though any 
+plausible interpretation of “service” would include third party assistance, and we have not heard 
+a persuasive argument to the contrary.
+In conclusion, section 1201 was an attempt to provide protection to copyrighted works to 
+foster innovation in content delivery.  Congress drafted section 1201, including its exemptions 
+                                                     
+4 Merriam Webster Dictionary, definition of “service,” http://www.merriam-webster.com/dictionary/service. See 
+also dictionary.com definition of service, http://www.dictionary.com/browse/services which includes “an act of
+helpful activity; help; aid. . . .”
+
+[PAGE 5]
+5
+and limitations, to balance the interests of the various stakeholders.  Congress included the 
+rulemaking as a means to refine that balance when necessary.  Commenters have urged 
+numerous permanent changes to section 1201 that would make it easier for users to legally 
+circumvent technological access controls.  Before recommending any such changes, the Office 
+should consider carefully whether they would undermine the fundamental goals of the statutory 
+scheme.
+Respectfully submitted,
+June M. Besek
+Executive Director,
+Kernochan Center for Law, Media and the Arts
+Columbia Law School  
+435 West 116th Street
+New York, NY 10027

@@ -1,0 +1,35 @@
+[PAGE 1]
+Circumvention of access controls is quickly becoming a mandatory ability for a society 
+consuming more and more media digitally. Access controls for things as simple and common as music, 
+videos, books, and games, at best, are services that provide value for the end user, like Valve’s Steam PC 
+game client and Good Old Game’s Galaxy game client. However, in most cases, access controls are 
+simply software implementations that make accessing paid or legally free content inconvenient. 
+Examples of this include Amazon’s Kindle applications, Barnes & Noble’s Nook applications, and 
+Microsoft’s Windows 10 store, which allow users to download files, but make them unusable in any 
+other client without removing the access control (Digital Rights Management). In other cases, access 
+controls can make content utterly accessible, either when online infrastructure has ceased to exist, such 
+as Games for Windows Live, or when consumers have to use poorly designed programs to access their 
+content, like BookWalker’s PC client, which does not work when certain anti-virus programs are installed 
+on the user’s PC. 
+Without permanent access control circumvention exemptions, consumers have no legal 
+recourse when content they legally own is essentially held hostage by software. Even worse, if the 
+services they depend on to access that content fail and shutdown, those consumers are at the mercy of 
+the content provider if they hope to retain access to it. That means that, at the very least, circumvention 
+is required for the preservation of digital media, and should be given permanent exemptions, so that 
+future 1201 rulemaking sessions can focus on more important matters. 
+Also, anti-trafficking measures are outside the purview of the Copyright Office. These are 
+matters that should be left to the legislature and the companies selling the content. As game developer 
+Lars Doucet explains in his blog posts “Piracy and the four currenciesi” and “Piracy and the four 
+currencies, part 2,ii” piracy is a result of companies failing to provide services at resource costs that 
+consumers will accept. To quote Doucet, “humans care about more things than money- namely, they 
+care about time, pain-in-the-butt, integrity, and a million other things.  Furthermore, the value of each 
+of these things is different for each person - including money!” He gives a simplified case study of a 
+person pirating Game of Thrones, which did not happen because of access control circumvention – it 
+happened because HBO’s method of delivering content was so onerous, it caused people to circumvent 
+access controls to get it. If intellectual property owners wish to combat piracy, they should not get the 
+Copyright Office to fight its battles for them – they should work to improve their services and provide 
+consumers with options that lower the barriers to entry. 
+ 
+Michael Horton 
+i http://www.gamasutra.com/blogs/LarsDoucet/20120222/91144/Piracy_and_the_four_currencies.php  
+ii http://www.gamasutra.com/blogs/LarsDoucet/20120228/163145/Piracy_and_the_four_currencies_part_2.php

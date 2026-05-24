@@ -1,0 +1,71 @@
+[PAGE 1]
+Comment for the Study on Section 1201 of Title 17, United States Code 
+from Peter Hunt 
+Section 1201 of Title 17 U.S.C was added as part of the Digital Millennium Copyright 
+Act, and currently includes a triennial rulemaking process by which exemptions can be added to 
+section 1201(a)(1), which prohibits circumvention of technological protection measures (TPM). 1
+With this rulemaking procedure up for review, The US Copyright Office should consider several 
+changes to section 1201.  
+The triennial rulemaking need to allow full review and exemption from all of section 
+1201, not just section 1201(a)(1). Otherwise, numerous potential exemptions become ​de facto 
+illegal because they cannot be properly pursued without violating other parts of section 1201 
+even if the exemption itself is deemed a legitimate reason for exemption. This reasoning has 
+previously halted attempts at exemption, on the grounds that particular exemptions to section 
+1201(a)(1), i.e. those involving relating to media which requires multiple parties to connect over 
+the internet, could not feasibly be put in place without implying a necessary violation of section 
+1201(a)(2).  The regulation and law must be malleable enough to fit the needs of a changing 2
+age. Without the ability to modify the surrounding terms of section 1201, the exemption process 
+may become moot for some important pieces of digital media, as exemptions become restricted 
+by other parts of the law. Therefore, the triennial rulemaking process must change to 
+accommodate this fact. Whether or not any decision is made about those forms of media at this 
+time, it should be possible for the reviewing body to implement such exemptions if they deem it 
+appropriate. The ability to exempt those actions falls within the spirit of the modifying 
+1 17 U.S.C § 1201 
+2 Exemption to Prohibition on Circumvention of Copyright Protection Systems for Access Control Technologies, 80 
+Fed. Reg. 65,957 (2015)
+
+[PAGE 2]
+procedure. If the triennial rulemaking process is intended to consider when an exemption may be 
+necessary, then it should have the capacity to make that determination when called upon, and 
+subsequently institute those exemptions.  
+The triennial rulemaking process needs to allow the establishment of permanent 
+exemptions and modifications, not just temporary exemptions which need to be reviewed ​de 
+novo​. Doing otherwise can squander valuable time in review. While some changes may still be 
+submitted or ruled as only temporary exemptions, to remain in place for three years until the next 
+triennial rulemaking proceeding, rulemakers and recommenders should have the ability to 
+consider establishing, through a preponderance of the evidence, permanent exemptions, which 
+will last until successfully challenged. This streamlines the rulemaking process and simplifies the 
+regulatory process without damaging the essential malleability necessary to handle the range of 
+potential exemptions, and would otherwise not alter the review process for any submitted 
+exemptions.  
+Some specific exemptions should also be considered for a permanent place within section 
+1201. First, any action done by a library, archive, or educational institution for the purpose of 
+preserving a work as close to its original form as possible should be exempt, even if this means 
+distributing circumvention software across multiple devices, or creating duplicate servers to 
+stand in for those no longer supported by the copyright holders. This is because electronic 
+multiplayer games, as a medium, are different from something such as the text of a book or a 
+copy of a film. Their interactivity defines them. The interaction between multiple human parts is 
+a fundamental aspect of that work as an expressive form, and prohibiting that interaction on 
+account of the inability to distribute tools which enable multiple participants changes the
+
+[PAGE 3]
+essential nature of the cultural artefact. This is not merely a matter of practicality or compliance 
+­­ removing the multi­participant component of such online games actively destroys an 
+irreplaceable part of what it means to be that kind of game. Without a rule allowing, at the very 
+least, archival institutions to establish these kind of networks, the Copyright Office would risk 
+condemning an entire category of cultural experience to historical oblivion. 
+Second, actions done by consumers solely for the purpose of accessing a work for 
+criticism or cultural review should be exempt from section 1201(a)(1). This exemption is 
+necessary because the medium is too broad and can flee too quickly into the proverbial ether to 
+rely entirely on the precision and care of academic and semi­academic institutions. Cultural 
+understanding and criticism should not be burdened and shackled by an inability to access the 
+very things that such criticism attempts to address.  
+The United States Copyright Office should therefore consider three changes to the 
+triennial rulemaking process outline in section 1201. First, the rulemaking body should have the 
+capacity to allow exemptions for all subsections of section 1201, not just section 1201(a)(1), so 
+that rulemaking may adapt to the technical and social complexities of the digital environment. 
+Second, it should be possible to establish permanent or otherwise indefinite exemptions, which 
+would stand until sufficiently challenged, rather than relying on new arguments ​de novo​ every 
+three years. Third, there should be two new exceptions, which allow both consumers and 
+preservationists to better engage with digital media while remaining within the confines of the 
+law’s intent.

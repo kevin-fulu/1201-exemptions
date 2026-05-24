@@ -1,0 +1,614 @@
+[PAGE 1]
+ 1 
+BEFORE THE COPYRIGHT OFFICE  
+LIBRARY OF CONGRESS, Washington, D.C. 
+ 
+In the Matter of Section 1201 Study: Notice and Request for Public Comment Docket No. 
+2015–8 
+ 
+ 
+Comments of New Media Rights  
+ 
+by Art Neill, Nicholas Petruolo, and Rayman Khan 
+ 
+ 
+I. Commenting Party 
+ 
+New Media Rights is a non-profit program that provides preventative, one-to-one legal 
+services to creators, entrepreneurs, and internet users whose projects require specialized internet, 
+intellectual property, privacy, media, and communications law expertise. These legal services 
+include counsel regarding section 1201 of the DMCA.  NMR is an independently funded 
+program of California Western School of Law, a 501(c)3 non-profit. Further information 
+regarding NMR’s mission and activities can be obtained at http://www.newmediarights.org.   
+ 
+II. Comments 
+ 
+The Digital Millennium Copyright Act Section 1201 Anti-Circumvention provisions are 
+failing the American public. Section 1201 broadly prohibits circumvention for otherwise lawful 
+uses, and has established an ineffective rulemaking process. These comments are based on direct 
+work with clients who rely on lawful content reuse.  This comment will be divided into two 
+broad categories: Part 1 will address key problems with section 1201 and offer a proposal for 
+legislative reform as the only viable long-term solution. Part 2, acknowledging that legislative 
+reform may take time, will focus on ways in which the triennial rule-making process can be 
+improved more quickly by regulatory change at the Copyright Office.
+
+[PAGE 2]
+ 2 
+Specifically, Part 1 (A) will begin by providing an overview of the specific problems 
+with section 1201’s Anti-Circumvention provisions and the triennial process, including 1) the 
+high demands on time and resources for proving exemptions; 2) the unnecessarily high burden 
+for proving exemptions; 3) examples of the ways in which exemptions routinely fail creators 
+making lawful uses of content; and 4) lastly, the significance of excluding fair use from exempt 
+status. Next, Part 1(B) will propose an amendment to section 1201 that accounts for fair uses of 
+copyrighted works, solving many of the problems listed above. To conclude, Part 1 (C) will 
+explain that such an amendment is compatible with U.S. international treaty obligations. 
+ Part 2 will focus on ways in which the triennial process should be reformed at the 
+regulatory level while we await legislative reform.  Part 2 (A) will suggest changes to the 
+interpretation of the burden of proof for proponents of exemptions; Part 2 (B) will look at 
+possible replacements for the current de novo standard for review; and Part 2 (C) will provide 
+suggestions for dealing with issues of confidentiality in the rulemaking process. 
+These comments are filed in response to the Notice of Inquiry issued by the U.S. 
+Copyright Office on December 29th, 2015 addressing several of the current Areas of Concern 
+with regards to section 1201 of the Digital Millennium Copyright Act (“DMCA”).  New Media 
+Rights has previously argued in favor of various Section 1201 exemptions,1 and also has 
+previously advocated for reform of Section 1201.2 In accordance with the Office’s requests, the 
+                                                        
+1 Comments of New Media Rights :  
+(2009) Docket No. RM 2008-08, at <http://www.copyright.gov/1201/2008/responses/new-media-rights-40.pdf >;  
+(2012) Docket No. RM 2011-7, at <http://www.newmediarights.org/sites/newmediarights.org 
+/files/NewMediaRightsAnti-Circumventioncomment.pdf >;  
+(2015) Docket No. RM 2014-07, at http://copyright.gov/1201/2015/comments-
+020615/InitialComments_LongForm_New_Media_Rights_Class16.pdf  
+ 
+2 Comments of New Media Rights to the Request for Comments on Department of Commerce Green Paper, 
+Copyright Policy, Creativity, and Innovation in the Digital Economy, Docket No. 130927852 -3852-01, at < 
+http://www.newmediarights.org/sites/newmediarights.org/files/Comments >
+
+[PAGE 3]
+ 3 
+subjects addressed will include questions 3, 4, 5, 8, 10 and 11. Answers to these questions will be 
+addressed within the main sections and subsections of this comment, and for convenience will be 
+referenced in the headings where applicable. 
+ 
+Part 1: (NOI Questions 8, 10, 11) 
+ 
+A. What’s wrong with the DMCA 1201 Anti-Circumvention provisions and triennial 
+process 
+       
+The Digital Millennium Copyright Act’s Anti-Circumvention provisions (Section 1201) 
+and the triennial rulemaking it created need to be comprehensively revisited. Section 1201 layers 
+unnecessary complexity over existing copyright law, failing those who wish to legally reuse 
+content.  
+Section 1201 consumes vast resources and sets an unreasonably high standard for purposes of 
+exempting otherwise lawful uses  
+ 
+Every three years, proponents of exemptions to Section 1201 make significant 
+expenditures of time and money simply to ensure that individuals can lawfully access 
+copyrighted works for a narrow subset of otherwise lawful purposes such as fair use.  This high 
+demand on resources places an unnecessary and unfair burden on proponents. There is also a gap 
+of resources between proponents and opponents of Section 1201 exemptions. Proponents of 
+exemptions often include small law school clinics and interest groups that have one or at most a 
+few attorneys on staff. Law school clinics typically also have a variety of other clients they are 
+serving in addition to arguing for important exemptions in the 1201 proceeding.  In contrast, for 
+example, the Motion Pictures Association of America (MPAA), which has participated as an 
+opponent in the exemption proceedings on many occasions, had an overall budget of over $65 
+million in 2013.3  
+                                                        
+3 Guidestar Premium, Report Generated for Motion Pictures Association of America , 
+http://www.guidestar.org/ViewPdf.aspx?PdfSource=0&ein=13-1068220 (last visited Feb. 11, 2016).
+
+[PAGE 4]
+ 4 
+Similarly, the current de novo standard ensures that proponents carry a heavy load and that this 
+outpouring of resources is repeated every three year cycle.4 Even exemptions without opposition 
+must be proven anew with extensive evidence every successive triennial review, with the burden 
+never shifting to the opposition.5 For example, in the 2015 triennial rulemaking proceeding, 
+renewal of the previously approved portions of an exemption for documentary filmmaking was 
+unopposed, and opponents only opposed expansion of the rule.6 The de novo standard  was an 
+unnecessary burden, as it was already conceded by opponents that this class of work was 
+appropriate and necessary.7  Nevertheless, proponents and supporters of the class were required 
+to produce extensive filings to prove anew portions of the exemption that were briefed 
+thoroughly in past proceedings and faced no opposition. 
+Section 1201 is failing those who wish to legally reuse content 
+ 
+At New Media Rights we routinely provide direct legal services to individuals and 
+businesses that reuse copyrighted works without permission, but for lawful purposes.  We call 
+this broad range of creators and organizations “remix creators.” Sometimes, remix creators take 
+one or more copyrighted works and transform them into something new, creative and original. 
+However, the specific bounds of remix culture are limited only by human imagination, and 
+content reuse is simply part of everyday communication in our culture. Remix creators often rely 
+on their own creativity and fair use to create their work, although sometimes remix creators do 
+use public domain work or get licenses (including open licenses) to use copyrighted content. 
+                                                        
+4 Exemption to Prohibition on Circumvention of Copyright Protection Systems for Access Control Technologies, 
+Final Rule, 80 Fed. Reg. 65952, 65957 (Oct. 26, 2015). 
+5 Id. 
+6  Register of Copyrights, Section 1201 Rulemaking: Sixth Triennial Proceeding to Determine Exemptions to the 
+Prohibition on Circumvention, Recommendation of the Register of Copyrights at 66 (Oct. 2015). 
+7 AACS LA Class 6 Opp’n at 2; DVD CCA Class 6 Opp’n at 2; Joint Creators Class 6 Opp’n at 2; see also Tr. at 
+60:17-61:03 (May 20, 2015) (Williams, Joint Creators).
+
+[PAGE 5]
+ 5 
+We are constantly impressed by the creativity of the remix creators we work with on a 
+daily basis at New Media Rights. However, Section 1201 is impeding lawful content reuse, 
+removing otherwise lawful speech from the public discourse. Section 1201 affects every member 
+of the public who interacts with copyrighted works, or in other words, absolutely everyone.   
+Specifically, Section 1201 of the DMCA prevents creators from breaking any form of 
+Technological Protection Measures (“TPM”)8 to access copyrighted content without a specific 
+exemption. This is true even in cases where the creator lawfully obtained the product and is 
+using it for lawful purposes.  
+If an individual or business wants to reuse content under an exemption, the sheer number 
+and specificity of exemptions can even be a barrier. Since the initiation of the rule-making 
+process in 2000, the number of class exemptions has increased significantly from the first 
+triennial rule-making proceeding, which granted only 2 exemptions, to at least 22 exemptions as 
+of 2015.9 While an increase in exemptions is a positive development for the public within the 
+system we have the system itself is failing. The high evidentiary standards in place demand that 
+proposed exemptions must be narrowly tailored to particular classes of works.10 The exemptions 
+actually granted by the Copyright Office tend to be severely limited in scope.  
+This is problematic because of the painstaking specificity required to receive an 
+exemption. To better understand this problem let’s look at one of the most recent exemptions 
+approved in the 6th triennial rule-making hearing. In a long and detailed rule, the new exemption 
+permits circumvention of DVDs and Blu-ray discs for the use of short portions of motion 
+pictures for the following uses: documentary filmmaking; non-commercial videos; non-fiction 
+multi-media e-books offering film analysis; by college and university faculty and students in film 
+                                                        
+8 Also known as Digital Rights Management (“DRM”). 
+9 See generally, 2015 Final Rule, 80 Fed. Reg. 65952 (Oct. 26, 2015). 
+10 Section 1201 Study: Notice and Request for Public Comment, NOI, 80 Fed. Reg. 81369, 81370 (Dec. 29, 2015).
+
+[PAGE 6]
+ 6 
+studies or courses requiring close analysis of film and media excerpts; by the faculty of massive 
+open online courses; and by k-12 educators for educations purposes.11  
+Two aspects of this exemption are particularly concerning: first, individuals are limited to 
+working with specific types of media; and second, even if the type of media is deemed 
+appropriate, many different types of users are needlessly excluded from using them. Both 
+limitations have the effect of creating uncertainty, which in turn discourages creators from 
+reusing content for fear of violating section 1201. If the law were amended and clarified to 
+ensure access to copyrighted works if the use of the work is otherwise legal, those attempting to 
+reuse content for legal purposes would be able to spend less time analyzing their works with 
+lawyers and more time innovating and creating.  
+As mentioned above, limitation in the type media used is especially problematic. By 
+limiting the exemption to specific types of media, the exemption is in a sense restricting creators 
+to using only that specified media for the next three years. Three years is an eternity in 
+technological time, so all too often remix creators are barred from using a new technology or 
+forms of media for up to three years because it is impossible to specifically identify technology 
+and media that do not currently exist to craft an exemption around.  Indeed, before online content 
+was added in October 2012, remix creators were confined to DVD content under then existing 
+exemptions to Section 1201. Similarly, during the same 2012 rulemaking process, the Copyright 
+Office denied exempting access to Blu Ray discs12.  Thus, remix creators were unable to access 
+content on Blu Ray until the exemption was expanded in October 2015.13 Each of these decisions 
+                                                        
+11 Exemption to Prohibition on Circumvention of Copyright Protection Systems for Acce ss Control Technologies, 
+Final Rule, 80 Fed. Reg. 65952, 65962 (Oct. 26, 2015). 
+12 Exemption to Prohibition on Circumvention of Copyright Protection Systems for Access Control     Technologies, 
+Final Rule, 77 Fed. Reg. 65260, 65271 (Oct. 26, 2012). 
+13 Exemption to Prohibition on Circumvention of Copyright Protection Systems for Access Control Technologies, 
+Final Rule, 80 Fed. Reg. 65952, 65962 (Oct. 26, 2015).
+
+[PAGE 7]
+ 7 
+has had the effect of stifling creativity and innovation by making popular forms of media off 
+limits to those seeking to reuse content for otherwise legal purposes. 
+The second major problem with Section 1201 is the specificity that’s required for those 
+reusing content for otherwise legal purposes to fit within the exemption. When the exemption 
+limits those covered to specific categories, such as “for use in noncommercial videos, including 
+videos for a paid commission, if the commissioning entity’s use is non-commercial,” or is 
+limited to only “documentary” filmmakers it leaves out critical categories of otherwise legal 
+reuses of content. If a reuse of content is protected by fair use, the access to the work should 
+simply not be illegal.  Now let’s take a look at a specific example of how users who are making 
+otherwise legal uses of content are unfairly excluded from exemptions. 
+Example: How Genre Distinction Fails filmmakers who Re-use Content 
+ During the 2015 rulemaking process, New Media Rights submitted comments and 
+testimony strongly urging the Copyright Office to expand upon the current exemption allowing 
+the specific genre of documentary filmmakers to circumvent TPM’s to include broader 
+protections for all films seeking to make a fair use14. Although the Copyright Office expanded 
+the exemption for documentary filmmakers to have the right to access content protected on Blu 
+Rays, the Library declined to expand those exemptions to non-documentary films. The result is 
+the existence of a genre distinction that makes using this exemption difficult for the many online 
+video creators and filmmakers. 
+Joint Filmmakers, a separate party who proposed and supported an expanded exemption, 
+described the political and social functions of filmmaking that is prevalent in both documentary 
+                                                        
+14 New Media Rights Responses to Post Hearing Questions Regarding Proposed Class 6, Docket No. 2014-07, at 
+<http://copyright.gov/1201/2015/post-
+hearing/answers/Class_6_Hearing_Response_New_Media_Rights_Docket_No_2014 -07_2015.pdf>
+
+[PAGE 8]
+ 8 
+and non-documentary films15. Both genres of film can provide criticism and commentary, 
+awareness of particular issues, and the expression of ideas.16 During the 2015 triennial 
+rulemaking process, the Copyright Office called for comments regarding its post hearing 
+questions about the definitions of various film genres. However, the lines between these genres 
+are often blurred and sometimes open to subjective interpretation. In the New Media Rights 
+answer to this question, we provided insight into the very different way genre is treated in the 
+film community, noting that “[t]here is no central authority of film genres, no universally agreed 
+upon definition for any of these descriptors, and the subject is one of contention among 
+academics and audiences alike.”17 
+In order to use copyrighted material to achieve these goals, filmmakers have routinely 
+relied on fair use.  However, the new rule artificially distinguishes between documentary films 
+and non-documentary films by allowing only the former the ability to circumvent TPM’s to 
+make fair use of copyrighted work. 
+Sorting different genres of film into documentary and non-documentary films becomes 
+difficult for at least two reasons. The first being that YouTuber’s and other video creators of the 
+like who do qualify under the documentary exemption might not even consider themselves 
+“documentarians” due to the informal nature of their videos, nor would they be likely to include 
+themselves in the category. The second is the sheer number of sub-genres that are equivocally 
+situated between the blurred lines distinguishing documentary and non-documentary film. 
+Examples of these subgenres include, but are not limited to biopics, “inspired by,” 
+                                                        
+15 See Comment of Joint Film Makers, Docket No. 2014-07, at <http://copyright.gov/1201/2015/comments-
+020615/InitialComments_LongForm_IDA_Class06.pdf>, (2015). 
+16 Id.  
+17 New Media Rights Responses to Post Hearing Questions Regarding Proposed Class 6, Docket No. 2014 -07, at 1 
+(2015).
+
+[PAGE 9]
+ 9 
+“imaginative,” and “based on a true story” type films, as well as those shot in a “documentary” 
+style.   
+Such delineation between genres of film is no easy task, and unnecessarily complicates 
+the law. Not only would a filmmaker have to abide by traditional copyright law and establish fair 
+use before using copyrighted material, but she would also have to determine the genre of her film 
+in order to figure out if she qualifies under the exemption. The anti-circumvention provisions of 
+the DMCA add complicated layers to the question of fair use, shifting the focus from “How do I 
+make appropriate use of copyrighted work?” to a complicated and layered initial analysis of 
+“Can I even gain access to this material for fair use at all?”18 
+The rationale behind granting exempt status to only documentary films is as unclear as it 
+is unfair. Back in 2012, when granting the exemption for documentary films, the Register 
+provided the following justification: 
+  
+. . . [N]ot making any judgment as to whether any particular use offered by the 
+proponents is in fact fair, and it is conceivable that some may not be.19 Nonetheless 
+there is ample basis to conclude that some significant number (and probably many) 
+of the proposed uses likely would qualify as non-infringing under section 107.  
+ 
+ Then, the Librarian in its 2015 Final Rule stated, “ . . . the Register could not conclude, 
+based on the record, that the use of motion picture clips in narrative films was, on balance, likely 
+to be non-infringing, especially in light of the potential effects on existing licensing markets for 
+motion picture excerpts.”20 Simply based on this language, the fact that narrative films are being 
+analyzed  “on balance” implies that there are plenty of narrative films that make uses of content 
+                                                        
+18 Id. at 8. 
+19 Recommendation of the Register, at 129 (2012). 
+20Final Rule, 80 Fed. Reg. 65952, 65949 (2015).
+
+[PAGE 10]
+ 10 
+that the Copyright Office believes would qualify as fair use, making them non-infringing and 
+therefore worthy of an exemption. In fact, many narrative films make fair use. Proponents and 
+supporters such as Joint Filmmakers and New Media Rights, cited more than 30 non-
+documentary films that relied heavily on fair use, to illustrate the need for all filmmakers to have 
+these anti-circumvention exceptions, regardless of whether they’re making a documentary or 
+another type of film.21 
+The root of this problem is the reliance on determining the “likelihood” of a use being 
+non-infringing. Such an arbitrary standard erroneously forces the Librarian to foresee all the uses 
+within a class of work, and determine its probability of being non-infringing. That inquiry has no 
+value.  Realistically, if a film is making fair use, it should be exempted under Section 1201 
+regardless of its genre.  
+Additionally, in her 2015 recommendation, the Register voiced a concern, about the 
+adverse impact that the expanded exemption might have on the licensing market for motion 
+picture clips.22 We have direct evidence to explain why such a concern is not justified. At New 
+Media Rights we work with both documentary and non-documentary filmmakers. Filmmakers in 
+both groups regularly make uses we deem to be fair use.  That said, filmmakers in both groups 
+who want to reuse protected content in ways that are not protected by fair use regularly acquire 
+licenses. The demand for licenses will not be impacted because an expanded exemption would 
+only apply to films making fair use. As we discuss in the next section, fair use is a non-infringing 
+use and therefore does not require a license. An expansion of exemptions allowing fair use will 
+never have an effect on any legitimate licensing market, because protected fair uses do not need 
+to be licensed in the first place.  
+                                                        
+21 Recommendation of the Register, at, 41 (2015). 
+22 Id. at 79.
+
+[PAGE 11]
+ 11 
+ 
+ 
+ 
+Fair Use is Non-Infringing Use and Should Be Exempted From Section 1201  
+ Fair use is sometimes erroneously perceived as merely being infringement that is 
+“excused” by the law, when in fact it is authorized by the law and not infringing.23 Section 
+1201’s biggest flaw is the way it treats the doctrine of fair use. Users making fair use may still be 
+held liable simply for circumventing TPM’s under Section 1201, despite no infringing behavior. 
+Such an outcome is inconsistent with the idea that, “ . . . [A]nyone who . . . makes a fair use of 
+the work is not an infringer of the copyright with respect to such use.” 24 It turns out that Section 
+1201 gets the law wrong, and unnecessarily impinges upon speech protected by fair use. Instead, 
+as we and others25  have said, individuals seeking to make any non-infringing use such as fair use 
+should be permitted to circumvent TPM’s without violating federal law.  
+By exempting all fair use, the process will be simplified by focusing only on infringing behavior, 
+and will not have the terrible side effect of chilling otherwise legal conduct. Unfortunately, 
+efforts to exempt all fair use in past rulemakings fell flat due to the procedural requirements 
+needed for satisfying an exemption.26 Particularly, the requirement of pointing to a “particular 
+type of use.”27 Since fair use implicates numerous types of uses, the Library of Congress has 
+been unable to pass such a broad exemption.  As a more complete fix, policymakers must 
+                                                        
+23Lenz v. Universal Music Corp., 801 F.3d 1126, 1132 (2015). 
+24 Sony Corp. of Am. v. Universal City Studios, Inc., 464 U.S. 417, 433 (1984). 
+25 See generally, Comment of Free Software Foundation at 
+<http://copyright.gov/1201/2015/comments020615/FreeSoftwareFoundation/InitialComments_ShortForm_FreeSoft
+wareFoundation_Class6.pdf>(2015). 
+26 Bill D. Herman, et al., Catch 1201: A Legislative history and Content Analysis of the DMCA Exemption 
+Proceedings, 24 Cardozo Arts & Ent. LJ. 121,140 (2005). 
+27 Id.
+
+[PAGE 12]
+ 12 
+encourage the Congress to amend Section 1201 in order to adopt a means to allow fair uses to 
+circumvent technological restrictions to protected content.  
+B. Proposal To Amend DMCA Section 1201 To Help Clarify The Role Of Fair Use 
+ 
+We would propose a simple legislative solution that would negate much of the 
+uncertainty we have described and categorically allow for circumvention of TPMs in cases 
+where the circumvention is used for fair use. Here’s our proposal to include new language for 17 
+USC §1201(c)(1) (new text appears in brackets): 
+ 
+Nothing in this section shall affect rights, remedies, limitations, or defenses to 
+copyright infringement, including fair use, under this title. [Specifically, nothing in 
+this section shall prohibit access to copyrighted works for otherwise lawful 
+purposes, including fair use. If a person circumvents a TPM as defined in this act 
+and that person acted with a good faith belief that his or her acts constituted fair use 
+as defined by 17 U.S.C. §107, the court shall not award damages or provide for any 
+other penalties under 17 U.S.C. §1201.] 
+ 
+ 
+By explicitly exempting fair use purposes from section 1201, anyone simply accessing 
+copyrighted content for fair use purposes will no longer have to fear facing potential civil and 
+criminal penalties under section 1201. This provision would also make the expensive and time 
+consuming exemption process more efficient, conserving valuable government and private 
+resources because fewer exemptions would be required.  
+Since fair use can be very unpredictable and reasonable copyright attorneys can easily 
+disagree about whether a remixed work is fair use, we have proposed rewriting the statute in 
+such a way that those creators who had a good faith belief that their acts constituted a fair use are 
+still protected even if a court later finds that their work is not fair use. If a court reaches that 
+point, there are already a wide variety of civil copyright damages and remedies available to the
+
+[PAGE 13]
+ 13 
+copyright owner. Adding on the additional civil and criminal penalties of section 1201 for 
+individuals acting in good faith is simply unnecessary. 
+ 
+C.  An Amended Section 1201’s Implications On International Treaties 
+ The United States has created obligations under foreign treaties regarding intellectual 
+property, specifically, the circumvention of TPMs. If the recommended amendment to the 
+language of 17 USC §1201(c)(1) set out above were to be presented to Congress and 
+subsequently passed as new legislation, the new anti-circumvention provision to the DMCA 
+would satisfy the requirements of these international treaties.  
+ The World Intellectual Property Organization (WIPO) administers a number of 
+international treaties involving copyright law, in which the United States participates as a 
+member. A few of these treaties that address anti-circumvention include the WIPO Copyright 
+Treaty (WCT), and the WIPO Performances and Phonogram Treaty (WPPT). Both treaties 
+incorporate the same language regarding the circumvention of TPM’s: 
+ 
+Contracting Parties shall provide adequate legal protection and effective legal 
+remedies against the circumvention of effective technological measures that are 
+used by authors in connection with the exercise of their rights under this Treaty or 
+the Berne Convention and that restrict acts, in respect of their works, which are not 
+authorized by the authors concerned or permitted by law.28  
+ 
+ 
+The WCT and WPPT don’t clearly define “adequate legal protections” and leave 
+signatories the ability to develop anti-circumvention laws they deem appropriate within this 
+language.29 Currently, the DMCA already goes beyond what is mandated by these treaties 
+                                                        
+28 WORLD INTELLECTUAL PROPERTY ORGANIZATION COPYRIGHT TREATY art.11, Dec. 20, 1996, 36 I.L.M. 
+65; WORLD INTELLECTUAL PROPERTY ORGANIZATION PERFORMANCES AND PHONOGRAM TREATY art. 18, 
+Dec. 20, 1996, 36 I.L.M. 76. 
+29 Id.
+
+[PAGE 14]
+ 14 
+regarding prohibiting access controls.30 Both the WCT and WPPT allow member countries the 
+freedom to protect access controls as they choose to.31 Amending the DMCA provisions 
+regarding anti-circumvention access controls to include a carve-out for fair use would still allow 
+the United States to comply with the requirements of both WIPO treaties.  
+Outside the WIPO treaties, the United States may be bound by its participation in 
+different free-trade agreements. The World Trade Organization (WTO) administers the 
+Agreement on Trade Related Aspects of Intellectual Property Rights (TRIPS), which sets forth 
+obligations in the context of multilateral trade agreements.32 Although TRIPS does not address 
+anti-circumvention provisions itself, the multilateral trade agreements may individually set the 
+guidelines involving circumvention of TPMs. For example, in February 2016, the Trans-Pacific 
+Partnership (TPP) was signed by all twelve of the member countries, but however remains to be 
+ratified.33 The TPP provides access and trafficking control provisions similar to those of Section 
+1201 of the DMCA.34 The TPP also allows an avenue for member countries to grant exceptions 
+or limitations for non-infringing uses, but is not as specific as the DMCA’s triennial rulemaking 
+process.35 Regardless of the similarities between the anti-circumvention provisions within the 
+TPP and Section 1201, an amendment to the latter would not render them incompatible.  
+Even after ratification, an amendment as suggested above to Section 1201 of the DMCA, 
+would still allow the United States to meet the requirements set out in the TPP. The TPP itself 
+allows parties of the agreement to provide for certain limitations and exceptions to their anti-
+                                                        
+30 Dana Beldiman, FUNCTIONALITY, INFORMATION WORKS, AND COPYRIGHT, 32 (Yorkhill Law Pub. 2008). 
+31 Id. at 28. 
+32 U.S. Copy. Office, Circular 38a, International Copyright Relations of the United States, (2015), 
+http://www.copyright.gov/circs/circ38a.pdf.   
+33 Trans Pacific Partnership Trade Deal Signed In Auckland, bbc.com, Feb. 4, 2016, 
+http://www.bbc.com/news/business-35480600 
+34 TRANS-PACIFIC PARTNERSHIP art. 18.68, Feb. 4, 2016 at, 
+<https://www.mfat.govt.nz/assets/_securedfiles/Trans-Pacific-Partnership/Text/18.-Intellectual-Property.pdf>    
+35 Id.
+
+[PAGE 15]
+ 15 
+circumvention provisions, “ . . . in order to enable non-infringing uses if there is an actual or 
+likely adverse impact of those measures on those non-infringing uses as determined through a 
+legislative, regulatory, or administrative process in accordance with the party’s law, giving due 
+consideration to evidence when presented in that process….”36 
+ The amendment to Section 1201 would simply allow individuals to circumvent TPM’s in 
+order to make fair use. As previously discussed, fair use is non-infringement.37 All the TPP 
+would require is that in the process of amending Section 1201, Congress will need to hold a 
+hearing in order to determine an actual or likely adverse impact on fair use due to the anti-
+circumvention provisions, since the text of the agreement requires a legislative, regulatory, 
+or administrative process to make such a determination.38 The amendment would still 
+treat circumvention of TPM’s and copyright infringement, as separate violations as the TPP 
+requires, but would ensure an important non-infringing use, fair use, is properly and fully 
+exempted Section 1201.39 Therefore, an amended Section 1201 can remain compatible 
+with the anti-circumvention provisions under the TPP.  
+Part II (Response to NOI Questions 3, 4, 5) 
+We’ve discussed the fact that aany use qualifying as fair uses is non-infringing use, and that 
+the statute must be amended to reflect that fact. While we await broad based legislative reform, 
+we can look at ways to improve the current process.  
+ 
+A. “Substantial adverse impact” should be revised to require a “likelihood” of an 
+adverse impact 
+ 
+                                                        
+36 Id. 
+37 Lenz, 801 F.3d at 1132. 
+38 TRANS-PACIFIC PARTNERSHIP art. 18.68 
+39 Id.
+
+[PAGE 16]
+ 16 
+As it stands, the standard for even getting an exemption, as interpreted by the Copyright 
+Office, is unnecessarily high. The language of Section 1201 states that decisions shall be based 
+on whether users of copyrighted works are or are likely to be “adversely affected by the 
+prohibition.” 40  With respect to demonstrating an “adverse impact,” the Office has chosen to use 
+a higher standard than the statute suggests on its face, requiring that proponents of a particular 
+class demonstrate that prohibition has a “substantial adverse impact” on the non-infringing use in 
+question.41 
+Aside from the fact that Section 1201 makes no mention of the word “substantial,” it is 
+unclear that this approach is even an accurate representation of the legislative intent behind it. 
+The Commerce Committee--notably concerned with Congress’ commitment to fair use--
+described the burden in a completely different manner.42 The Commerce Report noted that the 
+rulemaking should focus on “distinct, verifiable, and measurable impacts, and should not be 
+based upon de minimus impacts.”43 These two descriptions represent opposing ends of the 
+“adverse impact” spectrum. A proponent of a class of exemptions could demonstrate the 
+“distinct, verifiable and measurable impact of a prohibition” of that class, while failing to 
+demonstrate a “substantial adverse impact.” Thus, a rulemaking body could emphasize either 
+description of the burden while simultaneously claiming it corresponds with legislative intent. 
+In an effort to address this ambiguity, New Media Rights urges the Copyright Office to more 
+closely track the statutory language provided in Section 1201 as well as the legislative history 
+that simply requires measurable impact. While the legislative reform described in Section 1 
+                                                        
+40 17 U.S.C. § 1201(a)(1)(C). 
+41 Exemption to Prohibition on Circumvention of Copyright Protection Systems for Access Control     Technologies, 
+Final Rule, 77 Fed. Reg. 65260, 65261 (Oct. 26, 2012). 
+42 CHRISTOPHER WOLF, THE DIGITAL MILLENIUM COPYRIGHT ACT: TEXT, HISTORY AND 
+CASELAW 439 (2003). 
+43 Id. at 440.
+
+[PAGE 17]
+ 17 
+above represents the optimal solution for accommodating non-infringing uses of copyrighted 
+works, such an adjustment would help to balance the important need for public access to these 
+works. Thus, the current burden of proof should require only a showing of the “likelihood” of an 
+adverse impact, rather than that of a “substantial” adverse impact. 
+ 
+B. Renewal of existing exemptions can be accomplished without requiring proponents 
+to prove them de novo  
+ 
+Section 1201(a)(1)(C) of the DMCA states that the Librarian determines whether users of 
+copyrighted works are likely to be adversely affected by prohibition of non-infringing uses of a 
+particular class in the succeeding 3-year period. This language essentially sets the standard that 
+proponents of an exemption must meet in order to qualify for an exemption. Accordingly, if the 
+Librarian determines that a class of use is likely to be non-infringing, Section (a)(1)(D) provides 
+that prohibition will not apply to that class for the ensuing 3-year period.  Although this language 
+clearly specifies a finite duration for the exemption, none of the language in Section 1201 
+requires proponents meet their initial burden anew once the 3-year period has expired.   
+The current de novo standard is based, not on statutory language, but on one committee 
+report issued during the legislative process. 44 The operative sentence states that “the assessment 
+of adverse impacts on particular categories of works is to be determined de novo.”45 While these 
+reports typically carry weight, they are not legally binding on the Copyright Office.46  As the 
+Supreme Court has cautioned, committee reports may be unrepresentative of the views of 
+Congress and even misleading.47 
+                                                        
+44 H.R. Rep. No. 105-551, pt. 2, at 37 (1998) (“Commerce Comm. Report”). 
+45 Jonathan Band, What’s Missing from the Register’s Proposals, ALR Policy Notes (April 30, 2015), 
+http://policynotes.arl.org/?p=1024. 
+46 Exxon Mobile Corp. v. Allapattah Servs., Inc., 545 U.S. 546 (2005). 
+47 Id.
+
+[PAGE 18]
+ 18 
+ In light of the fact that the Register has conceded the need for a presumption in favor of 
+renewal, the Copyright Office could eliminate the requirement for proving  exemptions anew 
+while still operating within the bounds of statutory language in Section 1201.48  This would then 
+place the burden on opponents of already existing exemptions, which would in turn create a 
+much more efficient rule-making process. Proponents, typically vast in number, would save the 
+absurd amounts of time and money that are currently being poured into proving exemptions 
+anew. In the event a claim arises that a class of exemptions is substantially impacting particular 
+copyrighted works, opponents would still have recourse available. By bringing forth evidence 
+that demonstrates a “substantial impact on the market for or value of copyrighted works,” the 
+Librarian could deny extension of the renewal of the exemption for that particular class.49 
+Even if the Copyright Office decides to give weight to the Committee Report referenced 
+above, it’s worth noting that Section 1201 requires the Librarian to determine whether or not 
+non-infringing users are being adversely affected by the prohibition.50 If the Committee Report 
+were followed, it is still the Librarian that is obligated to conduct a de novo review of evidence, 
+and this could include evidence previously presented by proponents of a class of works. Unless 
+opponents have brought forth adequate evidence to the contrary, the Librarian could base a 
+decision for renewal off of evidence provided during the previous triennial proceeding.51 While 
+we prefer the automatic renewal approach discussed, the changes in this paragraph would 
+modestly reduce the negative impact that the current de novo review has on proponents. 
+  
+C. The rulemaking process should account for the confidentiality concerns of 
+proponents  
+ 
+                                                        
+48 Register’s Perspective on Copyright Review Hearing at 27 (statement of Maria A. Pallante, Register of 
+Copyrights and Director, U.S. Copyright Office). 
+49 17 U.S.C. § 1201(a)(1)(C)(iv). 
+50 Band, supra note 7. 
+51 Id.
+
+[PAGE 19]
+ 19 
+Under the current Rulemaking process, proponents and supporters of exemptions face an 
+additional obstacle with regards to the issue of confidentiality. New Media Rights, as well as 
+other attorneys and supporters of exemptions, have concerns surrounding restrictions on 
+providing confidential client information while simultaneously providing detailed evidence that 
+supports the need for an exemption. This issue presents itself in a variety of ways: clients may 
+not want the details of their business dealings made available on the public record; attorneys may 
+not be able to respond to questions from the Copyright Office due to their confidential nature; 
+and even where confidentiality is waived, attorneys acting on their client’s behalf may be 
+reluctant to provide information that could expose them to liability. 
+ The following example from the 2015 rulemaking hearings illustrates the difficulties 
+supporters may have in the public hearing setting. During the hearings in Los Angeles, 
+Jacqueline Charlesworth, General Counsel for the Copyright Office, attempted to inquire into 
+specific examples of filmmakers whose distributors rejected their work due to the low resolution 
+of the video content used. While detailed answers may have helped to further establish the affect 
+that prohibition of circumvention of Blu-Rays was having on this class of filmmakers, the name 
+of the distributor, the filmmaker, and other specifics were not provided because the information 
+was privileged and the deal was ongoing, with a substantial amount of money was on the line for 
+both parties involved.52 
+One possible solution is to adopt an administrative mechanism for submitting confidential 
+information. This would be very useful in situations where proponents and supporters are forced 
+to withhold otherwise pertinent information for proving an exemption due to confidentiality. As 
+illustrated above, it would also be useful in instances where representatives of the Copyright 
+Office make specific informational requests at public hearings.  
+                                                        
+52 Sixth Triennial 1201 Rulemaking Hearings, Proposed Classes 19, 20, 23, 6, at 51 (May 2015).
+
+[PAGE 20]
+ 20 
+Currently, a number of federal agencies accommodate these types of submissions. For 
+instance, the FDA allows for submission of “Drug Master Files” that are used to provide 
+confidential detailed information about facilities, processes or articles used in the drug 
+manufacturing process; this information is then used to bolster support for new drug 
+applications.53 Similarly, the Federal Communications Commission (FCC) allows for certain 
+submissions to be withheld from public inspection if, for example, the information in question is 
+commercial, financial, contains a trade secret, or could result in substantial competitive harm.54  
+Were a comparable administrative procedure implemented in the 1201 rulemaking process, it 
+is highly likely that proponents and supporters would be more willing to share the detailed ways 
+in ways in which they are being affected by the anti-circumvention laws. A process for 
+submitting confidential information in select circumstances would allow the Copyright Office to 
+root its exemption decisions in a more complete record.  
+III. Conclusion 
+ 
+We appreciate the opportunity to share our observations based on firsthand experience with 
+clients who navigate section 1201 every day.  There are reforms that can and must be made at the 
+legislative and regulatory levels to ensure section 1201 respects the doctrine of fair use, and we 
+strongly encourage the Copyright Office to take the lead in making these reforms a reality. 
+ 
+Respectfully Submitted, 
+ 
+ 
+________________________________ 
+Art Neill, Nicholas Petruolo, Rayman Khan | New Media Rights 
+1855 1st Ave., Suite 102 | San Diego, CA 92101 
+art@newmediarights.org | www.newmediarights.org 
+                                                        
+53 Drug Master Files: Guidelines, U.S. Food and Drug Administration (Sept. 1989), 
+http://www.fda.gov/Drugs/GuidanceComplianceRegulatoryInformation/Guidances/ucm122886.htm.  
+54 47 CFR § 0.459(b).

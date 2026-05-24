@@ -1,0 +1,461 @@
+[PAGE 1]
+ 
+ 
+Juelsgaard Intellectual Property  
+and Innovation Clinic 
+Mills Legal Clinic 
+Stanford Law School 
+Crown Quadrangle 
+559 Nathan Abbott Way 
+Stanford, CA 94305-8610 
+jipic@law.stanford.edu 
+650.724.1900 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Before the 
+ 
+U.S. COPYRIGHT OFFICE 
+LIBRARY OF CONGRESS 
+ 
+In the Matter of Software-Enabled Consumer Products Study 
+ 
+ 
+Docket No. 2015-6  
+ 
+ 
+ 
+ 
+ 
+Reply Comments of Engine Advocacy 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Sydney B. Lakin 
+Wangshu Tai 
+ Certified Law Students 
+Phil Malone 
+Jef Pearlman  
+ Counsel for Commenter
+
+[PAGE 2]
+ 
+   ii 
+Table of Contents 
+I. Introduction ......................................................................................................................... 1 
+II. Copyright Law Has a Particular Impact on Embedded Software. ...................................... 2 
+III. The Existence of Strong Innovation Under the Current Copyright Regime Does 
+Not Mean that an Improved Copyright System Would Fail to Spur More 
+Innovation. .......................................................................................................................... 3 
+IV. The Risks to Innovation of Applying Current Copyright Law in the Fast-Moving, 
+Emerging World of Software-Enabled Consumer Devices Warrant Moving 
+Quickly and Deliberately to Make Appropriate Changes to the Law. ................................ 5 
+V. Conclusion .......................................................................................................................... 9
+
+[PAGE 3]
+ 
+   1
+Engine Advocacy (“Engine”) submits these reply comments in response to the Copyright 
+Office’s Notice of Inquiry and Request for Public Comment for its Software-Enabled Consumer 
+Products Study. 
+Engine supports the growth of technology entrepreneurship through economic research, 
+policy analysis, and advocacy on local and national issues. Engine works with the White House, 
+Congress, federal agencies, state and local governments, and also international advocacy 
+organizations to educate and inform them of the changing face of American high-tech 
+entrepreneurship and issues vital to fostering technological innovation. 
+Engine may be contacted through the above-identified counsel. 
+I. Introduction 
+ The landscape of software-enabled cons umer products holds vast opportunities for 
+innovation, interoperability, increased consumer choice and utility, and enhanced social value. 
+These opportunities can best be realized to their full potential by interpretations of and 
+modifications to copyright law that facilitate innovation and avoid tensions between the law and 
+this rapidly developing field.  
+Engine’s initial comments emphasized in part how allowing copyright to lock down 
+technology necessary for interoperability—specifically, soft ware such as application 
+programming interfaces (“APIs”)—would frustrate innovation and competition. The inability of 
+users to modify the software in devices they own hampers innovation, prevents interoperability, 
+reduces security, and undermines settled expectations of ownership. Ultimately, Engine 
+encouraged the Copyright Office to recommend changes that secure the open use of functional 
+software to facilitate interoperability and ensure that users are treated as owners of the software 
+in their devices and can tinker with, improve, or repair those devices by analyzing, copying, and 
+modifying the software.  
+In this reply, Engine strives to address three recurrent arguments, raised by some parties 
+in their initial comments, that are important to the relationship between copyright law and 
+software-enabled consumer products. First, software-enabled consumer products possess unique 
+characteristics that could allow copyright restrictions to over-burden legitimate user interests. 
+Second, the fact that software is an innovative industry should not mean that improvements to 
+copyright law won’t have the potential to lead to additional innovation. Third, the prudent 
+approach at this stage is for the Copyright Office to move proactively and decisively to ensure 
+that copyright law best facilitates innovation in embedded software, rather than waiting until 
+innovation has been chilled.
+
+[PAGE 4]
+ 
+   2
+II. Copyright Law Has a Particular Impact on Embedded Software. 
+Some commenters have asserted that it is “virtually impossible to draw any principled 
+distinction between embedded and non-embedded software.”1 While it is true that embedded and 
+standalone software possess a dynamic and entwined relationship with one another, embedded 
+software has important distinct qualities from standalone software. While infringement is less of 
+a threat for embedded software than it is for standalone, copyright restrictions in embedded 
+software are particularly burdensome it can limit essential interoperability is essential and disrupt 
+consumers’ settled expectations regarding their ownership rights in physical products.2  
+As Public Knowledge and New America Foundation’s Open Technology Institute noted 
+in their comments, “embedded software does not raise the same concerns about infringement that 
+have driven software copyright policy in other areas.”3 Congress itself has acknowledged this 
+distinction and has applied it to existing copyright law, demonstrating not only the relevance of 
+the distinction but also that it is possible to legally recognize it.4 Copying embedded software for 
+resale generally provides little value, and so there is incentive to do so. Unlike standalone 
+software, which can be vulnerable to piracy because it can run on any compatible computer 
+platform and consumers often already own the platform, embedded software typically operates 
+only with the accompanying hardware in which it is embedded and has no separate use or 
+purpose. Moreover, concerns that competitors might copy the software in software-enabled 
+products for their own devices, essentially free-riding on others’ development work, are 
+misplaced. Copying or pirating software for such replacement purposes should remain an 
+unlawful infringement of copyright even if repair and interoperability are properly recognized as 
+non-infringing activities.5 As an owner of a book “is entitled, without the authority of the 
+copyright owner, to sell or otherwise dispose of the possession of that copy” after purchasing, so 
+should an owner of a software-enabled consumer product be entitled. Similarly, as an owner of a 
+book cannot generally lawfully copy the text of that book to republish or distribute it, neither 
+should an owner of a software-enabled consumer product lawfully copy the embedded software 
+and duplicate it within another, competing product.6  
+Because embedded software raises minimal infringement concerns, over-restrictive 
+copyright protections serve primarily to limit users’ legitimate interests rather than protect 
+against illegal activity. One of the most important legitimate interests is promoting 
+interoperability. As the “Internet of Things” proliferates, software-enabled consumer products 
+will increasingly need to interoperate with platforms, networks, and devices made by diverse 
+companies. Machine-to-machine communication is fundamental to the value of these products; 
+                                                 
+1 BSAThe Software Alliance, Comments of BSAThe Software Alliance, 2. Other commenters that advocated 
+similarly include: Microsoft Corporation, Owner’s Rights Initiative, Software and Information Industry Association, 
+ACTThe App Association, Global IP Center, Entertainment Software Association, Center for Democracy and 
+Technology, and the Computers and Communications Industry Association. 
+2 Infringement is less of a threat both in the reduced likelihood that individuals will infringe and in that any 
+infringement is less damaging to the market. 
+3 Public Knowledge and Open Technology Institute, Comments of Public Knowledge and Open Technology 
+Institute 2. 
+4 17 U.S.C. § 109 declares that software rental limitations do not apply to a “computer program embodied in a 
+machine or product and which cannot be copied during the ordinary use of the machine or product.” 
+5 17 U.S.C. § 102. 
+6 17 U.S.C. § 109.
+
+[PAGE 5]
+ 
+   3
+the inability to interoperate freely would greatly reduce consumer choice and innovation. 
+Permitting exclusive rights on the ability to interoperate will permit software rights-holders to 
+become gatekeepers to products, industries, and innovation in ways we would never countenance 
+for other property, while providing few if any benefits in protecting against unlikely 
+infringement. Interoperability also can be important for standalone software, but the lack of 
+interoperability is particularly devastating to software-enabled products.  
+Embedded software is distinguishable from standalone software by its very form: it is 
+embedded into a physical consumer product and not sold separately. This distinction lends itself 
+to a unique relationship with consumers. Decades of traditional ownership rights have instilled 
+strong expectations about the relationship between owners and their products, which the law 
+should continue to respect. The traditional rights that have always accompanied physical objects, 
+including the right to tinker, repair, lend, and transfer, should extend as well to the embedded 
+software within these objects. As detailed in Engine’s initial comments, without these parallel 
+rights, innovation, safety, privacy, consumer choice, and more will be frustrated.  
+Additionally, inappropriate application of software law to embedded software makes 
+such software particularly vulnerable to new and unwarranted restraints on the alienability of 
+property. Unless users preserve their traditional expectations and rights of use, manufacturers 
+will sell their software-enabled consumer products accompanied by a copyright license in the 
+embedded software and claim that the user therefore does not own the entire product. This would 
+imperil the ability of a consumer to resell their used car or repair their refrigerator—behaviors 
+consumers reasonably expect to be lawful—without  violating copyright law. Even the current 
+uncertainty that consumers face surrounding their ownership rights is damaging, as basic 
+property rights are publicly called into question or explicitly repudiated by manufacturers.  
+Ultimately, copyright restrictions have a disproportionate impact on embedded software. 
+Balancing the costs and benefits of different approaches to applying copyright to embedded 
+software suggests that over-enforcement will lead to significant barriers to innovation, 
+interoperability, competition, and safety with little benefit to consumers or the incentive to 
+innovate in the first place. The Copyright Office and Congress should be vigilant to prevent the 
+growth of such barriers and examine carefully issues of copyrightability, fair use and the first 
+sale doctrine as applied to embedded software.7  
+III. The Existence of Strong Innovation Under the Current Copyright Regime Does Not 
+Mean that an Improved Copyright System Would Fail to Spur More Innovation.  
+The fact that the technology industry has boomed under the existing legal framework 
+does not mean that framework is optimal for innovation or business in embedded software. The 
+status quo of the software industry does not tell us everything we need to know about the 
+                                                 
+7 While ownership rights and interoperability are of unique importance to embedded software, Engine does not 
+intend to suggest that non-embedded, standalone software does not need and deserve the same freedom from 
+copyright-based restrictions on interoperability, alienability, or other socially beneficial, fair uses. The question of 
+how these issues should be treated for non-embedded software is outside the scope of the Notice of Inquiry and is 
+therefore not addressed here.
+
+[PAGE 6]
+ 
+   4
+counterfactual—namely, the innovations that might  otherwise have occurred under a different set 
+of rules. While the current copyright regime has undoubtedly contributed to some extent to the 
+current level of innovation, adapting appropriately to the market going forward can continue to 
+improve the amount and pace of future innovation.8 
+Various commenters have argued that, for example, “strong copyright protection for 
+software (embedded and otherwise) has been a tremendous policy success that has enabled 
+decades of innovation and creativity,” and therefore embedded software, governed by the current 
+system, will continue to be successful, obviating the need for any systemic changes.9 While this 
+argument is facially plausible, a deeper look reveals that it is grounded on logical fallacies and 
+rests on the incorrect notion that some innovation under current copyright law rules out the 
+possibility of increased innovation under an improved system.  
+First, there is the deductive error of “affirming the consequent,” where one assumes that 
+an effect follows one potential cause because it happened after that cause. For example, it is 
+common sense that if it rains, the street will be wet. To affirm the consequent is to conclude that 
+because the street is wet, it must have rained. This is, of course, incorrect. It is likewise incorrect 
+to conclude that current copyright law caused innovation solely because that innovation 
+happened. Good copyright law may make the software industry more successful. But the success 
+of software industry does not mean that copyright law is wholly good; many factors have 
+contributed to the massive innovation we have seen in the field of software. In fact, copyright 
+law could have had an adverse impact on innovation that was offset by other positive factors, and 
+still resulted in the innovation we have seen.  
+Second, the argument relies on weak inductive reasoning. Unlike deductive reasoning, 
+inductive reasoning produces conclusions that are inherently uncertain but can be strong or weak 
+based on the evidence given. For example, strong inductive reasoning suggests that because, 
+every day to date the law of gravity has held, it will probably hold tomorrow. In this proceeding, 
+some commenters have argued that since software, governed by copyright law, has been 
+successful, it will continue to be successful under existing interpretations and application of 
+copyright law. This is far from strong inductive reasoning. The relevant copyright provisions 
+have governed software for only forty years—e ssentially the entire relevant existence of 
+“software”—and the nature of the software industry changes more year-to-year than virtually any 
+other market segment. Because of the unique characteristics of embedded software, described 
+above, the history and nature of innovation in software in general does not necessarily mean that 
+the same conditions will govern the coming future of ubiquitous, interoperable embedded 
+software in consumer devices. In any event, even if software as an overall industry might 
+continue to flourish—which is far from certain —innovation in the specific  context of embedded 
+software might be restrained. 
+While it is difficult to be sure how the world would have developed under a different 
+legal regime, the back-and-forth in the online music industry demonstrates the likely presence 
+                                                 
+8 Commenters that attribute the success of the software industry to copyright law include: Microsoft, Entertainment 
+Software Association, BSA, Global IP center, Copyright Alliance, Software and Information Industry Association. 
+9 The Entertainment Software Association, Comments of the Entertainment Software Association, 2.
+
+[PAGE 7]
+ 
+   5
+and scale of missed opportunities in this constantly changing industry: a decade-long delay in a 
+billion-dollar market. In 2012, Michael Carrier conducted anonymous interviews of 31 “CEOs, 
+company founders, and vice presidents from technology companies, the recording industry, and 
+venture capital firms” regarding their “reactions to the district court’s injunction in the case 
+involving peer-to-peer (p2p) service Napster.”10 After lawsuits by A&M Records and 17 other 
+record companies, both the district court and the Ninth Circuit held that Napster was liable for 
+direct and contributory infringement. Whatever the merits of that liability finding, on a policy 
+level, the Napster decision had major repercussions on the development of online music for 
+years afterward. 
+In retrospect, Carrier argues, even the winners did not benefit from the copyright 
+decisions in the long run. One executive of a major record label lamented on the “missed 
+opportunity” and observed that “it made ‘no sense’ that ‘fifteen years into digital 
+exploration…when I buy a song, I still only get that song’” while the labels could offer 
+“additional extras, like exclusive interviews and backstage access.”11 Another compared the 
+industry with the booming market of e-books, where publishers and retailers had seized on and 
+included in the bundle innovative services such as “relationship with the author” and “social 
+reading environment.”12 Because the recording industry had adopted a strategy that relied 
+primarily on the application of copyright law, it failed to fully recognize or engage with an 
+inevitable trend—online music.  
+One respondent of the Carrier survey speculated that “if the court had come out the other 
+way, ‘every television broadcast, every piece of music ever created, [and] every image ever 
+taken’ could be ‘available unfettered to all of the devices we have.’”13 She concluded that “if 
+Napster had won, I guarantee you, it would be a $50 billion market right now.”14 Just one week 
+after her interview with Carrier, Spotify launched in the United States.15 Sean Parker, co-founder 
+of Napster, invested in Spotify in 2010 and had been a board member since then. In June 2015, 
+the company valued at $8.5 billion.16 Although Parker described Spotify as “actually very similar 
+to what I dreamt of 10 years ago,” the question remains what might have happened to innovation, 
+to the industry and to the benefit of consumers if Parker had not had to start over again.  
+IV. The Risks to Innovation of Applying Current Copyright Law in the Fast-Moving, 
+Emerging World of Software-Enabled Consumer Devices Warrant Moving Quickly 
+and Deliberately to Make Appropriate Changes to the Law.  
+Some commenters in the initial round suggested that it is “premature to recommend 
+legislative changes” at this time and urged the Copyright Office to “proceed with caution.” This 
+                                                 
+10 Michael Carrier, Copyright and Innovation: the Untold Story, WIS. L. REV. 891, 891 (2012). 
+11 Id. at 952.  
+12 Id. 
+13 Id. at 909. 
+14 Id. 
+15 The interview happened on Nov. 23, 2011. See supra, at 908, n. 106. Spotify launched in the United States on 
+Nov. 30, 2011. 
+16 Kasper Viita & Matthew Campbell, Spotify Value Tops $8 Billion as Investors Bet on Streaming, http://
+www.bloomberg.com/news/articles/2015-06-10/spotify-valued-at-8-2-billion-as-teliasonera-buys-stake.
+
+[PAGE 8]
+ 
+   6
+approach is backwards.17 As some of these same commenters acknowledged, “we are in the 
+midst of a transformational new generation of software innovation” accompanied by a “rapid 
+pace of innovation.”18 But the lessons they suggest taking away from this rapid transformation 
+are wrong. This rapidly developing innovation is best facilitated and protected not by waiting to 
+see what issues develop and how much the barriers that copyright law impose interfere, but 
+rather by engaging the limitations and weaknesses of copyright law as soon as they are 
+recognized and making changes needed to allow this innovation to flourish without undue 
+interference or restriction.  
+The negative consequences of undue hesitation and delay are especially great in a field 
+where dynamic change is ever-present and accelerating. Take instant messaging software, for 
+instance. When MSN Messenger was first launched in 1999, it included only basic functions 
+such as plain text messaging and a contact list. Today, WeChat, one of the most popular instant 
+messenger programs, incorporates texting, emoticons, voice messaging, video conferencing, file 
+sharing, and even money transfers. While “tomorrow” may be more or less similar to “today” in 
+many fields, software is assuredly not one of them, and it would be a mistake to regulate as if it 
+were. 
+A powerful example of the value ensuring that the law is calibrated proactively to ensure 
+opportunities for innovation is provided by § 230 of the Communications Decency Act.19 Section 
+230 is perhaps Congress’s greatest success in getting out in front of a rapidly developing 
+technology—rather than sitting back and waiting fo r problems to arise—in a way that paved the 
+way for tremendous subsequent innovation. In 1996, recognizing the critical importance of 
+promoting “the continued development of the Internet . . . and other interactive media,” and 
+preserving the vibrant and competitive free market that presently exists for the Internet and other 
+interactive computer services,”20 Congress enacted § 230. Section 230 ensures that “[n]o 
+provider or user of an interactive computer service shall be treated as the publisher or speaker of 
+any information provided by another information provider.”21 Courts have construed the statute 
+“broadly to extend protection from liability to many companies.”22  
+Prior to § 230, in the early days of the Internet, a company could be held liable for any 
+defamatory or other tortious content that appeared on its website, regardless of who wrote it. 
+Section 230 established the distinction between a publisher/speaker and a provider/user, thus 
+significantly reducing the risk of liability that Internet services face for the user-generated 
+content they host. As a result, for instance, Facebook cannot be held liable for the defamatory 
+content posted by any of its 1.6 billion users (though, of course, users themselves may still be 
+                                                 
+17 BSAThe Software Alliance, Comments of BSAThe Software Alliance, 5. Microsoft Corporation, Comments of 
+Microsoft Corporation, 8.. 
+18 Microsoft Corporation, Comments of Microsoft Corporation, 2.BSA The Software Alliance, Comments of BSA 
+The Software Alliance, 1.  
+19 47 U.S.C. § 230(c)(1). 
+20 47 U.S.C. § 230(b)(2). 
+21 Id. 
+22 Cyrus Sarosh Jan Manekshaw, Liability of ISPs: Immunity from Liability under the Digital Millennium Copyright 
+Act and the Communications Decency Act, 10 COMP. L. REV. & TECH J. 101, 112 (2005).
+
+[PAGE 9]
+ 
+   7
+held liable).23 Without § 230, the number of users and the volume of content they generate would 
+create the potential for massive liability and no company, particularly no startup, could withstand 
+the risk and potential expense of litigating and settling large numbers of lawsuits. Litigation can 
+easily drag on for years and impose legal fees that would quickly bankrupt a start-up, even if it 
+ultimately prevails on the merits.24 It takes just one suit, no matter the result, to bring many 
+typical start-ups to a halt. An all too common analogy in recent years has been the conflicts 
+between patent assertion entities (“patent trolls”) and start-ups. Knowing that start-ups typically 
+cannot afford the legal fees necessary to get spurious claims dismissed, patent trolls survive by 
+filing questionable lawsuits on weak patents and insisting on extortionate settlements. 
+Section 230 and its safe harbor are widely recognized as critical elements in the 
+remarkable flourishing of innovation that has occurred since 1996 in all aspects of Internet 
+technology involving user-generated content. Without the safe harbor § 230 created, the chilling 
+effect of potential litigation on innovation and start-ups would have been enormous and 
+enormously damaging. When § 230 was passed, companies that depend on user-generated 
+content such as eBay (1995) and Craigslist (1995) were start-ups. Policy-makers could not have 
+foreseen the social media revolution that would later be brought by the likes of YouTube (2005), 
+Facebook (2004), and Reddit (2005). These companies and the profound innovations they 
+embody were either nascent or nonexistent at the time, and many of them would either not exist 
+or exist in very different form without the § 230 safe harbor.25 Professor Eric Goldman attributes 
+“a non-trivial role” to § 230 “in the ascension of Internet as a dominant media.”26 Anupam 
+Chander describes the “shield” provided by § 230 as “invaluable.”27 Derek Kanna explains that it 
+“cleared the way for the modern Internet” and was “the law that gave us websites like Reddit, 
+Craigslist, Digg, and perhaps all of social media.”28 Section 230 has been “economically 
+powerful, perhaps in ways Congress couldn’t have foreseen. . . . As a result, it has functioned as 
+a permission slip for the whole Internet that says: ‘Go innovate.’”29 Without § 230, the Internet 
+would look very different—and far less innovati ve—today. In 1996, the Web had a total number 
+of 257,601 sites—a negligible number compared w ith 1 billion today, yet the lawmakers made 
+the correct choice then to act promptly.30  
+Ironically, supporters of the status quo before § 230 might well have made similar 
+arguments that any change in the law should await the development of significant problems, and 
+the innovations that would rebut their case would never have appeared since they would never 
+                                                 
+23 Number of Monthly Active Facebook Users Worldwide as of 4th Quarter 2015, http://www.statista.com/statistics/
+264810/number-of-monthly-active-facebook-users-worldwide/. 
+24 Carrier, 972.  
+25 See The State of Broadband 2014: Broadband for All, Broadband Comm’n for Digital Dev. [UN agency for 
+information and communications technology] (Sept. 2014), available at http://www.broadbandcommission.org/
+documents/reports/bb-annualreport2014.pdf.  
+26 Eric Goldman, Speech Shutdown at the Virtual Corral, SANTA CLARA COMPUTER & HIGH TECH. L.J. 101, 109 
+(2005). 
+27 Anupam Chander, How Law Made Silicon Valley, 63 EMORY L.J. 639, 653 (2004). 
+28 Derek Khanna, The Law that Gave Us the Modern Internet—and the Campaign to Kill It , The Atlantic (Sept. 12, 
+2013), available at http://www.theatlantic.com/business/archive/2013/09/the-law-that-gave-us-the-modern-internet-
+and-the-campaign-to-kill-it/279588/. 
+29 Id. 
+30 Total Number of Websites, http://www.internetlivestats.com/total-number-of-websites/.
+
+[PAGE 10]
+ 
+   8
+have been founded or funded in the face of potentially crippling liability. Fortunately, rather than 
+sitting back and waiting until the failures of the status quo became self-evident, Congress 
+actively paved the way for innovation and progress in the “rapidly developing array of Internet 
+and other interactive computer services available to individual Americans.”31 The Copyright 
+Office should adopt this same principle as it seeks to facilitate and preserve this next wave of 
+economically valuable, rapidly developing innovation.  
+Commenters’ also attempt to rely on language in the Department of Commerce’s Internet 
+Policy Task Force’s (“IPTF”) White Paper on Remixes, First Sale, and Statutory Damages, but 
+that reliance is misplaced.32 The White Paper notes that “the alienability of everyday functional 
+products is an important issue for consumers” and “further attention would be warranted” if the 
+market develops so that this is an issue.33 Settled expectations about ownership and alienability 
+are indeed important issues for consumers, but developments in the market show the time 
+already is ripe for appropriate copyright reform. For example, in 2015, John Deere and General 
+Motors advanced a view of embedded software that challenges the very idea of owning a tractor 
+or a car: the purchaser of a vehicle does not fully own all of it—r ather, she “receives an implied 
+license for the life of the vehicle to operate the vehicle.”34 This indicates that embedded software 
+is already creating challenges for expectations of alienability, justifying action from the 
+Copyright Office and Congress now, not down the road when the problems have become worse 
+or innovation has been chilled. Otherwise, the uncertainty surrounding the law will stifle 
+invention and creativity and startups and markets will be restrained.  
+Ultimately, waiting to modernize copyright law or approaching changes with a paralyzing 
+level of caution or hesitation is unwise and unwarranted. We are past the dawn of software-
+enabled consumer products—consumer software is found in many of our everyday products—
+and soon it will become truly ubiquitous. Examples abound. Just last week, the New York Times 
+described how app makers and “makers of digital home devices like Nest are also rushing to 
+make their products compatible with” Amazon’s Echo.35 Earlier this month, Wired featured an 
+article titled How to Link Your Car’s Brain to Your Smart Home, detailing a $100 dollar device 
+that enables your car to unlock the front door to your home, turn on your house lights, and open 
+your garage automatically by turning off the car in your driveway.36 The integration of the 
+Internet of Things into everyday life is a reality, not a hypothetical,37 and the law should not be 
+allowed to lag behind. In any event, beginning to take steps toward needed reforms today will 
+not result in immediate changes since any recommendations from the Copyright Office will take 
+                                                 
+31 47 U.S.C. § 230(a)(1). 
+32 Commenters include Microsoft, the Software and Information Industry Association Commenters, BSAThe 
+Software Alliance, and ACTThe App Association.  
+33 Dep’t of Commerce, Internet Policy Task Force, White Paper on Remixes, First Sale, and Statutory Damages, 64 
+(2016), at http://www.uspto.gov/sites/default/files/documents/copyrightwhitepaper.pdf. 
+34 16 John Deere Reply Comment, 2015 DMCA proceeding, http://copyright.gov/1201/2015/comments-032715/
+class%2021/John_Deere_Class21_1201_2014.pdf at 6. 
+35 Farhad Manjoo, The Echo From Amazon Brims With Groundbreaking Promise, The New York Times (Mar. 8, 
+2016), available at http://www.nytimes.com/2016/03/10/technology/the-echo-from-amazon-brims-with-
+groundbreaking-promise.html?action=click&contentCollection=Sports&module=MostPopularFB& 
+version=Full&region=Marginalia&src=me&pgtype=article. 
+36 Michael McCole, How to Link Your Car’s Brain to Your Smart Home, Wired (Mar. 3, 2016), available at http://
+www.wired.com/2016/03/iot-cookbook-automatic/. 
+37 See The Entertainment Software Association, Comments of the Entertainment Software Association, 7.
+
+[PAGE 11]
+ 
+   9
+time to be enacted. Accordingly, the Copyright Office should engage in needed reexamination 
+and reform of the law affecting these innovative technologies without delay and without waiting 
+for examples of harm to innovation.  
+V. Conclusion 
+ Engine reiterates its appreci ation for the Copyright Office’s current study of software-
+enabled products. Based on the comments submitted in the first round of this NOI, Engine urges 
+the Office to recommend and strongly support changes to and interpretations of copyright law 
+and policy that maximize the tremendous opportunities for innovators, entrepreneurs, startups, 
+and users that have been and will be created by the spread of software-enabled products and the 
+Internet of Things. The Office should not accede to invitations to do nothing now and wait to act 
+until problems have become obvious and critical. The better course is to act now to pursue near-
+term changes and clarifications that will help ensure, before it is too late, that copyright law does 
+not restrict the next generations of innovative new products and services. Protecting innovation 
+and its benefits is too significant to leave for another day; the Office should support necessary 
+legislative changes that proactively provide the best possible conditions to ensure the 
+opportunities for innovation continue to grow.

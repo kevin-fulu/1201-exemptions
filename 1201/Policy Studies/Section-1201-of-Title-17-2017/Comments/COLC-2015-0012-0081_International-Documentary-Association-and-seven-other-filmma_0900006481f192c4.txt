@@ -1,0 +1,685 @@
+[PAGE 1]
+Before the 
+LIBRARY OF CONGRESS 
+United States Copyright Office  
+ 
+ 
+In the Matter of  
+ 
+Section 1201 Study:  
+Notice and Request for Public Comment  
+ 
+) 
+) 
+) 
+) 
+)
+) 
+ 
+ 
+ 
+Docket No. 2015-08 
+ 
+REPLY COMMENT
+  
+OF 
+INTERNATIONAL DOCUMENTARY ASSOCIATION 
+FILM INDEPENDENT  
+KARTEMQUIN EDUCATIONAL FILMS 
+INDEPENDENT FILMMAKER PROJECT 
+INDIE CAUCUS 
+THE NATIONAL ALLIANCE FOR MEDIA ARTS AND CULTURE 
+NEW MEDIA RIGHTS  
+WOMAN IN FILM & VIDEO 
+ 
+ 
+Submitted By:  
+UCI Intellectual Property, Arts, and 
+Technology Clinic 
+University of California, Irvine  
+School of Law 
+401 East Peltason Drive 
+Irvine, CA 92697 
+ 
+Jack I. Lerner, Director 
+Noorean Gill and Daniel Silverman, 
+Certified Law Students under the 
+Rules of the California State Bar, 
+Title 1, Division 1, Chapter 1 
+ Donaldson & Callif, LLP 
+400 South Beverly Drive 
+Beverly Hills, CA 90212 
+ 
+Michael C. Donaldson 
+Dean Cheley
+
+[PAGE 2]
+International Documentary Association, et al. 
+Reply Comment regarding Section 1201 Study 
+April 1, 2016 
+Page 1 of 9 
+ 
+ 
+ 
+ 
+ 
+INTRODUCTION 
+ 
+We thank the Register for the opportunity to comment on this st udy. Criticism, 
+commentary, and other forms of fair use are central to modern f ilmmaking, and without 
+lawful access to material on today’s digital media, these vital activities would be severely 
+compromised.  We are participating in this study because the se ction 1201(a)(1) 
+exemptions are critically important to the independent filmmaking community. 
+ 
+Several organizations have joined  the International Documentary  Association, Film 
+Independent, and Kartemquin Educational Films in submitting thi s Reply Comment.  
+These organizations, which co llectively represent over 300,000 filmmakers, artists, and 
+arts institutions, join our Initial Comment
+1 and urge the Register to adopt the 
+recommendations made in the Comment.  
+At the outset, we again urge t he Register to recognize the weig ht of eighteen years of 
+experience with section 1201 of the DMCA: it does little to sol ve real problems we face 
+with online copyright infringement while making it vastly more difficult for independent 
+filmmakers to make their films.  For this reason, in our Initial Comment we recommended 
+a change to section 1201 that w ould require a connection betwee n the circumvention and 
+infringing conduct in order for a 1201 violation to occur.
+2  In the alternative, we 
+recommend that the Register re duce the burden of the process an d administer it more 
+effectively in the ways we discuss below. 
+ 
+The Register should implement a presumption of renewal for prev iously granted 
+exemptions—but it must be structured effectively.  We recommend that the presumption 
+of renewal be implemented in the following ways:  
+ 
+ The presumption of renewal should either be automatic or based simply on an 
+assertion.  No evidence should be required to trigger the presumption. 
+ There need not be a requirement that the presumption can only b e applied when 
+there is no opposition.  The only “meaningful opposition” neces sary is evidence 
+sufficient to rebut the presumption. 
+ The appropriate showing for reject ing a presumption should be w hether there is 
+concrete evidence that there would be no adverse effects if the  previously granted 
+exemption were withdrawn.  Absent such a showing, the Register should only 
+                                                 
+1 See International Documentary Association, et al., Initial Comment  on Section 1201 Study: Notice and 
+Request for Public Comment at 2 (Dec. 29, 2015) (hereinafter “I nitial Comment”), http://www.copyright. 
+gov/fedreg /2015/80fr81369.pdf (recommending that Congress amend section 1201 to include a requirement 
+that circumvention of an access control is not a violation of section 1201 unless there is a connection between 
+the circumvention and infringing conduct, and in the alternative, that the Register (1) establish a presumptive 
+renewal of previously granted exemptions; (2) structure the pro ceeding as a rulemaking rather than an 
+adjudication; (3) impose a workable standard for what constitutes a likely noninfringing use and ensure that 
+the standard does not interfere with the development of fair us e law in the courts; and (4) strongly favor 
+exemptions involving merged acce ss and use controls where the m erged control prevents a use such as 
+copying, and the user does not seek to obtain the material unlawfully.). 
+2 See id. at 7.
+
+[PAGE 3]
+International Documentary Association, et al. 
+Reply Comment regarding Section 1201 Study 
+April 1, 2016 
+Page 2 of 9 
+ 
+ 
+ 
+ 
+ 
+consider concrete evidence that the activities permitted by the  previously granted 
+exemption are operating as a market substitute for works being protected by the 
+TPM at issue in the exemption.   
+ 
+We also urge the Register to keep in mind that, in light of the rapid pace of technological 
+development, a presumption of renewal is only part of the solution; as industry practices 
+and TPMs change rapidly, existing exemptions become less and less relevant.  Additional 
+reforms to the section 1201 rulemaking process are still urgently needed, whether or not a 
+presumption of renewal is part of the next rulemaking.  
+ 
+The Register should heavily favor exemptions where merged access and use controls 
+are at issue and users do not seek to view or listen to the material unlawfully.  
+Nothing said in the initial comments undermines the case for a new approach that 
+properly reflects Congress’s intent to distinguish between access controls and use 
+controls, and to permit circumvention of use controls.  
+ 
+In light of the enormous time and expense that it takes to part icipate in the process, 
+the Register should streamline and shorten the exemption process.  We strongly urge 
+the Register to account for the unique scheduling needs of part icipants, including law 
+school clinics, when setting the calendar for the rulemaking.  In addition, given that the 
+process is an administrative rulemaking, there is no need for a petition round or designated 
+“proponents” or “opponents.”  
+ 
+The Register should clearly defi ne the factors considered for g ranting an exemption 
+and tie them more closely to the requirements of the statute.  If the following conditions 
+are met, an exemption should issue:  
+ 
+1. An activity that a user or group of users seeks to do with rega rd to a class of 
+copyrighted works is likely to be noninfringing under copyright law. 
+2. Users legitimately fear that the presence or planned presence of a technological 
+protection measure makes this activity unlawful under 17 U.S.C.  §  
+1201(a)(1)(A). 
+3. The resulting effect on the activity in question is adverse.  “Adverse” should be 
+defined as “more than de minimis,” meaning that if real cases e xist which are 
+emblematic of a broader impact, an adverse effect has been shown.  In addition, 
+if the TPM in question restricts both access and use, and the u se sought in the 
+exemption does not involve viewing or consuming copyrighted content without 
+permission, the effect should be presumed to be adverse absent concrete 
+evidence of market substitution or other copyright-related harm s that would 
+issue from the exemption.   
+4. The §1201(a)(1)(C) statutory factors favor the exemption, with special attention 
+to whether merged access and use controls are present.
+
+[PAGE 4]
+International Documentary Association, et al. 
+Reply Comment regarding Section 1201 Study 
+April 1, 2016 
+Page 3 of 9 
+ 
+ 
+ 
+ 
+ 
+ 
+DISCUSSION 
+ 
+The 1201 rulemaking proceeding is too burdensome and costly for  all involved; the 
+Register should exercise her discretion to implement changes that will streamline the 
+process. 
+ 
+In the initial round of comments, many commenters pointed out t he exceedingly 
+burdensome nature of the section 1201 exemption process. 3  Our experience is the same.  
+The complexity of the process and the unnecessarily high burden  of proof on a subset of 
+commenters forces participants to retain legal counsel that mus t spend hundreds of hours 
+seeking exemptions.  In the 2015 rulemaking proceeding, the UCI  Intellectual Property, 
+Arts and Technology Clinic and pro bono co-counsel Donaldson + Callif LLP, spent nearly 
+2000 hours advocating for an exemption for filmmakers. The effo rt required three 
+attorneys, seven Certified Law Students, 4 and two interns. At market rates, such services 
+would cost hundreds of thousands of dollars, and that figure does not include the time spent 
+by hundreds of filmmakers, organiz ational staff, and administra tive support who also 
+contributed to the effort.  Suc h costs are prohibitively expensive for all but the wealthiest 
+and the lucky few who can find pro bono representation.   
+ 
+Participation in a process as important as this should not be restricted to such a small group.  
+For this reason, the changes that we recommend in this Reply Co mment and in our Initial 
+Comment are vitally important.  The Register has the authority to implement logistical and 
+scheduling changes to alleviate these burdens without congressi onal action, and we 
+encourage her to do so in the next rulemaking.  We recommend th ree simple changes that 
+would ease the burden and costs of the rulemaking process on all involved. 
+ 
+First, the initial petition r ound of comments should be elimina ted.  During the 2015 
+rulemaking proceeding, the petition round was an unnecessary and burdensome additional 
+step that had little practical e ffect on the proceedings. As we  d i s c u s s  i n  o u r  I n i t i a l  
+Comment, the section 1201 exemption process is a rulemaking req uired by statute and 
+                                                 
+3 AAU, et al. Initial Comment at 6, 10, 13, 14–15; ACM U.S. Publ ic Policy Council Initial Comment at 2; 
+AIPLA Initial Comment at 2; American Foundation for the Blind I nitial Comment at 9; Authors Alliance 
+Initial Comment at 3; Center for Democracy & Technology Initial  Comment at 5, 13; Competitive Carriers 
+Association Initial Comment at 3; Consumers Union Initial Comme nt at 1–2; Entertainment Software 
+Association Initial Comment at 8–9; iFixit Initial Comment at 2; Institute of Scrap Recycling Industries, Inc. 
+Initial Comment at 4; International Documentary Association, et  al. Initial Comment at 3, 7, 8; Knowledge 
+Ecology International Initial Comment at 5; Learning Disabiliti es Association of America Initial Comment 
+at 1–2; Library Copyright Alliance Initial Comment at 30; Maryna Koberidze Initial Comment at 2; Microsoft 
+Corporation Initial Comment at 5; MIT Libraries, et. al. Initia l Comment at 3–4; New Media Rights Initial 
+Comment at 3; Organization for Transformative Works Initial Comment at 5; Rapid7 Initial Comment at 4; 
+University of Virginia Library Initial Comment at 3. 
+4 Certified Law Students have special permission to practice under the Rules of the California State Bar, Title 
+1, Division 1, Chapter 1.
+
+[PAGE 5]
+International Documentary Association, et al. 
+Reply Comment regarding Section 1201 Study 
+April 1, 2016 
+Page 4 of 9 
+ 
+ 
+ 
+ 
+ 
+initiated by the Librarian every three years, making petitions unnecessary.5 Instead, the 
+Register can make the process easier and simpler by accepting c omments from all 
+interested parties sixty to ninety days after issuing the Notic e of Inquiry.  The Register 
+should also consider identifying proposed classes sua sponte in the Notice of Inquiry. 
+ 
+Second, the Register should allo w three comment rounds in which  anyone can comment.  
+As we emphasized in our Initial Comment,
+6 future section 1201 rulemaking proceedings 
+should be structured as traditional rulemakings, and there is no need to classify commenters 
+formally as proponents or opponents.  The Register can simplify  the section 1201 
+proceeding by requesting three rounds of comments and allowing any interested party to 
+submit a comment at any time, which would allow ample opportuni ty for participants to 
+respond to others’ comments.   
+ 
+Last, in setting up the section 1201 rulemaking’s calendar, the Register should account for 
+the fact that law school clinics represent a significant number  of participants in the 
+rulemaking proceedings. In fact, because so few user groups can  o t h e r w i s e  a f f o r d  t o  
+participate in the process, in the most recent rulemaking law c linics or pro bono counsel 
+constituted the vast majority o f outside counsel representing p roponents. The Register 
+should acknowledge this unique cha racteristic of the rulemaking  and should work to 
+accommodate the academic schedule. For example, in addition to doing away with the 
+petition requirement, the Register should build in extra time for comment periods that span 
+the winter holidays, should commence the process in late early September, and should wrap 
+up the process by April or early  May. In addition, the second a nd third comment periods 
+can be shorter than the first round.   
+ 
+ 
+The Register should include a presumption of renewal for previo usly granted 
+exemptions, but such a presumption must be structured effectively. 
+ 
+Most initial commenters agree with the Register that a presumptive renewal for previously 
+granted exemptions is both necessary and appropriate.
+7  We also agree, and we urge the 
+                                                 
+5 See 1 CHARLES H. KOCH, JR., ADMINISTRATIVE LAW AND PRACTICE § 4:31 (3d ed. 2016). 
+6 See International Documentary Association, et al. Initial Comment at 11–12. 
+7 See AAU, et al. Initial Comment at 3, 14; ACM U.S. Public Policy Council Initial Comment at 2; AIPLA 
+Initial Comment at 2; American Foundation for the Blind Initial  Comment at 3; Authors Alliance Initial 
+Comment at 2; Center for Democracy & Technology Initial Comment  at 5–6; Competitive Carriers 
+Association Initial Comment 5–11; Consumer Technology Associati on Initial Comment at 7; Consumers 
+Union Initial Comment at 4; DIYAbility Initial Comment at 5; iFixit Initial Comment at 3; Institute of Scrap 
+Recycling Industries, Inc. Initial Comment at 8-9; Internationa l Documentary Association, et al. Initial 
+Comment at 2, 3, 9–10, 17; Knowledge Ecology International Init ial Comment at 4; Learning Disabilities 
+Association of America Initial Comment at 1–2; Maryna Koberidize Initial Comment at 2–3; MIT Libraries, 
+MIT Press, and MIT Office of Digital Learning Initial Comment at 3–4; New Media Rights Initial Comment 
+at 17–18; Organization for Transformative Works Initial Comment at 2; Public Knowledge Initial Comment 
+at 4; Rapid7 Initial Comment at 3–4; R Street Initial Comment a t 7; R Street Institute, FreedomWorks, and
+
+[PAGE 6]
+International Documentary Association, et al. 
+Reply Comment regarding Section 1201 Study 
+April 1, 2016 
+Page 5 of 9 
+ 
+ 
+ 
+ 
+ 
+Register to implement such a presumption in a way that simplifi e s  a n d  s tr e a m lin e s  th e  
+process—and that provides real relief to the participants.  The  presumption should either 
+be automatic or based simply on an assertion; no new evidence should be required to trigger 
+the presumption.8     
+ 
+The Register has recommended a presumption of renewal on more t han one occasion, 
+sometimes recommending that it apply when there is no “meaningful opposition” and other 
+times when there is no “opposition.”
+9  Although we agree that there should be a 
+presumptive renewal, we do not agree that it should be restricted to cases in which there is 
+no “opposition” or “meaningful opposition.”  Such a requirement is unnecessary, because 
+the appropriate form of “meaningful opposition” is evidence suf ficient to rebut the 
+presumption.  More importantly, an opposition requirement any m ore lenient than that 
+would likely render the presumpt ion ineffectual, because anyone  could extinguish a 
+presumption merely by expressing opposition.10   
+ 
+We urge the Register to support a presumption of renewal that can only be overcome with 
+concrete evidence that no adverse effects would result if the previously granted exemption 
+were withdrawn.  This standard would also solve a significant f law in the exemption 
+proceeding: as most recently implemented, proponents of exempti on renewals must show 
+that adverse effects continue, despite the fact that the previously granted exemption is often 
+mitigating those adverse effects.
+11 Thus, without a presumption, proponents are required 
+to show that adverse effects not c urrently felt would likely re turn—a showing for which 
+the Copyright Office imposed a higher burden in the last rulemaking.12  
+                                                 
+Niskanen Center Initial Comment at 7; USC Intellectual Property  and Technology Law Clinic Initial 
+Comment at 2–9; University of Virginia Library Initial Comment at 2. 
+8 We also agree with other commenters that the presumption shoul d apply regardless of whether the 
+contemplated exemption is a flat renewal of an existing exemption, or a modification of one.  See Microsoft 
+Corporation Initial Comment at 6. Where a modification is conte mplated, all aspects of the proposed new 
+exemption that preserve existing exemptions should be presumpti vely renewed.  For example, in 2015 the 
+Librarian granted exemptions for documentary filmmaking that applied to TPMs on DVDs and Blu-ray.  In 
+2018, filmmakers may seek to renew this exemption and modify it  to include other TPMs; in that case, the 
+portion of the proposed exemption that applies to DVDs and Blu-ray should be presumptively granted. 
+9 Compare 80 Fed. Reg. 81,371 (“the Register has recommended that Congre ss amend the rulemaking 
+process to create a presumption in favor of renewal when there is no meaningful opposition to the 
+continuation of an exemption.”) with 80 Fed. Reg. 81,369 n.7 (“We are therefore recommending a legislative 
+change to provide a presumption in favor of renewal in cases where there is no opposition.”). 
+10 In addition, a “meaningful opposition” standard would invite m ore uncertainty and expense due to the 
+ambiguity of the term “meaningful.” 
+11 See American Foundation of the Blind Initial Comment at 10 (“Embracing presumptive renewal and burden 
+shifting would resolve the paradox at the heart of the current 1201 process: commenters seeking renewal of 
+an existing exemption have to meet the adverse impact criteria anew every three years, even as the existing 
+exemption is succeeding in facilitating non-infringing use of copyrighted works. In other words, it becomes 
+more difficult to empirically demonstrate adverse impact resulting from a technological protection measure 
+when an existing exemption is succeeding in addressing that very problem.”). 
+12 See U.S. Copyright Office, Section 1201 Rulemaking: Sixth Triennia l Proceeding to Determine 
+Exemptions to the Prohibition on Circumvention, Recommendation of the Register of Copyrights 16 (2015), 
+http://copyright.gov/1201/2015/registers-recommendation.pdf (“2 015 Recommendation”) (limiting
+
+[PAGE 7]
+International Documentary Association, et al. 
+Reply Comment regarding Section 1201 Study 
+April 1, 2016 
+Page 6 of 9 
+ 
+ 
+ 
+ 
+ 
+ 
+In the alternative, if the Register believes that this requirem ent is unworkable, the 
+appropriate standard for overcoming a presumption should be concrete evidence that uses 
+permitted by a previously granted exemption are operating as a market substitute for works 
+protected by the TPM at issue in the exemption.  Mere assertions, such as those regarding 
+perceptions, feelings, or fears, should not be sufficient to overcome the presumption. 
+ 
+Finally, we urge the Register to keep in mind that, while a pre sumption of renewal is 
+important, additional reforms to the section 1201 rulemaking process are still necessary in 
+light of the rapid development of technology.  Between 2012 and 2015, industry standards 
+changed so quickly that by the time the Librarian granted docum entary filmmakers an 
+exemption for Blu-ray and other technologies in 2015, Blu-ray was on its way to becoming 
+an obsolete standard and 4K was on its way to becoming the new norm.
+13  Similarly, TPMs 
+also change often and are rendered obsolete by newer TPMs.14 
+ 
+ 
+The Register should revise the rulemaking process to ensure that it does not subvert 
+Congress’s clear intent to prohibit circumvention of access con t r o l s  b u t  n o t  u s e  
+controls: where merged access and use controls are at issue, an d the user seeking an 
+exemption does not seek to view, listen to, or otherwise consume the material without 
+permission, the Register should find an adverse effect and issue the exemption.  
+ 
+In our Initial Comment, we argued that the Register should stro ngly favor exemptions 
+involving merged access and use controls where the merged control prevents a use such as 
+copying and the user does not seek to access the material unlaw fully.  This approach is 
+necessary in order to avoid subverting Congress’s clear intent to prohibit the circumvention 
+of access controls but not use controls. 15  Nothing submitted in the initial round of 
+comments contradicts this argument.  In fact, the comments of the Association of American 
+Publishers (“AAP”), Motion Picture Association of America (“MPA A”), and Recording 
+Industry Association of America (“RIAA”) support our assertion that “access controls” are 
+properly understood as controls that limit a user’s ability to obtain, consume, or perceive 
+                                                 
+exemptions based on anticipated i mpacts to “extraordinary circu mstances” and requiring evidence that is 
+“highly specific, strong, and persuasive”).  
+13 See 2015 Joint Filmmakers Comment, at app. B (Feb. 6, 2015), http://copyright.gov/1201/2015/comments-
+020615/InitialComments_LongForm_IDA_Class06.pdf (“2015 Joint Fi lmmakers Comment”) (“Many 
+documentary filmmakers are now shooting and editing programs in  the new Ultra High Definition (UHD) 
+4K (3840x2160) format.”). 
+14 Id. at app. J (encryption mechanisms used in digitally transmitted  videos vary across platform, device, 
+browser, and provider, and are constantly changing.). 
+15 International Documentary Association, et al. Initial Comment at 15.
+
+[PAGE 8]
+International Documentary Association, et al. 
+Reply Comment regarding Section 1201 Study 
+April 1, 2016 
+Page 7 of 9 
+ 
+ 
+ 
+ 
+ 
+copyrighted material without authorization16—not those that limit a user’s ability to copy 
+the material.17  
+ 
+The Register should strongly favor  an exemption where: (a) the user group does not seek 
+to obtain or consume the material unlawfully; (b) the user group cannot engage in a lawful 
+use such as copying for fair use purposes without violating a merged access and use TPM; 
+and (c) there is not substantial evidence that the proposed exemption will cause significant 
+copyright infringement.
+18 
+ 
+ 
+The Register should more clearly define the factors considered for granting an 
+exemption and tie them more closely to the requirements of the statute. 
+ 
+We agree with many commenters w ho suggested a more straightforw ard and clearly 
+defined inquiry for granting an exemption.
+19  In the Notice of Inquiry commencing the 
+rulemaking, the Register should define and spell out the inquiry necessary for granting an 
+exemption.  Such a framework could easily be implemented in the context of a rulemaking 
+proceeding, where all interested parties are given the opportun ity to comment without 
+being categorized as proponents and opponents.   
+ 
+For new exemptions (or aspects thereof) that would not be renew als of previous 
+exemptions, the Register should re commend that an exemption iss ue if the following 
+conditions are met:  
+ 
+1. Users seek to undertake an activity with regard to a class of copyrighted works 
+that is likely to be noninfringing under copyright law. 
+As we discuss in our Initial Comment, the standard for “likely to be noninfringing” should 
+be whether there is some likelihood that a desired use is noninfringing.20  It is not necessary 
+to show by a preponderance of the evidence that the desired use  is in fact noninfringing 
+because an unduly restrictive standard runs counter to Congress ’s intent not to disturb the 
+natural development of case law with respect to fair and other lawful uses.21 
+                                                 
+16 AAP, et al. Initial Comment at 10 (describing access controls as controls designed to prevent “enabling a 
+person to listen to music, watch a movie, or read a book only after the consumer has properly paid for access 
+to such content, and consistent with the terms on which access is granted”). 
+17 Large rightsholder groups readily acknowledge in their initial comments that many common TPMs prevent 
+both access and use.  AAP, et al . Initial Comment at 10 (“AAP, MPAA and RIAA use access controls for 
+purposes that relate to ‘core copyright concerns.’); see also DVD CCA and AACS LA Initial Comment at 2 
+(“CSS allowed content owners to protect their copyrighted works  from unauthorized access (and . . . from 
+unauthorized copying or other uses.”); id. at 9 (“[S]ection 1201 provides legal protections in connection with 
+the use of technological protection measures like CSS and AACS to protect motion picture content from 
+unauthorized access and uses.”). 
+18 International Documentary Association, et al. Initial Comment at 16–17. 
+19 See, e.g., Cyberlaw Clinic at Harvard Law School Initial Comment at 8. 
+20 International Documentary Association, et al. Initial Comment at 14. 
+21 Id. at 13–15.
+
+[PAGE 9]
+International Documentary Association, et al. 
+Reply Comment regarding Section 1201 Study 
+April 1, 2016 
+Page 8 of 9 
+ 
+ 
+ 
+ 
+ 
+ 
+2. Users reasonably fear that a technological protection measure m akes or will 
+make the activity in question unlawful under 17 U.S.C. § 1201(a)(1)(A). 
+Here, the inquiry should be whet her it may be necessary to circ umvent a TPM that 
+“effectively controls access” to copyrighted material in order to conduct the activity in 
+question.  For example, filmmakers frequently seek to criticize  or comment on other 
+copyrighted works, which is lawful under the fair use doctrine,  bu t a re  prevented from 
+doing so because the copyrighted  works are protected by TPMs th at effectively control 
+access to such material. 
+ 
+3. The resulting effect on the activity in question is adverse.  
+Consistent with both her statutory authority and the legislative history, the Register should 
+define “adverse” as “more than de minimis,” 22 meaning that if real cases exist which are 
+emblematic of a broader impact, an adverse effect has been show n.  This is clearer and 
+more administrable than “adverse effects” standards applied in previous rulemakings, 
+given that it is difficult to quantify how many examples are sufficient to show a nationwide 
+adverse effect.  
+ 
+In addition, if the TPM in question restricts both access and u se, and the use in question 
+does not involve viewing or consuming copyrighted content, the effect should be presumed 
+to be adverse absent concrete evidence of market substitution o r other copyright-related 
+harms that would issue from the exemption.   
+ 
+4. The §1201(a)(1)(C) statutory factors favor the exemption.  
+We urge the Register to consider the factors set forth in the s tatute23 in light of our 
+collective experience over the p ast eighteen years with the DMC A.  In that time, it has 
+become quite clear that section 1201 has had little to no effec t on copyright infringement; 
+instead, section 1201 has consistently obstructed fair use and other lawful uses.  The section 
+1201(a)(1)(C) statutory factors intentionally give the Register ample discretion to consider 
+this reality. 
+ 
+For example, the first factor, “the availability for use of cop yrighted works,” allows the 
+Copyright Office to consider the ubiquity of TPMs on copyrighted works, and the fact that 
+                                                 
+22 H.R. REP. NO. 105-551, pt. 2, at 37 (1998) (“Commerce Comm. Report”). 
+23 17 U.S.C. § 1201 (a)(1)(C) (“In conducting such rulemaking, th e Librarian shall examine—(i) the 
+availability for use of copyrighted works; (ii) the availabilit y for use of works for nonprofit archival, 
+preservation, and education purposes; (iii) the impact that the  prohibition on the circumvention of 
+technological measures applied to copyrighted works has on crit icism, comment, news reporting, teaching, 
+scholarship, or research; (iv) the effect of circumvention of technological measures on the market for or value 
+of copyrighted works; and (v) such other factors as the Librarian considers appropriate.”).
+
+[PAGE 10]
+International Documentary Association, et al. 
+Reply Comment regarding Section 1201 Study 
+April 1, 2016 
+Page 9 of 9 
+ 
+ 
+ 
+ 
+ 
+a massive proportion of the content that dominates current even ts, culture, civic life, and 
+our most pressing national debates is protected by TPMs. 24   
+ 
+The fourth factor, “the effect of circumvention of technological measures on the market for 
+or value of copyrighted works,” calls for the Register to assess whether the circumvention 
+of technological measures presents a real threat of market substitution.  To qualify as a real 
+threat of market substitution, th ere should be concrete evidenc e to that effect; mere 
+assertions
+25 should not be sufficient.  Furthermore, this inquiry should no t include effects 
+on the licensing market, because it is well-established that rights holders have no claim to 
+the derivative market for criticisms of their works.26 
+ 
+Finally, under the fifth factor, “such other factors as the Lib rarian considers appropriate,” 
+the Register must pay special attention whether merged access and use controls are present.  
+ 
+ 
+CONCLUSION 
+ 
+We again thank the Register for inviting comments on section 12 01 and its exemption 
+process.  Through this study, the Register has an opportunity to revise and revamp the 1201 
+rulemaking proceeding in accordance with Congress’s intentions.  As rightsholders 
+ourselves, we utilize many distribution mechanisms that employ digital rights management 
+and technological protection measures—and our own TPM-protected works are subject to 
+the exemptions we have sought.  Digital rights management syste ms can be useful, but 
+their usefulness has little t o do with section 1201.  Instead, the anticircumvention 
+provisions have inhibited countle ss lawful uses.  We therefore urge the Register to adopt 
+the recommendations in this Reply Comment and our Initial Comment. 
+ 
+ 
+ 
+  
+                                                 
+24 See 2015 Joint Filmmakers Comment, at 2, 4, 18. 
+25 See  2015 Advanced Access Content Syst em Licensing Administrator Co mment at 15, 
+http://copyright.gov/1201/2015/comments-032715/class%201/AACS_LA_class01_1201_2014.pdf (“[A]ny 
+weakening of AACS could do great harm to the use-facilitating business model and damage efforts to bring 
+further high definition media formats to market.”); 2015 Entert ainment Software Association Comment at 
+15, http://copyright.gov/1201/2015/comments-032715/class%2019/E ntertainment_Software_Association 
+_Class19_1201_2014.pdf. 
+26 See Campbell v. Acuff-Rose Music, Inc ., 510 U.S. 569 (1994); U.S. Copyright Office, Section 1201 
+Rulemaking: Fifth Triennial Pro ceeding to Determine Exemptions to the Prohibition on Circumvention, 
+Recommendation of the Register of Copyrights 131 (2012), http:/ /www.copyright.gov/1201/2012/Section 
+_1201_Rulemaking_2012_Recommendation.pdf (“2012 Recommendation”) (citing Campbell v. Acuff-Rose 
+Music, Inc., 510 U.S. 569 (1994)) (“[R]equiring a creator who is making fair use of a work to obtain a license 
+is in tension with the Supreme Court’s holding in Campbell v. Acuff-Rose Music, Inc. that rightsholders do 
+not have an exclusive right to markets for commentary on or criticism of their copyrighted works.”).
+
+[PAGE 11]
+International Documentary Association, et al. 
+Reply Comment regarding Section 1201 Study 
+April 1, 2016 
+Appendix 
+ 
+ 
+ 
+ 
+ 
+ 
+APPENDIX 
+ 
+ABOUT THE COMMENTERS 
+ 
+The International Documentary Association (IDA) is a non-profit 501(c)(3) 
+organization that promotes nonfiction filmmaking, and is dedica ted to increasing public 
+awareness for the documentary genre. At IDA, we believe that do cumentary storytelling 
+expands our understanding of shared human experience, fostering  a n  i n f o r m e d ,  
+compassionate, and connected world, and we exist to serve the n eeds of those who create 
+this art form. Our major program areas are: Advocacy, Filmmaker Services, Education, and 
+Public Programs and Events. For over 30 years, IDA has worked t o support documentary 
+filmmaking as a vital art form. We continue to seek ways to ensure that the artists, activists 
+and journalists who make documentaries receive the resources that they need and deserve. 
+Film Independent is a non-profit arts organizati on and our mission is to champio n the 
+cause of Independent film and support a community of artists wh o embody diversity, 
+innovation and a uniqueness of vision. We help independent film makers tell their stories, 
+build an audience for their projects and diversify the voices in the film industry, supporting 
+filmmakers at every experience level with a community in which their works can be 
+appreciated and sustained. With over 200 annual screenings and events, Film Independent 
+provides access to a network of likeminded artists who are driv ing creativity in the film 
+industry. Our free Filmmaker Labs f or selected writers, directo rs, producers and 
+documentary filmmakers and year-round educational programs serve as a bridge from film 
+school to the real world of filmmaking – one with no defined career ladder. Project Involve 
+is Film Independent’s signature program dedicated to fostering the careers of talented 
+emerging filmmakers from communities traditionally underreprese nted in the film 
+industry. We also produce the we ekly Film Independent at LACMA film series, the Los 
+Angeles Film Festival in June and the annual awards programs fo r the finest independent 
+films of the year—the Film Independent Spirit Awards.   
+Kartemquin Educational Films is a not-for-profit collaborative center for documentary 
+media makers who seek to foster a more engaged and empowered so ciety. In 2016, 
+Kartemquin will celebrate 50 ye ars of sparking democracy throug h documentary. Best 
+known for producing Hoop Dreams  and The Interrupters  among over 50 other 
+documentaries that examine and critique society through the liv es of ordinary people, 
+Kartemquin has won every major almost every available prize for  documentary 
+filmmaking, including multiple Emmy, Peabody, duPont-Columbia a nd Robert F. 
+Kennedy journalism awards, Inde pendent Spirit, IDA, PGA and DGA  a w a r d s ,  a n d  a n  
+Oscar nomination. A revered resource on issues of ethics and st orytelling, Kartemquin is 
+internationally recognized for crafting quality documentaries b acked by comprehensive 
+audience engagement, and for its innovative programs and advoca cy designed to elevate 
+the documentary community.
+
+[PAGE 12]
+International Documentary Association, et al. 
+Reply Comment regarding Section 1201 Study 
+April 1, 2016 
+Appendix 
+ 
+ 
+ 
+ 
+ 
+ 
+Founded in 1979, the Independent Filmmaker Project  (IFP) champions the future of 
+storytelling by connecting artist s with essential resources at all stages from development 
+to distribution. The organization fosters a vibrant and sustainable independent storytelling 
+community through its year-round programs, which include IFP Fi lm Week, IFP Labs, 
+Filmmaker Magazine, the IFP Gotham Awards and the Made in NY Media Center by IFP, 
+a new incubator space developed with the Mayor’s Office of Media and Entertainment and 
+EDC. IFP represents an ever-growing network of 10,000+ storytel lers around the world 
+and plays a key role in supporting over 350 narrative and documentary features, as well as 
+new series, each year. 
+ 
+Indie Caucus is a national, independent group of filmmakers who believe in the public 
+mission of public media.  It is dedicated to strengthening our collective voice both within 
+and outside of the public media system. As a group we keep tabs on events related to indies 
+and public media, and can quickly  activate the national communi ty when a crisis arises.  
+We aim to be a voice that repr esents independent filmmakers to our broadcast, 
+programming and funding partners in public media. Members of the Indie Caucus Steering 
+Committee are independent producers who meet regularly, who can  intervene behind the 
+scenes, and who are pledged to a ctivate their networks when a l arge outcry and action is 
+needed.   
+ 
+The National Alliance for Media Arts and Culture  (NAMAC) consists of 225 
+organizations that serve over 335,000 artists and media professionals nationwide. Members 
+include community-based media p roduction centers and facilities , university based 
+programs, museums, media presenters and exhibitors, film festiv als, distributors, film 
+archives, youth media programs, community access television, an d digital arts and online 
+groups. NAMAC’s mission is to foster and fortify the culture an d business of the 
+independent media arts. NAMAC believes that all Americans deser ve access to create, 
+participate in, and experience a rt. NAMAC co-authored the Docum entary Filmmakers’ 
+Statement of Best Practices in Fair Use and has long been an ad vocate for orphan works 
+reform. 
+ 
+New Media Rights  (NMR) New Media Rights is a non-profit program that provides 
+preventative, one-to-one legal services to creators, entrepreneurs, and internet users whose 
+projects require specialized int ernet, intellectual property, p rivacy, media, and 
+communications law expertise. These legal services include coun sel regarding section 
+1201 of the DMCA.  NMR is an independently funded program of Ca lifornia Western 
+School of Law, a 501(c)(3) non-profit. Further information regarding NMR’s mission and 
+activities can be obtained at http://www.newmediarights.org.  
+ 
+Women in Film & Video (WIFV) of Washington, DC is dedicated to advancing the career 
+development of professionals working in all areas of screen-bas ed media and related 
+disciplines. WIFV supports women i n the industry by promoting e qual opportunities, 
+encouraging professional development, serving as an information network, and educating 
+the public about women’s creative and technical achievements. W IFV, a 501(c)(3) non-
+
+[PAGE 13]
+International Documentary Association, et al. 
+Reply Comment regarding Section 1201 Study 
+April 1, 2016 
+Appendix 
+ 
+ 
+ 
+ 
+ 
+ 
+profit community benefit organization founded in 1979, is the p remier professional 
+resource for people who want successful media careers in the DC -metro region. Our 
+resources, connections, and advocates support a vibrant, creative media community.

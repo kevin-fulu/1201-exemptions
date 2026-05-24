@@ -1,0 +1,283 @@
+[PAGE 1]
+Joint filing of R Street Institute, FreedomWorks, and Niskanen Center; comment in 
+Docket No. 2015-8
+Before the 
+U.S. COPYRIGHT OFFICE
+LIBRARY OF CONGRESS
+Washington, DC
+___________________________________
+)
+In the Matter of )
+)
+Section 1201 Study ) Docket No. 2015-8
+)
+)
+____________________________________)
+COMMENT OF JOINT LIBERTARIAN ORGANIZATIONS
+I. Preliminary Statement
+The signatories listed below are libertarian organizations whose mission is to 
+engage in policy research and outreach to promote free markets, individual liberty, and 
+limited, effective government.  A s part of that mission we regularly a dvocate for the 
+removal of arbitrary l egal and regulatory b arriers that threaten free and open 
+technological innovation.  
+In furtherance of that mission we hereby submit this comment to “Section 1201 
+Study” (“1201 study”) (Docket No. 2015-8), noting its additional relevance to the 
+“Software-Enabled Consumer Products Study” (“software study”) (Docket No. 2015-6).  
+We submit in this way because of the degree the two studies interrelate, thereby requiring 
+them to be addressed together.  When contemplating the role copyright law has in 
+affecting innovation policy, overly s egregating related issues creates artificial barriers 
+that prevent the effective telling of what is one coherent story a nd which needs to be 
+treated as such.
+Although certain aspects discussed below may be more specific to one study or 
+another, the entirety of this comment should be considered part of the record this study.  
+If the Copyright Office finds it necessary to ascribe this comment to a specific question
+
+[PAGE 2]
+posed, it is most applicable to Question #11 of the 1201 study (“Please identify a ny 
+pertinent issues not referenced above that the Copyright Office should consider in 
+conducting its study.”).2  We also highlight where portions of this comment may also be 
+applicable to other questions asked, such as Question #2 of the 1201 study (“How 
+should section 1201 accommodate interests that are outside of core copyright concerns, 
+for example, in cases where circumvention of access controls protecting computer 
+programs implicates issues of product interoperability o r public safety?”), to which we 
+respond unequivocally, for the following reasons, that it should not.3  
+II. The Overarching Issue Relevant to Both Studies
+The essential question raised by b oth studies is, “What is copyright law doing 
+here?”  Copyright law can be traditionally understood to create limited monopolies of a 
+limited set of exclusive rights for limited times for the authors of creative works.  And, to 
+the extent that it is not precluded by d octrines such as merger, scènes à faire, or the 
+idea/expression dichotomy, software may i n some cases be deemed an independent, 
+creative work.  B ut the questions contemplated by b oth studies are not limited to 
+exploring the bounds of that potential copyrightability of software.  
+What this comment addresses is where the issues transcend the question of the 
+copyrightability for software and instead investigate the role copyright law plays in 
+affecting how people may use and develop computing technology in general.  It is that 
+question there that requires the most attention, and, indeed, alarm.
+                                                
+2 It is also applicable to Question #2 of the software study (“Whether, and to what extent, the design, 
+distribution, and legitimate uses of products are being enabled and/or frustrated by the application of 
+existing copyright law to software in everyday products”).  
+3 Question #3 of the 1201 study asks whether Section 1201 should be adjusted to allow for a presumption 
+of renewal of previous exemptions, to which we would say yes.  In fact, there should be a presumption of 
+validity for all sought exemptions.  Relatedly, Question #4 of the 1201 study contemplates shifting 
+burdens from proponents of a class to opponents, which we would also agree is a needed improvement.  
+However, small changes like these are mere bandaids that do not adequately address the fundamental 
+problem of copyright inserting itself in how technology is used and developed, which is what our comment 
+challenges.
+
+[PAGE 3]
+The problem was illustrated in the most recent 1201 rulemaking.  T here were 
+essentially t wo types of classes for which exemptions were sought: exemptions that 
+would enable non-infringing consumption of copyrighted works, and exemptions seeking 
+the ability t o bypass a technical protective measure (“TPM”) preventing access to the 
+computing logic of onboard hardware (which, for brevity, will generally be referred to as 
+“hardware” or “computing logic” throughout).  While we would of course advocate for 
+liberal granting of exemptions of the former, it is the latter type of classes on which this 
+comment focuses.
+What we saw was essentially a  r egulatory l and-grab by c opyright law to insert 
+itself over the legal ability of people to use the computing devices legitimately available 
+to them as they would choose.  The rationale for this insertion appeared to be as follows: 
+because software is ostensibly c opyrightable, and because software sits between the 
+hardware and the user’s ability t o control the function of the hardware, the anti-
+circumvention provisions of 1201 were implicated because modifying the software meant 
+bypassing the TPM controlling access to the underlying computing logic of the device 
+that ran the copyrighted software.  
+Everything about that presumption needs to be challenged.  T he difficulty w ith 
+doing it within these studies, however, is that they search for solutions within copyright 
+law, when these are problems created by copyright having extended its reach far beyond 
+where it was intended and entitled to be in the first place.   The better answer is ultimately 
+to get copyright out of the way.
+III. Comments applicable to each study
+(1) Copyright law should not interfere with how people may freely use, modify, 
+or transfer electronic devices generally.
+Underpinning the software study is the presumption that copyright is necessary to 
+incentivize the creation of software.  This presumption must be questioned.  Given that 
+software, particularly embedded software, is so often bound up in directing the technical
+
+[PAGE 4]
+operation of companion hardware, significant restraint should be exercised before 
+allowing monopoly rights in the software affect what the legitimate possessor of the 
+object it runs can do with it.    
+This restraint is particularly warranted in the case of software-enabled consumer 
+products.  As the most recent 1201 rulemaking itself demonstrated, there is no longer any 
+meaningful difference between a computer as one was understood at the time the DMCA 
+was passed and any other device capable of computing logic.  There are now TV-shaped 
+computers, car-shaped computers, pacemaker-shaped computers, toaster-shaped 
+computers,4 even sneaker-shaped computers,5 and more.6  Chips capable of processing 
+electronic signals are cheap and something that can be added to essentially a ny object.  
+Although as of now the computing logic that each resulting device runs may be tailored 
+to the intended purpose of each such device (for instance, smart TVs are designed to do 
+different things than smart medical devices) the distinctions are not meaningful ones, and 
+they are definitely not meaningful for purposes of copyright law.  In all these examples 
+software is controlling the operation of onboard computing logic, and nothing about that 
+particular device’s operation, be it what the manufacturer intended or otherwise, should 
+affect the question of whether copyright is needed to regulate that operation.  In all such 
+cases the answer should be no.
+The increasing convergence between formerly non-computerized objects and 
+“smart” versions illustrates why there should be this limitation on the role of copyright.  
+Copyright is designed to be a solution to market failure, or the situation where no one 
+                                                
+4 See, e.g., the “Breville Die-Cast 2-Slice Smart toaster” marketed for its “intelligent” ability to know just 
+how much to brown bread.  http://www.brevilleusa.com/die-cast-2-slice-smart-toastertm.html (last 
+reviewed Feb. 12, 2016).
+5 See, e.g., the Sketchers 10900L “Game Kicks” sneaker, which feature a “[f]ully functional game feature!” 
+where  “[f]our colorful flowers light up and make sounds in a classic 'match the pattern' game .”  The shoe 
+also comes with “a [r]eset button and [a] sound on/off button.”  https://www.skechers.com/en-
+us/style/10900/game-kicks/gumt (last reviewed Feb. 12, 2016).
+6 See various other examples of “more,” including computer-shaped air conditioners, clothes washers, and 
+lightbulbs at http://www.crookedbrains.net/2014/03/smart-and-awesome-wi-fi-gadgets.html (last reviewed 
+Feb. 12, 2016).
+
+[PAGE 5]
+will make the investment in creating an expressive work if the sole basis for potentially 
+profiting from that effort can easily b e usurped by a nother party.  T he prototypical 
+example is a book, where the intrinsic value of the book is the expression contained 
+within, not the physical object containing it.  Such is not the case, however, regarding 
+embedded software in objects capable of computing logic.  In these cases it is the object, 
+or device itself, that is what’s valuable.  
+The producers of these physical objects are selling physical objects that do things, 
+be it toasting bread, shielding feet, or merely processing electrons as any c omputing 
+device does.  The devices compete on the market based upon their objects’ ability to do 
+what the consumer wants to put them to, at the cost the consumer is willing to pay, more 
+optimally than those of their competitors.  Thus there is no need to artificially insulate the 
+manufacturer from competitive market forces with a copyright monopoly, particularly not 
+when such a monopoly will consequently hobble how a user can purchase, use, or adapt 
+the product in the way t hat they m ight choose.  Even to the extent that embedded 
+software may be somewhat copyrightable, that copyrightability should not serve to limit 
+the control people have over the physical goods they choose to have in their lives.  
+In fact, it is anathema to copyright that it should even have begun to: even in the 
+case of a book, under the first sale doctrine the owner of a physical book had traditionally 
+retained the right to dispose of it has he chose, regardless of the copyright status of the 
+expressive content within.  I t should not require a statutory a mendment to ensure that 
+people can dispose of the other objects in their lives freely as well, even electronic 
+devices with embedded software, but to the extent that it may, we support legislation such 
+as the You Own Devices Act, which aims to restore that important freedom to users.
+(2) Section 1201 should not interfere with how people may freely use, modify, or 
+transfer electronic devices generally.
+Incongruously attached to the copyright statute is Section 1201.  Ostensibly it is 
+intended to prohibit the interference with “digital rights management” (“DRM”)
+
+[PAGE 6]
+mechanisms controlling the access to digital copies of copyrighted works.  In practice, 
+however, it effectively chills behaviors that have nothing to do with copyright or the 
+infringement thereof.
+The first problem stems from the overbroad definition of what constitutes a TPM.  
+It is problematic enough when it is DRM that obstructs access to a work, particularly 
+when that access is non-infringing or otherwise legitimate.  This problem is aggravated 
+by the fact that Section 1201 does not actually punish an infringing use of a work – other 
+sections of the copyright statute provide punitive consequences for that infringement –
+but rather the mere act of circumventing a TPM, regardless of why it was done.  Worse, it 
+imposes not just a civil sanction but a potentially criminal one, and it is a sanction that 
+can attach even when the circumvention was done in furtherance of a non-infringing use 
+or one with no connection to a use of a copyrighted work at all.  
+As we see from these rulemakings, Section 1201 is presumed to reach all sorts of 
+circumventions done by people simply trying to fully use, modify, or otherwise explore 
+the computing logic of the devices they legitimately possess.  Whether it is to be able to 
+connect a mobile device to another network, discover the vulnerabilities of a medical 
+device, repair a broken tractor, or simply e nsure that one’s TV is not spying o n them,
+Section 1201 deters all these non-copyright activities because of the overly e xpansive 
+definition of a TPM.   A  default assumption appears to have evolved that for all intents 
+and purposes a TPM is anything that controls any access, including access to the 
+computing logic of a device.  This definition appears to be predicated on the fact that a 
+TPM may itself be a piece of software, and software may be copyrighted, even though 
+the circumvention has little to do with affecting the exclusive rights of whatever 
+copyright that software might have.7  In other words, presumptions are built upon 
+presumptions, first by presuming that embedded software controlling computing device is 
+                                                
+7 See discussion Part II.1 supra of why the entitlement of software to copyright should be extremely 
+limited.
+
+[PAGE 7]
+itself eligible for copyright, and then by c onsidering that copyright to be the copyright 
+interest Section 1201 is intended to protect, when it is not.  The software is merely the 
+TPM, not the thing that the TPM is designed to control access to.  
+The Section 1201 study contemplates a number of improvements to the statute 
+that might offer some relief: presumptive renewal of previously g ranted exemptions 
+(Question #3), reducing the enormous burdens of petitioning for, and substantiating, 
+needed exemptions (Question #4), and creating permanent exemptions (Questions #8 & 
+#9).  T hese changes would help alleviate some of the difficulty f aced by t he public to 
+obtain the legal relief necessary t o perform the circumventions of TPMs for non-
+infringing activities, including activities simply involving the ability of legitimate 
+possessors of computing devices to freely use them as they so choose, including in ways 
+that don’t affect a copyright interest.  But, as noted in footnote 4 supra, these proposed 
+changes are not enough, particularly where these non-infringing activities in no way 
+implicate copyright interests.  E very e xemption sought, even if ultimately g ranted, 
+represents a use that has already been chilled, and no amount of hardcoded exemptions 
+baked into the statute will ever be able to cover all the uses that have yet to be imagined.
+The fact that it was necessary t o petition for exemptions covering security 
+research of medical devices and automobiles, even though “security research” is already 
+a hardcoded exemption in Section 1201, shows why a  m uch more definitive solution, 
+making it absolutely c lear that Section 1201 has no place regulating circumventions 
+involving access to computing logic, is needed.  Hardcoding activities such as “security 
+research” is simply not sufficient to keep up with a rapidly changing technology frontier.  
+Computing faculties are becoming better, faster, and more ubiquitous all the time.  There 
+is no way for the Copyright Office to keep up, nor should it have to.
+Question #2 asks how non-copyright interests should be accommodated during a 
+1201 rulemaking proceeding, as if it in any way makes sense to empower the Librarian of 
+Congress via the Copyright Office to act as a gatekeeper entitled to either bless, or
+
+[PAGE 8]
+effectively forbid, any of the purposes for which someone might want to bypass a TPM, 
+particularly when those purposes are simply to get access to the computing logic of a 
+device.  Neither the Librarian nor the Office is endowed with the authority or expertise to 
+be an all-purpose evaluator of how people use their computing technology or judge its 
+effects.  On the contrary, the more present non-copyright issues, the more important it is 
+that copyright law not interfere with those uses, and especially not when that interference 
+is motivated by the desire to protect society from unwanted consequences arising from 
+technology use and development.  First, there are many other regulatory bodies, state and 
+federal, capable, and indeed better able, to address whatever harm that may arise from 
+innovation.  A nd secondly, the ubiquity o f computing devices in an increasing, even 
+infinite number of items, illustrates the critical need for people to have complete 
+dominion over them, to discover the full extent of their effects and vulnerabilities.8  The 
+Copyright Office is not in the position to police when bad actors have deployed software 
+on their devices that spy on users9 or cheat on emissions tests.10  But the public is, and it 
+must be unambiguously legally able to.
+                                                
+8 Few would likely have ever argued that a parent should not be able to adjust their child’s footwear as 
+needed.  The mere introduction of a microchip to that shoe should not make that parent suddenly legally 
+unable to do so.
+9 See, e.g., Trevor Timm, “The Government Just Admitted It Will Use Smart Home Devices for Spying,” 
+The Guardian, Feb. 9, 2016, available at http://www.theguardian.com/commentisfree/2016/feb/09/internet-
+of-things-smart-devices-spying-surveillance-us-government.
+10 See, e.g., Karl Russell, Guilbert Gates, Josh Keller, and Derek Watkins, “How Volkswagen Got Away 
+With Diesel Deception,” New York Times, Jan. 6, 2016, available at
+http://www.nytimes.com/interactive/2015/business/international/vw-diesel-emissions-scandal-
+explained.html.
+
+[PAGE 9]
+IV. Conclusion
+Both studies skirt around the ultimate issue: the role and purpose of copyright (and 
+consequently the agency c harged with administering it).  C opyright law derives its 
+constitutional authority f rom the progress clause, which charges it to advance the 
+progress of science and the useful arts.  Anything that copyright law attempts to do must 
+always be tested against that directive (and limitation).  When, as we see now, copyright 
+is interfering with that progress, chilling people’s ability to use and develop technology 
+as they w ould freely choose, it cannot pass that test.  T he statute defining copyright’s 
+reach must therefore be changed to remove it from the path of progress. 
+Dated:  March 1, 2016 Respectfully submitted,
+/s/ Michael W. Godwin
+Michael W. Godwin 
+(DC Bar # 432639)
+1050 17th St. NW #1150
+Washington, DC 20036
+mgodwin@rstreet.org
+General Counsel for the R Street 
+Institute
+Dated:  March 1, 2016 Respectfully submitted,
+/s/ Ryan Hagemann
+Ryan Hagemann
+820 First St. NE #675
+Washington, DC 20002
+rhagemann@niskanencenter.org
+Technology and Civil Liberties Policy 
+Analyst for the Niskanen Center
+
+[PAGE 10]
+Dated:  March 1, 2016 Respectfully submitted,
+/s/ Wayne T. Brough, Ph.D.
+Wayne T. Brough, Ph.D.
+400 North Capitol St. NW #765
+Washington, DC 20001
+wbrough@freedomworks.org
+Chief Economist and Vice President of 
+Research at FreedomWorks

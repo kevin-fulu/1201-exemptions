@@ -1,0 +1,49 @@
+[PAGE 1]
+Prof. Andrea M. Matwyshyn 
+am28@princeton.edu   
+Professor of Law/ Professor of Computer Science (by courtesy) 
+Northeastern University  
+Visiting Research Collaborator, Center for Information Technology Policy 
+Princeton University  
+Affiliate Scholar, Center for Internet and Society 
+Stanford Law School  
+US-UK Fulbright Cyber Security Scholar 2016-2017 
+ 
+ 
+on behalf of the “Security Researchers” 
+ 
+Prof. Steven Bellovin 
+Professor of Computer Science 
+Columbia University  
+ 
+Prof. Matt Blaze 
+Associate Professor of Computer and Information Science 
+University of Pennsylvania 
+ 
+Prof. Alex Halderman 
+Professor of Computer Science & Engineering 
+University of Michigan 
+ 
+Prof. Nadia Heninger 
+Assistant Professor of Computer and Information Science 
+University of Pennsylvania 
+ 
+ 
+October 27, 2016 
+ 
+ 
+Re: Docket No. 2015-8 - Section 1201 Study: Request for Additional Comments 
+ 
+ 
+In Section II (2)(a) of the above-referenced Federal Register Notice of Inquiry, the Copyright Office has requested 
+comment regarding whether the language of the security research exemption recommended by the Register and 
+adopted by the Librarian of Congress in the 2015 rulemaking would be appropriate for adoption as a permanent 
+exemption.   
+ 
+As proponents of the exemption during the 2015 rulemaking, the Security Researchers believe that the language 
+of the granted exemption is suitable for adoption as a permanent exemption.  We believe that the language of the 
+exemption as granted materially mitigates the legal uncertainty associated with good-faith security research. A 
+permanent exemption with this language would further buttress security researchers’ ability to engage in good-
+faith testing, investigation and/or correction of security flaws and vulnerabilities aimed at consumer protection 
+and national security enhancement. We support the adoption of the exemption language as granted for the 
+language of a permanent security research exemption.

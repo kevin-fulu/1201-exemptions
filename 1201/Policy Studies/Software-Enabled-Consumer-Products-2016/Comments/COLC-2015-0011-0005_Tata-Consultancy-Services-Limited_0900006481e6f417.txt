@@ -1,0 +1,231 @@
+[PAGE 1]
+ 
+ 
+  Page 1 of 4 
+ 
+ 
+Response to Study by U.S. Copyright Office, Library of Congress on  
+“Role of Copyright Law with respect to software-enabled consumer products” 
+ 
+ 
+Submission by – Dr. Santosh Mohanty 
+ 
+Submitting Organization – Tata Consultancy Services 
+ 
+This document contains the response from Tata Consultancy Services (TCS) to the study initiated by U.S. 
+Copyright Office, Library of Congress to review the role of copyright law with respect to software-enabled 
+consumer products.  
+ 
+1. The provisions of the copyright law that are implicated by the ubiquity of copyrighted software 
+in everyday products 
+ 
+Copyright is a legal right accorded by the law of a country (and extendable to other countries participating 
+in the Berne convention) to grant the creator of an original work exclusive rights for its use and distribution 
+for a limited defined period . In the US, the copyright law is founded on the constitutional goal to promote 
+the progress of science and useful arts. Software copyright further protects this legal right for computer 
+programs as a form of “literary work” and copyrighted software embedded in everyday products enjoys the 
+same level of protection as that installed on general purpose computer.  
+ 
+The role of copyright law in enabling/f rustrating the design, distribution, and legitimate uses of software- 
+enabled consumer products and related services, as also its impact on business models for copyright 
+owners and users is being debated strongly in the US and the world over. This is equally applicable to 
+consumer devices with software embedded in them , but also to devices operated by software via a 
+smartphone/remote controller or software housed on the cloud.  
+ 
+Consumer choice is key and US copyright law  needs to ensure that consumer s continue to have a wide 
+variety of options while buying products/services than be locked into products/services of certain 
+manufacturers/service providers. To ensure sustainable innovation in the area of software -enabled 
+consumer product goods, it is essential that the competitive market landscape be strengthened by 
+preventing business monopolies by companies in the name of copyright law.  
+ 
+It is our view that the US copyright law needs to balance between the rights of the creators of the software 
+copyrighted work as well as recognize legitimate rights of consumers who buy software-enabled 
+products/services from manufacturers, resellers/dist ributors and servic e providers. Also, companies are 
+continuously innovating to bring out more cost -effective and advanced products/services into the market 
+and may want to have the right to reverse engineer copyrighted software embedded in similar products 
+from other companies, to make their software-enabled products/services interoperable with the software- 
+enabled products/services of other companies.  
+ 
+While the ownership of the copyrighted software rests with the author(s) of such copyrighted work, 
+copyright law also allows/would allow the owner of the program to make another copy or adaptation for 
+use on a computer (17 U.S.C. 117) for indicative scenarios indicated below -  
+ 
+i)          Permitting the reproduction or adaptation of ‘‘the software or firmware of a user purchased mobile 
+communications device for the sole purpose of  . . .connect[ing] to a wireless communications network’’ if 
+the reproduction or adaptation is initiated by or with the consent of the owner of the device, the owner is 
+in legal possession of the device, and the owner has the consent of the authorized operator of the wireless 
+communications network to use the network (proposed by the Unlocking Technology Act of 2015). 
+ 
+ii)        Allowing the transfer of ownership of a copy of a computer program embedded on a machine or 
+other product ‘‘if [the] computer program enables any part of [that] machine or other product to operate,’’
+
+[PAGE 2]
+ 
+ 
+  Page 2 of 4 
+ 
+ 
+as well as any right to receive software updates or security patches from the manufacturer. This right of 
+transfer could not be waived by any contractual agreement. In addition, the original owner of the device 
+would be prohibited from retaining an unauthorized  copy of the computer program after transferring the 
+device and the computer program to another person. (proposed by You Own Devices Act).  
+ 
+Further, section 109 of the US Copyright Act prohibits the rental, lease or lending of a computer program 
+for direct or indirect commercial gain unless authorized by the copyright owner of the program. It expressly 
+provides an exception for ‘‘a computer program which is embodied in a machine or product and which 
+cannot be copied during the ordinary operation or use of t he machine or product.’ and ensures that                      
+computer programs can be embedded in machines or products to avoid interference with the ordinary use 
+of such products. 
+ 
+The above points indicate that US copyright law does have provisions in place to ensure rightful ownership 
+of copyrighted software as well as enablement for various business scenarios involving software-enabled 
+consumer products.  
+ 
+However, it is recommended that US copyright law (existing and proposed to be amended by respective 
+acts indicated above) and related guidelines provide further clarity on issues related to reverse engineering 
+(to create “transformative products” ), to enable inter -operability etc. This will ensure that product 
+manufacturers and service providers are clear on what the law enables/frustrates upfront without having 
+to resort to expensive, protracted litigation and precedence from related case laws.  
+ 
+2. Whether, and to what extent, the design, distribution, and legitimate uses of products are being 
+enabled and/or frustrated by the application of existing copyright law to software in everyday 
+products 
+ 
+We referred some of the case laws involving the design, distribution and legitimate users of products 
+containing copyrighted software. It is seen from these examples that copyright law enables these aspects 
+of software-enabled consumer products. However, it was seen that in each case, the district court initially 
+granted an injunction to the plaintiff citing a case of copyright infringement. When each case was appealed 
+to the Federal circuit, the cases were decided in favor of the defendant, on grounds relating to fair use, 
+merger doctrine, DMCA, first sale doctrine and other aspects that form an integral part of copyright law. 
+ 
+The asymmetry of information, market power and financial capacity in the context of such litigation by 
+product owners and copyright holders may lead to a di sincentive for consumers or third party innovators 
+to defend their rights in every case to its logical end. It is therefore recommended to bring out further clarity 
+in the US copyright law and related guidelines for all concerned stakeholders to minimize dependency on 
+case laws for precedence in such cases.  
+ 
+i) In a specific instance, copying of a copyrighted software of a gaming products company (e.g. reverse 
+engineering the BIOS) during the development of an emulator software by a competitor firm, first by using 
+the unchanged software to develop emulation for t he hardware, and then by developing a BIOS of their 
+own does not constitute copyright infringement but is covered by fair use. This was especially so, as the 
+final product of the competitor firm did not contain any infringing material. The court thereby he ld that the 
+design of the competitor product was “moderately transformative” and permitted the distribution and 
+legitimate use of the competitor product, thus enabled by the application of existing copyright law to 
+software in everyday products. The applic ation of copyright law in this context helped to ensure that the 
+business does not enjoy a monopoly.  
+ 
+ii) In another instance, the court ruled that where reverse engineering is the "only means of gaining access 
+to . . . unprotected aspects of the program, such copying is a fair use. The court judge the case based on 
+the fair use provisions to decide whether the defending party had infringed on the code of the plaintiff. 
+Considering that the defending party had to make a copy of the plaintiff’s code and de -compile it to
+
+[PAGE 3]
+ 
+ 
+  Page 3 of 4 
+ 
+ 
+determine the password required to make its devices interoperable with that of the plaintiff’s, the case was 
+decided by the court in favor of the defendant.  
+ 
+In reaching its decision, the court noted that: [W]e are free to consider the public benefit resulting from a 
+particular use notwithstanding the fact that the alleged infringer may gain commercially. Public benefit 
+need not be direct or tangible, but may arise because the challenged use serves a public interest. It is 
+precisely this growth in creative expression, based on  the dissemination of other creative works and the 
+unprotected ideas contained in those works, that the Copyright Act was intended to promote. This case 
+also shows that copyright law is enabling the design, distribution and legitimate uses of software-enabled 
+consumer products. 
+ 
+iii)  In another instance, the court analyzed the case of circumvention of the plaintiff’s authentication system 
+both from the perspective of possible violation of the Digital Millennium Copyright Act  (DMCA) and also 
+taking into consideration the idea/expression dichotomy aspects. The court held that a program cannot be 
+copyrightable based on the assumption that it could be written in a number of ways without considering 
+the practical realities. Also, from the DMCA claims made by the plaintiff, the court ruled that since the 
+authenticated sequence did not “co ntrol access” to the program which the defendant needed for 
+interoperability purposes and that the purchase of the plaintiff’s device itself allowed access to the 
+program, it was decided that the defendant did not violate DMCA.  
+ 
+Since the concluding opinion was that even if the programs involved were more complex (and thus more 
+deserving of copyright protection), the key question would be the purpose of the circumvention technology. 
+If a third party manufacturer's use of a circumvention technology was inte nded only to allow its products 
+to interoperate with another manufacturer's, and not to gain any independent benefit from the functionality 
+of the code being copied, then that circumvention would be permissible. 
+ 
+The copyright law thus was interpreted by the court to serve as an enabler to allow interoperability between 
+the defendant’s programs and the plaintiff’s devices. Further the court ruled that companies cannot use 
+DMCA in conjunction with copyright law to create monopolies of manufacturer goods for themselves. 
+ 
+3. Whether, and to what extent, innovative services are being enabled and/or frustrated by the 
+application of existing copyright law to software in everyday products;  
+ 
+While the ownership of the copy righted software rests with the author(s) of such copyrighted work, 
+copyright law also allows/would allow the owner of the program to make another copy or adaptation for 
+use on a computer or to allow circumvention of a technological measure for indicative service related 
+scenarios as indicated below. 
+ 
+Permitting the reproduction of computer programs for the purposes of machine maintenance or repair has 
+been shown to be enabled by copyright law, as evidenced by various copyright related case laws. This 
+clearly includes transformation of computer hardware/firmware of a consumer product enabled by software 
+to extend the capabilities of the product or for modifying it to repurpose it for uses other than its originally 
+intended use by the maker  or to offer a ncillary services (e.g. research and services in diagnosis and 
+resolution of security/encryption technologies) around software-enabled consumer products. Overall, this 
+will boost innovative services to be offered by organizations in addition to that provided by the  product 
+manufacturers themselves  and inject further innovation in the overall consumer product and/or service 
+ecosystem.  
+ 
+In many areas such as automotive, consumer electronics, medical devices etc. , the boost to innovative 
+services that m ay be offered by the ancillary service organizations  (e.g. investigation/diagnosis and 
+resolution services in various industries) would have a positive impact in creating a competitive services 
+ecosystem for a software-enabled consumer product, and a lowered total cost of ownership of the same.
+
+[PAGE 4]
+ 
+ 
+  Page 4 of 4 
+ 
+ 
+All in all, existing US copyright law enables the realm of innovative services in the context of software in 
+everyday products. As in the case of products, it is recommended to have as much clarity as possible in 
+the US copyright law to cater to different categories of innovative services. 
+ 
+4. Whether, and to what extent, legitimate interests or business models for copyright owners and 
+users could be undermined or improved by changes to the copyright law in this area 
+ 
+Business models for consumer products and services are evolving at a rapid rate . The production and 
+supply chain for a software -enabled consumer product  is becoming increasingly global in nature . A 
+consumer product today (manufactured in the US or whose manufacturing may be outsourced to any other 
+country) may have a large number of software and hardware components sourced from different parts of 
+the world, each with their own copyright laws  (that may differ from US copyri ght law ) and business 
+practices (relating to treatment of aspects discussed in this study).  
+ 
+Also, with the increasing importance of cloud based products/services, a consumer product’s functionality 
+will increasingly be dependent upon, controlled by or extended in a significant way by software on the 
+cloud. This also will lead to national boundaries bei ng crossed in the matter of rights of copyright owners 
+and users and also the rights of any third parties making interoperable products or services (either 
+imported through physical boundaries or online connections).  
+ 
+It is therefore important that any change/advancements in US copyright law considers implications of this 
+globally connected supply chain of components and services. 
+ 
+The rights of copyright owners and manufacturers of software-enabled consumer products on one hand, 
+consumers and users on the other, and third party interoperable product and service providers need to be 
+balanced to lead to a more sustainable innovation ecosystem. It is recommended therefore that US 
+copyright law and related guidelines be closely monitored to see if it can keep pace with the evolving 
+business models and legitimate interests of all stakeholders in this arena.  
+ 
+5. Key issues in how the copyright law intersects with other areas of law in establishing how 
+products that rely on software to function can be lawfully used. 
+ 
+From the various examples seen above, it is seen that the reverse engineering of consumer products,  
+including th e software enabling them, for purposes of creating transformative products or for enabling 
+interoperability or for offering ancillary services should be explicitly enabled by copyright law.  
+ 
+These rights should not extend to enabling distribution, sale or  lease of multiple copies of the original 
+consumer product – a basic protection offered to copyright rights owner.  Similarly any other IP rights that 
+are associated with the original product such the patents, trademarks and trade secrets, need to continue 
+to be honored. Beyond this, any limits on lawful use of the product should be governed by relevant laws 
+on consumer protection, warranty, safety, environmental and other laws of the land. 
+ 
+Once this is ensured, it can be safely said that the objective of copyright law is indeed to promote the 
+progress of science and useful arts (and in this context – the software-enabled consumer products and 
+services) and to not hinder/limit the same.

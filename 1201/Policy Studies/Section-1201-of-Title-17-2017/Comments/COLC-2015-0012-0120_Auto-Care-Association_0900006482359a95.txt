@@ -1,0 +1,380 @@
+[PAGE 1]
+1
+Before the 
+United States Copyright Office, Library of Congress
+Washington, D.C.
+In the Matter of )
+Section 1201 Study: ) Docket No. 2015-8
+Request for Additional Comments )
+Additional Comments of Auto Care Association
+Auto Care Association (“Auto Care”) submits these additional comments in response to 
+the September 27, 2016 Notice of Inquiry (“NOI”).1 Auto Care is a national trade organization of 
+3,000 members representing more than 150,000 independent businesses that manufacture, 
+distribute, and sell motor vehicle parts, accessories, tools, equipment, materials, and supplies, 
+and perform vehicle service and repair. As Auto Care explained in its Comments in this 
+proceeding:
+Ø The independent aftermarket industry employs more than 4,300,000 people in the 
+United States. 
+Ø Nearly $341 billion dollars was spent on motor vehicle care in the United States in 
+2015, or more than 1.9 percent of the U.S. gross domestic product.
+Ø Following expiration of a new car warranty, over 70 percent of car owners who 
+patronize auto repair shops rely on independent repair shops over new car dealers.
+Ø Approximately 20 percent of American consumers buy automotive parts and products 
+to maintain, repair, and customize their own vehicles. 
+Original equipment manufacturers (“OEMs”) increasingly use firmware and 
+software to control the function and operation of motor vehicle parts.2 In 2000, a typical 
+SUV had fewer than ten (10) modules with embedded software controllers.  By the 2015 
+model year, that same vehicle model incorporated 70 or more software units. Exhibit 1 
+illustrates more than 45 functions in a typical modern automobile that are controlled by 
+   
+1 Auto Care previously submitted comments to the Copyright Office and the Librarian of 
+Congress on these subjects, and participated in the Copyright Office Roundtables on May 18-20, 
+2016.  See Comments of Auto Care Association, In the Matter of Section 1201 Study: Notice and 
+Request for Public Comment, Dkt. No. 2015-8 (March 3, 2016), available online at 
+https://www.regulations.gov/document?D=COLC-2015-0012-0036; Comments of Auto Care 
+Association, In the Matter of Software-Enabled Consumer Products Study: Notice of Inquiry and 
+Request for Public Comment, Dkt. No. 2015-16 (Feb. 16, 2016), available online at 
+http://www.regulations.gov/#!documentDetail;D=COLC-2015-0011-0011.
+2 See Robert N. Charette, “This Car Runs on Code,” IEEE Spectrum (Feb. 11, 2009), 
+http://spectrum.ieee.org/transportation/systems/this-car-runs-on-code (last visited Oct. 20, 2016); 
+National Instruments, “ECU Designing and Testing using National Instruments Products,” (Nov. 
+7, 2009) http://www.ni.com/white-paper/3312/en/ (last visited Oct. 20, 2016).
+
+[PAGE 2]
+2
+electronic modules with embedded software.3  Software modules also control 
+“telematics” that restrict wireless access to vehicle diagnostic information to only the 
+OEM-authorized servicers. 
+Vehicle repair fills a critical need for consumers and business. According to the U.S. 
+Department of Transportation, in 2014 more than 260,350,000 automobiles,4 and more than 
+135,000,000 trucks and truck-tractors,5 were registered in the United States.  The need to repair, 
+customize, or replace the software in these motor vehicles has attained greater importance as
+American consumers and businesses keep their cars and trucks in service longer. On average, 
+new car buyers in 2015 will keep their vehicles for 6.5 years, and used car buyers keep those cars 
+on the road for 5.3 more years – a total of more than 11-1/2 years, and more than 4 years longer 
+than the average in 2006.6 As cars advance in age, so does the need for consumers and 
+businesses to repair and replace vehicle parts.  
+Vehicle repair also contributes to a cleaner environment.  Repair and customization 
+improves vehicle performance and efficiency, increases gas mileage and reduces energy 
+consumption, and lowers emissions. Repair of motor vehicles using repaired, reconditioned, and 
+rebuilt automotive parts typically re-uses 88 percent of the raw material from the original parts, 
+and rebuilding engines saves 50 percent of the energy required to produce a new engine.
+Consumers and businesses prefer to obtain parts and service from independent businesses 
+rather than dealerships— benefitting from reduced costs, greater convenience, and higher 
+consumer satisfaction.7 Parts and service from independent manufacturers and repair shops cost 
+less than OEM parts and service, and competition from these independents constrains 
+supracompetitive pricing by OEMs. Independent repair businesses have the equipment, 
+knowledge, and experience necessary to address the consumer’s problem accurately and in 
+compliance with laws and regulations pertinent to motor vehicles.8
+   
+3 Electronic control units in motor vehicles also may include databases or compilations, 
+such as of numeric parameters used to control system performance. References to “software” in 
+this comment should be read to include any such databases or compilations to the extent they are 
+contended to be copyright-protected.
+4 U.S. Department of Transportation, Federal Highway Administration, Highway Statistics 
+2014, http://www.fhwa.dot.gov/policyinformation/statistics/2014/mv1.cfm
+5 Id., http://www.fhwa.dot.gov/policyinformation/statistics/2014/mv9.cfm
+6 News Release, IHS, “Average Age of Light Vehicles in the U.S. Rises Slightly in 2015 to 
+11.5 years,”  July 29, 2015, http://press.ihs.com/press-release/automotive/average-age-light-
+vehicles-us-rises-slightly-2015-115-years-ihs-reports; Phil LeBeau, “Americans holding onto 
+their cars longer than ever,” CNBC (July 29, 2015) http://www.cnbc.com/2015/07/28/americans-
+holding-onto-their-cars-longer-than-ever.html  
+7 “Independent vs. dealer shops for car repair,” Consumer Reports, Jan. 22, 2015, 
+http://www.consumerreports.org/cro/magazine/2015/03/best-places-to-get-your-car-
+repaired/index.htm
+8 In that regard, it is particularly regrettable that the triennial ruling denied the exemption 
+to businesses, acting “on behalf of” their customers, that have the experience and wherewithal to 
+both circumvent the technological protection measure and effect repairs compliant with
+
+[PAGE 3]
+3
+Consumers and businesses have the right to repair their motor vehicles at their 
+preferred repair shops, and independent repair shops have the right to provide consumers 
+with necessary parts and service. Cleaning, repairing, and refurbishing parts, and 
+replacing worn or broken parts for automobiles has long been held permissible repair 
+under patent law9 and trademark law10— without imposing any restrictions on whether 
+those repairs or refurbishments are performed by the owner of the article or someone 
+acting on their behalf. The analogous right to repair a copy of a copyrighted work, 
+consistent with the law of exhaustion and Section 109, cannot be doubted and should not 
+be denied to either the owners or lessees of a copy or someone acting on their behalf.  
+Especially, these rights should not be denied with respect to embedded software that 
+controls functional operations of physical machines.
+Yet, as the former Register observed in testimony last year, many consumers 
+justifiably are concerned that copyright law suddenly interferes with their reasonable and 
+customary rights to freely repair and customize the products they buy.11  Auto 
+manufacturers have deployed technological measures over their electronic control 
+modules not to protect copyrights, but ultimately to thwart competition— to prevent 
+independent servicers and consumers from making repairs and routine maintenance. 
+Some manufacturers design their technological measures to preclude use of non-OEM 
+replacement parts, such as by tying the copy of the embedded software to the car’s unique 
+Vehicle Identification Number, or by shutting down operations where the vehicle does 
+not use “authorized” replacement parts.12 In two cases, federal district courts have
+dismissed automaker complaints under the DMCA— in one case, where the technological 
+measure protected access to the electronic control module itself, and not to the embedded 
+      
+environmental and other regulations. Notwithstanding, Section 1201 grants no authority to limit
+exemptions based on considerations other than the protection of copyrighted works.
+9 Aro Mf’g Co. v. Convertible Top Replacement Co., 365 U.S. 336 (1961) (replacing fabric 
+convertible tops); Dana Corp. v. American Precision Co., 827 F.2d 755 (Fed. Cir. 1987) 
+(rebuilding automobile clutches using new parts and used parts from many disassembled worn 
+clutches held permissible repair).  
+10 Champion Spark Plug Co. v. Sanders, 331 U.S. 125 (1947) (use of OEM trademark to 
+accurately identify repaired and reconditioned auto parts is permissible under Lanham Act).
+11 See “The Register’s Perspective on Copyright Review,” Statement of U.S. Register of 
+Copyrights Maria A. Pallante before the Committee on the Judiciary, U.S. House of 
+Representatives at 23-34 (Apr. 29, 2015), available online at 
+http://copyright.gov/laws/testimonies/042915-testimony-pallante.pdf.
+12 In the context of replacement parts for computer printers, see Lexmark v. Static Control, 
+387 F.3d 522, 530 (6th Cir.2004) (technological protection measure on printer cartridge chip 
+prevented use of “unauthorized” toner cartridges); Alex Hern, “HP ‘timebomb’ prevents inkjet 
+printers from using unofficial cartridges,” The Guardian (Sept. 20, 2016). 
+https://www.theguardian.com/technology/2016/sep/20/hp-inkjet-printers-unofficial-cartridges-
+software-update (last visited Oct. 20, 2016).
+
+[PAGE 4]
+4
+software;13 and in another case, where technological measures were circumvented solely 
+for the purpose of accessing non-copyrightable data and operating parameters in the 
+embedded software.14
+The focus of Section 1201 is on the protection of rights arising under copyright.  Yet, 
+these technological measures on their face protect business models, not rights granted under 
+Section 106. Auto Care submits that these measures misuse Section 1201 just as the makers of 
+garage door openers15 and printer cartridges16 did, by invoking laws intended to protect 
+copyrighted works for the purpose of locking out competition for non-copyrightable parts and 
+services. As the concurrence in the Static Control case warned: 
+[M]anufacturers could potentially create monopolies for replacement parts simply by 
+using similar, but more creative, lock-out codes. Automobile manufacturers, for example, 
+could control the entire market of replacement parts for their vehicles by including lock-
+out chips. Congress did not intend to allow the DMCA to be used offensively in this 
+manner, but rather only sought to reach those who circumvented protective measures ‘for 
+the purpose’ of pirating works protected by the copyright statute.17
+Auto Care urged the Copyright Office in its prior comments in this proceeding to 
+reinforce the metes and bounds of Section 1201, and affirm that Section 1201 does not 
+apply where the measure protects either the nonexpressive or noncopyrightable aspects of 
+embedded software or the markets for physical objects controlled by the software.  
+Auto Care welcomes the invitation of the Copyright Office to provide additional 
+comments and input on the solutions needed to secure the right to repair and to realign
+the DMCA with its intended purpose. Auto Care responds below to Subjects of Inquiry 
+sections 1(c), 2, and 3.
+I. Response to 1(C):  A Permanent Exemption is Warranted for Circumvention 
+of Access TPMs for Purposes of Analysis, Customization, Repair, and 
+Replacement of Control Software in Motor Vehicles.
+A. Scope of the Proposed Permanent Exemption
+Auto Care would welcome the adoption of a permanent exemption for circumvention of 
+software that controls the function and operation of motor vehicle products.  Such an exemption 
+should cover all activities necessary for the repair or customization of a motor vehicle, including:
+   
+13 General Motors LLC v. Dorman Products, Inc., No. 15-12917 (E.D. Mich. Sept. 30, 
+2016).
+14 Ford Motor Company v. AUTEL US Inc., No. 14-13760, Opinion and Order, (E.D. Mich. 
+Sept. 30, 2015).
+15 Chamberlain Group v. Skylink Tech., Inc., 381 F.3d 1178 (Fed. Cir. 2004).
+16 Lexmark Int’l Inc., v. Static Control Components, supra n.7.
+17 Id., 387 F.3d at 552 (Merritt, J., concurring).
+
+[PAGE 5]
+5
+Ø accessing the software; 
+Ø making interim copies of the software; 
+Ø analyzing the software code; 
+Ø altering the software code for the purposes of repair or customization, or developing a 
+noninfringing software program to be used in lieu of all or part of the OEM-supplied 
+software; 
+Ø making a replacement copy of the software with any such alterations; and,
+Ø embedding that replacement copy in either the original part or a refurbished or 
+replacement part.
+Each of these rights must be clearly accommodated in the exemption so that every business and 
+individual will have a full and meaningful right to repair. 
+The exemption also must encompass all steps necessary to analyze the embedded 
+program. Diagnosis of the problem to be repaired and maintenance and repair of the motor 
+vehicle all are essential to rectifying the performance and operational issues of concern to vehicle 
+owners or lessees. However, the first step to solving consumers’ needs is understanding what the 
+embedded program is and how it works.  Without that initial analysis, aftermarket businesses and 
+consumers cannot correct, adjust, or adapt the software or develop an alternative solution.18
+B. The Exemption Must Extend to Service Businesses that Act On Behalf Of 
+a Vehicle Owner or Lessee.
+This exemption cannot be limited to just an individual consumer or business who owns or 
+leases a motor vehicle. An exemption, once justified, must be available equally to all members of 
+the class. To achieve that end, all persons entitled to the exemption must be permitted to retain 
+the services of third parties acting on their behalf.  
+As noted above, and in Auto Care’s initial Comments in this proceeding, third party 
+businesses have every right to provide vehicle owners with repair, maintenance, and 
+customization services under patent law. Other federal and state laws protect consumers’ right to 
+obtain independent repair services, such as laws limiting OEM attempts to void equipment 
+warranties.19 There is no rationale by which copyright law should restrict such services where 
+software essentially performs the mechanical functions of hardware, often substituting functions 
+once performed by hardware alone.
+Given the complexity of the electronic control units, specialized tools and knowledge 
+often are required for customization and repair. Moreover, knowledge of cryptographic 
+techniques and coding is necessary to circumvent technological locks. Servicers possess in-depth 
+specialized knowledge of vehicle mechanics that benefits consumers. These servicers possess the 
+   
+18 To the extent that making a copy of the program facilitates that analysis, such 
+intermediate copying should be deemed noninfringing fair use. See, Sega Enterprises Ltd. v. 
+Accolade, Inc., 977 F.2d 1510 (9th Cir. 1992).
+19 See, e.g., Magnuson-Moss Warranty Act, 15 U.S.C. § 2301 et seq.
+
+[PAGE 6]
+6
+tools and skill to efficiently and effectively diagnose and address vehicle issues that many 
+consumers cannot or prefer not to tackle themselves. Servicers understand how particular vehicle 
+electronic control systems interact with other software-controlled systems, and so can anticipate 
+and adjust the repair to one system to correctly interoperate with the vehicle’s entire software 
+ecosystem. Many consumers today have even the most basic maintenance and repair services 
+performed by a third party servicer.  Thus, the only practical way to exercise this exemption is to 
+allow repair services to also provide more complex software-controlled maintenance, repair, and 
+customization as well. Without an “on behalf of” right, the exemption can be easily nullified by 
+interposing a proprietary physical interface or by increasing the complexity of the program code 
+of the technological measure beyond the skills of all but a few of the hundreds of millions of 
+consumers who otherwise should benefit from the exemption. Where class members lack the 
+means to benefit from the exemption, Auto Care submits the Copyright Office has a duty to 
+make the exemption meaningful by extending the exemption to servicers acting on behalf of the 
+vehicle owner or lessee.
+Auto Care therefore continues to support an exemption along the lines of the petitioners’ 
+proposal:
+The exempted class allows circumvention of a TPM protecting a computer
+program that controls the functioning of a motorized land vehicle, including 
+personal automobiles, commercial motor vehicles, and agricultural machinery, 
+for purposes of lawful analysis, diagnosis and repair, or aftermarket 
+personalization, modification, or other improvement, including programs that 
+modify the code or data stored in such a vehicle and including compilations of 
+data used in controlling or analyzing the functioning of such a vehicle.  The 
+exemption further allows circumvention when undertaken by or on behalf of the 
+lawful owner or lessee of the vehicle, or of a computer to which the computer 
+program or data compilation relates.
+C. A Permanent Exemption Alone is Not Sufficient; an Exemption is Needed for the 
+Creation and Distribution of Circumvention Tools.  
+An exemption that extends only to the act of circumvention will not be widely available 
+to all members of the class. Extending the exemption to servicers who act on behalf of class 
+members partially ameliorates this disparity of access, but does not fully resolve it. To provide 
+effective service to vehicle owners, servicers must be able to circumvent technological measures 
+and repair software in dozens, if not hundreds, of vehicle makes and models. The complexity and 
+cost involved may prove prohibitive for servicers, whose employees typically are expert in auto 
+mechanics rather than cryptography or coding. The resulting expense of individualized 
+circumvention and software analysis and repair would make the exemption impractical, thus 
+driving consumers back to the OEM dealership and effectively nullifying the purpose and benefit 
+of the exemption. 
+The rational solution to this dilemma is to permit companies with expertise in software 
+development to develop and make circumvention and repair solutions available to servicers and 
+consumers. This provides obvious benefits to the market and the public. Vehicle repair software
+
+[PAGE 7]
+7
+will be of consistently high quality and reliability. And the costs of circumvention and software 
+repair can be spread among the many thousands of servicers that acquire the solution, rather than 
+be shouldered by each individual consumer. Moreover, a right to distribute these software 
+solutions creates no undue risks to copyright owners. Because the circumvention tools will be 
+specialized for particular types of automobile software, the tools themselves would only enable 
+competition for repair of embedded software without creating general risks of circumvention or 
+infringement for non-specialized computer software or expressive copyrightable works.
+Auto Care therefore respectfully submits that, if legislation is contemplated or required to 
+secure a meaningful right of vehicle repair, such legislation must encompass the right of 
+servicers to engage in repair on behalf of the class of vehicle owners and lessees; the right to 
+circumvent for purposes of analysis as well as diagnosis, maintenance, and repair; and the right 
+to create circumvention tools and replacement software that can be made available to such 
+servicers and consumers.
+D. Existing Legal Constructs Do Not Fully Address the Needs of the Exempt Class.
+As Auto Care wrote in its initial Comments in this proceeding, neither Section 117 nor 
+Section 1201(f) adequately and clearly addresses the right of consumers to repair vehicles with 
+embedded software. Processes necessary to perform vehicle repairs are not limited to the making 
+of archival copies or copies in temporary memory, and the circumvention at issue may not be 
+solely for the purpose of facilitating interoperability with independently created programs. None 
+of these exceptions is sufficient to enable vehicle repair, customization, and maintenance.  
+Similarly, while these activities would constitute fair use under Section 107, as a practical matter 
+a finding of fair use arises only as a defense to a claim of infringement. The expense of litigation, 
+and the threat of statutory damages, would inevitably chill competition in the vehicle repair 
+aftermarket from services and software developers that otherwise indisputably would be entitled 
+to engage in repair under patent and trademark law. 
+Likewise, with respect to Inquiry Section 2, while the Section 1201(j) exemption for 
+security research, the 2015 exemption for good-faith security testing, and the Section 1201(g) 
+exception for encryption research remain valuable for other purposes, none of these exemptions
+addresses the needs of vehicle repair. 
+Finally, the Massachusetts “Right to Repair” law and the voluntary Memorandum of 
+Understanding with the vehicle manufacturers which extended the requirements to the entire 
+country do not adequately address the consumer issues created by embedded software. The right 
+to repair laws and the national agreement only mandate that car companies make available to 
+independents the same repair information, tools, and software that they make available to their 
+dealers. These laws do not cover the need by repair shops to use or copy software for the 
+installation of aftermarket parts that must work with other vehicle systems with embedded 
+software, or the needs of companies that could develop such parts. Ultimately, neither state laws 
+nor limited voluntary agreements eliminate the impediments erected by the overbreadth of 
+Section 1201. Only federal legislation or regulation can ameliorate those flaws.
+
+[PAGE 8]
+8
+II. Anti-Trafficking Provisions Must Not Apply to Tools that Enable Lawful Vehicle 
+Repair.
+As described in Auto Care’s initial Comments, and as noted above, Auto Care members’ 
+experiences show that, in the case of embedded software, both the act of circumvention and the 
+ability to make effective noninfringing uses can be technologically beyond the reach of the 
+ordinary consumer. In such circumstances, copyright policy would be frustrated by limiting the 
+exemption to only individual vehicle owners who possess extraordinary knowledge and tools. 
+For the exemptions to be more than empty promises, professional aftermarket companies must 
+have the right to develop and distribute circumvention tools and replacement software to 
+servicers; and servicers must have the right have the right to provide maintenance, repair, and 
+customization services to business and individual consumers.  
+Auto Care believes that no violation of Section 1201(a) and (b) occurs where OEMs 
+deploy technological measures to prevent aftermarket competition in products that use embedded 
+software (rather than specifically to protect expressive non-functional aspects of copyrighted 
+computer programs). However, Auto Care and its members cannot ignore the fact of chilling 
+effects and the substantial costs and risks involved in litigating lawsuits that already have been or 
+are being litigated on this precise question. Moreover, broad support was voiced in comments 
+and during the roundtable sessions that Section 1201 was never intended to preclude otherwise 
+lawful motor vehicle repair, regardless of whether it involves embedded control software.  
+Therefore, Auto Care proposes on the following page, for discussion, a draft new exemption
+denominated as subsection Section 1201(l) which would exempt from liability under Section 
+1201(a) and (b) the provision of repair services for products that contain embedded control 
+software, and the development and distribution of tools that make such services feasible. This 
+discussion draft addresses the repair of products with embedded software generally. Auto Care 
+would have no objection if this exemption were more limited in scope to only address the needs 
+of businesses that compete in the motor vehicle aftermarkets for the development, manufacture, 
+distribution or provision of parts and service, and the rights of the owners and lessees of such 
+motor vehicles.
+Auto Care thanks the Copyright Office for its continuing efforts in furtherance of this 
+Study.  We look forward to continuing our participation in this proceeding.  Should the Office 
+have any questions, please feel free to contact us at your convenience.
+Respectfully submitted, 
+Date:  October 27, 2016 /s/ Aaron Lowe
+Aaron Lowe
+Senior Vice President, Regulatory and Government Affairs
+Auto Care Association
+7101 Wisconsin Ave., Suite 1300
+Bethesda, MD 20814
+301-654-6664, ext. 1021
+www.autocare.org
+
+[PAGE 9]
+9
+Discussion Draft Proposal of Auto Care Association
+Section 1201(l) PERMISSIBLE REPAIR OF PRODUCTS WITH EMBEDDED SOFTWARE.—
+(1) CIRCUMVENTION PERMITTED. — Notwithstanding the provisions of subsection (a)(1)(A), it is 
+not a violation of that subsection to circumvent a technological measure that effectively controls 
+access to embedded software for the purpose of performing repair or service. 
+(2) PERMISSIBLE MANUFACTURE, IMPORTATION, AND TRAFFICKING. — Notwithstanding the 
+provisions of subsection (a)(2) and subsection (b), it is not a violation of those subsections to 
+manufacture, import, offer to the public, provide, or otherwise traffic in any technology, product, 
+service, device, component, or part thereof that is designed and marketed for the purpose of, and 
+that is capable of—
+(A) circumventing a technological measure as permitted in paragraph (1), or
+(B) circumventing a technological measure that effectively protects a right of a copyright 
+owner under this title in embedded software for the purpose of performing repair or 
+service.
+(3) DEFINITIONS. — As used in this subsection, the following terms have the following meanings:
+(A) “Embedded software” is a computer program or compilation protected under this 
+title, which is embodied in a machine or product and which—
+(i) controls the operation of such machine or product, or the interoperation of such 
+machine or product with another machine or product, and, 
+(ii) is not designed or marketed for the primary purpose of causing the display, 
+reproduction, or performance to the public of a work other than a computer program.
+(B) “Repair or service” means—
+(i) the replacement, repair, alteration, or customization of, or the provision of 
+services for, a machine or product or the embedded software in such machine or product, 
+by or on behalf of the owner or lessee of such machine or product, or 
+(ii) the making and distribution of physical parts or a computer program to 
+perform such repair or service.
+(C) “Machine or product” includes a part or component thereof, including a physical part 
+or component and computer software.
+
+[PAGE 10]
+Exhibit 1
+Electronic Modules Controlled by Embedded Software

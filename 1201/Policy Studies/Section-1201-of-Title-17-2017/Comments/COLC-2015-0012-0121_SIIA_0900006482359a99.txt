@@ -1,0 +1,140 @@
+[PAGE 1]
+1 
+ 
+ 
+Docket No. 2015-8 
+Section 1201 Study 
+Surreply Comments of the Software and Information 
+Industry Association 
+October 27, 2016 
+The Software and Information Industry Association (SIIA) 
+appreciates the opportunity to respond to the Copyright Office’s 
+additional request for comments. 1    SIIA is the principal trade 
+association of the software and  information industries and 
+represents over 800 companies that develop and market 
+software and digital content for business, education, consumers, 
+the Internet, and entertainment.   SIIA’s members range from 
+start-up firms to some of the largest and most recognizable 
+corporations in the world, and one of SIIA’s primary missions is 
+to protect their intellectual property and advocate a legal and 
+regulatory environment that bene fits the software and digital 
+content industries. 
+Our membership has a strong interest in the continued 
+successful operation of section 1201. The record thus far 
+indicates that the statute has been an enormous success, 
+encouraging creators of films, educational works, databases and 
+others to make their materials available in digital form, and by 
+preventing the capital formation around businesses designed to 
+circumventing those tools.  Whil e we have suggested that some 
+adjustments to the rulemaking  could help to streamline 
+procedures (and that such adjustments are within the Copyright 
+Office’s regulatory discretion),  that record does not support 
+amendments to existing law. 
+The Federal Register notice as ks for input on a number of 
+issues, falling into three general categories: (1) proposals for new 
+permanent exemptions involvin g circumvention for the sight-
+                                                 
+1  81 Fed. Reg. 66296.
+
+[PAGE 2]
+2 
+ 
+disabled, device unlocking, comp uter programs, and obsolete 
+technologies; (2) amendment to the existing statutory 
+permanent exemptions, and (3) existence of an implied right of 
+manufacture under section 1201(a)(2) for those persons assisting 
+the recipient of an exemption circumvent protections to a 
+copyrighted work.  We have addressed many of these issues 
+already in our reply comments, and will not reiterate our 
+responses here, but do make th e following general comments 
+with respect to some specific  areas raised in the Federal 
+Register. 
+Proposals for new permanent exemptions 
+As the Office is well aware, Congress intended the 
+rulemaking to function as a fa il-safe when technologies and 
+business practices change.  Thus, if users are affected in their 
+ability to make non-infringing uses over a three-year period, the 
+office may exempt certain classes of works.  As importantly, if 
+the exemption needs adjustment or has become a basis for abuse, 
+its terms can be adjusted in three years with comparative 
+efficiency.   
+In light of that fact, it seems that the Office is asking the 
+questions in the wrong order.  Legislative amendment eschews 
+regulatory flexibility.  It would seem to us that the need for 
+legislative change ought to be ev aluated in the context of the 
+regulatory procedure as the Office has amended it. Indeed, it 
+would seem to make more sense for those seeking amendment 
+to the statute to explain both their need for a permanent 
+exemption and why the Office’s changes to the procedure are 
+insufficient.   As mentioned above, we do not believe that any 
+such record exists, but look fo rward to reviewing what other 
+commenters may say on this issue.   
+Proposals for amendment of existing exemptions 
+The request for additional comments also asks commenters to 
+discuss amendments to existing permanent exemptions.  SIIA 
+has a particular interest in those relating to computer software: 
+our membership includes a variety of large and small software
+
+[PAGE 3]
+3 
+ 
+providers.  The existing statutory exemptions in section 1201(f) 
+(reverse engineering); 1201(g) (encryption research); and 1201(j) 
+(security testing) were the result of careful negotiation.  Those 
+negotiations successfully balance le gitimate interest in each of 
+these activities against risks of infringement, and have 
+prevented harmful activity from occurring under the guise of 
+exempted activity.2    
+Indeed, we note that enactment of the statute came complete 
+with multiple predictions of impending doom for both encryption 
+and first sale.  Congress ordered the Copyright Office to study 
+both issues in consultations with the Department of Commerce, 
+and the parade of horribles predicted by the legislation’s 
+opponents simply did not appear. Once again, the record appears 
+scant for amendments to these exemptions.  
+Anti-trafficking provisions 
+As we have mentioned, the anti-trafficking provisions are 
+essential to implementing the st atute’s policy.  As SIIA (and 
+others) discussed in our reply comments, Congress intended the 
+trafficking provisions to prevent anti-circumvention tools from 
+becoming a commercially viable activity.  
+The request for additional comments asks whether an implied 
+right for third-party activities exists. The text and structure of 
+the statute foreclose that conclusion.  We note that, for example 
+section 1201(g)(2) expressly applies only to acts of circumvention 
+under section 1201(a)(1)(A), and not to acts of trafficking under 
+section 1201 (a)(2).
+3  In contrast, section 1201(f)(2) permits 
+trafficking in devices designed  to circumvent technological 
+                                                 
+2  E.g., Universal City Studios, Inc. v. Reimerdes, 111 F. Supp. 
+2d 294, 319 (S.D.N.Y.) (rejecting application of reverse engineering 
+defense), judgment entered, 111 F. Supp. 2d 346 (S.D.N.Y. 2000), aff'd 
+sub nom. Universal City Studios, Inc. v. Corley, 273 F.3d 429 (2d Cir. 
+2001). 
+3  See also, e.g.,  17 U.S.C. § 1201(j)(2) (limiting applicability of 
+security testing exemption to acts of circumvention under 17 U.S.C. § 
+1201(a)(1)(A)); 
+id. § 1201 (f)(1) (containing a similar limitation to 
+section 1201(a)(1)(A)).
+
+[PAGE 4]
+4 
+ 
+measures for a lawful circumvention purpose.  The statute 
+permits the creation of circumvention devices in some 
+circumstances, and proscribes them in others.  While a limited 
+sample of commenters might disagree with Congress’s choices in 
+this respect, SIIA does not.  In any event, the legislature has 
+made its intent plain. 
+ Thank you for the opportunity to submit our views. 
+ 
+Respectfully submitted, 
+     
+ 
+    
+Christopher A. Mohr 
+Vice President for Intellectual 
+Property and General Counsel 
+Software and Information Industry 
+Association

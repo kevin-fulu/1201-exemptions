@@ -1,0 +1,971 @@
+[PAGE 1]
+	   1	  
+Before the U.S. COPYRIGHT OFFICE, LIBRARY OF CONGRESS  In the Matter of  Section 1201 Study; Notice and Request for Public Comment Docket No. 2015-8  Comments of Electronic Frontier Foundation  March 3, 2016  Submitted by:        Mitch Stoltz Corynne McSherry Kit Walsh Electronic Frontier Foundation 815 Eddy Street San Francisco, CA 94109 Telephone:  (415) 436-9333 mitch@eff.org    The Electronic Frontier Foundation (EFF) appreciates the Copyright Office’s efforts to take stock of the real-world impact of Section 1201 of the Digital Millennium Copyright Act, including the triennial rulemaking process. EFF is	  a	  member-­‐supported,	  nonprofit,	   public	   interest	   organization	   dedicated	   to	   ensuring	   that	   copyright	   law	  advances	  the	  progress	  of	  science	  and	  the	  arts	  and	  enhances	  freedom	  of	  expression.	  Founded	   in	   1990,	   EFF	   represents	   tens	   of	   thousands	   of	   dues-­‐paying	   members,	  including	  consumers,	   hobbyists,	   computer	   programmers,	   entrepreneurs,	   students,	  teachers,	  and	  researchers,	  who	  are	  united	  in	  their	  desire	  for	  a	  balanced	  copyright	  system	   that	   provides	   adequate	   incentives	   for	   creators,	   facilitates	   innovation,	   and	  ensures	  broad	  access	  to	  information	  in	  the	  digital	  age.   EFF has been actively involved in issues surrounding Section 1201 since before its enactment in 1998. EFF has proposed exemptions to Section 1201’s ban on circumvention of technological measures in most of the triennial rulemakings, and the Librarian has granted many of EFF’s proposals. Some of EFF’s proposals have concerned access to traditional creative media such as video to enable fair uses in the arts. In the past two rulemaking cycles, however, EFF’s proposals and the majority of all proposals have shifted towards issues of access to software embedded in consumer goods and personal devices.
+
+[PAGE 2]
+	   2	  
+In the recently concluded rulemaking, proposals addressed phones and other mobile computing devices, automobiles, 3D printers, and personal medical devices.1 Proponents of these exemptions gave compelling evidence that the ban on circumvention of technological measures was inhibiting a broad array of important and lawful activities.2 Other parties encouraged the Copyright Office to deny these proposals, arguing that Section 1201 can and should be used to promote various regulatory goals other than those of copyright law.3 Many of these oppositions were, we believe, motivated primarily by incumbent technology providers’ desire to use Section 1201 to inhibit lawful competition, lock customers into ongoing relationships, and conceal security vulnerabilities or other product defects from the public. Others were, at a minimum, based on purely speculative copyright “harms.” Section 1201 was in no way intended to address non-copyright policy concerns. The Office’s receptiveness to such concerns is likely to increase both the abuse of Section 1201 for anti-competitive purposes and the difficulty and expense of the triennial rulemaking.  Even in areas that are closer to Congress’s intent in passing Section 1201, such as technological measures that control access to video, audio, and e-books, the ban on circumvention causes problems that are not fully addressed by the triennial rulemaking process.  Despite the modifications made to the rulemaking process in 2014–15, it remains a daunting and expensive process for many who need an exemption to the ban, and this expense is exacerbated by the need to raise the same or similar proposals in each rulemaking cycle, even in the absence of any meaningful opposition.   The single best measure that would address all of these problems and more besides would be for Congress to amend Section 1201 to make clear that neither circumvention of a technological measure, nor the development and distribution of circumvention devices, is unlawful unless those acts are done for the purpose of 	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  1	  See	  In	  the	  Matter	  of	  Exemption	  to	  Prohibition	  on	  Circumvention	  of	  Copyright	  Protection	  Systems	  for	  Access	  Control	  Technologies	  Under	  17	  U.S.C.	  1201	  Dkt.	  No.	  2014-­‐07,	  Notice	  of	  Proposed	  Rulemaking,	  79	  Fed.	  Reg.	  73856,	  73863-­‐71	  (Dec.	  12,	  2014).	  2	  See	  generally	  Comments,	   http://copyright.gov/1201/2015/comments-­‐020615/;	   Reply	   Comments,	  http://copyright.gov/1201/2015/reply-­‐comments-­‐050115/.	  3	  See,	  e.g.,	   In	   the	   Matter	   of	   Exemption	   to	   Prohibition	   on	   Circumvention	   of	   Copyright	   Protection	  Systems	   for	   Access	   Control	   Technologies	   Under	   17	   U.S.C.	   1201	  Dkt.	   No.	   2014-­‐07,	   Comment	   of	   the	  Alliance	   of	   Automobile	   Manufacturers	   on	   Class	   13,	   http://copyright.gov/1201/2015/comments-­‐032715/class%2013/Alliance_of_Automobile_Manufacturers_class13_1201_2014.pdf;	   Comment	   of	  General	  Motors	  on	  Class	  13	  (“General	  Motors	  Comment”),	  http://copyright.gov/1201/2015/comments-­‐032715/class%2013/General_Motors_class13_1201_2014.pdf;	  Comment	  of	  John	  Deere	  on	  Class	  21,	  http://copyright.gov/1201/2015/comments-­‐032715/class%2021/John_Deere_Class21_1201_2014.pdf;	   Comment	   of	   Association	  of	   Global	  Automakers	  on	  Class	  21	  (“Global	  Automakers	  Comment”),	  http://copyright.gov/1201/2015/comments-­‐032715/class%2021/Association_of_Global_Automakers_Class21_1201_2014.pdf;	   Comments	   of	  LifeScience	  Alley	  on	  Class	  27	  (“LifeScience	  Alley	  Comment”),	  http://copyright.gov/1201/2015/comments-­‐032715/class%2027/LifeScience_Alley_Class27_1201_2014.pdf;	   Comments	   of	   National	  Association	  of	  Manufacturers	  on	  Class	  27	  (“NAM	  Comment”),	  http://copyright.gov/1201/2015/comments-­‐032715/class%2027/National_Association_of_Manufacturers_Class27_1201_2014.pdf.
+
+[PAGE 3]
+	   3	  
+infringing copyright. The Unlocking Technology Act of 2015, H.R. 1587, would do just that. An exemption for non-infringing uses would help to prevent the misuse of Section 1201 as a means of suppressing lawful competition and innovation, and freedom of expression. It would also alleviate much of the expense and complexity of the triennial rulemaking process, which could remain as a means of improving legal certainty for specific non-infringing uses of works with access controls.  Other legislative solutions, including the Breaking Down Barriers to Innovation Act of 2015, H.R. 1883, could address some of the substantive and procedural concerns raised by the Office, including the renewability of exemptions, more effective permanent exemptions, and simplifying the legal requirements that an exemption proponent must meet. EFF supports these legislative efforts, although the Unlocking Technology Act remains the best solution.  Several of the issues that the Copyright Office raised in the Notice of Inquiry can be addressed without waiting for action by Congress, because the Office already has the necessary statutory authority and discretion to do so itself. The Office can and should make the following policy changes immediately:  1) Decline to entertain policy concerns unrelated to copyright infringement as reasons for denying a proposed exemption;   2)  Provide for the presumptive renewal of exemptions granted in previous rulemakings when no meaningful opposition is raised;  3)  Clarify that reasonable uncertainty about whether a non-infringing activity is prohibited by Section 1201(a)(1) may itself be an adverse effect on such activity; and  4)  Grant exemptions under Section 1201(a)(1) that encompass third-party assistance with circumvention, with the understanding that some, but not all such assistance may continue to be separately prohibited by Section 1201(a)(2) or (b).   We address these proposals and the Office’s other inquiries more fully below.  1.  The Role and Effectiveness of the Ban on Circumvention of Technological Measures.  The ban on circumvention of technological measures that effectively control access to copyrighted works has only minimal effect as a means of preventing copyright infringement, because copyright infringement is itself illegal and carries substantial civil and sometimes criminal penalties. When circumvention is accompanied by unlawful reproduction, distribution, public performance, or public display of a copyrighted work, the remedies for infringement apply.4 One who risks actual or statutory damages, 	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  4	  See	  17	  U.S.C.	  §	  106,	  501–506.
+
+[PAGE 4]
+	   4	  
+injunctive relief, seizure of materials and equipment, and attorney fee awards is not likely to be deterred any more strongly by the possibility of similar remedies for circumvention. This is especially true because the remedies for copyright infringement, especially statutory damages under 17 U.S.C. § 504, often go beyond any meaningful level of deterrence, even without a claim of unlawful circumvention tacked on.5 Circumvention done for others with the intent and effect of inducing infringement is itself actionable as copyright infringement, without the need for an additional legal claim.6 Effectively, the only actions that are deterred by the ban on circumvention are those that have no substantial connection to copyright infringement, including many lawful and important activities.  While one federal appeals court has ruled that circumvention without a nexus to infringement does not violate Section 1201(a)(1),7 and another has suggested this is so,8 two have ruled that no such nexus is required.9 Amending the statute to add a general exemption for circumvention done without a nexus to infringement would give legal certainty and clarity to important lawful activities, and lessen the pressure on the rulemaking process to provide a safety valve for such activities.  2.  Section 1201 Claims Should Not Be Used To Address Public Policy or Legal Concerns Outside of Copyright, and Non-Copyright Concerns Should Never Be Grounds for Denying or Narrowing an Exemption.  In the most recent rulemaking, over half of the proposed classes of exemption concerned software embedded in various devices, including mobile computing devices, automobiles, 3D printers, and medical devices. In the course of the rulemaking, the Copyright Office entertained,10 and indeed solicited,11 opinions on these proposals on various legal and public policy grounds that had nothing to do with the interests protected by copyright law, such as air quality, automobile safety, fuel efficiency, medical device safety, and the contentious issue of how best to disclose and fix security vulnerabilities in consumer products.   	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  5	  See	  Pamela	  Samuelson	  and	  Tara	  Wheatland,	  Statutory	  Damages	  in	  Copyright	  Law:	  A	  Remedy	  In	  Need	  of	  Reform,	  51	  Wm.	  &	  Mary	  L.	  Rev.	  439	  (2009).	  6	  Metro-­‐Goldwyn-­‐Mayer	  Studios	  Inc.	  v.	  Grokster,	  Ltd.,	  545	  U.S.	  913	  (2005).	  7	  Chamberlain	  Grp.,	  Inc.	  v.	  Skylink	  Techs.,	  Inc.,	  381	  F.3d	  1178,	  1204	  (Fed.	  Cir.	  2004).	  8	  Lexmark	  Int’l,	  Inc.	  v.	  Static	  Control	  Components,	  Inc.,	  387	  F.3d	  522,	  547–48	  (6th	  Cir.	  2004).	  9	  Universal	  City	  Studios,	  Inc.	  v.	  Corley,	   273	   F.3d	   429,	   443	   (2d	   Cir.	   2001);	  MDY	  Indus.,	  LLC	  v.	  Blizzard	  Entm’t,	  Inc.,	  629	  F.3d	  928,	  945	  (9th	  Cir.	  2010).	  10	  Supra	  n.3.	  11	  Letter	  from	  Jacqueline	  Charlesworth,	  General	  Counsel,	  U.S.	  Copyright	  Office,	  to	  Elizabeth	  Dickinson,	  Chief	  Counsel,	  U.S.	  Food	  and	  Drug	  Administration	  (May	  12,	  2015),	  http://copyright.gov/1201/2015/USCO-­‐letters/Letter-­‐to-­‐FDA.pdf;	   Letter	   from	   Jacqueline	   Charlesworth,	   General	   Counsel,	   U.S.	  Copyright	  Office,	  to	  Avi	  S.	  Garbow,	  General	  Counsel,	  U.S.	  Environmental	  Protection	  Agency	  (May	  12,	  2015),	   http://copyright.gov/1201/2015/USCO-­‐letters/Letter-­‐to-­‐EPA.pdf;	   Letter	   from	   Jacqueline	  Charlesworth,	  General	  Counsel,	  U.S.	  Copyright	  Office,	  to	  Kathryn	  B.	  Thomson,	  General	  Counsel,	  U.S.	  Department	   of	   Transportation	   (May	   12,	   2015),	   http://copyright.gov/1201/2015/USCO-­‐letters/Letter-­‐to-­‐DOT-­‐NHTSA.pdf.
+
+[PAGE 5]
+	   5	  
+The National Telecommunications and Information Administration, which is the only agency with an advisory role in the Section 1201 rulemaking mandated by statute,12 advised the Register to acknowledge in her recommendations that the ban on circumvention protects only “legitimate copyright interest[s],” and that to the extent the ban does apply to an activity, the use of access controls to promote non-copyright interests, even salutary goals such as “security and privacy,” should weigh in favor of granting an exemption.13 NTIA also noted with respect to modification of automobiles that “the appropriate regulatory authorities will continue to ensure compliance with federal and state laws that control safety features and emission.”14  The Register did not heed this advice. She concluded that the rulemaking should encompass numerous “serious issues” with “at best a very tenuous nexus to copyright protection.”15 Acting on this conclusion, the Register recommended that the exemption for automobile diagnosis, repair, and modification, and for security testing of various devices, be made contingent on compliance with unspecified “applicable law” and that the exemption be delayed for a year (and thus effective for only two years) to allow for unspecified action by other agencies.16 The Librarian adopted these restrictions.17  The Register’s apparent approval of wide-ranging inquiry into unrelated areas of public policy in the context of the triennial rulemaking is not required by the statute, and Congress did not contemplate such an inquiry. In addition, allowing non-copyright concerns as grounds for narrowing (or denying) exemptions encourages misuse of Section 1201 claims for anticompetitive and opportunistic purposes, adds unnecessary expense and complexity to the rulemaking process, enmeshes the Copyright Office in regulatory matters far beyond its expertise, and could interfere with the operation of other laws and regulations.  Legal Basis. Section 1201 concerns “copyright protection systems.”18 The ban on circumvention applies only to technological measures that enclose “work[s] protected by this title [the Copyright Act].”19 While the statute allows the Librarian to consider “such other factors as the Librarian considers appropriate” in determining whether users are adversely affected in their ability to make non-infringing uses, nothing in the text or legislative history of the DMCA suggests that this factor allows an inquiry into non-copyright policy interests.  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  12	  17	  U.S.C.	  §	  1201(a)(1)(C).	  13	  Letter	  from	  Lawrence	  E.	  Strickling,	  Assistant	  Secretary	  for	  Communications	  and	  Information,	  U.S.	  Department	   of	   Commerce,	   to	   Maria	   A.	   Pallante,	   U.S.	   Register	   of	   Copyrights	   at	   5–7	   (Sep.	   18,	   2015)	  (“NTIA	  Letter”).	  14	  Id.	  at	  57.	  15	  Section	  1201	  Rulemaking,	  Sixth	  Triennial	  Proceeding	  to	  Determine	  Exemptions	  to	  the	  Prohibition	  on	   Circumvention,	   Recommendation	   of	   the	   Register	   of	   Copyrights	   at	   3	   (Oct.	   8,	   2015)	   (“2015	  Register’s	  Recommendation”),	  http://copyright.gov/1201/2015/registers-­‐recommendation.pdf.	  	  16	  Id.	  at	  247.	  17	  Library	  of	  Congress,	  Exemption	  to	  Prohibition	  on	  Circumvention	  of	  Copyright	  Protection	  Systems	  for	  Access	  Control	  Technologies,	  Dkt.	  No.	  2014-­‐07,	  Final	  Rule,	  80	  Fed.	  Reg.	  65944,	  65955-­‐63	  (Oct.	  28,	  2015)	  (“2015	  Final	  Rule”).	  18	  The	  title	  of	  chapter	  1201	  of	  Title	  17	  is	  “Circumvention	  of	  Copyright	  Protection	  Systems.”	  19	  17	  U.S.C.	  §	  1201(a)(1)(A).
+
+[PAGE 6]
+	   6	  
+ Rather, exemptions “shall” be granted whenever users of a class of copyrighted works are “adversely affected . . . in their ability to make noninfringing uses.”20 The statute does not direct the Office to limit its inquiry to socially beneficial uses, or to uses that cannot implicate any other area of law or regulation—only to uses that do not infringe copyright. The plain language of Section 1201 is asymmetrical: adverse impact on any meaningful non-infringing use may require the Office to grant an exemption, but only those uses that implicate copyright concerns may justify denying an exemption.  Encouraging Misuse of Section 1201 Claims. Lawsuits, and the threat of lawsuits, under Section 1201 are often misused for anti-competitive purposes, such as to enforce incompatibility between electronic devices that must interact with one another,21 to lock customers into a single service provider,22 and to prevent repair by shops that are not affiliated with an original manufacturer, thereby keeping the cost of repairs artificially high.23 The Unlocking Consumer Choice and Wireless Competition Act, Section 1201, represents a strong statement by Congress that Section 1201 does not protect non-copyright business models. Nonetheless, the comments of opponents in the 2014-2015 rulemaking suggest that such anti-competitive misuse of the statute will continue. Manufacturers	  openly	  discussed	  relying	  on	  Section	  1201	  to	  handicap	  competition	  in	  the	   aftermarket,	   in	   part	   by	   restricting	   access	   to	   the	   non-­‐copyrightable,	   functional	  aspects	  of	  vehicle	  software.24   Enforcing copyright in the firmware embedded in various devices is not a legitimate core concern of device manufacturers because such software is useless without the device it runs on. This means there is no danger of unchecked proliferation of copies of such firmware. These groups’ interest in copyright more likely lies in preventing or controlling research and modification, even of lawfully purchased devices in which the manufacturer’s financial interest has terminated.   The position taken by the Environmental Protection Agency in the recently concluded rulemaking illustrates the potential for misuse of Section 1201. In response to 	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  20	  §	  1201(a)(1)(C).	  21	  See,	  e.g.,	  Chamberlain	  Grp.,	  Inc.	  v.	  Skylink	  Techs.,	  Inc.,	  381	  F.3d	  1178	  (Fed.	  Cir.	  2004);	  Lexmark	  Int’l,	  Inc.	  v.	  Static	  Control	  Components,	  Inc.,	  387	  F.3d	  522	  (6th	  Cir.	  2004)	  22	  See,	  e.g,	  TracFone	  Wireless,	  Inc.	  v.	  SND	  Cellular,	  Inc.,	  715	  F.	  Supp.	  2d	  1246,	  1261	  (S.D.	  Fla.	  2010).	  23	  In	  the	  Matter	  of	  Exemption	  to	  Prohibition	  on	  Circumvention	  of	  Copyright	  Protection	  Systems	  for	  Access	   Control	   Technologies	   Under	   17	   U.S.C.	   1201	   Dkt.	   No.	   2014-­‐07,	   Comment	   of	  the	   Electronic	  Frontier	   Foundation	   on	   Proposed	   Class	   21	   at	   17–19	   (“EFF	   Comment	   on	   Vehicle	   Repair”),	  http://copyright.gov/1201/2015/comments-­‐020615/InitialComments_longform_EFF_Class21.pdf.	  24	  Global	  Automakers	  Comment	  7	  (The	  proposed	  exemption	  would	  “disrupt”	  the	  repair	  market	  “by	  allowing	  new	  entrants	  at	  little	  to	  no	  cost.”);	  John	  Deere	  Comment	  4	  (“beneficiaries	  of	  the	  proposed	  exemption	  will	  not	  be	  individual	  vehicle	  owners	  who	  allegedly	  want	  to	  repair,	  redesign	  or	  tinker	  with	  vehicle	  software,	  but	  rather	  third-­‐party	  software	  developers	  or	  competing	  vehicle	  manufacturers”);	  Comment	   of	  Eaton	   Corporation	  on	   Class	   21	  at	   2	  (“Eaton	   Comment”),	  (“Permitting	   the	   copying	   of	  ServiceRanger	  software,	  or	  development	  of	  a	  substitute	  based	  on	  the	  decompiling	  of	  Eaton	  Software	  or	   ServiceRanger	   software,	   deprives	   Eaton	   of	   the	   sale	   of	   ServiceRanger	   software.”),	  http://copyright.gov/1201/2015/comments-­‐032715/class%2021/Eaton_Corporation_Class21_1201_2014.pdf.
+
+[PAGE 7]
+	   7	  
+a Freedom of Information Act request by EFF, the EPA stated that it had no records of “any actual, proposed, or contemplated use of Section 1201 of Title 17 in connection with any actual or proposed EPA enforcement activity” or in lieu of such activity.25 This strongly suggests that the existence and interpretation of Section 1201 have played no role in the enforcement of vehicle emissions. It was only after the Auto Alliance sent email to the EPA tacitly asking for the agency to step in that the EPA indicated their intent to oppose an exemption.26  The events of the recent rulemaking show that the Copyright Office’s solicitation of opinions on proposed exemptions on non-copyright grounds, and its willingness to consider such opinions, encourage the opportunistic use of Section 1201 by corporations with an interest in suppressing competition and independent research.  Interference With Other Laws and Regulations. All of the commenters who opposed exemptions to support modification and research on devices with embedded software referred to activities that are otherwise illegal under various statutes and regulations.27 Rather than supporting the denial or narrowing of an exemption under Section 1201(a)(1), these comments illustrate why non-copyright concerns should have no bearing whatsoever on the exemption process. Vehicle emissions, fuel efficiency, vehicle safety and medical device safety are already the subject of detailed regulations and enforcement procedures. Issues of product safety and modification are also addressed by tort and commercial law. No exemption granted by the Copyright Office creates a license to violate other laws, no matter how broadly the exemption is drafted—just as the decision to grant someone a driver’s license can in no way exempt a driver from laws against assisting in a bank robbery.  This means that the Office’s practice of qualifying exemptions with a requirement that the purpose of the circumvention “must be otherwise lawful” serves only to interfere with other legal regimes. For example, modifying a car in a way that increases emissions beyond a certain amount and driving it on a public highway is likely illegal whether or not that modification involves circumventing an access control, and is subject to remedies provided by the EPA and state regulators. But under the current triennial exemptions, a modification that involves circumvention also creates a private right of action in the auto manufacturer or technology supplier, whether or not the relevant agency contemplated private enforcement.  Just as the Copyright Office is not necessarily familiar with regulations far afield from copyright law, these other agencies are likely not familiar with copyright law’s scope and ramifications. Essentially, copyright penalties are potentially piled on top of whatever remedy the agency deems appropriate, and the agency loses the power to calibrate those penalties and enforcement activities. Meanwhile, legal protection for circumvention which does not violate any other law or regulation has been delayed 	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  25	  See	  Attachment	  A.	  26	  See	  Attachment	  B.	  27	  See,	  e.g.,	  Global	  Automakers	  Comment	  3	  (referencing	  the	  Clean	  Air	  Act);	  General	  Motors	  Comment	  6	   (Motor	   Vehicle	   Safety	   Act);	   LifeScience	   Alley	   Comment	   2–3	   (Food	   and	   Drug	   Administration	  regulations).
+
+[PAGE 8]
+	   8	  
+for an entire year because of concern about activities that are illegal regardless of any action by the Librarian.  Added Expense and Complexity. The Copyright Office has acknowledged that non-copyright regulatory and policy issues are beyond its expertise and should be addressed by Congress and other agencies.28 However, by explicitly inviting opinions based on such issues and narrowing several exemptions in response, the Office has inserted itself into a wide range of issues beyond its expertise. This is likely to increase the number of participants in future rulemakings and the number of non-copyright subjects raised, and continue to increase the burden and expense of the rulemaking for both commenters and the Copyright Office.   The solution to these problems is straightforward and comports with the best interpretation of Section 1201: the Office and the Librarian should consider adverse impacts on any non-infringing use as a basis for granting an exemption, while refusing to consider alleged harm to non-copyright public policy concerns in opposition. And while it is not the role of the Copyright Office to prevent all possible misunderstandings of the law, the Office can reiterate that exemptions to the ban on circumvention are just that, and do not create any license to violate other law.  3.  The Rulemaking Process Should Include Presumptive Renewal of Prior Exemptions; This Can Be Done Without Legislative Change.  The Office is correct that the triennial rulemaking is “resource-intensive for both participants and the Office.”29 In the recent rulemaking, EFF and other proponents collectively spent thousands of hours of time from attorneys, technologists, staff, and volunteers in order to develop a detailed factual and legal record in support of renewed proposals that encountered no opposition, or where opposition was made only to narrow aspects of a proposal. For this reason, we support the Register’s well-considered conclusion that once granted, exemptions should enjoy a presumption in favor of renewal in subsequent rulemakings.  However, while we support and encourage legislative efforts to address this problem, the Copyright Office can take meaningful steps without waiting for Congressional action. The Register has acknowledged that the Office’s requirement that each exemption be justified anew, from scratch, every three years “does not exist in the statute itself.”30 Rather, the Office allegedly draws this requirement from a passage in a 	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  28	  2015	   Register’s	   Recommendation	   at	   2	   (“Many	   of	   the	   issues	   that	   were	   raised	   in	   this	   proceeding	  would	   be	   more	   properly	   debated	   by	   Congress	   or	   the	   agencies	   with	   primary	   jurisdiction	   in	   the	  relevant	  areas.”).	  29	  Library	  of	  Congress,	  Exemption	  to	  Prohibition	  on	  Circumvention	  of	  Copyright	  Protection	  Systems	  for	  Access	  Control	  Technologies,	  Dkt.	  No.	  2014-­‐07,	  Notice	  of	  Inquiry	  (Sep.	  17,	  2014),	  249	  Fed.	  Reg.	  55687,	  81371.	  30	  Section	  1201	  Rulemaking,	  Fifth	  Triennial	  Proceeding	  to	  Determine	  Exemptions	  to	  the	  Prohibition	  on	   Circumvention,	   Recommendation	   of	   the	   Register	   of	   Copyrights	   at	   88	   (Oct.	   12,	   2015)	   (“2012	  Register’s	  Recommendation”),	  http://www.copyright.gov/1201/2012/Section_1201_Rulemaking_2012_Recommendation.pdf.
+
+[PAGE 9]
+	   9	  
+single House Commerce Committee report on an interim version of the bill that ultimately became Section 1201.31 Legislative history is not law and does not bind the Copyright Office. Committee reports, in particular, are “increasingly unreliable evidence of what the voting Members of Congress actually had in mind:”32  As anyone familiar with modern-day drafting of congressional committee reports is well aware, the references to the cases were inserted, at best by a committee staff member on his or her own initiative, and at worst by a committee staff member at the suggestion of a lawyer-lobbyist; and the purpose of those references was not primarily to inform the Members of Congress what the bill meant . . . but rather to influence judicial construction.33  The Commerce Committee report concerned a bill that was very different from the version finally enacted into law as Section 1201. For example, the bill discussed would have made the ban on circumvention a Department of Commerce regulation, and would have required that department to conduct the exemption rulemaking.34 After that report, a House/Senate conference committee substantially modified the bill and issued its own report, which makes no mention of any supposed “de novo” requirement.35 Beginning each rulemaking from a clean slate, with all of the time and expense that entails, is in no way a Congressional requirement, but rather a policy choice by the Copyright Office that, according to the Register’s own conclusions, is badly in need of change.   We recognize that the Office has maintained the “de novo” policy for many years. However, an agency has discretion to change its interpretation of a statute. It need only give a “reasoned explanation.”36 Here, evidence of the need for change is abundant.  4-5.  The Office Should Clarify the Legal Requirements for Proponents and Opponents of an Exemption.  The requirement that proponents of an exemption show a “substantial” adverse impact on a non-infringing use, as defined and interpreted by the Office, puts many 	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  31	  Id.	  (“[T]he	  assessment	  of	  adverse	  impacts	  .	  .	  .	  is	  to	  be	  determined	  de	  novo.”)	  (citing	  H.	  R.	  Rep.	  No.	  105-­‐551,	  at	  37	  (1998)).	  32	  Blanchard	  v.	  Bergeron,	  489	  U.S.	  87,	  99	  (1989)	  (Scalia,	  J.,	  concurring).	  33	  Id.	  at	  98-­‐99;	  see	  also	  Stephen	  Breyer,	  On	  the	  Uses	  of	  Legislative	  History	  in	  Interpreting	  Statutes,	  65	  S.	  Cal.	  L.	  Rev.	  845,	  861	  (1992)	  (describing	  the	  use	  of	  legislative	  history	  for	  “choosing	  among	  reasonable	  interpretations	  of	  a	  politically	  controversial	  statute”	  as	  itself	  “controversial”).	  34	  H.	  R.	  Rep.	  No.	  105-­‐551,	  at	  36.	  35	  H.R.	  Rep.	  No.	  105-­‐796,	  at	  63-­‐67	  (Oct.	  8,	  1998)	  36	  “[T]he	   agency	   must	   show	   that	   there	   are	   good	   reasons	   for	   the	   new	   policy.	   But	   it	   need	   not	  demonstrate	  to	  a	  court's	  satisfaction	  that	  the	  reasons	  for	  the	  new	  policy	  are	  better	  than	  the	  reasons	  for	  the	  old	  one;	  it	  suffices	  that	  the	  new	  policy	  is	  permissible	  under	  the	  statute,	  that	  there	  are	  good	  reasons	   for	   it,	   and	   that	   the	   agency	  believes	  it	   to	   be	   better,	   which	   the	   conscious	   change	   of	   course	  adequately	   indicates.	   This	   means	   that	   the	   agency	   need	   not	   always	   provide	   a	   more	   detailed	  justification	  than	  what	  would	  suffice	  for	  a	  new	  policy	  created	  on	  a	  blank	  slate.”	  F.C.C.	  v.	  Fox	  Television	  Stations,	  Inc.,	  556	  U.S.	  502,	  515	  (2009).
+
+[PAGE 10]
+	   10	  
+proponents in a Catch-22 situation. Demonstrating that there is “substantial” demand for access to a class of copyrighted works subject to access controls often means demonstrating that access controls are already being circumvented, without the protection of an exemption. Thus, to justify an exemption, proponents must often find users of works who are willing to represent on the record in a public proceeding that they are already violating the law from which they seek relief. Without such evidence, proponents risk having their proposal denied on the grounds that the adverse impact is anecdotal or insubstantial. The Office should account for this difficulty when evaluating proposed exemptions, and should clarify that a demonstrated need to circumvent a technological measure in violation of Section 1201(a)(1) in order to make non-infringing use of copyrighted works constitutes “adverse impact” without a showing that circumvention is already taking place.   7.  The Librarian Can Grant Exemptions that Permit Third-Party Assistance in Circumvention.  In the recent rulemaking, the Register recognized that some important non-infringing activities that require circumvention will also require the assistance of a third party. In particular, access to software embedded in a vehicle for purposes of diagnosis and repair is beyond the ability of most vehicle owners but can be done with the assistance of an independent mechanic. As more and more consumer goods, machines, and even buildings come to include embedded software, the need for third-party assistance with repairs or modifications that require circumvention will only increase. We agree with the Register that these activities need legal protection, including the availability of triennial exemptions.   However, in the recent rulemaking, the Register declined to recommend an exemption for circumvention on behalf of a vehicle owner, despite her finding of a substantial adverse impact on the diagnosis, repair, and modification of vehicles.37 The Register was of the opinion that the Librarian cannot “adopt exemptions that would allow circumvention to be performed by third parties on behalf of those who are actually entitled to an exemption,”38 because such circumvention “may implicate the anti-trafficking provisions set forth in section 1201(a)(2) and (b).”39  We respectfully disagree with this interpretation. As the Register’s Recommendation implicitly acknowledges, some circumvention by third parties on behalf of a device owner does not violate the anti-trafficking provisions. For example, a comprehensive auto repair service may incidentally require circumvention of access controls on vehicle software in order to access diagnostic data or adjust settings. Such a service would not be “primarily designed or produced for the purpose of circumventing a technological measure,”40 as the primary purpose of the service is the repair, not the 	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  37	  2015	  Register’s	  Recommendation	  at	  246–47.	  38	  Id.	  at	  247.	  39	  Id.	  at	  246	  (emphasis	  added).	  40	  §	  1201(a)(2)(A).
+
+[PAGE 11]
+	   11	  
+circumvention. Likewise, such a service would have a “commercially significant purpose” other than circumvention and would not likely be “marketed . . . for use in circumvention.”41  While other circumvention on behalf of a device owner might violate the anti-trafficking provisions, nothing in the statute requires the Librarian to deny exemptions because a subset of the covered activities may separately be prohibited by sections 1201(a)(2) or (b). In fact, such a requirement is inconsistent with the text of the statute. Once the Librarian finds an adverse impact on non-infringing uses of a class of copyrighted works, relief from the ban on circumvention of Section 1201(a)(1) is mandatory.42 And if the Librarian were forbidden to grant exemptions for which some uses might constitute trafficking, then section 1201(a)(1)(E), which states that determinations in the rulemaking may not “be used as a defense in any action to enforce any provision of this title other than [Section 1201(a)(1)]” would be superfluous as to the trafficking provisions, as no occasion to raise such a defense would ever arise.  That Congress explicitly allowed exemptions for circumvention for the unlocking of cellphones “by another person at the direction of the owner” in the Unlocking Consumer Choice and Wireless Competition Act does not bar the Librarian from concluding that exemptions covering circumvention by third parties are permissible in other circumstances. Congress often enacts statutory language to affirm or clarify an existing legal principle rather than to change existing law. For example, the doctrine of fair use was first codified in the Copyright Act of 1976, but it would be incorrect to argue that Congress intended to deny the protection of fair use to reproductions that occurred before the effective date of that Act.  As with a presumption of renewal, nothing prevents the Copyright Office from granting exemptions that allow for circumvention by a third party on behalf of a device owner. That interpretation is both permissible and supported by substantial evidence. The Office can and should do so without waiting for Congress to act.  8-9.  New and Broader Permanent Exemptions Would Be Beneficial.  As discussed in the introductory paragraphs of this comment, a permanent exemption to both the ban on circumvention and the trafficking provisions covering all non-infringing uses would alleviate most of the problems identified in the Notice of Inquiry. The Unlocking Technology Act of 2015, H.R. 1587, would accomplish this.  In addition, Congress should broaden and modernize the permanent exemption for security testing, including by removing the vague conditions on the exemption in § 1201(j)(3). Those conditions make the exemption all but useless as a reliable protection for legitimate activities, as the Register has found.43 The Breaking Down Barriers to 	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  41	  §	  1201(a)(2)(B)–(C).	  42	  §	  1201(a)(1)(B)	  (“The	  prohibition	  .	  .	  .	  shall	  not	  apply.”	  )	  (emphasis	  added).	  43	  2015	  Register’s	  Recommendation	  3	  (“the	  exemption	  does	  not	  seem	  sufficiently	  robust	  in	  light	  of	  the	  perils	  of	  today’s	  connected	  world.”).
+
+[PAGE 12]
+	   12	  
+Innovation Act of 2015, H.R. 1883, is a good starting point for discussion of new permanent exemptions. A permanent exemption for device repair would also be a positive step, along with an expanded exemption for interoperability codifying the Register’s conclusions that modifying software as necessary to render it compatible with other software is likely to be non-infringing.44 Robust permanent exemptions would eliminate much of the ongoing expense and complexity of the triennial rulemaking. 
+	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  44	  E.g.,	  id.	  at	  188-­‐89,	  213.
+
+[PAGE 13]
+Attachment A
+
+[PAGE 14]
+UNITED STATES EN V IRONMENTAL PR O TECTI O N A G EN CY 
+WASHINGTON . D.C . 20460 
+Mr. Mitchell L. Stoltz 
+E lectronic Frontier Found ation 
+815 Edd y St. 
+San Francisco, California 94 109 
+FEB 2 ~ 2016 
+OFFICE OF 
+AIR AND RADIATION 
+R e: Interim Production for Freedom of Information Act request EPA-HQ-20 16-000247 
+Dear Mr.Stolz: 
+Th is letter concerns your above referenced Freedom oflnfomrntion Act (FO IA) request submitted on 
+Octobe r 8, 2015 in which yo u seek records concerning the Digital Millennium Copy right Act (DM CA) 
+am ong other topics. Y our request is divided into 7 portions 
+The re are no records respon sive to portions 5 and 6 of your request that seek records related to use of 
+Section 120 l of Title 17 with or in lieu of enforcement activity. 
+The enclosed interim production includes all collected records responsive to portions l-4 of yo ur 
+request. Non -responsive m aterial as we ll as inform ation protected under exempt ion 5 of the FOI A as 
+attorney-client or deliberative process privileged has been redacted. A text box has been added to 
+indicate w here draft attachm ents to emails are withheld under exemption 5 of the FOIA. 
+The E PA has begun collecting documents responsive to portion 7 of your request per the search plan 
+developed in your February 8 phon e call with Peter B ennes and subsequent follow up emails. Y ou will 
+be updated when further information about this portion of your request becomes available. 
+Please contact Peter Berme s in the Office of General Co unsel at 202-564-1549 w ith any questions 
+concerning your request. A t any time yo u ma y check the status of your request at 
+https://foiaonline.regulations.gov. 
+Thank you for you r patience as we continue to process your request. 
+Sincerely, 
+Enclosure 
+lnternel Add ress (URL) • hltp://ww w .epa.gov 
+Recycled/Recy clable • Printed w ith Vege lable O il Based Inks on 100°. Postconsumer, Process Ch lorine Free Recycled Paper
+
+[PAGE 15]
+Attachment B
+
+[PAGE 16]
+From: Chris Nevers [mailto:CNevers@autoalliance.org] 
+Sent: Wednesday, May 13, 2015 8:41 PM
+To: Wehrly, Linc <wehrly.linc@epa.gov>
+Subject: Fwd: Digital Millennium Copyright Act (DMCA) - Calibration Modifications
+Hello Linc,
+Is anyone at EPA working on the digital millennium copyright act?  We are concerned that allowing
+ access to vehicle software will allow aftermarket shops and owners to easily recalibrate vehicles and
+ cause all sorts of havoc.  Imagine a fuel economy cal that biases lean!  Then there is the concern with
+ bypassing SCR dosing and inducement strategies.  I don't even want to think about electronic throttle
+ control or battery safety.
+Steve Douglas, Alliance Director out in California, is testifying against the above proposed act.  Is
+ EPA involved?  Is Anne W still covering OECA issues?
+Of course, the manufacturers are also concerned about damage done to vehicles before calibrations
+ are "reversed" to hide any tampering.
+As an aside, I sent the latest fuel economy cut points analysis to Dave G and Global.  I haven't heard
+ anything back from Dave. 
+Thanks,
+Chris Nevers
+248 794 5002
+Begin forwarded message:
+EPA-HQ-2016-000247 Interim Production 1, Page 8
+Not Responsive
+
+[PAGE 17]
+mlllllm------------------------------------
+From : 
+Sent: 
+To : 
+C c: 
+Subject: 
+Attachment s: 
+Thanks Geoff, 
+Bunker, Byron 
+Thursday, July 02, 2015 6:21 PM 
+Cooper, Geoff; Werner, Jacqueline; Orlin, David; Williams , Brent 
+Man ners, Mary; Cohen, Janet; He nqst, Benjamin; Cook, Leila 
+RE: Copyright Response Re : Vehicle Software 
+A Ayala to J Charlesworth - US Copyright Office -July 2015 DRAFT 07022015v2.doc 
+Note: the attachment is located on page 26, imme diately 
+following this email thread. 
+Brent is out today, and I w ill be out next week (7 /6 - 7 /10). Our individual follow ups will likely cross in the ether. 
+I think a phone call could be a very good idea, and I wou ld be happy to participate in a call during the week of July 13. If 
+you would like to do the call next week , Brent can certainly represent my views on the call. 
+Steve Wood, Acting Ch ief Counsel NHTSA, is our contact at DOT on this issue. Steve's contact information is copied 
+below. 
+Acting Chief Counsel & Assistant Ch ief Co unsel 
+Vehicle Rulem aking and H armon ization 
+(+ WTO/TBT and regulatory coherence issues) 
+N ational Highw ay Traffic Safety Adm inistration 
+Wes t Bu ilding, W41 -318 
+1200 New Jersey Avenue, SE 
+Washington, DC 20590 
+Tel. 202-366-5240 
+Ce ll 202-403-9086 
+steve.w ood@dot.go v 
+1 
+EPA -HQ-2016-000247 Interim Production 1, Page 21
+
+[PAGE 18]
+2
+The California Air Resources Board (CARB) is also very concerned about this issue. Attached is CARB’s current draft 
+response. They would welcome any feedback that we might have on the draft letter. Annette Hebert (my counterpart at 
+CARB) has the lead on the letter.  
+Annette’s contact information is provided below. 
+Annette Hebert, Chief
+Emissions Compliance, Automotive Regulations and Science (ECARS) Division 
+California Air Resources Board 
+(626)450‐6150 
+ahebert@arb.ca.gov 
+Thanks for taking this on.  
+Byron 
+***************
+*********** 
+Byron Bunker 
+Director Compliance Division 
+Office of Transportation and Air Quality 
+Environmental Protection Agency 
+2000 Traverwood Drive 
+Ann Arbor, MI 48105 
+Bunker.Byron@epa.gov 
+Phone: (734) 214‐4155 
+Mobile: (734) 353‐9623 
+******************************** 
+From: Cooper, Geoff  
+Sent: Thursday, July 02, 2015 10:46 AM 
+To: Werner, Jacqueline; Orlin, David; Bunker, Byron; Williams, Brent 
+Subject: RE: Copyright Response Re: Vehicle Software 
+All,  
+I just spoke to Michelle Choe from the copyright office. Her office is trying to gather up all comments from the agencies 
+on the DMCA rulemaking by July 17th. I promised her that we would meet that deadline, and that my goal was to send 
+the letter by the end of next week (June 10th). 
+Michelle also offered to have a phone call with us so we can detail our concerns with exemption, perhaps before we 
+actually send the letter. Apparently, Brent was in touch with the copyright office a few weeks ago and mentioned that 
+NHTSA and DOT might be interested in the rulemaking, too. Brent, if you have any names to contac t at those agencies, 
+Michelle would like to reach them. 
+ 
+ 
+ 
+ 
+EPA-HQ-2016-000247 Interim Production 1, Page 22
+(b)(5) Attorney Client Privilege
+(b)(5) Attorney Client Privilege
+
+[PAGE 19]
+3
+ 
+  
+Let me
+ know if you would like to arrange a call with the copyright office. I will probably be out on Monday. Wednesday 
+would probably be the best day for me for the phone call.  
+Thanks, 
+Geoff 
+Geof
+f Cooper 
+Assistant General Counsel 
+Intellectual Property Law Practice Group 
+(202) 564‐5451 
+From: Werner, Jacqueline  
+Sent: Wednesday, July 01, 2015 1:36 PM 
+To: Orlin, David; Cooper, Geoff; Bunker, Byron 
+Subject: RE: Copyright Response Re: Vehicle Software 
+Great! I just wanted to make sure I hadn’t dropped the ball somewhere, especially with the upcoming long 
+weekend. 
+Thanks, 
+Jacqueline 
+Jacqueline Robles Werner 
+Associate Director 
+Air Enforcement Division 
+U.S. Environmental Protection Agency 
+1200 Pennsylvania Ave., NW 
+WJCS-1117C (MC-2242A) 
+Washington, DC 20460 
+t: 202-564-1036 
+From: Orlin, David  
+Sent: Wednesday, July 01, 2015 1:34 PM 
+To: Werner, Jacqueline; Cooper, Geoff; Bunker, Byron 
+Subject: RE: Copyright Response Re: Vehicle Software 
+I was working on some edits in response to some comments from Geoff that the letter could use some greater 
+explanation for people not immersed in the CAA mobile source world. I’ll try to circulate those shortly. 
+David Orlin  
+U.S. EPA, Office of General Counsel 
+(202) 564‐1222 
+EPA-HQ-2016-000247 Interim Production 1, Page 23
+(b)(5) Attorney Client Privilege
+
+[PAGE 20]
+4
+From: Werner, Jacqueline  
+Sent: Wednesday, July 01, 2015 1:32 PM 
+To: Cooper, Geoff; Orlin, David; Bunker, Byron 
+Subject: RE: Copyright Response Re: Vehicle Software 
+Hi Geoff – 
+Just checking in to see where we are with the letter. Please let me know if I can assist in any way.  
+Thanks, 
+Jacqueline 
+Jacqueline Robles Werner 
+Associate Director 
+Air Enforcement Division 
+U.S. Environmental Protection Agency 
+1200 Pennsylvania Ave., NW 
+WJCS-1117C (MC-2242A) 
+Washington, DC 20460 
+t: 202-564-1036 
+From: Cooper, Geoff  
+Sent: Thursday, June 25, 2015 12:30 PM 
+To: Orlin, David; Bunker, Byron 
+Cc: Werner, Jacqueline 
+Subject: RE: Copyright Response Re: Vehicle Software 
+Thanks, all, for composing and editing what will be the guts of a response to the copyright office on their DMCA 
+rulemaking. I should be able to get to it early next week and circulate a draf t with the C/R elements included. 
+ 
+ 
+ 
+Geo
+ff  
+Geoff Cooper 
+Assistant General Counsel 
+Intellectual Property Law Practice Group 
+(202) 564‐5451 
+From: Orlin, David  
+Sent: Wednesday, June 24, 2015 3:45 PM 
+To: Bunker, Byron 
+EPA-HQ-2016-000247 Interim Production 1, Page 24
+(b)(5) Attorney Client Privilege
+
+[PAGE 21]
+Cc: W erner, Jacqueline; Cooper, Geoff 
+Subject: RE: Cop yright Response Re : V ehicle Softw are 
+Note: the draft attached to this email, file name 
+"CopyrightResponse_jrw 06 18 lS_bw 06 23 lS+do" is withheld 
+in full under exemption b(S), deliberative process privilege 
+Thanks, Byron. I went ahead and suggested some edits, although I am happy to defer to Geoff on this 
+Dav id Orlin 
+U .S. EPA, Office of Gene ral Cou nsel 
+(202) 564-1222 
+From: Bunker, Byron 
+Sent: W ednesday, June 24, 2015 7:47 AM 
+To: Or lin, Da vid 
+Subject: FW : Copyright Respon se Re : V ehicle Softw are 
+Sorry Dav id. You should have been copied on this. 
+Thanks, 
+Byron 
+From: W illiams, Brent 
+Sent: Tuesda y, June 23, 2015 11:12 A M 
+To: Coo per, Ge off; W erner, Jacque line 
+Cc: Bunker, Byron; Manner s, Mar y 
+Subject: Copyright Re sponse Re: V ehicle Softw are 
+Geoff-
+N ote: the draft attached to this email, file name 
+"CopyrightR esponse_jrw 06 18 lS_bw 06 23 15," is withheld in 
+full unde r exemp tion (b)S, deliberative process privilege 
+Attached is the rough draft of EPA's respon se regarding the proposed exemption for circum vention of TPMs on vehicle 
+softw are. OEC A and OT A Q have w orked together on this initial draft and now wo uld request you review/edit the letter, 
+add in any copyright law discussion as yo u see fit, as w ell as a concluding paragraph, so it can be prepared for Av i's 
+signature through your shop. Thank you so much for the assistance on this issue. Please circulate future versions of the 
+response to the entire group. 
+Best, 
+Brent 
+Brenton Williams 
+Attorney-Advisor 
+Compliance Division 
+Office of Transportation and Air Q uality 
+U .S. Environmental Protection Agency 
+(734) 214-4341 
+***PLEASE NOTE: Beginning May 18 my schedule will be Tue, Wed, Thurs, 8:00am-4:30pm*** 
+s 
+EPA -HQ -2016-000247 Interim Production 1, Page 25
+
+[PAGE 22]
+ 
+July x
+x, 2015 
+Ms,
+ Jacqueline C. Charlesworth 
+General Counsel and Associate Register of Copyrights 
+United States Copyright Office 
+101 Independence Avenue SE 
+Washington, DC 20559-6000 
+SUBJEC
+T:  Section 1201 Rulemaking – Proposed Exemptions for Vehicle Software 
+(Docket No. 2014-07, Proposed Class 21: Vehicle Software –Diagnosis, 
+Repair, or Modification) 
+Dear M
+s. Charlesworth: 
+The C
+alifornia Air Resources Board (ARB) appreciates this opportunity to provide 
+comments on the regulatory proceeding currently before the U.S. Copyright Office 
+concerning the proposed exemption of vehicle software from the prohibition to 
+circumvent technological protection measures. 
+ARB
+ is the state agency charged with protecting air quality in California, conducting 
+research regarding the causes and solution to air pollution, and enforcing the State’s 
+laws for the control of air pollution emissions from motor vehicles in California 
+(California Health and Safety Code (H & S) §§ 39002, 39003, and 39500).  ARB is also 
+charged with adopting and implementing standards and regulations applicable to 
+various sources of air pollution, including on- and off-road motor vehicles, vehicular 
+fuels, and other carcinogenic, teratogenic, mutagenic, or otherwise toxic air 
+contaminants (H & S §§ 39656, 43013, 43018, 43018.5, and 43101-104.)   
+The f
+ederal Clean Air Act (CAA), 42 U.S.C. § 7401 et seq., authorizes the United States 
+Environmental Protection Agency (U.S. EPA) to, among other things, establish 
+emissions standards for new motor vehicles.  The CAA also allows only California to 
+adopt and to enforce new motor vehicle emission standards that are distinct from, and 
+more stringent than comparable federal emission standards, provided U.S. EPA issues 
+California a waiver for such emission standards. 
+EPA-HQ-2016-000247 Interim Production 1, Page 26
+
+[PAGE 23]
+The ARB has adopted and implemented an array of measures to control emissions from 
+on-road vehicles that have been instrumental in improving the air quality in California 
+and which are vital to making the substantial further progress that is required to bring 
+the state into compliance with federally mandated ambient air quality standards.  The 
+ARB frequently consults with the U.S. EPA in a variety of matters, and has been 
+informed via your letter to U.S. EPA dated May 12, 2015, of the Section 1201 regulatory 
+proceeding to consider exempting vehicle software from the prohibition of circumvention 
+of technological measures protecting copyrighted works.   
+ As di
+scussed in more detail below, the ARB is deeply concerned that any action taken 
+that would further facilitate or appear to legitimize the modification of on-board vehicle 
+programming would likely create negative consequences for the environment, vehicle 
+safety, and the vehicle owners themselves.  The ARB further believes that the 
+exemption sought by the petitioners would not significantly further the stated goals 
+under which it was submitted (i.e., the lawful personalization, improvement, or repair of 
+vehicles by vehicle owners or those working on their behalf).   
+1. Modi
+fications of vehicle programming for the purpose of improving
+performance or fuel efficiency are highly likely to negatively impact
+emissions.
+Modern v
+ehicles employ sophisticated emission control systems that reduce 
+tailpipe and evaporative emissions by well over 90 percent compared to the 
+levels emitted just a couple decades ago.  These systems rely on the precise 
+control of fuel quantity, delivery, and combustion in coordination with an array of 
+other emission control systems and components that are highly integrated to 
+reduce and remove engine out pollutants before they are released to the 
+atmosphere.  Even minor modifications to the operation of the powertrain and the 
+emission controls (and even those that are seemingly beneficial) can significantly 
+increase vehicle emission levels.  For example, the most common method of 
+modifying a gasoline powered vehicle to improve fuel economy may be to raise 
+the ratio of air to fuel into the engine to provide for more complete combustion of 
+the fuel.  However, doing so greatly reduces the ability of the vehicle’s catalytic 
+converter to eliminate oxides of nitrogen (NOx) pollutants coming from the engine 
+before they are released into the air.  NOx emissions are one of the primary 
+precursors for the formation of ozone
+1 in the atmosphere.  On the other hand, 
+modifications to improve vehicle performance in terms of added horsepower or 
+torque often involve a reduced air fuel ratio which results in an increase in carbon 
+1 There are federally mandated air quality standards for ozone.  Most areas in California are not currently 
+in attainment for these standards.   
+EPA-HQ-2016-000247 Interim Production 1, Page 27
+
+[PAGE 24]
+monoxide and hydrocarbon emissions (another ozone precursor) or, in the case 
+of performance modifications on diesels, diesel particulate matter or “soot,” which 
+is an air toxic.   
+Such 
+modifications can also affect the durability of the emission control system.  
+For example, modifications that increase exhaust gas temperatures and/or the 
+greater discharge of engine out pollutants can elevate the operating temperature 
+of the catalytic converter, which over time will shorten its life.   
+2. Incr
+eased activity in the modification of vehicle On-Board Diagnostic (OBD)
+systems could greatly undermine emission inspection programs
+conducted throughout the U.S.
+On-road vehi
+cles sold in the U.S. have been equipped with sophisticated OBD 
+systems since the 1996 model year.  These systems are comprised of 
+programming in the on-board computer that works with the various input and 
+outputs to the on-board computer.  OBD systems are designed to monitor the 
+performance of vehicle emission control systems, and to alert the vehicle 
+operator of the occurrence of emission-related malfunctions.  When a problem is 
+detected, the Malfunction Indicator Light (MIL), also known as the “Check 
+Engine” light, will illuminate, and the on-board computer will store a prescribed 
+set of diagnostic data including diagnostic trouble codes to help service 
+technicians to efficiently repair emission-related problems.   
+In th
+e more than 30 states that are currently using emission Inspection and 
+Maintenance (I/M) programs as a strategy to meet ambient air quality standards, 
+every state but one (Colorado) uses information from the vehicle OBD systems 
+as the primary mechanism to evaluate the emissions performance of inspected 
+vehicles.  Changes to the programming for the OBD system can hinder its ability 
+to detect emission-related malfunctions and/or to correctly communicate the 
+system information necessary to evaluate the vehicle at the time of an inspection. 
+Such changes may be inadvertently made in the process of “adjusting” the on-
+board programming, or they may be designed to intentionally disable OBD 
+system functions for the purpose of fraudulently getting a vehicle through the 
+inspection process without making necessary (and sometimes costly) repairs to 
+the emissions control system.  I/M fraud is already a significant issue that states 
+including California must continually address to ensure their programs remain 
+effective.  Increased activity by owners, hobbyists, or others to alter on-board 
+computer programming would likely increase this burden on emissions inspection 
+programs. 
+EPA-HQ-2016-000247 Interim Production 1, Page 28
+
+[PAGE 25]
+3. The as
+sessment of whether or not powertrain modifications are “lawful”
+from the perspective of emissions is well beyond the capability of most
+vehicle owners and hobbyists.
+Under b
+oth California and federal law, vehicle modifications that reduce the 
+effectiveness of the emissions control systems are illegal.  Manufacturers certify 
+the emissions performance of the vehicles they produce using a series of 
+complex test procedures carried out in multi-million dollar test facilities equipped 
+with transient dynamometers and sophisticated emissions-measurement 
+instruments.  The impact of modifications on the effectiveness of the emission-
+control systems can only be truly ascertained by subjecting vehicles to such 
+testing in their modified state.  Companies that currently offer products that 
+modify emission-controlled vehicles must invest thousands of dollars to purchase 
+necessary testing at ARB recognized laboratories to demonstrate that the 
+modifications do no violate the anti-tampering provisions contained in Section 
+27156 of the California Vehicle Code.  The testing must include an assessment 
+of the modification’s effect on vehicle OBD systems.   
+Due to
+ the complexity and sensitivity of emission control and OBD system 
+designs, the ARB believes that a high percentage of modifications made by 
+owners and hobbyists would likely reduce the emissions-performance of their 
+vehicles, but the process of conclusively making or refuting that determination is 
+impractical in such cases for both the regulatory agencies and the 
+owners/hobbyists.  Therefore, the ARB believes that increased activity in this 
+area will ultimately undermine the progress and goals of state and federal vehicle 
+emission control programs. 
+4. Great
+er access to on-board computer reprogramming is not necessary for
+the purpose of vehicle maintenance and repair.
+Sect
+ion 1969, Title 13, California Code of Regulations requires vehicle 
+manufacturers to make available to independent service providers the same 
+emission-related service information and tools that dealerships use.  That 
+includes tools and information necessary to install software updates developed 
+and released by the vehicle manufacturers.   The tools do not provide for the 
+alteration of the software; however, in ARB’s opinion, customization of the 
+software is never necessary in order to repair or maintain a stock vehicle.  
+Replacement parts are designed to function in all material respects identically to 
+the original equipment, and as such, they are compatible with the vehicle 
+EPA-HQ-2016-000247 Interim Production 1, Page 29
+
+[PAGE 26]
+programming that is made available by vehicle manufacturers.  The U.S. EPA 
+has adopted similar service information requirements that apply federally. 
+5. Altho
+ugh California emission regulations do not currently require the use
+of anti-tampering measures for vehicle computer programming, the ARB
+considers the use of such measures to be critical to the success of its
+emission standards and requirements.
+For the r
+easons discussed in the sections above, proper emissions and OBD 
+system performance for in-use vehicles is critically dependent on limiting third 
+party opportunities to alter vehicle programming, and the lack of specific tamper 
+resistance requirements in the current California regulatory structure is not an 
+indication of any lack of importance.  When on-board computers first made their 
+way into on-road vehicles in the 1980’s and into the 1990’s, ARB regulation 
+required manufacturers to implement anti-tampering measures to deter third 
+party alteration of the on-board computer’s programming.   However, as on-board 
+computer technology evolved from using programmable read only memory chips 
+that contain vehicle programming to designs that can be re-flashed in the field 
+through the vehicle network, it became clear to the ARB that the vehicle security 
+issues that manufacturers face would lead them to implement anti-tampering 
+strategies on their own that would meet or exceed any requirements the agency 
+could reasonably set forth and maintain.  The ARB believes that removing 
+copyright protections could significantly alter these circumstances and require 
+both manufacturers and regulatory agencies to reconsider how the security of 
+vehicle programming can best be ensured. 
+Thank y
+ou for considering the Air Resources Board’s comments and concerns 
+regarding this issue.  Should you have any questions or require additional information, 
+please contact Annette Herbert, Chief, Emission Compliance, Automotive Regulations 
+and Science (ECARS) Division at (626) 450-6150 or annette.hebert@arb.ca.gov
+. 
+Sincer
+ely, 
+Dr. 
+Alberto Ayala 
+Deputy Executive Officer 
+EPA-HQ-2016-000247 Interim Production 1, Page 30
+
+[PAGE 27]
+mlllllm------------------------------------
+From: Cooper, Geoff 
+Sent: 
+To: 
+Tuesday, July 07, 2015 10:50 AM 
+Orlin, David 
+Subject: RE : Copyright Response Re : Vehicle Software 
+Da vid, 
+The more I read through this letter, the more it appears to me that there is some redundancy, that w e have a fairly 
+discrete concern but that w e spend four paragraphs explaining it. Isn't it correct to simp ly say this: if peop le are allow ed 
+to bypass a technological protection mea sure to get access to an ECM , the mod ification, impro vement s, etc., they do 
+w ill be to increase fuel efficiency or performance (m ostly). This will result in greater em issions (in our experience). ? 
+The letter also contains this sentence: "Manufa cturers are already required to provide lawful access for law ful diagnosis, 
+repair and mod ifications." If that's the case, is there any reason to be concerned about exempt ing TPM s? Cou ldn't 
+someone get to the ECM anyw ay? That's w hat seem s to be imp lied by that sentence. 
+Thanks, 
+Geoff 
+-----Original Me ssage----­
+From: Orlin, Da vid 
+Sent: Thursday, July 02, 2015 4:52 PM 
+To: Cooper, Geoff; Werner, Jacqueline; Bunker, Byron; W illiam s, Brent 
+Subject: RE: Copyright Re sponse Re : V ehicle Softw are 
+Thanks Geoff. I am free for a call on W eds. Per your comment s below (and earlier) I have gone back to the letter and 
+tried to substantially simp lify it w hile keeping the ma in points (and it could perhaps be cut back further). 
+Da vid Orlin 
+U .S. EP A, Office of General Counsel 
+(202) 564-1222 
+From: Co oper, Geoff 
+Sent: Thursday, July 2, 2015 10:45 AM 
+To: W erner, Jacqueline; O rlin, David; Bun ker, Byron; W illiam s, Brent 
+Subject: RE : Copyright Re sponse Re: V ehicle Softw are 
+A ll, 
+I just spoke to M ichelle Choe from the copyright office. Her office is trying to gather up all comment s from the agencies 
+on the DM CA rulemak ing by July 17th. I prom ised her that w e w ould meet that deadline, and that m y goal w as to send 
+the letter by the end of next w eek (June 10th). 
+M ichelle also offered to have a phone call w ith us so w e can detail our concerns with exempt ion, perhaps before w e 
+actually send the letter. A pparently, Brent w as in touch w ith the copyright office a few w eeks ago and ment ioned that 
+NHTS A and DOT m ight be interested in the rulemak ing, too. Brent, if you have any name s to contact at those agencies, 
+M ichelle wo uld like to reach them. 
+1 
+EPA -HQ -2016-000247 Interim Production 1, Page 31
+
+[PAGE 28]
+2
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Let me
+ know if you would like to arrange a call with the copyright office.  I will probably be out on Monday.  Wednesday 
+would probably be the best day for me for the phone call. 
+Thanks, 
+Geoff 
+Geof
+f Cooper 
+Assistant General Counsel 
+Intellectual Property Law Practice Group 
+(202) 564‐5451 
+From: Werner, Jacqueline 
+Sent: Wednesday, July 01, 2015 1:36 PM 
+To: Orlin, David; Cooper, Geoff; Bunker, Byron 
+Subject: RE: Copyright Response Re: Vehicle Software 
+Great!  I just wanted to make sure I hadn’t dropped the ball somewhere, especially with the upcomi ng long weekend. 
+Thanks, 
+Jacqueline 
+Jacqueline Robles Werner 
+Associate Director 
+Air Enforcement Division 
+U.S. Environmental Protection Agency 
+1200 Pennsylvania Ave., NW 
+WJCS‐1117C (MC‐2242A) 
+Washington, DC 20460 
+t:  202‐564‐1036 
+From: Orlin, David 
+Sent: Wednesday, July 01, 2015 1:34 PM 
+To: Werner, Jacqueline; Cooper, Geoff;  Bunker, Byron 
+Subject: RE: Copyright Response Re: Vehicle Software 
+EPA-HQ-2016-000247 Interim Production 1, Page 32
+(b)(5) Attorney Client Privilege
+
+[PAGE 29]
+3
+I was working on some edits in response to some comments from Geoff that the letter could use some greater 
+explanation for people not immersed in the CAA mobile source world.  I’ll try to circulate those shortly. 
+David Orlin 
+U.S. EPA, Office of General Counsel 
+(202) 564‐1222 
+From: Werner, Jacqueline 
+Sent: Wednesday, July 01, 2015 1:32 PM 
+To: Cooper, Geoff; Orlin, David; Bunker, Byron 
+Subject: RE: Copyright
+ Response Re: Vehicle Software 
+Hi Geoff – 
+Just checking in to see where we are with the letter.  Please let me know if I can assist in any way. 
+Thanks, 
+Jacqueline 
+Jacqueline Robles Werner 
+Associate Director 
+Air Enforcement Division 
+U.S. Environmenta
+l Protection Agency 
+1200 Pennsylvania Ave., NW 
+WJCS‐1117C (MC‐2242A) 
+Washington, DC 20460 
+t:  202‐564‐1036 
+From: Cooper, Geoff 
+Sent: Thursday, June 25, 2015 12:30 PM 
+To: Orlin, David; Bunker, Byron 
+Cc: Werner, Jacqueline 
+Subject: RE: Copyright Response Re: Vehicle Software 
+Thanks, all, for composing and editing what will be the gut
+s of a response to the copyright office on their DMCA 
+rulemaking.  I should be able to get to it early next week and circulate a draft with the C/R elements included. 
+  
+ 
+Geo
+ff 
+Geoff Cooper 
+Assistant General Counsel 
+Intellectual Property Law Practice Group 
+(202) 564‐5451 
+EPA-HQ-2016-000247 Interim Production 1, Page 33
+(b)(5) Attorney Client Privilege
+
+[PAGE 30]
+From: Orlin, Da vid 
+Sent: W ednesday, June 24, 2015 3:45 PM 
+To: Bunker, Byron 
+Cc: W erner, Jacqueline; Cooper, Geoff 
+Subject: RE: Copyright Response Re : V ehicle Softw are 
+No te: (same ema il asp. 25) the draft attached to this 
+email, file name "C opyrightResponse_jrw 06 18 15_bw 
+06 23 15+d o," is withheld in full under exemption b(5), 
+deliberative process privilege 
+Thanks, Byron. I w ent ahead and suggested some edits, although I am happy to defer to Geoff on this. 
+Da vid Orlin 
+U .S. EP A, Office of General Counse l 
+(202) 564-1222 
+From: Bunker, Byron 
+Sent: W ednesday, June 24, 2015 7:47 A M 
+To: Orlin, Da vid 
+Subject: FW : Co pyright Re sponse Re : V ehicle Softw are 
+Sorry Da vid. You shou ld have been copied on this. 
+Thanks, 
+Byron 
+From: W illiams, Brent 
+Sent: Tuesday, June 23, 2015 11:12 A M 
+To: Cooper, Geoff; Werner, Jacqueline 
+Cc: Bunker, Byron; Manner s, Mary 
+Subject: Copyright Re sponse Re: Vehicle Softw are 
+Geoff-
+No te: (same ema il asp. 25) the draft attached to this ema il, file 
+name "CopyrightResponse_jrw 06 18 15_bw 06 23 15," is 
+withheld in full under exemption (b )5, deliberative process 
+privilege 
+Attached is the rough draft of EP A's response regarding the proposed exemption for circumvention of TPMs on vehicle 
+softw are. OEC A and OT AQ have w orked together on this initial draft and now wo uld request you review/edit the letter, 
+add in any copyright law discussion as you see fit, as w ell as a concluding paragraph, so it can be prepared for Avi's 
+signature through your shop. Thank you so much for the assistance on this issue. Please circulate future versions of the 
+response to the entire group. 
+Best, 
+Brent 
+Brenton W illiams 
+Attorney-A dvisor 
+Comp liance Division 
+Office of Transportation and Air Qua lity U.S. Environmenta l Protection Agen cy 
+4 
+EPA -HQ -2016-000247 Interim Production 1, Page 34
+
+[PAGE 31]
+5
+(734) 214‐4341 
+***PLEASE NOTE:  Beginning May 18 my schedule will be Tue, Wed, Thurs, 8:00am‐4:30pm*** 
+EPA-HQ-2016-000247 Interim Production 1, Page 35
+
+[PAGE 32]
+mlllllm------------------------------------From : 
+Sent: 
+To: 
+Ch oe, M ichelle <m choe@ loc.gov> 
+Tuesday, July 07, 2015 8:45 AM 
+Coope r, Geo ff 
+Subject: RE: Co ntacts for D M CA rulema king 
+H i Geoff, 
+Glad to hear the EPA w ill be able to send a formal response in time, and, of course, if the EPA w ould like to have a phone 
+conversation, we'd be happy to set that up. Thank you for the contact information for NHTSA and the California Air 
+Resources Board, and please feel free to contact me if you or anyone else at the EPA have any remaining questions. 
+Best, 
+M ichelle 
+From: Coope r, Geoff [ma ilto:Cooper.Geoff@epa.gov] 
+Sent: Monda y, July 06, 2015 11:18 AM 
+To: Choe, M ichelle 
+Subject: Contacts for DMCA rulemak ing 
+Miche lle, 
+Some of the peop le I've needed to speak to about EPA 's view s on the DMCA rulemak ing have been out, at various times, 
+recently, and others are out for most of this w eek. I still w ill be able to send a formal, EPA response in time for your 
+office's review, though. We also ma y take you up on the offer for a phone conversation so you can hear more details 
+about EPA 's concerns. 
+In the meant ime , I did get tw o other contacts from one of our A ir Act experts before he left on vacation. For the 
+National Highw ay Traffic Safety Adm inistration, our contact is: 
+Steve Wood 
+Acting Ch ief Counsel & Assistant Ch ief Counse l 
+Vehicle Ru lemak ing and Harmonization 
+(+ WTO/TBT and regulatory coherence issues) 
+National Highw ay Traffic Safety Adm inistration 
+West Bu ilding, W41-318 
+1200 Ne w Jersey Avenue , SE 
+Washington, DC 20590 
+Tel. 202-366-5240 
+Ce ll 202-403-9086 
+steve.wood@dot.gov 
+And , the EPA contact in the California Air Resources Board is: 
+Annette Hebert, Chief 
+Emissions Comp liance, Automotive Regulations and Science (ECARS) Division 
+California Air Resources Board 
+( 626)450-6150 
+ahebert@a rb.ca.gov 
+1 
+EPA-HQ-2016-000247 Interim Production 1, Page 36
+
+[PAGE 33]
+2
+I’m not sure if there is anyone else in the Department of Transportation to speak to, other than St
+eve Wood (NHTSA is 
+part of DOT) but I’m still making inquiries.  
+Once I have sorted out the schedules for our Clean Air Act specialists who can speak to the exemption, I’ll get in 
+touch to set up the phone call. That ma
+y not be until early next week.  
+Thanks, again, for your patience. 
+Geoff 
+Geoff Cooper 
+Assistant General Counsel 
+Office of General Counsel 
+Environmental Protection Agency 
+12th & Penn. Av. N.W. 
+Washington, D.C. 20460 
+(202) 564‐5451 
+EPA-HQ-2016-000247 Interim Production 1, Page 37
+
+[PAGE 34]
+mlllllm------------------------------------From: 
+Sent: 
+To: 
+Choe, M ichelle <mc hoe@ loc.gov> 
+We dnesday, July 15, 2015 12:20 PM 
+Cooper, Geoff 
+Subject: RE: Con tacts for DMCA rulemak ing 
+Great, thanks for letting me know. As for the call, that would be fine. When you are able to find a time, please let me 
+know, and I'd be happy to coordinate w ith you in setting up a call. 
+M ichelle 
+From: Cooper, Geoff [ma ilto:Cooper.Geoff@epa.gov] 
+Sent: W ednesday, July 15, 2015 11:42 AM 
+To: Choe, Miche lle 
+Subject: RE: Contacts for DM CA rulema king 
+Thanks for checking in, M ichelle. I should have a letter to you by later today or tomorrow. Yes, I think EPA wou ld like to 
+set up a call, but I haven't been able to find a time when our Clean A ir Act experts (in Ann Arbor) and my colleague in 
+OGC are around at the same time (vacations, ma inly). I may not be able to arrange anything until next week or the week 
+afterward. 
+Geoff 
+From: Choe, M ichelle [mailto:mchoe@ loc.gov] 
+Sent: W ednesday, July 15, 2015 10:49 AM 
+To: Cooper, Geoff 
+Subject: RE: Contacts for DM CA rulemak ing 
+H i Geoff, 
+I thought I'd check in w ith you and see if the EPA wanted to discuss anything before sending a response letter by Friday. 
+Please let me know ifthe EPA would like to set up a call. 
+Best, 
+M ichelle 
+From: Cooper, Geoff [mailto:Cooper.Geoff@epa .gov] 
+Sent: Monday, July 06, 2015 11:18 AM 
+To: Choe, M ichelle 
+Subject: Contacts for DMC A rulemak ing 
+Miche lle, 
+Some of the peop le I've neede d to speak to about EP A's views on the DMCA rulemak ing have been out, at various time s, 
+recently, and others are out for mo st of this week. I still w ill be able to send a formal, EP A response in time for you r 
+1 
+EPA-HQ-2016-000247 Interim Production 1, Page 38
+
+[PAGE 35]
+2
+office’s review, though. We also may take you up on the offer for a phone conversation so you can hear more details 
+about EPA’s concerns.  
+In the meantime, I did get two other contacts from one of our Air Act experts before he left on vacation. For the 
+National Highway Traffic Safety Administ ration, our contact is:  
+Steve Wood 
+Acting Chief Counsel & Assistant Chief Counsel 
+Vehicle Rulemaking and Harmonization 
+(+ WTO/TBT and regulatory coherence issues) 
+National Highway Traffic Safety Administration 
+West Building, W41‐318 
+1200 New Jersey Avenue, SE 
+Washington, DC 20590 
+Tel. 202‐366‐5240 
+Cell 202‐403‐9086 
+steve.wood@dot.gov 
+And, the EPA contact in the California Air Resources Board is: 
+Annette Hebert, Chief 
+Emissions Compliance, Automotive Regulations and Science (ECARS) Division 
+California Air Resources Board 
+(626)450‐
+6150 
+ahebert@arb.ca.gov 
+I’m not sure if there is anyone else in the Department of Transportation to speak to, other than St
+eve Wood (NHTSA is 
+part of DOT) but I’m still making inquiries.  
+Once I have sorted out the schedules for our Clean Air Act specialists who can speak to the exemption, I’ll get in 
+touch to set up the phone call. That ma
+y not be until early next week.  
+Thanks, again, for your patience. 
+Geoff 
+Geoff Cooper 
+Assistant General Counsel 
+Office of General Counsel 
+Environmental Protection Agency 
+12th & Penn. Av. N.W. 
+Washington, D.C. 20460 
+(202) 564‐5451 
+EPA-HQ-2016-000247 Interim Production 1, Page 39
+
+[PAGE 36]
+mlllllm------------------------------------
+From: 
+Sent: 
+To: 
+Subject: 
+Attachments: 
+Michelle, 
+Cooper, Geoff 
+Thursday, July 16, 2015 5:00 PM 
+'Choe, Michelle' 
+EPA views on DMCA rulemak inq 
+DMCA response GC draft (3) 7 16-15.docx 
+I'm attaching w hat I think w ill be the final version of the EPA letter. I had hoped to be done w ith this early in 
+the w eek but, once again, I w as thw arted by the shifting demand s of the man y people w ho needed to w eigh in 
+on it (and just two paragraphs, at that). I'll be sure to scan and e-mail a final version tomorrow . Thanks, again, 
+for your patience. 
+Ge off 
+1 
+EPA -HQ -2016-000247 Interim Production 1, Page 40
+
+[PAGE 37]
+From : Steve Douglas [mailto:SDOUGLAS@autoalliance.org] 
+Sent: Tuesday, July 21, 2015 10:49 AM 
+To: Wehr ly, Linc <wehrly.linc@epa .goV> 
+Cc : Chris Nevers <CNevers@autoalliance.org> 
+Subject: DMCA -Veh icle Software Exemption 
+Linc, 
+Note: the attachment referenced in this email is the May 
+12th 2015 letter from the US Copyright Office to EPA , the 
+first document in this production. 
+Did EP A send a letter to the Copyright office in response to the attached? I've been wo rking with 
+M ike McCarthy and Annette, and I think they're planning to send a response this wee k. If you've 
+responded, can you send me a copy of the letter? 
+Thanks. 
+Best regards, 
+Steve 
+Steve Douglas 
+Senior Director, Environme ntal Affairs 
+Alliance of Automob ile Manufacturers 
+1415 L Street, Suite 1190 
+Sacramento, CA 95814 
+Text or call: (916) 538-1197 
+EPA -HQ-2016-000247 Interim Production 1, Page 47
+
+[PAGE 38]
+2
+From: Bunker, Byron  
+Sent: Tuesday, July 28, 2015 5:41 PM 
+To: Orlin, David; Cooper, Geoff; Werner, Jacqueline; Belser, Evan 
+Subject: RE: Tomorrow's call 
+ 
+I can make 11 or 12:45 with a small preference for 12:45. I am also good with sorting it out via e‐mail. 
+ 
+The main point that I would like to make is that it is extre
+ mely unlikely that a vehicle owner can adjust a modern vehicle 
+in a way that would not adversely impact emissions. Accomplishing this trick would require not just the TPM but also a 
+dynamometer and an emissions testing bench. This point could be made at whatever step in the discussion make s sense 
+to OGC. 
+ 
+Thanks, 
+ 
+Byron 
+ 
+************************** 
+Byron Bunker 
+Director Compliance Division 
+Office of Transportation and Air Quality 
+Environmental Protection Agency 
+2000 Traverwood Drive 
+Ann Arbor, MI 48105 
+Bunker.Byron@epa.gov 
+Phone: (734) 214‐4155 
+Mobile: (734) 353‐9623 
+******************************** 
+ 
+From: Orlin, David  
+Sent: Tuesday, July 28, 2015 4:10 PM 
+To: Cooper, Geoff; Bunker, Byron; Werner, Jacqueline; Belser, Evan 
+Subject: RE: Tomorrow's call 
+ 
+I’m free between 10 and 11 or at 12:45. I would think it makes sense for us to have a brief conversation, at least to 
+decide who should take the lead on the CAA perspective  (unless we want to do that by email). 
+ 
+David Orlin  
+U.S. EPA, Office of General Counsel 
+(202) 564‐1222 
+ 
+From: Cooper, Geoff  
+Sent: Tuesday, July 28, 2015 3:29 PM 
+To: Bunker, Byron; Werner, Jacqueline; Orlin, David; Belser, Evan 
+Subject: Tomorrow's call 
+ 
+All, 
+ 
+We’ll be speaking with Michelle Choe and Steve Ruwe, both of whom are in the general counsel’s office of the 
+Register of Copyright and are mainly responsible for sorting through the comments on the proposed 
+exemptions. 
+ 
+EPA-HQ-2016-000247 Interim Production 1, Page 53
+
+[PAGE 39]
+3
+My plan is to start the conversation off by introducing us all and then, briefly, giving the copyright law reason 
+for not exempting vehicle software. They have no doubt heard that reason many times before (there is no 
+productive value to removing the barrier – it doesn’t spur the creation of more expressive works,  it doesn’t 
+contribute to knowledge, etc.), so I’ll be brief. After that, I plan to turn it over to one of you for the CAA 
+perspective. 
+ 
+My sense is that the copyright office is receptive to our concerns, but they will probably need to know why we 
+think more mischief will result if we exempt these  devises from liability under the copyright law. We may need 
+to provide them with some documentation.  
+ 
+If you think we should find a few minutes before the call and discuss our approach, please let me know. I could 
+call in a few minutes before 1, or between 10 and 11 tomorrow.  
+ 
+Thanks, 
+Geoff 
+ 
+ 
+ 
+ 
+EPA-HQ-2016-000247 Interim Production 1, Page 54

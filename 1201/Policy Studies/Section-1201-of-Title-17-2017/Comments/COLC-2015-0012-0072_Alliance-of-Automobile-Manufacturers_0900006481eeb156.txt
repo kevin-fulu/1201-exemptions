@@ -1,0 +1,241 @@
+[PAGE 1]
+ 
+7551209.1 
+UNITED STATES COPYRIGHT OFFICE 
+ 
+ 
+ 
+Section 1201 Study: Notice and 
+Request for Public Comment 
+ 
+Docket  No.: COLC-2015-0012                       
+                             
+* 
+ 
+* 
+ 
+* 
+ 
+* 
+ 
+Reply Comments of:  
+Alliance of Automobile Manufacturers 
+ 
+ 
+Submitted on behalf of 
+Jessica L. Simmons, Senior Attorney 
+Alliance of Automobile Manufacturers 
+Washington, DC 
+By 
+Steven J. Metalitz 
+Mitchell Silberberg & Knupp LLP 
+Washington, DC 
+Of Counsel 
+March 30, 2016 
+ 
+****** 
+ 
+The Alliance of Automobile Manufacturers (Auto Alliance) welcomes this opportunity to 
+provide reply comments regarding the Copyright Office Section 1201 study.  While the initial 
+round comments raise many issues, this reply focuses on two: (i) the relationship between 
+violations of 17 U.S.C. § 1201 and copyright infringement (NOI Question 2); and (ii) whether 
+administratively recognized exemptions to the prohibition on circumventing access controls 
+should be extended to immunize trafficking in circumvention products and services (NOI 
+Questions 6 and 7).   
+NOI Question 2 – Interests “Outside of Core Copyright Concerns” 
+In their eagerness to advance the argument that the Copyright Office should give no 
+consideration in the DMCA rulemaking process to “interests outside of core copyright 
+concerns,” some initial round commenters rely upon the unfounded assertion that “section 1201 
+applies where, and only to the extent that, the technological measure actually protects a right of a 
+copyright holder in a copyrighted work,”1 or posit that the statute “should not be used  to … deny 
+an otherwise legitimate exemption where the use is not made for the purpose of violating 
+copyright law.”2  Neither position finds any support in either the plain language of the statute or 
+its legislative history.   
+                                                 
+1 Initial Comments of the Auto Care Association at 3 (March 3, 2016) (“Auto Care Comment”).  
+2 Initial Comments of the Institute of Scrap Recycling Industries, Inc. at 4 (March 3, 2016) (“ISRI Comment”).
+
+[PAGE 2]
+Reply Comments of the Alliance of Automobile Manufacturers  
+March 30, 2016  
+ 2 
+7551209.1 
+Section 1201(a) specifically addresses any “technological measure that effectively 
+controls access to a work,” while an entirely separate provision, section 1201(b), focuses on such 
+measures “that effectively protect a right of the copyright owner under this title in a work or 
+portion thereof.”  It is only the latter provision that is limited to measures that “actually protect a 
+right of a copyright holder in a copyrighted work’’; the former provision clearly targets a 
+different category of protections, those that control access to the work, whether for infringing or 
+non-infringing purposes.  Of course, the entire DMCA rulemaking proceeding concerns only the  
+section 1201(a)(1) prohibition; it does not deal in any way with any “technology [that] works to 
+control copying, distribution, public performance or the exercise of other exclusive rights in a 
+work,” unless it also controls access to that work.3  
+The legislative history of section 1201(a) specifies that the measures covered by that 
+subsection “can be deployed, not only to prevent piracy and other economically harmful 
+unauthorized uses of copyrighted materials, but also to support new ways of disseminating 
+copyrighted materials to users, and to safeguard the availability of legitimate uses of those 
+materials by individuals.”4  There is thus no basis for concocting an additional requirement, not 
+to be found in the plain language of the statute – to prove that an act of circumvention of an 
+access control was done “for the purpose of violating copyright law” – before the section 
+1201(a)(1) prohibition would apply.  In particular, hacking through protections applied to control 
+access to copyrighted software clearly violates the statute prima facie, regardless of the presence 
+or absence of a motivation to infringe copyright in the software or any other work.  As reflected 
+in the legislative history just quoted, Congress recognized the valuable role of access controls in 
+safeguarding the integrity of protected software, so that it remains available only for “legitimate 
+uses … by individuals,” and thus prohibited circ umvention of such controls, unless covered by a 
+statutory or administrative exemption to section 1201(a)(1).  
+The Electronic Frontier Foundation, in contrast to the commenters previously cited, is 
+candid enough to concede that importing a “purpose to infringe copyright” requirement into any 
+of the section 1201(a) prohibitions exceeds the power of the Copyright Office and would require 
+Congressional amendment of the statute itself.5  Auto Alliance strongly cautions against 
+enactment of such an amendment.  Requiring proof of an intent to infringe copyright is not even 
+required in a conventional copyright infringement case.6  Injecting such a requirement into 
+section 1201 would throw a serious stumbling block in the path of any copyright owner or other 
+injured party seeking to enforce the law.  It thus would largely vitiate the practical value of the 
+statute, and would risk undermining the global regime of protection of TPMs that has been built 
+upon it.  Congress should continue to reject any such proposal, as it has done in the past.   
+In our initial comments, Auto Alliance offered a detailed proposal for steps that the 
+Copyright Office could take to ameliorate the problems it faces in evaluating exemption 
+                                                 
+3 Staff of House Committee on the Judiciary, 105th Cong., Section-By-Section Analysis of H.R. 2281 as Passed by 
+the United States House of Representatives on August 4, 1998, at 13 (Comm. Print 1998), reprinted in 46 J. 
+Copyright Soc’y U.S.A. 635 (1999) (“Manager’s Rep.”).   
+4 Manager’s Rep. at 6,  emphasis added.  
+5 Initial Comments of the Electronic Frontier Foundation at 2-3 (March 3, 2016) (“EFF Comment”).  
+6 17 U.S.C. § 501; see also 4-13 Nimmer on Copyright § 13.08 (2015) (“[T]he innocent intent of the defendant 
+constitutes no defense to liability.”).
+
+[PAGE 3]
+Reply Comments of the Alliance of Automobile Manufacturers  
+March 30, 2016  
+ 3 
+7551209.1 
+proposals that it perceives as raising issues “outside of core copyright concerns.”7  We note that 
+the Center for Democracy and Technology, in its comments, stresses the need for “clear and 
+transparent communication [to] provide notice to other [regulatory] agencies, alerting them to the 
+potential need to address issues that lie within their realm of expertise.”8  Auto Alliance’s 
+proposals to ask exemption proponents to identify potential collateral regulatory impacts early in 
+the process, and optimally to give proponents strong incentives to clear such impacts with 
+regulators before approaching the Copyright Office for a section 1201 exemption, seek to 
+advance exactly the same goal. 9   
+NOI Questions 6 and 7 – Relationship to Anti-Trafficking Provisions  
+Several of the initial round submissions argue that every administrative exemption to the 
+prohibition (in section 1201(a)(1)(A)) on the act of circumvention should be automatically 
+expanded to cover trafficking in circumvention products and services as well, notwithstanding 
+section 1201(a)(2).10  Some of these submissions document how drastically this change would 
+impact the overall regime of legal protection for access controls, at least in the automotive sector.   
+This is certainly not simply a question of allowing a friend to help a less technologically 
+adept friend to carry out the act of circumvention.  Nor would this change confer immunity 
+solely upon a small, carefully cabined and easily regulated niche market.  Instead, it is a proposal 
+to adopt a blanket rule to sanction circumvention and possible infringing activity on a massive 
+scale, tantamount to the Copyright Office clearing a path for an entire multi-million dollar 
+industry built in substantial part on the act of circumvention.  As one commenter points out, “the 
+independent aftermarket industry employs more than 4,300,000 people in the United States.  
+Nearly $341 billion dollars was spent on motor vehicle care in the United States in 2015, or more 
+than 1.9 percent of the U.S. gross domestic product.”11  Empowering this huge industry to hack 
+into vehicle software virtually at will would have serious detrimental consequences for the entire 
+TPM protection regime.  
+To recycle a well-worn metaphor, proponents of this blanket rule wish to grasp the 
+spindly tail of an exemption to allow individual vehicle owners to carry out circumvention in 
+relatively well-defined, narrowly drawn circumstances, and use it to wag a huge mastiff of 
+unrestricted commercial markets for circumvention products and services.  If a legal imprimatur 
+is to be bestowed on the development and widespread commercial marketing of such tools, it is 
+inescapable that the tools will be used in such a broad range of settings as to render the 
+Copyright Office’s careful line-drawing completely irrelevant.  
+                                                 
+7 Initial Comments of the Alliance of Automobile Manufacturers at 2-3 (March 3, 2016) (“Auto Alliance 
+Comment”).   
+8 Initial Comments of the Center for Democracy & Technology at 4 (March 3, 2016) (“CDT Comment”).   
+9 Auto Alliance Comment at 4-6.  
+10 See, e.g., ISRI Comment at 15 -17; Auto Care Comment at 3; and Initial Comments of the USC Intellectual 
+Property and Technology Law Clinic at 10-13 (March 3, 2016) (“IPT USC Comment”).  See also CDT Comment at 
+10 (positing that wherever the record supports granting an exemption regarding the act of circumvention, it 
+automatically “equally supports” an exemption to allow “enlisting the assistance of others to do so,” i.e. a section 
+1201(a)(2) exemption).  Obviously Congress did not accept this proposition in 1998, since it enacted several 
+statutory exceptions that apply only to section 1201(a)(1)(A) (see, e.g., 17 U.S.C. § 1201 (d), § 1201(i)).   
+11 Auto Care Comment at 1.
+
+[PAGE 4]
+Reply Comments of the Alliance of Automobile Manufacturers  
+March 30, 2016  
+ 4 
+7551209.1 
+Of course, it is clear that any such obliteration of the distinctions between exemptions for 
+the act of circumvention and for trafficking in circumvention tools and services can only result 
+from an Act of Congress, not from the Librarian’s (or the Office’s) narrowly defined role under 
+the current statute.  While a few initial round submitters tried to make the argument that “the 
+intended role of the Office in the rulemaking process and its demonstrated interest in tailoring 
+exemptions to the specific harm they are intended to address” somehow already provide the 
+Office with this authority,12 none of them can point to any provision of the statute that supports 
+this.  Nor can any explain how such an implied authority could be harmonized with the specific 
+statutory mandate that no exemption to section 1201(a)(1)(A) arising from the rulemaking 
+proceeding can provide any defense to liability under any other provision of Title 17, including 
+section 1201(a)(2).13  This argument is best viewed as wishful thinking from advocates who 
+would prefer these broader exemptions be granted through the Copyright Office rulemaking 
+rather than through a drawn out legislative process.14   
+More measured submitters concede that the Register of Copyrights agrees that if 
+Congress intends to grant the Copyright Office such broad authority, it would need to “consider 
+another amendment to section 1201…expressly allo wing the Librarian to adopt exemptions that 
+permit third-party assistance when justified by the record.”15  However, their arguments for 
+enacting such an amendment fail to persuade.  
+Proponents of this position point to the Unlocking Consumer Choice and Wireless 
+Competition Act (“Unlocking Act”) as an instance in which Congress authorized a limited 
+degree of third-party assistance in circumvention.16  But this legislation is an inapposite 
+precedent for the blanket rule they seek.  The Unlocking Act was a narrow, targeted approach to 
+facilitate an activity that did not compromise the security of the device or the information 
+contained therein; a fortiori, an exemption for cell phone unlocking posed no risk to public 
+safety or to the achievement of paramount environmental or energy security goals.17  The same 
+cannot be said for allowing third parties to provide the tools and services for circumventing 
+access controls on vehicle software, for instance.  There, the potential and serious risks were well 
+documented in the rulemaking proceeding.  As the House Judiciary Committee noted in its report 
+on the Unlocking Act, “legalization of circumvention that has such harmful effects is not the 
+intent of this legislation and it would not be authorized by its provisions.”18    
+                                                 
+12 IPT USC Comment at 11. See also EFF Comment at 10-11.   
+13 17 U.S.C. § 1201(a)(1)(E).  Astonishingly, one submitter argues that this provision, clearly intended to erect a 
+firewall between administrative exemptions to section 1201(a)(1) and asserted defenses to section 1201(a)(2) claims, 
+covertly authorizes the Librarian to grant exemptions to both provisions, since otherwise it would be “superfluous.”  
+EFF Comment at 11.  It may be that a belt is superfluous when one is wearing suspenders, but this is far from the 
+first instance in which Congress chose to employ both.   
+14 IPT USC Comment at 12. 
+15 CDT Comment at 9 (quoting Section 1201 Rulemaking: Sixth Triennial Proceeding to Determine Exemptions to 
+the Prohibition on Circumvention, Recommendation of the Register of Copyrights, 5 (Oct. 2015)). 
+16 Pub. L. No. 113-144, 128 Stat. 1751 (2014). 
+17 Report of House Committee on the Judiciary, 113th Cong., Report together with Minority and Additional Views 
+[To accompany H.R. 1123], H.R. Rep. 113-356, 9 (2014). 
+18 Id.
+
+[PAGE 5]
+Reply Comments of the Alliance of Automobile Manufacturers  
+March 30, 2016  
+ 5 
+7551209.1 
+In passing the Unlocking Act, Congress sought to codify consumer protections that had 
+already been voluntarily adopted by major cellphone industry players.19  Even then, the 
+permitted activity was limited:  (i) unlocked phones would not necessarily be fully 
+interoperable
+20 but instead would only be able to connect a new wireless network;21 and (ii) 
+consumers were still bound by the terms of any applicable service agreements they had with the 
+carrier from which the phone was initially purchased.22  A blanket rule allowing the Librarian to 
+extend a recognized section 1201(a)(1) exemption over to section 1201(a)(2) would apply even 
+where none of these important features was present.   
+Empowering the Office and Librarian to obliterate the distinction between the 
+prohibitions against circumvention and the ban on trafficking in circumvention tools would 
+fundamentally alter the structure of section 1201.  Congress should reject, not embrace, the 
+invitation to do so. Such a rejection would be fully consistent with Congress’ approach in the 
+Unlocking Act.   
+*  *  *  * 
+Thank you for considering the views of the Auto Alliance.   
+ 
+                                                 
+19 Report of Senate Committee on the Judiciary, 113th Cong., Report [To accompany S. 517], S. Rep. 113-212, 2 
+(2014) (“Senate Judiciary Committee Report”) (“Some carriers, including the four largest national carriers, have 
+established principles under which they will help consumers unlock their phones...”). 
+20 CTIA Letter to the FTC re: Carrier Unlocking Voluntary Commitment (December 12, 2013) (“[A]n unlocked 
+phone is not a fully interoperable phone…[A] device that works on one carrier’s network may not be technologically 
+compatible with another carrier’s network.  Additionally, unlocking a device may enable some functionality of the 
+device but not all (e.g., an unlocked device may support voice services but not data services when activated on a 
+different network).”). 
+21 Senate Judiciary Committee Report at 4. 
+22 Id. (“Neither of the methods for unlocking recognized by the legislation excuses owners from compliance with 
+applicable service agreements they may have with the wireless carriers that service their phones.”).
