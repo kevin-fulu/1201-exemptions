@@ -1,6 +1,11 @@
 // derive.mjs — compute the cross-cycle status grid and regenerate the derived
 // artifacts (status-grid.json, exemptions-master.json) from Layers 1 + 2.
 // Node stdlib only.
+//
+// derive() is pure — it returns the two derived objects and a small stats
+// summary; build.mjs decides whether to write them. writeDerived() persists
+// them. This matches render.mjs's return-strings-then-write pattern and
+// ensures --check is honored consistently across all generated outputs.
 
 import { readJSON, writeJSON, deriveGrid, loadLayer1, GRANT_STATUSES } from "./lib.mjs";
 
@@ -11,7 +16,7 @@ export function derive() {
   const layer1 = loadLayer1(cycles);
 
   // ---- status grid ------------------------------------------------------
-  const grid = {
+  const statusGrid = {
     schema: "status-grid-v1",
     generated_by: "analysis/build/derive.mjs",
     cycles,
@@ -24,7 +29,6 @@ export function derive() {
       grid: deriveGrid(lin, cycles),
     })),
   };
-  writeJSON("analysis/derived/status-grid.json", grid);
 
   // ---- regenerated exemptions-master.json -------------------------------
   // Faithful consolidation in the legacy schema so the citation reference in
@@ -67,7 +71,7 @@ export function derive() {
   });
 
   const categories_in_order = [...new Set(lineages.map((l) => l.category))];
-  writeJSON("analysis/derived/exemptions-master.json", {
+  const exemptionsMaster = {
     schema_version: 3,
     generated: new Date().toISOString().slice(0, 10),
     generator: "analysis/build/derive.mjs (GENERATED — do not hand-edit; edit analysis/lineages.json)",
@@ -75,14 +79,25 @@ export function derive() {
     status_legend: ldoc.status_legend,
     denial_reason_categories: ldoc.denial_reason_categories,
     categories_in_order,
-    notes: "Generated consolidation of analysis/lineages.json + the Layer-1 cycle-*.json files. The hand-built predecessor of this file was retired when the data layer landed; see analysis/DATA-LAYER-PROPOSAL.md.",
+    notes: "Generated consolidation of analysis/lineages.json + the Layer-1 cycle-*.json files. The hand-built predecessor of this file was retired when the data layer landed.",
     exemptions,
-  });
+  };
 
-  return { lineages: lineages.length, cycles: cycles.length };
+  return {
+    statusGrid,
+    exemptionsMaster,
+    lineages: lineages.length,
+    cycles: cycles.length,
+  };
+}
+
+export function writeDerived({ statusGrid, exemptionsMaster }) {
+  writeJSON("analysis/derived/status-grid.json", statusGrid);
+  writeJSON("analysis/derived/exemptions-master.json", exemptionsMaster);
 }
 
 if (import.meta.url === `file://${process.argv[1]}`) {
   const r = derive();
+  writeDerived(r);
   console.log(`derive: ${r.lineages} lineages × ${r.cycles} cycles → derived/status-grid.json, derived/exemptions-master.json`);
 }

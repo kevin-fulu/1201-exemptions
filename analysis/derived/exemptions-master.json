@@ -1,6 +1,6 @@
 {
   "schema_version": 3,
-  "generated": "2026-05-22",
+  "generated": "2026-05-24",
   "generator": "analysis/build/derive.mjs (GENERATED — do not hand-edit; edit analysis/lineages.json)",
   "cycles_in_order": [
     2000,
@@ -49,7 +49,7 @@
     "Software License Compliance",
     "Denied — Class-Definition Disputes & Threshold Issues"
   ],
-  "notes": "Generated consolidation of analysis/lineages.json + the Layer-1 cycle-*.json files. The hand-built predecessor of this file was retired when the data layer landed; see analysis/DATA-LAYER-PROPOSAL.md.",
+  "notes": "Generated consolidation of analysis/lineages.json + the Layer-1 cycle-*.json files. The hand-built predecessor of this file was retired when the data layer landed.",
   "exemptions": [
     {
       "id": "filtering-blocklists",

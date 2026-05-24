@@ -10,7 +10,7 @@
 
 import { writeText, evalDataFile } from "./lib.mjs";
 import { validate } from "./validate.mjs";
-import { derive } from "./derive.mjs";
+import { derive, writeDerived } from "./derive.mjs";
 import { render } from "./render.mjs";
 
 const check = process.argv.includes("--check");
@@ -57,6 +57,7 @@ if (check) {
   console.log("\n--check: ok, no files written.");
   process.exit(0);
 }
+writeDerived(d);
 writeText("diagram-data.js", out.diagram);
 writeText("diagram-repair-data.js", out.repair);
-console.log("write:    diagram-data.js, diagram-repair-data.js\n\nbuild ok.");
+console.log("write:    derived/status-grid.json, derived/exemptions-master.json, diagram-data.js, diagram-repair-data.js\n\nbuild ok.");
