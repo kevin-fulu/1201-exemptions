@@ -125,7 +125,7 @@ For deep questions: search the corresponding `.txt` file with `grep`, then jump 
     - `(b)(10)` — Smart televisions — jailbreaking (interoperability only; clarified to include separate streaming devices)
     - `(b)(11)` — Voice assistant devices — jailbreaking (+ removal of software)
     - `(b)(12)` — Routers and dedicated network devices — jailbreaking (interoperability only) [NEW]
-    - `(b)(13)` — Motorized land vehicles — diagnosis/repair/modification
+    - `(b)(13)` — Motorized land vehicles AND marine vessels — diagnosis/repair/modification [marine vessels added]
     - `(b)(14)` — Consumer devices generally — diagnosis/maintenance/repair [broadened from 2018's smartphone/home class]
     - `(b)(15)` — Medical devices and systems — diagnosis/maintenance/repair [NEW]
     - `(b)(16)` — Good-faith security research
@@ -153,7 +153,7 @@ For deep questions: search the corresponding `.txt` file with `grep`, then jump 
     - `(b)(10)` — Smart televisions — jailbreaking (interoperability only; NO removal-of-software clause)
     - `(b)(11)` — Voice assistant devices — jailbreaking (+ removal of software)
     - `(b)(12)` — Routers and dedicated network devices — jailbreaking (interoperability only)
-    - `(b)(13)` — Motorized land vehicles AND marine vessels — diagnosis/repair/modification [marine vessels added]
+    - `(b)(13)` — Motorized land vehicles AND marine vessels — diagnosis/repair/modification
     - `(b)(14)` — Motorized land vehicles AND marine vessels — owner access to operational/diagnostic/telematics data [NEW]
     - `(b)(15)` — Consumer devices generally — diagnosis/maintenance/repair
     - `(b)(16)` — Retail-level commercial food preparation equipment — diagnosis/maintenance/repair [NEW]

@@ -6,7 +6,7 @@ Date: 2026-05-22
 - 35 confirmed, 1 flagged (minor — cycle-2015 (b)(1) `source.quote` is not strictly verbatim; uses ellipses to elide repeated sub-paragraph branches. Not a substantive error.).
 - 0 unresolved.
 - Class counts per cycle match the codified `(b)(N)` paragraphs in every Final Rule.
-- The known issue regarding INDEX.md's mislabeling of 2015 (b)(9) is resolved: the JSON's extractor_notes are correct, and INDEX.md is wrong.
+- The known issue regarding INDEX.md's mislabeling of 2015 (b)(9) was applied: `1201/INDEX.md` was subsequently corrected to read "`(b)(9)` — 3D printers — circumvent microchip-reliant feedstock TPMs [NEW]", consistent with the JSON's extractor_notes. (Historical note retained for traceability; the discrepancy no longer exists.)
 
 ## Per-cycle findings
 

@@ -129,10 +129,10 @@ There is no hand-maintained master file. The cross-cycle source of truth is `ana
 
 | Generated — do NOT edit | Source — edit these |
 |---|---|
-| `diagram-data.js` | `analysis/lineages.json` (Layer 2) |
-| `diagram-repair-data.js` | `analysis/views/diagram.json` (Layer 3) |
-| `analysis/derived/exemptions-master.json` | `analysis/views/diagram-repair.json` (Layer 3) |
-| `analysis/derived/status-grid.json` | `analysis/cycle-*.json` (Layer 1 facts) |
+| `diagram-data.js` | `analysis/lineages.json` (Layer 2) + `analysis/views/diagram.json` (Layer 3) |
+| `diagram-repair-data.js` | `analysis/views/diagram-repair.json` (Layer 3, editorial — cells carry their own status/quote/citation/petitioners) |
+| `analysis/derived/exemptions-master.json` | `analysis/lineages.json` (Layer 2) + `analysis/cycle-*.json` (Layer 1) |
+| `analysis/derived/status-grid.json` | `analysis/lineages.json` (Layer 2) |
 
 ### Build commands
 

@@ -9,6 +9,8 @@ Snapshot of what is present (and what is not) under `1201/`, organized by trienn
 - `1201/Final Rules/` — one PDF + `.txt` pair per cycle. **Authoritative source** for granted exemptions.
 - `1201/Reg Recommendation/` — one Register's (or Acting Register's, 2018) Recommendation per cycle. Context only — advisory.
 - `1201/first-round-comments/` — petitioner NPRM comments organized in per-cycle subdirs `2015/`, `2018/`, `2021/`, `2024/` (with `manifest.csv` each, plus a `README.md` and `VERIFICATION_REPORT.md`). Comments only — proposals, not grants.
+- `1201/Policy Studies/` — the Register's two standalone 2016–17 policy studies (separate from the triennial rulemakings): `Section-1201-of-Title-17-2017/` and `Software-Enabled-Consumer-Products-2016/`. Each holds the Full Report (`.pdf` + `.txt`), the Federal Register notices, public-roundtable transcripts and agendas, and a `Comments/` directory with every regulations.gov submission from the corresponding docket. Each has a `README.md`. Policy recommendations to Congress, not §1201 rulemaking outputs.
+- `1201/Proposed Legislation/` — forward-looking draft bills (currently the *Freedom To Fix Act* — a §1201 amendment adding a permanent exemption for diagnosis / maintenance / cybersecurity research / repair). Not part of the rulemaking record; included here so the archive can track proposed-legislation iterations.
 - `1201/INDEX.md` — cycle-by-cycle navigation map of codified `§ 201.40` classes (pre-built navigation aid; not authoritative for permitted-uses/exclusions text).
 - `1201/Claude Reports/` — prior research outputs.
 
@@ -34,10 +36,9 @@ Per-cycle PDF page counts and the PDF page where codified `§ 201.40` text begin
 
 1. **No first-round comments for pre-2015 cycles** (2000, 2003, 2006, 2010, 2012). Per `1201/INDEX.md`, this is intentional — those cycles used a different intake structure and are out of archive scope. Not a blocker; the Final Rule alone establishes what was granted.
 2. **No petition documents, Round 2 (opposition), or Round 3 (reply) comments** for any cycle. The archive contains only first-round NPRM comments (for the four most recent cycles). Per task domain note #1, this does not impair the inventory of grants — only the Final Rule is authoritative.
-3. **Some first-round comment `.txt` files are near-empty** (≈20 PDFs in `2018/`, mostly Class07/Class08, are image-only scans without OCR). Not relevant to Phase 2 since Phase 2 reads Final Rules, not comments.
-4. **No git history.** The repo has no commits yet; cannot trace document provenance via `git log`.
-5. **2018 is "Acting Register's" Recommendation** rather than the Register's — flagged for citation accuracy. Substantively the same role (advisory to the Librarian).
-6. **No streamlined "renewal" documents** are present as separate artifacts. Since 2018, renewed exemptions are addressed inside the same Final Rule (and Recommendation) as the new petitions, so the cycle Final Rule remains the single source of truth.
+3. **Some first-round comment `.txt` files are near-empty** (≈20 PDFs in `2018/`, mostly Class07/Class08, are image-only scans without OCR). Not relevant to Phase 2 since Phase 2 reads Final Rules, not comments. A smaller number of older Policy-Studies comment PDFs (and the Grassley-Leahy request letter) are similarly image-only.
+4. **2018 is "Acting Register's" Recommendation** rather than the Register's — flagged for citation accuracy. Substantively the same role (advisory to the Librarian).
+5. **No streamlined "renewal" documents** are present as separate artifacts. Since 2018, renewed exemptions are addressed inside the same Final Rule (and Recommendation) as the new petitions, so the cycle Final Rule remains the single source of truth.
 
 ## Phase 2 plan
 

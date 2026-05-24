@@ -86,7 +86,7 @@ The hard deadline is **Round 1 (~Dec 2026)** — that's where the substantive ev
 - 2024 §201.40(b)(14) vehicle/vessel data — useful for the data-access analog if needed.
 
 ### Draft class language (for refinement by counsel)
-> Computer programs that are contained in and control the functioning of a lawfully acquired (i) agricultural machine or system that is not a motorized land vehicle, or (ii) stationary construction processing system, when circumvention is a necessary step to allow the diagnosis, maintenance, or repair of such a machine or system, and is not accomplished for the purpose of gaining access to other copyrighted works. "Maintenance" and "repair" carry the same meaning as in paragraph (b)(13).
+> Computer programs that are contained in and control the functioning of a lawfully acquired (i) agricultural machine or system that is not a motorized land vehicle, or (ii) stationary construction processing system, when circumvention is a necessary step to allow the diagnosis, maintenance, or repair of such a machine or system, and is not accomplished for the purpose of gaining access to other copyrighted works. For purposes of this paragraph, (i) the "maintenance" of a machine or system is the servicing of the machine or system in order to make it work in accordance with its original specifications and any changes to those specifications authorized for that machine or system; and (ii) the "repair" of a machine or system is the restoring of the machine or system to the state of working in accordance with its original specifications and any changes to those specifications authorized for that machine or system. (These definitions mirror those codified at (b)(15), (b)(16), and (b)(17) — (b)(13) uses different vocabulary ("diagnosis, repair, or lawful modification") and does not itself define "maintenance" or "repair.")
 
 ### Evidence requirements
 - 8+ named specific instances of TPM-induced repair failure (irrigation controller bricked at season; milking robot off-line; grain dryer locked during harvest; concrete-plant controller field replacement blocked).
@@ -376,21 +376,26 @@ Every class granted in 2024 must be renewed via the streamlined process — peti
 
 | Class | Topic |
 |---|---|
-| (b)(1)–(b)(4) | Motion-picture clips, captioning, preservation, TDM (literary), TDM (motion pictures) |
-| (b)(5)–(b)(6) | Sound-recording / literary accessibility |
-| (b)(7)–(b)(8) | Wireless unlocking |
-| (b)(9) | Smartphone jailbreaking |
-| (b)(10) | Smart-TV jailbreaking |
-| (b)(11) | Voice-assistant jailbreaking |
-| (b)(12) | Security research |
-| (b)(13) | Vehicle / vessel repair |
-| (b)(14) | Vehicle / vessel data access |
-| (b)(15) | Consumer-device repair |
-| (b)(16) | Retail commercial food-prep |
-| (b)(17) | Medical-device repair |
-| (b)(18)–(b)(20) | Software preservation |
-| (b)(21) | 3D-printer feedstock |
-| (b)(22) | Routers |
+| (b)(1)–(b)(3) | Motion pictures — criticism/comment clips; captioning & audio description; preservation/replacement |
+| (b)(4) | Motion pictures — TDM research |
+| (b)(5) | Literary works (electronic) — TDM research |
+| (b)(6) | Literary works + previously published musical notation — accessibility |
+| (b)(7) | Medical-device data compilations — patient access |
+| (b)(8) | Wireless devices — unlocking |
+| (b)(9) | Smartphones & portable all-purpose mobile computing devices — jailbreaking |
+| (b)(10) | Smart televisions — jailbreaking |
+| (b)(11) | Voice assistant devices — jailbreaking |
+| (b)(12) | Routers and dedicated network devices — jailbreaking |
+| (b)(13) | Motorized land vehicles AND marine vessels — diagnosis/repair/lawful modification |
+| (b)(14) | Motorized land vehicles AND marine vessels — owner access to operational/diagnostic/telematics data |
+| (b)(15) | Consumer devices generally — diagnosis/maintenance/repair |
+| (b)(16) | Retail-level commercial food preparation equipment — diagnosis/maintenance/repair |
+| (b)(17) | Medical devices and systems — diagnosis/maintenance/repair |
+| (b)(18) | Good-faith security research |
+| (b)(19) | Video games — preservation when authentication server abandoned |
+| (b)(20) | Software preservation by libraries/archives/museums |
+| (b)(21) | 3D printers — feedstock interoperability |
+| (b)(22) | FOSS computer programs — investigation of potential license infringement |
 
 Renewal petitions are short and primarily say "no relevant change in circumstances; no marketplace alternatives have emerged; we hereby petition for renewal." Assign one person to handle all renewals as a single batch — should be ~2 days of work total.
 
