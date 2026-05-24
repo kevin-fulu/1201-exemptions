@@ -1,0 +1,636 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>DMCA §1201 — 2027 Repair Proposals</title>
+<style>
+  :root {
+    --bg: #f8f8f6;
+    --ink: #1a1a1a;
+    --muted: #5a5a5a;
+    --border: #c8c8c2;
+    --header-bg: #2a2a2a;
+    --header-ink: #f8f8f6;
+    --panel-bg: #fff;
+    --accent: #1565c0;
+    --row-alt: #f0f0ec;
+
+    /* Confidence palette — same as diagram-repair status colors */
+    --c-high: #2e7d32;
+    --c-high-ink: #fff;
+    --c-medhigh: #66bb6a;
+    --c-medhigh-ink: #1a1a1a;
+    --c-med: #fbc02d;
+    --c-med-ink: #1a1a1a;
+    --c-medlow: #ef6c00;
+    --c-medlow-ink: #fff;
+    --c-low: #b71c1c;
+    --c-low-ink: #fff;
+    --c-renew: #1565c0;
+    --c-renew-ink: #fff;
+  }
+  * { box-sizing: border-box; }
+  html, body {
+    margin: 0; padding: 0;
+    background: var(--bg);
+    color: var(--ink);
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+    font-size: 14px;
+    line-height: 1.5;
+  }
+  .wrap { max-width: 1100px; margin: 0 auto; padding: 28px 24px 64px; }
+
+  h1 { font-size: 24px; margin: 0 0 6px; letter-spacing: -0.01em; }
+  .subtitle { color: var(--muted); margin: 0 0 20px; font-size: 13px; }
+
+  .meta {
+    background: #fff;
+    border: 1px solid var(--border);
+    padding: 14px 16px;
+    margin: 0 0 18px;
+    font-size: 13px;
+    color: var(--muted);
+    display: flex;
+    flex-wrap: wrap;
+    gap: 24px;
+  }
+  .meta b { color: var(--ink); display: block; font-size: 11px; text-transform: uppercase; letter-spacing: 0.06em; margin-bottom: 2px; font-weight: 700; }
+  .meta .item { min-width: 180px; }
+
+  .intro {
+    background: #fff;
+    border: 1px solid var(--border);
+    padding: 16px 20px;
+    margin: 0 0 24px;
+    font-size: 13px;
+    color: var(--muted);
+  }
+  .intro p { margin: 0 0 10px; }
+  .intro p:last-child { margin-bottom: 0; }
+  .intro b { color: var(--ink); }
+
+  h2 {
+    font-size: 13px;
+    text-transform: uppercase;
+    letter-spacing: 0.08em;
+    color: var(--muted);
+    margin: 32px 0 12px;
+    border-bottom: 1px solid var(--border);
+    padding-bottom: 6px;
+  }
+
+  /* Calendar timeline */
+  .timeline {
+    background: #fff;
+    border: 1px solid var(--border);
+    padding: 14px 16px;
+    margin: 0 0 20px;
+  }
+  .timeline table { width: 100%; border-collapse: collapse; font-size: 12.5px; }
+  .timeline th {
+    text-align: left;
+    font-size: 11px;
+    text-transform: uppercase;
+    letter-spacing: 0.06em;
+    color: var(--muted);
+    padding: 4px 8px 8px;
+    border-bottom: 1px solid var(--border);
+  }
+  .timeline td { padding: 6px 8px; vertical-align: top; border-bottom: 1px solid var(--row-alt); }
+  .timeline td:first-child { white-space: nowrap; font-variant-numeric: tabular-nums; color: var(--ink); width: 130px; }
+  .timeline tr:last-child td { border-bottom: 0; }
+  .timeline tr.hot td { background: #fff8e1; }
+  .timeline tr.hot td:first-child { font-weight: 700; }
+
+  /* Filing cards */
+  .filing {
+    background: #fff;
+    border: 1px solid var(--border);
+    padding: 18px 22px 20px;
+    margin: 0 0 16px;
+  }
+  .filing-head {
+    display: flex;
+    align-items: baseline;
+    justify-content: space-between;
+    gap: 16px;
+    margin-bottom: 6px;
+    flex-wrap: wrap;
+  }
+  .filing-head h3 {
+    font-size: 17px;
+    margin: 0;
+    color: var(--ink);
+  }
+  .filing-head .number {
+    color: var(--muted);
+    font-weight: 400;
+    font-variant-numeric: tabular-nums;
+    margin-right: 6px;
+  }
+  .confidence {
+    display: inline-block;
+    padding: 3px 9px;
+    font-size: 11px;
+    font-weight: 600;
+    text-transform: uppercase;
+    letter-spacing: 0.05em;
+    white-space: nowrap;
+  }
+  .conf-high     { background: var(--c-high);    color: var(--c-high-ink); }
+  .conf-medhigh  { background: var(--c-medhigh); color: var(--c-medhigh-ink); }
+  .conf-med      { background: var(--c-med);     color: var(--c-med-ink); }
+  .conf-medlow   { background: var(--c-medlow);  color: var(--c-medlow-ink); }
+  .conf-low      { background: var(--c-low);     color: var(--c-low-ink); }
+
+  .filing-summary {
+    color: var(--muted);
+    font-size: 13px;
+    margin: 0 0 12px;
+  }
+
+  .grid {
+    display: grid;
+    grid-template-columns: 140px 1fr;
+    column-gap: 16px;
+    row-gap: 8px;
+    font-size: 13px;
+  }
+  .grid dt {
+    font-size: 11px;
+    text-transform: uppercase;
+    letter-spacing: 0.06em;
+    color: var(--muted);
+    font-weight: 700;
+    padding-top: 2px;
+  }
+  .grid dd { margin: 0; color: var(--ink); }
+  .grid dd ul { margin: 0; padding-left: 18px; }
+  .grid dd li { margin-bottom: 3px; }
+  .grid dd code {
+    background: var(--row-alt);
+    padding: 1px 5px;
+    font-size: 12px;
+    font-family: ui-monospace, "SFMono-Regular", Menlo, Consolas, monospace;
+  }
+
+  /* Renewals table */
+  .renewals {
+    background: #fff;
+    border: 1px solid var(--border);
+    padding: 14px 18px;
+    margin: 0 0 18px;
+  }
+  .renewals p { margin: 0 0 10px; font-size: 13px; color: var(--muted); }
+  .renewals table { width: 100%; border-collapse: collapse; font-size: 12.5px; }
+  .renewals th {
+    text-align: left;
+    font-size: 11px;
+    text-transform: uppercase;
+    letter-spacing: 0.06em;
+    color: var(--muted);
+    padding: 4px 8px 8px;
+    border-bottom: 1px solid var(--border);
+  }
+  .renewals td { padding: 5px 8px; vertical-align: top; border-bottom: 1px solid var(--row-alt); }
+  .renewals td:first-child { width: 110px; font-variant-numeric: tabular-nums; color: var(--accent); font-weight: 600; }
+  .renewals tr:last-child td { border-bottom: 0; }
+
+  /* Parking lot — smaller candidates */
+  .parking {
+    background: #fff;
+    border: 1px solid var(--border);
+    padding: 14px 18px;
+    margin: 0 0 18px;
+  }
+  .parking h4 {
+    margin: 0 0 4px;
+    font-size: 14px;
+    color: var(--ink);
+  }
+  .parking .item { margin: 12px 0; padding-top: 12px; border-top: 1px solid var(--row-alt); }
+  .parking .item:first-of-type { border-top: 0; padding-top: 0; margin-top: 6px; }
+  .parking p { margin: 0; font-size: 13px; color: var(--muted); }
+  .parking p b { color: var(--ink); }
+
+  /* Strategy callout */
+  .callout {
+    background: #fffaf0;
+    border-left: 4px solid var(--c-med);
+    padding: 14px 18px;
+    margin: 0 0 18px;
+    font-size: 13px;
+  }
+  .callout b { color: var(--ink); }
+  .callout p { margin: 0 0 8px; }
+  .callout p:last-child { margin-bottom: 0; }
+
+  /* Outcomes summary */
+  .outcomes {
+    background: #fff;
+    border: 1px solid var(--border);
+    padding: 14px 18px;
+    margin: 0 0 18px;
+  }
+  .outcomes table { width: 100%; border-collapse: collapse; font-size: 12.5px; }
+  .outcomes th {
+    text-align: left;
+    font-size: 11px;
+    text-transform: uppercase;
+    letter-spacing: 0.06em;
+    color: var(--muted);
+    padding: 4px 8px 8px;
+    border-bottom: 1px solid var(--border);
+  }
+  .outcomes td { padding: 7px 8px; vertical-align: top; border-bottom: 1px solid var(--row-alt); }
+  .outcomes tr:last-child td { border-bottom: 0; }
+  .outcomes td:first-child { width: 240px; font-weight: 600; }
+
+  footer {
+    margin-top: 36px;
+    padding-top: 16px;
+    border-top: 1px solid var(--border);
+    font-size: 12px;
+    color: var(--muted);
+  }
+  footer a { color: var(--accent); text-decoration: none; }
+  footer a:hover { text-decoration: underline; }
+  footer p { margin: 0 0 6px; }
+
+  .topnav { margin-bottom: 16px; font-size: 12.5px; }
+  .topnav a { color: var(--accent); text-decoration: none; margin-right: 14px; }
+  .topnav a:hover { text-decoration: underline; }
+
+  a.inline { color: var(--accent); text-decoration: none; }
+  a.inline:hover { text-decoration: underline; }
+</style>
+</head>
+<body>
+<div class="wrap">
+
+  <div class="topnav">
+    <a href="index.html">← Index</a>
+    <a href="diagram.html">Cycle-by-cycle history</a>
+    <a href="diagram-repair.html">Repair exemptions by product</a>
+  </div>
+
+  <h1>2027 Repair Proposals — DMCA §1201 New-Class Filings</h1>
+  <p class="subtitle">Forward-looking petition plan for the 10th triennial anticircumvention rulemaking (NPRM mid-2026, Final Rule ~Oct 2027).</p>
+
+  <div class="meta">
+    <div class="item"><b>Cycle</b>10th triennial</div>
+    <div class="item"><b>NPRM</b>Expected Jun–Jul 2026</div>
+    <div class="item"><b>Final Rule</b>Expected ~Oct 2027</div>
+    <div class="item"><b>Status</b>Planning — pre-coalition signoff</div>
+  </div>
+
+  <div class="intro">
+    <p>This page formalizes a <b>five-new-class petition strategy</b> for the 2027 cycle, plus streamlined renewals of every 2024 grant. Each filing is structured around a cohesive user community and an evidence record modeled on the closest 2024-granted class — the Office's own pattern.</p>
+    <p>The 2024 Register denied "commercial and industrial equipment" broadly (Proposed Class 5, broader scope) for the same reason it denied Proposed Class 12 in 2021: insufficient record + non-cohesive class. Our work-around: <b>(a)&nbsp;split that bucket into cohesive user communities</b>, <b>(b)&nbsp;develop the record before filing, not after</b>, and <b>(c)&nbsp;frame each filing so the need is broad, the harm is narrow, and the additional scope does not expand copyright risk</b>. The wins in 2024 — food-prep <code>(b)(16)</code>, medical-device <code>(b)(17)</code>, vehicle/vessel data <code>(b)(14)</code> — all turned on concrete, named, documented use cases combined with a tight copyright posture. Every filing here needs the same.</p>
+    <p>Full strategy document with witness lists and class-language drafts: <a class="inline" href="1201/Claude%20Reports/2026-05-23__2027-Cycle-Multi-Class-Petition-Plan.md"><code>1201/Claude Reports/2026-05-23__2027-Cycle-Multi-Class-Petition-Plan.md</code></a>.</p>
+  </div>
+
+  <h2>Cycle calendar</h2>
+  <div class="timeline">
+    <table>
+      <thead><tr><th>Date</th><th>Event</th><th>Our action</th></tr></thead>
+      <tbody>
+        <tr><td>~Jun–Jul 2026</td><td>NPRM published</td><td>Stop scope changes; freeze filing list</td></tr>
+        <tr><td>~Aug–Sep 2026</td><td>Petitions due (30–60 days post-NPRM)</td><td>File all 5 new-class petitions + renewal batch</td></tr>
+        <tr class="hot"><td>~Dec 2026</td><td>Round 1 (initial) comments due</td><td><b>The deadline that matters.</b> Full evidence record per class</td></tr>
+        <tr><td>~Mar 2027</td><td>Round 2 (opposition) comments due</td><td>Triage which filings face opposition</td></tr>
+        <tr><td>~Jun 2027</td><td>Round 3 (reply) comments due</td><td>Reply on contested filings only</td></tr>
+        <tr><td>Summer 2027</td><td>Public hearings (if called)</td><td>Witness prep for top 2–3 filings</td></tr>
+        <tr><td>~Oct 2027</td><td>Final Rule</td><td>Accept; convert denials into 2030 record-building TODOs</td></tr>
+      </tbody>
+    </table>
+  </div>
+
+  <h2>The five proposed filings</h2>
+
+  <!-- Filing 1 -->
+  <section class="filing">
+    <div class="filing-head">
+      <h3><span class="number">Filing 1 ·</span> Agricultural &amp; Construction Equipment</h3>
+      <span class="confidence conf-high">Confidence: High</span>
+    </div>
+    <p class="filing-summary">Extends the <code>(b)(13)</code> motorized-land-vehicle pattern to (a) <em>stationary</em> agricultural systems and (b) construction-equipment clarification.</p>
+    <dl class="grid">
+      <dt>Scope</dt>
+      <dd>
+        <ul>
+          <li>Stationary ag: irrigation controllers, grain dryers, milking robots, barn/livestock automation, precision-ag base stations, automated-greenhouse controllers, seed conditioning.</li>
+          <li>Stationary construction processing: asphalt &amp; concrete batch plants, aggregate processing, fixed crushing/screening.</li>
+          <li>Mobile construction (clarifying ask): confirm that <code>(b)(13)</code> "motorized land vehicle" reaches excavators, loaders, dozers, mobile pavers.</li>
+        </ul>
+      </dd>
+      <dt>Precedent</dt>
+      <dd>2024 <code>§201.40(b)(13)</code> motorized land vehicle (repair-class template); <code>(b)(14)</code> vehicle/vessel data (data-access analog if needed).</dd>
+      <dt>Coalition lead</dt>
+      <dd>Repair Association &middot; co-leads AFBF (Farm Bureau), AED (construction).</dd>
+      <dt>Risk</dt>
+      <dd>Low. Strongest filing on the list. Stationary-ag is a clean gap in the existing vehicle class; the construction-clarification angle is the Office's preferred posture (clarify rather than re-codify).</dd>
+      <dt>Expected outcome</dt>
+      <dd>New <code>(b)(N)</code> class covering stationary ag + stationary construction processing; on-record clarification that <code>(b)(13)</code> reaches mobile construction.</dd>
+    </dl>
+  </section>
+
+  <!-- Filing 2 -->
+  <section class="filing">
+    <div class="filing-head">
+      <h3><span class="number">Filing 2 ·</span> Commercial-Service &amp; Scientific Equipment <span style="color: var(--muted); font-weight: 400; font-size: 14px;">(50/50 balanced)</span></h3>
+      <span class="confidence conf-high">Confidence: High</span>
+    </div>
+    <p class="filing-summary">Two parallel sub-classes with identical TPM patterns, identical ISO-repair industry structures, and identical copyright posture — the TPMs gate <em>device-control firmware</em>, not access to creative works. <strong>The combined case: the need is broad (every small commercial operator and every research lab), the harm is narrow (no creative-works content is at issue), and the additional scope of including both sub-classes does not expand copyright risk.</strong></p>
+    <dl class="grid">
+      <dt>Commercial-service scope</dt>
+      <dd>
+        <ul>
+          <li>Commercial fitness &amp; wellness (gym treadmills, strength machines, connected commercial cardio, group-fitness equipment) — Life Fitness, Precor, Technogym, Matrix, Cybex.</li>
+          <li>Commercial laundry (laundromats, hospitality, healthcare-laundry, dry-cleaning) — Alliance / Speed Queen, Continental, Dexter, Maytag Commercial.</li>
+          <li>Commercial cleaning (industrial vacuums, floor machines, pressure-wash) — Tennant, Nilfisk, Karcher Pro, Hako.</li>
+          <li>Hospitality equipment beyond food-prep (commercial espresso, commercial dishwashers not in <code>(b)(16)</code>, garment care, minibar / vending).</li>
+        </ul>
+      </dd>
+      <dt>Scientific &amp; lab scope</dt>
+      <dd>
+        <ul>
+          <li>Mass spectrometers and analytical chains (HPLC, UPLC, GC, GC-MS, LC-MS) — Thermo Fisher, Agilent, Waters, Bruker, Sciex.</li>
+          <li>Genomic / proteomic sequencers — Illumina, PacBio, Oxford Nanopore.</li>
+          <li>Electron microscopes (TEM, SEM, FIB, cryo-EM); confocal and super-resolution optical microscopes — JEOL, Hitachi, Thermo Fisher, Zeiss, Leica.</li>
+          <li>Flow cytometers and cell sorters — BD, Beckman, Cytek.</li>
+          <li>Spectrophotometers (UV-Vis, FTIR, NMR), thermal cyclers / qPCR machines, ultracentrifuges, plate readers.</li>
+          <li>Calibration, metrology, and electronic test &amp; measurement equipment.</li>
+        </ul>
+      </dd>
+      <dt>Copyright posture</dt>
+      <dd>The TPMs at issue (service-mode passwords, OEM calibration software, authenticated parts, encrypted firmware, phone-home license checks) gate the equipment's <b>device-control firmware</b> — they do not gate access to copyrighted creative works. Combining commercial-service and scientific does not introduce a new copyright surface: both face the same kind of TPM gating the same kind of non-creative content. Existing §1201(f) (reverse engineering for interoperability) and §1201(j) (security testing) already provide the statutory baseline; this filing adds the narrow repair-specific clarification. <b>The additional scope is therefore unlikely to expand copyright risk relative to either sub-class alone.</b></dd>
+      <dt>Why now (commercial)</dt>
+      <dd>Direct extension of the 2024 food-prep grant <code>(b)(16)</code>. The 2024 Register signaled willingness on retail-commercial carve-outs and flagged "more developed record" as the reason food-prep was carved out. Replicate that posture across the parallel commercial sub-categories — same small-operator user community, same vendor-lock-in pattern.</dd>
+      <dt>Why now (scientific)</dt>
+      <dd>The 2024 Class 5 petition (Public Knowledge &amp; iFixit Initial Comment, <b>PDF p.&nbsp;9</b>) wrote: <em>"Devices designed or marketed for medical, scientific, or consumer use should remain outside the scope of this class."</em> Scientific/lab is a <b>deliberate exclusion, not a denial</b> — the §1201 record is currently clean and unopposed. <a class="inline" href="diagram-repair.html">Already shown as a gap row in the repair diagram.</a></dd>
+      <dt>Precedent</dt>
+      <dd>2024 <code>§201.40(b)(16)</code> retail-level commercial food-prep equipment — direct template for the commercial-service leg. <code>(b)(17)</code> medical-device repair — closest pattern for the lab leg: same ISO-repair industry structure, same "related data files" issue, same professional / institutional user posture.</dd>
+      <dt>Coalition lead</dt>
+      <dd>Public Knowledge (carried 2024 food-prep) + Repair Association.</dd>
+      <dt>Co-leads (commercial)</dt>
+      <dd>NFIB (small business); independent gym, laundromat, hospitality, and cleaning-service operator associations.</dd>
+      <dt>Co-leads (scientific)</dt>
+      <dd>University procurement consortia (APLU / AAU member institutions); scientific-instrument ISO industry trade groups; research-society instrumentation interests (ACS analytical division; ASMS for mass-spec; ASCB / similar for microscopy).</dd>
+      <dt>Commercial evidence</dt>
+      <dd>McDonald's-ice-cream-equivalent stories per sub-category: named gym chains, named laundromat operators, named hotel facilities managers with documented vendor-lock-in incidents. Service-contract pricing differentials between OEM and independent service. OEM service-availability gaps (next-day tiers reserved for franchise; independent owners stuck on multi-week schedules).</dd>
+      <dt>Scientific evidence</dt>
+      <dd>Service-contract cost differentials between OEM and independent ISOs (commonly 2–3× for the same scope); documented refusal-to-service by OEMs after end-of-life; downtime-cost impact on grant-funded research (NIH / NSF / DOE cores); core-facility utilization records from research universities; OEM parts-availability gaps for instruments &gt;7 years old; phone-home authentication that bricks instruments without a manufacturer license check.</dd>
+      <dt>Commercial witnesses</dt>
+      <dd>2+ gym operators; 2+ laundromat operators; 1+ hotel facilities manager; 1+ commercial-cleaning service operator.</dd>
+      <dt>Scientific witnesses</dt>
+      <dd>2+ university core-facility directors (mass-spec, sequencing, and EM cores at separate institutions); 1+ biotech / pharma lab manager; 1+ scientific-instrument ISO repair company; 1+ NIH- or NSF-funded PI documenting research delay from equipment lockouts.</dd>
+      <dt>Risk</dt>
+      <dd>Low–medium. Each leg is a direct analog of a 2024 grant. The 50/50 framing reinforces the "broad need, narrow harm, low additional copyright risk" argument: both legs face the same kind of TPM and neither involves access to creative works. Only structural risk: Office may codify as two paragraphs rather than one — pre-position with "alternatively, each as its own paragraph" fallback in the petition.</dd>
+      <dt>Expected outcome</dt>
+      <dd>One <code>(b)(N)</code> with separate paragraphs for commercial-service and scientific/lab, OR two adjacent <code>(b)(N)</code> classes. Either is a win.</dd>
+    </dl>
+  </section>
+
+  <!-- Filing 3 -->
+  <section class="filing">
+    <div class="filing-head">
+      <h3><span class="number">Filing 3 ·</span> American Re-industrialization: Manufacturing Equipment <span style="color: var(--muted); font-weight: 400; font-size: 14px;">(rebranded + selectively expanded)</span></h3>
+      <span class="confidence conf-medlow">Confidence: Medium-low</span>
+    </div>
+    <p class="filing-summary">Anchored to the post-CHIPS-Act political moment: <strong>domestic factory owners need autonomy over their own operations to ramp up American manufacturing.</strong> Covers the full envelope of equipment a U.S. factory needs to operate — production lines, factory-floor automation, fab tooling, and manufacturing-facility infrastructure. Same substantive ask as the post-2024 industrial-automation strategy, reframed around reshoring and operator sovereignty, with selective scope expansion into adjacent fab infrastructure.</p>
+    <dl class="grid">
+      <dt>Political frame</dt>
+      <dd>Reshoring, domestic manufacturing autonomy, and factory-operator sovereignty over their own equipment. Anchors to the CHIPS Act, the IRA's domestic-content provisions, and the bipartisan re-industrialization consensus. Reframes a twice-denied "industrial repair" ask into an "American competitiveness" ask — without changing the underlying copyright posture.</dd>
+      <dt>Scope (4 sub-asks)</dt>
+      <dd>
+        <ul>
+          <li><b>3a · Regulated production lines.</b> PLCs and process controllers governing food / beverage / pharma manufacturing subject to FDA / FSMA documentation requirements. Strongest harm story: recall-traceability and audit requirements compound the lock-in cost.</li>
+          <li><b>3b · Abandoned-vendor / end-of-life industrial controllers.</b> Explicit class for equipment whose OEM no longer supports the product. Strongest copyright posture — vendor has exited the market.</li>
+          <li><b>3c · Factory-floor automation.</b> Mid-sized factory robotics and motion controllers; industrial 3D printers (Stratasys, EOS, Markforged, HP); semiconductor-fab process tools; industrial test &amp; measurement equipment used for production QA.</li>
+          <li><b>3d · Manufacturing facility infrastructure.</b> Industrial-scale HVAC for factory production environments, cleanroom HVAC and control systems, factory-scale power management. <i>Distinguished from Filing 5's commercial HVAC by user (factory operator vs. building owner) and purpose (production-environment process control vs. occupant comfort).</i></li>
+        </ul>
+      </dd>
+      <dt>Precedent</dt>
+      <dd>2024 <code>§201.40(b)(17)</code> medical devices (professional / institutional repair under firmware control); <code>(b)(21)</code> 3D-printer feedstock (adjacent, does not reach device repair). <b>Adverse:</b> 2021 Proposed Class 12 + 2024 Proposed Class 5 (broader scope) denials — the re-industrialization framing is the strategic response to those denials.</dd>
+      <dt>Coalition lead</dt>
+      <dd>Repair Association industrial track + Reshoring Initiative.</dd>
+      <dt>Co-leads</dt>
+      <dd>SMRP (Maintenance &amp; Reliability Professionals); AMUG (additive manufacturing); manufacturing-policy think tanks aligned with the post-CHIPS-Act agenda; mid-sized manufacturer associations (SME, NTMA); semiconductor-equipment user groups for the fab-tool sub-leg.</dd>
+      <dt>Expected opposition</dt>
+      <dd>PMMI, NAM, and individual OEMs (Rockwell, Siemens-aligned voices, Stratasys, ABB, Fanuc, Applied Materials, Lam Research). The reshoring framing may split NAM internally — large multinational OEMs vs. domestic mid-sized manufacturers who are NAM's growing constituency.</dd>
+      <dt>Risk</dt>
+      <dd>Medium-high. Office has denied this bucket twice; the re-industrialization framing is the strategic response, not a guarantee. Four sub-asks give multiple shots. <b>3b (abandoned vendor) remains the most likely to win</b> because copyright concern is weakest when the vendor has exited. <b>3d (facility infrastructure) is the most novel and most opposed sub-ask.</b></dd>
+      <dt>Expected outcome</dt>
+      <dd>1–2 of 4 sub-asks granted (most likely 3b abandoned-vendor and either 3a regulated-pharma or 3c factory-floor); the others build the 2030 record. The political frame may produce sympathetic Register dicta even where the scope is denied — useful for the 2030 cycle.</dd>
+    </dl>
+  </section>
+
+  <!-- Filing 4 -->
+  <section class="filing">
+    <div class="filing-head">
+      <h3><span class="number">Filing 4 ·</span> General-Purpose Computing &amp; Networking <span style="color: var(--muted); font-weight: 400; font-size: 14px;">(broadened to include commercial-use PCs, Macs, workstations)</span></h3>
+      <span class="confidence conf-medlow">Confidence: Medium-low (full) / Medium-high (commercial-PC + workstation carve-out)</span>
+    </div>
+    <p class="filing-summary">Hardware repair under firmware lockout across the full general-purpose computing stack — from consumer-grade laptops used commercially through professional workstations through datacenter hardware. <strong>The <code>(b)(15)</code> consumer-device class's "primarily designed for use by consumers" gate is genuinely ambiguous for PCs / Macs / laptops used in commercial settings — this filing closes that gap explicitly</strong>, and folds enterprise IT in alongside it under a unified "hardware repair, not software access" framing.</p>
+    <dl class="grid">
+      <dt>Scope — general-purpose computing</dt>
+      <dd>
+        <ul>
+          <li>Consumer-grade computers in commercial use — laptops, desktops, all-in-ones used by businesses, schools, healthcare practices, government agencies, nonprofits.</li>
+          <li>Professional workstations — Apple Mac Pro / Mac Studio, Dell Precision, HP Z-series, Lenovo ThinkStation. Clearly outside <code>(b)(15)</code>'s "consumer" gate by design and marketing.</li>
+          <li>Apple Silicon parts-pairing across the Mac line — T2 / Secure Enclave authentication; locked SSDs and Touch-ID parts; soldered RAM with brick-on-replacement behavior.</li>
+          <li>ChromeOS and Windows-Hello hardware bindings; TPM-anchored boot lockouts after motherboard replacement.</li>
+        </ul>
+      </dd>
+      <dt>Scope — networking &amp; datacenter</dt>
+      <dd>
+        <ul>
+          <li>Servers and server boards (CPU, memory, storage, NIC).</li>
+          <li>Network switches, routers, optical / transport gear (port-level component, fan, PSU swap).</li>
+          <li>Storage arrays (SSD / HDD, controller card).</li>
+          <li>UPS / PDU / datacenter power (battery, board, monitoring card).</li>
+          <li>Datacenter environmental units (CRAC / CRAH controllers, in-row cooling).</li>
+        </ul>
+      </dd>
+      <dt>Explicit exclusions</dt>
+      <dd>
+        <ul>
+          <li>Bypassing software entitlements / per-port / per-VM / capacity licensing.</li>
+          <li>Modifying or accessing OS, hypervisor, or management plane beyond what is strictly necessary for hardware component substitution.</li>
+          <li>Defeating subscription gates on software features or DRM-protected content (FairPlay, Widevine, streaming-service DRM).</li>
+        </ul>
+      </dd>
+      <dt>Why now (commercial PC)</dt>
+      <dd><code>(b)(15)</code> reaches devices "primarily designed for use by consumers." Commercial-use PCs and workstations sit outside that gate by both design intent and marketing. The 2012 SFLC PC-repair denial is 13 years old; the evidentiary landscape has changed completely (Apple Silicon parts-pairing, locked SSDs, T2 / secure-enclave authentication, surface bonding). A direct ask for general-purpose computing in commercial use rests on a much stronger record than 2012's, and on a class-definition theory that does not exist in any current exemption.</dd>
+      <dt>Why now (enterprise IT)</dt>
+      <dd>HPE / Dell / Cisco lockouts on EOL hardware; license-keyed feature unlocks on storage arrays; PSU and optic authentication on network switches. Refurbisher-industry economic data is now available at scale (SERI, ITRH) — the sustainability and e-waste-diversion story is concrete in a way it wasn't in prior cycles.</dd>
+      <dt>Precedent</dt>
+      <dd>2024 <code>§201.40(b)(15)</code> consumer-device repair (analogous for non-commercial PCs; this filing extends the same logic to commercial use); <code>(b)(17)</code> medical devices ("professional repair under firmware control, including related data files" template for the enterprise IT leg).</dd>
+      <dt>Coalition lead</dt>
+      <dd>Repair Association IT / PC track + SERI (sustainability) or ITRH (IT-refurbisher industry).</dd>
+      <dt>Co-leads</dt>
+      <dd>EFF; nonprofit IT-refurbisher consortia; commercial-PC user communities (school IT, small-business IT, nonprofit / philanthropy IT); MSPs and managed-IT trade associations.</dd>
+      <dt>Expected opposition</dt>
+      <dd>Apple (most aggressive — has fought repair exemptions across multiple cycles), Microsoft, HPE, Dell, Cisco, NetApp, Lenovo. <b>Strongest opposition of any filing.</b></dd>
+      <dt>Risk</dt>
+      <dd>High for full scope. Medium for a commercial-PC + workstation carve-out (clearly outside <code>(b)(15)</code>'s consumer gate). The narrow framing — hardware repair only, no licensing / OS access / content-DRM bypass — is essential.</dd>
+      <dt>Expected outcome</dt>
+      <dd>Likely partial grant. Strongest case: <b>professional workstations</b> (Mac Pro, Dell Precision, HP Z) — clearly commercial by design. Medium case: <b>commercial-use laptops / desktops</b> (Office may say <code>(b)(15)</code> already covers and decline to extend). Datacenter / enterprise gear: likely denied at full scope; narrow <b>abandoned-vendor IT carve-out</b> plausible (parallel to Filing 3b).</dd>
+    </dl>
+  </section>
+
+  <!-- Filing 5 -->
+  <section class="filing">
+    <div class="filing-head">
+      <h3><span class="number">Filing 5 ·</span> Building &amp; Energy Infrastructure</h3>
+      <span class="confidence conf-med">Confidence: Medium</span>
+    </div>
+    <p class="filing-summary">Repair of equipment attached to commercial buildings or to a property's energy / charging infrastructure. <strong>Unified user community: building owners, facility managers, and energy operators</strong> — distinct from Filing 2's small-commercial-service operators and Filing 3's factory operators. Safety framing (life-safety exclusion, grid-interconnect carve-out) is make-or-break.</p>
+    <dl class="grid">
+      <dt>Building scope</dt>
+      <dd>
+        <ul>
+          <li>Commercial HVAC — rooftop units, chillers, VRF systems, walk-in refrigeration, commercial-scale heating/cooling. <i>Excludes Filing 3's industrial-scale factory HVAC and the residential HVAC already reached by <code>(b)(15)</code>'s home-systems leg.</i></li>
+          <li>Building management systems (BMS) and building automation controllers.</li>
+          <li>Commercial elevator and access controllers — with life-safety carve-out (below).</li>
+        </ul>
+      </dd>
+      <dt>Energy scope</dt>
+      <dd>
+        <ul>
+          <li>Solar inverters and microinverter systems (Enphase, SolarEdge, SMA, Fronius, GoodWe).</li>
+          <li>Commercial battery energy-storage systems (Tesla Powerwall- and Megapack-scale, LG, Enphase IQ, EG4).</li>
+          <li>Energy management systems (EMS); microgrid controllers.</li>
+          <li>EV charging infrastructure — Level 2 and DC fast chargers in commercial, fleet, multi-family, and workplace settings.</li>
+        </ul>
+      </dd>
+      <dt>Critical exclusions</dt>
+      <dd>
+        <ul>
+          <li><b>Life-safety systems</b> — fire alarm, smoke control, intrusion detection, elevator interlock, sprinkler controls. Carved out entirely.</li>
+          <li>Any modification that changes grid-interconnect behavior, safety setpoints, or certified parameters (UL 1741, IEEE 1547).</li>
+          <li>Modifications that affect HVAC's regulated efficiency or emissions parameters (EPA, DOE).</li>
+        </ul>
+      </dd>
+      <dt>Why now</dt>
+      <dd>Bricking incidents at scale: <b>SunPower bankruptcy</b> left tens of thousands of homeowners with locked monitoring; <b>EV-charger network failures</b> (ChargePoint, EVgo, Blink) leave owners and operators unable to restore service; <b>commercial HVAC service-exclusivity</b> by Carrier / Trane / Daikin / Honeywell / Johnson Controls is documented across BOMA-member buildings.</dd>
+      <dt>Precedent</dt>
+      <dd>2024 <code>§201.40(b)(13)</code> vehicle/vessel (vehicles have safety-critical components; the Office has accepted "restore original specifications" repair); <code>(b)(17)</code> medical devices (related-data-files pattern); <code>(b)(15)</code>'s home-systems leg (analogous for the residential side of the same equipment categories).</dd>
+      <dt>Coalition lead</dt>
+      <dd>BOMA (Building Owners and Managers Association) + SEIA (Solar Energy Industries Association).</dd>
+      <dt>Co-leads</dt>
+      <dd>IFMA (International Facility Management Association); ChargePoint and fleet-operator coalitions; local-solar advocates (Solar United Neighbors); IREC (Interstate Renewable Energy Council).</dd>
+      <dt>Expected opposition</dt>
+      <dd>Tesla (EV chargers + solar + batteries combined), Enphase, SolarEdge; Carrier, Trane, Daikin, Honeywell, Johnson Controls (commercial HVAC). ChargePoint could be opposition or co-lead depending on case selection.</dd>
+      <dt>Risk</dt>
+      <dd>Medium-high. The unified "building infrastructure" user community is more cohesive than the previous building/energy split. Safety-framing is the make-or-break — without explicit grid-interconnect and life-safety carve-outs, denial is likely on safety grounds regardless of merits. Concrete bricking incidents (SunPower bankruptcy, EV-charger network outages) are the strongest wedge.</dd>
+      <dt>Expected outcome</dt>
+      <dd>Partial grant. <b>EV charging</b> most likely (clearest concrete record, smallest opposition); <b>commercial HVAC</b> plausibly granted with life-safety carve-out; <b>solar / battery</b> mixed (heavy vendor opposition); <b>BMS</b> tricky (safety-system overlap).</dd>
+    </dl>
+  </section>
+
+  <h2>Renewals — every 2024 grant, streamlined</h2>
+  <div class="renewals">
+    <p>Streamlined renewal is a short "no relevant change in circumstances; no marketplace alternatives have emerged" petition. Assign one person to batch all of these — about 2 days total.</p>
+    <table>
+      <thead><tr><th>Class</th><th>Topic</th></tr></thead>
+      <tbody>
+        <tr><td>(b)(1)–(b)(4)</td><td>Motion-picture clips, captioning, preservation, TDM (literary), TDM (motion pictures)</td></tr>
+        <tr><td>(b)(5)–(b)(6)</td><td>Sound-recording / literary accessibility</td></tr>
+        <tr><td>(b)(7)–(b)(8)</td><td>Wireless unlocking</td></tr>
+        <tr><td>(b)(9)</td><td>Smartphone jailbreaking</td></tr>
+        <tr><td>(b)(10)</td><td>Smart-TV jailbreaking</td></tr>
+        <tr><td>(b)(11)</td><td>Voice-assistant jailbreaking</td></tr>
+        <tr><td>(b)(12)</td><td>Security research</td></tr>
+        <tr><td>(b)(13)</td><td>Vehicle / vessel repair</td></tr>
+        <tr><td>(b)(14)</td><td>Vehicle / vessel data access</td></tr>
+        <tr><td>(b)(15)</td><td>Consumer-device repair</td></tr>
+        <tr><td>(b)(16)</td><td>Retail commercial food-prep</td></tr>
+        <tr><td>(b)(17)</td><td>Medical-device repair</td></tr>
+        <tr><td>(b)(18)–(b)(20)</td><td>Software preservation</td></tr>
+        <tr><td>(b)(21)</td><td>3D-printer feedstock</td></tr>
+        <tr><td>(b)(22)</td><td>Routers</td></tr>
+      </tbody>
+    </table>
+  </div>
+
+  <h2>Realistic outcome distribution</h2>
+  <div class="outcomes">
+    <table>
+      <thead><tr><th>Filing</th><th>Likely outcome</th></tr></thead>
+      <tbody>
+        <tr><td>1 · Ag &amp; Construction</td><td><b>Granted.</b> Possibly with separate paragraphs for stationary-ag and stationary-construction. Mobile-construction clarification recorded.</td></tr>
+        <tr><td>2 · Commercial-Service + Scientific</td><td><b>Granted.</b> Likely with separate paragraphs for the two sub-classes given the distinct user communities.</td></tr>
+        <tr><td>3 · American Re-industrialization</td><td><b>1–2 of 4 sub-asks granted</b> — most likely abandoned-vendor (3b) plus one of regulated-pharma (3a) or factory-floor (3c). Others build 2030 record. Re-industrialization framing may produce sympathetic Register dicta even where scope is denied.</td></tr>
+        <tr><td>4 · General-Purpose Computing &amp; Networking</td><td><b>Partial grant.</b> Strongest case: commercial workstations + PCs (outside <code>(b)(15)</code>'s consumer gate). Datacenter / enterprise IT denied at full scope; abandoned-vendor IT carve-out plausible.</td></tr>
+        <tr><td>5 · Building &amp; Energy Infrastructure</td><td><b>Partial grant</b> — EV charging most likely; commercial HVAC plausible with life-safety carve-out; solar / battery mixed; BMS tricky.</td></tr>
+      </tbody>
+    </table>
+    <p style="margin: 10px 0 0; font-size: 12.5px; color: var(--muted);"><b>Net new substantive grants: ~3–5 classes.</b> For comparison, 2024 produced 3 substantively-new grants (food-prep, vehicle/vessel data, plus expansions). Every denial's record enables a 2030 grant — the 2024 food-prep grant was built on the 2021 commercial/industrial denial's record. We are explicitly running the same play across five filings.</p>
+  </div>
+
+  <h2>Parking lot — smaller / not-yet-formalized candidates</h2>
+  <div class="parking">
+    <p style="margin-bottom: 12px;">These came up in scoping but are not in the 5-filing list either because (a) they are plausibly already covered by an existing class and only need testing, (b) they lack a coalition lead, or (c) they would dilute a more-focused filing. Worth a re-look before petitions are frozen.</p>
+
+    <div class="item">
+      <h4>Hearing aids — post-2022 OTC</h4>
+      <p>The FDA's August 2022 OTC rule created a consumer market that didn't exist in any prior §1201 cycle. Fitting and pairing locked behind manufacturer software (Phonak Target, Oticon Genie); battery and shell repair locked. <b>Plausibly already reached</b> by <code>(b)(17)</code> medical-device (prescription side) or <code>(b)(15)</code> consumer-device (OTC side) — but never specifically tested on the record. A short clarifying filing could resolve the ambiguity.</p>
+    </div>
+
+    <div class="item">
+      <h4>Drones — particularly commercial / professional</h4>
+      <p>DJI-dominated market with parts authentication, battery-pack pairing, motor/ESC pairing. Consumer drones plausibly reach <code>(b)(15)</code>; <b>commercial drones</b> (ag mapping, surveying, professional cinematography) fall into the same commercial/industrial gap that swallowed the 2024 Class 5 broad ask. Could be folded into Filing 3 if a coalition lead emerges.</p>
+    </div>
+
+    <div class="item">
+      <h4>Smart power tools &amp; yard equipment with paired batteries</h4>
+      <p>Milwaukee, DeWalt, EGO, etc. Battery authentication + tool-pairing chips. Consumer-grade plausibly covered by <code>(b)(15)</code>; the <b>contractor / job-site tier</b>, which dominates the market, sits in the commercial/industrial gap. Candidate to fold into Filing 1 (construction) if scope permits.</p>
+    </div>
+
+    <div class="item">
+      <h4>E-readers — repair (not jailbreak)</h4>
+      <p>Kindle jailbreaking was denied 2015 for interoperability purposes. <b>Repair</b> (battery replacement de-authentication, paired screens) is a separate question that has never been on the §1201 record. Probably folded into <code>(b)(15)</code> consumer-devices on its face, but untested.</p>
+    </div>
+
+    <div class="item">
+      <h4>Personal computers / laptops <span style="color: var(--muted); font-weight: 400;">— now absorbed into Filing 4</span></h4>
+      <p>Originally a parking-lot item refreshing the 2012 SFLC PC-repair denial. <b>Now part of Filing 4 (General-Purpose Computing &amp; Networking)</b>, which targets the gap that <code>(b)(15)</code>'s "primarily designed for consumers" gate leaves for PCs / Macs / workstations in commercial use.</p>
+    </div>
+  </div>
+
+  <h2>Strategic notes from the record</h2>
+  <div class="callout">
+    <p><b>Focused petitions with developed records win; broad asks with thin records lose.</b> The repair classes that succeeded — vehicles (2015), consumer devices (2018), medical devices (2021), food-prep (2024) — were all focused, with concrete commercial-harm records and named witnesses. The classes that failed — broad commercial/industrial in 2021 and 2024, the 2012 SFLC PC class — were broad scope, thinner records, or both. Petitioners who lose tend to lose for the same reason ("insufficient evidence"); petitioners who win tend to win by building the specific record.</p>
+    <p><b>Round 1 comments (~Dec 2026) is the deadline that matters</b>, not the petition itself. The petition is short. Plan the next 6 months around Round 1.</p>
+    <p><b>Treat denials as 2030 raw material.</b> Every "insufficient record" denial tells you exactly what evidence to develop for the next cycle. The 2024 food-prep grant was built on the 2021 commercial/industrial denial — same play, run again at five scales.</p>
+  </div>
+
+  <h2>Deferred to 2030</h2>
+  <div class="parking">
+    <p><b>Professional A/V / broadcast / cinema equipment.</b> Distinct copyright concerns (these devices process audiovisual works); needs careful framing around device-control firmware that does NOT touch access-to-works. Should be its own filing with its own coalition (Society of Broadcast Engineers, post-production trade groups). Not included now to avoid diluting the five focused 2027 filings.</p>
+  </div>
+
+  <h2>Sources</h2>
+  <div class="parking">
+    <p>Primary sources are the cycle Final Rules and Registers' Recommendations under <code>1201/Final Rules/</code> and <code>1201/Reg Recommendation/</code>. Key citations:</p>
+    <ul style="margin: 8px 0 0; padding-left: 22px; font-size: 13px; color: var(--muted);">
+      <li>2024 Class 5 scientific/medical/consumer exclusion — Public Knowledge &amp; iFixit Initial Comment (<code>1201/first-round-comments/2024/Class05_Public-Knowledge.txt</code>), <em>"medical, scientific, or consumer use should remain outside the scope of this class."</em></li>
+      <li>2021 Proposed Class 12 (Computer Programs — Repair, broader scope) denial — 2021 Register's Recommendation §III.L (SCADA, PBX, facility-management examples).</li>
+      <li>2024 Proposed Class 5 (broader scope) denial — 2024 Register's Recommendation.</li>
+      <li>2024 grants codified in <code>37 CFR §201.40(b)(13)–(b)(17)</code> and <code>(b)(21)</code>.</li>
+      <li>Cross-cycle threads: <code>analysis/lineages.json</code> (Layer 2 of the data layer; see <code>AGENTS.md</code>).</li>
+      <li>Full strategy document: <a class="inline" href="1201/Claude%20Reports/2026-05-23__2027-Cycle-Multi-Class-Petition-Plan.md"><code>1201/Claude Reports/2026-05-23__2027-Cycle-Multi-Class-Petition-Plan.md</code></a>.</li>
+    </ul>
+  </div>
+
+  <footer>
+    <p><b>Not legal advice.</b> This page describes a forward-looking petitioning strategy grounded in the §1201 rulemaking record. The codified text in each Final Rule is the operative regulation. A petitioner should work with counsel before filing.</p>
+    <p>Source repository: <a href="https://github.com/kevin-fulu/1201-exemptions">kevin-fulu/1201-exemptions</a>. Underlying PDFs and text extractions live under <code>1201/</code>.</p>
+  </footer>
+
+</div>
+</body>
+</html>
