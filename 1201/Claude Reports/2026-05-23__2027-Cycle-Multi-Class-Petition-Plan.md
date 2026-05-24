@@ -27,6 +27,31 @@ The 2024 Register denied "commercial and industrial equipment" broadly (Class 5 
 
 ---
 
+## The Office's own position on repair
+
+The Register has **already endorsed** the substance of what we're petitioning for. Two of the Register's standalone policy studies, both delivered to Senators Grassley and Leahy in 2016-17, give us direct citations that pre-rebut the most common opposition arguments. (Both reports are archived under `1201/Policy Studies/`; full citation analysis in `1201/Claude Reports/2026-05-24__Office-Policy-Reports-and-2027-Plan-Implications.md`.)
+
+**1. The Register supports a permanent repair exemption.** From the 2017 §1201 Study at PDF p. 90: *"a limited and properly‐tailored permanent exemption for [diagnosis, repair, and maintenance], including circumventing obsolete access controls for continued functioning of a device, would be consistent with the statute's overall policy goals."* The Office characterized the rulemaking as a *"somewhat ill‐fitting regulatory approach"* (p. 92, quoting former Register Peters) for cross-cutting repair issues. Our triennial filings are interim relief while Congress catches up to the Office's own recommendation.
+
+**2. The Office expressly recommends *against* device-specific limitations.** From the 2017 §1201 Study at p. 94: *"the Office recommends against limiting an exemption to specific technologies or devices, such as motor vehicles, as any statutory language would likely be soon outpaced by technology."* Cite this whenever opposition argues that a class is "too broad." The Office's own position is that broader, device-agnostic protection is preferable.
+
+**3. Safety concerns belong outside copyright law.** From the 2017 §1201 Study at p. 94: *"to the extent that commenters oppose an exemption for repair out of non‐copyright related concerns, such as public safety, the Office believes these matters are better addressed through laws or regulations outside of the Copyright Act."* This is the Office's own framing for our Filing 5 carve-outs (life-safety, UL 1741, IEEE 1547, EPA/DOE efficiency parameters).
+
+**4. §117(d) is the Register's preferred statutory anchor.** The Office recommended that any repair exemption use 17 U.S.C. §117(d)'s definitions: *"the 'maintenance' of a machine is the servicing of the machine in order to make it work in accordance with its original specifications"* and *"the 'repair' of a machine is the restoring of the machine to the state of working in accordance with its original specifications."* (2017 §1201 Study at p. 94). Our class-language drafts should mirror this. The "original specifications" framing also pre-rebuts the modification / tinkering objection: we are not asking to enhance or customize devices, only restore them.
+
+**5. The 2016 Software Study found §117(a) covers most repair as a matter of underlying copyright.** From the 2016 Study at p. 35: §117 *"should adequately protect most repair and maintenance activities."* And at p. 40: *"repair supports — rather than displaces — the purpose of the embedded programs that control that device."* For devices where the embedded software is "invisible to the consumer" (mechanical controllers, parts-pairing chips, peripheral firmware), the device buyer is the §117 owner — the underlying copyright concern dissolves. This is the doctrinal foundation for our Filings 1–3 and 5; Filing 4 needs to be more careful because the OS is "a more significant element of the transaction" (2016 Study at p. 35–36).
+
+**6. Even the opposition has conceded repair is distinguishable.** The joint copyright-industry coalition (AAP, ESA, MPAA & RIAA) conceded in the 2016 record that *"automobile repair or other forms of repair might present a unique and distinguishable set of circumstances"* (2017 §1201 Study at p. 93 n.508). Use this when the same coalition opposes our filings in 2027.
+
+**What's NOT in our favor:**
+
+- The Office *rejected* a §1201(a) infringement-nexus requirement (2017 Study pp. 42–46). Reason: it would weaken copyright owners' control over online access to creative works. Our argument cannot be "TPMs on repair targets categorically lack copyright nexus."
+- The Office *rejected* categorical exclusion of "device- or machine-enabling computer programs" (p. 47). Reason: line-drawing problems (video-game-console authentication, etc.). Our argument cannot be "device-control firmware is categorically outside §1201(a)."
+
+Both rejections mean we still need the rulemaking. But neither undermines our core framing — which is that the underlying activity is non-infringing under §117 and that the Office's own permanent-exemption recommendation supports broad, device-agnostic repair relief through the rulemaking until Congress acts.
+
+---
+
 ## Cycle calendar (anchored to the last four cycles' pattern)
 
 | Date | Event | Our action |
@@ -87,7 +112,7 @@ The hard deadline is **Round 1 (~Dec 2026)** — that's where the substantive ev
 
 ## Filing 2 — Commercial-Service & Scientific Equipment (50/50 balanced)
 
-> **Two parallel sub-classes with identical TPM patterns, identical ISO-repair industry structures, and identical copyright posture** — the TPMs at issue (service-mode passwords, OEM calibration software, authenticated parts, encrypted firmware, phone-home license checks) gate device-control firmware, not access to creative works. Combining the two does not introduce a new copyright surface; existing §1201(f) (reverse engineering for interoperability) and §1201(j) (security testing) already provide the statutory baseline.
+> **Two parallel sub-classes with identical TPM patterns, identical ISO-repair industry structures, and identical copyright posture** — the TPMs at issue (service-mode passwords, OEM calibration software, authenticated parts, encrypted firmware, phone-home license checks) gate device-control firmware, not access to creative works. Per the 2016 Software Study at p. 40, *"repair supports — rather than displaces — the purpose of the embedded programs that control that device"* — and §117(a) *"should adequately protect most repair and maintenance activities"* (2016 Study at p. 35). Combining the two sub-classes does not introduce a new copyright surface; existing §1201(f) (reverse engineering for interoperability) and §1201(j) (security testing) already provide the statutory baseline. The 2017 §1201 Study went further and recommended Congress adopt a **permanent statutory repair exemption** keyed to §117(d)'s "maintenance" and "repair" definitions. Even the opposition coalition conceded that repair "might present a unique and distinguishable set of circumstances" (AAP, ESA, MPAA & RIAA, 2016 record, cited at 2017 Study p. 93 n.508).
 >
 > **The combined case: the need is broad (every small commercial operator and every research lab), the harm is narrow (no creative-works content is at issue), and the additional scope of including both sub-classes does not expand copyright risk relative to either sub-class alone.**
 >
@@ -231,6 +256,7 @@ Filed as one petition (preferred) or four depending on Office preference:
   - Modifying or accessing the OS, hypervisor, or management-plane software beyond what is strictly necessary for hardware component substitution.
   - Defeating subscription gates on software features or DRM-protected content (FairPlay, Widevine, streaming-service DRM).
 - This is the lesson from 2024: broad framings on computing lose because the Office sees software-licensing or content-DRM concerns. Carving narrowly to hardware-repair-only changes the legal posture.
+- **Doctrinal foundation:** the 2016 Software Study draws a distinction we explicitly track. Embedded software that is "invisible to the consumer" (mechanical controllers, peripheral firmware, parts-pairing chips, T2/Secure-Enclave authentication of hardware components) is owned by the device buyer for §117(a) purposes (2016 Study at p. 35). Software that is "a more significant element of the transaction" — the OS — is more likely treated as licensed (id.). Our scope sits squarely on the owned-firmware side of that line: we're asking to circumvent component-authentication so users can replace failed *hardware*, not to access or modify the *OS*. The exclusions above make that distinction explicit so opposition cannot conflate the two.
 
 ### User community & political constituency
 - **Commercial computing leg:** businesses, schools, healthcare practices, government agencies, nonprofits using PCs / Macs / laptops / workstations; school IT directors; small-business IT operators; MSPs and managed-IT providers.
@@ -299,6 +325,7 @@ Filed as one petition (preferred) or four depending on Office preference:
   - Carve out life-safety systems entirely (fire alarm, smoke control, intrusion detection, elevator interlock, sprinkler controls).
   - Carve out modifications that affect HVAC's regulated efficiency or emissions parameters (EPA, DOE).
 - Without these carve-outs, this filing is denied for safety reasons regardless of merits.
+- **The Office's own framing supports this approach.** From the 2017 §1201 Study at p. 94: *"to the extent that commenters oppose an exemption for repair out of non‐copyright related concerns, such as public safety, the Office believes these matters are better addressed through laws or regulations outside of the Copyright Act."* Our carve-outs implement that direction: safety regulation belongs to UL, IEEE, EPA, DOE, and AHJ inspection — not §1201. Cite this when opposition (Tesla, Carrier, Trane, etc.) raises safety arguments against the repair exemption.
 
 ### User community
 - Commercial property owners, BOMA members, IFMA members, facilities managers.
@@ -424,6 +451,8 @@ Based on the 2021 / 2024 patterns:
 **Net new substantive grants: ~3–5 classes.** For comparison, 2024 produced 3 substantively-new grants (food-prep, vehicle/vessel data, plus expansions). This would be a notably-productive cycle.
 
 **Long-term:** the denials are not failures — every denial's record is what enables a 2030 grant. The 2024 food-prep grant was built on the 2021 commercial/industrial denial's record. We are explicitly running the same play across 5 filings.
+
+**The Register's permanent-exemption recommendation is the political backdrop.** The 2017 §1201 Study (PDF pp. 88–96) recommended Congress adopt a permanent statutory repair exemption keyed to §117(d). Congress has not acted in nearly a decade. That recommendation is still on the table, and every triennial repair win builds the case that the rulemaking is doing work Congress should have made permanent. Cite the Register's own recommendation whenever opposition argues a class is "too broad" or "should wait for legislation": the Office's own view is that the rulemaking is "ill-fitting" for these issues and that broader, device-agnostic protection is what the statute eventually needs. Triennial wins are the bridge to (someday) statutory relief.
 
 ---
 
