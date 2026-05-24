@@ -2,6 +2,14 @@
 
 A research archive of every U.S. Copyright Office DMCA §1201 anticircumvention rulemaking from 2000 through 2024, plus a cross-cycle analytical synthesis showing which exemption classes have been granted, denied, expanded, narrowed, or dropped across the nine triennial cycles.
 
+## View it online
+
+The diagrams are published on GitHub Pages — open them directly, no download:
+
+- **<https://kevin-fulu.github.io/1201-exemptions/>** — landing page.
+- **[Cycle-by-cycle exemption history](https://kevin-fulu.github.io/1201-exemptions/diagram.html)** — the full matrix of every class granted, denied, expanded, narrowed, or dropped across the nine cycles, with a click-to-open per-exemption detail panel.
+- **[Repair exemptions by product](https://kevin-fulu.github.io/1201-exemptions/diagram-repair.html)** — diagnosis/maintenance/repair classes (plus owner-data access) remapped from codified §201.40 classes onto product categories.
+
 ## What is §1201?
 
 Section 1201 of the Digital Millennium Copyright Act prohibits circumventing technological protection measures ("TPMs") that control access to copyrighted works. Every three years, the U.S. Copyright Office runs a rulemaking proceeding under 17 U.S.C. § 1201(a)(1)(C) to consider exemptions for specific classes of works where the prohibition would adversely affect noninfringing uses. The Register of Copyrights makes recommendations; the Librarian of Congress issues a Final Rule codifying granted exemptions at 37 CFR § 201.40(b).
@@ -10,8 +18,8 @@ The exemptions include things you may have heard of: smartphone jailbreaking (gr
 
 ## What's in this repository
 
-### The diagram
-**`diagram.html`** — a self-contained, color-coded matrix showing all 51 substantive topics (30 granted, 21 denied-but-notable) across the 9 cycles. Open it in any browser. No JavaScript, no external assets. Includes a print-friendly stylesheet with symbol fallbacks for black-and-white printing, and a per-exemption details section below the matrix with the full per-cycle evolution narrative for each topic.
+### The diagrams
+**`diagram.html`** — a color-coded matrix showing all 51 substantive topics (30 granted, 21 denied-but-notable) across the 9 cycles, with a per-exemption detail panel carrying the full per-cycle evolution narrative. **`diagram-repair.html`** — the repair-relevant classes remapped onto product categories. **`index.html`** is the landing page linking both. The pages render in the browser from a generated JSON data layer under `analysis/` (the diagram is no longer a single self-contained file — see `AGENTS.md` for how to change the data and rebuild); both include a print-friendly stylesheet with black-and-white symbol fallbacks.
 
 ### The primary-source archive (`1201/`)
 
@@ -30,12 +38,16 @@ Every PDF in `Final Rules/`, `Reg Recommendation/`, and `first-round-comments/` 
 | File | Contents |
 |---|---|
 | `inventory.md` | Top-level map of the archive's structure and what's missing. |
-| `cycle-{2000…2024}.json` | One per cycle. Every granted `§ 201.40(b)(N)` class with verbatim quote from the Final Rule, permitted uses, exclusions, definitions, renewal status, and PDF page citations. |
-| `cycle-{2000…2024}-denials.json` | One per cycle. Every proposed class that was *not* recommended (or denied procedurally), with the cycle's internal class numbering, reason category, short verbatim quote, and PDF page citations. 79 denials total across all cycles. |
-| `exemptions-master.json` | The consolidated cross-cycle view. 51 entries: 30 substantively-matched granted exemptions and 21 substantively-matched denied-petition topics. Each entry has a stable `id`, a category, a `first_granted` year (or `null` for never-granted), `per_cycle_status` for all 9 cycles, and an `evolution_notes` narrative. |
-| `audit-existing.md` | An independent audit of `cycle-{2000…2015}.json` against the codified text. 35/36 records confirmed, one minor cosmetic flag, no substantive errors. |
-| `verification-report.md` | An independent verification of the master file's substance-matching claims. 13/13 confirmed. |
-| `verification-denials.md` | An independent verification of the denial substance-matches and partial-denial annotations. 12/12 confirmed. |
+| `cycle-{2000…2024}.json` | Layer 1 — one per cycle. Every granted `§ 201.40(b)(N)` class with a verbatim quote from the Final Rule, permitted uses, exclusions, definitions, PDF page citations, and a stable `class_id`. |
+| `cycle-{2000…2024}-denials.json` | Layer 1 — one per cycle. Every proposed class *not* recommended (or denied procedurally), with the cycle's internal class numbering, reason category, short verbatim quote, and PDF page citations. |
+| `comments.json` | Layer 1 — the 313 first-round NPRM comments, normalized from the per-cycle `manifest.csv` files. |
+| `lineages.json` | Layer 2 — the consolidated cross-cycle view: 51 threads (30 granted exemptions, 21 denied-but-notable topics), each linking the per-cycle classes that compose it. The source of truth for the diagrams. |
+| `views/` | Layer 3 — per-view ordering and presentation for `diagram.html` and `diagram-repair.html`. |
+| `derived/` | GENERATED by the build — `status-grid.json` and a flat `exemptions-master.json` consolidation. Do not hand-edit. |
+| `build/` | The Node build pipeline (`make build`) that renders the data layer into the diagrams' `.js` data files. |
+| `audit-existing.md`, `verification-report.md`, `verification-denials.md` | Independent verification passes run during construction (35/36, 13/13, 12/12 records confirmed). |
+
+The diagrams are generated from this data layer — `make build` turns `lineages.json` + `views/` into the `.js` files the HTML reads. See `AGENTS.md` for how to change the data and rebuild; don't hand-edit the generated `.js` or `derived/` files.
 
 ### Documentation
 
@@ -48,14 +60,14 @@ Every PDF in `Final Rules/`, `Reg Recommendation/`, and `first-round-comments/` 
 ### Quick questions
 
 - **"Which exemptions were granted in cycle X?"** → `1201/INDEX.md` lists every cycle's codified `§ 201.40(b)` classes with the PDF page where the codified text begins.
-- **"When was exemption Y first granted? How has it evolved?"** → Open `diagram.html` and find the row, or look up the id in `analysis/exemptions-master.json` and read `per_cycle_status` and `evolution_notes`.
+- **"When was exemption Y first granted? How has it evolved?"** → Open `diagram.html` and find the row, or look up the topic in `analysis/lineages.json` and read its `members` and `evolution_notes`.
 - **"Why was proposal Z denied?"** → Search `analysis/cycle-{YYYY}-denials.json` for the topic, then follow the `source_pdf_pages` citation back to the Final Rule's preamble. The full reasoning lives in that cycle's Register's Recommendation if you need more depth.
 
 ### Deeper research
 
 For substantive research, the most efficient pattern is:
 
-1. Start with `analysis/exemptions-master.json` (or the diagram) to orient.
+1. Start with `analysis/lineages.json` (or the diagram) to orient.
 2. Drop into the per-cycle JSON (`analysis/cycle-YYYY.json` or `analysis/cycle-YYYY-denials.json`) for the verbatim codified or denial language.
 3. Open the corresponding `.txt` file in `1201/Final Rules/` or `1201/Reg Recommendation/` and grep for the topic. Cite back using the `[PAGE N]` markers (these match PDF page numbers, not Federal Register printed pagination).
 4. Read the source PDF directly only when formatting, tables, or signatures matter.
