@@ -50,7 +50,12 @@ window.DMCA1201_REPAIR = {
           "headline": "First granted",
           "longDesc": "2018 (b)(10) created an exemption for diagnosis/maintenance/repair of smartphones, home appliances, OR home systems. Smartphones were one of the three enumerated device types — the only specifically named handheld category in the original class.",
           "quote": "The Acting Register largely concurs with NTIA's support for expanding the exemption to allow users to diagnose and repair smartphones and home appliances.",
-          "citation": "2018 Acting Register's Recommendation [PAGE 205]; codified at 2018 Final Rule § 201.40(b)(10)."
+          "citation": "2018 Acting Register's Recommendation [PAGE 205]; codified at 2018 Final Rule § 201.40(b)(10).",
+          "petitioners": [
+            "Auto Care + CTA",
+            "EFF",
+            "iFixit"
+          ]
         },
         "2021": {
           "status": "expanded",
@@ -58,7 +63,11 @@ window.DMCA1201_REPAIR = {
           "headline": "Folded into 'consumer devices'",
           "longDesc": "2021 (b)(14) replaced the smartphone/home-appliance/home-system enumeration with 'any lawfully acquired device that is primarily designed for use by consumers.' Smartphones remain covered, now as one species of consumer device.",
           "quote": "When circumvention is undertaken on a lawfully acquired device or machine on which the computer program operates solely for the purpose of diagnosis, maintenance, or repair of such a device or machine. For purposes of this paragraph, a device or machine is considered lawfully acquired if it is a device or machine that is primarily designed for use by consumers …",
-          "citation": "2021 Register's Recommendation [PAGE 235]; codified at 2021 Final Rule § 201.40(b)(14)."
+          "citation": "2021 Register's Recommendation [PAGE 235]; codified at 2021 Final Rule § 201.40(b)(14).",
+          "petitioners": [
+            "iFixit",
+            "Repair Ass'n"
+          ]
         },
         "2024": {
           "status": "renewed",
@@ -66,7 +75,10 @@ window.DMCA1201_REPAIR = {
           "headline": "Renewed unchanged",
           "longDesc": "2024 (b)(15) renewed the consumer-devices class. No proposal for narrower or broader smartphone-specific treatment was filed.",
           "quote": "Renewed unchanged from 2021.",
-          "citation": "2024 Final Rule § 201.40(b)(15)."
+          "citation": "2024 Final Rule § 201.40(b)(15).",
+          "petitioners": [
+            "Auto Care/CTA/iFixit/ORI (renewal)"
+          ]
         }
       }
     },
@@ -106,7 +118,11 @@ window.DMCA1201_REPAIR = {
           "headline": "Covered via consumer-devices broadening",
           "longDesc": "Proponents (iFixit, Repair Association) specifically cited tablets as a key gap in the 2018 class. The 2021 expansion to 'consumer devices generally' brings tablets in. They are not named in the codified text but the Recommendation discusses them as a paradigmatic covered case.",
           "quote": "iFixit and the Repair Association note that while circumventing TPMs to repair smartphones is exempt under current regulations, doing so to repair tablets is not.",
-          "citation": "2021 Register's Recommendation [PAGE 216]; codified at 2021 Final Rule § 201.40(b)(14)."
+          "citation": "2021 Register's Recommendation [PAGE 216]; codified at 2021 Final Rule § 201.40(b)(14).",
+          "petitioners": [
+            "iFixit",
+            "Repair Ass'n"
+          ]
         },
         "2024": {
           "status": "renewed",
@@ -114,7 +130,10 @@ window.DMCA1201_REPAIR = {
           "headline": "Renewed via consumer-devices class",
           "longDesc": "Inherited from the 2021 broadening; no separate tablet record in 2024.",
           "quote": "Renewed unchanged from 2021.",
-          "citation": "2024 Final Rule § 201.40(b)(15)."
+          "citation": "2024 Final Rule § 201.40(b)(15).",
+          "petitioners": [
+            "iFixit (renewal coalition)"
+          ]
         }
       }
     },
@@ -140,7 +159,15 @@ window.DMCA1201_REPAIR = {
           "headline": "SFLC Class 4 — denied (only §1201 ask ever filed for PCs)",
           "longDesc": "Software Freedom Law Center (SFLC), joined by FSF, Mozilla, SaurikIT, NYFU, and Andrew 'bunnie' Huang, asked to extend the smartphone jailbreaking exemption to ALL 'personal computing devices' — explicitly including PCs and tablets — to permit installing lawfully obtained software including alternative operating systems. The proposal was framed primarily as interoperability, but the record included an explicit repair argument: SFLC argued the prohibition 'inhibits the ability to extend the useful life of personal computing devices' (refurbishment for needy communities, environmental harm), and Huang's comment said §1201 'could make it difficult to repair a device if the repair requires circumvention.' The Register refused on evidentiary grounds: 'speculation' rather than 'specific and compelling evidence.' This is the only cycle in which §1201 has been asked to address PCs at all — for repair OR anything else.",
           "quote": "Proponents had relied heavily on speculation and failed to present specific and compelling evidence in support of a focused exemption. The Register therefore declined to recommend the adoption of the proposed class.",
-          "citation": "2012 Register's Recommendation [PAGE 55] (proposal) through [PAGE 67] (denial); Huang's repair argument at [PAGE 58], footnote 254; SFLC 'useful life / refurbish / environmental' argument at [PAGE 58]."
+          "citation": "2012 Register's Recommendation [PAGE 55] (proposal) through [PAGE 67] (denial); Huang's repair argument at [PAGE 58], footnote 254; SFLC 'useful life / refurbish / environmental' argument at [PAGE 58].",
+          "petitioners": [
+            "SFLC",
+            "FSF",
+            "Mozilla",
+            "SaurikIT",
+            "NYFU",
+            "Huang"
+          ]
         },
         "2015": {
           "status": "na"
@@ -159,7 +186,10 @@ window.DMCA1201_REPAIR = {
           "headline": "Plausibly covered — consumer-grade PCs only",
           "longDesc": "The 2021 broadening to 'any lawfully acquired device that is primarily designed for use by consumers' is, on its face, broad enough to include a consumer laptop or desktop. The Register's analytical reasoning emphasized characteristics that fit embedded-firmware devices better than a general-purpose OS (software 'specifically created for a particular product,' 'ancillary to … mechanical or electrical components'), but those characteristics are NOT in the rule. The codified text is just the 'primarily designed for use by consumers' gate — which a Chromebook or MacBook Air arguably meets. No Register opinion squarely resolves PC coverage; no petitioner has clearly tested it. Enterprise / server / workstation PCs would still fail the consumer-use gate.",
           "quote": "Computer programs that are contained in and control the functioning of a lawfully acquired device that is primarily designed for use by consumers, when circumvention is a necessary step to allow the diagnosis, maintenance, or repair of such a device …",
-          "citation": "2021 Final Rule § 201.40(b)(14); analytical framing at 2021 Register's Recommendation [PAGE 235]."
+          "citation": "2021 Final Rule § 201.40(b)(14); analytical framing at 2021 Register's Recommendation [PAGE 235].",
+          "petitioners": [
+            "(no petitioner — inferred coverage)"
+          ]
         },
         "2024": {
           "status": "carveout",
@@ -167,7 +197,10 @@ window.DMCA1201_REPAIR = {
           "headline": "Plausibly covered (renewed) — still untested",
           "longDesc": "Renewed unchanged in 2024. PC coverage remains a plausible reading of the codified text with no record opinion squarely resolving it.",
           "quote": null,
-          "citation": "2024 Final Rule § 201.40(b)(15)."
+          "citation": "2024 Final Rule § 201.40(b)(15).",
+          "petitioners": [
+            "(no petitioner — inferred coverage)"
+          ]
         }
       }
     },
@@ -202,7 +235,12 @@ window.DMCA1201_REPAIR = {
           "headline": "First granted",
           "longDesc": "2018 (b)(10) explicitly named 'home appliance' as one of the three enumerated device types eligible for repair circumvention. This was a direct response to DRM-locked refrigerators, dishwashers, etc.",
           "quote": "Computer programs that control … a lawfully acquired smartphone or home appliance or home system, such as a refrigerator, thermostat, HVAC, or electrical system …",
-          "citation": "2018 Final Rule § 201.40(b)(10) [PAGE 10]."
+          "citation": "2018 Final Rule § 201.40(b)(10) [PAGE 10].",
+          "petitioners": [
+            "EFF",
+            "iFixit",
+            "Auto Care + CTA"
+          ]
         },
         "2021": {
           "status": "renewed",
@@ -210,7 +248,11 @@ window.DMCA1201_REPAIR = {
           "headline": "Renewed via consumer-devices class",
           "longDesc": "Subsumed into the broader 'consumer devices generally' class. The (b)(14) codified text retains illustrative examples — 'such as a smartphone, home appliance, or home system.'",
           "quote": null,
-          "citation": "2021 Final Rule § 201.40(b)(14)."
+          "citation": "2021 Final Rule § 201.40(b)(14).",
+          "petitioners": [
+            "iFixit",
+            "Repair Ass'n"
+          ]
         },
         "2024": {
           "status": "renewed",
@@ -218,7 +260,10 @@ window.DMCA1201_REPAIR = {
           "headline": "Renewed unchanged",
           "longDesc": null,
           "quote": null,
-          "citation": "2024 Final Rule § 201.40(b)(15)."
+          "citation": "2024 Final Rule § 201.40(b)(15).",
+          "petitioners": [
+            "iFixit (renewal coalition)"
+          ]
         }
       }
     },
@@ -250,7 +295,12 @@ window.DMCA1201_REPAIR = {
           "headline": "First granted",
           "longDesc": "2018 (b)(10) explicitly named 'home system' (refrigerator, thermostat, HVAC, electrical system) as the third enumerated type. Note: the comma list in the codified text treats 'refrigerator' as a home system in the original, although in ordinary usage it's an appliance.",
           "quote": "Computer programs that control … a lawfully acquired … home system, such as a refrigerator, thermostat, HVAC, or electrical system.",
-          "citation": "2018 Final Rule § 201.40(b)(10) [PAGE 10]."
+          "citation": "2018 Final Rule § 201.40(b)(10) [PAGE 10].",
+          "petitioners": [
+            "EFF",
+            "iFixit",
+            "Auto Care + CTA"
+          ]
         },
         "2021": {
           "status": "renewed",
@@ -258,7 +308,11 @@ window.DMCA1201_REPAIR = {
           "headline": "Renewed via consumer-devices class",
           "longDesc": null,
           "quote": null,
-          "citation": "2021 Final Rule § 201.40(b)(14)."
+          "citation": "2021 Final Rule § 201.40(b)(14).",
+          "petitioners": [
+            "iFixit",
+            "Repair Ass'n"
+          ]
         },
         "2024": {
           "status": "renewed",
@@ -266,7 +320,10 @@ window.DMCA1201_REPAIR = {
           "headline": "Renewed unchanged",
           "longDesc": null,
           "quote": null,
-          "citation": "2024 Final Rule § 201.40(b)(15)."
+          "citation": "2024 Final Rule § 201.40(b)(15).",
+          "petitioners": [
+            "iFixit (renewal coalition)"
+          ]
         }
       }
     },
@@ -292,7 +349,11 @@ window.DMCA1201_REPAIR = {
           "headline": "First request — denied (NTIA's narrow-to-repair proposal refused)",
           "longDesc": "The 2012 Class 3 proposal was a broad video-game-console jailbreaking class. NTIA filed a letter urging the Register to narrow the class to ALLOW console repair: circumvention 'limited to allow videogame console owners to repair or replace hardware components, or to obtain unlicensed repairs when the console is out of warranty.' The Register REFUSED even this narrowed version, finding the record lacked any factual basis for a repair-only class. This was the first time §1201 game-console repair was on the table.",
           "quote": "Although NTIA does not support the exemption as requested by the proponents, it does support an exemption that is limited to allow videogame console owners to repair or replace hardware components, or to 'obtain unlicensed repairs when the console is out of warranty or when the console and authorized replacement parts are no longer on the market.' … the Register finds that the record lacks any factual basis upon which to recommend the designation of a class, even one that is limited to repair activities, as suggested by NTIA in its letter.",
-          "citation": "2012 Register's Recommendation [PAGE 53]; class denied at PAGE 54."
+          "citation": "2012 Register's Recommendation [PAGE 53]; class denied at PAGE 54.",
+          "petitioners": [
+            "NTIA (narrowed-to-repair proposal)",
+            "(original Class 3: EFF)"
+          ]
         },
         "2015": {
           "status": "denied",
@@ -300,7 +361,11 @@ window.DMCA1201_REPAIR = {
           "headline": "Re-raised with iFixit repair record — denied again",
           "longDesc": "iFixit returned in 2015 (Class 19) with substantially more detail on console repair, including the specific optical-drive problem: 'the optical drives are cryptographically linked via their serial numbers to the motherboard.' The Register acknowledged the record was 'somewhat more developed with respect to the issue of console repair' but still refused, citing available manufacturer repair channels. iFixit's optical-drive argument here is the same one that prevailed six years later as the 2021 (b)(14)(iii) carve-out.",
           "quote": "Although the record in this proceeding is somewhat more developed with respect to the issue of console repair, it still does not support the need for an exemption. The major game console manufacturers appear to offer repair services for in- and out-of-warranty consoles either for free or at reasonable prices.",
-          "citation": "2015 Register's Recommendation [PAGE 204]; iFixit optical-drive testimony at [PAGE 200]."
+          "citation": "2015 Register's Recommendation [PAGE 204]; iFixit optical-drive testimony at [PAGE 200].",
+          "petitioners": [
+            "iFixit",
+            "EFF"
+          ]
         },
         "2018": {
           "status": "na"
@@ -311,7 +376,11 @@ window.DMCA1201_REPAIR = {
           "headline": "Narrow optical-drive-only carve-out — first console repair grant",
           "longDesc": "When the consumer-devices class was broadened in 2021, opponents raised piracy concerns specific to game consoles. The Register granted only a narrow carve-out: console repair is permitted ONLY for optical-drive repair, and any circumvented TPMs must be restored. Console firmware repair, system-board repair, etc. remain unauthorized. This is essentially the iFixit optical-drive use case from the 2015 record, finally granted.",
           "quote": "Because of the distinct record and unique issues pertaining to gaming consoles, the Register concludes that the proposal to repair console optical drives should be considered separately, as a subset of consumer devices … the recommended exemption is limited to one specific type of repair — namely, repair of optical drives.",
-          "citation": "2021 Register's Recommendation [PAGE 201]; codified at 2021 Final Rule § 201.40(b)(14)(iii)."
+          "citation": "2021 Register's Recommendation [PAGE 201]; codified at 2021 Final Rule § 201.40(b)(14)(iii).",
+          "petitioners": [
+            "Public Knowledge",
+            "iFixit"
+          ]
         },
         "2024": {
           "status": "renewed",
@@ -319,7 +388,10 @@ window.DMCA1201_REPAIR = {
           "headline": "Carve-out retained on renewal",
           "longDesc": "The narrow optical-drive carve-out continues unchanged in 2024.",
           "quote": null,
-          "citation": "2024 Final Rule § 201.40(b)(15)."
+          "citation": "2024 Final Rule § 201.40(b)(15).",
+          "petitioners": [
+            "Public Knowledge + iFixit (renewal)"
+          ]
         }
       }
     },
@@ -351,7 +423,11 @@ window.DMCA1201_REPAIR = {
           "headline": "First granted — the right-to-repair anchor",
           "longDesc": "2015 (b)(6) was the first §1201 repair-purpose class. It came with a 12-month delayed effective date and broad telematics/entertainment carve-outs.",
           "quote": "Computer programs that are contained in and control the functioning of a lawfully acquired motorized land vehicle … when circumvention is a necessary step undertaken by the authorized owner of the vehicle to allow the diagnosis, repair or lawful modification of a vehicle function …",
-          "citation": "2015 Final Rule § 201.40(b)(6) [PAGE 18]."
+          "citation": "2015 Final Rule § 201.40(b)(6) [PAGE 18].",
+          "petitioners": [
+            "EFF",
+            "Auto Alliance opp."
+          ]
         },
         "2018": {
           "status": "expanded",
@@ -359,7 +435,14 @@ window.DMCA1201_REPAIR = {
           "headline": "Expanded scope",
           "longDesc": "2018 dropped the 12-month delayed effective date and replaced the broad telematics/entertainment carve-out with a narrower 'subscription service' exclusion.",
           "quote": null,
-          "citation": "2018 Final Rule § 201.40(b)(9); 2018 Acting Register's Recommendation."
+          "citation": "2018 Final Rule § 201.40(b)(9); 2018 Acting Register's Recommendation.",
+          "petitioners": [
+            "Auto Care + CTA",
+            "EFF/ORI/ASCDI",
+            "iFixit",
+            "MEMA",
+            "Farmers (AFBF)"
+          ]
         },
         "2021": {
           "status": "expanded",
@@ -367,7 +450,11 @@ window.DMCA1201_REPAIR = {
           "headline": "Marine vessels added (see next row)",
           "longDesc": "2021 (b)(13) extended the class to marine vessels (covered separately in this view). Land-vehicle scope itself was unchanged.",
           "quote": null,
-          "citation": "2021 Final Rule § 201.40(b)(13)."
+          "citation": "2021 Final Rule § 201.40(b)(13).",
+          "petitioners": [
+            "iFixit",
+            "Repair Ass'n"
+          ]
         },
         "2024": {
           "status": "renewed",
@@ -375,7 +462,10 @@ window.DMCA1201_REPAIR = {
           "headline": "Renewed unchanged",
           "longDesc": null,
           "quote": null,
-          "citation": "2024 Final Rule § 201.40(b)(13)."
+          "citation": "2024 Final Rule § 201.40(b)(13).",
+          "petitioners": [
+            "Auto Care/CTA/iFixit/ORI/AFBF/MEMA/SEMA (renewal)"
+          ]
         }
       }
     },
@@ -410,7 +500,11 @@ window.DMCA1201_REPAIR = {
           "headline": "Added to vehicle class",
           "longDesc": "Proponents argued boat owners face the same telematics-lockout problems as tractor owners. The Register agreed and folded marine vessels into the vehicle-repair class.",
           "quote": "Proponents assert that users of marine vessels are adversely affected in the same manner as users of land vehicles, in particular, tractor owners.",
-          "citation": "2021 Register's Recommendation [PAGE 195]; codified at 2021 Final Rule § 201.40(b)(13)."
+          "citation": "2021 Register's Recommendation [PAGE 195]; codified at 2021 Final Rule § 201.40(b)(13).",
+          "petitioners": [
+            "iFixit",
+            "Repair Ass'n"
+          ]
         },
         "2024": {
           "status": "renewed",
@@ -418,7 +512,10 @@ window.DMCA1201_REPAIR = {
           "headline": "Renewed unchanged",
           "longDesc": null,
           "quote": null,
-          "citation": "2024 Final Rule § 201.40(b)(13)."
+          "citation": "2024 Final Rule § 201.40(b)(13).",
+          "petitioners": [
+            "iFixit (renewal coalition)"
+          ]
         }
       }
     },
@@ -453,7 +550,12 @@ window.DMCA1201_REPAIR = {
           "headline": "Proposed (Class 11) and refused — not copyrightable",
           "longDesc": "Air Informatics LLC petitioned for circumvention of TPMs on avionics systems to let aircraft owners/operators read the flight, operations, maintenance, and security data their own planes generate (FAA compliance use case). The proposal expressly EXCLUDED modifying avionics software. The Acting Register refused on a doctrinal ground unique to this class: the data are facts, not copyrighted works, so §1201 doesn't reach them — circumvention is not legally prohibited in the first place, so no exemption is needed.",
           "quote": "The Acting Register found that the record suggested that the data collected by aircrafts at issue consist of facts, which are not copyrightable. … proponents have not alleged that the data or data compilations they are seeking to access are copyrightable, and thus subject to the prohibition on circumvention.",
-          "citation": "2018 Final Rule [PAGE 19]; 2018 Acting Register's Recommendation [PAGE 317–319]; Air Informatics LLC, Public Knowledge, FSF supporting; unopposed."
+          "citation": "2018 Final Rule [PAGE 19]; 2018 Acting Register's Recommendation [PAGE 317–319]; Air Informatics LLC, Public Knowledge, FSF supporting; unopposed.",
+          "petitioners": [
+            "Air Informatics LLC",
+            "Public Knowledge",
+            "FSF"
+          ]
         },
         "2021": {
           "status": "gap",
@@ -507,7 +609,11 @@ window.DMCA1201_REPAIR = {
           "headline": "First granted",
           "longDesc": "Petitioned by Summit Imaging and Transtate. The Register granted both the device-firmware circumvention AND access to 'related data files' (service manuals, error logs).",
           "quote": "Computer programs that are contained in and control the functioning of a lawfully acquired medical device or system, and related data files, when circumvention is a necessary step to allow the diagnosis, maintenance, or repair of such a device or system.",
-          "citation": "2021 Final Rule § 201.40(b)(15); 2021 Register's Recommendation."
+          "citation": "2021 Final Rule § 201.40(b)(15); 2021 Register's Recommendation.",
+          "petitioners": [
+            "Summit Imaging",
+            "Transtate"
+          ]
         },
         "2024": {
           "status": "renewed",
@@ -515,7 +621,14 @@ window.DMCA1201_REPAIR = {
           "headline": "Renewed unchanged",
           "longDesc": "Renewal petitions filed by TriMedx, Avante, Crothall, Metropolis, TTG. Opposition from AdvaMed, MITA, Philips, ACI did not displace the exemption.",
           "quote": null,
-          "citation": "2024 Final Rule § 201.40(b)(17)."
+          "citation": "2024 Final Rule § 201.40(b)(17).",
+          "petitioners": [
+            "TriMedx",
+            "Avante",
+            "Crothall",
+            "Metropolis",
+            "TTG"
+          ]
         }
       }
     },
@@ -556,7 +669,11 @@ window.DMCA1201_REPAIR = {
           "headline": "First granted",
           "longDesc": "2024 (b)(16) — granted specifically for retail-level commercial food preparation equipment. The Register carved this out from the broader commercial/industrial proposal (see the next row) on the strength of a more developed record.",
           "quote": "the Register recommends that the Librarian adopt an exemption for the diagnosis, maintenance, and repair of retail-level commercial food preparation equipment.",
-          "citation": "2024 Register's Recommendation [PAGE 141]; codified at 2024 Final Rule § 201.40(b)(16)."
+          "citation": "2024 Register's Recommendation [PAGE 141]; codified at 2024 Final Rule § 201.40(b)(16).",
+          "petitioners": [
+            "Public Knowledge",
+            "iFixit"
+          ]
         }
       }
     },
@@ -591,7 +708,11 @@ window.DMCA1201_REPAIR = {
           "headline": "Proposed and refused",
           "longDesc": "Proponents asked the Register to extend the consumer-devices class to commercial and industrial equipment (SCADA, commercial building systems, facility management, PBX phone systems). The Register refused on substantive grounds: the record didn't show the commercial/industrial use cases share the characteristics that justified the consumer-devices class.",
           "quote": "It is unclear, however, that commercial and industrial devices and systems share these commonalities. Proponents offer a few examples of TPMs preventing access to SCADA and commercial building systems, but it is not apparent from the record that users of commercial and industrial systems are similarly situated to users of consumer products. From the examples provided, it appears that some of these users had adequate alternatives to circumvention.",
-          "citation": "2021 Register's Recommendation [PAGE 200]."
+          "citation": "2021 Register's Recommendation [PAGE 200].",
+          "petitioners": [
+            "iFixit",
+            "Repair Ass'n"
+          ]
         },
         "2024": {
           "status": "denied",
@@ -599,7 +720,11 @@ window.DMCA1201_REPAIR = {
           "headline": "Proposed again and refused again",
           "longDesc": "The 2024 cycle revived the proposal as Class 5 (broader scope, beyond food prep). The Register granted only the food-prep carve-out and declined the broader class for the same insufficient-record reason given in 2021.",
           "quote": "However, she declines to recommend an exemption for a broader class of software-enabled commercial and industrial devices in the absence of a sufficient showing of adverse effects on the record presented in this rulemaking.",
-          "citation": "2024 Register's Recommendation [PAGE 141]; 2024 Final Rule [PAGE 7]."
+          "citation": "2024 Register's Recommendation [PAGE 141]; 2024 Final Rule [PAGE 7].",
+          "petitioners": [
+            "Public Knowledge",
+            "iFixit"
+          ]
         }
       }
     },
@@ -683,7 +808,11 @@ window.DMCA1201_REPAIR = {
           "headline": "First granted",
           "longDesc": "Complementary to the vehicle-repair class. Reflects consumer/farmer pressure on access to vehicle-generated data — owning the data your tractor produces, not just the right to fix it.",
           "quote": "Computer programs that are contained in and control the functioning of a lawfully acquired motorized land vehicle or marine vessel, such as a personal automobile or boat, commercial vehicle or vessel, or mechanized agricultural vehicle or vessel … when circumvention is a necessary step to allow an authorized owner or lessee … to access, store, and share operational data, including diagnostic and telematics data …",
-          "citation": "2024 Final Rule § 201.40(b)(14)."
+          "citation": "2024 Final Rule § 201.40(b)(14).",
+          "petitioners": [
+            "MEMA",
+            "SEMA"
+          ]
         }
       }
     }

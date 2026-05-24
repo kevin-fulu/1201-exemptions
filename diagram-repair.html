@@ -417,7 +417,7 @@
 </div>
 
 <footer>
-  <p><b>Sources.</b> Final Rules and Recommendations from the U.S. Copyright Office in <code>1201/Final Rules/</code> and <code>1201/Reg Recommendation/</code>. Page numbers refer to <code>[PAGE N]</code> markers in the <code>.txt</code> extractions (= PDF page numbers, NOT Federal Register pagination). Cross-cycle granted data in <code>analysis/exemptions-master.json</code>; denials in <code>analysis/cycle-YYYY-denials.json</code>.</p>
+  <p><b>Sources.</b> Final Rules and Recommendations from the U.S. Copyright Office in <code>1201/Final Rules/</code> and <code>1201/Reg Recommendation/</code>. Page numbers refer to <code>[PAGE N]</code> markers in the <code>.txt</code> extractions (= PDF page numbers, NOT Federal Register pagination). Cross-cycle data in the data layer (<code>analysis/lineages.json</code> and the per-view config <code>analysis/views/diagram-repair.json</code>); denials in <code>analysis/cycle-YYYY-denials.json</code>.</p>
   <p><b>Scope.</b> "Repair" here means classes whose adopted purpose is "diagnosis, maintenance, or repair" — vehicle/vessel, consumer-device, medical-device, food-prep-equipment, plus the 2024 vehicle/vessel owner-data-access class (repair-adjacent). Jailbreaking, unlocking, security research, and accessibility classes are NOT in this view (they appear in the companion <code>diagram.html</code>).</p>
   <p><b>Note on inferred coverage.</b> Where a product category is covered via a broader class without being named in the rule text (e.g., tablets, consumer PCs under "consumer devices generally"), the cell records the inference and the detail panel notes the underlying rationale. The codified test in 2021+ is just "primarily designed for use by consumers" — broad enough on its face to include a consumer laptop or Chromebook, even though the Register's analytical reasoning in the Recommendation emphasized characteristics (firmware "specifically created for a particular product") that fit embedded devices better than general-purpose computers. No Register opinion has squarely resolved PC coverage and no petitioner has clearly tested it; the cells reflect this as "plausibly covered, untested."</p>
   <p><b>Not legal advice.</b></p>
@@ -429,73 +429,6 @@
 <script>
 "use strict";
 const { CYCLES, ROWS } = window.DMCA1201_REPAIR || { CYCLES: [], ROWS: [] };
-
-// ============================================================
-// PETITIONERS: keyed by [product label] -> [cycle] -> array of supporters.
-// First entry = lead petitioner (shown on chip). Renewal-cycle entries
-// use the renewal-petition signers. Where a row was DENIED, the petitioner
-// is whoever filed the proposal (not the opponent who killed it).
-// ============================================================
-const PETITIONERS = {
-  "Smartphones (phones)": {
-    2018: ["Auto Care + CTA", "EFF", "iFixit"],
-    2021: ["iFixit", "Repair Ass'n"],
-    2024: ["Auto Care/CTA/iFixit/ORI (renewal)"]
-  },
-  "Tablets / portable all-purpose mobile computers": {
-    2021: ["iFixit", "Repair Ass'n"],
-    2024: ["iFixit (renewal coalition)"]
-  },
-  "Laptops / desktops / general-purpose computers": {
-    2012: ["SFLC", "FSF", "Mozilla", "SaurikIT", "NYFU", "Huang"],
-    2021: ["(no petitioner — inferred coverage)"],
-    2024: ["(no petitioner — inferred coverage)"]
-  },
-  "Home appliances (refrigerators, dishwashers, ovens, washers, dryers, microwaves)": {
-    2018: ["EFF", "iFixit", "Auto Care + CTA"],
-    2021: ["iFixit", "Repair Ass'n"],
-    2024: ["iFixit (renewal coalition)"]
-  },
-  "Home systems (HVAC, thermostats, electrical, security)": {
-    2018: ["EFF", "iFixit", "Auto Care + CTA"],
-    2021: ["iFixit", "Repair Ass'n"],
-    2024: ["iFixit (renewal coalition)"]
-  },
-  "Video game consoles": {
-    2012: ["NTIA (narrowed-to-repair proposal)", "(original Class 3: EFF)"],
-    2015: ["iFixit", "EFF"],
-    2021: ["Public Knowledge", "iFixit"],
-    2024: ["Public Knowledge + iFixit (renewal)"]
-  },
-  "Motorized land vehicles (cars, trucks, motorcycles, ATVs, tractors)": {
-    2015: ["EFF", "Auto Alliance opp."],
-    2018: ["Auto Care + CTA", "EFF/ORI/ASCDI", "iFixit", "MEMA", "Farmers (AFBF)"],
-    2021: ["iFixit", "Repair Ass'n"],
-    2024: ["Auto Care/CTA/iFixit/ORI/AFBF/MEMA/SEMA (renewal)"]
-  },
-  "Marine vessels (boats, commercial vessels, agricultural vessels)": {
-    2021: ["iFixit", "Repair Ass'n"],
-    2024: ["iFixit (renewal coalition)"]
-  },
-  "Aircraft / avionics (operational & maintenance data access)": {
-    2018: ["Air Informatics LLC", "Public Knowledge", "FSF"]
-  },
-  "Medical devices & systems (clinical / hospital / professional)": {
-    2021: ["Summit Imaging", "Transtate"],
-    2024: ["TriMedx", "Avante", "Crothall", "Metropolis", "TTG"]
-  },
-  "Commercial food-preparation equipment (commercial ovens, ice machines, soft-serve, etc.)": {
-    2024: ["Public Knowledge", "iFixit"]
-  },
-  "Other commercial / industrial / enterprise equipment (broader scope)": {
-    2021: ["iFixit", "Repair Ass'n"],
-    2024: ["Public Knowledge", "iFixit"]
-  },
-  "Vehicle / vessel operational, diagnostic, telematics data": {
-    2024: ["MEMA", "SEMA"]
-  }
-};
-
 
 // ============================================================
 // Render matrix
@@ -548,7 +481,7 @@ function buildMatrix() {
       const labelHtml = `<span class="status-label">${escapeHtml(statusLabel[c.status])}</span>`;
       const tooltipText = c.headline ? c.headline : statusFullLabel[c.status];
 
-      const pets = (PETITIONERS[row.product] || {})[cycle];
+      const pets = c.petitioners;
       let chipHtml = "";
       let chipTooltip = "";
       if (pets && pets.length) {
@@ -629,7 +562,7 @@ function showDetail(product, cycle) {
   if (cell.longDesc) {
     html += `<p class="field-value">${escapeHtml(cell.longDesc)}</p>`;
   }
-  const pets = (PETITIONERS[row.product] || {})[cycle];
+  const pets = cell.petitioners;
   if (pets && pets.length) {
     html += `<p class="field-label">Petitioners / proponents</p>`;
     html += `<p class="field-value">${pets.map(p => escapeHtml(p)).join(" &middot; ")}</p>`;

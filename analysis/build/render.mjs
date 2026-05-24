@@ -66,12 +66,13 @@ export function renderRepair() {
     if (r.group !== undefined) return { group: r.group };
     const cells = {};
     for (const [y, c] of Object.entries(r.cells)) {
-      cells[y] = c.status === "na"
-        ? { status: "na" }
-        : {
-            status: c.status, classNum: c.classNum, headline: c.headline,
-            longDesc: c.longDesc, quote: c.quote, citation: c.citation,
-          };
+      if (c.status === "na") { cells[y] = { status: "na" }; continue; }
+      const cell = {
+        status: c.status, classNum: c.classNum, headline: c.headline,
+        longDesc: c.longDesc, quote: c.quote, citation: c.citation,
+      };
+      if (c.petitioners) cell.petitioners = c.petitioners;
+      cells[y] = cell;
     }
     return { product: r.product, descr: r.descr, cells };
   });

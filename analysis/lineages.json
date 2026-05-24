@@ -1,7 +1,7 @@
 {
   "schema": "lineages-v1",
   "generated": "2026-05-22",
-  "generated_by": "analysis/build/bootstrap.mjs — reshaped from exemptions-master.json; status backbone from diagram-data.js",
+  "maintained": "Hand-edited source file (Layer 2). Originally bootstrapped from the pre-data-layer exemptions-master.json — see git history.",
   "note": "A lineage is a cross-cycle thread. members[] are the cycles where the lineage was codified or petitioned-and-denied; member.status carries that cycle's status. All gap cells (not_yet_proposed / not_renewed / not_proposed) are derived — see derive.mjs.",
   "cycles": [
     2000,

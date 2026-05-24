@@ -36,7 +36,6 @@ analysis/                    ← cross-cycle synthesis + the diagram data layer
     diagram-repair.json
   build/                     ← Node build pipeline (*.mjs, stdlib only)
   derived/                   ← GENERATED — status-grid.json, exemptions-master.json
-  exemptions-master.json     ← retired hand-built file (see note below)
   inventory.md
   audit-existing.md          ← independent audit of cycle-{2000..2015}.json
   verification-report.md     ← independent verification of master-file claims
@@ -97,9 +96,9 @@ One pair per cycle. `cycle-YYYY.json` lists every codified `§ 201.40(b)(N)` cla
 
 Three independent-subagent verification passes ran during construction. All substantive claims in the consolidated master file were spot-checked against the Final Rule `.txt` files (35/36, 13/13, and 12/12 confirmed respectively). If you change Layer 1, re-run a verification pass.
 
-### `exemptions-master.json` — retired
+### Cross-cycle consolidation
 
-The hand-built `analysis/exemptions-master.json` is **superseded** by the generated `analysis/derived/exemptions-master.json`. Do not hand-edit either. For "what happened to topic X across cycles," read `analysis/lineages.json` (the source) or `analysis/derived/exemptions-master.json` (the generated consolidation). The old file is still on disk only because the diagram footers cite that path; repoint them to `analysis/derived/` next time the HTML is edited.
+There is no hand-maintained master file. The cross-cycle source of truth is `analysis/lineages.json` (Layer 2); `make build` generates a consolidated `analysis/derived/exemptions-master.json` from it for consumers that want the legacy flat shape. Do not hand-edit the derived file. For "what happened to topic X across cycles," read `analysis/lineages.json`. (A hand-built `analysis/exemptions-master.json` existed before the data layer landed — see git history.)
 
 ---
 
@@ -166,8 +165,7 @@ Requires Node (standard library only — no `npm install`). The build aborts on 
 
 ### Notes
 
-- `analysis/build/bootstrap.mjs` is the one-time migration that created the data layer from the old hand-built files. It is kept for provenance; it is **not** part of `make build` and should not need to run again.
-- Do not edit the diagrams' HTML/CSS or their render `<script>` blocks to change *data* — they read `window.DMCA1201_DIAGRAM` / `window.DMCA1201_REPAIR` and are data-agnostic. (`diagram-repair.html` does carry a small render-side `PETITIONERS` lookup — presentation annotation, not part of the generated data.)
+- Do not edit the diagrams' HTML/CSS or their render `<script>` blocks to change *data* — they read `window.DMCA1201_DIAGRAM` / `window.DMCA1201_REPAIR` and are data-agnostic. Petitioner attribution in the repair view lives in the data layer too — a `petitioners` array per cell in `analysis/views/diagram-repair.json`.
 
 ---
 
