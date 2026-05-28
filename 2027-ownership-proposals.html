@@ -1,0 +1,536 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>DMCA §1201 — 2027 Ownership Proposals</title>
+<style>
+  :root {
+    --bg: #f8f8f6;
+    --ink: #1a1a1a;
+    --muted: #5a5a5a;
+    --border: #c8c8c2;
+    --header-bg: #2a2a2a;
+    --header-ink: #f8f8f6;
+    --panel-bg: #fff;
+    --accent: #1565c0;
+    --row-alt: #f0f0ec;
+
+    /* Confidence palette — same as diagram-repair status colors */
+    --c-high: #2e7d32;
+    --c-high-ink: #fff;
+    --c-medhigh: #66bb6a;
+    --c-medhigh-ink: #1a1a1a;
+    --c-med: #fbc02d;
+    --c-med-ink: #1a1a1a;
+    --c-medlow: #ef6c00;
+    --c-medlow-ink: #fff;
+    --c-low: #b71c1c;
+    --c-low-ink: #fff;
+    --c-renew: #1565c0;
+    --c-renew-ink: #fff;
+  }
+  * { box-sizing: border-box; }
+  html, body {
+    margin: 0; padding: 0;
+    background: var(--bg);
+    color: var(--ink);
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+    font-size: 14px;
+    line-height: 1.5;
+  }
+  .wrap { max-width: 1100px; margin: 0 auto; padding: 28px 24px 64px; }
+
+  h1 { font-size: 24px; margin: 0 0 6px; letter-spacing: -0.01em; }
+  .subtitle { color: var(--muted); margin: 0 0 20px; font-size: 13px; }
+
+  .meta {
+    background: #fff;
+    border: 1px solid var(--border);
+    padding: 14px 16px;
+    margin: 0 0 18px;
+    font-size: 13px;
+    color: var(--muted);
+    display: flex;
+    flex-wrap: wrap;
+    gap: 24px;
+  }
+  .meta b { color: var(--ink); display: block; font-size: 11px; text-transform: uppercase; letter-spacing: 0.06em; margin-bottom: 2px; font-weight: 700; }
+  .meta .item { min-width: 180px; }
+
+  .intro {
+    background: #fff;
+    border: 1px solid var(--border);
+    padding: 16px 20px;
+    margin: 0 0 24px;
+    font-size: 13px;
+    color: var(--muted);
+  }
+  .intro p { margin: 0 0 10px; }
+  .intro p:last-child { margin-bottom: 0; }
+  .intro b { color: var(--ink); }
+
+  h2 {
+    font-size: 13px;
+    text-transform: uppercase;
+    letter-spacing: 0.08em;
+    color: var(--muted);
+    margin: 32px 0 12px;
+    border-bottom: 1px solid var(--border);
+    padding-bottom: 6px;
+  }
+
+  /* Calendar timeline */
+  .timeline {
+    background: #fff;
+    border: 1px solid var(--border);
+    padding: 14px 16px;
+    margin: 0 0 20px;
+  }
+  .timeline table { width: 100%; border-collapse: collapse; font-size: 12.5px; }
+  .timeline th {
+    text-align: left;
+    font-size: 11px;
+    text-transform: uppercase;
+    letter-spacing: 0.06em;
+    color: var(--muted);
+    padding: 4px 8px 8px;
+    border-bottom: 1px solid var(--border);
+  }
+  .timeline td { padding: 6px 8px; vertical-align: top; border-bottom: 1px solid var(--row-alt); }
+  .timeline td:first-child { white-space: nowrap; font-variant-numeric: tabular-nums; color: var(--ink); width: 130px; }
+  .timeline tr:last-child td { border-bottom: 0; }
+  .timeline tr.hot td { background: #fff8e1; }
+  .timeline tr.hot td:first-child { font-weight: 700; }
+
+  /* Filing cards */
+  .filing {
+    background: #fff;
+    border: 1px solid var(--border);
+    padding: 18px 22px 20px;
+    margin: 0 0 16px;
+  }
+  .filing-head {
+    display: flex;
+    align-items: baseline;
+    justify-content: space-between;
+    gap: 16px;
+    margin-bottom: 6px;
+    flex-wrap: wrap;
+  }
+  .filing-head h3 {
+    font-size: 17px;
+    margin: 0;
+    color: var(--ink);
+  }
+  .filing-head .number {
+    color: var(--muted);
+    font-weight: 400;
+    font-variant-numeric: tabular-nums;
+    margin-right: 6px;
+  }
+  .confidence {
+    display: inline-block;
+    padding: 3px 9px;
+    font-size: 11px;
+    font-weight: 600;
+    text-transform: uppercase;
+    letter-spacing: 0.05em;
+    white-space: nowrap;
+  }
+  .conf-high     { background: var(--c-high);    color: var(--c-high-ink); }
+  .conf-medhigh  { background: var(--c-medhigh); color: var(--c-medhigh-ink); }
+  .conf-med      { background: var(--c-med);     color: var(--c-med-ink); }
+  .conf-medlow   { background: var(--c-medlow);  color: var(--c-medlow-ink); }
+  .conf-low      { background: var(--c-low);     color: var(--c-low-ink); }
+
+  .filing-summary {
+    color: var(--muted);
+    font-size: 13px;
+    margin: 0 0 12px;
+  }
+
+  .grid {
+    display: grid;
+    grid-template-columns: 140px 1fr;
+    column-gap: 16px;
+    row-gap: 8px;
+    font-size: 13px;
+  }
+  .grid dt {
+    font-size: 11px;
+    text-transform: uppercase;
+    letter-spacing: 0.06em;
+    color: var(--muted);
+    font-weight: 700;
+    padding-top: 2px;
+  }
+  .grid dd { margin: 0; color: var(--ink); }
+  .grid dd ul { margin: 0; padding-left: 18px; }
+  .grid dd li { margin-bottom: 3px; }
+  .grid dd code {
+    background: var(--row-alt);
+    padding: 1px 5px;
+    font-size: 12px;
+    font-family: ui-monospace, "SFMono-Regular", Menlo, Consolas, monospace;
+  }
+
+  /* Parking lot — smaller candidates */
+  .parking {
+    background: #fff;
+    border: 1px solid var(--border);
+    padding: 14px 18px;
+    margin: 0 0 18px;
+  }
+  .parking h4 {
+    margin: 0 0 4px;
+    font-size: 14px;
+    color: var(--ink);
+  }
+  .parking .item { margin: 12px 0; padding-top: 12px; border-top: 1px solid var(--row-alt); }
+  .parking .item:first-of-type { border-top: 0; padding-top: 0; margin-top: 6px; }
+  .parking p { margin: 0; font-size: 13px; color: var(--muted); }
+  .parking p b { color: var(--ink); }
+
+  /* Strategy callout */
+  .callout {
+    background: #fffaf0;
+    border-left: 4px solid var(--c-med);
+    padding: 14px 18px;
+    margin: 0 0 18px;
+    font-size: 13px;
+  }
+  .callout b { color: var(--ink); }
+  .callout p { margin: 0 0 8px; }
+  .callout p:last-child { margin-bottom: 0; }
+
+  /* Outcomes summary */
+  .outcomes {
+    background: #fff;
+    border: 1px solid var(--border);
+    padding: 14px 18px;
+    margin: 0 0 18px;
+  }
+  .outcomes table { width: 100%; border-collapse: collapse; font-size: 12.5px; }
+  .outcomes th {
+    text-align: left;
+    font-size: 11px;
+    text-transform: uppercase;
+    letter-spacing: 0.06em;
+    color: var(--muted);
+    padding: 4px 8px 8px;
+    border-bottom: 1px solid var(--border);
+  }
+  .outcomes td { padding: 7px 8px; vertical-align: top; border-bottom: 1px solid var(--row-alt); }
+  .outcomes tr:last-child td { border-bottom: 0; }
+  .outcomes td:first-child { width: 260px; font-weight: 600; }
+
+  footer {
+    margin-top: 36px;
+    padding-top: 16px;
+    border-top: 1px solid var(--border);
+    font-size: 12px;
+    color: var(--muted);
+  }
+  footer a { color: var(--accent); text-decoration: none; }
+  footer a:hover { text-decoration: underline; }
+  footer p { margin: 0 0 6px; }
+
+  .topnav { margin-bottom: 16px; font-size: 12.5px; }
+  .topnav a { color: var(--accent); text-decoration: none; margin-right: 14px; }
+  .topnav a:hover { text-decoration: underline; }
+
+  a.inline { color: var(--accent); text-decoration: none; }
+  a.inline:hover { text-decoration: underline; }
+</style>
+</head>
+<body>
+<div class="wrap">
+
+  <div class="topnav">
+    <a href="index.html">← Index</a>
+    <a href="diagram.html">Cycle-by-cycle history</a>
+    <a href="diagram-repair.html">Repair exemptions by product</a>
+    <a href="2027-repair-proposals.html">2027 Repair proposals</a>
+  </div>
+
+  <h1>2027 Ownership Proposals — DMCA §1201 New-Class Filings</h1>
+  <p class="subtitle">Forward-looking petition plan for the 10th triennial anticircumvention rulemaking (NPRM mid-2026, Final Rule ~Oct 2027) — companion to the <a class="inline" href="2027-repair-proposals.html">repair-track filings</a>.</p>
+
+  <div class="meta">
+    <div class="item"><b>Cycle</b>10th triennial</div>
+    <div class="item"><b>NPRM</b>Expected Jun–Jul 2026</div>
+    <div class="item"><b>Final Rule</b>Expected ~Oct 2027</div>
+    <div class="item"><b>Status</b>Planning — pre-coalition signoff</div>
+  </div>
+
+  <div class="intro">
+    <p>This page formalizes a <b>four-new-class ownership petition strategy</b> for the 2027 cycle, paired with the <a class="inline" href="2027-repair-proposals.html">five repair-track filings</a>. "Ownership" here means the consumer's authority over a device they paid for in full: the right to choose where its data goes, the right to disable surveillance or post-sale advertising surfaces the manufacturer added unilaterally, and the right to keep the device running when its vendor walks away.</p>
+    <p>The doctrinal home for these filings is the <b>jailbreaking exemption family</b> the Office has built since 2010: <code>(b)(9)</code> smartphones (2010), <code>(b)(10)</code> smart televisions (2015), <code>(b)(11)</code> voice assistants (2018), <code>(b)(12)</code> routers (2018). Each is structured as <em>computer programs that control the functioning of a [defined device category], where circumvention is for the sole purpose of enabling interoperability of lawfully obtained applications, or to permit removal of software from the device</em>. That two-prong structure — interoperability + removal of software — is the template for three of the four filings here.</p>
+    <p>The "ownership" track is harder than the repair track. Repair has the 2017 §1201 Study endorsement and a §117(d) statutory anchor. Modification — disabling features, redirecting data flows, removing software the manufacturer placed on a device — sits a step further from the Office's comfort zone. The 2003 unskippable-promotional-trailers denial (Class 9), 2010's recurring "unwanted material" framing, and the threshold doctrine warning against "by use" class definitions all bear directly on this portfolio. We name those risks plainly per filing rather than pretending they aren't there.</p>
+    <p>What carries us anyway: <b>(a)</b> the 2018 Acting Register expressly credited <em>privacy</em> as a fair-use enhancement when granting voice-assistant jailbreaking (2018 Recommendation PDF p. 173 n.1051), <b>(b)</b> the 2024 vehicle/vessel-data class <code>(b)(14)</code> established a "access, store, and share" data-purpose framing that maps onto camera footage, <b>(c)</b> the 2017 §1201 Study explicitly endorses "circumventing obsolete access controls for continued functioning of a device," and <b>(d)</b> the existing <code>(b)(10)</code> smart-TV jailbreak class is one missing clause away from covering ACR removal directly.</p>
+  </div>
+
+  <h2>The Office's position on post-sale device ownership</h2>
+  <div class="intro">
+    <p>Less unified than its position on repair, but four specific holdings are directly on point and the petitions should be drafted around them:</p>
+
+    <p><b>1. Privacy is a creditable fair-use purpose.</b> The 2018 Acting Register granted voice-assistant jailbreaking after EFF showed that the firmware TPMs were technically separable from any streaming-content TPM, and credited <em>privacy</em> as factor-1 weight on the fair-use balance (2018 Recommendation PDF pp. 173–174, 178, 184–185). That framing — privacy as enhancement, not as a copyright concept itself — is the doctrinal vehicle for ACR removal and for camera-footage redirection. Cite it directly.</p>
+
+    <p><b>2. Owner-generated data is a creditable "access, store, and share" purpose.</b> The 2024 vehicle/vessel-data class <code>§201.40(b)(14)</code> authorized circumvention "to access, store, and share" the device's operational and telematics data — owner-generated data on a closed device, with carve-outs for separately licensed subscription services and for "unauthorized access to other copyrighted works." DOJ Antitrust and the FTC filed in support (2024 Recommendation PDF pp. 205–215). Camera footage is the same posture: owner-generated data on a closed device.</p>
+
+    <p><b>3. Obsolete access controls warrant relief.</b> 2017 §1201 Study (PDF pp. 104–105): <em>"to the extent section 1201 precludes diagnosis, repair, and maintenance activities otherwise permissible under title 17, the Office finds that a limited and properly-tailored permanent exemption for those purposes, <b>including circumventing obsolete access controls for continued functioning of a device</b>, would be consistent with the statute's overall policy goals."</em> And: <em>"each time there has been a sufficient evidentiary record to evaluate a requested exemption related to obsolete access controls, the Register has recommended, and the Librarian adopted, an exemption for such uses."</em> The 2024 video-game class <code>(b)(19)</code> codifies the same idea via a "Ceased to provide access" definition: the copyright owner has <em>"issued an affirmative statement indicating that external server support for the video game has ended"</em> or <em>"server support has been discontinued for a period of at least six months; provided, however, that server support has not since been restored"</em> (2024 Final Rule .txt lines 2737–2747). Borrow that trigger structure for the abandoned-device filing.</p>
+
+    <p><b>4. The threshold-doctrine warning.</b> §1201(a)(1)(C) requires a class defined by <em>qualities of the work itself</em>, not by use. Petitions framed by user purpose ("all works for noninfringing uses," "all works for educators") have been denied every cycle they've been tried (2000, 2003, 2006, 2012). Every filing in this portfolio must define its class by <em>device category + firmware properties</em>, never by "what the owner wants to do." The 2003 Class 9 denial of unskippable promotional trailers (2003 Recommendation PDF pp. 109–115) is the most-cited adverse precedent for the ad-removal filing — read it before drafting.</p>
+
+    <p style="margin-bottom: 0; color: var(--muted);"><b>What's NOT in our favor</b>: the Office historically distinguishes <em>repair / restoration to original specifications</em> (favored) from <em>modification</em> (cautioned). The §117(d) framework the Office prefers for repair does not cleanly extend to "modify the device to do something the manufacturer never intended." The compensating doctrinal vehicle is the jailbreaking-class precedent (b)(9)–(b)(12), which the Office has consistently granted but always tied to a defined device category. Do not draft any of these as a free-floating "modification" right.</p>
+  </div>
+
+  <h2>Cycle calendar</h2>
+  <div class="timeline">
+    <table>
+      <thead><tr><th>Date</th><th>Event</th><th>Our action</th></tr></thead>
+      <tbody>
+        <tr><td>~Jun–Jul 2026</td><td>NPRM published</td><td>Stop scope changes; freeze filing list</td></tr>
+        <tr><td>~Aug–Sep 2026</td><td>Petitions due (30–60 days post-NPRM)</td><td>File all 4 ownership-track petitions (plus the 5 repair-track filings and renewal batch)</td></tr>
+        <tr class="hot"><td>~Dec 2026</td><td>Round 1 (initial) comments due</td><td><b>The deadline that matters.</b> Full evidence record per class</td></tr>
+        <tr><td>~Mar 2027</td><td>Round 2 (opposition) comments due</td><td>Triage which filings face opposition</td></tr>
+        <tr><td>~Jun 2027</td><td>Round 3 (reply) comments due</td><td>Reply on contested filings only</td></tr>
+        <tr><td>Summer 2027</td><td>Public hearings (if called)</td><td>Witness prep for top 2–3 filings</td></tr>
+        <tr><td>~Oct 2027</td><td>Final Rule</td><td>Accept; convert denials into 2030 record-building TODOs</td></tr>
+      </tbody>
+    </table>
+  </div>
+
+  <h2>The four proposed filings</h2>
+
+  <!-- Filing 1 — Doorbell / home-security camera footage redirection -->
+  <section class="filing">
+    <div class="filing-head">
+      <h3><span class="number">Filing 1 ·</span> Home-Camera Footage Redirection</h3>
+      <span class="confidence conf-med">Confidence: Medium</span>
+    </div>
+    <p class="filing-summary">An exemption for owners of doorbell cameras and home-security cameras (Ring, Nest, Arlo, Wyze, etc.) to bypass firmware TPMs and redirect the footage the device captures from manufacturer cloud servers to private/local servers the owner controls — <strong>modeled jointly on the 2024 vehicle-data class <code>(b)(14)</code> and the 2018 voice-assistant class <code>(b)(11)</code></strong>.</p>
+    <dl class="grid">
+      <dt>Scope (working draft)</dt>
+      <dd>"Computer programs that are contained in and control the functioning of a lawfully acquired home camera device, to allow owners and lessees, or those acting on their behalf, to access, store, redirect, and share audio or video data captured by the device, including by enabling interoperability with computer programs or storage systems chosen by the owner, where such circumvention is not accomplished for the purpose of gaining unauthorized access to other copyrighted works." A "home camera device" is a device primarily designed to capture audio or video from a fixed location and transmit that data to a storage location, intended for installation in or on a home or small business.</dd>
+      <dt>Why now</dt>
+      <dd>Cloud-only architectures are now the default for Ring/Nest/Arlo/Wyze; several SKUs have been remotely bricked or had local features removed via OTA update. The 2024 <code>(b)(14)</code> class established "access, store, and share" of owner-generated data on a closed consumer device as a creditable §1201 purpose — DOJ Antitrust and FTC supported (2024 Recommendation PDF pp. 205–215). No prior §1201 petition has squarely raised home-security cameras; the field is clean.</dd>
+      <dt>Copyright posture</dt>
+      <dd>The TPM at issue is firmware signature / authenticated-boot gating which server URL the device uses for upload. The owner's own footage is not the §1201-protected work; the manufacturer's firmware is. The 2018 Recommendation accepted exactly this "indirect fit" framing for voice assistants (PDF pp. 173–174) and the 2024 framework accepted it for vehicle data. The 2016 Software-Enabled Consumer Products Study's owned-firmware-vs-licensed-OS distinction applies — our scope sits on the owned-firmware side.</dd>
+      <dt>Precedent</dt>
+      <dd>2024 <code>§201.40(b)(14)</code> vehicle/vessel data (the structural template — "access, store, and share"); 2024 <code>(b)(11)</code> voice assistant (the device-category and "removal of software" template — both verbs needed because some cloud-routing config lives in firmware that must be replaced, not merely interoperated with). <code>(b)(15)</code> consumer-device repair is the wrong vehicle — its "restore to original specifications" cabin doesn't reach cloud redirection.</dd>
+      <dt>Coalition lead</dt>
+      <dd>FULU.</dd>
+      <dt>Co-leads</dt>
+      <dd>EFF (carried the 2018 voice-assistant class on a nearly identical privacy-plus-separable-TPM theory); Software Freedom Conservancy (router/network-device class lineage; FLOSS-firmware framing); iFixit / U.S. PIRG / Repair Association (consumer-device record-building backbone); EPIC (privacy doctrine and FTC-record fluency); Home Assistant Foundation / Frigate / Scrypted maintainers (concrete alternative-server ecosystem).</dd>
+      <dt>Endorsement targets</dt>
+      <dd>DOJ Antitrust + FTC (provided the swing endorsements for the 2024 vehicle-data class — 2024 Recommendation PDF p. 215). Repeat the play.</dd>
+      <dt>Expected opposition</dt>
+      <dd>Amazon (Ring), Google (Nest), Arlo, ADT/SimpliSafe, the Security Industry Association. Expect the "separable TPM" argument the 2018 RIAA pressed and lost (2018 Recommendation PDF pp. 184–185): they will argue Ring Protect / Nest Aware subscriptions are entangled with the firmware TPM. Pre-rebut with a Schoen-style technical-separation declaration as the petition's first technical exhibit. Joint Creators / RIAA / MPAA likely modest unless they identify integrated licensed content in the device.</dd>
+      <dt>Record-building plan</dt>
+      <dd>Five pillars: (1) <b>technical separation showing</b> — independent expert evidence that the firmware-signing TPM is distinct from any subscription-service TPM (the 2018 swing factor); (2) <b>concrete activity catalog</b> — name the exact binaries, endpoints, and config keys to be modified (the 2018 "enable/disable hardware features" expansion was denied for lack of specificity at PDF p. 178 — do not repeat); (3) <b>privacy incident record</b> — Ring/police-warrant pipeline, employee-access incidents, abandoned-device patterns (Wink, Insteon, Wyze v1); (4) <b>pre-baked carve-outs</b> — include the "not for unauthorized access to other copyrighted works" clause and a "(b)(14)-style separate subscription service" clause from the outset; (5) <b>federal-agency support letter</b> — DOJ Antitrust / FTC.</dd>
+      <dt>Witnesses</dt>
+      <dd>Home Assistant Foundation / Frigate / Scrypted / MotionEye maintainers (alternative-server ecosystem); EFF technical staff (Schoen-style separation declaration); abandoned-device users (Wink, Insteon, Revolv, Wyze v1, original Nest Secure subscribers); security researchers documenting Ring/cloud surveillance (Matthew Guariglia / EFF; CDT); Repair Association technical witnesses with model-by-model firmware analyses.</dd>
+      <dt>Threshold concerns</dt>
+      <dd>Class must be defined by <em>device + firmware properties</em>, not by "owners who want privacy." The (b)(11)/(b)(14) structural pattern handles this if drafted carefully. §1201(f) reverse-engineering-for-interoperability and §1201(i) statutory privacy exception both arguably already permit narrow versions of this circumvention — pre-empt by acknowledging the overlap and citing the 2018 Office position that exemptions are appropriate "in cases where there may be reasonable disagreement as to whether section 1201(f) applies" (2018 Recommendation PDF p. 179).</dd>
+      <dt>Risk</dt>
+      <dd>Medium. (b)(14) makes this materially easier than it would have been in 2024. The hard part is the <em>"redirection is not jailbreaking-as-traditionally-understood"</em> framing — data-flow modification is novel on the §1201 record, and the manufacturer-app/streaming chain is more entangled than the 2018 voice-assistant case. <em>Oracle</em> "same purpose" objection is the live risk: the redirected firmware is being used for substantially the same operate-and-stream purpose it was designed for.</dd>
+      <dt>Expected outcome</dt>
+      <dd>Most likely a partial grant on the (b)(14) carve-out pattern: circumvention permitted for owner-generated audio/video data only; "separate subscription service" and "not for unauthorized access to other copyrighted works" exclusions. A flat denial is less likely than in 2018 because (b)(14) now exists. If denied at full scope, the record builds a 2030 grant directly.</dd>
+    </dl>
+  </section>
+
+  <!-- Filing 2 — On-hardware advertisement removal -->
+  <section class="filing">
+    <div class="filing-head">
+      <h3><span class="number">Filing 2 ·</span> Disabling Manufacturer-Pushed On-Device Advertising <span style="color: var(--muted); font-weight: 400; font-size: 14px;">(file as a split — see below)</span></h3>
+      <span class="confidence conf-low">Confidence: Low (full scope) / Medium (smart-TV-only via (b)(10) amendment)</span>
+    </div>
+    <p class="filing-summary">An exemption to bypass firmware TPMs so the owner can disable, remove, or prevent the rendering of advertising surfaces the manufacturer pushed onto the device's own UI <strong>after the device was first sold</strong> — Samsung's 2025 announcement of ads on the $3,499 9-Series Family Hub fridge; Roku's autoplay-ad "test"; LG webOS / Samsung Tizen / Vizio SmartCast home-screen sponsored tiles; smart-thermostat marketing screens. <strong>NOT ad-skipping in broadcast or streamed content</strong> — that is the doctrinally-fatal framing this filing must avoid.</p>
+    <dl class="grid">
+      <dt>Scope (working draft, narrow)</dt>
+      <dd>"Computer programs that are contained in and control the functioning of a lawfully acquired consumer device, where circumvention is accomplished for the sole purpose of disabling, removing, or preventing the rendering of advertising content that the manufacturer or its successor causes the device to display on the device's own user interface through a software update or remote-service push delivered after the device was first sold to the consumer, and is not accomplished for the purpose of gaining unauthorized access to other copyrighted works." Define "consumer device" enumeratively (smart television, smart home appliance, smart thermostat, voice-assistant device, e-reader, streaming media player) and explicitly exclude broadcast/streamed content and any subscription-content programs.</dd>
+      <dt>Recommended split</dt>
+      <dd><b>(2a) Smart-TV (b)(10) amendment</b> — add "or to permit removal of software from the smart television" to the existing <code>(b)(10)</code> class. This single textual change makes it unambiguous that owners can remove a TV manufacturer's ad module. Matches the verb already in <code>(b)(9)</code> smartphones and <code>(b)(11)</code> voice assistants. Strongly precedented. Plausibly grantable on a renewal-plus-narrow-expansion theory. <b>(2b) New consumer-device ad-removal class</b> for smart appliances, thermostats, and other non-TV categories with no existing class. Fresh ask; harder; the high-risk filing. Splitting the petitions limits doctrinal contagion: a denial of (2b) does not kill the (2a) amendment, and a (2a) grant builds the precedent stack for (2b) in 2030.</dd>
+      <dt>Why now</dt>
+      <dd>Post-sale unilateral introduction of UI advertising has crossed from anecdote to documented pattern in 2024–2025: Samsung's confirmed Family Hub fridge ad rollout including premium SKUs; Roku's autoplay-ad push to TVs already in homes; persistent home-screen sponsored tiles across Tizen/webOS/SmartCast; Echo Show on-device promotional cards; Nest thermostat marketing surfaces. The factual pattern that distinguishes this from the 2003 DVD-ad denial is the <em>post-sale</em> hinge: the consumer purchased a UI without ads, and the manufacturer altered the UI later via OTA. That distinction is the petition's whole game.</dd>
+      <dt>Copyright posture</dt>
+      <dd>The TPMs gate device firmware (the manufacturer's computer program that draws the UI), not access to creative copyrighted works being delivered. The 2018 voice-assistant analysis is the closest model. Anticipate a <em>Lexmark</em>-style threshold objection — the Office in 2018 (PDF p. 215, lines 9291–9309) found in the consumables proceeding that "the record does not establish that TPMs are consistently controlling access to a copyrighted work within the meaning of the statute." Pre-empt: affirmatively concede the firmware <em>is</em> a copyrighted computer program, name the specific TPM that gates ad-removal modifications, and show that §1201 (not contract or technical impossibility) is the proximate barrier — the Revolv-causation showing.</dd>
+      <dt>Precedent</dt>
+      <dd>2024 <code>§201.40(b)(10)</code> smart-TV jailbreaking (the (2a) vehicle; one missing clause). 2024 <code>(b)(11)</code> voice assistant (template for "removal of software" verb). <b>Adverse:</b> 2003 Proposed Class 9 ("unskippable promotional trailers") — denied on three grounds (UOP held not to be a §1201(a) access control; fast-forward re-enablement didn't require circumventing access controls; de minimis inconvenience). 2003 Recommendation PDF pp. 109–115. The 2010 Recommendation (PDF p. 43) recycles the same rationale for "unwanted material on DVDs." <b>This is the central historical hazard.</b></dd>
+      <dt>Coalition lead</dt>
+      <dd>FULU. The lead must be jailbreaking-fluent, not repair-only — this filing sits at the seam of jailbreaking, repair, and privacy.</dd>
+      <dt>Co-leads</dt>
+      <dd>EFF (jailbreaking-doctrine-fluent; carried the 2015 smart-TV and 2018 voice-assistant classes); Software Freedom Conservancy (FLOSS-firmware-modification record); iFixit / Repair Association (consumer-device-modification record-building expertise); Public Knowledge (consumer voice); Consumer Reports (post-sale-degradation testing); EPIC (ad-telemetry/privacy overlap).</dd>
+      <dt>Expected opposition</dt>
+      <dd>Samsung, LG, Vizio, Roku, Amazon Fire TV, Google TV; <b>AHAM</b> on the appliance side (named opponent in the 2024 home-appliance record at <code>2024_…Recommendation.txt</code> line 5600 ff.); <b>CTA</b>; <b>IAB</b> and possibly <b>ANA</b> on ad-tech grounds; <b>Joint Creators</b> as standing rightsholder coalition. Likely arguments: (1) the ad delivery is itself a copyrighted creative work being suppressed (the 2003 ad-skipping framing); (2) the petition defines the class by use; (3) the TPM is not the proximate cause (Revolv); (4) no demonstrated noninfringing use because what's suppressed <em>is</em> copyrighted ad content.</dd>
+      <dt>Record-building plan</dt>
+      <dd>(1) <b>enumerated device list</b> with screenshots, dates, model numbers, before/after firmware versions; (2) <b>per-device technical exhibit</b> showing the firmware TPM that blocks ad-module removal and a feasible alternative path (community firmware, hosts-file route, local-mode operation) post-circumvention; (3) <b>consumer declarations</b> with purchase price, original-feature-set marketing, and the date the ad surface appeared; (4) <b>federal-agency endorsement</b> — FTC (post-sale-update / unfair-deception angle), state AGs (NY, CA, MA, WA, CT — repair-coalition states); (5) <b>§1201(i) framing</b> for the privacy overlap (telemetry frequently rides with ad-targeting).</dd>
+      <dt>Witnesses</dt>
+      <dd>Consumer Reports' connected-device testing team (Justin Brookman line on post-sale degradation); a privacy researcher on ad-telemetry coupling; iFixit on the firmware-modification record; named consumers with high-end Samsung/LG units showing the price-to-ad-surface mismatch; an academic on post-sale-software-update doctrine.</dd>
+      <dt>Threshold concerns</dt>
+      <dd><b>This is the hardest filing in the portfolio.</b> Three independent hazards: (a) the <em>Lexmark</em>/threshold doubt about whether the TPM gates a copyrighted work or just the ad module; (b) the "by use" class-definition problem (§1201(a)(1)(C)) — "remove all ads from devices you own" reads prima facie as use-defined; the fix is to define the class by "computer programs that operate consumer devices and that the manufacturer has caused to display advertising content not present at the time of sale" but the Register may see through it; (c) the 2003 Class 9 historical denial, which opposition will cite at length. Read 2003 Recommendation PDF pp. 109–115 before drafting; distinguish in the operative class text, not just in the brief.</dd>
+      <dt>Risk</dt>
+      <dd>Substantively high for (2b) standalone. Moderate for (2a) (b)(10) amendment. A poorly framed full-scope ask is a one-cycle defeat that <em>prejudices later cycles</em> by putting the Register on record on a doctrinally analogous question.</dd>
+      <dt>Expected outcome</dt>
+      <dd>Realistic baseline: (2a) granted as a small (b)(10) amendment ("or to permit removal of software"); (2b) denied in 2027 with an opening for a sharper 2030 record. Best case across both: TV side wins; appliance side denied-with-roadmap. Worst case: a single broad filing that draws a 2003-Class-9-style denial that the Register reuses across the family of post-sale-modification asks. <b>Avoid the worst case by splitting the petitions before the NPRM.</b></dd>
+    </dl>
+  </section>
+
+  <!-- Filing 3 — Abandoned-vendor jailbreaking -->
+  <section class="filing">
+    <div class="filing-head">
+      <h3><span class="number">Filing 3 ·</span> Abandoned-Vendor Consumer-Device Jailbreaking</h3>
+      <span class="confidence conf-medhigh">Confidence: Medium-high</span>
+    </div>
+    <p class="filing-summary">An exemption to jailbreak consumer devices whose manufacturer has ended software support, shut down the remote service the device depends on, or gone out of business — <strong>built on the 2024 video-game-server-abandonment trigger language from <code>(b)(19)</code> and the 2017 §1201 Study's express endorsement of "circumventing obsolete access controls for continued functioning of a device."</strong> Touches abandoned smart-home hubs (Revolv, Wink, Insteon, Lowe's Iris), smart speakers, IoT cameras (Wyze v1), connected appliances, smart toys (Jibo), wearables (Pebble), connected vehicles (Fisker), and connected accessories (Spotify Car Thing, Logitech Harmony Link). Plausibly the cleanest of the four ownership filings.</p>
+    <dl class="grid">
+      <dt>Scope (working draft)</dt>
+      <dd>"Computer programs that control the functioning of a lawfully acquired consumer device — including smart home hubs, smart speakers, IoT cameras, connected appliances, smart toys, connected vehicles, and similar devices — where the manufacturer has discontinued the remote service or software support on which the device's operation depends. Authorized activity: diagnosis, maintenance, repair; installation of third-party software; removal of manufacturer software; and lawful modification of a device function necessary to restore or preserve operation. Manufacturer support is 'discontinued' where (a) the manufacturer or its successor has announced end of the relevant service, or (b) such service has been non-functional for at least six months and has not been restored, or (c) no equivalent service is reasonably available in the commercial marketplace. Excludes <code>(b)(9)</code> smartphones, <code>(b)(11)</code> voice assistants, <code>(b)(12)</code> routers, <code>(b)(19)</code> video games, and unauthorized access to other copyrighted works."</dd>
+      <dt>Why now</dt>
+      <dd>Critical mass of high-profile shutdowns since 2018 with active user communities: Revolv (Google), Wink (Quirky/Flextronics), Insteon, Lowe's Iris, Jibo, Logitech Harmony Link, Pebble (Fitbit), Spotify Car Thing, Fisker, Anova first-gen, original Best Buy Connect. 2018–2024 grants of <code>(b)(11)</code> voice-assistant jailbreaking and <code>(b)(19)</code> game-server-abandonment trigger have built the structural precedents. Existing prior research: <a class="inline" href="1201/Claude%20Reports/2026-05-19__Petitioning-Strategy-for-Smart-Appliance-End-of-Support.md"><code>1201/Claude Reports/2026-05-19__Petitioning-Strategy-for-Smart-Appliance-End-of-Support.md</code></a>.</dd>
+      <dt>The 2017 Study quote</dt>
+      <dd>Lead the petition with this. From the 2017 §1201 Study (<code>1201/Policy Studies/Section-1201-of-Title-17-2017/Full-Report.txt</code>, PDF p. 104): <em>"to the extent section 1201 precludes diagnosis, repair, and maintenance activities otherwise permissible under title 17, the Office finds that a limited and properly-tailored permanent exemption for those purposes, including circumventing obsolete access controls for continued functioning of a device, would be consistent with the statute's overall policy goals."</em> And at PDF p. 105: <em>"each time there has been a sufficient evidentiary record to evaluate a requested exemption related to obsolete access controls, the Register has recommended, and the Librarian adopted, an exemption for such uses."</em> This is the strongest single citation in the ownership portfolio.</dd>
+      <dt>Copyright posture</dt>
+      <dd>Three independent credited fair-use purposes: (1) <em>interoperability</em> per <em>Sega</em> / <em>Sony v. Connectix</em> / <em>Google v. Oracle</em>, for redirecting to user-controlled endpoints; (2) <em>privacy</em>, expressly credited via §1201(i) in the 2018 voice-assistant analysis (2018 Recommendation PDF p. 173 n.1051); (3) <em>repair / useful-life extension</em>, the Office-endorsed phrasing across 2018 PDF p. 224, 2021 PDF p. 218, and 2024 PDF p. 162. Longevity / e-waste alone has never carried a §1201 grant — pair it with one of the three above.</dd>
+      <dt>Precedent</dt>
+      <dd>2024 <code>§201.40(b)(19)</code> video games when authentication server is abandoned — the structural blueprint. The "Ceased to provide access" two-prong trigger — copyright owner has <em>"issued an affirmative statement indicating that external server support for the video game has ended"</em> or <em>"server support has been discontinued for a period of at least six months; provided, however, that server support has not since been restored"</em> — was drafted by EFF / Kendra Albert in 2015 and has been carried forward through 2024 (codified text at <code>2024-Final-Rule.txt</code> lines 2737–2747; class context at <code>analysis/cycle-2024.json</code> lines 472–495). Borrow the language directly. Also: <code>(b)(11)</code> voice-assistant for the "removal of software" verb; <code>(b)(20)</code> software-preservation for the "no longer reasonably available in the commercial marketplace" phrase (originally §108(c)).</dd>
+      <dt>Coalition lead</dt>
+      <dd>FULU.</dd>
+      <dt>Co-leads</dt>
+      <dd>EFF (built the 2015 video-game trigger language and the 2018 voice-assistant class — owns the doctrine); iFixit / Repair Association (abandoned-device incident catalog); Public Knowledge; SecuRepairs; Consumer Reports; U.S. PIRG; Software Freedom Conservancy; Free Software Foundation. Novel high-value endorsements to recruit: EPA (e-waste angle is novel for them); state AGs (28 supported repair in 2024); a sustainability research org; homeowners-insurance industry (abandoned IoT devices = unpatched-attack-surface liability).</dd>
+      <dt>Expected opposition</dt>
+      <dd>AHAM (the named 2024 home-appliance opponent at <code>2024_…Recommendation.txt</code> line 5600 ff.); CTA (going-concern-precedent grounds); Joint Creators I on derivative-work theory (will reach for PlayStation/Aibo-style poison-pill examples); ACT | The App Association on developer-economics grounds. The user-intuition that opposition is minimal because exited vendors aren't at the table is <em>partly</em> right — but the trade associations of going-concern vendors will fight to block the precedent.</dd>
+      <dt>Record-building plan</dt>
+      <dd>Per-device technical exhibits showing (1) the TPM blocking redirection / continued operation; (2) circumvention feasibility; (3) <b>a feasible alternative service or community firmware</b> — this third showing is mandatory to defeat the Revolv-causation objection from 2018 Recommendation PDF p. 161 ("any adverse effect is the product of those policies or technical limitations, not section 1201"). Without (3), the Office finds §1201 isn't the but-for cause. Plus: federal-agency comments (DOJ Antitrust + FTC was quoted approvingly in 2024 at PDF p. 162); EPA endorsement (novel); state-AG joint letter.</dd>
+      <dt>Witnesses</dt>
+      <dd>Named-device user declarations (Revolv, Insteon, Wink, Spotify Car Thing, Fisker, Pebble owners) modeled on EFF's 2014 "John Doe" game-server appendix; technical witnesses for the firmware-TPM / content-TPM separation showing (avoid the console-piracy analogy); privacy researchers documenting un-patched abandoned-device telemetry harms (ties to credited §1201(i) purpose); Repair Association engineers with model-by-model failure inventories.</dd>
+      <dt>Threshold concerns</dt>
+      <dd>One class or four amendments? <b>Option A</b> (single new class) fights the "qualities of the work, not use" doctrine — but an end-of-support trigger is technically a <em>condition on circumstances of the work</em> rather than user purpose, so it's distinguishable from the four prior denial patterns (2000/2003/2006/2012). <b>Option B</b> (amend (b)(9)–(b)(12) by adding "or where manufacturer has ceased support" language to each) is procedurally safer but doesn't reach the abandoned devices that don't map cleanly to smartphone/TV/voice-assistant/router — and the Revolv/Wink/Insteon/Fisker cases don't fit those buckets. <b>Recommended hybrid:</b> propose ONE new class, with the work-qualities anchor being "computer programs that control the functioning of a [defined-category] consumer device" combined with the (b)(19)-style abandonment condition. Cite (b)(11), (b)(13), (b)(19) as three independent precedents for this composite framing.</dd>
+      <dt>Risk</dt>
+      <dd>Moderate-to-low for a narrow grant; high if drafted broadly. Main risks: (1) Revolv-style causation defeats if the technical exhibits are thin; (2) threshold doctrine if class is framed by user purpose rather than work qualities; (3) the modification verb fails without a §117-style cabin (2021 Recommendation PDF p. 209 invited proponents to "offer analogous language to cabin the scope" — that invitation has not been accepted on the record); (4) the six-month threshold becomes contestable outside the original video-game context.</dd>
+      <dt>Expected outcome</dt>
+      <dd>Plausibly the cleanest of the four ownership filings. The 2017 Study endorsement is directly on point; the (b)(19) trigger language is pre-adopted; (b)(11) provides the jailbreak / "removal of software" verb template. A narrowly drafted petition with strong per-device causation exhibits should win at least the core (announced-EOL devices + redirection-feasibility-shown). The modification verb is the contested edge — expect the cabin to be tightened on review.</dd>
+      <dt>Boundary</dt>
+      <dd>Distinct from the repair-track <a class="inline" href="2027-repair-proposals.html">Filing 3b abandoned-vendor sub-ask</a>: that filing is <em>repair</em> of abandoned-vendor <em>commercial/industrial</em> equipment (institutional user; verbs = diagnose / maintain / repair only; work = embedded software in industrial machines). This Filing 3 is <em>jailbreak/modify</em> of abandoned-vendor <em>consumer</em> devices (household user; verbs = the four listed above; work = embedded software in consumer-class devices). State both boundaries in each petition so the Office doesn't conflate them. The two are complementary, not redundant.</dd>
+    </dl>
+  </section>
+
+  <!-- Filing 4 — ACR removal -->
+  <section class="filing">
+    <div class="filing-head">
+      <h3><span class="number">Filing 4 ·</span> Smart-TV ACR Removal <span style="color: var(--muted); font-weight: 400; font-size: 14px;">(clarifying expansion of (b)(10))</span></h3>
+      <span class="confidence conf-medhigh">Confidence: Medium-high</span>
+    </div>
+    <p class="filing-summary"><strong>The minimum textual change that unambiguously authorizes owners to remove Automatic Content Recognition software from a Smart TV.</strong> ACR is the embedded surveillance module in Samsung/LG/Sony/Vizio/TCL/Hisense/Roku/Google TV / Fire TV that captures audio/video fingerprints of what you watch and sends them to the manufacturer and to ad networks (Inscape, Samba TV, Nielsen-Gracenote). The existing <code>(b)(10)</code> class is one missing clause away from covering this directly — that single clause is what this filing asks for.</p>
+    <dl class="grid">
+      <dt>Scope (proposed amendment to (b)(10))</dt>
+      <dd>Add the bracketed clause to the existing <code>§201.40(b)(10)</code>: <em>"Computer programs that enable smart televisions to execute lawfully obtained software applications, where circumvention is accomplished for the sole purpose of enabling interoperability of such applications with computer programs on the smart television, <b>[or to permit removal of software from the smart television,]</b> and is not accomplished for the purpose of gaining unauthorized access to other copyrighted works."</em> That bracketed phrase already appears verbatim in <code>(b)(9)</code> smartphones and <code>(b)(11)</code> voice assistants — this filing imports it into (b)(10). No new device definition needed; "smart television" already reaches set-top boxes (Roku / Apple TV / Chromecast) per the 2021 expansion.</dd>
+      <dt>Why now</dt>
+      <dd>FTC v. Vizio ($2.2M settlement in 2017) established the agency baseline that ACR data collection is a consumer-protection harm. The 2018 Acting Register expressly credited <em>privacy</em> as a fair-use enhancement when granting voice-assistant jailbreaking (2018 Recommendation PDF p. 173 n.1051) — that holding has never been applied to smart TVs because the original 2015 smart-TV record (carried by SFC) was framed around FLOSS-app installation, not software removal. The 2024 (b)(14) vehicle-data grant — supported by DOJ Antitrust and FTC — cracked open a "data access" purpose framing (2024 Recommendation PDF pp. 205–215). Post-<em>Warhol</em> / <em>Google v. Oracle</em> doctrinal weather (2024 Recommendation PDF pp. 40–41) is <em>more</em> favorable, not less. The 2027 cycle is the natural moment to close the (b)(10) gap. Existing prior research: <a class="inline" href="1201/Claude%20Reports/2026-05-19__Smart-TV-Jailbreaking-and-ACR-Removal.md"><code>1201/Claude Reports/2026-05-19__Smart-TV-Jailbreaking-and-ACR-Removal.md</code></a>.</dd>
+      <dt>Copyright posture</dt>
+      <dd>ACR is a copyrighted computer program (firmware module); the relevant TPMs are verified-boot / signed-firmware chains gating device control. The ACR-collected telemetry itself is not a copyrighted work — it's data. The §1201 vehicle is identical to standard jailbreaking analysis: functional firmware (factor 2 weak), de minimis modification (factor 3), no separate firmware market (factor 4), favored interoperability-plus-privacy purpose (factor 1).</dd>
+      <dt>Precedent</dt>
+      <dd>2024 <code>§201.40(b)(10)</code> smart-TV jailbreaking (the class being amended); 2024 <code>(b)(9)</code> smartphone and <code>(b)(11)</code> voice-assistant classes (both already carry the "or to permit removal of software" verb being borrowed). The crucial historical fact: <code>(b)(10)</code> has been interoperability-only since 2015 not because the Register declined the removal-of-software framing on the merits, but because SFC's original record framed the request around app installation. The asymmetry with (b)(9)/(b)(11) is <b>record-driven, not principled</b> — that gap is what this petition fills. The 2021 cycle added the "no unauthorized access to other works" carve-out; we keep it.</dd>
+      <dt>Coalition lead</dt>
+      <dd>FULU.</dd>
+      <dt>Co-leads</dt>
+      <dd>EFF (drafted the 2018 voice-assistant template; institutional memory of the privacy framing the Register credited); Software Freedom Conservancy (built the original 2015 smart-TV record; supplies firmware analysis); Consumer Reports (filed supporting comment in the 2021 jailbreaking renewal at 2021 Recommendation PDF p. 28 — bring the privacy / consumer record); EPIC (FTC-Vizio record and §1201(i) doctrinal analysis); state AGs that have brought ACR-related consumer-protection actions.</dd>
+      <dt>Endorsement targets</dt>
+      <dd>FTC Consumer Protection Bureau (Vizio-settlement principals) — repeat the 2024 (b)(14) DOJ/FTC playbook (2024 Recommendation PDF p. 215). The single most-valuable record move.</dd>
+      <dt>Expected opposition</dt>
+      <dd>Joint Creators II, RIAA, MPA, ESA, ACT | The App Association (the standard rightsholder coalition). New layer specific to this petition: <b>CTA</b> (Samsung/LG/Sony/Vizio/TCL/Hisense) and the <b>ACR-vendor coalition</b> — Inscape (Vizio subsidiary), Samba TV, Nielsen-Gracenote. ACR is now a multi-billion-dollar ad-targeting market and these vendors will fund a sophisticated opposition. Expect three opposition theories: (1) streaming-TPM / firmware-TPM entanglement (the 2018 RIAA argument, already rejected at PDF pp. 184–185 — they will retry); (2) §1201(i) already covers narrow ACR disabling so no rulemaking is needed (SFC's own 2021 statement at PDF p. 241 — <em>"17 USC § 1201(i) addresses such end-user mitigations and is the more appropriate focus of any proposed expansion"</em> — will be quoted against us); (3) bricking-risk and warranty/safety theater.</dd>
+      <dt>Record-building plan</dt>
+      <dd>(1) <b>Separate-TPM technical showing</b> — most important. Demonstrate that ACR runs in firmware-protected userland while Netflix / Disney+ / HBO use independent DRM (Widevine, PlayReady, FairPlay), unaffected by ACR removal. This was the swing point in 2018; it will be the swing point in 2027. (2) <b>Specific, granular activity list</b> — name the binary (e.g., <code>samsung-acr-daemon</code>), block these endpoints. The 2018 "enable/disable hardware features" half of EFF's petition died from lack of specificity (PDF p. 178) — do not repeat. (3) <b>Manufacturer-toggle inefficacy record</b> — Consumer Reports / academic testing showing that "opt-out" settings do not actually stop phone-home traffic. (4) <b>No-realistic-alternative record</b> — no TV ships ACR-disabled; Raspberry-Pi-style DIY is not a substitute (2018 HomePod analysis at PDF p. 178). (5) <b>FTC support letter</b>.</dd>
+      <dt>Witnesses</dt>
+      <dd>Seth Schoen (separate-TPM expert from the 2018 record); independent network-security researchers who have published ACR phone-home traces (Princeton, Northeastern Choffnes group); Consumer Reports' connected-TV testing team; EFF, EPIC; FTC Consumer Protection Bureau (Vizio-settlement principals); state AG offices with ACR-related actions.</dd>
+      <dt>Threshold concerns</dt>
+      <dd>Low. This is a "computer programs" class for a specifically defined device — not a use-defined class. The class-of-works definition is borrowed verbatim from an existing granted class. The only real threshold risk is opponents arguing the petition is really about <em>data collection</em> (not a copyrighted work) — answered by the standard "the TPM gates the firmware, the firmware is copyrighted, the noninfringing use is modification of that firmware" framing the Register has accepted since 2010.</dd>
+      <dt>Risk</dt>
+      <dd>Moderate. The fair-use case is strong; the §1201(a)(1)(C) case is strong on factors 1–3. <b>Factor 4 (piracy)</b> is the live risk: ACR opponents will assert that root access to TVs enables stream-ripping. The 2018 voice-assistant Register rejected the analogous argument on separate-TPM grounds; OEMs will argue smart TVs <em>are</em> the streaming endpoint in a way Alexa is not. The technical-separation exhibit must be airtight. Procedural risk: this is a fresh proceeding (a textual amendment to a renewed class), not a streamlined renewal — full record required.</dd>
+      <dt>Should this filing exist at all?</dt>
+      <dd>Yes — barely, but yes. A consumer with a competent lawyer probably already has cover under §1201(i) for narrowly-scoped ACR disabling (statutory PII-circumvention exception). SFC said as much in 2021 (PDF p. 241). But §1201(i)'s "sole effect" and "sole purpose" prongs are narrow and untested — they likely do <em>not</em> cover removing the entire ACR subsystem (which has non-PII functions too), nor do they cover toolmakers / researchers who want to publish a removal procedure. The rulemaking exemption is broader and supports an ecosystem; §1201(i) is a private defense. The filing also matters as a <em>doctrinal correction</em>: the 2015 omission of "removal of software" from the smart-TV class was a historical accident of SFC's framing, not a principled rejection. Leaving it uncorrected freezes that accident into perpetuity via streamlined renewal. 2027 is the natural moment to fix it.</dd>
+      <dt>Expected outcome</dt>
+      <dd>Likely grant with conditions. The minimal language change tracks two existing classes verbatim. The Register has a decade of consistent fair-use analysis to draw on. Most likely conditions: (a) the existing "no unauthorized access to other copyrighted works" carve-out (already in 2024 (b)(10)); (b) possibly a "separate subscription service" carve-out borrowed from <code>(b)(14)</code> (2024 Recommendation, vehicle data) — propose preemptively.</dd>
+    </dl>
+  </section>
+
+  <h2>Realistic outcome distribution</h2>
+  <div class="outcomes">
+    <table>
+      <thead><tr><th>Filing</th><th>Likely outcome</th></tr></thead>
+      <tbody>
+        <tr><td>1 · Home-Camera Footage Redirection</td><td><b>Partial grant.</b> Most likely modeled on the (b)(14) carve-out pattern — circumvention permitted for owner-generated audio/video data only, with "separate subscription service" and "not for unauthorized access" exclusions. Flat denial less likely than in 2018 because (b)(14) now exists.</td></tr>
+        <tr><td>2a · Smart-TV (b)(10) amendment ("or to permit removal of software")</td><td><b>Granted.</b> Small textual fix matching the verb already in (b)(9) and (b)(11). Plausibly grantable on a renewal-plus-narrow-expansion theory.</td></tr>
+        <tr><td>2b · Consumer-device ad-removal class (smart appliances, thermostats, etc.)</td><td><b>Denied.</b> The 2003 Class 9 unskippable-promotional-trailers denial and the threshold "by use" framing problem are both live. Use this filing to build the 2030 record. <em>Critical: file (2a) and (2b) as separate petitions so a (2b) denial does not contaminate the (2a) win.</em></td></tr>
+        <tr><td>3 · Abandoned-Vendor Consumer-Device Jailbreaking</td><td><b>Granted, narrowly.</b> Probably the cleanest filing in this portfolio — the 2017 Study endorsement is directly on point, (b)(19)'s trigger language is pre-adopted, and (b)(11)'s "removal of software" verb is template. Expect the Office to tighten the "modification" verb's cabin on review.</td></tr>
+        <tr><td>4 · Smart-TV ACR Removal (clarifying (b)(10))</td><td><b>Granted with conditions.</b> Minimum textual change tracking two existing classes verbatim. Expect "no unauthorized access to other copyrighted works" carve-out (already in (b)(10)) and a possible "separate subscription service" carve-out borrowed from (b)(14).</td></tr>
+      </tbody>
+    </table>
+    <p style="margin: 10px 0 0; font-size: 12.5px; color: var(--muted);"><b>Net new substantive grants: ~3 of 5 asks</b> (counting 2a/2b as separate). The 2a + 4 wins are doctrinally small but practically large — between them they restore the right to remove any software from any smart TV, ACR or otherwise. Filing 3 is the strategic centerpiece: it cleans up the abandoned-device gap that has been growing across the IoT product cycle since the 2014 Revolv shutdown. Filing 1 (camera footage) is the cycle's stretch goal, but the (b)(14) precedent makes it real. Filing 2b is the deliberate 2030 record-builder.</p>
+  </div>
+
+  <h2>Strategic notes from the record</h2>
+  <div class="callout">
+    <p><b>The ownership track is harder than the repair track.</b> The 2017 §1201 Study explicitly endorses repair-adjacent exemptions; it does not endorse "modification" in general. Several of these filings ask the Office to extend the jailbreaking-class precedent ((b)(9)–(b)(12)) into adjacent device categories. That extension is plausible but not automatic. The pattern that works: define the class by <em>device category + firmware properties</em>, borrow the "or to permit removal of software" verb and the "not for unauthorized access to other copyrighted works" carve-out from existing classes, and lead with privacy as a credited fair-use enhancement.</p>
+    <p><b>Privacy is the Office's preferred public-interest framing for jailbreaking expansions.</b> The 2018 Acting Register credited privacy as a fair-use enhancement when granting voice-assistant jailbreaking (PDF p. 173 n.1051). The 2024 (b)(14) vehicle-data class was supported by DOJ Antitrust and FTC on privacy and competition grounds (PDF p. 215). For Filings 1, 3, and 4, the privacy frame is more durable than the "consumer choice" frame or the "right to modify" frame.</p>
+    <p><b>The "removal of software" verb is the unsung hero of the jailbreaking-class family.</b> It appears in <code>(b)(9)</code> smartphones and <code>(b)(11)</code> voice assistants but <em>not</em> in <code>(b)(10)</code> smart TVs or <code>(b)(12)</code> routers — both of which are interoperability-only. That asymmetry is the entire reason ACR removal needs a separate filing. The 2015 SFC smart-TV record didn't ask for the removal-of-software verb; nobody has fixed the omission since; streamlined renewals carry the gap forward each cycle. Filing 4 is the closing entry on that decade-old typo.</p>
+    <p><b>The post-sale-modification hinge is the strongest factual distinction from 2003 Class 9.</b> The 2003 unskippable-trailers denial rested on (a) UOP held not to be a §1201(a) access control, (b) fast-forward re-enablement didn't require circumventing access controls, and (c) de minimis inconvenience (2003 Recommendation PDF pp. 109–115). The 2003 facts were studios baking ads into discs; this portfolio is manufacturers pushing ads onto devices via OTA <em>after the consumer purchased a device with no ads</em>. That distinction must be operative class text, not just brief language. If it's only in the brief, opposition will collapse it.</p>
+    <p><b>Round 1 comments (~Dec 2026) is the deadline that matters</b>, not the petition itself. Per-filing record-building plans above set the next 6 months of work. The two contested-but-winnable filings (3 and 4) deserve disproportionate witness investment; Filing 1's swing factor is the federal-agency endorsement; Filing 2 splits between an easy half (2a) and a deliberate-record-builder half (2b).</p>
+    <p><b>Treat the abandoned-vendor user community as a single coalition across both tracks.</b> The <a class="inline" href="2027-repair-proposals.html">repair-track Filing 3b abandoned-vendor sub-ask</a> and this track's Filing 3 share the same incident catalog and the same federal-agency endorsement strategy. Run them as a single record-building team with two outputs.</p>
+  </div>
+
+  <h2>Parking lot — smaller / not-yet-formalized candidates</h2>
+  <div class="parking">
+    <p style="margin-bottom: 12px;">Items that came up in scoping but are not in the four-filing list — either because they are plausibly already covered by an existing class, lack a coalition lead, or would dilute a more-focused filing. Worth a re-look before petitions are frozen.</p>
+
+    <div class="item">
+      <h4>Voice-assistant cloud-routing redirection</h4>
+      <p>Echo, Google Home, HomePod. Plausibly already covered by <code>(b)(11)</code> voice-assistant jailbreaking — the class already authorizes "removal of software" and the 2018 record credited privacy. A clarifying ask could add "redirection of voice-capture data to owner-chosen endpoints" but the existing class language probably already reaches it. <b>Recommendation:</b> stretch Filing 1's "home camera device" scope to include voice-assistant audio capture rather than file separately.</p>
+    </div>
+
+    <div class="item">
+      <h4>Smart-doorlock and access-control owner override</h4>
+      <p>August, Schlage, Yale connected locks. Cloud-server dependency for owner access; lockouts after subscription lapse. Plausibly already reached by <code>(b)(15)</code> consumer-device repair on the repair side, and by Filing 3 here on the abandonment side. <b>Recommendation:</b> include named incidents in Filing 3's record but do not file separately.</p>
+    </div>
+
+    <div class="item">
+      <h4>E-reader firmware modification (privacy / ad surfaces)</h4>
+      <p>Kindle on-device ads (the "Special Offers" tier) are pre-disclosed at sale and therefore not a post-sale hinge. Newer Kindle/Kobo/Nook firmware lockdowns around library / format support are repair-adjacent. Plausibly reached by <code>(b)(15)</code> consumer-device repair. <b>Recommendation:</b> not in scope for 2027.</p>
+    </div>
+
+    <div class="item">
+      <h4>Connected-vehicle ad surfaces and post-sale subscription</h4>
+      <p>BMW heated-seat-as-subscription saga; in-dash ad surfaces; remote-disable-on-payment-lapse. The vehicle-data class (b)(14) reaches some of this; (b)(13) reaches the modification side; neither cleanly reaches "disable the ad in the infotainment display." <b>Recommendation:</b> let the vehicle classes do this work in 2027; revisit in 2030 if the marketplace continues to evolve.</p>
+    </div>
+  </div>
+
+  <h2>Deferred to 2030</h2>
+  <div class="parking">
+    <p><b>"Modification" as a free-standing right untethered from device category.</b> The Office has consistently and explicitly resisted free-floating "modify your device" exemptions; only device-category-anchored modification has succeeded ((b)(9)–(b)(12), (b)(13), (b)(19)). A 2030 filing could test whether the accumulated weight of category-specific grants supports a general modification right, but 2027 is too early — every filing in this portfolio is anchored to a device category for that reason.</p>
+    <p style="margin-top: 10px;"><b>Standalone "post-sale device-feature removal by manufacturer" remedy.</b> When Filing 2b is denied, the residue is a clean record on a distinct harm: manufacturers unilaterally <em>removing</em> features the device shipped with (e.g., USB ports disabled in firmware, local-mode removed from a smart speaker, a camera region-locked after sale). A 2030 filing focused on feature-removal (rather than feature-addition like ads) is a separate ask with a cleaner copyright posture.</p>
+  </div>
+
+  <h2>Sources</h2>
+  <div class="parking">
+    <p>Primary sources are the cycle Final Rules and Registers' Recommendations under <code>1201/Final Rules/</code> and <code>1201/Reg Recommendation/</code>. Key citations referenced in this page:</p>
+    <ul style="margin: 8px 0 0; padding-left: 22px; font-size: 13px; color: var(--muted);">
+      <li>2018 Acting Register's Recommendation — privacy as fair-use enhancement (PDF p. 173 n.1051); voice-assistant separable-TPM analysis (PDF pp. 184–185); hardware-features specificity denial (PDF p. 178); Revolv-causation framing (PDF p. 161); §1201(f) overlap (PDF p. 179); peripheral-devices/<em>Lexmark</em> threshold doubt (PDF p. 215).</li>
+      <li>2024 Register's Recommendation — vehicle-data class with DOJ Antitrust + FTC support (PDF pp. 205–215); post-<em>Warhol</em> / <em>Google v. Oracle</em> analysis (PDF pp. 40–41); home-appliance AHAM opposition (line 5600 ff. of the .txt extraction); repair / useful-life-extension phrasing (PDF p. 162).</li>
+      <li>2024 codified text — <code>§201.40(b)(10)</code>, <code>(b)(11)</code>, <code>(b)(13)</code>, <code>(b)(14)</code>, <code>(b)(15)</code>, <code>(b)(19)</code> verified at <code>analysis/cycle-2024.json</code>.</li>
+      <li>2003 Recommendation Class 9 (unskippable promotional trailers) denial (PDF pp. 109–115); 2010 Recommendation recurring "unwanted material" category (PDF p. 43).</li>
+      <li>2017 §1201 Study endorsement of "obsolete access controls for continued functioning of a device" — <code>1201/Policy Studies/Section-1201-of-Title-17-2017/Full-Report.txt</code> PDF pp. 104–105.</li>
+      <li>Cross-cycle threads: <code>analysis/lineages.json</code> (Layer 2 of the data layer; see <code>AGENTS.md</code>).</li>
+      <li>Existing topic reports: <a class="inline" href="1201/Claude%20Reports/2026-05-19__Voice-Assistant-2018-Class-and-Lessons-for-ACR-and-Doorbell-Petitions.md"><code>2026-05-19__Voice-Assistant-2018-Class-and-Lessons-for-ACR-and-Doorbell-Petitions.md</code></a>; <a class="inline" href="1201/Claude%20Reports/2026-05-19__Smart-TV-Jailbreaking-and-ACR-Removal.md"><code>2026-05-19__Smart-TV-Jailbreaking-and-ACR-Removal.md</code></a>; <a class="inline" href="1201/Claude%20Reports/2026-05-19__Petitioning-Strategy-for-Smart-Appliance-End-of-Support.md"><code>2026-05-19__Petitioning-Strategy-for-Smart-Appliance-End-of-Support.md</code></a>; <a class="inline" href="1201/Claude%20Reports/2026-05-21__GE-Refrigerator-Water-Filter-Bounty-and-1201-Coverage.md"><code>2026-05-21__GE-Refrigerator-Water-Filter-Bounty-and-1201-Coverage.md</code></a>.</li>
+    </ul>
+  </div>
+
+  <footer>
+    <p><b>Not legal advice.</b> This page describes a forward-looking petitioning strategy grounded in the §1201 rulemaking record. The codified text in each Final Rule is the operative regulation. A petitioner should work with counsel before filing.</p>
+    <p>Source repository: <a href="https://github.com/kevin-fulu/1201-exemptions">kevin-fulu/1201-exemptions</a>. Underlying PDFs and text extractions live under <code>1201/</code>.</p>
+  </footer>
+
+</div>
+</body>
+</html>
